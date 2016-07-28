@@ -1,0 +1,983 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 1
+
+Transcription ICANN Helsinki
+Internet Service Providers and Connectivity Providers Constituency
+Monday, 27 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Rajesh Chharia:
+
+Hi. I'm Rajesh Chharia, President ISP Association of India and duly appointed
+Executive Consulate Secretary of APNIC. Welcome.
+
+Christian Dawson: I'm Christian Dawson. I am with the Internet Infrastructure Coalition.
+Malcolm Hutty:
+
+Malcolm Hutty, LINX, the London Internet Exchange with EurolSPA, for the
+Pan-European Association for Internet Services Providers in the EU and
+European economic area.
+
+Tony Holmes:
+
+Okay thank you very much. If we could just quickly go on in the back row that
+would be helpful if I could just ask you quickly.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 2
+
+(Joseph Alberg): Hello. My name is (Joseph Alberg) from Elisa Corporation, local Finnish ISP.
+(Careit Oala):
+
+(Careit Oala). I'm a Minister of Transport Communications.
+
+(Deplus Karfiet): (Deplus Karfiet) from domain in Europe.club. We are the users of your
+services.
+Tony Holmes:
+
+And we very much appreciate you. Thank you. Okay so to get into the
+agenda that's circulated we do have a couple of issues to pick up under AOB
+but we'll do that at the end. We'll need probably five minutes or so for that.
+Tony, sorry.
+
+Tony Harris:
+
+I'd like to present a motion that we congratulate Akinori on his election.
+
+((Crosstalk))
+Tony Holmes:
+
+And (unintelligible).
+
+Tony Harris:
+
+We've done that. We've done that Tony.
+
+Tony Holmes:
+
+Well I congratulate you then because I was late.
+
+Tony Holmes:
+
+Thank you. Okay so the first series of issues we have are around this
+meeting for ICANN 56. And a number of people were at the Workstream 2
+meeting on Sunday. So I'm going to open the floor up for comments because
+this is certainly going to come up as a discussion point as we go through the
+next few days. So if I could ask Alain perhaps and Olivier to bring us up to
+date with where we are now after the discussions on Sunday. Thank you.
+
+Alain Bidron:
+
+Thank you Tony. Yes there was a four day meeting yesterday on the
+Workstream 2 accountability, where a few from the SPA community attending
+this meeting. (Unintelligible) was a - Malcolm was here, Olivier and myself,
+maybe (unintelligible) was attending part of the meeting or the meeting I
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 3
+
+think. For those who don't know on accountability is a work positive
+(unintelligible) to stream or Workstream 1 which was dealing with
+accountability measures that had to be put in place before the (unintelligible)
+happened on the Workstream 2 dealing with actions that could wait until after
+the transition and be addressed after the transition or that was not necessary
+to implement a transition.
+So Workstream 1 was achieved in Marrakesh and Workstream 2 was
+prepared between Marrakesh in this meeting. And the meeting yesterday was
+the first (record) meeting of the Workstream 2. What will be changing and
+Workstream 2 in comparison with Workstream 1 regarding members and
+participants I don't see (unintelligible) and observers. There is no major
+change. We have members that were appointed to the working group by the
+community, the chartering organization. And my understanding is that people
+that were appointed will continue to follow this to be members of this working
+group. But wouldn't need to be a member to participate. You can participate
+as a participant. So in this thing you have to do is to feel a (unintelligible) of
+interest and register with the ICANN staff to able to purchase it to attend the
+meetings, to attend the conference call and to express your views.
+The only real difference between participant and members is the same than
+with Workstream 1. If we raise from all the votes only members has to vote.
+But we tried to reach consensus and it will not able to - something that was
+not needed in Workstream 1. Second different is that participants normally
+are that is funded, that traveling is funded, no members said traveling is
+funded. Participants traveling is not but otherwise there is no difference.
+So you can participate. Of course you can register and participate in this
+working group. And this is something very interesting in my view. What was
+addressed yesterday as the – is a pending proposal work what we need then
+to do. What was mentioned yesterday is the is the - is a new way of working.
+With Workstream 1 is a work that's really divided into different topics. Now it's
+different. Nine topics were identified and so where there will be some
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 4
+
+subgroup for addressing each of those nine topics. So topic diversity in
+human rights, jurisdiction, (unintelligible) manners, SO AC accountability,
+staff accountability, transparency, reviewing the CEP, CEP for Comparative
+Engagement Process. And my understanding this is a face to face
+negotiation before prior to an IRP process. So they will be reviewing that. And
+(unintelligible) for standard vote conduct. This is in nine topics. And each of
+those topics will be addressed in the specific working group.
+So is a request now to register as participant of each of those working groups
+or as an of observer. The difference between participant and observer of
+participant can post on the mailing list. Observer has no right to post on the
+mailing list as they receive the mailing list but don't post. So if you want to
+express a view you have to be registered as participant into a working group.
+What was discussed yesterday is a proposal to prioritize what Workstream 2
+topics into simpler lighter topics, intermediate topics and topics that lead take
+a long time to reach consensus. So there was a proposal. Even if a working
+group we will be working in parallel that it's is necessary to prioritize in order
+to save time.
+There was a suggested timeline. The plan is this month's during that meeting
+to agree on subgroups. But I think it's already agreed in my view. The first
+discussion with the CWG Workstream 2 will be in August 16. So we will be
+starting very quickly. On October the plan is to have - to agree for public input
+and to have a public input period, the first public input period between the
+20th of October and the 3rd of November in order for exhibiting thereabout to
+receive some first feedback. The plan is to analyze public comments in
+December 2016 to refine the proposal of the comments in January 2017 and
+to add the first reports in February 2017 for simpler issues or by mid-2017 at
+the latest. So the plan is finish its work, finish the work for working to around
+June 2017 but it could take longer.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 5
+
+What can I say? Yesterday it - there was also a way to brainstorm on the
+issues. And people were – some people are to provide some lightning talks.
+Lightning talks were short presentation made as a way to brainstorm and
+generate ideas. And it was a very interesting lightening talks specifically on
+diversity, on human rights and on (unintelligible) election. Among the nine
+teams that were selected I think there is one attracting is the most
+participants was (unintelligible) already resisted in the subgroup. And this is
+one diversity (unintelligible) and jurisdiction.
+So we are an early stage. And if you are interested please register. Please
+participate. It is pretty open.
+Tony Holmes:
+
+Thank you very much Alain. So open for comment Wolf-Ulrich.
+
+Wolf-Ulrich Knoben: Wolf-Ulrich speaking. Thanks Alain and the other members or participants
+of that group. So if you look at nine issues, nine working teams, sub teams
+normally you know nobody can cover that right? And so the question for me
+is from your point of view for the participants in Workstream 2 are you – do
+you have any recommendations or what is most interesting to our group? So
+for example SO AC accountability I think that there is one point I would say.
+But the others I'm not sure about it. Do we have any recommendations? So
+and then we could try to find out how to share that work. Thanks.
+Alain Bidron:
+
+Yes it's possible that some works. So if it won't be part – I want to dedicate
+some time to participate in these working groups. So we are to select the
+one. There is a way to select so one where you think you have some ideas to
+bring we are more (unintelligible). But also we have to select these working
+group with the idea to have enough participant in single working group. So
+even if your choice is diversity if you think you can bring some good idea for
+your other groups diversity is already very, very well. There is a lot of people
+having – expressing (unintelligible) as a group in diversity and human
+(unintelligible) relation. So if you can resist actual to one of the other groups it
+would be very, very much welcome.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 6
+
+(Unintelligible) ideas is that as ICP members we can cannot cover everything.
+But we can show the – bears the load and shares a load to try to see if we
+can cover the maximum of those working groups and share together to the
+ideas and inputs. So that's going to be an idea to be efficient.
+Myself I have already registered as a participant in diversity and jurisdiction. I
+know that it's Malcolm has also already registered in some working groups. I
+don't remember which one but…
+Malcolm Hutty:
+
+(Unintelligible).
+
+Alain Bidron:
+
+Yes Olivier also.
+
+Man:
+
+(Unintelligible).
+
+Alain Bidron:
+
+And I know so as what Wolf-Ulrich you have also registered in one or two
+working groups already.
+
+Wolf-Ulrich Knoben: Did I?
+Alain Bidron:
+
+I think so. I've seen your name. So it's okay. Does it respond to your question
+Wolf-Ulrich.
+
+Wolf-Ulrich Knoben: My question is so if you have - you are very much involved already so you
+have recommendations which course we – which issues we could put aside
+more or less, you know, because they may be not of so important interest to
+our group and others which are more of interest and which are not covered
+yet by anybody of us. So if that – if you could help us to find out, you know,
+then we can talk about, you know, how to cover the remaining months. We
+are still lacking people we want to hear from. Thanks.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 7
+
+Alain Bidron:
+
+There's a quick risk onto that because it really it – each - it is (unintelligible)
+as it's interesting. So I don't think there is a single group whereas as ASPs
+we are not interested at all.
+
+Tony Holmes:
+
+No I totally agree with that Alain and it's something we need to discuss
+because there is a need to have coordination and for us to track each of
+these working groups. And it's how we engage in – how we spread ourselves
+around. There's a bigger issue as well I think. And that is that we need to
+have some CSG coordination on this as well. So that has to be a topic for
+when we meet with them.
+One of the things I was going to pick up on under AOB but it's probably
+appropriate to mention it now is that we have the use of a pop up room facility
+as ISPs. It's on Wednesday and it's 9:15 to 10:15. We have another hour for
+ISP CP discussions. So I know it – there's an overlap on the agenda but
+wedging things into this particular schedule has proved difficult.
+One of the items that we need to discuss when we get together on
+Wednesday - and that meeting also is in Veranda 1 as I mentioned 9:15 to
+10:15 that should be part of our discussion at that meeting, how we're going
+to engage and go forward and what are the key things as well as I'm aware
+that Malcolm has certainly had some thoughts on some of the issues around
+that. I think we need to spend some time discussing that and get in some
+initial focus as to where we engage as a constituency and what are the key
+elements of the arguments that we need to put forward. So we should do that
+on Wednesday morning. Are there any particular comments at this stage on
+that point?
+Okay so if not I'm going to move on to the second item that was under this
+heading. And that is the CSG open meeting that takes place on Wednesday.
+It's in Hall B. Again it's quite a tight schedule. It's from 8 o'clock to 9:15. And
+there is a lot on the agenda for that meeting.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 8
+
+And just to run through what those issues are for people who may not be
+aware there's going to be some discussion about policy coordination and the
+three processes underway. I think that's where we can also raise a reference
+to this last discussion and how we coordinate on these particular issues that
+we've just discussed. We're also going to talk about how we move forward in
+terms of Workstream 2 coordination and transition across the piece. The
+second item is one that's been initiated that's been discussed a lot within this
+constituency and its auction proceeds. And I know Tony has shared some
+thoughts with us on that. Again we haven't had any real discussions on the
+detail around the work that's going on regarding auction proceeds at the CSG
+level. So that again is something that we need to feed some initial thinking
+into. I don't know whether you want to say anything on that now Tony just
+before we have that CSG meeting.
+Tony Holmes:
+
+Yes just to mention that we're actually - the procedure right now is part of the
+drafting team which is drawing up the terms of reference the charter for the
+working group which will be convened. And once the working group is
+convened they will actually begin to define the possible uses for these funds.
+We're talking about more than $200 million and of course there's a queue I
+think it extends from Finland back to Greece or something of people
+interested in using that very productively. So I t- that should be an interesting
+process. But right now we're just drafting the charter.
+
+Tony Holmes:
+
+Okay thanks. The third item on that agenda is what we've referred to as
+GNSO moving forward into the new era as well. And that's going to be quite a
+hot topic here because there is a proposal that basically came from the IPC
+initially. But it's going to be discussed in this meeting as to whether and how
+we can take it forward as a Commercial Stakeholder group which is a
+proposal about the creation of the GNSO ExCom. And there is a (fear)
+around that counsel currently is dealing with a lot of issues which aren't
+specific to gTLD policy a far wider range of issues. And maybe council isn't
+the best way to do that. There may be another way that the GNSO has to
+come together. I think there's a motion going into the council meeting on this
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 9
+
+issue as well for this meeting. So there'll be some discussion around that.
+We're also going to talk about the GNSO futures work which is something
+that's been running in the non-contracted party’s house basically chaired
+between (Rudy) and I, (Rudy) from the noncommercial side of our house.
+And there's a set in the agenda where we're going to have an NCPH focus
+section to bring people up to date where we are, what's happened in that
+group and where we go from the future. There will also be an opportunity to
+comment and make contributions that will shape the direction that that work
+actually goes in.
+And following on from that is a related discussion around the GNSO review
+that was undertaken. Where do we go with that now in terms of short term
+requirements and short term recommendations that come out of that and then
+the longer term recommendations as well?
+And then a final point on a very tight schedule is some discussion around the
+issue of the GAC liaison from the GNSO. Wolf-Ulrich is there anything you
+wanted to say on that? I don't know whether there's been any more thoughts
+or discussions since this ICANN meeting but that was an open issue when
+we arrived here.
+Wolf-Ulrich Knoben: Yes Tony, Wolf-Ulrich speaking. This is on the agenda also for council I
+think so because it's about the process on selecting the candidate for this
+liaison. You know, that was implemented I think two years ago to a liaison
+between GAC and a GNSO and Mason Cole with that job until now. So the
+first call for interest which was sent out in June or in May even I think so the
+evidence was not that much which was expected yes because - and there
+may be different reasons of that. So the outcome of all this discussion is right
+now that it was postponed until the annual general meeting of this year
+because then there will be a change of membership in different groups. And
+may be some people have then more time to apply for that job.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 10
+
+So that is decided while that's we – and a new liaison will take place from the
+AGM of this year. And the procedure well to find it out and do the criteria of
+that that is stipulate down during the next time. So it is under discussion. And
+I think so why it's on the agenda of this year's G is because well there is an
+interest of several stakeholder groups and the other constituencies also to
+maybe to nominate somebody from there. And this is – there was some
+discussion on how to do that and this is topic is on the agenda in order to
+coordinate a little bit on the CSG level. That's it so far.
+Tony Holmes:
+
+Okay. Thank you. Any questions from that? Everyone's aware of the issue
+around that. Okay the final thing I want to cover of the third point on this
+particular agenda item is that we'll also have a meeting on Wednesday
+between the Commercial Stakeholder Group and the contracted party’s
+house. Now this is quite unique because we've never had that meeting
+before. It's a long, long overdue. And we have three items that have been
+identified on that agenda.
+The first one is that about guiding the GNSO into the new era, the post
+transition and the issues that come out of that. And some of the focus of that
+will be on identifying the difference in the role of the GNSO and how we
+interact with that. It also relates back of course to the specific proposal about
+forming potentially a GNSO ExCom or some other type of means or way of
+actually facilitating a discussion on a bullet to set of issues rather than doing it
+through council. And I said yes there is no agreement on that. It's just an idea
+that's being spun out that is going to get a lot of attention here and there's
+going to be a lot of dialogue around that point. So it will be interesting when
+we actually meet with the contracted parties house to see if they share that
+sort of approach or even recognize that there is an issue there in exactly the
+same way.
+The last item that's on the agenda for that session and again just within now
+it's going to be difficult to I think to quickly cover some of these things but it's
+going to be around the proposal to send a letter to ICANN from the GNSO
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 11
+
+constituencies on the issue of public meetings and some of the issues that
+have arisen would be cancellation of now of the venues and what was the
+thinking behind that what is the strategy from ICANN, how did they come to
+make that decision. A draft of that letter has been circulated that's – I think it
+was drafted in by the BC. But it came about because initially there was
+thoughts that there should be questions asked around that from the
+contracted party’s house. Tony over to you.
+Tony Harris:
+
+I think I was part of similar letter sent by the Latin American community where
+average at having two meetings canceled in the region the same year. And
+basically as this letter does point out something which we said at that time.
+And that is that the meetings seem to be canceled without any consultation
+with organizations or stakeholders why should we live and work in the area?
+So I mean yes exactly. It was sort of a decision taken by ICANN without
+involving the stakeholders who are in the region or in the country involved
+which doesn't seem very logical because people who were living and working
+in the region are probably more aware of the risks and if they will exist or not.
+And this point was also raised in the BC letter. I just wanted to mention that.
+Thank you.
+
+Tony Holmes:
+
+Okay so that will be an interesting debate, I'm sure. Yes please?
+
+Man 2:
+
+(Unintelligible). To whom is the letter addressed?
+
+Tony Holmes:
+
+The – it's a draft letter at the moment and it would go to the ICANN board.
+
+Man 2:
+
+Can I suggest a better audience would be your – and I say that simply
+because the board doesn't actually engage in the location decisions or any of
+the factors that go into I think concerns that are being raised. The
+(unintelligible) employee looks at it from a financial standpoint ensures that
+the costs are in line with, you know, budget and with prior meetings and that
+due diligence was done on you know, sort of the economic component of it,
+not the location itself. So that's probably a better starting point is to send it to
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 12
+
+(Yuri). And then if that doesn't get resolved then certainly there's an appeal
+process there for, you know, to come back to the board to indicate you don't
+think (Yuri)'s doing his job.
+Tony Holmes:
+
+Thanks. I think it is an interesting issue as well because I assume that
+whatever comes out of that group has to be endorsed at board as a board will
+be - board agreement is that not correct?
+
+Man 2:
+
+You mean from a location decision, no. (Scott) makes the decision locations.
+The board simply looks at it like I said from a fiduciary standpoint.
+
+Tony Holmes:
+
+Malcolm?
+
+Malcolm Hutty:
+
+I think what is being asked for in this letter is there should be more policies to
+govern the choice on these matters and there should be more clarity about
+how those policies should be developed and about how they're implemented.
+That sounds like a board decision issued to me. It sounds like asking for the
+board to set a clearer framework for the staffs to implement. So to that - I
+mean if you were just simply asking the staff to do their work a bit differently
+then a letter to staff seems appropriate, more essentially appropriate. But
+given what's being asked for here it strikes me that it's a board issue.
+
+Man 2:
+
+Yes that adds a slightly different color to it and I would totally agree with you.
+If it's about why the decisions were made around specifically these two
+cancels that's a staff question I think should be – perhaps there's two
+sections right, one that's addressed to that and so there's a clear explanation.
+And then secondly like if there's a request to how to we change the process
+and is there a new way we want to do this and that – you're right, that would
+be a good board consideration.
+
+Tony Holmes:
+
+And I think the outcome of this is probably that it should be focused towards
+both of those entities as well is the right thing so we'll make sure that
+happens. Thanks.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 13
+
+Man 2:
+
+Well maybe it's addressed jointly.
+
+Tony Holmes:
+
+Yes. Yes I – points well taken. Thank you. Okay so we've managed to get
+through the agenda roughly in time so far as to where we are. And the next
+thing on this agenda is the ICANN accountability and the IANA stewardship
+transition. And of course after many, many hours of work and hard labor by
+the community which it has been an absolutely fantastic effort we managed to
+reach consensus on a proposal. That proposal was endorsed at board level.
+And we're very pleased I think to hear that it's also proved acceptable to
+NTIA. The issue as to where that goes now is somewhat open to debate still
+in the US more than anywhere else. So against that background I'll ask
+Christian to bring us up to date as to where we are from that perspective.
+
+Christian Dawson: Thank you very much. I appreciate it. I have spent a lot of time over the past
+month or so up on Capitol Hill trying to talk with many of the people in the US
+Senate and the House of Representatives about the work that we have done
+here and why it is good. So specifically Senator Ted Cruz and a
+congressman named (Sean Duffy) came up with this particular bill called the
+Protecting Internet Freedom Act and they're trying very hard to push the
+Protecting Internet Freedom Act. I think that some of you actually may have
+seen a video that Ted Cruz put out just a couple of days ago where he talked
+about how President Obama was giving the Internet away to Russia and
+China.
+Man:
+
+YouTube?
+
+Christian Dawson: I believe it is on YouTube but you can go see it. And that's the framing that
+their giving to the general public within the United States. Ultimately we have
+been doing a good deal of outreach to the community of jurisdiction in the
+Senate where this bill is first. That's Chairman Thune of the Committee on
+Commerce and ranking member Bill Nelson. And we've been talking to them
+about how they shouldn't bring this bill to a vote. We've been specifically
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 14
+
+talking to a number of congressmen about why they don't want to sign on to
+this particular piece of legislation in - on the House side. And we've made the
+case that especially to the congressmen that have good technical (butafides)
+that it will be a black guy for them if they go ahead and support this bill.
+The thing is that of any of the groups there in the US that have a good deal of
+influence the one that is pushing hardest is the Heritage Foundation. The
+Heritage Foundation has actually changed their position pretty dramatically
+from one in which they were fully opposed for transition to one in which they
+now say, "Let's wait. Let's give it two years. Let's see how this plays out and
+whether we can take the training wheels off in about two years." So they've
+gone from saying it's a bad idea to seeing - saying that it's an idea that just
+needs two years of delay.
+So we've been talking about the problems with delay to a lot of these
+congressional members and seeing whether – and trying to move them off
+that position. I spoke directly with a certain Texas legislator just a couple of
+days ago and he said I totally understand what it is you guys are doing. I
+totally understand why – how impressive it is that you have come to this
+nexus. But you have to understand I want to get reelected and this is a very
+big – I read this – be that catalyst. And the idea that we can move Obama off
+of this position is something that my constituents would love to see me
+support. I'm not saying I will but they would love to see me support. So you
+understand my position now. He has not taken a position this particular
+congressmen I talked to. But he told me face to face, "Here's what I'm up
+against, craven political machinations." So that's where we stand at the
+moment.
+At the end of the day I think that the Protecting Internet Freedom Act ends up
+moving forward it will be vetoed by President Obama. So I'm not sure how
+much we need to fight this battle except that we really want as clean a
+transition as we possibly can get. And the way that we do that is to not have
+to deal with this. So anyway that's my update at the moment.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 15
+
+Tony Holmes:
+
+Thanks Christian, craven political machinations? I think we've heard of that
+over the last few days a few times.
+
+Tony Harris:
+
+I have a question.
+
+Tony Holmes:
+
+Tony?
+
+Tony Harris:
+
+Did you talk to Frank Underwood?
+
+Christian Dawson: I did talk directly with Ted Cruz the staff. And that was interesting because
+they are extremely intelligent and they understand these issues so well. The
+what - the message that they're putting out there into the world is not the
+detailed nuance message that they actually understand. And that was an
+eye-opening to me to know that they actually have a very nuanced view of
+this.
+Tony Harris:
+
+I would love to hear more about that. Do we have time?
+
+Tony Holmes:
+
+We can allow a couple of minutes if you want to say more about that quickly if
+you…
+
+Christian Dawson: Sure.
+((Crosstalk))
+Tony Holmes:
+
+…you can say more.
+
+Christian Dawson: Sure. So when we sat down to talk to them and I expected to have this
+conversation that was focused on Obama's giving the Internet away to China
+and Russia. And no, it was on US ownership of .mil and .gov which is
+something that I believe will be addressed here at ICANN. It was they bylaw
+on human rights and how they think that that has the potential to force ICANN
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 16
+
+into a position through lawsuit to start to deal with content, domain level
+takedowns of content based on human rights issues. And there was a third.
+I'm going to need to refer to my notes but those were the ones we spent most
+of our time talking about their concerns around.
+Tony Holmes:
+
+Okay so I would suggest if people want to have any more detail around that
+you speak to Christian off-line. We do need to move on. And the reason I was
+able to allow a few more minutes for that was because I was actually taking
+Christian's time.
+And the next item is universal acceptance. This is something that's incredibly
+important for ISPs. And we need to engage a lot more I think as a group with
+the excellent work that's been going on in that group that Tony and Christian
+have been involved with. So Christian over to you. I know that there's a
+session running directly after this meeting I think on universal acceptance
+almost directly after. But if you can bring us up to date with where we are on
+that that would be excellent.
+
+Christian Dawson: Absolutely. I also sent a four page document around to the private list so you
+can get a more detailed view of exactly what it is we've been working on and
+the Universal Accepting Steering Group since Marrakesh. I will say I'm
+extremely excited that our Web site went live today. If you go to uasg.tech it
+is a collection of resources that we've started to develop for the universal
+acceptance community in order to basically marshal our resources and have
+people grab the things that they need to go and push them to the right places
+for people to make. So this is not to convince a layman what universal
+acceptance is. This is for volunteers and volunteer resources. So go to the
+uasg.tech and learn about what our latest volunteer resources are that you
+can take to your communities to push the goal of universal acceptance.
+We in addition to launching that Web site have in the past couple of months
+hired a PR firm to help us drive engagement at the CIO and CTO level. The
+biggest accomplishment that I think we've had -- and I'm going to read this
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 17
+
+directly from the sheet that I sent you -- is working on clarity of audience.
+Since we ultimately need to convince pretty much every coder in the world to
+make sure that their systems are up to speed accepting all modern TLDs
+that's a heavy left. Trying to figure out narrowly what our focus is and who we
+need to hit first has been a chore but one that we've been up to the task of.
+So it says as much as we love the ICANN community by and large is not who
+the UASG is trying to reach. Universal acceptance as an issue for
+applications that leverage the Internet. Our audience is people who could
+make this happen, developers and system architects and consultants and
+contracting firms, people who can direct this to happen for CIOs, people who
+can influence the staff and C-suite, board members, government officials,
+ministers, consultants, media industry influencers. That said we're still keen
+for the Internet industry registries registrars, ISPs and hosting providers to get
+their own systems UA ready.
+So the firm that we have contracted with is collaborating with us on
+messaging to CIOs and CTOs in Fortune 500 companies and specific
+individuals that we have put forward on a target list that we consider low-ish
+hanging fruit, basically people in technology companies that we can get to
+specifically see the merits of making their systems UA ready. In an effort to
+do that we've published our first ten documents. If you go to uasg.tech you
+can download our first ten documents which are now in a number of
+environment, UASG 001 002 and so on and so forth that detail various
+aspects, quick guides quick references and overview documents that will
+allow you to find the thing that you need to know about universal acceptance
+for the audience that you're trying to reach.
+There are two measurement projects underway. I know that (Mark) you're
+keenly interested in what it is we're doing to try and to measure the
+effectiveness of what it is we are doing. The first is to look at 25 browser and
+operating system combinations determine if they're UA ready. And the
+second is to look at determined list of hundreds of the largest Web sites to
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 18
+
+see how UA ready they are. Over 90% of our Web sites that have been
+tested so far except our ASCII new four character TLDs like they'll take it out
+photography. But less than 5% are Unicode at IDN based addresses. We're
+going to continue to provide quarterly updates on the things that we are
+measuring there to see how much of a change we're seeing in our
+established lists so to determine how effective we're being.
+In addition to that we've done some events. Tony did one, I did one. I guess
+we can briefly talk about what we've done with those. I did a universal
+acceptance session at M3AAWG. M3AAWG is the Messaging Malware and
+Mobile Anti-abuse Working Group. These are the people that spite - fight
+spam and malware. And I brought Ram Moham with me from Affilias who's
+also the chair of the Universal Acceptance Steering Group. We had an
+excellent engaged session with a lot of the people that I think could actually
+go in drive the universal acceptance to carry the flag and move it forward
+within their organizations many of which – many of whom are telcos and
+ISPs.
+Tony Harris:
+
+Just take a minute.
+
+Tony Holmes:
+
+Sure.
+
+Tony Harris:
+
+So I mean I'll be very brief.
+
+Tony Holmes:
+
+Thanks.
+
+Tony Harris:
+
+I did the other event that Christian mentioned Buenos Aires which was with a
+network that I covered by - but I didn't discover. Actually they came and
+called it my office. And it's amazing. It's a network of 6000 system managers,
+people who works in banks and companies. And every online and Internet
+and digital systems of all these organizations and companies.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 19
+
+And they had an event and Buenos Aries which we - ICANN sponsored. We
+gave out – this is a Spanish version of the Quick Guide for Universal
+Acceptance. I think Christian has this been put in English also do you know?
+Christian Dawson: Yes it is. So they'll probably be going that out in a meeting here. I'm not sure.
+And for me as a non-technical person to be waiting amongst all these tables
+loaded with these systems operators they were all doing exercises on
+different problems. And then we had some help from somebody from
+Microsoft who came over and gave a talk. And the big thing now will be the
+follow through with the whole network which will - I was going to bring this up
+in the universal acceptance meeting on what I think we should do with groups
+like this. They have groups like this all over the world by the way. Anyhow
+that was something which was pretty interesting.
+Tony Holmes:
+
+Okay thank you. It is as I said a really important issue for us. And I realize
+there's a clash with GNSO part two meeting. But I think as a constituency if
+we can spare spread ourselves around between those two meetings it would
+be particularly helpful. And Christian it sounded as though you've made great
+strides. And at this stage I should probably say thanks to both you and Tony
+for the work you have done in getting out to the community. But it sounds as
+though you've made great strides on the messages you need to get out there.
+And you've mentioned you've now got the PR firm engaged as well. But what
+about the measurements? The real crunchy part of this is making sure you
+get out to the people you need to and being able to measure how successful
+you are at getting those messages out there. And I know from the work we've
+done before in this constituency it's a really hard thing to do. So how are you
+actually going to measure that element of success to see that the work you've
+done is actually going to prove fruitful?
+
+Christian Dawson: So the two areas in which we've established measurements before and the
+things that I was trying to detail their one is we've got that established list of
+big Web sites and determining whether all of them - right now 90% of them
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 20
+
+meet our ASCII basically how we want them to behave for all ASCII TLDs.
+But only 5% of them behave in a way that we want them to behave with
+regards to IDN non-Latin character scripts. We're going to keep on monitoring
+that list of big Web sites basically as one measurement tool. And the other is
+specifically we now are going to have a list of groups, actual individuals who
+run actual infrastructure in actual companies. And they're going to basically
+maintain a list of touch points. And we're going to check in with them to see if
+they're converting.
+Tony Holmes:
+
+I think we're aware that things break at all levels in this environment if you're
+not careful. So do you feel that that's enough? I mean it is hid in the smaller
+guys that don't get involved in ICANN that probably have an awareness of
+gTLD evolution but they don't necessary have the - this whole process that
+will take them down the path of actually checking that their elements are
+going to stand up to the test…
+
+Christian Dawson: Yes.
+Tony Holmes:
+
+…that these put there. Do you feel that's enough or…
+
+Christian Dawson: I don't think any of the efforts that we're doing are enough. I think that we
+have identified the areas in which we can make the best substantive impact
+that current efforts allow. And we can significantly improve things by tackling
+the areas where we can most quickly solve the biggest problems. But the
+overall issue is going to linger for years.
+Tony Holmes:
+
+One final thing on this Tony?
+
+Tony Harris:
+
+Well I really enjoyed the question and I would add it's something I'm going to
+bring up in the, now in the Universal Acceptance Meeting. I think this has to
+be taken a lot broader which was something Tony was hinting at. We should
+call this updating the Internet and get attention, world attention. And then we
+should have a certification or universal acceptance compliant because if you
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 21
+
+have a certification everybody's going to pay attention and they want to –
+they're going to have want to have it. And this should also be extended to
+IPv6 which is in the same position.
+Basically we have two Internet critical resources IP numbers and domain
+names which are not being resolved uniformly across the community and the
+users which is insane. I mean everything on the Internet critical resources
+should work everywhere for everybody not just sort of, you know, be at
+different stages of I'm going to do it, I'm not going to do it. I know about it, I
+don't know about it. That's not good news. You've got Internet of Things
+coming down inside of everything. Everything's going to go digital. You have
+to get that thing in order. This is from a non-technical person speaking.
+Christian Dawson: One quick note it's funny you say that because the subject of the presentation
+that Ram and I gave in Philadelphia at M3AAWG it was not solely centered
+on universal acceptance. We paired it with IPv6 and DNS SEC and we called
+it Eating your Broccoli because many people don't want to go ahead and eat
+their vegetables but if they don't eat their vegetables they're not going to
+grow. And that's basically the analogy that we use. You need to do these
+things in order to grow.
+Tony Holmes:
+
+Thanks. I do feel pitching the message is so often the case all of this. It's
+been interesting the work we've done on GNSO futures. We spent some time
+looking at challenges for ICANN within that group and getting some feedback.
+And a lot of the feedback seem to come back about outreach. And a number
+of people there made the same point in different ways which was that when
+we go out to do outreach about ICANN we go out and we tell them how
+ICANN works. It's not the way to get people engaged. You need to tell them
+how it impacts them and what the issues that they need to think about that
+are being addressed through ICANN, completely different way of viewing
+things. And I think so some sort of challenges with universal acceptance.
+Anymore comments on this before we move on?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 22
+
+Okay and so it's really been an interesting session that follows and would
+certainly encourage people to go along to that participating in it – within it. So
+we're done now to ARB. I have one item on that particular agenda item. And
+that is to make people aware that a late proposal that came up was to hold a
+meeting later today at from 3:00 till 4;30. And the challenge is it's a pretty
+small room where this meeting's going to take place. But the invite went out
+to the SO AC list for the GNSO. And basically the meeting's going to talk
+about contractual compliance with a specific focus. And that focus is that
+what is in those contracts that we could look to ICANN to enforce that stop a
+lot of the bad things happening around the Internet so some of the issues
+around fraud and misrepresentation? How far does the contractual
+compliance obligations from registrars actually go? So the meeting is
+between the registrars and a couple of – a few representatives from the other
+constituencies so sites where it was suggested that we – each constituency
+could take up to three people along to that particular meeting. So I'd like to
+throw that open. It's something we need to engage in and ask who would be
+interested in coming along to that? (Christian), okay that would be good. Any
+other involvement that would help take that along from an ISP? (Mark)?
+Okay so what we'll do we'll go along to that meeting. And I mentioned we
+have this session now ISP session on Wednesday and we will report back
+during that meeting as to what happened this afternoon from that session. So
+we're almost at the end of the time that we have allotted for this meeting. I
+have one other issue to raise though and that is a question that's common on
+the list. And it's come in from (Shanader Hussein) who says so he has a
+simple question to ask us all. And that is how ISPCP members can benefit
+from ICANN's multi-stakeholder structure?
+So I have an answer from that but I'd like others also to think about that and
+to offer some feedback whilst we're live on that particular issue. Does anyone
+want to help answer that? So the question is how ISP members can benefit
+from the ICANN multi-stakeholder structure?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 23
+
+So I think part of the answer there is that so much what happens within
+ICANN has a direct impact back on ISP CPEs but they aren't ISP CP issues
+alone. So if we don't have the ability to have fled dialogue at the multistakeholder level with all the other partners involved no matter how it impacts
+and more to what you (unintelligible) then I think we lose something
+fundamentally important that gets the right answer for us as ISPs in our
+industry. And this environment actually facilitates that. You can do it through
+that multi-stakeholder participation. Does anybody else want to help give an
+answer back to get around that? (Jahanga) you're on that.
+So (Jahanga) you're welcome to follow-up with that. He says thank you for
+your comments in the chat. But if there's any more thinking around that I'm
+sure we would be all quite willing to have that conversation with (Jahanga)
+during one of our meetings. So thank you for the question. So with that I'll
+adjourn this meeting. There's other things following up quickly. Alain?
+Alain Bidron:
+
+Just (unintelligible) to Russia. You mentioned the agenda that is quite
+challenging with the universal exit plans most route in parallel with the GNSO
+one. So there's also a session coming in the same slot with the annual ASO
+open session. And it is also open to (unintelligible) for the ISP communities.
+So your frustration to have to show between universal acceptance ISO
+narrow open meeting and GNSO where we are located.
+
+Tony Holmes:
+
+That's a very valid point. And I think when we get to end of the next few days
+there is some sessions on the feedback as to how this meeting were. But
+there's been a lot of challenges around the schedule. And that was always
+going to occur. But we need to make that point during those feedback
+sessions that we absolutely struggle with some of the issues being run in
+parallel and to give examples of that. So we should certainly follow-up and do
+that. Wolf-Ulrich I thought you wanted the floor. Okay. Please Olivier?
+
+Olivier Muron:
+
+Thank you. I just wanted to make one announcement in this round and inform
+you about that I am also a representative in the Registry Stakeholder Group
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16.8:00 pm CT
+Confirmation # 8995681
+Page 24
+
+for the registry of .Hamburg. And first I wanted to make this transparent and
+on the other hand according to the bylaws I can only exercise my vote in one
+of the constituencies. So for the future I will exercise my voting rights in the
+Registry Stakeholder Group and I will put my vote in this group to my
+colleague (Lars Hoffman) who is also very active in the universal acceptance
+working group.
+So just for the records I think it's important to have this in the minutes and to
+inform you. Part of that I don't see any conflict of interest but just wanted to
+make this transparent and inform you about that - the voting rights will be to
+Lars. Thank you.
+Tony Holmes:
+
+Okay thank you for that and certainly that will be noted. I was just informed
+that we had two minutes to vacate the room and another meeting follows. I
+think we have no time at all now. So on that basis thank you everyone for
+participation and look forward to talking more with you across the next few
+days. Thank you.
+
+END
+
+

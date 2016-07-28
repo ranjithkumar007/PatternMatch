@@ -1,0 +1,1269 @@
+A	Uniform	Framework	of	Principles	and	
+Recommendations	for	Cross	
+Community	Working	Groups	(CCWG)	
+1.0	Introduction	
+	
+The	Cross	Community	Working	Group	(CCWG)	is	a	mechanism	to	allow	any	number	of	
+ICANN’s	Supporting	Organizations	(SOs)	and	Advisory	Committees	(ACs)	to	work	
+together	to	address	issues	that	are	of	common	interest	and	that	do	not	fall	within	the	
+sole	remit	of	one	SO	or	AC.	This	document	is	intended	to	provide	a	general	framework	
+for	the	establishment,	operations	and	closure	of	CCWGs.	The	framework	is	not	intended	
+to	be	a	set	of	rigid	binding	principles	to	be	followed	in	all	cases,	but	rather	is	a	collection	
+of	community-agreed	guidelines	that	will	frame	the	scope	of,	and	create	uniform	shared	
+principles	for,	future	CCWGs.	Nevertheless,	certain	principles	that	are	considered	
+fundamental	or	crucial	to	the	effective	functioning	of	a	CCWG	are	highlighted	as	such	in	
+the	text	that	follows.		
+	
+This	framework	draws	extensively	upon	lessons	learned	from	previous	CCWG	efforts	
+and	is	expected	to	serve	as	best	practices	for	future	CCWGs.	In	particular,	the	most	
+recent	community	experiences	in	relation	to	the	IANA	Stewardship	Transition	and	
+related	Enhancing	ICANN	Accountability	CCWGs	provided	substantial	guidance	for	the	
+development	of	this	framework.	In	reviewing	and	applying	this	framework,	however,	
+the	community	is	reminded	that	these	two	most	recent	cross	community	efforts	
+represent	the	exception,	rather	than	the	norm,	for	CCWGs	in	terms	of	their	subject	
+matter,	group	size	and	intensive	resource	usage.		
+	
+A	draft	CCWG	Charter	Template	can	be	found	in	Annex	A	of	this	document,	which	aims	
+to	translate	these	best	practices	into	a	potential	starting	point	for	future	drafting	teams	
+creating	charter	documents	for	future	CCWG	efforts.		
+	
+
+Fundamental	Concepts	
+	
+Based	on	analysis,	experience,	and	discussions	within	the	community	to	date,	a	CCWG	is	
+expected	to	have	the	following	basic	characteristics:	
+	
+• Two	or	more	Supporting	Organizations	or	Advisory	Committees	adopt	a	single	
+Charter,	and	are	hence	known	as	Chartering	Organizations.		
+
+	
+
+1	
+
+•
+•
+
+•
+•
+•
+
+•
+•
+•
+
+•
+
+•
+
+The	Charter	is	drafted	by	a	cross	community	drafting	team	comprising	
+participants	from	all	SO/ACs	that	have	indicated	interest	in	participating	in	the	
+CCWG.	
+In	drafting	the	proposed	CCWG	Charter,	the	drafting	team	is	expected	to	rely	on	
+the	principles	and	recommendations	contained	in	this	Framework	document	
+(including	the	draft	Charter	Template);	however,	the	drafting	team	and	the	
+Chartering	Organizations	should	also	have	the	flexibility	of	adapting	and	
+modifying	the	principles,	recommendations	and	template	provisions	to	suit	the	
+subject	matter	and	intended	outcomes	of	the	CCWG	in	question.	
+The	CCWG	(e.g.	members,	participants,	others)	is	expected	to	conduct	its	
+business	in	accordance	with	the	terms	and	within	the	scope	of	the	adopted	
+Charter.	
+Chartering	Organizations	each	appoint	members	according	to	their	own	rules	
+and	procedures,	including	the	need	to	provide	for	a	Statement	of	Interest	(SOI)	
+or	its	equivalent.		
+In	appointing	members	to	a	CCWG,	Chartering	Organizations	are	expected	to	
+consult	with	one	another	to	ensure	that	there	is	diversity	of	representation	to	
+the	extent	feasible	–	including	but	not	limited	to	geographical	region,	
+stakeholder	group	and	relevant	skill	sets	–	in	the	overall	CCWG	membership.	
+SO/AC	appointed	members	are	responsible	for	reporting	regularly	to	their	
+respective	Chartering	Organizations.	
+Any	differences	in	appointment	or	roles	of	Working	Group	members	and	
+participants	are	to	be	outlined	in	the	Charter.	
+The	deliverables	of	the	WG	are	submitted	to	all	the	Chartering	Organizations	for	
+adoption/approval/support/non-objection.	Following	this	step,	in	most	
+instances,	the	deliverables	are	then	submitted	to	the	ICANN	Board	for	its	
+consideration.		
+In	principle,	adoption/approval/support/non-objection	by	all	Chartering	
+Organizations	is	required	before	a	final	deliverable	is	deemed	to	be	the	CCWGapproved	output	or	deliverable.	In	adopting/approving/supporting	or	not	
+objecting	to	the	final	deliverable,	a	Chartering	Organization	shall	not	change	the	
+content.	If	it	objects	to	part	of	or	the	whole	final	deliverable	it	shall	notify	the	
+CCWG	and	the	other	Chartering	Organizations.	If	the	final	deliverable	of	the	
+CCWG	is	supposed	to	be	submitted	to	the	ICANN	Board	or	other	entities	it	may	
+only	be	submitted	if	it	fulfils	all	the	criteria	necessary	for	it	to	be	deemed	to	be	a	
+CCWG	approved	output.	
+Sufficient	opportunity	should	be	provided	for	those	SO/ACs	not	participating	as	
+Chartering	Organizations	as	well	as	others	to	provide	input	and/or	comment	on	
+draft	CCWG	deliverables.	
+
+	
+Additionally,	before	initiating	a	CCWG,	the	following	critical	points	need	to	be	
+considered:	
+1. Determine	whether	or	not	the	CCWG	is	the	best	mechanism	to	address	the	issue.		
+
+	
+
+2	
+
+Deleted: e.g.	of
+Comment [MW1]: FOR	DISCUSSION	IN	HELSINKI	
+
+2. If	yes,	determine	if	the	potential	Chartering	Organizations	are	able	to	adopt	a	
+shared	Charter	(e.g.,	if	the	topic	is	within	scope	of	the	organizations,	if	there	is	
+interest	in	the	topic,	etc.)	and	whether	sufficient	resources,	both	community	as	
+well	as	staff,	are	available	to	undertake	this	effort.	This	should	be	further	
+clarified	as	far	as	possible	during	the	Charter	drafting	phase,	during	which	
+questions	relating	to	any	anticipated	additional	budget	or	other	resources	
+needed	by	the	CCWG	should	also	be	discussed.	
+3. Consider	if	the	participating	organizations	believe	that	they	will	be	able	to	
+adopt/approve/support/not	object	to	CCWG	output	that	represents	the	
+consensus	of	the	CCWG.		
+4. Discuss	and	agree	on	the	circumstances	and	appropriate	contexts	in	which	the	
+CCWG’s	final	recommendations	need	to	be	submitted	to,	and	possibly	acted	on,	
+by	the	ICANN	Board.	Where	the	ICANN	Board	is	expected	to	take	action	on	a	
+CCWG’s	final	recommendations,	this	should	be	specified	in	the	final	CCWG	
+Charter,	and	the	CCWG’s	proposals	published	for	public	comment.	
+
+Comment [MW2]: FOR	DISCUSSION	IN	HELSINKI	
+
+Comment [MW3]: FOR	DISCUSSION	IN	HELSINKI	
+
+2.0	High	Level	Description	of	the	Cross	Community	Working	
+Group	(CCWG)	Life	Cycle	
+	
+The	process	flow	below	is	intended	to	show	the	entire	life	cycle,	based	on	recent	
+experiences,	of	a	CCWG	at	a	high	level.	Each	of	the	five	elements	of	the	life	cycle	is	
+discussed	individually	in	further	detail	in	Section	3.0:	
+	
+1. Initiation	of	CCWG	–	Two	or	more	Supporting	Organization(s)	and/or	Advisory	
+Committee(s)	make	a	determination	that	a	CCWG	is	the	proper	vehicle	to	resolve	
+the	issue	that	has	been	identified.	Some	of	the	questions	that	are	relevant	to	
+make	such	a	determination	are:	is	the	issue	within	the	scope	of	policy	
+development	for	a	specific	SO	or	within	the	specific	remit	of	an	SO/AC;	does	the	
+issue	cut	across	different	SO/ACs;	is	there	broad	community	interest	to	engage	
+on	this	topic;	whether	resolving	this	issue	will	have	a	substantial	budgetary	
+impact	and	are	there	sufficient	community	and	staff	resources	available	to	form	
+and	support	a	CCWG;	and	are	the	deliverables	intended	to	be	submitted	to	the	
+ICANN	Board	for	action/consideration.	It	is	important	to	note	that	a	CCWG	is	not	
+the	proper	vehicle	for	formal	policy	development	where	such	authority	has	been	
+granted	under	the	ICANN	Bylaws	to	a	specific	Supporting	Organization.		
+	
+2. Formation	of	CCWG	–	After	considering	the	questions	above	(including	that	
+there	is	interest	from	at	least	two	or	more	SO/ACs	to	move	forward	and	
+determining	that	a	CCWG	is	appropriate),	a	Drafting	Team	must	be	formed	to	
+develop	a	draft	Charter	for	consideration	by	the	SO/ACs	who	have	expressed	an	
+interest	to	participate	in	the	CCWG	as	Chartering	Organizations.	The	draft	
+Charter	is	expected	to	establish	the	scope	of	work,	working	methods	(including	
+
+	
+
+3	
+
+Comment [MW4]: FOR	DISCUSSION	IN	HELSINKI	
+
+Deleted: is	not	generally	considered	a	vehicle	for	policy	
+development	that	under	the	ICANN	Bylaws	is	the	role	of	a	
+particular	SO
+
+	
+
+	
+
+	
+
+	
+
+decision	making	methodology	and	the	definition	of	consensus)	and	Operating	
+Principles	for	the	CCWG.	Ideally,	the	Drafting	Team	is	kept	small	to	ensure	focus	
+and	should	contain	representatives	from	all	SO/ACs	that	have	expressed	an	
+interest	in	participating	in	the	CCWG,	as	those	are	the	SO/ACs	that	will	need	to	
+consider	and	ultimately	approve	the	CCWG	Charter.	Only	after	adoption	of	the	
+Charter	by	at	least	two	or	more	SOs/ACs	is	the	CCWG	created	and	the	SOs/ACs	
+who	adopted	the	Charter	deemed	to	be	its	Chartering	Organizations.	Each	SO/AC	
+adopts	the	Charter	using	its	own	processes.	The	Charter	will	typically	also	
+contain	information	on	participation,	e.g.	whether	the	CCWG	will,	in	addition	to	
+members	appointed	by	Chartering	Organizations,	include	other	participants	who	
+may	in	appropriate	cases	include	Board	and/or	staff	liaisons.	In	the	case	of	
+members	appointed	by	the	Chartering	Organizations,	volunteers	are	requested	
+and	appointed	according	to	the	rules	and	procedures	of	each	of	the	Chartering	
+Organizations.	A	Chair(s)	may	be	assigned	by	the	Chartering	Organizations	if	so	
+foreseen	by	the	Charter.	As	with	recent	CCWGs,	the	Charter	may	also	provide	
+that	each	of	the	Chartering	Organizations	has	the	option	to	appoint	a	co-chair	to	
+the	CCWG.		
+
+Deleted: would	
+Deleted: 	also
+
+3. Operation	of	CCWG	–	The	CCWG	will	operate	in	conformity	with	the	Operating	
+Principles	as	laid	out	in	its	Charter.	Following	the	formation	of	the	CCWG	and	
+appointment	of	a	Chair(s),	one	of	the	first	steps	is	typically	to	develop	a	work	
+plan	which	the	CCWG	will	subsequently	execute	to	produce	a	set	of	consensusbased	outputs.	This	work	plan	is	to	be	shared	with	the	Chartering	Organizations.	
+The	CCWG	work	will	normally	involve	conducting	CCWG	meetings	(generally	via	
+teleconference	or	using	other	online	tools),	drafting	reports,	producing	
+deliverables	in	accordance	with	the	work	plan	and	publishing	these	for	public	
+comment.	Furthermore,	the	CCWG	is	expected	to	provide	regular	updates	to	the	
+Chartering	Organizations,	which	may	happen	via	the	Chartering	Organizationappointed	members	to	the	CCWG.	Regular	updates	and	open	meetings	are	
+typically	also	held	during	ICANN	meetings.	Once	the	final		deliverables	are	
+agreed	upon	by	the	CCWG	in	accordance	with	the	decision-making	process	as	
+outlined	in	the	CCWG	Charter,	they	are	then	submitted	to	each	Chartering	
+Organization	for	approval/adoption/support/non-objection	(as	appropriate).	
+4. Decision	Making	by	a	CCWG	-	As	noted	elsewhere	in	this	framework,	the	
+decision	making	methodology	(including	the	definition	and	designation	of	
+“consensus”)	should	be	set	out	clearly	in	the	CCWG	Charter.	It	is	important	to	
+note	that	voting	and	final	decisions	are	to	be	taken	by	appointed	members	(not	
+observers	or	non-member	participants)	of	a	CCWG;	however,	CCWG	Chair(s)	
+should	have	the	flexibility	and	authority	to	obtain	the	views	of	non-member	
+participants	and	observers	in	the	process	of	reaching	consensus	on	particular	
+positions	and	proposals.	
+
+Comment [MW5]: FOR	DISCUSSION	IN	HELSINKI	
+Comment [MW6]: 	
+
+4	
+
+	
+	
+
+	
+
+5. Adoption	of	Final	Report	by	Chartering	Organizations	and	Closure	of	CCWG	–	
+The	Chartering	Organizations	will	review	the	outputs	from	the	CCWG	to	
+determine	if	these	can	be	approved,	adopted,	supported	and/or	not	objected	to	
+by	each	of	the	Chartering	Organizations,	in	accordance	with	their	own	rules	and	
+processes.	Only	after	these	decisions	by	the	Chartering	Organizations	have	been	
+made	can	further	steps	(e.g.	implementation,	submission	of	recommendations	
+to	the	Board,	providing	CCWG	input	into	other	processes,	etc.)	be	taken.	The	
+Charter	will	typically	note	that	the	Chartering	Organizations	will	agree	to	
+formally	close	the	CCWG	once	the	final	CCWG	outputs	have	been	formally	
+accepted	by	the	Chartering	Organizations	and	a	final	decision	as	to	any	action	
+necessary	as	a	result	(e.g.	forwarding	to	the	Board,	move	to	implementation,	
+etc.)	has	been	rendered.		
+	
+Alternative	1:	The	CCWG	may	close	once	the	Chartering	Organizations	have	
+taken	a	final	decision	that	the	final	CCWG	output	cannot	be	approved/supported,	
+with	the	co-chairs	of	the	CCWG	informed	accordingly.			
+	
+Alternative	2:	In	the	event	the	Chartering	Organizations	are	informed	by	the	
+Chair(s)	of	the	CCWG	that	the	CCWG	is	not	able	to	reach	a	consensus	position	on	
+a	key	deliverable,	the	Chartering	Organizations	may	close	the	CCWG.	
+	
+6. Post-Closure	of	CCWG	–	The	recommendations	from	the	CCWG,	if	adopted,	will	
+be	implemented	and	subsequently	monitored	against	the	success	criteria	
+identified	previously	by	the	CCWG	(if	any).	In	developing	such	criteria	and	in	
+finalizing	its	recommendations,	a	CCWG	is	strongly	encouraged	to	review	and,	if	
+appropriate,	adopt	the	Policy	&	Implementation	Principles	that	were	developed	
+by	the	GNSO	and	approved	by	the	ICANN	Board	in	2015,	to	the	extent	they	are	
+applicable.	In	addition,	if	a	CCWG	believes	in	the	course	of	developing	its	
+recommendations	that	it	will	be	necessary	for	the	CCWG	to	continue	to	be	
+involved	in	the	implementation	phase,	this	need	and,	if	possible,	the	specific	role	
+of	the	CCWG	in	implementation	should	be	spelled	out	in	the	CCWG’s	final	
+output,	and	accepted	by	all	its	Chartering	Organizations.	
+
+5	
+
+Comment [MW7]: FOR	DISCUSSION	IN	HELSINKI	
+
+	
+	
+	
+
+	
+
+	
+
+6	
+
+3.0	Detailed	Descriptions	of	the	CCWG	Life	Cycle	
+3.1	Initiation	of	Cross	Community	Working	Group	(CCWG)	
+	
+
+	
+
+1. Deciding	whether	or	not	a	CCWG	is	the	proper	mechanism	to	address	the	issue	
+at	hand	is	the	first	and	most	important	decision	to	make	in	the	CCWG	life	cycle.	
+The	formation	and	running	of	a	CCWG	requires	substantial	community	as	well	as	
+staff	resources,	so	due	consideration	needs	to	be	given	to	whether	such	a	
+mechanism	is	the	most	effective	and	efficient	means	to	achieve	the	desired	
+outcome.	A	CCWG	should	not	be	a	substitute	for	existing	mechanisms	that	can	
+be	used	to	address	the	problem(s)	identified,	including	processes	that	are	used	
+for	policy	development	work.	A	CCWG	is	intended	to	inform	and	enhance	or	
+supplement	policy	development	work,	and	may	precede	it,	but	does	not	replace	
+it.		
+	
+Questions	to	consider	at	this	stage	include:	
+o Is	the	issue	within	the	scope	of	policy	development	for	a	specific	SO	or	
+specific	remit	of	an	SO/AC?	If	so,	it	is	unsuitable	for	a	CCWG	unless	the	
+CCWG	is	specifically	intended	to	provide	input	to	the	applicable	SO/AC	
+where	there	is	no	existing	mechanism	(e.g.	AC	advice,	public	comment	
+forums)	for	such	input.	
+o Does	the	issue	cut	across	different	SO/ACs?	
+o Is	there	broad	community	interest	across	SO/ACs	to	engage	on	this	topic?	
+o Is	it	likely	that	resolving	the	issue	through	a	CCWG	will	have	a	substantial	
+budgetary	impact?	Are	there	sufficient	community	and	staff	resources	
+available	to	form	and	support	a	CCWG?	
+o What	is	the	expected	outcome?	Is	the	effort	expected	to	produce	
+recommendations	that	are	intended	to	be	submitted	to	the	ICANN	Board	
+for	action/consideration?		
+o What	other	alternatives	are	available	to	address	the	issue?	
+	
+2. The	SOs	and	ACs	that	are	making	a	determination	of	whether	or	not	to	use	a	
+CCWG	as	the	proper	vehicle	to	resolve	the	issue(s)	are	strongly	advised	to	
+provide	answers	to	these	questions,	and	perhaps	others,	prior	to	deciding	to	
+launch	the	process	of	forming	a	CCWG.		
+	
+3. To	allow	SO/ACs	to	properly	gauge	their	need	or	desire	to	participate	in	a	CCWG,	
+it	is	strongly	advised	that	before	making	a	determination	to	initiate	a	CCWG	all	
+relevant	parties	share	a	clear	understanding	of	the	issue(s)	at	hand,.	To	assist	in	
+making	this	determination,	elements	that	may	be	considered	include	(but	are	
+not	limited	to):	
+o A	preliminary	definition	of	the	issue,	which	may	include:	 	
+§ The	current,	or	previous,	situation	(i.e.,	status	quo)	
+§ The	specific	circumstances	that	may	have	led	to	the	issue	at	hand	
+7	
+
+Comment [MW8]: FOR	DISCUSSION	IN	HELSINKI	
+
+The	potential	consequences	arising	from	the	issue	if	not	
+addressed	
+§ Data	or	other	evidence	to	support	the	understanding	of	the	issue,	
+if	applicable	
+o A	preliminary	understanding	of	the	goals	and	objectives	of	the	CCWG.	
+o A	preliminary	understanding	of	the	expected	scope	of	work	for	the	
+potential	CCWG,	including	if	possible,	specific	questions	and	subjects	to	
+be	considered.	
+o A	preliminary	understanding	of	the	desired	outcome	(e.g.	
+recommendations	to	the	ICANN	Board).	
+The	interested	SO/ACs	may	request	a	staff	report	on	these	elements	at	this	
+stage,	to	assist	with	community	understanding	and	discussion	of	the	need	for	a	
+CCWG.		
+§
+
+	
+
+3.2.	Formation	of	Cross	Community	Working	Group	(CCWG)	
+	
+1. After	at	least	two	SO/ACs	deem	that	a	CCWG	is	the	appropriate	mechanism	to	
+address	the	identified	issue,	a	Drafting	Team	(DT)	is	formed	to	develop	a	draft	
+Charter	to	address	the	topic.	Ideally,	the	DT	is	kept	small	to	ensure	focus,	and	
+should	comprise	representatives	from	those	SO/ACs	that	have	expressed	an	
+interest	in	participating	in	the	CCWG.	Those	representatives	are	expected	to	
+consult	with	their	respective	organizations	on	a	regular	basis	to	ensure	that	the	
+draft	Charter	meets	the	expectations	of	the	Chartering	Organizations.	
+Alternatively	one	of	the	SO/ACs	may	develop	a	draft	Charter	to	be	used	as	a	
+basis	for	discussion	with	other	SO/ACs	as	to	whether	there	is	interest	in	the	
+formation	of	a	CCWG.	The	draft	Charter	may	then	be	adopted	or	used	by	the	DT	
+to	serve	as	a	starting	point	for	the	final	Charter.	
+	
+2. The	Charter	is	a	critically	important	document	that	establishes	the	guiding	
+principles	under	which	the	CCWG	will	operate	in	all	phases	of	its	life	cycle	in	
+addressing	the	identified	issue.	A	lot	of	experience	has	been	gained	through	
+recent	CCWG	efforts.	Based	on	that	experience,	elements	of	a	Charter	have	
+surfaced	that	have	proven	their	worth	and	can	be	considered	to	be	stable	and		
+standard	across	CCWGs.	As	such	it	is	strongly	advised	that	these	elements	be	
+included	in	a	Charter.	These	elements	include	the	concepts	and	language	around	
+the	CCWG	decision-making	methodologies	(internal	and	external)	and	
+participation	in	a	CCWG.	However,	it	should	be	noted	that	other	elements,	such	
+as	the	Problem	Statement,	Goals	&	Objectives	and	Scope,	will	have	to	be	
+customized	to	meet	the	specifics	of	each	CCWG	effort.	A	template	for	a	CCWG	
+charter	can	be	found	in	Annex	A	of	this	document.	Certain	key	elements	from	
+the	Charter	template	text	should	be	used	and	included	in	the	draft	Charter	for	
+future	CCWGs.	This	will	build	on	and	enhance	a	common	understanding	of	
+CCWGs,	promote	consistency,	and	streamline	the	Charter	drafting	process,	
+	
+
+8	
+
+Deleted: are	
+
+	
+3. Based	on	experience,	a	Charter	will	contain	a	number	of	sections,	which	are	
+expected	to	guide	the	CCWG	through	its	life	cycle.	The	sections	are:	
+	
+I.
+Section	I:	Cross	Community	Working	Group	Identification	–	This	section	
+contains	administrative	details	regarding	the	CCWG,	including	
+identification	of	the	Chartering	Organizations,	the	date(s)	they	approved	
+the	Charter,	and	links	to	relevant	CCWG	resources.	
+II.
+Section	II:	Problem	Statement,	Goals	&	Objectives,	and	Scope	–	This	
+section	focuses	on	describing	the	identified	issue	and	its	scope,	including	
+if	feasible	what	is	considered	‘out	of	scope’.	In	defining	the	scope	of	a	
+CCWG	it	is	strongly	recommended	that	questions	that	need	to	be	
+considered	in	order	to	address	the	issue,	and	the	expected	outcomes	
+from	the	effort,	be	included	expressly.	This	section	needs	to	be	
+customized	for	each	CCWG	effort.	
+III.
+Section	III:	Deliverables	and	Reporting	–	This	section	contains	details	
+related	to	the	anticipated	deliverables	of	the	CCWG	and	may	also	provide	
+preliminary	timeline	estimates	for	their	delivery.	The	section	will	also	
+contain	reporting	requirements	for	the	CCWG	(e.g.,	the	CCWG	Chair(s)	or	
+appointed	members	of	the	CCWG	reporting	to	Chartering	Organizations).	
+Where	it	is	expected	that	the	ICANN	Board	is	to	take	action	on	a	CCWG’s	
+final	recommendations,	this	should	be	specified	in	the	Charter.		
+IV.
+Membership,	Staffing,	and	Organization	–	This	section	provides	
+information	related	to	the	membership	structure	of	the	CCWG,	including	
+definitions	of	the	various	CCWG	member	types,	if	applicable.	If	Board	
+and/or	staff	liaisons	are	viewed	as	needed,	these	roles	should	be	
+specified	in	the	Charter.	The	section	will	also	include	details	related	to	
+ICANN	staff	support	and	expert	advisors,	if	applicable.	
+V.
+Rules	of	Engagement	–	This	section	provides	critical	information	related	
+to	the	operational	rules	and	procedures	of	the	CCWG,	both	internally	and	
+between	the	CCWG	and	its	Chartering	Organizations.	This	includes	
+decision-making	methodologies,	problem	escalation	and	resolution,	
+modification	of	the	Charter,	and	closure	of	the	CCWG.	See	also	the	next	
+section	3.3.		
+	
+4. Once	the	drafting	of	the	Charter	is	completed	(see	section	3.2	above)	it	is	
+submitted	to	all	participating	ICANN	SO/ACs	for	their	consideration.	Should	there	
+be	any	concerns	regarding	the	Charter	or	proposed	changes	to	the	draft	Charter,	
+these	should	be	communicated	to	the	DT	and	all	other	participating	SO/ACs	as	
+soon	as	possible	so	that	the	concerns	or	changes	can	be	addressed	expeditiously,	
+to	avoid	the	need	to	consider	the	draft	Charter	several	times.	Ideally,	any	major	
+issues	/	concerns	ought	to	have	been	addressed	by	the	DT	as	a	result	of	regular	
+communication	between	the	representatives	on	the	DT	and	their	respective	
+organizations).	In	order	for	the	CCWG	to	be	formed,	the	same	identical	Charter	
+	
+
+9	
+
+	
+
+must	be	adopted	by	at	least	two	SO/ACs	who	will	become	the	CCWG	Chartering	
+Organizations,	each	using	the	normal	adoption	process	for	that	organization.	If,	
+as	part	of	the	adoption	process,	a	SO	or	AC	does	not	intend	to	become	a	CCWG	
+Chartering	Organization	it	is	strongly	advised	that	the	organization	expressly	
+indicates	this	intention	to	the	other	SO/ACs,	so	as	to	ensure	that	all	relevant	
+SO/ACs	are	noted	as	having	considered	participation	in	the	CCWG.		
+	
+5. The	Charter	may	also	contain	information	on	modes	and	methods	of	
+participation,	e.g.	whether	in	addition	to	members,	who	are	appointed	by	
+Chartering	Organisations,	others	from	an	SO/AC	may	be	invited	as	“participants”	
+(see	Section	IV:	Membership	Criteria	and	Section	IV:	Group	Formation,	
+Dependencies,	and	Dissolution	from	the	charter	template	in	Annex	A	for	an	
+illustrative	example);	and	any	additional	topics	which	are	agreed	by	the	
+Chartering	Organizations	as	necessary	to	include	as	part	of	the	scope	of	work	for	
+the	CCWG,	e.g.	the	need	to	identify	specific	items	for	which,	and	the	process	to	
+be	followed	where,	additional	budget	or	staff	resources	are	required.	As	much	as	
+possible,	a	CCWG	should	follow	the	usual	annual	budget	request	process	used	by	
+ICANN,	in	consultation	with	ICANN	staff	and	(when	appropriate)	the	ICANN	
+Board.	It	should	be	noted,	however,	that	the	expectation	is	that	most	CCWGs	will	
+not	incur	or	need	additional	budget	or	staff	beyond	those	ordinarily	provided	to	
+other	ICANN	working	groups	chartered	by	an	ICANN	Supporting	Organization	or	
+Advisory	Committee.	
+
+Comment [MW9]: FOR	DISCUSSION	IN	HELSINKI	
+
+6. Volunteers	are	recruited	typically	through	the	launch	of	a	call	for	volunteers,	
+which	is	to	be	as	widely	distributed	as	possible.	Volunteers	may,	depending	on	
+the	Charter,	join	in	one	of	the	following,	different	roles:		
+I.
+Members.	Members	are	volunteers	who	are	appointed	by	a	Chartering	
+Organization	according	to	the	rules	and	procedures	of	that	Chartering	
+Organizations.	Reasonable	efforts	should	be	made	to	ensure	that	
+individual	members:	
+§
+§
+§
+§
+
+Have	sufficient	expertise	to	participate	in	the	CCWG	on	the	applicable	
+subject;	
+Commit	to	actively	participate	in	the	activities	of	the	CCWG	on	an	
+ongoing	and	long-term	basis;	
+Where	appropriate,	solicit	and	communicate	the	views	and	concerns	
+of	individuals	in	the	organization	that	appoints	them;	and	
+By	accepting	membership,	a	member	commits	to	abide	by	the	
+Charter	when	participating	in	the	CCWG.		
+
+Further,	each	Chartering	Organization	individually	and	in	consultation	with	the	
+other	Chartering	Organizations	is	expected	to	take	reasonable	efforts	to	ensure	
+that	the	final	membership	of	the	CCWG	is	sufficiently	diverse	to	the	extent	
+feasible	(including	but	not	limited	to	geographical	region,	stakeholder	
+	
+
+Deleted: Board	or	staff	liaisons
+
+10	
+
+Deleted: e.g.	as
+
+representation,	and	needed	skill	sets).	However,	care	should	be	taken	to	
+maintain	an	appropriate	balance	in	each	CCWG	as	between	
+diversity/representativeness	and	creating	a	CCWG	where	participation	is	so	
+numerous	as	to	hamper	efficient	operations.		
+Additional	requirements	may	be	included	in	the	Charter	with	respect	to	
+members;	for	example,	members	may	be	required	to	report	to	their	Chartering	
+Organizations	and	take	back	to	the	CCWG	views	from	their	Chartering	
+Organizations.	
+
+	
+	
+
+	
+
+II.
+
+Participants.	Participants	are	volunteers	from	the	community	who	are	
+not	appointed	by	a	Chartering	Organizations	but	who	nonetheless	are	
+able	to	actively	participate	in	and	attend	all	CCWG	meetings,	work	groups	
+and	sub-work	groups.	However,	should	there	be	a	need	for	a	consensus	
+call	or	decision,	such	consensus	call	or	decision	will	be	limited	to	CCWG	
+members	appointed	by	the	Chartering	Organizations.	By	accepting	
+participation,	a	participant	commits	to	abide	by	the	Charter	of	the	CCWG.		
+
+III.
+
+Observers.	Observers	are	subscribed	to	the	CCWG	mailing	list,	but	are	not	
+able	to	post	to	the	list	or	join	meetings.		
+
+IV.
+
+Board/Staff	Liaisons.	The	need	for	these,	and	the	scope	of	their	roles	
+(including	participation	in	the	CCWG	as	a	full	member),	should	be	
+considered	during	the	Charter	drafting	phase	and	specified	in	the	
+Charter.	
+		
+7. The	names	and	SO/AC	affiliation	(where	applicable)	of	all	volunteers	to	a	CCWG	
+should	be	listed	and	publicly	accessible.	All	volunteers	participating	in	the	CCWG	
+are	expected	to	submit	a	Statement	of	Interest	(SOI)	or	similar	statement,	
+following	the	procedures	of	their	Chartering	Organization.	Such	a	statement	
+should	at	a	minimum	include	the	name	of	the	participant,	the	SO	or	AC	of	
+affiliation,	and	any	relevant	external	affiliation.	A	Chartering	Organization	may	
+also	require	additional	information,	such	as	the	inclusion	of	particular	skills	or	
+areas	of	specific	interest	in	relation	to	the	issues	to	be	addressed	by	the	CCWG,	
+material	relationship	with	other	parties	affected	by	ICANN	and	primary	country	
+of	residence.	
+	
+8. A	Chair(s)	will	be	either	appointed	by	the	CCWG	or,	as	in	recent	CCWGs,	each	of	
+the	Chartering	Organizations	may	each	appoint	a	co-chair	to	the	CCWG.		
+
+11	
+
+	
+3.3	Operation	of	Cross	Community	Working	Group	(CCWG)	or	Rules	of	
+Engagement	
+	
+
+	
+
+	
+
+1. A	CCWG	is	expected	to	operate	in	accordance	with	its	Charter,	including	the	
+Rules	of	Engagement	specified	therein.	Some	of	the	relevant	elements	from	the	
+Charter	that	would	govern	this	phase	of	the	life	cycle	include:	
+	
+a. Process	for	amending	the	Charter	
+b. Regular	reporting	requirements,	including	but	not	limited	to	the	general	
+public	and	all	Chartering	Organizations	
+c. Rules	and	procedures	for	handling	feedback	from	Chartering	
+Organizations	
+d. Rules	and	procedures	for	decision	making,	including	what	constitutes	
+“consensus”	and,	if	appropriate,	establishing	approval	thresholds	as	well	
+as:	
+i. Handling	of	minority	positions,	and	
+ii. Escalation	of	disputes	
+e. Communication	methods	(e.g.,	email,	teleconferences,	face	to	face	
+sessions)	
+f. The	use	of	public	comment	periods	and	how	public	comments	received	
+will	be	handled		
+2. It	is	strongly	advised	that,	as	a	first	step,	the	CCWG	develops	its	own	internal	
+principles	of	operation	that	will	guide	the	CCWG’s	intended	operations,	for	
+example:	
+• Rotate	meetings	from	a	timing	perspective	to	share	the	burden,	as	members	
+and	participants	are	typically	located	in	different	time	zones	and	different	
+geographic	regions.	
+• Decisions	are	to	be	taken	only	after	two	readings	i.e.,	no	firm	decisions	are	
+made	following	discussion	at	a	single	meeting.	At	a	minimum,	those	who	
+were	not	present	at	the	meeting	should	be	offered	the	opportunity	to	
+provide	input	for	review	and	consideration	at	the	next	meeting.		
+• Members	are	expected	to	communicate	the	views	of	the	communities	that	
+have	appointed	them	to	the	CCWG,	and	also	to	communicate	the	
+information	and	deliberations	from	the	CCWG	back	to	their	respective	
+communities.	
+• Members	and	participants	are	expected	to	be	familiar	with	the	background	
+material	and	documents	that	are	developed	during	the	course	of	the	CCWG	
+work.	
+• If	such	principles	of	operation	are	developed	by	the	CCWG,	they	should	be	
+made	publicly	available.	
+	
+12	
+
+Comment [MW10]: FOR	DISCUSSION	IN	HELSINKI	
+
+	
+
+	
+
+3. It	is	strongly	advised	that	a	CCWG	should	develop	a	work	plan	(including,	where	
+feasible,	timelines	and	expected	outputs)	based	on	the	deliverables	outlined	in	
+the	Charter,	for	the	purpose	of	informing	the	community	and	Chartering	
+Organizations	of	progress	made	and	for	public	consultations.		
+	
+4. The	CCWG	will	subsequently	execute	its	work	plan	to	produce	its	set	of	
+consensus-based	outputs.	To	deliver	its	output,	the	CCWG	will	typically	conduct	
+CCWG	meetings,	draft	reports,	create	the	specified	deliverables,	and	publish	its	
+draft	reports	for	public	comment.		
+	
+5. In	developing	its	output,	work	plan	and	any	reports,	the	CCWG	shall	seek	to	act	
+by	consensus.	If	explicit	calls	for	consensus	are	made,	the	Chair(s)	should	always	
+make	best	efforts	to	involve	all	members.	Unless	otherwise	agreed	and	specified	
+in	the	Charter,	the	Chair(s)	shall	be	responsible	for	designating	each	position	as	
+having	one	of	the	following	designations:	
+	
+a) Full	Consensus	-	a	position	where	no	minority	disagrees;	identified	by	an	
+absence	of	objection	
+b) Consensus	–	a	position	where	a	small	minority	disagrees,	but	most	agree	
+		
+In	the	absence	of	Full	Consensus,	the	Chair(s)	should	allow	for	the	submission	of	
+minority	viewpoint(s)	and	these,	along	with	the	consensus	view,	shall	be	
+included	in	the	relevant	CCWG	output.	
+	
+In	a	rare	case,	the	Chair(s)	may	decide	that	the	use	of	a	poll	is	reasonable	to	
+assess	the	level	of	support	for	a	particular	proposal.	However,	care	should	be	
+taken	in	using	polls	that	they	do	not	become	votes,	as	there	are	often	
+disagreements	about	the	meanings	of	the	poll	questions	or	of	the	poll	results.	
+	
+In	the	event	the	Chair(s)	of	the	CCWG	have	to	designate	lack	of	consensus	(with	
+consensus	in	the	sense	as	defined	above)	on	a	key	deliverable,	the	Chair(s)	will	
+inform	the	Chartering	Organizations	accordingly.	The	Chartering	Organizations	
+may	then	decide	to	close	the	CCWG	or	take	other,	mitigating	measures	to	enable	
+the	CCWG	to	move	forward	with	its	work.		
+6. It	is	expected	that	a	CCWG	will	produce	a	set	of	draft	consensus-based	outputs,	
+which	except	in	extraordinary	circumstances	are	to	be	published	for	public	
+comment.	It	is	recommended	that	a	CCWG’s	Charter	specifies	the	nature	of	the	
+outputs	that	are	expected	to	the	extent	this	is	feasible.	The	Charter	should	also	
+make	it	clear	whether	the	ICANN	Board	is	expected	to	act	on	a	CCWG’s	final	
+recommendations,	in	which	case	the	CCWG’s	proposals	must	be	published	for	
+public	comment.	Upon	the	close	of	a	public	comment	period,	a	CCWG	is	
+expected	to	review	and	analyse	all	pubic	comments	received	and	publish	a	
+summary	and	analysis	document.	Following	this	review	and	analysis	the	initial	
+13	
+
+Comment [MW11]: FOR	DISCUSSION	IN	HELSINKI	–	
+but	note	that	the	group’s	recent	discussions	indicate	
+that	it	does	not	believe	the	current	formulation	needs	
+to	change	or	be	further	added	to.	
+
+	
+
+outputs	may	need	to	be	revised	taking	into	account	the	relevant	public	
+comments.	In	some	cases	more	than	one	round	of	public	comments	may	be	
+necessary.	
+	
+7. The	CCWG	should	seek	to	produce	a	set	of	final	consensus-based	outputs,	which	
+are	then	submitted	to	each	Chartering	Organization	for	
+approval/adoption/support/non-objection.	See	Section	III:	Deliverables	and	
+Section	III:	Decision-Making	Methodologies	from	the	charter	template	in	Annex	
+A	for	further	context.	
+
+3.4	Decision-Making	and	Closure	of	Cross	Community	Working	Group	(CCWG)	
+		
+[NOTE:	Additional	consideration	needs	to	be	given	to	the	role	of	
+participants/observers/liaisons	vs	members	in	reaching	consensus]	
+	
+1. The	CCWG’s	outputs	are	to	be	sent	to	all	Chartering	Organizations	at	the	same	
+time	for	their	review	and	deliberations.	Chartering	Organizations	may	seek	
+additional	information	from	the	CCWG	if	necessary.	Each	Chartering	
+Organization	will	review	the	outputs	from	the	CCWG	in	accordance	with	its	own	
+rules	and	procedures	to	determine	whether	the	output	can	be	
+approved/adopted/supported	or,	at	a	minimum,	not	objected	to,	whatever	is	
+considered	to	be	most	appropriate	by	the	Chartering	Organization.	Unless	the	
+CCWG’s	Charter	specifies	otherwise,	the	default	expectation	is	that	all	the	
+Chartering	Organizations	will	at	a	minimum	not	object	to	the	CCWG	final	
+deliverable.	However,	if	this	is	not	possible,	the	output	must	be	returned	to	the	
+CCWG	for	possible	revision,	taking	into	account	input	from	all	the	Chartering	
+Organizations.	The	resulting	decision	as	to	whether	to	make	any	changes	to	its	
+initial	output	is	to	be	made	solely	by	the	CCWG.	The	amended	output	(if	any)	is	
+to	be	sent	to	all	the	Chartering	Organizations	for	their	review	and	
+approval/adoption/support/non-objection,	each	in	accordance	with	its	own	rules	
+and	procedures.		
+	
+2. Unless	the	CCWG’s	Charter	provides	otherwise,	further	steps	(e.g.	
+implementation,	submission	of	recommendations,	providing	input	into	other	
+processes,	etc.),	if	proposed,	can	be	taken	only	after	adoption	of	the	outputs	by	
+the	Chartering	Organizations	or	the	ICANN	Board,	as	appropriate.	The	Chartering	
+Organizations	will	typically	agree	to	formally	close	the	CCWG	once	the	final	
+CCWG	outputs	have	been	formally	accepted	by	the	Chartering	Organizations	and	
+a	final	decision	as	to	any	action	necessary	as	a	result	(e.g.	forwarding	to	the	
+Board,	move	to	implementation,	etc.)	has	been	rendered.		
+	
+Alternative	1	for	Closure:	The	CCWG	may	close	once	the	Chartering	Organizations	
+have	taken	a	final	decision	that	the	final	CCWG	output	cannot	be	
+	
+
+14	
+
+Comment [MW12]: FOR	DISCUSSION	IN	HELSINKI	–	
+but	as	noted	above,	the	group	does	not	believe	the	
+actual	definition	needs	improvement.	Discussion	
+could	focus	here	on	the	role	of	Board	liaisons	in	
+consensus	calls.	
+
+approved/supported.	The	Chair(s)	of	the	CCWG	should	be	informed	accordingly.	
+See	Section	V	–	Closure	&	Working	Group	Self	Assessment	from	the	charter	
+template	in	Annex	A	for	further	context	related	to	closure.	
+	
+Alternative	2	for	Closure:	In	the	event	the	Chartering	Organizations	are	informed	
+by	the	Chair(s)	of	the	CCWG	that	the	CCWG	is	not	able	to	reach	a	consensus	
+position	on	a	key	deliverable,	the	Chartering	Organizations	may	close	the	CCWG	
+(See	section	3.3	4	above).		
+	
+
+3.5.	Post-Closure	of	Cross	Community	Working	Group	(CCWG)	
+	
+Note:	The	implementation	and	post-implementation	phases	of	a	CCWG	are	the	ones	
+with	the	least	amount	of	community	experience	to	draw	upon	for	lessons	learned.	As	a	
+result,	the	section	below	is	presented	as	a	“straw	man"	proposal	for	community	
+feedback.	It	is	based	on	the	mechanisms	currently	used	by	the	GNSO	for	policy	
+development.		
+	
+1. If	there	are	recommendations	to	implement	from	the	final	CCWG	outputs,	an	
+Implementation	Review	Team	(IRT)	will	be	formed	comprised,	at	minimum,	of	
+ICANN	staff	and	volunteers	from	each	of	the	Chartering	Organizations.	
+Recommendations	should	be	implemented	collaboratively	and	iteratively	to	
+ensure	that	the	implementation	matches	the	CCWG’s	intent.	Except	in	
+extraordinary	circumstances,	the	proposed	implementation	plan	should	be	
+published	for	public	comment.	
+	
+2. The	IRT	should	establish	baseline	data	and	metrics	for	post-implementation	
+measurement	against	identified	success	criteria	(ideally,	these	criteria	should	
+have	been	defined	by	the	CCWG),	if	such	data	and	metrics	have	not	previously	
+been	generated	by	the	CCWG.	
+	
+3. The	adopted	CCWG	recommendations	will	be	implemented	and	subsequently	
+monitored	against	the	success	criteria	(identified	previously).	
+	
+4. Once	baseline	data	and	metrics	are	captured	and	recommendations	are	
+implemented,	the	implementation	should	be	evaluated	after	a	reasonable	
+amount	of	time	to	determine	if	the	recommendations	have	met	the	relevant	
+success	criteria.	Further	actions	may	be	identified	as	needed,	if	the	results	
+significantly	miss	the	definitions	of	success.	
+	
+In	developing	success	criteria	(if	any)	for	implementation	and	in	finalizing	its	
+recommendations,	a	CCWG	is	strongly	encouraged	to	review	and,	if	appropriate,	adopt	
+the	Policy	&	Implementation	Principles	that	were	developed	by	the	GNSO	and	approved	
+by	the	ICANN	Board	in	2015,	to	the	extent	they	are	applicable.	In	addition,	if	a	CCWG	
+	
+
+15	
+
+Comment [MW13]: FOR	FURTHER	DISCUSSION	IN	
+HELSINKI	
+
+believes	in	the	course	of	developing	its	recommendations	that	it	will	be	necessary	for	
+the	CCWG	to	continue	to	be	involved	in	the	implementation	phase,	this	need	and,	if	
+possible,	the	specific	role	of	the	CCWG	in	implementation	should	be	spelled	out	in	the	
+CCWG’s	final	output,	and	accepted	by	all	its	Chartering	Organizations.	
+	
+Because	of	the	potential	resource	impact	(on	community	and	staff)	of	keeping	a	CCWG	
+in	operation	following	formal	acceptance	of	its	final	recommendations,	in	cases	where	
+the	Chartering	Organizations	support	such	a	continuation,	in	accepting	a	
+recommendation	that	a	CCWG	continues	to	remain	open	for	and	during	
+implementation,	the	Chartering	Organizations	should	also	specify	(as	far	as	is	feasible)	a	
+timeline	and	task	list	for	the	CCWG	during	the	implementation	phase.	
+	
+	
+
+	
+
+16	
+
+4.0	Conclusions	
+	
+CCWGs	are	a	relatively	new	phenomenon	within	the	ICANN	community,	but	they	are	
+becoming	a	mechanism	that	is	being	utilized	more	and	more	frequently	to	resolve	issues	
+of	mutual	interest	to	ICANN’s	Supporting	Organizations	and	Advisory	Committees.	To	
+date,	there	have	been	no	formalized	processes	or	procedures	established	to	govern	the	
+operations	of	CCWGs,	and	while	this	Framework	is	intended	to	provide	guidance,	it	is	
+not	intended	to	be	prescriptive.	It	is	intended	to	function	as	a	living	document,	to	be	
+improved	as	lessons	continue	to	be	learned.	To	that	end,	it	is	recommended	that	the	
+principles	and	recommendations	contained	in	this	Framework	should	be	reviewed	either	
+three	(3)	years	after	its	adoption	by	the	community,	or	after	three	CCWGs	have	
+completed	their	work,	whichever	first	occurs.	
+	
+In	the	Draft	Framework	that	was	published	for	public	comment	in	February	2016,	
+several	open	questions	were	identified	for	which	community	input	was	sought.	The	
+following	are	the	non-exhaustive	list	of	open	questions:	
+	
+• Should	there	be	a	requirement	that	all	CCWG	recommendations	must	be	
+considered	by	the	ICANN	Board,	if	minimum	requirements	are	met	(similar	to	
+the	GNSO	Policy	Development	Process?	
+o CCWG	response:	This	should	be	discussed	and	determined	during	the	
+Charter	drafting	phase.	If	the	anticipated	outputs	will:	(i)	impact	SO	policy	
+development	processes;	(ii)	require	implementation	by	ICANN	(e.g.	
+similar	in	scope	to	implementation	of	a	GNSO	policy);	(iii)	result	in	
+possible	Bylaw	changes);	or	(iv)	otherwise	trigger	action	by	the	Board,	the	
+Charter	and	the	CCWG’s	Final	Report	should	make	clear	that	the	final	
+recommendations	will	require	Board	consideration.	In	these	cases,	
+additional	considerations	such	as	the	need	for	and	nature	of	Board	
+involvement	in	the	CCWG	will	also	need	to	be	discussed	prior	to	
+chartering	the	CCWG.	As	noted	above,	a	CCWG	is	not	the	proper	vehicle	
+for	policy	development	work	and	does	not	replace	the	policy	
+development	process.		
+• Should	more	formalized	Operating	Procedures	be	developed	for	CCWGs?	
+o CCWG	response:	It	should	be	up	to	each	DT	and	the	Chartering	
+Organizations	for	a	new	CCWG	to	determine	whether	new	or	more	
+formal	procedures	in	addition	to	the	principles	outlined	in	this	
+Framework	are	necessary.	During	the	recommended	3-year	review	cycle	
+of	this	Framework,	any	such	additional	procedures	that	may	have	been	
+adopted	by	new	CCWGs	can	be	considered	for	inclusion	in	an	updated	
+Framework.	
+• Should	additional	mechanisms	be	developed	to	deal	with	situations	in	which	
+Chartering	Organizations	may	disagree	or	want	to	discontinue	their	
+engagement?		
+
+	
+
+17	
+
+Comment [MW14]: This	section	will	be	rewritten	in	
+the	Final	Framework,	to	incorporate	the	final	resolution	
+of	each	question	into	the	main	text.	
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+	
+
+	
+
+	
+
+o CCWG	response:	Unless	further	community	discussion	at	ICANN56	shows	
+community	agreement	otherwise,	the	CCWG	believes	that	it	should	be	up	
+to	each	DT	and	the	Chartering	Organizations	for	a	new	CCWG	to	specify	
+any	criteria	or	conditions	that	would	apply	to	this	situation.	
+Should	there	be	a	mechanism	to	close	a	CCWG	if	it	is	clear	that	it	will	not	be	
+possible	to	produce	a	final	report	or	that	circumstances	have	overtaken	the	need	
+for	a	CCWG?	(See	Section	3.3.4	and	3.4.2	above)	
+o CCWG	response:	Either	Alternative	1	or	2	as	described	in	Section	3.4.2	
+should	be	adopted.	In	cases	where	a	Chartering	Organization	believes	
+that	circumstances	have	overtaken	the	need	to	continue	with	a	CCWG,	it	
+should	notify	the	other	Chartering	Organizations	to	begin	a	discussion	
+over	closing	the	CCWG.	
+For	implementation	and	post-implementation	of	the	CCWG	output,	what	should	
+be	the	role	of	the	CCWG?	Should	the	Charter	template	be	expanded	to	include	
+these	details?	How	would	the	process	be	initiated?	
+o The	CCWG	will	be	seeking	further	community	input	on	this	at	ICANN56,	
+and	will	update	its	response	and	resolution	of	this	question	after	the	
+meeting.	
+As	the	appointment	mechanism	for	members	varies	across	SO/ACs,	how	can	
+CCWG	leadership	and	support	staff	be	kept	informed	of	appointments	and	
+changes?	
+o CCWG	response:	This	should	be	part	of	the	reporting	requirement	in	a	
+CCWG’s	Charter.	
+Are	uniform	Statements	of	Interest,	or	something	similar,	beneficial	to	the	CCWG	
+process?	(See	section	3.2.7	above)	
+o CCWG	response:	At	minimum,	CCWG	participants	should	provide	a	
+statement	listing	their	SO/AC	affiliation	(if	participating	as	members)	and	
+relevant	expertise,	skills	and	interest	in	the	subject	matter.	More	broadly,	
+a	CCWG	should	consider	including	accountability	mechanisms	such	as	
+verification	of	participation	statements	where	feasible.	
+Should	specific	requirements	be	listed	for	the	appointment	of	members?	
+o CCWG	response:	This	should	be	determined	by	each	DT	and	the	
+Chartering	Organizations	for	a	new	CCWG.	However,	the	CCWG’s	
+recommendations	relating	to	diversity	of	membership	should	be	
+considered	in	every	CCWG.	
+Who	launches	a	call	for	volunteers/participants?		
+o CCWG	response:	Unless	a	DT	and	the	Chartering	Organizations	for	a	new	
+CCWG	have	determined	otherwise,	this	should	ordinarily	be	done	by	the	
+Chartering	Organizations	and	ICANN.	
+	
+
+	
+
+18	
+
+Annex	A:	Draft	CCWG	Charter	Template	
+	
+	
+	
+	
+	
+	
+
+Cross	Community	Working	
+Group	(CCWG)	Charter	
+Template	
+	
+	
+	
+
+WG	Name:	
+
+Cross	Community	Working	Group	on…	
+
+Section	I:		Cross	Community	Working	Group	Identification	
+Chartering	
+Organization(s):	
+Charter	Approval	Date:	
+Name	of	CCWG	
+Chair(s):	
+CCWG	Workspace	URL:	
+CCWG	Mailing	List:	
+
+	
+	
+	
+	
+	
+
+Resolution	adopting	the	 Title:	
+charter:	
+Ref	#	&	Link:	
+Important	Document	
+• 	
+Links:		
+	
+
+	
+	
+
+Section	II:		Problem	Statement,	Goals	&	Objectives,	and	Scope	
+Problem	Statement:	
+	
+[This	section	should	clearly	articulate	the	problem	that	requires	resolution.	Some	elements	that	
+could	be	considered	include:	
+	
+• The	current,	or	previous,	situation	
+• The	circumstances	the	may	have	led	to	change,	or	the	problem	
+• The	potential	consequences	of	the	problem	
+	
+	
+
+19	
+
+Note:	Data	or	other	evidence	to	support	the	problem,	if	applicable,	should	be	encouraged]	
+	
+Goals	&	Objectives:	
+	
+[This	section	should	outline	the	anticipated	goals	from	the	CCWG	effort,	as	well	as	specific	
+objectives	that	may	help	achieve	those	goals.]	
+	
+Scope:	
+	
+[This	section	should	define	the	work	that	the	CCWG	will	undertake.	Specific	questions	and	topics	
+expected	to	be	considered	by	the	CCWG	should	be	identified	here.	If	there	are	inter-related	efforts	
+that	may	have	an	impact	on	the	work	of	the	CCWG,	or	vice	versa,	they	should	be	noted.	
+	
+To	the	extent	possible,	elements	that	are	defined	as	out	of	scope	should	be	identified	as	well.]	
+	
+
+Section	III:		Deliverables	and	Reporting	
+Deliverables:	
+	
+[This	section	should	list	and	define	the	deliverables	that	the	CCWG	anticipates	producing.	As	one	of	
+the	first	steps	of	most	Working	Groups	is	generally	to	create	a	work	plan,	however,	it	may	be	
+impractical	to	include	extensive	detail	at	the	time	of	chartering.	Any	data	or	metrics	expected	to	be	
+created	or	relied	upon	by	the	CCWG	should	also	be	noted	here,	as	far	as	practicable.]		
+	
+Reporting:	
+	
+The	Chair(s)	of	the	CCWG	will	brief	the	Chartering	Organizations	on	a	regular	basis.	
+	
+
+Section	IV:		Membership,	Staffing,	and	Organization	
+Membership	Criteria:	
+	
+
+Membership	in	the	CCWG,	and	its	sub-working	groups	should	these	be	created,	is	open	to	Members,	
+Participants,	and	others.	Members	are	appointed	by	the	Chartering	Organizations	in	accordance	with	
+their	own	rules	and	procedures.	Each	Chartering	Organization	shall	appoint	a	minimum	of	[optional:	
+2]	and	a	maximum	of	[optional:	5]	Members.	Chartering	Organizations	should	make	reasonable	
+efforts	that	individual	Members:	
+•
+•
+•
+
+	
+
+Have	sufficient	expertise	to	participate	in	the	CCWG	on	the	applicable	subject	matter;	
+Commit	to	actively	participate	in	the	activities	of	the	CCWG	on	an	on-going	and	long-term	basis;	
+Where	appropriate,	solicit	and	communicate	the	views	and	concerns	of	individuals	in	the	
+organization	that	appoints	them;	and	
+
+20	
+
+•
+
+Commit	to	abide	to	the	Charter	when	participating	in	the	CCWG.		
+
+Chartering	Organizations	are	encouraged	to	use	open	and	inclusive	processes	when	selecting	their	
+members	for	a	CCWG,	and	reasonable	efforts	should	be	made	each	of	ICANN’s	five	geographic	
+regions	is	represented.	
+[Optional]	In	the	event	the	CCWG	decides	to	create	sub-working	groups,	it	is	strongly	advised	that	
+individual	members	participate	in	only	one	sub-working	group	in	order	to	minimize	the	workload	for	
+individual	members	and	to	facilitate	scheduling	meetings.	
+[Optional]	In	addition,	the	CCWG	will	be	open	to	any	interested	person	as	a	Participant.	Participants	
+may	be	from	a	Chartering	Organization,	from	a	stakeholder	group	not	represented	in	the	CCWG,	or	
+may	be	self-appointed.	Participants	will	be	able	to	actively	participate	in	and	attend	all	CCWG	
+meetings,	work	groups	and	sub-work	groups.	However,	should	there	be	a	need	for	a	consensus	call	or	
+decision,	such	consensus	call	or	decision	will	be	limited	to	CCWG	members	appointed	by	the	
+Chartering	Organizations.	A	Participant	commits	to	abide	by	the	Charter	of	the	CCWG.		
+All	Members	and	Participants	will	be	listed	on	the	CCWG’s	Wiki	[add	link	if	available].	The	mailing	list	
+of	the	CCWG	will	be	publicly	archived	[add	link	if	available].		
+[If	applicable	-	All	members	and	participants	in	this	process	are	required	to	submit	a	Statement	of	
+Interest	(SOI)	following	the	procedures	of	their	Chartering	Organization	or	an	equivalent	statement.	
+Such	a	statement	should	at	a	minimum	include	the	name	of	the	participant,	the	SO	or	AC	of	affiliation,	
+and	any	external	affiliation.		
+Volunteer	Chair(s)	will	guide	CCWG	deliberations	and	ensure	that	the	process	is	bottom-up,	
+consensus-based	and	has	balanced	multistakeholder	participation.		
+Appointment	of	chair(s):	
+Alternative	1.	The	chair(s)	shall	be	appointed	by	the	Chartering	organizations,	should	a	
+Chartering	Organization	decide	to	appoint	a	co-chair	to	the	CCWG.	
+	
+Alternative	2.	The	CCWG	will	nominate	and	appoint	chair(s)	from	among	its	Members.	
+	
+[Optional]	The	CCWG	may	include	other	persons	in	addition	to	Members	and	Participants.	For	
+example,	this	could	include	a	liaison	from	the	ICANN	Board,	bringing	the	voice	of	the	Board	and	Board	
+experience	to	CCWG	activities	and	deliberations,	who	is	able	to	participate	in	the	effort	in	the	same	
+manner	as	other	Participants	of	the	CCWG.	A	CCWG	may	also	include	an	ICANN	staff	representative	to	
+provide	input	into	the	deliberations	and	who	is	able	to	participate	in	the	effort	in	the	same	manner	as	
+other	Participants	of	the	CCWG.		
+	
+
+Group	Formation,	Dependencies,	and	Dissolution:	
+
+	
+
+21	
+
+[Optional]	Include	a	list	of	dependencies	and	special	circumstances	that	would	result	in	ending	the	
+effort	and	closure	of	the	CCWG.	
+	
+
+Expert	Advisors:	
+	
+[If	expert	Advisors	are	expected	to	be	needed,	guidelines	for	their	involvement	should	be	included	
+here.	For	instance,	the	following	elements	may	be	considered:	
+•
+•
+
+Define	the	expertise	needed,	anticipated	cost,	selection	process/methodology,	and	allotted	
+budget.	
+The	role	of	Advisors	–	for	instance,	they	may	or	may	not	be	expected	to	contribute	to	the	
+dialogue	similar	to	other	CCWG	Participants,	though	if	there	is	a	need	for	any	consensus	call(s),	
+the	Advisors	would	not	participate	in	such	a	call.]	
+
+	
+Staffing	&	Resources:	
+	
+ICANN	will	provide	sufficient	staff	support	to	support	the	activities	of	the	CCWG.	The	ICANN	staff	
+assigned	to	the	CCWG	will	fully	support	the	work	of	the	CCWG	as	requested	by	the	Chair(s),	including	
+providing	meeting	support,	document	drafting,	editing	and	distribution	as	well	as	making	substantive	
+contributions.	ICANN	staff,	in	a	coordinated	effort	with	the	CCWG,	will	facilitate	outreach	to	ensure	
+that	the	global	multistakeholder	community	is	aware	of	and	able	as	much	as	possible	to	participate	in	
+the	work	of	the	CCWG.	
+To	the	extent	possible,	any	additional	resources	(beyond	the	assigned	ICANN	staff)	that	may	be	
+needed	should	be	identified	at	the	earliest	opportunity,	to	ensure	that	such	resources	can	be	
+obtained	and	planned	for.	
+	
+
+Section	V:	Rules	of	Engagement	
+Decision-Making	Methodologies:	
+CCWG	(internal)	Decision-Making	
+In	developing	its	output,	work	plan	and	any	reports,	the	CCWG	shall	seek	to	act	by	consensus.	The	
+Chair(s)	may	make	a	call	for	Consensus.	In	making	such	a	call,	a	Chair(s)	should	always	make	
+reasonable	efforts	to	involve	at	a	minimum	all	Members	of	the	CCWG	(or	sub-working	groups,	if	
+applicable).	The	Chair(s)	shall	be	responsible	for	designating	each	position	as	having	one	of	the	
+following	designations:	
+a) Full	Consensus	-	a	position	where	no	minority	disagrees;	identified	by	an	absence	of	objection	
+	
+
+	
+
+22	
+
+b) Consensus	–	a	position	where	a	small	minority	disagrees,	but	most	agree	
+In	the	absence	of	Full	Consensus,	the	Chair(s)	should	allow	for	the	submission	of	minority	viewpoint(s)	
+and	these,	along	with	the	consensus	view,	shall	be	included	in	the	report	or	relevant	deliverable.	
+In	a	rare	case,	the	Chair(s)	may	decide	that	the	use	of	a	poll	is	reasonable	to	assess	the	level	of	
+support	for	a	recommendation.	However,	care	should	be	taken	in	using	polls:	they	should	not	become	
+votes,	as	there	are	often	disagreements	about	the	meanings	of	the	poll	questions	or	of	the	poll	
+results.	
+Any	Member	[or	Participant]	who	disagrees	with	the	consensus-level	designation	made	by	the	
+Chair(s),	or	believes	that	his/her	contributions	are	being	systematically	ignored	or	discounted,	should	
+first	discuss	the	circumstances	with	the	Chair(s).	In	the	event	that	the	matter	cannot	be	resolved	
+satisfactorily,	the	Member	[or	Participant]	should	request	an	opportunity	to	discuss	the	situation	with	
+the	Chairs	of	the	Chartering	Organizations	or	their	designated	representatives.		
+	
+[This	section	of	the	charter	may	include	contemplation	of	the	role	of	Supporting	Organizations	and	
+Advisory	Committees	and	if	applicable,	their	review	and	approval	of	draft	proposals,	including	how	
+to	resolve	circumstances	where	there	is	not	unanimous	support	for	all	recommendations.	For	
+instance,	see	below.]	
+	
+[Optional]	As	a	first	work	item	the	CCWG	shall	develop	principles	of	operation	that	will	guide	how	the	
+CCWG	intends	to	conduct	its	business.	These	principles	of	operations	will	be	made	publicly	available.		
+In	the	event	that	no	consensus	is	reached	by	the	CCWG,	the	Chair(s)	of	the	CCWG	will	submit	a	
+Chair(s)’	Report	to	the	Chartering	Organizations.	In	this	Report	the	Chair(s)	shall	document	the	issues	
+that	are	considered	contentious,	the	process	that	was	followed	and	any	suggestions	to	mitigate	those	
+issues	that	may	be	affecting	consensus-building.	If,	after	implementation	of	the	mitigating	measures,	
+consensus	can	still	not	be	reached	the	Chair(s)	shall	prepare	a	Final	Chair(s)’	Report	documenting	the	
+processes	that	were	followed	to	reach	consensus.	The	Chair(s)	may	request	that	the	Chartering	
+Organizations	provide	recommendations	on	additional	means	for	mitigating	the	issues	that	are	
+preventing	consensus.	
+External	Decision	-	Making	
+Decision	Making	by	the	Chartering	Organizations	on	the	CCWG’s	[Final]	Output	
+Following	the	submission	of	the	[final]	CCWG	output,	each	of	the	Chartering	Organizations	shall,	in	
+accordance	with	their	own	rules	and	procedures,	review	and	discuss	the	output	and	decide	whether	
+to	adopt	the	proposals	and	the	recommendations	contained	within.	The	Chairs	of	the	Chartering	
+Organizations	shall	notify	the	Chair(s)	of	the	CCWG	of	the	result	of	their	deliberations	as	soon	as	
+feasible.	
+Supplemental	Final	Output	
+In	the	event	that	one	or	more	of	the	Chartering	Organizations	object	to	one	or	more	of	the	
+recommendations	contained	in	the	[final]	output,	the	Chairs	of	the	CCWG	shall	be	notified	
+accordingly.	This	notification	shall	include	at	a	minimum	the	reasons	for	the	objection	and	a	
+	
+
+23	
+
+suggested	alternative	that	would	be	acceptable,	if	any.	The	CCWG	may,	at	its	discretion,	reconsider	its	
+recommendations,	post	them	for	public	comments,	and/or	develop	and	submit	to	the	Chartering	
+Organizations	a	Supplemental	Final	Proposal,	which	takes	into	account	the	concerns	that	have	been	
+raised.	
+Following	submission	of	the	Supplemental	Final	Proposal,	the	Chartering	Organizations	shall	discuss	
+and	decide	(each	in	accordance	with	its	own	rules	and	procedures)	whether	to	adopt	the	
+recommendations	contained	in	the	Supplemental	Final	Proposal.	The	Chairs	of	the	Chartering	
+Organizations	shall	notify	the	Chairs	of	the	CCWG	of	the	result	of	these	deliberations	as	soon	as	
+feasible.	
+	
+	
+[This	section	may	also	include	a	description	of	the	role	the	ICANN	Board	may	play	in	decisionmaking.	For	instance,	see	below.]	
+	
+Submission	of	a	Board	Report	
+After	receiving	the	relevant	notifications	from	all	Chartering	Organizations	as	described	above,	the	
+Chair(s)	of	the	CCWG	shall,	within	a	reasonable	time	after	receiving	the	last	notification,	submit	to	the	
+Chair	of	the	ICANN	Board	of	Directors	and	the	Chairs	of	all	the	Chartering	Organizations	the	CCWG-	
+Board	Report,	which	shall	include	at	a	minimum:	
+a) The	(supplemental)	final	output	as	adopted	by	the	CCWG;	
+b) The	notifications	of	the	decisions	from	the	Chartering	Organizations;	and	
+c) Documentation	of	the	process	that	was	followed,	including	but	not	limited	to	documenting	the	
+process	of	building	consensus	within	the	CCWG	and	any	public	consultations	that	were	held.	
+In	the	event	one	or	more	of	the	Chartering	Organizations	do(es)	not	support	(parts	of)	the	
+(supplemental)	final	output,	the	Board	Report	shall	clearly	indicate	which	part(s)	of	the	
+(supplemental)	final	output	are	fully	supported	and	the	parts	that	are	not,	as	well	as	which	of	the	
+Chartering	Organizations	dissents,	to	the	extent	this	is	feasible.			
+[Note:	The	CCWG-Accountability	ICANN	Board	decision-making	process	was	defined	in	a	board	
+resolution,	which	may	serve	as	a	model	for	how	future	processes	can	be	defined:	
+https://www.icann.org/resources/board-material/resolutions-2014-10-16-en#2.d]	
+	
+	
+
+	
+
+24	
+
+Modification	of	the	Charter:	
+In	the	event	this	charter	does	not	provide	sufficient	guidance	and/or	the	impact	of	the	Charter	is	
+found	to	be	unreasonable	for	conducting	the	business	of	the	CCWG,	the	Chair(s)	have	the	authority	to	
+determine	the	proper	actions	to	be	taken.		Such	action	may,	for	example,	consist	of	a	modification	to	
+the	Charter	in	order	to	address	the	omission	or	its	unreasonable	impact,	in	which	case	the	Chair(s)	
+may	propose	such	modification	to	the	Chartering	Organizations.	A	modification	shall	only	be	effective	
+after	adoption	of	the	amended	Charter	by	all	Chartering	Organizations,	in	accordance	with	their	own	
+rules	and	procedures,	and	publication	of	the	amended	Charter.	
+	
+Problem/Issue	Escalation	&	Resolution	Process:	
+Members	and	Participants	of	the	CCWG	are	expected	to	abide	by	the	ICANN	Expected	Standards	of	
+Behavior.	
+If	a	Member	[or	Participant]	feels	that	these	standards	are	being	abused,	the	affected	party	should	
+appeal	first	to	the	Chair(s)	of	the	CCWG	and,	if	unsatisfactorily	resolved,	to	the	Chair(s)	of	the	
+Chartering	Organizations	or	their	designated	representative.	It	is	important	to	emphasize	that	
+expressed	disagreement	is	not,	by	itself,	grounds	for	abusive	behavior.	It	should	also	be	taken	into	
+account	that,	as	a	result	of	cultural	differences	and	language	barriers,	statements	may	appear	
+disrespectful	or	inappropriate	to	some	but	may	not	have	been	necessarily	intended	as	such.	However,	
+it	is	expected	that	CCWG	participants	will	make	every	effort	to	respect	the	principles	outlined	in	
+ICANN’s	Expected	Standards	of	Behavior	as	referenced	above.		
+	
+The	Chair(s)	are	empowered	to	restrict	the	participation	of	someone	who	seriously	disrupts	the	
+group.	Generally,	the	participant	should	first	be	warned	privately	and	then	warned	publicly	before	
+such	a	restriction	is	put	into	place;	in	extreme	circumstances,	this	requirement	may	be	bypassed.	This	
+restriction	is	subject	to	the	right	of	appeal	as	outlined	below.	Any	CCWG	Member	or	Participant	who	
+believes	that	his/her	contributions	are	being	systematically	ignored	or	discounted,	or	who	wishes	to	
+appeal	a	decision	of	the	CCWG,	should	first	discuss	the	circumstances	with	the	CCWG	Chair(s).	In	the	
+event	that	the	matter	cannot	be	resolved	satisfactorily,	the	affected	party	should	request	an	
+opportunity	to	discuss	the	situation	with	the	Chair(s)	of	the	Chartering	Organizations	or	their	
+designated	representatives.	In	addition,	if	any	CCWG	Member	or	Participant	is	of	the	opinion	that	
+someone	is	not	performing	their	role	according	to	the	criteria	outlined	in	this	Charter,	the	same	
+appeals	process	may	be	invoked.	
+		
+Closure	&	Working	Group	Self-Assessment:	
+	
+The	CCWG	will	consult	with	their	Chartering	Organizations	to	determine	when	it	can	consider	its	work	
+completed.	The	CCWG	and	all	sub-working	groups	shall	be	dissolved	upon	receipt	of	notification	from	
+the	Chair(s)	of	the	Chartering	Organizations	or	their	designated	representatives.	
+	
+
+	
+
+25	
+
+Implementation	
+	
+[This	section	of	the	charter	should	consider	the	role	of	the	CCWG	in	implementation,	as	well	as	a	
+possible	post-implementation	role	to	analyse	the	effectiveness	of	implemented	recommendations.]	
+	
+
+Section	VI:	Charter	Document	History	
+Version	
+
+Date	
+	
+
+Description	
+	
+
+1.0	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Staff	Contact:	
+	
+Email:	 	
+	
+Translations:	If	translations	will	be	provided	please	indicate	the	languages	below:	
+	
+	
+	
+	
+	
+	
+	
+	
+	 	 	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+
+26	
+
+	
+
+

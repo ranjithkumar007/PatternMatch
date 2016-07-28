@@ -1,0 +1,344 @@
+Luminous:
+Bringing	Big(ger)	Data	to	the	Fight
+Norm	Ritchie
+Drew	Bagley
+ICANN	Helsinki
+June,	2016
+
+Secure	Domain	Foundation
+• Non-profit
+– Founded	in	2014
+
+• Proactive	mitigation	of	malicious	domains	used	
+for	cybercrime
+– A	clearinghouse	for	intel	on	malicious	domains
+• Malicious	domains	and	numbers
+• Bad	Actor	indicators	(email,	IP,	name	servers,	addresses)
+
+– A	forum	for	sharing	data,	intel	and	knowledge
+• Trust	group
+• Data,	Research,	Analysis,	Discussion
+
+Some	Use	Cases
+• Registrars	and	Hosts
+
+– Does	this	account	owner	have	a	reputation	for	
+malicious	activity?
+
+• Registries
+
+– What	domains	in	my	TLD	were	reported	as	malicious	
+today?
+
+• Security	Analysts
+
+– What	other	domains	are	associated	with	this	{domain,	
+email,	IP,	NS,	phone}
+
+• Researchers	
+
+– Statistics	for	policy	decisions	(empirical	data)
+
+Proactive	Use	Case
+
+What	can	we	infer	from	a	malicious	
+indicator?
+• Given	a:
+– Domain	name
+– IP	address
+– Email	address
+
+Malicious
+
+Discovery
+
+Discovery
+
+Malicious
+
+A	Simple	Concept	But	…
+•
+•
+•
+•
+•
+
+There	is	a	LOT	of	data
+There	is	a	LOT	of	data	churn
+Success	breeds	a	LOT	of	queries
+Searches	need	to	be	fuzzy
+Implementation	can	be	operationally	intensive
+
+Introducing	Luminous
+• A	large,	searchable	repository	of	parsed	whois
+data	and	malicious	indicators
+• Designed	for
+– High	Performance	and	Reliability
+– Scalability
+– Low(er)	operational	needs
+– Very	Flexible
+
+• Query:	CLI,	API,	Web	interfaces
+• Output:	XML,	JSON,	Text
+
+Luminous	Data
+• Whois since	July	2014
+– 80M	gTLD records
+– 120K-150K	new	registrations	per	day
+
+• Historical	Whois
+– 170M	gTLD records
+
+• Indicators	of	malicious	activity
+– 7M	unique	indicators
+• 10K-100K	being	added	per	day
+
+Indicator	Classification
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+ADWARE
+ANTIVIRUS
+SUSPICIOUS
+BOTNET
+COMPROMISED
+FRAUD
+MALICIOUS
+MALWARE
+PHISHING
+SPAM
+RISKWARE
+PHARMACY
+WHITELIST
+SUSPENDED
+
+Resource	is	known	 for	Adware	Activity
+Resource	is	known	 to	spread	fake	anti-virus	software.
+Resource	is	known	 for	general	suspicious	 activity.
+Resource	is	a	known	 host	for	a	bot-net	 frame-work.
+Resource	has	been	 compromised	 previously.
+Resource	is	known	 for	financial	fraud	activity.
+Malicious	activity	/	Bullet	proof	 hosting
+Resource	is	known	 for	spreading	 malware
+Resource	is	known	 for	phishing	 activity.
+Resource	is	known	 for	spam	activity.
+Resource	is	known	 for	spreading	 risky	ware	and	hacking	tools.
+Resource	is	a	online	 pharmacy
+Resource	is	white-listed.
+Resource	has	been	 suspended	 by	a	registrar	previously.	
+
+Current	breakdown
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+MALICIOUS
+ADWARE
+ANTIVIRUS
+BOTNET
+COMPROMISED
+FRAUD
+RISKWARE
+MALWARE
+PHISHING
+SUSPICIOUS
+
+27620
+47865
+8576
+1114
+357
+76795
+1512
+2+	M
+2+	M
+1+	M
+
+Example	Commands
+•
+
+whois
+
+– Performs	whois queries	 either	 out	of	archive	or	directly	 from	the	server.	 Can	accept	a	valid	
+top-level-domain,	domain	or	a	suffix
+
+•
+
+whois-server	
+
+– Simply	returns	the	whois server	for	a	domain.
+
+•
+
+whois-ref	
+
+•
+
+flags	
+
+– Matches	and	returns	a	set	of	domains	from	a	given	e-mail	 address	or	telephone	 number
+– queries	 the	database	for	flags	associated	 with	the	provided	entity.		Can	query	on	IP,	domain,	
+top-level	domain,	suffix	or	email	 address.	
+
+•
+
+export	
+
+– Export	utility	 using	xml	 template.	
+
+•
+
+resolve	
+
+•
+
+resolve-ref	
+
+– Resolve	utility,	resolves	a	domain	to	an	IP	address	including	history
+– Reverse	resolve	utility,	 traverses	the	database	to	match	on	IP-address	or	a	domain.	
+
+Example	Commands
+•
+
+dns
+
+•
+
+dns-ref	
+
+– Displays	the	NS	data	of	a	domain	including	historical
+– Retrieves	 domains	based	on	a	given	NS	or	domain	name.	
+
+•
+
+asn
+
+•
+
+asn-ref	
+
+– Retrieves	 the	AS	number	of	an	IP	address.	
+– Retrieves	 IP	addresses	based	on	given	AS	number	or	other	IP	address
+
+•
+
+mx	
+
+– Mail	server	 utility,	retrieves	 any	mail	servers	 if	connected	to	a	domain.	
+
+•
+
+mx-ref	
+
+•
+
+report	
+
+– Mail	server	 reference	 search	utility.	 Returns	any	domains	connected	 to	a	mail	 server	or	other	
+given	domain.	
+– Report	utility.	Uses	either	 an	internal	or	an	external	 xml	template	to	provide	a	semantic	
+report.	
+
+Example	Output
+<?xml	version="1.0"?>
+<phone>
+<query>
+<value>1	(613)	821-5888</value>
+<domain>securedomain.org</domain>
+<country_code>1</country_code>
+<server></server>
+<area_code>613</area_code>
+<date>
+<subscriber>8215888</subscriber>
+<created>02-19-2002	14:04:43</created>
+<country>CA</country>
+<updated>01-25-2016	 00:18:17</updated>
+<region>Ontario</region>
+<expires>01-01-1970	00:00:00</expires>
+</phone>
+</date>
+<address>
+<registrar	/>
+<value>7082	Bush	Dr Ottawa	08	K4P1M7	 CA</value>
+<reseller	/>
+<street>7082	Bush	Dr</street>
+<owner>
+<city>Ottawa</city>
+<name>The	Secure	Domain	Foundation</name>
+<region>08</region>
+<contact>Norm	Ritchie</contact>
+<postal_code>K4P1M7</postal_code>
+<email>
+<country>CA</country>
+<value>admin@thesecuredomain.org</value>
+<latitude>45.416667</latitude>
+<host>thesecuredomain.org</host>
+<longitude>-75.7</longitude>
+<user>admin</user>
+</address>
+<domain>thesecuredomain.org</domain>
+</owner>
+</email>
+
+…
+
+Next	Up
+• Beta	available	now
+– early	adopters
+
+• Thanks	CoCCA!
+
+• Near	term
+–
+–
+–
+–
+–
+
+Member	submissions	and	vetting
+Deletion	and	removal
+Watch	list
+Batch
+Ongoing:
+• New/More	whois and	indicator	data
+
+Sign	Up	Process
+•
+•
+•
+•
+
+Email	us	at	register@securedomain.org
+Sign	the	SDF	Data	Sharing	Agreement
+Receive	API	key	and	portal	login
+Share	Data!
+
+Luminous	API	
+Signup	available:	Now
+Price:		Free
+Interested?
+register@securedomain.org
+
+Norm	Ritchie	– norm@securedomain.org
+Drew	Bagley	– drew@securedomain.org
+
+

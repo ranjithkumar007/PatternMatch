@@ -1,0 +1,108 @@
+News from UA
+Dmitry Kohmanyuk
+Hostmaster.UA
+
+28 June 2016 Helsinki
+
+Facts about UA
+•
+
+Ukraine is Europe, but not EU
+
+•
+
+Years since delegated: 24
+
+•
+
+DOM: 550 thousand (as of June 1st)
+
+•
+
+Registrars: 119
+
+•
+
+Federated model (50+ subdomains)
+
+•
+
+Private company as a manager
+
+Facts about UA, #2
+•
+
+Foreign Registrars: 2
+
+•
+
+Renewal rate: 94% UA, 82% COM.UA
+
+•
+
+Thick Whois model
+
+•
+
+IDN, EPP, DNSSEC available *
+
+Policy points
+•
+
+full Whois privacy is available
+
+•
+
+Transfers extend for one year
+
+•
+
+Automatic renewal unless cancelled by registrar
+
+•
+
+No domicile restrictions
+
+•
+
+Local trademark requirement (UA only)
+
+•
+
+Mirror by reservation, KYIV.UA and KIEV.UA
+
+Lessons we learned
+•
+
+Price is not a big factor (to a point)
+
+•
+
+DNSSEC is like IPv6: it's there but nobody* cares
+
+•
+
+Anycast is a must but it must be diversified
+
+•
+
+Cooperation and communication is everything
+
+•
+
+Lawyers are not your friends ***
+
+Contacts
+•
+
+info@hostmaster.ua
+
+•
+
+https://Hostmaster.UA
+
+•
+
+dk@cctld.ua (myself)
+
+

@@ -1,0 +1,945 @@
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 1
+
+Transcription ICANN Helsinki
+Non For-Profit Operational Concerns Constituency (NPOC)
+Wednesday, 29 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at:
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Rudi Vansnick:
+
+Good morning, everybody. This is the NPOC meeting at ICANN 56 Helsinki.
+Welcome to this meeting. We will have one hour and 15 minutes for this
+meeting. And the agenda is on the screen. For those who are on remote if
+you have any questions just raise them in the chat room so that Maryam can
+handle your requests.
+As regularly we will do first the roll call, go around the table and present
+yourself so that we know who is in the room and who is eventually connected
+remotely.
+I’m Rudi Vansnick, the Chair of today.
+
+Joan Kerr:
+
+Joan Kerr, Membership Chair.
+
+Carlos Gutierrez: Carlos Gutierrez.
+Tapani Tarvainen: Tapani Tarvainen, NCSG Chair.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 2
+
+Klaus Stoll:
+
+Klaus Stoll.
+
+Agustina Callegri: Agustina Callegri
+Sam Lanfranco:
+
+Sam Lanfranco.
+
+Maryam Bakoshi: Maryam Bakoshi, Secretariat.
+Rudi Vansnick:
+
+Okay, thank you very much. We have a remote participant, Maryam? No?
+Okay so let’s move on. We regularly welcome new members. And if I’m not
+wrong we have only one member that joined and was approved this month.
+Do you have the identity of the person?
+
+Maryam Bakoshi: Yes, it’s One World Platform, (Valentina).
+((Crosstalk))
+Maryam Bakoshi: Yes, is official representative.
+Rudi Vansnick:
+
+Okay so with that I would like to move on as we don’t have that much time in
+our agenda today. Report from the NPOC Chair. I will give a quick overview
+of what we did in the last three, four months from the last meeting we had in
+Dublin until now.
+Most of the activities were focused on working in the working groups and I
+think everybody knows that there has been a lot of energy spent in the IANA
+transition in the cross community working groups. There are new working
+groups that have been started up and there will be quite a lot of new PDPs
+that will be kicked off.
+We had a final phase of the GNSO review working party where we finalized
+all the recommendations that are now on the table of the board to decide on
+which will be implemented and which one will not be implemented.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 3
+
+Furthermore, we – as I’m the chair of the SCI, the Standing Committee on
+Improvement of Implementation, we had two issues on the table in the
+beginning of the year, and one is a quite important and critical one, it’s the
+changes needed in the GNSO procedures for the election of the chair and
+vice chair, as we ended up last year in not having a chair elected. And there
+was some issues with the vice chair. So the SCI has been handling that issue
+very carefully.
+I split it up – the group in two sub teams so that we could work in parallel in
+order to enable us to finalize the job before the next general assembly where
+the elections for chair and vice chair will happen again. So we finished the
+work as we need to have full consensus, everybody has to approve the SCI,
+which happened.
+And the next step is that we will publish the recommendations and the
+proposals for changes in the procedures after the Helsinki meeting for public
+comment. And we will be in time for implementation for the next GNSO
+general assembly. That I think is a good job we did.
+Apart that one, and I will then move over to other colleagues for the ExComm
+to give also their view and report on what we did. In preparation for elections
+and after having cleaned up the database we provided a platform for the
+members to – we created a profile for them so that they could enter all their
+information, their vision, the work they are doing, the topics that they want us
+to focus on.
+So that we can promote what they do also. It’s a kind of way of getting them
+more interested in NPOC. It’s a first step that will be extended once we have
+collected more information.
+And I got a message even yesterday still somebody added some information
+to their profile so it’s still growing, it’s still moving. And I think I can hand over
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 4
+
+the mic now to Joan who is our Membership Committee Chair, who has been
+doing a tremendous work getting the right picture of all our members. So,
+Joan, you have the mic.
+Joan Kerr:
+
+Thank you, Rudi. Joan Kerr for the record. So I’m just going to do a pretty
+quick summary. As Rudi mentioned, actually it was Maryam and I that worked
+on the database and cleaned it up and we do have 63 new members, our
+members.
+From some of our calls it’s obvious that we – it’s one thing to clear up the
+database and to have a clean database but the biggest thing that has
+happened is that we need to engage our members and outreach as well. So
+that’s something that, you know, as chair I’m going to really focus is how do
+we get our members to connect with us on calls and become involved when
+we're at conferences.
+And not just be names on a piece of paper because that doesn’t work. We
+need them to participate in ICANN. We need to educate them on how they
+can participate and give them information. So that’s something that I’m going
+to focus on with the ExComm this coming year. And that’s all I have to say for
+now. Thank you.
+
+Rudi Vansnick:
+
+Thank you, Joan. Rudi for the record. I don’t know if there are other
+colleagues who want to give some reports. Sam?
+
+Sam Lanfranco:
+
+Yes, Sam Lanfranco for the record. One of the ideas that I had proposed
+earlier that was not supported by NPOC, was to use the opportunity of the
+comments on the comments periods on ICANN proposals to engage the
+membership. And it was felt by several that that was engaging them too late.
+I’d like to report that that now has been picked up as an initiative by ICANN
+itself and ICANN will be rolling out a program after this meeting in which they
+prepare briefing documents to go out to the constituencies to encourage them
+to get engaged in the comment periods as a way – as a kind of backend way
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 5
+
+of bringing people more involved and then eventually into the PDPs and
+working groups.
+Rudi Vansnick:
+
+Thank you, Sam. Rudi for the record. We know that, as there are many
+changes happening in the structure and in ICANN now, essentially due to the
+finalization of the IANA transition proposal and the review and report done by
+NTIA, it looks like things are in good shape. But there are still quite a lot going
+on due to the fact that there is this – these changes of the bylaws are going to
+have an impact on all of us and especially as we heard that there will be a
+quite important number of reviews that will kick off.
+And in general it was, yes, it was Sunday during the SO/AC leadership
+meeting that we got a list of reviews that are on schedule for the next year –
+well, the next 12 months. And it is a big list as Tapani can probably confirm
+also. And they are requesting volunteers to participate in it again.
+The big changes that the number of participants in the review team goes from
+12-21 which means it’s almost doubling the number of members that are
+needed for the reviews, that’s really massive. Just a question of how this will
+happen and how this will be done. Not an easy point.
+With that I think if there are no questions on NPOC’s operations in the past
+months I could move on to the next item, it’s NPOC financial report. I’ve put
+together, and all the details will be sent to the ExComm in the next few days,
+but I’ve made a summary of the three years – sorry – of the finance and
+account.
+In 2014 we started with an amount of $4000 – well, the account is in US
+dollars and the account is in Europe, which means we can have the
+conversion done in the same bank and the same account. It makes it a little
+bit complex with the conversions but I will give the figures only in US dollars,
+which makes it more easy.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 6
+
+So we started with $4711.95 US which was the amount that we got from – in
+2013 from PIR also. And in 2014 we started getting funding of PIR for
+$10,000. That was initially for an event that we have organized in Singapore.
+And then altogether the cost of that event and operation was $4756.81 US.
+I will, as I said, I will give all the figures on the ExComm list after this meeting
+too. We had also in LA a little event that was about $550 US. There has been
+the hosting mailing services and so on for 2014. It was $2535 US.
+And we had some bank administrative costs that we have everywhere in the
+world. You have to pay a cost which was $26.32 US. The figures are always
+with cents as the conversion takes place based on the euro. Which brought
+us with an amount of $6878.23 US end of 2014.
+And 2015 we got a funding again from PIR for $5000. And then we had,
+again, the cost for the hosting, the mail services and so on for $2678.65. In
+fact, there is a difference between 2014 and 2015 due to the conversion rate
+of the US dollar. And that left us with an amount of $9199.58 US at end 2015.
+Two thousand sixteen, we had already the administrative costs that, in fact,
+should be booked on 2015 but we only got it in 2016 on the account. And the
+hosting, mail services that I put into account are $1799.98 US. That means
+that today we have, on the account, $7388.70 US available.
+That is in fact the overview of the three years finances of NPOC. I’m going
+around the table. Are there any questions about these figures, these
+amounts, this report? Yes, Joan?
+Joan Kerr:
+
+Thank you, Rudi. So that was the money that was allocated – that we were
+talking about the special events that we were supposed to have in Marrakech
+and in Helsinki. That was the money that it was coming from for those
+events?
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 7
+
+Rudi Vansnick:
+
+No, you’re talking about the budget that is allocated by ICANN.
+
+Joan Kerr:
+
+Okay.
+
+Rudi Vansnick:
+
+That’s different. That’s different.
+
+((Crosstalk))
+Rudi Vansnick:
+
+That’s not on this report.
+
+Joan Kerr:
+
+Oh okay.
+
+Rudi Vansnick:
+
+And I think that’s something we don't have actually in – we don’t have any
+budget allocated to us as far as I remember. They stopped giving and budget
+allocation for the constituencies two years ago if I’m not wrong. It’s all
+covered inside the budget of ICANN itself.
+
+Joan Kerr:
+
+So originally what was that money allocated for?
+
+Rudi Vansnick:
+
+Sorry, I was interrupted.
+
+Joan Kerr:
+
+Okay, what was the funding allocated for? Was it a specific thing or it was
+just…
+
+Rudi Vansnick:
+
+Well, PIR has been funding and sponsoring us for if we wanted to organize
+events and so on, which was the first time the case in 2014 when we had that
+meeting organized in Singapore. And, yes, we could use it for events if there
+is any way we can really set it up. But I think we should count on what ICANN
+can support us in order not to use our own budget. But because it’s work we
+do for ICANN, not for ourselves.
+Any other question? With that I will give all the details with all the elements.
+I’ve sent already some information to the ExComm list but I will provide all the
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 8
+
+little details after Helsinki. I’ve been putting everything together, but I need
+also some paperwork to add to it.
+Something that I need to mention anyway is that as NPOC is not an official
+body, it’s not incorporated, it’s not really existing as a body itself, I personally
+have all the responsibility and I have to pay taxes as it is considered being
+income revenue so I have to pay some taxes on what is coming in. I’m trying
+to get rid of that misery but – you’re laughing, Klaus?
+That’s, yes, the risk you take when you do something like that. Yes, Sam?
+Sam Lanfranco:
+
+Okay Sam for the record. The taxes issue, doubly (unintelligible). I think that
+we should have – even when they’re nominal expenditures that it would be
+useful for the group to actually pass on them and make a motion and say yes
+we’re going to spend this money for this, including compensating you, if
+you’ve got out of pocket expenses for something. And there’s an invoice
+available for that so that we have a kind of accountable and transparent
+record of all the transactions. So they would be in our minutes.
+
+Rudi Vansnick:
+
+Yes, of course. And I’m discussing this with the Belgian government as they
+need to understand that it’s not money that is in revenue for me but it’s for the
+organization. But they – as you know, in Europe they are very anxious about
+what happens in the US at that point so there is a lot of discussion going
+about money laundering and that’s where you need to do some checkups,
+yes, quite often.
+Okay if there are no – yes, Sam.
+
+Sam Lanfranco:
+
+I mean, it would also be useful to you if you had the transcripts of the
+meetings where the numbers were discussed and the decisions were made.
+
+Rudi Vansnick:
+
+Sure. With that I think we can conclude this – well, yes, Klaus.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 9
+
+Klaus Stoll:
+
+Yes, and I think we should – as we didn’t have any kind of financial report
+along for the two and a half or so years, it’s good idea to spend a little bit of
+the money which is left on the professional independent audit and I think
+that’s a very good thing to do.
+
+Rudi Vansnick:
+
+No problem. With that. Rudi for the record. By the way, meanwhile, I’ve got
+the results of our elections. And the results of the elections were done at – on
+28th of June at 2359 UTC. And the results are as follows.
+Chair of NPOC, Klaus Stoll. The Vice Chair NPOC, Martin Pablo Silva Valent.
+Communication Committee Chair, Juan Manuel Rojas. Membership
+Committee Chair, Joan Kerr. And NPOC Secretariat, Olevie Kouamie. I want
+to congratulate the members who have been elected. And with that I will,
+after this meeting, hand over the chair seat to Klaus Stoll.
+So let’s move on with Number 5 on the agenda, discussion of the ongoing
+international Red Cross issues with ICANN. And I think it’s Sam who brought
+that to the table. Are you willing to report on that one?
+
+Sam Lanfranco:
+
+I’m willing to open the discussion on that, yes. Thank you, Rudi. I was first
+prompted to bring it to the table when Carlos mentioned that there had been
+a discussion in GNSO without us knowing about it. And then I had gotten
+concerned because that was the – one of the issues that was responsible for
+the original creation of NPOC to begin with.
+Sort of supplemental to that I went yesterday to the session in which the
+issue was being discussed. And what I want to report on is basically my
+impression of that session. Rudi was there so Rudi may want to add to this.
+Initially it was a discussion involving the International Olympic Committee, the
+International Red Cross Red Crescent and was distilled down to issues
+around international IGOs – international governmental organizations and
+international nongovernment organizations.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 10
+
+It has basically been boiled down to only dealing with international
+governmental organizations as far as I can tell and primarily the Red Cross.
+And it is basically down to some very narrow technical questions about how
+conflict resolution is handled on some of the issues and how that impinges on
+the international Red Cross’s – I don’t know if the right word is diplomatic
+immunity but its rights as a kind of international governmental organization.
+And as far as I’m concerned, and I’d be interested in Rudi’s view on this, that
+has almost nothing to do with the existing remit in the charter of NPOC. That
+NPOC could basically say to that one, it’s – they’ve retained expert opinion,
+they have lawyers working on it. It’s a very narrow technical question that has
+very little relevance to the rest of our constituency.
+I see Klaus has a hand up so I’ll quit.
+Klaus Stoll:
+
+I was actually at the meeting where all that started. And I’m not the one who
+founded NPOC but basically, as you know, (unintelligible) got into the whole
+thing basically the meeting after. And look at the name of NPOC and there is
+a clue, operational concerns.
+And it was operational concerns of NGOs of non for profit organizations like
+the Olympic Committee or like the Red Cross. This is what we were founded
+for, operational concerns. And its operational concern if the Red Cross has
+that privilege or the IOC has a privilege or not.
+So it’s a very, very close to our heart and it’s exactly to our topic. Which
+complicated the whole thing and was the cleverest trick I’d ever seen in the
+book was to combine the Red Cross with the International Olympic
+Committee. Everybody has no problem with the Red Cross having the status
+and everybody has a problem with the IOC having the status.
+
+((Crosstalk))
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 11
+
+Klaus Stoll:
+
+No, because it’s been now discussed for 5.5 years. Everything that could be
+said has been said. It just – because if we come to a decision, if we vote, if
+we get every single participant in ICANN to vote and say unanimously 100%
+we decide that and that and that, there will be a lawyer crawling out of the
+window and saying I challenge you on that. This is a non-resolvable issue.
+So what we have to do is basically – I think it’s very important that we have a
+look back at what the situation is, talk to some people in the – and I’m sorry to
+say, talk to some of the lawyers, and trying to find out if there’s anything for
+us still to do. And I just find it very interesting because if you look at the
+history of NPOC basically it’s one was created by two lawyers from parties
+concerned. And they don’t even talk to us anymore.
+
+Rudi Vansnick:
+
+Yes, thank you, Sam and Klaus. And based on the discussions that we had in
+the IGO INGO afterwards too yesterday, it’s very clear that IGOs and INGOs
+can call on their immunity but if they are taken to court they have to take it
+down.
+And, again, as Klaus was mentioning, it’s the game of the lawyers that will
+decide in what direction they win or lose the game. I don’t see a real – the
+problem is not resolved and I’m considering that that will go on for a while as,
+yes, business most often has more rights than the non-business community.
+Yes, Sam.
+
+Sam Lanfranco:
+
+Well just to restate what was said earlier, and underlined it, I think that it
+essentially is – it’s like an aggregate – aggravate inside NPOC and that we
+basically sort of decide. It will not be resolved. Any moves toward resolution
+will be taking place completely outside our remit, outside our domain. We
+should come back and focus on the not for profit sector and their concerns.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 12
+
+Rudi Vansnick:
+
+Thank you, Sam. Rudi for the record. As we have a councilor among us I
+don’t know if, Carlos, you have any vision on how the Council looks at these
+discussions?
+
+Carlos Gutierrez: Yes, I mean, this is a long-standing issue that you are not aware what the
+Council discussed. I have no explanation for. But this has been in the agenda
+all the time. There was a webinar to refresh everybody on the issue. It was
+held on a few weeks ago, two three weeks ago. It was very thinly visited so
+nobody cares. The presentation was distributed. Mary Wong did a wonderful
+presentation specifically on the Red Cross.
+And in the Board Council meeting we reminded the Board that we had written
+to the Board in May explaining the last discussions and movements and
+making them aware that we have no clear indication from the Board to the
+Council on this issue.
+And we reminded the Board that they owe us an answer there. There are
+some propositions there. It’s not an international organization sadly. The
+discussion is very, very limited to the second level. It’s not even about the top
+level. So it’s really the doldrums and the Red Cross people come to all
+meetings and speak to everybody but there is not a sensible proposal like
+how do we deal with the first – with the top level and how to get you closer
+either to the trademarks or to the international organizations so it lives in the
+limbo. But certainly nobody has a clue what the next step is; I mean, the
+Council or the Board or the NPOC. Thank you.
+Rudi Vansnick:
+
+Thank you, Carlos. Rudi for the record. Well, I think as you mentioned, it’s a
+question of trademark, non-trademark. And quite often trademark means it
+costs money and probably that’s something the (unintelligible) also want to
+avoid to get – to pay for all the trademarks across the world and…
+
+Carlos Gutierrez: I mean, if you’re a local Red Cross organization, at least in my country they
+are collecting money all the time. I don’t understand they don’t have $100 a
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 13
+
+year to protect their domain name at least at the second level under the
+ccTLD. And even the ISOC Costa Rica chapter got a one-year free from our
+ccTLD and we pay only $20 a year after that. So I guess any Red Cross can
+come to its ccTLD and ask for an NGO approach but the issue really lacks
+any vision, mother, father, relatives, whatsoever.
+Rudi Vansnick:
+
+Thank you, Carlos. Sam, you…
+
+Sam Lanfranco:
+
+Yes, my sense, listening to the – what – of the discussion I have heard is just
+that there’s a fear of an issue ending up in the courts, period. Because that
+triggers some other questions. As far as NPOC is concerned, I don’t know if I
+should propose that we have a motion but I think we just view it as an issue
+for which we have no position.
+
+((Crosstalk))
+Sam Lanfranco:
+
+No.
+
+Rudi Vansnick:
+
+Red Cross, there is the British one, we have three national Red Cross
+members. I was in contact with the one in the UK. And I sent them even a
+request to respond to one of the questions that happened in PDP. And they
+asked me, well, give us time; I’m still waiting for their response. It’s two
+months – more than two months ago. So it’s very unclear what’s the goal of
+Red Cross is in all these discussions. I have the impression that they rather
+would like to see somebody else taking it up and finalize it rather than
+themselves like going to the end of the discussion.
+
+Klaus Stoll:
+
+Klaus for the record. But seriously, I mean, what you just said it’s absolute –
+when we talked and talked and talked about it. The danger – and the
+advantage here is this is everything NPOC is about. And on the other hand,
+as I said, I mean, we’re talking about it now for five years. I think there is
+somewhere where we have now to – for NPOC what our lessons learned out
+of it and how do we as NPOC have to react to that.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 14
+
+And I think one of the answer is quite – is screaming into our faces, quite
+simply, we have to be more systematically active in the actual policy making
+processes and monitor that somehow better and participate in the working
+groups and so on in a different way. It’s not about just participating, it’s about
+having a strategy behind it.
+And that is – and the – it’s fairly impossible with the kind of minimalized
+membership we have at the moment. But it’s something we can start working
+on. And I think that will attract members back because a lot of the bigger
+NGOs and so on, have very, very similar problems and IGOs. They’re very,
+very similar problems.
+And one of the position of us could simply be can you help us to solve that
+problem. And that’s going and saying we are your voices and we’re fight for
+you and say, by the way, we’re supposed to fight for you, but we have no
+idea what to do. Thank you.
+Rudi Vansnick:
+
+Thank you, Klaus. Rudi for the record. With that we are in fact entering into
+Number 6 of our agenda. With this item, as we didn’t know the results of the
+election before, I thought it was important to have this on the agenda. But as I
+will no longer be even part of the ExComm, I would like to leave here the
+discussion and allow the new ExComm to take up the future of NPOC after
+the elections. I have to mention to you that I will step down from all the
+working groups after the Helsinki meeting.
+There is one mandate that was asked to me to stay on until the end of the
+year as this is a mandate by calendar year. And I’ve committed that I will do
+my best to finish that task. It’s the SCI where I will keep the work done until
+the end of the year. Probably we will not get any new stuff on the table as the
+two issues are finalized now. We will see if that’s going to end.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 15
+
+So with that I would like to hand over the discussion about the future of
+NPOC to the new ExComm. I don’t know who wants to pick up this point as I
+think it’s important that the new ExComm decides on what way you would
+work.
+Martin…
+Martin Valent:
+
+Yes, just to say I will step in the water and try. I think we have to draft a plan
+that we all can agree on and we can all know and so far we have already
+tried a few things. We have learned what works, what not. I agree with the
+fact that we should be working with the big INGOs like Red Cross simply
+because I believe we have such synergy that if we manage to get them to
+work with us that would really, really, really improve our work.
+So that I believe we have these two different things. One is policy work, the
+other one is outreach. I believe we have to have this different programs for
+each one. We already have that logic. I would continue upon it. A big
+question that I cannot answer is regarding how is NPOC going to evolve in
+the environment of NCSG. I think that a lot of that has to be answered yet.
+And if it’s going to be relevant to our plan and until we actually knows
+(unintelligible) how that is going to evolve, we have to continue creating a
+working plan for the next year.
+I propose we do this in the next few months to take our time and to do a
+proper management plan for the next months.
+
+Klaus Stoll:
+
+Klaus Stoll for the record. First of all, I think we should look back and I want to
+thank Rudi for two years of his work and what he did. And he's acknowledged
+the emphasis and all the hard work you put in there so first of all, thank you,
+Rudi.
+The second thing which I would like to talk about the future of NPOC and I
+want to make several fundamental changes. And there first change is that as
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 16
+
+chair, I don’t understand myself as the decision maker or leader of this one, I
+literally will push this down now to people like Martin, Poncelet and everybody
+in the ExComm, but also in the membership. I’m expecting that the major
+initiatives and the major changes and the major proposals, the major things,
+are not coming from me. I see myself as a coordinator, but not as a decision
+maker. And really trust on people, as I said, Martin, Poncelet, and everybody
+else, to do this job.
+Because, look, if we replace Rudi by Klaus, you get all the same again. And
+that doesn’t work and it didn’t work in the past so we have to try something
+new. So everybody who has been elected or not been elected, you're still
+called on. And the leader of all this and the leader of NPOC is you, not Klaus.
+The other thing is on the very practical term, because it’s always a problem,
+and I’m sorry that I’m bringing it up, it’s about travel. Nobody in the ExComm
+will automatically be nominated for the next travel slot for the next ICANN
+meeting. Everybody, including me, has to prove, before they are nominated,
+that they actually have a job to do at the next meeting. If they don't have a job
+to do in the next meeting they will participate remotely.
+And that will open us up – first of all it would make us more productive, and
+secondly, it actually – the members will have a chance to do things. For
+example, some of the – of the stuff which was done in Argentina is important
+that we enable these people to stay in the ICANN meeting rotation, whereas
+other people like me, maybe we can do it – even as I chair I think I can do –
+Hyderabad looks like I can do the same stuff in Hyderabad remotely than
+being there.
+So and this is the kind of changes I really would like to make. And again, the
+important thing is this is not now the era of Klaus, this will be the era
+members. That’s my idea and my proposal for the future – very rough
+proposal for the future of NPOC.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 17
+
+With regards to outreach, please allow me, we worked over the last few
+weeks on a very comprehensive membership and outreach plan. And we
+realized, for example, also financially, it doesn’t work if we put out an
+outreach plan and looking at ICANN to fund it or looking at ourselves or own
+budget to fund it. We need partners and we need a little bit of – little bit of
+more cash than what we have around usual.
+So in preparation there are already some talks going on. There are already
+meeting have happened for – where basically some partnerships are agreed
+and this is something which now that the election is over, will be made public.
+And nothing is decided, it’s all just for discussion but there is a lot of
+groundwork already been done and that can be implemented.
+Again, it will not be implemented by me; it will not even guide it or driven by
+me. It’s there for the members, for the ExComm to take and to do it or not.
+Now I’ve spoken too much anyway.
+Rudi Vansnick:
+
+Yes, Joan. Oh yes, Carlos.
+
+Carlos Gutierrez: Thank you very much. This is Carlos for the record. And first of all, I want to
+remind you that I’m not a representative of NPOC in the Council and my term
+in the Council ends in Hyderabad. So if you want to know what’s happening
+in the Council you will have to do something about that.
+Second to what’s urgent, there are important things, there are urgent things. I
+mean, there are two very urgent things. I mean, in two hours or one hour we
+will be discussing the follow up of Los Angeles discussion. What do we want
+for the future of the Non-Contracted Party House, if I’m right. So this is – we
+had a proposal and we had a questionnaire and we’re going to discuss the
+feedback to the questionnaire.
+And this is, I think, very urgent because also this week the members of the
+team that should take the task to review the GNSO procedures in terms of
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 18
+
+the adoption of the adaptation of the new bylaws to the transition, is going to
+start very soon. And that’s going to affect the whole GNSO and that’s going to
+affect NPOC as well.
+So I don’t know, Martin, if we have months. I think we have a few days to
+decide together with the Non-Commercial User Constituency because we are
+drafting the charter. We are between – if we are going to have
+representatives only of the stakeholder groups or if we are going to have
+representatives of the constituencies only or a mixture of both, cannot be too
+many people. Some people have strong opinion how it should work. If it
+should be limited to two people for each stakeholder group. And that would
+make 8.
+And the clock is running because we expect the new – the transition legally to
+be over by November 1, I think that’s what I heard. So this is an urgent task
+where NPOC has to fight for its internal recognition within the GNSO Council
+at all. So that really I strongly recommend that is taken immediately. And I
+don’t know if it’s Klaus or Martin or both or all, but those are things that we
+have to follow up as soon as possible starting today and starting tomorrow
+when we do the GNSO Council wrap up. Thank you.
+Rudi Vansnick:
+
+Thank you, Carlos. To add to that, as I’m one of the two people that took the
+lead in putting it on the table because nobody wanted to start the discussion
+about reviewing the future of the GNSO from the bottom up, Tony and me,
+we have been working in the background quite a lot to get things on paper.
+And have visions on what is possible and possible scenarios. And we have
+been even querying a time slot in this Helsinki meeting, and unfortunately we
+couldn’t do it really earlier than I think it was last Wednesday, Maryam, if I’m
+not wrong, that we got a time slot for the NCPH meeting this noon.
+It was really difficult to find a way to get it on the agenda. But it’s on it. And I
+will still look with Tony and lead it this noon. But after that I would like to see
+somebody from NPOC taking over that position. Martin. Or sorry, Joan.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 19
+
+Joan Kerr:
+
+Thank you. Joan Kerr for the record. So, Klaus, I just wanted to clarify
+something. The – you mentioned partnership going forward for the – we’re on
+future after the election. What is the nature? What is the reason, and the
+purpose for the partnerships? And also, one of the things that we haven’t
+done as an ExComm is to clearly engage our members how will the
+partnership help us do that?
+
+Klaus Stoll:
+
+Joan, thank you for the questions. Actually really good question. I think that
+one of the problems with Internet governance, and is quite simply that you
+can’t actually work inside silos. To be – if you work inside the silos that
+means you work in your constituency and you work in the nonprofit sector, in
+our case, for example, alone. You don’t get very far because basically you
+need to reach out to the private sector and the government sector for
+minimum, to get things done.
+And so, for example, what I mean with partnership is to give you very
+concrete example, is it’s very important for us – I think for us as NPOC but it’s
+open for discussion – to partner with other Internet governance forums like
+the business and like the IGF. There’s a lot of – there is a lot of activities
+going on there. There is especially – in the – with respect to our members to
+– why is that relevant to our members.
+Because it is – with the sustainable government goals, our members are
+active in the sustainable development goals. They’re trying to do things.
+These things are not happening in ICANN, these things are happening in
+other fora. And we need to connect and we need to coordinate and we need
+to be visible in these things to make it happen.
+The practical reason is quite simply so how do we pay for that? And to be
+absolutely honest with you, there are – there are corporations and
+foundations around which would like to support this for good reasons,
+(unintelligible) reasons, social corporate responsibility reasons. And simply
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 20
+
+taking the advantage of saying we do that. And I think, as long as we – as
+long as we stay completely transparent and ethical and non-binding, we
+should take advantage of that to do this.
+Joan Kerr:
+
+I just have a follow up question. So I’m not against partnership, of course, I
+actually agree that you cannot act alone. But one of the things that we really,
+I think as an ExComm, didn’t do in terms of our responsibility as an ICANN
+constituency was policy. We’re not involved enough. So how, I mean, I’m not
+saying we don’t do this, but we have two major things to go forward.
+From a – I’m always speaking from a membership point of view. To engage
+our members, obviously we’d like to increase them, but also to get more
+involved in the policy portion of what – responsibility that we’re supposed to
+do. So are we going to be – it’s one thing to have partnerships to get funding
+so – and which chair is going to do that. But I think it’s loud and clear that we
+don’t engage our members enough and we don’t participate enough in the
+policy process. So I just want to…
+
+Klaus Stoll:
+
+Sorry, Joan. Absolutely right. And I refuse to comment any further and put it
+over to Martin.
+
+Martin Valent:
+
+And to quickly answer, I think or add something to Joan’s question or
+concern, it’s compatible, I mean, we are talking about looking for the senior G
+or the help of the NGOs or big partners, but the truth is afterwards the
+outreach plans have to be absolutely aimed to policy development. I mean,
+there’s not – that – (unintelligible) incompatibility. Is not a reaching out to
+these partnerships, it’s not in the same aim or goal of (unintelligible) members
+to policy.
+And as we have later a meeting with Janice, we are actually trying to
+approach this from a more scientific matter and from expertise on how to
+actually get the members that we can get from outreach involved in the most
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 21
+
+effective and efficient way. So in that sense I don’t see that – that’s just the
+aim of it at all at the end.
+Tapani Tarvainen: If I may? I’m not an NPOC member but I’d like to make a few points. First, I’d
+like to also thank Rudi for all the hard work you’ve been doing for a long time.
+And second, just a suggestion for NPOC, do run a candidate for the Council
+elections. You should have a councilor, although you won’t get one if you
+don’t even try.
+Sam Lanfranco:
+
+Two comments. One is just to remind us that the Workstream 2 committees
+are being formed now. People are being recruited. So one of the things we
+need to do is populate those. Several of us have populated some of them so
+that’s one of the high, you know, the high ranking agenda items.
+The other is the comment about partnership and engagement. I represent the
+Canadian Society for International Health. Our perspective around the
+Internet has to make sense in terms of what we do as an NGO. Many of the
+policy issues are of no win for us. They're just not what we're interested in. So
+what I’m doing, beyond NPOC and beyond ICANN, is starting from the
+sustainable development goals, Number 17 happens to be enhancing
+partnership as one of the 17 goals.
+But starting from the constituency’s self interest in terms of their remit, their
+charter, their mission and vision and working backward to ICANN to say,
+okay, if ICANN is going to approach them, if we are going to approach them
+as NPOC, we don’t have to – we don’t want to go out and try and strong arm
+them into being volunteer labor in the policy positions that we see. We have
+to help them understand how these policy positions relate to what they do.
+And if we don’t do that my advice to them is do not show up. Period. If all we
+are is like in a religious organization saying come joint our religion, it’s up to
+us to explain to them why what we do is relevant to what they do. And without
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 22
+
+that they are not coming. And I’m saying that as a development economist
+who works with those groups outside ICANN.
+Rudi Vansnick:
+
+I see that the discussion is falling down. Still as an NPOC member, I have to
+mention you that – and it should be on your priorities list, that there is no chair
+for the policy committee, which is, to me a really bad sign about participation
+in policy. So I would encourage the new ExComm to focus on getting
+somebody on that seat.
+
+Klaus Stoll:
+
+As a reply to that, Rudi, you’re absolutely right. We – but we shouldn’t bind it
+on a person, we are all policy. This is what we are all about. And we have to
+find a way that we have – yes, we have somebody who is responsible for
+coordinating the policy stuff, that we find way to do the policies together as a
+team in NPOC. And that the policy chair, or basically is the megaphone of the
+person who basically transmitted.
+
+Carlos Gutierrez: I want to give another view from the Council. I mean, the policy work is very
+simple. Is absolutely very, very simple for the next two years. Is only three
+subjects and they’re closely related to each other, is very, very simple. Is right
+protection mechanism, Whois and subsequent rounds. And everything is
+bounded – directly bounded together. I’m very happy that I hear Martin is
+particularly interested in the right protection mechanism and is going to follow
+that one.
+We just need somebody for Whois and we need two, three people or 10
+people or 25 people for the subsequent rounds. That’s it. That’s policy. And if
+you don’t like ICANN policy, you don’t need to be here. You can move to
+ALAC or to any other place. So it’s very, very simple. And as Tapani just said,
+I mean, we’re wasting our representation in the Council. I mean, that goes all
+together, is the same, is the representative in the Council, the policy
+coordination and getting people together to participate there.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 23
+
+I thank you for suggesting my name. We are under great stress. We have to
+present a first draft of the competition review in Hyderabad. And that’s a lot of
+work, and that’s everything I can do. And I really have to concentrate. But
+because I am part of the team with this support of the GNSO. So that’s my
+responsibility until the end of the year.
+But I think it’s a very clear – I mean, I’ve been four years here and – in
+ICANN and sometimes I wonder what’s happening. I think this time is very,
+very simple, is Workstream 2 of accountability and three PDPs. And they
+overlap in many, many, many issues so it’s a very, very clear policy agenda
+that ICANN has. It’s rather simple.
+So I think it’s very easy to explain that to any partner or any member. And if
+you ask me, what my perspective is, why I’m here it’s very simple, I mean,
+particularly for developing countries or underserved areas, or NGOs working
+in development is for me the same, you have two possibilities.
+Either you get a sensible domain name for your community, project, NGO, or
+so or you end up in Facebook. Okay, that’s the choice. I mean, that’s very,
+very simple. I mean, either you keep your freedom, your privacy, your
+webpage, your initiative, your collection, or you do it in Facebook.
+And if that’s not important for all developing agencies, they haven't gotten it,
+as you said.
+And I can explain that in five minutes. I don't know if they will understand me
+but that’s the reason why I think we have relevant work to do everywhere in
+the world closely related to the domain name system. Either you are at the
+third level with Facebook or Google, or you have your own presentation card.
+Thank you.
+Sam Lanfranco:
+
+Sam for the record. I agree with you completely. Except…
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-28-16/11:26 pm CT
+Confirmation #8995835
+Page 24
+
+((Crosstalk))
+Sam Lanfranco:
+
+But, when I am talking to them and we talk about that choice, second level,
+third level, which is, you know, where I come in at, they agree or they don’t
+agree, they see the challenges for them at their level and in their resource
+constraints they say, we need to work on this at our level, but we don’t have
+the resources to come up and work with you on those working groups. We
+have resource constraints, we have technical constraints and so forth.
+So one of the approaches is to go not to them individually but to go to the
+groups that represent them and work at that level so that’s one of the
+strategies that I, as a private member of NPOC, will be doing.
+But it’s for them to see a viable win in terms of how they deploy their limited
+resources in the short run. There’s no disagreement on that bigger issue. But
+they can’t get into that – they can’t afford to get there for the most part at this
+point.
+
+((Crosstalk))
+Rudi Vansnick:
+
+Yes, thank you, Sam. I was just wondering I think we can round up – I think
+we handled every item that we needed. And thanks, Carlos, for your – the
+beautiful picture you made about the two ways you have in life, Facebook or
+no book at all. Thank you all and, yes, it’s my last ICANN meeting for this.
+
+Maryam Bakoshi: Thank you very much.
+
+END
+
+

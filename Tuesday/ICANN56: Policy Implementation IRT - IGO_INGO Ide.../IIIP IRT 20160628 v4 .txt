@@ -1,0 +1,473 @@
+IGO/INGO Identifiers Protection
+Policy Implementation
+Implementation Review Team Meeting | 28 June 2016
+
+Agenda
+1
+
+2
+
+3
+
+Session
+Objective
+
+Project
+Background
+
+Project
+Status
+
+4
+
+5
+
+6
+
+Implementation
+Approach
+
+Community
+Feedback
+
+Next Steps
+
+| 3
+
+Session Objective
+¤
+
+This Policy Implementation Review Team session at ICANN56 is open to
+public
+
+¤
+
+Community is invited to learn about this policy implementation project,
+ask questions and provide inputs to the Implementation Team
+
+¤
+
+Implementation Project Team consists of ICANN Staff and
+Implementation Review Team (IRT)
+
+¤
+
+Implementation Review Team is made up of community volunteers:
+Jean-François Vanden Eynde – Nameshield
+Registry
+Brian Cimbolic – PIR
+Crystal Ondo - Donuts
+David Maher – PIR
+Petter Rindforth - Fenix Legal KB
+
+Lori Schulman - INTA
+Mike Rodenbaugh - Rodenbaugh
+Law
+Jim Bikoff - SGR LLP
+Holly Lance - SGR LLP
+| 4
+
+Project Background
+This Policy Development Process (PDP) was initiated to develop policy
+recommendations for the provision of protection for identifiers of certain
+International Governmental Organizations (IGOs) and International NonGovernmental Organizations (INGOs), including the Red Cross/Red Crescent
+Movement (RCRC) and the International Olympic Committee (IOC).
+The PDP Working Group completed its work in November 2013 and its
+consensus recommendations were approved by the GNSO Council. In April
+2014, the ICANN Board adopted those of the PDP recommendations that were
+“not inconsistent” with GAC advice received on the topic, and requested more
+time to consider the remaining, inconsistent recommendations.
+The adopted recommendations relate to protection at the top and second
+level for specific RCRC, IOC and IGO names (with an Exception Procedure to be
+designed for the affected organizations), and a 90-days Claims Notification
+process at the second level for certain INGO acronyms.
+| 5
+
+Policy Recommendation Scope Tracking
+Org
+
+Board Resolution (A): “Not Inconsistent”
+Implementation Authorized
+
+Board Res (B) GNSO differing GAC
+Implementation Not Authorized
+
+RCRC
+
+Reserve Full Names of Red Cross, Red
+Crescent, Red Crystal, Red Lion & Sun at
+Top and Second levels in the 6 UN
+languages with Exceptions Procedure
+
+189 National RC Societies: permanent
+protection vs 90-days claims only?
+Full name only vs acronyms also for
+ICRC and IFRC, etc?
+
+IOC
+
+Reserve Full Names of OLYMPIC and
+OLYMPIAD at Top and Second Levels in
+UN6+German, Greek, & Korean with
+Exceptions Procedure
+
+No difference
+
+IGO
+
+Reserve Full Names of IGOs in GAC List at
+Protection for Acronyms?
+Top and Second Levels, in 2 languages with 90-days or permanent claims?
+Exceptions Procedures
+Access to Curative rights? + other ?
+
+INGO
+
+Reserve Full Names of INGOs in ECOSOC
+General List at Top Level with Exceptions
+Procedure; Second Level: TMCH+90-days
+Claims Protection for INGO Full Names on
+ECOSOC General and Special Lists
+
+No difference
+
+| 6
+
+Current Activities on IGO/INGOs Protections
+20 Nov. 2013
+GNSO Council
+Resolution
+
+30 Apr. 2014
+Board
+Today
+Resolution
+
+Protection
+of IGO/INGO
+Indentifiers
+in All gTLDs
+PDP WG
+5 June 2014
+GNSO Resolution
+Initiation of PDP
+
+IGO/INGO Identifiers Protection Policy
+Implementation (GDD, IRT)
+Reconciliation of GNSO
+Recommendation Differing
+from GAC Advice (Board)
+IGO/INGO Currative Rights
+Protection Mechanism PDP
+WG (GNSO)
+
+This Policy Implementation Project is focused on the
+“GNSO Recommendations Not Inconsistent with GAC Advice”
+| 7
+
+Implementation Plan and Status
+¤
+
+Secure Initial Authoritative Lists of Identifiers and Required Data
+o
+o
+o
+
+¤
+
+Define List Update Process
+o
+o
+
+¤
+
+RCRC, IOC, INGO Identifiers – Complete
+INGOs Contact Data – Complete
+IGOs Identifiers – seeking ”up to two languages” from GAC
+
+INGO – in development working with UNDESA
+IGO/IOC/RCRC - in definition with IRT
+
+Develop Systems and Processes
+o
+
+Full name reservation process
+•
+
+o
+
+Use current system/process
+
+90-day claims system
+•
+
+TMCH-like system in design phase
+
+| 8
+
+IGO/INGO Identifier Initial Lists Status
+Lists
+
+Status
+
+Action
+
+RCRC
+
+Received; complete
+
+No further action
+
+IOC
+
+Received; complete
+
+No further action
+
+IGO
+
+Incomplete;
+Received in one
+language only
+
+Letter to GAC requesting
+the “up to two languages”
+list
+(17 June 2016)
+
+INGO
+
+Received; complete
+
+No further action
+
+| 9
+
+IGO/INGO Identifier Lists Update Process
+¤
+
+INGO
+o
+o
+o
+
+¤
+
+IGO
+o
+o
+o
+
+¤
+
+List Authority: GAC
+GAC may provide updated list “time to time” per policy recommendation
+ICANN updates the reservation list upon receipt
+
+RCRC
+o
+o
+
+¤
+
+List Authority: ECOSOC List – UNDESA
+Annual updated list provided by UNDESA to ICANN
+ICANN provides the updated list to Claims system
+
+IOC
+o
+o
+
+No policy recommendation language received regarding updates
+Follow the same process as IGO
+No policy recommendation language received regarding updates
+Follow the same process as IGO
+| 10
+
+INGO Identifier 90-Day Claims System/Process
+¤
+
+Design approach in consideration
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+Coordinate and collaborate with UNDESA as the ECOSOC authority
+UNDESA provides ECOSOC list with Contact Data to ICANN
+ICANN does not evaluate or adjust the ECOSOC list; use the list exactly
+as received
+ICANN produces DNS labels using the same algorithm used for existing
+Spec. 5 Reserved Names List
+If the length of any label produced by the algorithm is not between 1
+and 63, there is no resulting label
+The list and data are bulk loaded to the Claims System
+A notice similar to the TMCH notices will be provided
+New entries to ECOSOC list can only be made through UNDESA as the
+list authority
+UNDESA provides an updated ECOSOC list to ICANN on an annual
+basis per UNDES update cycle
+ICANN updates the Claims System with each update from UNDESA
+| 11
+
+Current Timeline Assumptions for Implementation
+ICANN 54
+
+ICANN 55 (A) ICANN 56 (B)
+
+ICANN 57 (C) ICANN 58 (A)
+
+ICANN 59
+(B)
+
+ICANN 60 (C)
+
+Drafting of Implementation Plan
+IRT Meetings
+Release of Draft Implementation Plan for Public Comment
+Public Comments on Draft Implementation Plan
+Finalization of Implementation Plan with IRT
+Announce Policy Effective Date
+Implementation by
+Affected Parties & ICANN
+
+Policy Effective Date
+Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+2015
+
+2016
+
+2017
+
+Required Deliverables for Key Milestones
+¤
+
+Implementation Plan Release for Public Comment (target August 2016)
+INGO: Agreement with UNDESA for ECOSOC list
+INGO: 90-day claims solution defined
+IGO, IOC, RCRC list update process defined
+Draft consensus policy language document
+
+1.
+2.
+3.
+4.
+•
+
+¤
+
+Announce Policy Effective Date (February 2017)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+¤
+
+with implementation notes (community input?)
+
+IGO list: up to two language from GAC
+IOC List
+RCRC List
+INGO List: ECOSOC list with contact info
+Claims system designed and ready to implement
+Implementation Notes for Registries
+Final Consensus Policy Language
+
+Policy Effective Date (6 months from announcement)
+1.
+2.
+
+The Policy Language posted
+Claims system operational
+
+| 13
+
+Next Steps for Implementation Team
+
+¤
+
+Pursue MoU with USDESA
+Define 90 day claims system
+Define list update process for IGO, IOC, and RCRC
+Develop Draft Consensus Policy Language for Public Comment
+
+¤
+
+Next scheduled IRT Meetings
+
+¤
+¤
+¤
+
+o
+o
+
+IRT call
+IRT call
+
+28 July 2016
+25 August 2016 (last review before Public Comment)
+
+IRT Community wiki page
+https://community.icann.org/pages/viewpage.action?pageId=54694212
+¤
+
+| 14
+
+Other Meetings of Interest at ICANN56
+Tuesday, June 28 • 13:30 - 15:00
+GNSO IGO-INGO Access to Curative Rights Mechanisms Policy
+Development Process WG
+The PDP WG considers whether or not existing processes such as the
+Uniform Dispute Resolution Policy and the Uniform Rapid Suspension
+procedure should be modified, or possibly a new process developed, to
+address the specific needs of international governmental organizations
+(IGOs) and international non-governmental organizations (INGOs)
+Thursday, June 30 • 11:00 - 11:30
+IGO/INGO Names and Acronyms Protections
+The objective of the session is to update the GAC on the developments on
+this issue and recommend further discussion from the GAC
+
+| 15
+
+Engage with ICANN
+Thank You and Questions
+Reach me at:
+Email: dennis.chang@icann.org
+Website: icann.org
+
+twitter.com/icann
+
+gplus.to/icann
+
+facebook.com/icannorg
+
+weibo.com/ICANNorg
+
+linkedin.com/company/icann
+
+flickr.com/photos/icann
+
+youtube.com/user/icannnews
+
+slideshare.net/icannpresentations
+| 16
+
+Tell us what you think of the Policy Meeting Format.
+Download the ICANN56 Mobile App and complete a
+short survey.
+
+meetingapp.icann.org
+
+

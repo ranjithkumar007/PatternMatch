@@ -1,0 +1,1398 @@
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+HELSINKI – At-Large Technology Taskforce
+Thursday, June 30, 2016 – 08:00 to 09:00 EEST
+ICANN56 | Helsinki, Finland
+
+ARIEL LIANG:
+
+Hello, this is Ariel Liang. Is that Corinna or Mark on the bridge? If
+so, can you just say something and we can confirm you’re
+connected.
+
+MARK SEGAL:
+
+Yes, Mark is here.
+
+CORINNA ACE:
+
+Corinna’s here.
+
+ARIEL LIANG:
+
+Thank you so much. Welcome.
+
+DEV ANAND TEELUCKSINGH: Okay, good morning, and good afternoon and good evening for
+any of the – after the echo goes. There wasn’t two of me.
+This is the Dev Anand Teelucksingh, Chair of the At-Large
+Technology Taskforce. Welcome to our At-Large Technology
+Taskforce session at ICANN 56 Helsinki. We managed to squeeze
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+in some short time early in the morning here in Helsinki, but we
+do have a packed agenda and actually from some very
+interesting items to show and discuss.
+So let’s us go right to our slides. And just to give a brief
+background as to the At-Large Technology Taskforce –
+Next slide. Next. Next slide. And next slide.
+Right. So just to give a background behind what the At-Large
+Technology Taskforce does, we review Information and
+Communication Technologies that helps At-Large better able to
+accomplish their role in ICANN activities. It’s open to anyone
+that’s interested in ICT and how they can be applied to solve the
+needs of the At-Large and other ICANN communities.
+Next slide.
+And the next slide just simply shows some of our links here. We
+meet mostly once a month. Sometimes we have two calls a
+month, and we have a wiki space and a workspace where we
+document all of our activities. And if, again, anyone wanting to
+join can e-mail At-Large Staff.
+Next slide.
+So we have an update on Technology issues. So for those
+attending, we have a Technology Issues wiki page. And what we
+
+Page 2 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+do is seek to track possible technology related issues and for
+raising with ICANN staff. We’re just going to focus on two issues
+that we see some significant updates since ICANN 55 in
+Marrakech. And that’s making Adobe Connect recordings more
+accessible by having those recordings available in MP4 format.
+And our LACRALO mailing list issues. Judith?
+
+JUDITH HELLERSTEIN:
+
+Yes. This is Judith Hellerstein, also a co-Chair of the Technology
+Taskforce. And we’ll also be talking about hopefully some
+improvements to Adobe Connect that will enable it to be better
+used by people who are on mobile devices, which has been a lot
+of problems for our community is that they can’t see certain
+functions that we use on Adobe on mobile devices. So hopefully
+we’ll get an update on that as well.
+
+DEV ANAND TEELUCKSINGH: Thanks, Judith. Okay, so let’s move to the next slide.
+Just to give some background behind Adobe Connect
+recordings. Adobe Connect is the conferencing solution used by
+ICANN and all of the ACs and SOs, for all of the face-to-face
+sessions, for remote participation, and all of the working group
+calls. And while you could record the entire session of Adobe
+Connect, one key problem is that it requires Adobe Flash to play
+
+Page 3 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+back those videos. And for those on mobile devices, they simply
+cannot have access to those recordings. And also, even if you
+have a PC with adobe Flash installed, the experience of playing
+back Adobe Connect recordings is very cumbersome. It’s almost
+like you have to download the entire video which is sometimes
+like 200 MB. So if you don’t have a fast enough connection, you
+have to wait half a minute sometimes and then you’re able to
+start playing back. And then jumping ahead sometimes also very
+– a lot of pauses. So there is that.
+The third thing is that if you’re trying to do outreach and
+engagement and telling people to install Adobe Flash, the Adobe
+Flash plug-in is, I would say it requires lots of updates. It’s not
+very secure. There have been numerous security flaws, I’m sure
+literally dozens I think within the past year alone. And if you’re
+not keeping up to date, your PC, Windows, or Mac is vulnerable
+to be hijacked by malware. So that’s a big issue. Satish?
+
+SATISH BABU:
+
+Thank you, Dev. Now that Adobe Connect itself is based on
+Flash. So having Flash itself is not necessarily a big issue. The
+real issue is that Flash itself is kind of a dead end. For a
+sustainable kind of a future we can’t depend on Flash. We might
+have to think of other options. Although I feel that this trouble is
+
+Page 4 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+actually temporary. It might get resolved. But what is the
+alternative to flash itself?
+And also, people like us who are using Linux, you didn’t mention
+it at all. So just pointing that out.
+
+DEV ANAND TEELUCKSINGH: Thanks, Satish. Regarding using Linux, that has also been
+historically a challenge. Literally, the only workaround you have
+now is to use Google Chrome which has a built in Flash player.
+Because Adobe itself is not updating the Linux plug-in. So the
+Adobe Flash plug-in for Linux is no longer… you can’t use it
+anymore to connect to Adobe Connect sessions and recordings.
+So that’s really the only workaround.
+And I agree with you. I think we’re seeing, given the prevalence
+of mobile, we’re seeing the use of Flash less and less. And there
+are two new technologies that we’re looking at that’s coming up
+that’s available in many of the conferencing solutions we’ve
+been testing – HTML 5 and something called WebRTC, which is a
+[inaudible] to allow audio and video communication through
+your browser without a plug-in.
+Josh, welcome. I see you enter the room.
+So going back to the thing regarding Adobe Connect recordings,
+next slide.
+
+Page 5 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+So what we did was that, based on the suggestions given by the
+Technology Taskforce, ICANN has configured their Adobe
+Connect accounts to allow for the ICANN staff to export the
+Adobe Connect recordings to MP4 format. So the MP4 format is
+playable on mobile devices. And what was currently ongoing
+right now is for staff to test the process to convert Adobe
+Connect recordings to MP4, that’s one, and to upload to video
+sharing sites such as YouTube. And we have done one such
+recording and the link is there in the presentation.
+So I guess what I’d like to do is perhaps ask staff for an update. I
+think one of the challenges was that the MP4 recording worked
+well as a stand-alone file, but uploading an MP4 file to YouTube
+was a challenge.
+
+ARIEL LIANG:
+
+In terms of the challenge when we upload the MP4 file, is that
+the length of the video just doubled itself without any
+prewarning and now we have to manually cut the video into half
+so that it’s the original length. And if Josh or anybody else can
+give some insights that would be really helpful.
+
+Page 6 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+JOSHUA BAULCH:
+
+EN
+
+My name is Josh Baulch. I’m with ICANN staff. I manage the
+Meetings Technical Team. I actually have a couple of updates
+that I think you guys will all be very pleased with.
+The first one is actually probably the biggest announcement.
+The issues with Adobe Connect have not fallen on deaf ears from
+our standpoint, and we have seen it within our own meetings
+within ICANN. So what we had been working with is a company
+called Connect Solutions. The way Adobe works is you either
+have an adobe hosted, which is directly with Adobe, or you can
+actually have the platform hosted with a different company but
+you have control over the servers. The cost difference in doing
+that is actually pretty significant, but we had enough issues that
+I felt that it was worthwhile to do so.
+As of Wednesday, the Executive Team approved moving forward.
+So as of September we actually will be migrating over to our
+own server cluster so we’re not sharing it with anybody else. This
+will help us also solve a lot of the other issues that you guys
+have, because when we were on Adobe hosted, we actually
+don’t have control of the servers. We’re on a cluster with
+everybody else so we get the standard package that everybody
+else gets.
+So in this case, we will be able to customize things, so we’ll be
+able to customize pods. So one of the top priorities that I have is
+
+Page 7 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+the chat pod being able to do multiple languages, being able to
+do multiple languages within the captioning, so there’s a lot of
+things that we’re able to do. Now it’s not going to be immediate
+because it’s going to take us a little time to get everything up
+and going.
+So the one impact that it will have on the community is that we
+have to change our subdomain. So right now we all go to
+icann.adobeconnect.com. So after lengthy discussion internally,
+we will be going to participate.icann.org. And the reason that we
+decided to do away with referencing Adobe is because any time
+down the future if we decide to go to a different platform we
+don’t want to be beholden to the name. So we decided to make
+it something that’s generic so that we can just transfer that
+subdomain to something else and move on.
+A couple of things to address directly with the Flash issue. I did a
+conference call with Adobe directly, and because this is a really
+big issue for a lot of customers not just us. So Adobe actually has
+40 million customers. Of that, 63% are Windows, 24% is other – I
+don’t know how they classify that – 11% is Apple, 1.3% is
+Chrome Operating System, and then less than .5% is Linux users.
+Now you know why they don’t help us much.
+What their future plan is – and we’re hoping within the year to
+resolve this issue – but what their plan is, so the Adobe add-in –
+
+Page 8 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+and if you guys don’t use the Adobe add-in, I really encourage
+you to use it because it is not Flash-based – so what they’re
+going to do is they’re going to make the webpage so when you
+load it, it will try to load Flash automatically. But if your browser
+has flash blocked or if you have chose to not have Flash, then it
+will roll to the next thing. It’ll try to get your add-in. If your add-in
+doesn’t load, then it will load HTML 5.
+I saw a demo of it. It is, the experience for the user, is
+significantly different on HTML 5. The Adobe room looks
+different. It still has the same layout, but it is I would say a
+cleaner look. You still have close to the same functionality on it.
+So from that standpoint, that’s a positive. We do have the option
+from ICANN’s perspective, that we can actually force the add-in
+to be used by everybody. We have not chose to do this because I
+have a little bit of a problem with in the standpoint of, if
+somebody is an Apple user and they want to monitor more than
+one Adobe room, it doesn’t launch more than one application.
+So you can only watch one room. So if I turn that feature on, it
+just blocks and says you can’t do it. So it will not play in a web
+browser from that perspective. So it’s something that I don’t
+really feel comfortable with doing.
+
+Page 9 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+I have talked to them about that. They recognize that is a
+problem, so they are trying to address that for the Apple users to
+be able to launch multiple rooms.
+One other positive note that staff will probably more appreciate
+is when we migrate over to the hosted solution with Connect
+Solutions, that we will be able to have a monitoring tool that a
+staff member – so like a Technical Support person – can monitor
+30 Rooms at once. You’ll see in the chat pod you’ll see a little
+Technical Support tab that you can click on and say, “Hey, I’m
+having this problem in my Adobe room,” the Technical person
+can jump in, correct it, and then jump back out so that they can
+monitor multiple rooms. Right now we only have the option to
+physically watch each of the rooms and in most cases, you can’t
+really do more than two or three at a time.
+Yes, so that’s kind of the high level of really where we’re going
+with Adobe, so I’m really pleased about that. That will happen
+within the next 60-90 days that we’ll be rolling that over. So as
+soon as we get back – most ICANN staff are not aware of this
+rollover just because it just happened – but because you guys
+have been so instrumental in helping us get this far, this is
+something that I felt you guys needed to know.
+
+Page 10 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+DEV ANAND TEELUCKSINGH: Thanks for that, Josh. I think I have to say very positive steps,
+especially with the custom pods. Because I think especially
+things if you have chat that can do translation and so forth,
+those are big steps. I think I see… Okay, Judith?
+
+JUDITH HELLERSTEIN:
+
+Thanks, Josh, for this great update. So I guess the question is,
+what you’re saying is from what we have here who do
+translation, right now they have to call in through the Adigo line.
+So is that what you’re saying, is that we could then… Is the
+audio only that or…?
+
+JOSHUA BAULCH:
+
+So there’s a couple of things. So with the transcript, that still
+requires a live person. So there’s still going to have to be
+somebody on the line for that. But the language translation –
+basically they’re utilizing Google Translate – so then on that
+transcript you can select which language you want.
+Now the interesting thing about that when we talked about that
+– the company that developed it is called eSync – when they
+develop it, it’s not word for word translation. It is actually
+phrase. So there may be a slight lag in what you’re seeing
+because it’s actually taking the phrase that’s in English and then
+translating it. Because word for word translation doesn’t get you
+
+Page 11 of 46
+
+EN
+
+HELSINKI – At-Large Technology Taskforce
+
+anywhere.
+
+You
+
+get
+
+things
+
+that
+
+aren’t
+
+comprehensible
+
+necessarily.
+The question about listening to the different languages, that is
+something that I brought up. They do not have an immediate
+solution to it right now, but it is something that they’ll work with
+us on and try to help resolve.
+One of the other things that will be a big improvement is we can
+actually do peering sessions with the phone providers directly,
+which will significantly help the audio quality. Because right now
+when you do a phone call it’s routing through who knows where.
+So this way we have three providers and we’ll be able to do
+peering session with at least two of those providers. Verizon will
+be the only one that we probably won’t be able to do a peering
+session with.
+
+JUDITH HELLERSTEIN:
+
+So clarification, so that means the people who call in… Because
+I think what we have right now when we have our language
+service, we have our own translation, I guess this would be
+mostly on the RALO calls where we have French and Spanish
+translation. So they have the interpreters like they are next door.
+People call in because we have to set the Adobe audio to only
+one thing. So would we be able then to split the audio – that’s
+one question – split the audio in that.
+
+Page 12 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+And the other thing is you said the pods. So if in the future when
+we’re expanding our captioning, we could have different pods in
+different languages. We could have one pod for the English and
+one pod for Spanish to load on it. But they could also be the
+same text streams.
+
+JOSHUA BAULCH:
+
+So one, to address the last question – no, it would actually still
+be one pod. You would select what language you want to read it
+in. So just to save on space.
+And sorry, you have to remind me on your first question.
+
+JUDITH HELLERSTEIN:
+
+The first question was, currently the process is people call in on
+Adigo because the audio is selected by the Adobe.
+
+JOSHUA BAULCH:
+
+Right. And this is a question that I’ve asked the company. Right
+now there is not a solution to that so that within Adobe you can
+pick what language you want to listen to. Right now that’s not
+an option. But they did not say that it was not possible to not be
+able to do it. It’s not something, like I said, we have a list of
+things we need to get through first but it is still on the list. But I
+think that we will be able to address that.
+
+Page 13 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+And part of this, too, I need to say is that all of the customization
+does cost money. So part of that will be making sure that we can
+get the money to be able to do the additional features.
+
+DEV ANAND TEELUCKSINGH: Okay. Thanks, Josh. That is very interesting news and perhaps
+we could take that discussion to our TTF mailing list, because I
+think there’s other question we could probably ask on it.
+I see there’s a queue. Okay. Past three persons. Keep the
+interventions short. We do have a packed agenda. Satish?
+
+SATISH BABU:
+
+I’m very happy to hear about the developments on Adobe
+Connect. I would like to point out also that when you look at the
+intermediate maybe three years and later, HTML 5 becomes a
+very strong contender because of the fact that it is not
+dependent on any third party plug-in module [inaudible]. And
+when you travel we can be in any cyber café without any
+reservations that they must have the plug-in and so on. So it
+really liberates us if you focus on HTML 5 for the future. Thank
+you.
+
+Page 14 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+JOSHUA BAULCH:
+
+EN
+
+Just follow up on that. Adobe is dragging their feet about it. I’m
+not going to lie about that. Flash is their product. They know
+that it’s on its death bed. The one thing that I will say that they
+state is that their HTML 5 is still problematic because HTML 5
+does not address video natively. There actually are APIs that
+they have to install – webRTC – to get process… so they are
+fighting a little bit of that because they aren’t able to do what
+they can with video quality that they can with flash. They’re kind
+of dragging their feet on that because HTML 5 has not been fully
+embraced by everybody yet, and so they’re still kind of waiting.
+But they are moving forward with it. The add-in is not Flash
+anymore. The mobile is not Flash so they had to move forward
+with it anyway.
+
+DEV ANAND TEELUCKSINGH: Okay, thanks. Olivier?
+
+OLIVIER CREPIN-LEBLOND: Yes, thank you very much, Dev. You said there were several
+providers for dial in and call out and so on. I knew that there was
+a time when there was some kind of a policy to move people
+from Adobe and Verizon to the system which worked directly
+with Adobe Connect where you would issue yourself a dial out
+on Adobe Connect. Was any thought given about people that
+were not going to be on Adobe Connect and needed a dial out,
+
+Page 15 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+because I’ve noticed in some cases you need to either get a
+friend of yours or someone to be in front of a computer or some
+kind of a tablet to get the dial out done and when it drops,
+sometimes it’s also difficult.
+
+JOSHUA BAULCH:
+
+No, I appreciate the question. And it was addressed in the initial
+thought process behind that. Really where we thought that that
+would work was whoever’s managing the room, because they
+can do dial outs to people within the room. However, what
+wasn’t really taken into consideration is a lot of time those staff
+are tied up with other things and they’re not able to do it.
+And I’ve also experienced, too, like when we were in Tunisia we
+have a hard time getting Tijani connected because when you’re
+going through various phone providers sometimes they just
+don’t respect dial outs because a lot of times they’ll block them
+because they think they’re auto-robo-calls or whatever.
+So we have not pushed as hard to get everybody over. Really it
+came down to a massive cost difference in cost. So ICANN, right
+now, we spend about $1.5 million in conferencing – just in calls
+alone, nothing else other than that. We spend about $800,000 of
+that on Verizon. Verizon is our most costly customer. Adigo
+would be second. But we have chose to keep all of the groups
+that do a lot of languages – interpreted calls – on Adigo because
+
+Page 16 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+of the customer service that they provide. And we have
+renegotiated that contract to try to help get it more in
+comparable with the other providers.
+Interestingly enough, Adigo actually offers the same thing that
+PGI does, that does the auto dial outs. We haven’t pushed it in
+any of the groups but it is available. The reason that we haven’t
+pushed it is because it has to be a different set of dial in
+numbers, and right now I don’t want to muddy the waters with
+that.
+But it is something available and maybe when we switch over to
+the new platform with Adobe, that it might be something we can
+encourage some groups to use. Because then in that case then
+you have the best of both worlds. We have the auto dial outs.
+But you can also have an operator join your call as well.
+
+DEV ANAND TEELUCKSINGH: Okay. Thanks, Josh. I do know we have other items on the
+agenda. I know, Seun, is there something – is it a very quick
+intervention, or can it wait? Thanks. James? Okay, thanks. Let’s
+move ahead to the next point regarding the LACRALO mailing
+list.
+The problems of the LACRALO mailing list has been well
+documented at that link. We’ve submitted a budget proposal to
+
+Page 17 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+fix the bugs in the ICANN’s machine translation tool used for the
+LACRALO mailing list for FY17, and it was taken as not a priority
+with the new ICANN staff coming on board, Mark Segal and
+Corinna Ace, the Product Manager who are now treating the
+issue more formally. I believe what has happened is that a call
+has gone out for a developer to help fix the remaining bugs. I
+don’t know if Mark or Corinna could give update on that?
+
+MARK SEGAL:
+
+Yes, we’re still looking for that developer. We’ve had a little bit
+more success in getting some candidates at least over the last
+couple weeks. We were really narrowing our search for a while
+there and weren’t getting a lot of candidates popping up. So
+we’ve since changed what we’re looking for and we’re starting
+to get a lot of candidates to come in. And once Helsinki is
+through, we’re going to go through another round of interviews
+and hopefully we’re going to get somebody here in the next
+couple weeks.
+
+DEV ANAND TEELUCKSINGH: Okay. Thanks, Mark. And again, I think we look forward – and the
+whole LACRALO community – looks forward to seeing somebody
+getting hired to push this and fix this longstanding problem.
+
+Page 18 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+Okay, seeing no updates we can then move on to our next slide
+and our next update.
+And this is something regarding the at-Large website metrics. I
+believe this is something Corinna will be speaking about? So
+Corinna, could you take the floor?
+
+CORINNA ACE:
+
+Hi, yes. This is Corinna Ace. That’s correct. Ariel, is the slide up,
+going to be shared? Okay. Upload’s in progress.
+Thank you, Dev. Thanks for your introduction and everyone for
+having me at the Technology Taskforce Meeting today. I’m
+Corinna. I’m part of the Product Management Team at ICANN.
+I’ve had the opportunity to support on recent updates to the AtLarge site. It’s been a great experience, but I’m joining you today
+as Dev said because another part of my role at ICANN is focused
+on website analytics.
+So with that, I’d like to show you just a one page slide of
+basically some recent activity on the At-Large site – specifically
+in the four months after the new site launch – how that looks
+compared to measurements from the same time last year.
+And so I’ll note that a couple of the recent numbers – mainly
+through the page views – are inflated due to increased traffic
+
+Page 19 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+right after the launch. But even with this in mind, overall data
+shows a really positive trend and improvement in use of the site.
+So taking a look at the first metric, we have sessions – so the
+number of times users are actively engaged with the site over a
+time period. The number of sessions on at-Large has increased
+about 84% year over year. That’s a noticeable uptick in site
+activity.
+Visitors – the number of users who initiate at least one session
+within the state range – has also increased by about 22%. So
+during this timeframe last year there were about 2,500 users
+who initiated a session compared to over 3,100 in the timeframe
+this year.
+Our page views have increased significantly. But as I mentioned,
+this is also the data most inflated by our launch traffic. In fact,
+page views in the first week after the launch account for about
+40% of all the page views I collected data on during this
+timeframe. So that’s declined and after activity died down a
+little bit and leveled out. And so isolating the most recent data
+shows that the average page views now is steadily about double
+the monthly average views as the same time last year.
+So this is still a really good early indication of moving traffic
+away from the wiki and over to the new site, and it’s a metric
+we’ll continue to track as time goes on.
+
+Page 20 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+Our visit duration which is the average length of sessions across
+the timeframe has more than doubled from year over year. So it
+was a little under three minutes last year and it’s shown as a
+little over six minutes this year. So this is a noteworthy increase
+of engagement, suggests that more users are finding parts of the
+site relevant and spending a longer time engaging with and
+accessing information.
+And the pages per visit – this is another engagement indicator –
+and the average number of pages viewed during this time has
+also increased, almost double. It went from around 2.7 pages to
+5.3 pages this year. So it’s a good sign to see that users are
+visiting on average almost twice as many pages per session
+recently.
+And our bounce rate – the percentage of single page visits- has
+decreased by 16%. So the timeframe last year our average was
+around 62% compared to around 52% this year. So the decline
+in percentage of visits that bounce is another good trend in
+performance and engagement.
+And then just some more recent looks at audience and top
+viewed content – this, our breakdown of users is about 45% new,
+about 55% returning. And in the same timeframe in 2015 we had
+a somewhat higher percentage of new users. So this is
+
+Page 21 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+something to still track, but recent data may suggest that we’re
+retaining more first time visitors than in the past.
+And then the language chart here is based on the browsers that
+are used to access the site. So the primary language [received]
+English, but we do see some traffic from browsers set to each of
+these languages shown here, if that’s not too small – English,
+Spanish, French, Chinese, Russian, Arabic, Portuguese.
+And then just to look at our recently top viewed page – next to
+the home page which was the majority of the views in this list,
+not too far behind is our Policy News pages, ALS lists and RALO
+lists, the ALAC page, and pages with – I thought it was positive to
+see – pages with information about getting involved and joining
+the community.
+So again, this is just a kind of brief overview summary of how the
+site is doing and I think we have some pretty positive results
+here, some good trends and improved engagement overall. And
+I think it will be really interesting to continue tracking these
+metrics on the site and see how we fare over time.
+
+DEV ANAND TEELUCKSINGH: Thanks, Corinna. One question I might just ask about is, are you
+tracking how many people are accessing us on mobile devices
+versus desktops?
+
+Page 22 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+CORINNA ACE:
+
+EN
+
+That is something that we can track. I did not include that here,
+but I can actually get that information for you specifically and
+follow up with you.
+
+DEV ANAND TEELUCKSINGH: Okay, thanks. I think one thing we want to find out is how many
+people are using their mobile device to follow the activities of AtLarge versus regular desktops. And given the increasing use of
+mobile devices I think it’s more important for mobile users to be
+able to follow our activities and participate in our activities.
+Any questions? Go ahead and please introduce yourself.
+
+MIKHAIL MEDRISH:
+
+Thank you. Mikhail Medrish, EURALO. I suppose it’s interesting to
+understand if it is possible to know the percentage in between
+regions of the world from where the users are going to our site.
+Thank you.
+
+CORINNA ACE:
+
+I agree and that is something else we can look into is the
+locations, percentage breakdown by region. Which again, great
+feedback and it’s something we didn’t get here but I make note
+of that and it’s something to follow up on. Thank you.
+
+Page 23 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+DEV ANAND TEELUCKSINGH: Thanks, Corinna. Thanks and an excellent suggestion. Okay,
+thank you, Corinna, for this. And let’s move on to our next item
+on our agenda.
+Next slide. Okay we’re loading back the slides from the previous
+session. Right.
+And this is now something, an update, on one of the
+recommendations from ATLAS II. Just a quick summary of what
+ATLAS II was. It was a list of recommendations the At-Large
+community gave to us about a year and a half ago, and one of
+the recommendations was Recommendation #31 that ICANN
+and the ALAC should investigate the use of simple tools and
+methods to facilitate participation in public comments and the
+use of crowdsourcing.
+So we have looked at a few of those tools over the past year. We
+looked at Lumio and KAVI and we have recordings on our TTF
+workspace on that, and we found both of those tools lacking.
+And one of the things that we are going to be looking at is a tool
+such as group chat, applications such as Slack. And what we’ve
+heard is the NCUC have been actually trialing a chat solution
+that has some group chat features. And we are very lucky to
+have James Gannon and Rafik Dammak from the NCUC to help
+speak about the group chat application.
+
+Page 24 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+James, Rafik, welcome. Perhaps you could take the floor and
+just explain what you have done.
+
+JAMES GANNON:
+
+Thank you. Just waiting for my slides to come up. Excellent.
+So probably about two or three months ago we decided that we
+really needed to have some form of real-time collaboration
+because at the end of the day, the technology is moving along
+and we went out and we started having a look at the various
+things in the marketplace and we’ll see what we ended up
+coming up to for a number of different reasons.
+The first thing we were looking at is for our members and I think
+would go for your members as well is how do we currently work
+together at ICANN? And we noticed that it’s mostly through
+these mailing lists. And it looks boring and it doesn’t look good.
+This is not a good way to work, really.
+So we went out and we were like, “Well, how does the rest of the
+world actually work? “ And it’s using stuff like this – people use
+Snapchat and WhatsApp and Kick and Twitter. But we were
+looking at these and going, “Okay, but our discussions are
+generally a little bit more structured than that.” So the obviously
+one that you come to is Slack. It’s one of the most popular things
+are structured team-based discussions.
+
+Page 25 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+But the thing is, Slack costs a bit. And you can see, depending on
+what you need from Slack, it’s up to $12.50 per user. So we
+worked out, we looked at our figures, and who is active and who
+is not. And we thought, probably somewhere around maybe 100
+active users a month. So at $12.50 per person that’s $1,250 a
+month. We ain’t that rich.
+This is Slack, and this is what Slack looks like. So this is what we
+would get for our $1,250 a month. What if I said that we can take
+that $1,250 and put a decimal place in it? This is RocketChat
+which is an open source version of Slack. And all-in including
+hosting and everything else, this costs around $12.50 per month
+for 100 users, not per person. And just going between these two,
+you can see how incredibly similar they are.
+So it’s an open source version of Slack. It’s very, very, similar.
+And it does require a little bit of admin experience and you do
+need somebody there to manage it. And it’s extremely low cost
+comparatively. We personally host it on a Cloud solution. We
+have it on Amazon Web Services. It has extremely strong security
+encryption features. And I’m extremely proud to be able to say it
+has an A+ rating on SSL Labs which is very, very, difficult to get.
+Of particular interest to us, and I think to you guys as well, is that
+there no – well, provided that you don’t host it in the U.S. – there
+is no export control so there is no OFAC impact. So we have no
+
+Page 26 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+issues with members from Sudan, Iran, or any other sanction
+bearing countries connecting to this. And that’s something that
+you’d have seen with Adobe, it’s something that you would see if
+you went with the Slack solution because they are a U.S. based
+company. They have to comply with OFAC. So yes, it seemed like
+a best case scenario. Even taking out the cost impact it just
+seemed like the most logical solution to us.
+So the two biggest issues that we have found are, obviously
+being a very open group, there is no public archiving solution.
+And this is something that we need for our purposes, but also
+other companies that are looking to actually replace Slack and
+that work in compliance based environments such as financial
+services or healthcare also need this feature. So a couple of us
+who are using this solution have chipped in some money and we
+actually have a $1,000 bounty for this feature to be added to
+RocketChat. So there’s two devs actually working on this
+actively to try and get that bounty. So that is something that we
+will have very soon.
+The internationalization support is there. The product can be
+done in multiple languages and the product can be done in
+multiple scripts. There is obviously no in-built translation or
+anything else but you can have chat rooms in various scripts and
+various languages, but I would still deem it as slightly immature.
+It’s not very mature internationalization-wise, but that is again
+
+Page 27 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+something that is being actively developed on, so they’re going
+in the right direction.
+And for the more techie people, it uses Meteor – It’s using Blaze
+on the frontend, the actual code is a [mix of] CoffeeScript from
+Java, and it runs on MongoDB – so it’s really, really, modern
+technology. This is not basing itself on anything old school. And
+this is good because there’s a lot of active development on it
+then, and we’re not relying on people with some esoteric
+knowledge from many years ago. It’s really active.
+On the more infrastructure side, it has Sandstorm and Docker
+support. We are running it on Docker. There are native desktop
+apps. There are native mobile apps. There are native Linux apps.
+There are apps for pretty much any platform you can think of.
+And it supports voice and video chat you do using WebRTC. It
+supports person-to-person direct messaging using off-therecord messaging which is an extremely secure encrypted
+messaging, which is I feel very important. And there is an API.
+There is support for chatbots which is a big feature of Slack. So
+you can automate a lot of things. You can add RSS feeds that a
+bot will go off and find out things about and then bring it back.
+And there you can use web hooks to hook into third party
+services that can then update your channel with various bits of
+information that you want it to do. And, as I said, there are
+
+Page 28 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+localizations for various languages. I think there is about 30
+languages supported natively with more being actively
+developed.
+So this is what our instance looks like. I had a conversation with
+Glenn and Dev that possibly a demo today is probably not the
+best idea, but what we can do is if you’re interested I can come
+onto one of your Taskforce calls and we can do an actual,
+proper, full-on demo. But essentially if you know what Slack
+looks like, it looks like this. I’ve seen apart from maybe some of
+the third party plug-ins that Slack has, this essentially gives us
+exactly the same features for the cost of $12.50 Euro a month.
+And I haven’t seen anything that is pushing me back towards
+Slack.
+For some reference, we launched about six to eight weeks ago.
+We have 50 active users – like, class active users, people that are
+using it multiple times a day. For the pilot phase we identified it
+as the primary chat tool for Helsinki. So we all know we have
+WhatApps groups, we have Skype channels, we have all of this,
+but we said, “No, look. For Helsinki.” Number one, this is the new
+meeting format anyway, so we thought it was a good time to
+say, “Okay, let’s see if this works.”
+We’ve had a couple of hiccups that people floating back over to
+Skype channels and other things. But it’s actually worked quite
+
+Page 29 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+well. We have people chatting on it. I checked it just there a
+moment ago. We have about 3000 – 4000 messages during the
+Helsinki meeting. So it’s been actively adopted because of its
+Slack-like interface. People are quite comfortable using it. The
+adoption was pretty good.
+Some feedback if you do decide to go down this route. In your
+early days, do your planning really, really, well. I kind of failed on
+that and it caused us hiccups. Do extensive testing because
+there are some things around the internationalization that I
+discovered so if people want to put in their names using, for
+example, Arabic script, that’s something that you need to be
+very careful on how you do some of the configuration settings.
+Make sure that you have everything ready to go before you start
+putting your members on it. Do a pilot internally with a small
+team. Try and break it. Mess with your config settings. Make sure
+everything is the way you want it before you release it to the
+more general public.
+But I have to say it’s worked quite well and the members that
+I’ve talked to anyway are pretty happy with it. And I would
+recommend that you guys look into it. I’m perfectly happy
+obviously to help you guys out with that. For the record, I am an
+At-Large member so it’s all kosher. I’m quite happy for questions
+or anything that people want to ask.
+
+Page 30 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+DEV ANAND TEELUCKSINGH: Thanks, James. Very interesting stuff.
+I see there’s immediately a queue. Olivier Crepin-Leblond.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Dev. As far as Slack was concerned, we
+did some extensive – some testing, I can’t call it so extensive –
+but we certainly did some testing on it and of course the cost is
+one of the big question marks on this. So it’s great to see
+something that’s open source, something that is I would gather
+free to some extent – even the domain name? Because I’ve
+noticed it’s ncuc.chat. Is that paid for or is that included in the
+free package?
+
+JAMES GANNON:
+
+That was my contribution to it. I felt that we talk a lot about all
+of our new gTLDs but I thought we should, in the words of
+Google, eat our own dog food.
+
+OLIVIER CREPIN-LEBLOND: Thank you. If I can follow up. So you broke the bank on this one
+and are supporting ICANN financially. That’s great to see parts of
+ICANN doing that. The ALAC doesn’t do this. We usually ask for
+
+Page 31 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+money from ICANN. We don’t do it the other way around. But
+anyway. Let’s strike this part from the record, please.
+I had a question on – you mentioned also there no more Skype.
+Do you mean that Skype people have moved from Skype and
+move on to that, or is it that no more Skype as in Skype doesn’t
+work if you run that?
+
+JAMES GANNON:
+
+Thanks, Olivier. No, it’s that I think we all probably have our big
+Skype channels that we all chat on and we said that for this
+meeting that those channels we wanted them to go dark and we
+wanted to focus on trying to use this tool. Because when you
+have a group of people that are used to using one form of
+communication, the change management journey to get them
+to go to a new tool can be very difficult. So we said, “This is the
+Policy Forum. It’s a new meeting style. Let’s do the experiment
+with this at the same time and try and see, do we get the
+adoption on the new tool.”
+
+OLIVIER CREPIN LEBLOND: Thanks, James. And so I think it would be really great if we could
+have your feedback once this meeting is finished and see if it’s as
+easy to use as Skype. Because we certainly do use Skype
+channels. The great thing about the Skype channels is if you get
+
+Page 32 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+a few people together and it’s so easy to add people to the
+channel, get people in, out, and so on, and it’s great. At the same
+time you can have your own channel. It’s not like a case of all the
+channels are public, so if I just want to speak to Dev and to Ariel,
+we’ve got our little thing. If it’s as flexible and as stable as well,
+which I guess is the other thing, then super.
+I didn’t quite understand one thing. You said that it was working
+on many different platforms. But I didn’t quite understand
+whether these were you needed separate software to install on
+the platform or not. Because that’s the other thing. Some people
+access this from their work and have very stringent things on the
+ports that are being used and on the installation of software on
+their laptops.
+
+JAMES GANNON:
+
+So just going into a little bit of the tech stuff beside it. So it
+presents itself as a web interface that comes over port 443 for
+normal SSL, and it can also come over port 80 for unencrypted.
+And both the beauty of it is that it presents a web API that a
+number of desktop applications can also call to. So while you
+can always use just the web interface which just looks like a
+website so you’re safe to get through corporate firewalls and
+everything else, you can also use a native app on pretty much
+any platform that you can think of. I think they support
+
+Page 33 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+14platforms. They support Linux, Blackberry, Nokia, N-Gage,
+N5s. If you can think of it, it probably has a native application.
+
+DEV ANAND TEELUCKSINGH: Thanks, James. I see there’s a queue here still. Okay.
+
+MIKHAIL MEDRISH:
+
+I would like to understand if it is possible to look somewhere at
+the list of requirements and something like checkbox – this tool
+this tool, this tool, good, not good – something like this. And
+from another hand, I suppose some features have the best
+solution some certain tool. For example, to inform some set of
+people it is very effective to use some kind of bot, for example.
+So for this kind of communication, better to use this tool. For
+another communication, better to use another tool. So to look
+at the list of such requirements and appropriate tools it will be
+very interesting, I suppose. Is it possible to look?
+
+JAMES GANNON:
+
+Thanks. Yes, so I think I should actually make a point as well. So
+we don’t intend this to, for example, replace our mailing lists. We
+will still do all of our official policy discussion, for example, on
+the mailing list. This was intended to build upon a new way of
+communicating. So I think that goes to your point is that there
+has to be a matrix of how you handle your communications. It
+
+Page 34 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+can’t merely be a single point, you are going to do absolutely
+everything on one tool. Because there are different tools for
+different solutions. I think building a matrix of different things
+for different purposes would be a good idea.
+
+MIKHAIL MEDRISH:
+
+I understand you. It’s okay. It’s clear absolutely. I agree. What I
+meant now it’s analysis. You talked about the analysis, the result
+of analysis in the list. If it is possible to look at it will be great.
+
+DEV ANAND TEELUCKSINGH: Seun?
+
+SEUN OJEDEJI:
+
+Yes, Thank you. Thank you, James, for this presentation. I
+happen to be an NCUC member as well so I think I’m aware of
+this development.
+Because one of the issues that people have is having multiple
+accounts so you said this integrates with other platforms – does
+this allow if I have a Jabber account? I can actually with my
+Jabber account connect to the channel or the group. Is it
+possible? And I know you probably have not checked that. Just a
+question now you could ask or later.
+
+Page 35 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+The other thing is this looks to it may be good for it to become
+the perhaps the “unofficial” communication platform for not
+just the NCUC but for the entire ICANN. So if that happens, I’m
+wondering… if that doesn’t happen anyhow and then perhaps
+At-Large decides to go for this, is there an option to actually
+from my own Rockets connect to yours? Is there kind of
+connectivity if you want to join your channel without necessarily
+creating another account on the NCUC? So that’s just a question.
+
+JAMES GANNON:
+
+Thanks. So on your first question, just looking at my backend on
+the administration, I don’t see an option to log in with a Jabber
+account. However, I know that I can do anything that can
+support [OOF], Facebook, GitHub, GitHub Enterprise, GitLab,
+Google, or LinkedIn accounts. So you can do federated sign-in
+from all of those.
+On connecting chats to chats, as in instances to instances, yes it
+is there using WebRTC, but from what I’ve researched so far the
+administration of that is quite complex. So yes it can be done,
+but I think that would possibly not give you enough value back
+for the increased administration burden.
+
+Page 36 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+DEV ANAND TEELUCKSINGH: Thanks. Actually I do have lots of ideas and questions. But
+maybe I won’t have time to ask all of them. But I think probably
+one key thing is that, how were you able to install the
+RocketChat? Did you get assistance from ICANN? Or is this
+something you just did third party hosting and install it yourself?
+
+JAMES GANNON:
+
+Yes, thanks. So I have the unfortunate ability that I’m a former
+recovering sys admin, so this is actually just hosted on my own
+Amazon Web Services account. It’s using basically the Amazon
+services. It’s using an Aurora backend with an instance there to
+do the frontend. And so I did all the admin and install myself. I
+didn’t go for staff support or anything.
+That might be something – we thought it was the best idea to
+develop it and do some pilot work ourselves, and then if we feel
+that there’s enough value we may come back and put in a
+budget request to say, “Hey, we want to go and do this officially
+now.” This is purely just a pilot phase to see does our
+community feel that this is a useful thing. Because we found that
+we don’t really want to go off and ask for money for something
+for a pilot when it’s only $12 Euro a month. Because we can
+move quicker than that.
+
+Page 37 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+DEV ANAND TEELUCKSINGH: I see another hand raised on that. But just to quickly bring in
+something because we had seen these tools and there’s another
+open source Slack clone called Mattermost. And I think the
+challenge for us is that there is no easy way for us, perhaps we
+don’t have enough sys admin experience, to really effectively do
+it on our own. So one of the things [on] the other platforms that
+we are looking at to addressing that Recommendation #31 is
+something called eXo Platform, which is a kind of knowledge
+management/social media network in one that will also
+integrate wikis and so forth. So that’s another tool that we
+wanted to look at.
+I guess my question perhaps, Mark or Corinna, who hopefully
+they’re still on the call, is that how can we really get these tools?
+Because it sounds like what we really do need is our own testing
+environment, our own hosting environment, where we just
+install the tool – once we have that facility – we just install the
+tool, test it, decide how we like it or not, report on it, and then
+try another tool. I don’t know if Mark or Corinna could say a few
+words to that effect. Corinna? Mark?
+Okay. Well, this is something I want to follow up with staff on
+this.
+
+Page 38 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+CORINNA ACE:
+
+EN
+
+Yes, I would like to follow up on this one. I think it probably
+deserves a little bit more time than the minute we have left, but
+it is something that we’ve – like I mentioned to you and it’s an
+ongoing conversation – we’ve discussed getting this framework
+to a more standard process for being able to evaluate these
+needs and get you to a point of just being able to test these
+platforms. So I think it probably warrants some conversation,
+and again, more follow up. But I would love to bring this up at
+the next TTF call and also just discuss with you and whoever else
+separately is to go forward.
+
+DEV ANAND TEELUCKSINGH: Thanks, Corinna. I see Rafik you had your hand raised?
+
+RAFIK DAMMAK:
+
+Thanks, Dev. It’s just really a small comment here. So it’s always
+about balancing between how much time you will spend in
+analyzing and to think about all cases [inaudible] and testing.
+When I discussed with James a few weeks ago, the idea was let’s
+experiment, let’s see how it works, what kind of issues, and see
+how people react.
+Also, as he explained in one of his slides, also how you be careful
+to not have so many issue that let people don’t get hooked to
+that service. So I think better you start, you experiment, you
+
+Page 39 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+have that pilot, and also using some… like we thought that
+Helsinki meeting is a good opportunity to do so. If it was
+between meetings, I think there will be a low engagement. So
+it’s better I think for you to plan, for example, aim for
+Hyderabad, experiment, and you get things. That’s what I could
+advise here.
+
+DEV ANAND TEELUCKSINGH: Thanks, Rafik. That’s a very good suggestion. And I think that
+getting onboarding is actually quite hard for us. I see Satish, you
+have a comment?
+
+SATISH BABU:
+
+I was one of the early users that signed up for ncuc.chat and I did
+play around a little bit and I found it pretty easy to use and so
+on. My worry more is with the edge conditions. APRALO or some
+parts of ICANN could get pretty large in terms of the [inaudible]
+number of users in certain conditions. By no means is it an
+average kind of a thing, but these are things that happen once in
+a while. How do we test for this edge conditions? Incremental
+testing is very valuable for general user interface or user
+friendliness, use UX basically. But the edge conditions are
+important for us because we don’t want this thing to fail at that
+point.
+
+Page 40 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+JAMES GANNON:
+
+EN
+
+Just very briefly, I have a colleague that I’ve met through my
+research of this who is running it internally in his company with
+12,800 users.
+
+UNIDENTIFIED MALE:
+
+Sorry, a follow up on that comment.
+
+DEV ANAND TEELUCKSINGH: Well, there’s a queue here. Judith and then Seun.
+
+JUDITH HELLERSTEIN:
+
+I wasn’t sure – I liked what you were saying there – but one of
+our issues that we had with Skype, which is why we were looking
+at Slack, is the way of searching. So when people mention
+something, it’s very difficult to find it again. And that’s one of the
+things that we saw that Slack had is the ability to search through
+the archives. But I assume after you get the public archives will
+also be easily searchable.
+
+JAMES GANNON:
+
+Very briefly, if we decide to place this out as a production
+instance and we start having a large archive and this becomes a
+problem [then] search, it actually integrates with the last view
+search and you can actually have a parallel last view search
+
+Page 41 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+instance which will sit there and do real time indexing and will
+do natural language searching for you so that you can say,
+“What did I say on the 25th of November about Slack?” and it will
+go off and find those messages. So search is a really cool feature
+within it once you go to a production instance.
+
+DEV ANAND TEELUCKSINGH: Thanks, James. Seun, you had a comment? Okay. Thanks for
+that. Thanks, James, Rafik, I think this is actually quite very
+interesting and I think it shows a little way forward and how
+some open source solutions that we can deploy at little cost.
+And again, I think perhaps we should structure a more… I take
+your point, Rafik, about let’s have a [info] trial and target it
+towards the next ICANN face-to-face meeting. So, again, very
+illuminating and many thanks. And I think we value your
+feedback and perhaps and we will welcome your participation in
+future TTF calls.
+Thank you. I think we’re coming up to the top of the hour. I think
+there is one thing that I believe Judith, you wanted to say
+something regarding the ICANN 56 Meeting App and the Web B
+scheduling?
+
+Page 42 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+JUDITH HELLERSTEIN:
+
+EN
+
+Yes. I used both the app and the scheduling. The app is good,
+but my problems with the app were when you were outside the
+Wi-Fi, you could not have any access to your schedule. And that
+was a problem I thought with on the app. I also very much liked
+on the schedule the webpage that it had that you could
+subscribe to your own calendar feed. So you can create your
+own calendar and you can subscribe to the events and then they
+would update them as things happen. And I do also like that it
+sends you a reminder each morning of what your day is like on
+your schedule. What would be great if that schedule thing could
+be connected to the app and they could talk to each other,
+because you had to get your schedule, you had to log in. It’s the
+same one you use on the app so it should feed in each other. So
+hopefully that can be changed.
+
+JOSHUA BAULCH:
+
+I appreciate the feedback. Yes, it is something we are
+addressing. We didn’t want to kill our current mobile app. We
+will be resolving those issues. We were aware of them coming
+into this and we knew with the smaller meeting because we
+wanted to introduce the new schedule system on there first with
+a smaller group. But yes, I appreciate it and we will resolve
+those.
+
+Page 43 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+DEV ANAND TEELUCKSINGH: Okay, and I think, Jimmy, I think you have the last word.
+
+JIMMY [SCHULZ]:
+
+Another problem is that the app – it’s really nice, I love it – but
+the schedule is wrong. There are dates in it that doesn’t exist. We
+had that yesterday, Ariel and I was talking about that we had an
+ALAC meeting at 3:15 scheduled that didn’t’ exist and there are
+other things may be wrong which are not synchronized with
+other schedules.
+
+DEV ANAND TEELUCKSINGH: Thanks, Jimmy. I fell for that as well. I was a little bit confused by
+myself when I went to it.
+So okay, I’d like to thank everyone actually, it was great to see so
+many people coming in early in the morning. Olivier, I see you
+have a hand raised. Go ahead.
+
+OLIVIER CREPIN-LEBLOND: Yes. Thanks, Dev. And just a quick note on our wiki pages. I’ve
+looked at those and I knew that we had a page at some point
+which had all of the different products that we had tested. But
+looking at our home page we’ve got only one thing that’s listed
+there. It needs a bit of a clean-up. And certainly the comments at
+
+Page 44 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+the bottom with dozens of people saying, “Please add me to this
+list.” This can all be zapped out, please. Clean it up.
+
+DEV ANAND TEELUCKSINGH: Thanks. I guess that’s an action item for I guess Ariel and myself.
+We can just go through and help clean up. I mean, I do also want
+to like to restructure the wiki page a little bit better and come up
+with ways.
+
+OLIVIER CREPIN-LEBLOND: And certainly an easy to see link because we’re all about
+userability. We’re all about that and if we can have at least a
+front page on this and have that… I saw the table somewhere, I
+can’t find it and I’ve been looking at it for the past 20 minutes. I
+can’t find it, with all the different products that we’ve tried.
+
+DEV ANAND TEELUCKSINGH: It is there. And I take your point, though. Glenn, you have a very
+quick last word here.
+
+GLENN MCKNIGHT:
+
+As Dev says, we really appreciate new faces here. We have
+monthly meetings, so Dev, if you can just let them know when
+our meetings are and so invite them to the calls.
+
+Page 45 of 46
+
+HELSINKI – At-Large Technology Taskforce
+
+EN
+
+DEV ANAND TEELUCKSINGH: Thank you, and I think it’s time. I’d like to thank everyone and
+[we have] more participants. And again, it was good to see a
+good turnout for today’s session so early in the morning. Thank
+you all. Good afternoon, good evening to everyone remote. And
+this call is now adjourned. Have a great day.
+
+[END OF TRANSCRIPTION]
+
+Page 46 of 46
+
+

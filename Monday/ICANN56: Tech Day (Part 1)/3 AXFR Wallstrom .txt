@@ -1,0 +1,318 @@
+The zone files,
+.se and .nu
+Patrik Wallström, IIS
+
+ICANN ccNSO Tech Day, Helsinki 2016
+
+Zone content are
+available for all
+
+•
+
+The zone files for .se and .nu are available since
+2016-05-16!
+
+•
+
+Available through HTTPS and AXFR, no restrictions
+
+2
+
+Background
+•
+
+A year ago, discussions on the transition from
+NSEC to NSEC3 at a IIS DNS Reference Group
+meeting
+•
+
+It’s relatively hard to make this transition
+
+•
+
+Why is the zone content considered to be secret?
+
+•
+
+The DNS Reference Group asks IIS to consider
+the possibility to release the .se zone file
+3
+
+Report to management LG
+•
+
+Background - current limitations to getting the zone content
+
+•
+
+Description of the zone content, what’s in there?
+
+•
+
+Something about IP addresses
+
+•
+
+DNS resolvers and the information about the mechanics behind cacheing
+
+•
+
+Current interest of zone file content
+
+•
+
+Open Data
+
+•
+
+CENTR Survey
+
+•
+
+The zone is available anyway… (NSEC-walking, Google, Dictionary attacks…)
+
+•
+
+What could possibly be secret in the zone file? (Non-launched campaigns, trademarks)
+
+•
+
+The benefits of freely distribute the zone file content
+
+•
+
+Full risk analysis
+
+•
+
+How others distribute their zone files (gTLD, CZDS)
+
+•
+
+How the zone file should be distributed (HTTPS, AXFR)
+
+•
+
+Recommended decision
+4
+
+First management decision
+
+•
+
+Perform external legal analysis
+•
+
+•
+
+Wistrand
+
+Perform externan technical analysis
+•
+
+NLNet Labs
+
+5
+
+Wistrand
+•
+
+Check agains the Law on Top Level Domains in Sweden (prop
+2004/05:175).
+
+•
+
+Check against the Personal Data Act (prop 2005/06:173).
+
+“… en publicering av zonfilen träffas av undantaget i 5 a§ i PUL och
+att hanteringsreglerna därför inte är tillämpliga. Det finns enligt vår
+bedömning ingen anledning att gå djupare in i PULs bestämmelser
+för att utröna om en publicering även skulle anses vara förenlig med
+hanteringsreglerna eftersom det enligt vår bedömning får anses klart
+att påtaglighetskravet som uppställs i 5 a§ i PUL inte kan anses
+uppfyllt och att en publicering av zonfilen inte heller kan anses
+kränka den registrerades personliga integritet. Sammanfattningsvis
+är vi alltså av uppfattningen att en publicering av zonfilen inte anses
+strida mot varken PUL eller Toppdomänslagen. “
+6
+
+NLNet Labs
+•
+
+Inventory of Technical Consequences
+
+•
+
+Transfer/Transport Protocol (HTTPS/AXFR)
+
+•
+
+Robustness of the Infrastructure
+
+•
+
+Privacy and WHOIS Data Mining
+
+7
+
+The second management
+decision
+•
+
+OK! Ask the board to make the final decision!
+
+•
+
+The IIS board decided to release the zone file in
+March 2016
+
+•
+
+The zone is to be released without restrictions
+under a Creative Commons Licens
+
+•
+
+Ok from The IUSN Foundation to also release .nu
+
+8
+
+External Communications
+•
+
+PTS - The Swedish Post and Telecom Authority (our
+regulator)
+
+•
+
+Our registrars
+
+•
+
+The Swedish Data Protection Authority
+
+•
+
+The DNS reference group
+
+•
+
+The public
+
+•
+
+Press release
+
+•
+
+CENTR
+
+•
+
+ICANN ccNSO
+9
+
+© in the zone file?
+$~>dig txt _license.blipp.com +short
+"http://creativecommons.org/licenses/by/4.0/"
+$~>dig txt _copyright.blipp.com +short
+"Copyright (C) 2016 Patrik Wallstrom”
+draft-wallstrom-dnsop-copyright-prefix
+
+10
+
+When?
+•
+
+Last Thursday the information was sent to our
+registrars
+
+•
+
+And to the DNS Reference Group
+
+•
+
+Information at iis.se is published
+
+•
+
+The zone files was released 16th May
+
+11
+
+End users (registrants)
+•
+
+Should think about not delegating domains that are
+considered secret until launch
+•
+
+Such as campaigns, trademark launches
+
+•
+
+“Your registrar can help you with this”
+
+12
+
+https://zonedata.iis.se/
+
+13
+
+Reactions
+•
+
+No negative comments, just the opposite…
+•
+
+Now I can skip my NSEC-walker!
+
+•
+
+Well done, you’re doing the right thing!
+
+•
+
+Can I configure my name server to fetch the
+zone?
+
+14
+
+15
+
+Recommendations
+•
+
+Have a well-protected WHOIS service
+•
+
+Rate-limited port 53
+
+•
+
+Limitations on personal details
+
+•
+
+Contact information behind a CAPTCHA
+
+•
+
+Zone availability from AXFR and HTTPS on a
+separate machine
+16
+
+Questions to you!
+
+•
+
+What do you think?
+
+•
+
+When will you release your zone file content?
+
+17
+
+

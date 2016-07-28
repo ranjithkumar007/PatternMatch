@@ -1,0 +1,828 @@
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+Monday, June 27, 2016 – 13:30 to 14:00 EEST
+ICANN56 | Helsinki, Finland
+
+CHAIR SCHNEIDER:
+
+Hello. Please take your seats. Thank you.
+Okay. Thank you all for taking your seats. This is the first
+afternoon session on the CCT, the consumer choice review team,
+competition trust and consumer choice review team, which has
+been formed by the end of last year. And we are happy to have
+the chairman of this review team with us. It is Jonathan sitting
+next to me for those who don't know him. And he will start
+giving us some insight about how far they have come. So far it's
+like the midterm of that review. Supposed to be completed by
+the end of the year, if I'm not mistaken. You are not 100%
+convinced but not saying anything about the deadline.
+So the floor is yours. Thank you, Jonathan.
+
+JONATHAN ZUCK:
+
+Thank you, Thomas. Thanks for having me here. And thanks to
+the GAC for paying attention to what we're doing at the CCT
+review. I'm joined here by Megan and Laureen with whom you
+are very familiar that are part of the review team and also
+Jordyn Buchanan and David Taylor in the room. So lots of
+people to ask questions of after we have had a chance to go over
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+the basics of the review. This particular review is somewhat
+unique in that work actually began with a board resolution in
+Cartagena, Colombia some five years ago when a board
+resolution was passed to begin to develop metrics that could be
+used for the review team to do its work and to begin to collect
+data.
+So there was a working group followed by an implementation
+group that directed the staff to begin to collect various metrics
+that would be relevant to the review.
+And then another significant thing that came out of that
+preparatory process was a pair of economic studies and surveys.
+And so there was a lot of interest by the initial working group in
+having some analysis done of pricing in the new gTLD space.
+And so there was a pricing study that's been performed by
+Analysis Group. So there was -- the idea was to create one study
+that would happen before the program began, which was
+almost the case -- it happened very early in the program -- and
+then another one a year later to see if there was some kind of a
+delta between the two versions of the study.
+And there was a survey -- sort of two surveys, one of end users
+and one of registrants, in looking at the issues of consumer trust
+that was done in the same way, you know, a year ago and now
+again a year later.
+
+Page 2 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+So where we are with those, I'll mention it briefly in the
+presentation, is that we've gotten the second -- the first version
+of all of them and we've gotten the second version of the end
+user survey. And we're now waiting on the second versions of
+the economic study and the registrant surveys.
+So those are sort of the things that were happening up -- before
+the team was even convened, which, as Thomas mentioned,
+happened in December. And so that's where our story begins, if
+you will.
+So I guess someone's on the slides and I can just say "next slide."
+Is that right? I wasn't handed a clicker, so it's the assumption
+I'm going on. All right.
+
+UNKNOWN SPEAKER:
+
+(off microphone).
+[ Laughter ]
+
+JONATHAN ZUCK:
+
+Exactly.
+So the review is referred to as the CCT review. And so we mostly
+talk about this notion of consumer choice, consumer trust, and
+competition in the DNS space. But there are additional aspects
+to the review as well. One is to evaluate the effectiveness of the
+
+Page 3 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+application and evaluation process. And as is the case in many
+reviews, the notion of effectiveness kind of goes undefined. And
+so the teams have to come up with their own definition, which
+we'll discuss. And the other is to evaluate the effectiveness of
+the safeguards. So this is sort of the broad scope of the review, if
+you will.
+Next slide.
+So one of the things that we had that were relatively new, I
+think, in the world of reviews and perhaps the world of ICANN is
+to employ a bit of rigger when it came to our findings and
+wherever possible make them quantitative and evidence-based
+findings, less anecdotal, less sort of guessing and more about
+forming hypotheses and then trying to prove them with
+quantitative evidence, wherever possible. That's not always
+possible, but that's what we're trying to do.
+And one of the things that that facilitates then is making
+recommendations that can have measurable success metrics
+associated with them. So then the review of -- the next review of
+these things can look back at the metrics that were used in the
+findings to see if there's a change to them to see if there was
+some effectiveness to the recommendations that were made.
+So that's a challenge in and of itself and getting the data, et
+cetera. But that's one of the things that this team is trying to do.
+
+Page 4 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+And then, finally, something else that's new with this is that the
+team is going to stay together after the presentation of its
+recommendations in order to provide a kind of advisory role
+during implementation.
+One of the issues that's come up during the ATRT
+recommendation implementation periods is that the team
+disbands and then later sort of piecemeal comes back to staff
+and says, "That's not what we meant when things get
+implemented." So the idea is for the team to sort of remain in an
+advisory role to staff when things are being implemented.
+So all those things aren't always possible, but those are the
+objectives -- the procedural objectives of this team.
+Next slide, please.
+We divided into three subteams in order to divide up the work a
+little bit for the review. One is a competition and consumer
+choice subteam, which is chaired by Jordyn Buchanan. One is a
+safeguards and trust team chaired by Laureen Kapin here. And
+then there is an application and evaluation process subteam
+which is sort of funny because it's more like a work stream
+because everybody's in it. And I have taken on the role of trying
+to shepherd that part of the review. So those are the three
+teams.
+
+Page 5 of 27
+
+EN
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+And what we did at our first face-to-face in Los Angeles early in
+the year was try to define our own scope. So that becomes the
+responsibility of every review team, is to not to try to boil the
+ocean, if you will, but instead to figure out what areas there are
+of highest import and focus on those issues for the course of the
+review. So next slide.
+For example, the competition and consumer choice team boiled
+it down to these questions. Has the expansion of new gTLDs
+been effective at promoting price competition between TLD
+operators? Has the expansion been effective at promoting nonprice competition between TLD operators? What's the nature of
+competition
+
+between
+
+registrars
+
+and
+
+resellers?
+
+segmentation/regulation valuable to consumers?
+
+Is
+
+In other
+
+words, is making the difference between -- you know, like .BANK
+or something like that, something that's valuable to consumers.
+Have the benefits exceeded the costs?
+And, finally, do consumers have expanded choice in regions and
+languages? So those were the issues that the competition and
+consumer choice subteam decided to focus on.
+Next slide, please.
+
+Page 6 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+In the safeguards and trust team, there was a number of issues
+as well. One is around DNS abuse. Is it more or less prevalent in
+the new gTLDs? This is a hot topic.
+What do DNS abuse policies look like?
+What enforcement mechanisms are in place?
+What role has compliance has been playing since the new gTLDs
+have been allocated? And what kind of abuse complaints have
+existed?
+The impact of safeguards and public interest commitments. In
+other words, you know, how is GAC advice brought in? What sort
+of right protection mechanisms? And, you know, how effective
+were those safeguards?
+Consumer and end user behavior, so this is one of the more
+complicated things. When we were asked to evaluate consumer
+trust, the wording is, Was consumer trust enhanced, right? And
+there's a lot of ways of looking at that.
+So the Implementation Advisory Group thought that the only
+way to measure consumer trust would be to ask consumers.
+Hence, the survey that Nielsen performed before and after of
+consumers sort of asking them, basically, straight out: Do you
+trust the new gTLDs relative to the legacy TLDs, et cetera? And
+that's a complicated issue because there's a lot of things built
+
+Page 7 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+into that about whether they're even aware of it yet. And there's
+a higher trust for .EMAIL, for example, than there is for the other
+new gTLDs. And most of you know that .EMAIL didn't happen.
+So there's always some potential for error in the way that
+consumers look at these issues.
+But we do have two sets of studies. There are some interesting
+findings associated with it that suggest that there's a high level
+of trust of the DNS industry, which we will regard as a good thing
+and that trust at least has not been eroded.
+But in lieu of finding some significant delta, positive or negative,
+associated with consumer trust, what we also are trying to do is
+look at proxies for trust. And so you might think of it instead of
+consumer trust, consumer trust worthiness, right? Was the new
+gTLD program worthy of end user trust? And so trying to look at
+some of the things like DNS abuse, et cetera, to see if consumers
+should trust the new gTLDs more or less than the legacy ones.
+So there's going to be some discussion of both of those that
+takes place in the safeguards and trust team.
+Then there's, finally, this issue of effectiveness and procedures
+to enforce safeguards, what ICANN's role is, and the dispute
+resolution process. As you can see, that's a pretty big chunk of
+topics that Laureen's group has agreed to take on.
+Next slide.
+
+Page 8 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+And in the application/evaluation process, again, this became
+very clarifying in its scope vis-a-vis the PDP on subsequent
+procedures which was launched at relatively the same time.
+Because the number of things that you can look at, and in
+general should look at, in terms of the application evaluation
+process is quite broad. And the PDP process is going to look at
+every little mechanical implementation, improvements to the
+guidebook, et cetera.
+And so what we were able to do was kind of prioritize topics that
+the review team would look at and the PDP process will take as
+inputs from us as they begin to adopt new policy with regard to
+any subsequent procedures.
+And so as you'll see here, this list is smaller than the overall list
+might be in terms of the looking at the application and
+evaluation process.
+One of the things that came up most frequently in the
+brainstorming process was who got left out of the application
+process. So underserved areas and markets, people that were
+outsiders to the ICANN community that weren't -- that weren't
+aware either that it was going on; or if they were aware it was
+going on, didn't really understand the politics of ICANN, didn't
+have a good consultant to guide them through the process of
+
+Page 9 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+applying, et cetera. So trying to find the people that were left
+out of the process.
+And then the other issues, preventing the delegation of TLDs
+that would be confusing or harmful, singulars, plurals, things
+like that that have been hotly discussed.
+Another area that came up -- thanks again to your
+representative on the review team Laureen and Megan -- was a
+discussion about GAC advice and how that advice came on
+board, how it was ingested, and how it was ultimately
+implemented during the application process.
+Then there's IDNs and how effective they were, string
+contention. And then the very notion of rounds itself is a hotly
+debated issue. In other words, can we lay at the feet of rounds
+most of what went wrong with the first set of new gTLDs? And
+are we better off with the process of continuous applications
+that come in more slowly? So those are some of the issues being
+evaluated by the application and evaluation subteam.
+Next slide.
+So what we found is that for a lot of these questions, we're going
+to actually talk to applicants about them because there's few
+things of data sources that we can get to that are third-party
+
+Page 10 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+sources and we need to go right to the source and ask those
+questions.
+And so you can kind of divide the applicants into three
+categories: Successful applicants, those that have delegated
+TLDs; unsuccessful applicants that withdrew -- and by
+"unsuccessful," those are generally applicants that withdrew all
+of the applications that they had, not the ones that succeeded
+with some and decided for reasons we don't know to withdraw
+others -- and then, finally, the exciting category, the unicorn,
+which is the missing applicant, right? People that didn't engage
+in the process at all.
+So if we look at successful applicants, we are going to kind of
+ask what kind of challenges they faced. What sort of help did
+they receive from consultants and others in guiding them
+through the process so that we gain an understanding of what it
+meant to be a successful applicant. And, also, if and how they
+were affected by GAC early warnings and advice.
+Unsuccessful applicants, what happened? What type of help did
+you have? What were the reasons that you left the program so
+we can gain an understanding of what it was that motivated
+people to withdraw their application.
+
+Page 11 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+And so we have those people. We know who they are. And so
+we're going to engage Nielsen to get them on the phone and ask
+these questions.
+The third category is a little trickier. This is -- this is the people
+that didn't apply. And, yet, they seem particularly important to
+speak to -- particularly in the global south and developing world
+to try and understand why there wasn't more participation from
+certain regions of the world in the new gTLD application process.
+And so we want to ask questions like: Why didn't you apply?
+What would you have needed to be different in order to have
+participated in the program?
+So what we've done is engaged an outside firm in a very
+interesting exercise, which is to analyze the people that did
+apply and divide them into categories of companies and entities
+and then go out and research what the analogs or cohorts of
+those applicants would be in the developing world. So the idea
+is to try to figure out who would have applied but for some
+change in the system.
+There are many theories about this that include that they didn't
+know about it; they knew about it but the application process
+seemed to onerous; they knew about it, they weren't worried
+about the application process, they were worried about the $2
+million that it took to actually run a TLD. And then, finally,
+
+Page 12 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+there's even a theory that they knew about it, could afford it but
+didn't actually think that there was a market for them to
+address, which would be sort of the most innocuous answer we
+might get from those cohorts.
+And so when we get this list of companies and the right people in
+them to talk to, we'll, once again, engage with them and try to
+ask these questions about why didn't you apply. And I'm very
+excited to have those conversation and see what kinds of
+answers we get back because those will really make a difference
+in what kind of recommendations that we make. And to be
+honest right now, we have no idea. Everyone has a theory, but
+ideally we would ask the people themselves.
+Next slide.
+So as I mentioned earlier, these are the surveys and studies. The
+consumer survey, both phase 1 and 2 are available up on the
+Wiki. There's a shorthand for our Wiki, which is just cct.wiki.
+We're trying to -- as we say in America -- eat our own dogfood by
+using new gTLDs. So you can go to cct.wiki and see all that we're
+doing. And you can see both sets of consumer surveys.
+Again, there wasn't a very big delta between -- in the issues
+related to consumer trust. So some of that maybe there just
+hasn't been enough time that's passed. Some of it may be there
+just wasn't an impact. I think our findings are going to be
+
+Page 13 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+inconclusive about actual consumer reaction to the new gTLD
+program.
+But it at the same time didn't look like there was any kind of
+erosion of trust among consumers, and a very high degree of
+trust in the DNS market and the providers, the registries and
+registrars that serve consumers.
+You can see the registrant survey results from September.
+That's -- the second half of that's about to be fielded. And the
+economic study results from before the program, and that
+second half of that is now in process as well.
+And then as you -- as I said, the gTLD applicant survey is
+something that we'll be doing very shortly.
+Next slide, please.
+So time line. As Thomas noted, I'm a little bit reticent about the
+time line just because there's a very big research effort
+associated with this and when you're dealing with a group of
+volunteers, sometimes speed is not at a premium, but we were
+scheduled to try and complete the review in a year and we are
+going to do everything we can to have a draft report by the end
+of the year out for public comment.
+So the idea would be around Hyderabad to be talking kind of
+explicitly about our findings and recommendations, put out a
+
+Page 14 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+report in December-January that can -- that's a formal one for
+public comment, and then sometime in April release a final set
+of findings and recommendations for board review. All right?
+Next slide.
+So we are an open process. It's not open in the same way that
+work groups are where everyone can participate directly, but
+everyone -- there is a sort of shadow Adobe Connect room for
+every one of our calls so that you can observe and listen in on
+the call.
+
+And then presumably you have some kind of
+
+representative. In particular, this is the GAC so you have two
+very qualified representatives within the group, and that you can
+channel your input through them or you can reach out directly
+to the whole group through input to cctrc@icann.org.
+So you have those options for input. It's just not live during the
+calls.
+Obviously the transcripts and recordings of all the calls are
+available after the fact as well.
+So we do welcome your input. If you see that a topic that's of
+great interest to you is not being covered, then please let us
+know. If you think that we're missing some way in the way that
+we're looking at a topic, please let us know as well. We're trying
+to do the best review we can to meet the objectives of the
+
+Page 15 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+community in having the ongoing new gTLD program be as
+effective as possible.
+So with that, I and Megan and Laureen and even David and
+Jordyn are happy to take any questions and have any discussion
+about the review.
+
+CHAIR SCHNEIDER:
+
+Thank you. Megan or Laureen, is there something that you
+would like to add? Yes.
+
+MEGAN RICHARDS:
+
+Could I just add one thing?
+I mean, Jonathan's given a really wonderful and thorough
+overview of everything, but I think for this group, there are a
+couple of things that I think are perhaps useful.
+One is with respect to the studies and the surveys and the data
+that we're gathering, and maybe I wasn't listening sufficiently
+carefully, Jonathan, but one thing that I think is important to
+mention for you too is, to the extent possible -- and I underline
+"to the extent possible" -- we're comparing also the results and
+the impact on the new gTLDs with the legacy gTLDs and the
+ccTLD markets, to see if there's a difference in how that's been
+compared.
+
+Page 16 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+But again, to the extent possible. It's not always very easy.
+That's one thing I wanted to add for you.
+And then the other aspect, just so you understand even better
+what Jonathan has already very clearly and well explained is
+that for the developing countries and for the cohort, as he
+explained, of those who did not apply for the new gTLD round,
+two other aspects that are encompassed in the part that he
+mentioned already relate to the cost of the application.
+He mentioned also, of course, the cost of running the new gTLD
+and also the language aspect.
+So I just wanted to add those minor aspects to what was really a
+very thorough and excellent presentation by Jonathan.
+
+JONATHAN ZUCK:
+
+Thanks, Megan. I guess I'll add that the actual process for these
+cohorts is that we'll probably reach out to a few of them to ask
+questions in a kind of a blind way to understand what questions
+we should ask the others, so I think we'll come up with kind of
+categories through a sort of focus group and then reach out to
+the broader group that we get, which is likely to be about 200
+companies, and we'll know more about what questions we need
+to ask when we've asked a few questions, if that makes sense.
+
+Page 17 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+CHAIR SCHNEIDER:
+
+EN
+
+Thank you. So I think we can give us five more minutes for some
+questions. Try to be brief.
+I see Spain, Denmark, and the U.K., so Spain, please.
+
+SPAIN:
+
+Thank you for the presentation. I wanted to ask about one of
+those surveys. I received a message last week, an ICANN news
+alert message, about the publication of a survey conducted by
+Neilsen on behalf of the CCT. The outcome -- or the findings of
+this survey is that there is awareness about new gTLDs and
+increased trust in the domain name system, which is a very
+surprising outcome for me.
+But when I go down, I see that the questions have been posed to
+individuals based on the number of hours they spend on the
+Internet, so I guess that Neilsen has asked people who are very
+familiar with the Internet.
+I think that the survey would be more loyal or more
+representative of what the average Internet user thinks of the
+domain name system if it has been done with users that are not
+so familiar with the Internet, who are the ones who are more
+prone to be cheated on the Internet or be victims of fraud.
+Even though there is a conclusion here saying that more than
+70% of respondents favored some level of registration
+
+Page 18 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+restrictions on both legacy and new gTLDs, this is an increase
+from 2015, so this is an important result to take into account,
+even though I think that maybe the scope of the survey would
+have been -- should have been broader.
+
+CHAIRMAN SCHNEIDER:
+
+Thank you. I think we take the other questions in quickly and
+then give you a -- so Denmark, please.
+
+DENMARK:
+
+Thank you. And thank you to Jonathan for a very good and
+comprehensive presentation.
+I have one question. I don't know whether you touch upon it,
+but in the economical study, is there any indication what the
+new gTLD rounds have -- have cost on the part of the industry in
+the form of defensive registration? Will that be part of the survey
+and the report?
+
+CHAIRMAN SCHNEIDER:
+
+U.K.?
+
+UNITED KINGDOM:
+
+Yes. Thank you, Chair, and thank you, Jonathan, Megan, for
+giving a comprehensive account of the progress with the review.
+And my -- I had two questions. My first question was very much
+
+Page 19 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+in the similar lines to Denmark's with regard to the economic
+study. I think there will be a lot of interest in that. I seem to
+recall back in 2008-2009, it was a real struggle to get any real
+economic analysis out, and the cost/benefits and so on, so really
+look forward to the study.
+And my question really relating to that was: Will it -- will the
+review look at the opportunities for small and medium-size
+enterprises? If the costs of application will come down, as many
+predicted at the time, from $185,000, will there be an
+opportunity for small and medium-size enterprises in -- across
+the world, you know -- and I'm thinking also of businesses in
+developing countries and so on -- through the creation and
+having their own domain names?
+So that's my particular focus of interest. Thank you.
+
+JONATHAN ZUCK:
+
+Thank you for all your questions. I'll just go in order.
+The question about how long people spent on line was not a
+filtering question but just a question that could be used to
+create cross-tabulation and correlations of results.
+So in other words, it's not that they stopped the whole survey if
+people didn't spend any time online, but I -- and I think your
+
+Page 20 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+other observations were good about -- about the increase in
+trust.
+But it felt to me, at least, and everyone is going to have to make
+their own assessment, and Laureen's team still has yet to make
+their assessment, but my first blush is that none of it was
+statistically significant, the differences between the two surveys
+in terms of making a real conclusion about an increase in trust,
+either of the industry or the new gTLDs.
+But as you say, there was something like 70% that thought there
+ought to be some kind of restrictions that agreed with things like
+.BANK, et cetera, that would allow for greater predictability of
+the segmentation of some of the domain names. And so I think
+those are significant results in and of themselves, even though
+they don't represent a delta, necessarily, from the first survey.
+On your second question, it's a very good one. It didn't even
+occur to me to mention, but the -- we did talk about the
+cost/benefit analysis, and that is going to be part of the job of
+the competition and choice team. And so the cost part of that
+very often is going to be in the form of defensive registrations.
+And one of the things that was interesting is that the work group
+and implementation advisory groups both struggle with the
+notion of how to measure things like defensive registrations,
+and again came up with proxies for them. Like, for example, are
+
+Page 21 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+the new domains just pointers to old ones, for example. Is that
+an indicator, potentially, of a defensive registration.
+It's not necessarily an exact measure because there's other
+reasons you might have a pointer.
+And so one of the things we're going to do as well is conduct a
+study of brand owners, probably through the INTA organization
+to get an understanding of what some of the costs have been
+associated with the new gTLD program.
+I mean, part of it is the old strategy of straight defensive
+registrations has not been economically viable because there's
+so many of them, and some of the TLDs have offered alternatives
+to defensive registration in the forms of blocking and things like
+that. So those costs are coming in different ways than they have
+in the past. So we are going to try to do an analysis through a
+survey into INTA members to try and gain an understanding of
+what some of the monies that have been spent for defensive
+purposes.
+And then finally, Great Britain, for your last -- your last question
+about the cost of applications. One of the things we'll be asking
+applicants is the degree to which the cost was a barrier to entry.
+There was something called the Applicant Support Program
+which was incredibly underused; right? There were very, very
+
+Page 22 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+few applicants and only one that I think actually received the
+support.
+So it could very well be that the answer will come back that the
+intimidating thing was not the application but the idea of
+running the TLD in the first place that's actually the cost that
+caused the most apprehension among potential applicants, or it
+could be that there wasn't sufficient awareness of the applicant
+support, and that discussion has been held, you know, down to
+very finite detail, like should they have used radio advertising
+instead of online advertising in Africa, for example.
+So those conversations are definitely part of what we're trying to
+evaluate, and we will make recommendations based on
+whatever findings we come up with talking to the applicants.
+
+CHAIR SCHNEIDER:
+
+Thank you, Jonathan. I think we need to stop here and move to
+the next session. I would like to conclude by thanking you.
+And so just that we get it right.
+So the first text that we are going to see is not before the end -or is towards the end of the year. All the rest will be internal
+cuisine, if I may say so. And so the good thing is that, however,
+people can listen in to your meetings. So please continue to -- as
+did you for the meeting, for instance, in early June, to alert the
+
+Page 23 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+GAC when the next meeting is going to be held, and also to
+provide for something -- that is two representatives, provide for
+some short summary reports after a meeting, like, this is what
+we discussed, whatever you think is of interest to the GAC,
+highlighting that maybe something is controversial or there's a
+new finding. To the extent that you can, give this output since
+these meetings are not confidential in that sense, I think we
+would benefit from getting a little bit more substance before the
+end of the year, because that's going to be very late given that
+some people in other constituencies in ICANN are rushing ahead
+with preparing the second round. And this is fundamental to
+learning lessons for the next round.
+
+JONATHAN ZUCK:
+
+Let me say one more thing on that, I guess, on that. A number of
+things will come out along the way, one of which will be the
+second economic study that will help a lot. And there is a finer
+level of detail that's available now.
+
+For example, the
+
+competition and consumer choice team has gone through and
+actually looked at every single hypothesis that they're going to
+test. And so you can get a more finite version of the questions
+than were presented here.
+
+And the team as a whole will
+
+probably reach -- create a document that we'll roughly call
+"findings" which will become available prior to the document
+that contains recommendations as well.
+
+Page 24 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+So we'll make those things available in stages as well.
+
+CHAIR SCHNEIDER:
+
+Thank you.
+Switzerland, 30 seconds, and then we will stop and move on.
+
+SWITZERLAND:
+
+Thank you very much, and thank you for the presentation.
+Just very shortly, how or how well are you coordinating with the
+PDP on subsequent procedures?
+
+CHAIR SCHNEIDER:
+
+Before you answer the question, I have Paraguay again, and
+then we really need --
+
+PARAGUAY:
+
+Thank you, Mr. Chair. Very shortly. When is the economic study
+or analysis going to be available?
+Thank you.
+
+JONATHAN ZUCK:
+
+The study should come out in the fall. So fairly soon. We've
+been in long discussions with them about what to do. And there
+was a lot of difficulty finding data.
+
+Page 25 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+EN
+
+The registrars were not very forthcoming with data, so we're
+having to find some outside sources for data.
+The registries are required by contract to provide data, but the
+registrars are not, unfortunately.
+As far as the PDP on subsequent procedures, we have two
+members that are on both. Carlos and Carlton are on both the
+review team and in the PDP on subsequent procedures, so
+they're acting as liaisons between the two groups. And we have
+regular calls every other week, leadership calls between us and
+the PDP group. And as I said, we went through a fairly rigorous
+process of going through all the universe of topics that the PDP
+will be examining, and we kind of claimed some, if you will, that
+were the ones that you saw here today as being the high-priority
+topics for the review team. And the PDP are kind of waiting to
+dive into those until they hear results from us.
+So a fairly good level of coordination I think is happening
+between the two teams.
+
+CHAIR SCHNEIDER:
+
+Thank you very much, Jonathan and Megan and Laureen.
+This is the end of this session, and we will immediately jump into
+the other one, because Markus and Manal are patiently waiting.
+Sorry for that delay.
+
+Page 26 of 27
+
+HELSINKI – Competition, Consumer Trust and Consumer Choice (CCT) Review Team
+
+[END OF TRANSCRIPTION]
+
+Page 27 of 27
+
+EN
+
+

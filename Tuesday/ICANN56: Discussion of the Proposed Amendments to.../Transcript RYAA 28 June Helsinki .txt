@@ -1,0 +1,901 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 1
+
+Transcription ICANN Helsinki
+Discussion of Proposed Amendments to the Base New gTLD Registry Agreement
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Dennis Chang:
+
+The recording has started, so let’s get this meeting started. This is the
+Amending the New gTLD Registry Agreement Session at ICANN 56 in
+Helsinki.
+Welcome, everyone. My name is Dennis Chang, GDD Services and
+Engagement Program Director. And I will be moderating this session today.
+So please, for those people who are online and for the recording, when you
+speak, state your name, and then talk into the microphone. For those of you
+who are in the back, there’s a couple of roving microphones on both sides
+that you can use.
+Let me start by introducing the Panels that we have. So I would like the Panel
+members to introduce themselves, starting at the top with Jon. Go ahead.
+
+Jonathon Nevett: Hi. Jon Nevett from Donuts, and I chaired the Working Group.
+Susan Payne:
+
+Hi. Susan Payne from (Vaideus). I was a member of the Working Group on
+behalf of the Brand Registry Group.
+
+Rubens Kuhl:
+
+Rubens Kuhl with (CUT PR), of the (other) Group.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 2
+
+Cyrus Namazi:
+
+Cyrus Namazi, ICANN Global Domains Division.
+
+Krista Papac:
+
+Hi, everybody. Krista Papac with the Global Domains Division as well.
+
+(Francis Gryev):
+
+(Francis Gryev), Southside (Gun-SUFF).
+
+Dennis Chang:
+
+Thank you. And again, I am Dennis Chang, and we will review the Agenda.
+So first, we’ll provide some background of this amendment process and
+present to you the proposed changes to the new gTLD agreement.
+And public comment period we’ll discuss. A few Milestones — that’s
+important. And provide some helpful links for you to follow up later.
+And then we’re going to open it up for Question and Answer session with the
+Panel. So what I would like to ask you is to hold your questions until the
+Question and Answer session because for the first few minutes here, I’ll be
+going through some general information for everyone.
+So how did this amendment process begin? The section 7.7 of the Registry
+Agreement provides the mechanism where I can order Working Group
+appointed by the Registry Services Stakeholder Group to periodically process
+or propose the amendments to the Agreement. Right?
+In July 2014, this process was initiated with RySG, and then, since then, the
+Working Group of the RySG and ICANN have been discussing a set of
+revisions to the Registry Agreement.
+And those discussions or bilateral negotiations, after 18 months, have
+resulted in a set of proposed changes, which is presented to you today.
+So what are the changes? Some of the changes are clarifying responsibilities
+and updating to the term — more of the administrative type of changes. The
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 3
+
+proposed revisions were largely focused on technical corrections and
+clarifications, and the ICANN published a summary of these changes on our
+Web site.
+And I’m sure you have all seen that. The final revisions will be implemented
+using the Global Agreement, rather than restating the existing Registry, when
+this is an important point we will discuss further later.
+The newly contracted gTLD will be signing the fully amended Registry
+Agreement is the plan. Specifically, section-by-section, we will talk about
+what the changes are. On the monthly reporting, we provide a change where
+Registry operator with a flexibility to defer the first month’s report if the
+delegation has occurred during the second half of the month.
+We also clarify that Registry operator will include domain names created
+during the pre-delegation testing in the monthly report if the names have not
+been deleted at the time of the delegation.
+Section 2.9 for Registrars: we propose a revision to clarify that under the
+former Registry Agreement that ICANN does not approve pricing changes.
+Can you all see that? Okay.
+Section 5.2: Arbitration-wise, we are specifying the manner in which the
+arbitrator will be selected for arbitration proceedings.
+Section 6.7 Fee Reduction Waiver: We are proposing that ICANN may
+determine to reduce the fee payable by the Registry operator under the
+Registry agreement. Under this provision, ICANN will retain discretion to
+determine whether a reduction in fees is appropriate, including the terms of
+any such reduction.
+In 7.5 f ‒ Change of Control in Assignment and Subcontracting section, we
+propose a revision creating a new defined term, Affiliated Assignee, which
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 4
+
+has the effect of facilitating reorganization by Registry operator without
+triggering a consent right of ICANN. Additionally, the revision also clarifies
+that the Affiliated Assignee’s assumptions of the obligation (onto) the Registry
+Agreement must be made in writing.
+Exhibit A of Proof Services proposed revisions are as follows:
+Item 111 to 115: to reflect the ICANN’s current practice of describing DNS
+services in existing Exhibit A and Item 116-117 and 1-2 we add clarification to
+the DNS classes permissible, and added permission to use txt and type 65534 records in some circumstances.
+Spec 3: We propose a revision clarified fields in transaction and activity
+reports.
+Spec 4215 ‒ Use of Data by User section: We’re proposing a revision that
+reflects harmonization of provisions with a (C-Z-D-S) terms of service.
+Specification 61.4 concerning IDN, we propose revision intending to capture
+a circumstances where the provision of Exhibit A may conflict with IDN
+Guidelines in the future and provide priority to the ICANN IDN Guidelines.
+Spec 7, Section 1 ‒ Rights Protection Mechanism: We’re proposing a revision
+clarifying that Registry operator must enter into a Registry-Registrar
+Agreement with at least one ICANN-accredited Registrar, and specify the
+timing related thereto.
+Spec 13, we are proposing a revision in response to the request by dot brand
+TLD operators, and provide that global amendment. Example: Amendments
+approved pursuant to Section 7.6 or 7.7 of the Registry Agreement that we
+cannot amend the provision of Specification 13 unless such amendments are
+approved by dot brand TLD Registry operators.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 5
+
+So those were the summary of revisions. And we’ll look at public comment
+period. So 31st of May, ICANN notified all the Registry operators that the
+public comment period for the proposed amendment was open. And Section
+7.7 of the Registry Agreement states that the proposed amendments will be
+published for a minimum of 30 days.
+However, ICANN has extended that period to 43 days. Once the public
+comment period ends, ICANN and RySG Working Group will consider the
+comments submitted and then submit a final proposal to all Registry
+operators and the ICANN Board for a vote.
+Now, please note that the comments received which do not pertain to the
+proposed amendments will not be considered.
+If the amendment received ICANN Board approval and the Registry
+operators’ approval, it will become effective 60 days after ICANN sends legal
+notice to the Registry operator. All members of the ICANN community are
+invited and encouraged to provide feedback. Public comment period ends 13
+July, 2016, so please go ahead and submit your comments to our public
+comment.
+Let’s look at the Milestones. So, the public comment period opened on 31
+May, right? It ends on the 13 July. And we will be providing a report on 12
+August. And following that, we will request the Registry operator for a vote or
+slash approval, an approval request through the ICANN Board, and once
+that’s approved, then amendment will become effective upon 30 days’ notice
+from ICANN.
+Here are a list of helpful links, and this slide will be posted online as with all of
+our other ICANN presentations, so let’s get to your questions and answers so
+we’re ready.
+So anybody? Go ahead. Reg.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 6
+
+Reg Levy:
+
+Reg Levy, Minds + Machines. Is the fax number still a requirement under
+this? Just in general. There are a number of instances where I’ve been
+required to provide a fax number and, given the realities of current
+technology, that fax number just goes to an email address. ICANN also
+doesn’t have a physical fax number, so it seems very odd that it’s a
+requirement. It is fine to have it as an option, but.
+
+Krista Papac:
+
+So, Krista Papac, ICANN Staff. Thanks, Reg. Are you talking about, like,
+when you’re providing contact information in the Portal, or are you talking
+about something in the Registry Agreement, or both?
+
+Reg Levy:
+
+Both. It’s my understanding that the requirement in the Portal stems from the
+actual contract.
+
+Krista Papac:
+
+Yes. So, Krista Papac, again, for those participating remotely.
+So it doesn’t really tie to the contract — the requirement for the Portal, and
+with fax numbers, my recollection — and I am working a little bit from memory
+here — there are certain types of contacts that we do ask for a fax number,
+and while I know it seems very outdated, there’s certain parts of the world
+where fax tends to be our most successful way of getting in touch with them.
+And it’s one of those things where you can’t make it required for some and
+not for others, so it’s more of an operational thing than a Registry Agreement
+thing, so in cases like emergency contact or certain types of contacts, we
+plan to continue to still require fax. But I’m happy to discuss that further with
+you if you would like.
+
+Dennis Chang:
+
+Did you have a question, Edmon? Go ahead.
+
+Edmon Chung:
+
+Edmon Chung here. Just a comment on one of the points that was presented.
+On the Exhibit A and Specification 6 on the IDNs. Just a slight clarification.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 7
+
+Not necessarily the future, any conflicts with the future IDN Guidelines, but
+also potential conflict with the current IDN Guidelines.
+And so I just want to make sure that’s covered. So there has been cases
+where it has been identified that there are conflicts between Exhibit A and the
+current IDN Guidelines, and this amendment addresses that issue as well.
+Dennis Chang:
+
+Thank you, Edmon. Next question? Go ahead.
+
+Denise Michel:
+
+Denise Michel, Facebook. I’m here on behalf of the Business constituency.
+Could you and/or the Panel members give us some more background on how
+the impetus for these particular amendments — how the group of
+amendments were arrived at, and if there were additional amendments that
+the group considered but did not include?
+
+Cyrus Namazi:
+
+Thank you, Denise. This is Cyrus Namazi with ICANN Staff. This has been a
+lengthy process, actually, as you saw from the presentation earlier. I see
+were coming up to a two-year anniversary of when the Stakeholder Group
+noticed ICANN with the intent to propose modifications to it.
+It started off with a fairly lengthy list of proposed revisions, and over the
+course of 18, 20 months, that we were engaged with the Stakeholder Group
+Working Group that the list was modified. I think it was shortened
+considerably, and I’ll let (Jon) and Susan comment on that as well.
+And at least from my perspective, overall it ended up being more of a
+clarification and clean-up of language; so that the Draft 1.0 that we all agreed
+to back in 2013, not too much substantive issues ended up being a part of it.
+I’ll let the representatives from the Working Group also comment on it if you
+like.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 8
+
+(Shore Dana):
+
+(Shore Dana) for the record. Great questions, Denise. Yes, we started this
+process in July of 2014, and now we’re almost, you know, the end of June of
+2016, so it’s been literally two years.
+We each had a list of proposed changes that we wanted to discuss, and as
+per the terms of the Registry Agreement, that’s the process; that we notify
+them that we want to discuss changes, and they notify us that they want to
+discuss changes. We just did it together. They shared a list with us; we
+shared a list with them.
+It was a lot — I wouldn’t say it’s a lengthy list, but there were a number of
+items on those lists from two years ago, and they got whittled down, because
+you need agreement of both parties. So if we didn’t agree, they dropped it.
+And if they didn’t agree, we had to drop it. And that’s why we got down to,
+you know, a list of more clarifications.
+There are some substantive changes in here that we think are helpful and
+clarifications that we think are helpful. But the list of issues that we didn’t deal
+with is larger than the list of issues that we dealt with.
+
+Susan Payne:
+
+Just to add, I suppose in terms of the list of requirements from the Registry
+side, we basically just discussed it with the Registry Stakeholder Group, so
+there was a sort of, you know, an initial crawl through the list of what do you
+think? Do you think we should set this in motion?
+And those who were interested then participated in a Working Group, you
+know, all submitting their sort of suggested issues for negotiation, and we
+ended up with a kind of, you know, fairly substantive spreadsheet of issues
+and amendments we wanted to talk about, which we then swapped with the
+ICANN Staff and worked from there.
+
+(Shore Dana):
+
+One additional point is — and it goes to Reg’s question before, you know. It’s
+been awhile since we’ve actually exchanged the list of items, so new ones
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 9
+
+have come up, and people have had some new ideas that we haven’t dealt
+with, because we kind of closed the queue, in a way, probably about three or
+four months ago. More, six months, yes.
+And so the question for the Stakeholder Group in the next few meetings is
+should we kick this process off again and start dealing with the pent-up
+demand for other changes? And you know, that sounds like a little
+frightening, and I’m hearing, you know, internal screams from the folks over
+here.
+But so that’s something that we need to decide. Are the changes that we
+haven’t dealt with that might go through this process with some success
+worth the pain of going through it again? You know, hopefully, it wouldn’t be
+two years, but maybe another year of negotiations, and doing this public
+comment, and changing all the agreements and, you know, publishing
+everything.
+So that’s something that we need to consider.
+Katrin Ohlmer:
+
+Katrin Ohlmer, (dotBERLIN). One foot up on correction about the fax number
+and (unintelligible). So this is still mandatory or voluntary? So I think there
+has been some confusion whether the fax number has to be provided and
+see that they get (at) inquiries.
+
+Krista Papac:
+
+Thanks, Katrin. I know, I think there’s already a comment in the public
+comment form about this as well. And we definitely will take into
+consideration as we’re evaluating the comments and thinking through.
+It’s kind of the earlier point I made about fax number is sometimes the best
+way to get hold of people, which could be useful to Registries — or maybe
+not. But I know there’s a public comment already about that. Please feel free
+to also submit your own comments on that, and we’ll definitely consider that
+when we’re working with comments. Thank you.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 10
+
+Dennis Chang:
+
+Go ahead.
+
+Woman:
+
+I’d appreciate hearing some more background on the changes to 2.10 and
+6.7. Why were they done? What did they mean?
+
+Jonathon Nevett: Be happy to take those — Jon Nevett again.
+So you ask about 2.10 and 6.7. So I’ll go with 2.10 first. That’s pricing for
+Registry services. So Registry has to provide its customers, the Registrars,
+notice of any kind of price change. And this notice depends on whether it’s
+going up, going down — so there are different notices.
+And what we did in the original agreement, back in 2013, is that ICANN would
+also get a copy of any notices. And ICANN – we’ve been doing it, so if we
+change one domain name, the price of one domain name, we have to notify
+ICANN and there’s nothing that they do with it. It goes into some holding
+pattern, I guess.
+And so they weren’t doing anything with it, and it was pain in it for us to send
+it to them as well. And the Registrar is getting notice, so if there is a problem
+on the Registrar perspective, they’ll raise it to ICANN anyway. So it was just
+an administrative burden for both us as Registries and ICANN, and it wasn’t
+providing any value. So we cut out the notice to ICANN.
+Again, the Registrars get notice, and to the extent a Registry is ever accused
+of not following the process or having some issue with the price change or
+increase or something like that, they will notify ICANN immediately. That’s
+what the Registrar would know to do.
+And having notices from a thousand Registries of different price adjustments
+didn’t make sense from an ICANN perspective. So that’ the genesis of that
+one. Rubens, do you have something to ask?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 11
+
+Rubens Kuhl:
+
+Rubens Kuhl. Just a minute. ICANN already doesn’t receive information on
+the initial pricing, so that only applies to the prices that are being changed. So
+that was also asymmetry that we wanted to fix.
+
+Krista Papac:
+
+Thanks, and that’s a useful point. What’s the rationale on ICANN receiving
+price changes but not initial pricing? Does anyone know?
+
+Rubens Kuhl:
+
+No, that’s why we are proposing that.
+
+Jonathon Nevett: It was just a disjoint in the original drafting of the Agreement, in my opinion.
+Okay, 6.7 is probably a longer story. The genesis of this one — this is a fee
+reduction waver. We had discussed actual reductions in fees when we first
+started, and we had other proposals in there from a registry perspective that
+all got whittled down.
+So the issue for a fee reduction waver is to put ‒ to align ‒ the Registries with
+the Registrars. So for example, the Registrar accreditation agreement doesn’t
+have the 18 cents transaction fee in their agreement, and because of that —
+it used to be 25 cents; it went down to 22 cents if you did certain things; it
+went down to 20 cents.
+So the Registrars were able to negotiate different price changes depending
+on volume of names and other factors, as part of the budget cycle. Because
+the 25-cent fee is in the Registry Agreement itself, any kind of reduction
+would have to go through a full contract amendment.
+And so the provision was added — the proposed provision is in there — to
+deal with that situation, that if there’s an explosion of new top levels of main
+Registrations, and ICANN’s budget is bloated, and they want to have a
+waiver, we don’t have to go through the two-year process of amending the
+contract. We could just do it as part of the budget process.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 12
+
+We had asked for some more language in there related to transparency and
+discrimination so that, you know, it's not - we didn't want any perception that
+ICANN to play favorites and say "Oh, we like you so we're going to lower your
+fees but no one else's based on the provision." I've heard some of those
+concerns in the registry - registrar call we had last week. And that's not the
+intent. ICANN's position was we have accountability and transparency
+requirements. We don’t need to spell it out in this provision even though we
+asked for it. So they cut that out. And so that was their position. You know,
+the - we envision any use of this to be objective, public and obviously
+transparent. So that was the goal and the genesis of this fee reduction.
+Man:
+
+Any other questions? Comments? Anybody behind (crosstalk).
+
+Man:
+
+Where's the coffee?
+
+Man:
+
+So we did have a webinar on this earlier and that may be why there is less
+questions at this forum. And that's okay. So we do have the public comments
+period still open, right? Another 15 days. So please go ahead and provide
+your feedback there. So unless there is any - okay, we have one more. Two?
+
+Man:
+
+(Unintelligible) France. Maybe I didn't understand all the details about the
+Specification 13 thoughts about the votes. Are there any official completely
+detailed rules on the votes of - how do you define it's been exited by the
+registry? By the boundaries for this (unintelligible)?
+
+Susan Payne:
+
+I'll try. Susan Payne for the record. And actually I'm going to call up the
+contract to be sure I look at the right thing. Basically what the current contract
+has is a provision that everyone who has - closes 7.6 and 7.7 in their contract
+everything - effectively every single registry votes on all changes. And what
+we were concerned about was that you could have a theoretical situation
+where you might be an open registry without Specification 13 but you would
+be voting on a change to Specification 13 but it wasn't in your contract. And
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 13
+
+this seemed to us to be - certainly seemed to me to be an unintended
+consequence of the way that Specification 13 developed and was sort of
+inserted into the contract eighteen, you know, two years ago. Eighteen
+months ago.
+So the amendment is to address that so that there is a provision now that
+says that it's - if it's an amendment proposed under this kind of collective
+negotiation process for an amendment to Specification 13 then you need to
+be one of the registry's that has it in your contract to vote through the change.
+And specifically, the voting is still - the same kind of criteria have been
+applied.
+So there's a kind of (T-stage) qualification for the voting. First of all, there's a
+voting based on, you know, one vote per (TLD). And then there's a sort of
+safeguard which is related to the amount of fees paid to ICANN. And
+effectively the amount of fees you pay to ICANN depends on the number of
+domains you have under management.
+Now, personally I don't feel that that's a necessary to stage voting for a brand
+registry because the number of domains you have, and the fees you pay to
+ICANN, is not really the priority of the brand registry. And the value of a brand
+registry to you, you might have one name but it doesn't mean it's not valuable
+to you. But nonetheless, you know, that is what's being proposed. And the
+idea, as they say, is that you vote if you've got the provision in your contract.
+So you're voting for an amendment that actually affects you.
+The other thing to just mention is that ICANN stuff where we're very
+concerned that there shouldn't be unfair treatment. And therefore there is
+also a kind of veto from the open registries. But -- Cyrus is smiling -- this was
+the subject to a lot of negotiation and debate. And they felt that it was
+appropriate that open registries -- even though they don't have Specification
+13 -- should be able to say "I know all of you guys have voted "yes" but we
+think this is inappropriate and so we're voting "no"." So there is a kind of -
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 14
+
+there is a veto in there from all registries if they don't agree with the change.
+Yes. I hope - does that help?
+Man:
+
+Yes. It have. So just to summarize. I mean, if you - if someone wants to make
+a change to Specification 13 it's only the people who have that would vote?
+Or am I too simple?
+
+Woman:
+
+Effectively yes.
+
+Man:
+
+Okay.
+
+Man:
+
+So - (unintelligible) get to...
+
+Woman:
+
+Yes.
+
+Man:
+
+Okay.
+
+Woman:
+
+So just to make sure I get this correct. So both vote but it doesn't pass for the
+Spec 13 Provision unless the second threshold four specs goes with Spec 13
+is also achieved. And then just one clarification -- which is probably obvious
+but I don't like to assume. I try not to assume too often things are obvious. So
+this is a proposed provision for this particular - for these proposed
+amendments the vote - this provision would not be incorporated. Just be the
+single vote this time around. And if it was included - if this amendment, you
+know, was inked -- for lack of a better word -- that would be in there for future
+votes. For future amendments.
+
+Brett Fausett:
+
+Brett Fausett from (unintelligible) registry. I have a couple of mechanical
+questions about the process forward from here. At the end of the public
+commentary, assuming that everyone agrees that changes should be made,
+when would those changes go into effect? And then how would they go into
+effect? Will the base agreement just be deemed amended by this process?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 15
+
+Will we have to resign an amendment? You know, just mechanically will you
+send something out to us? Or what? How will it take effect?
+Krista Papac:
+
+Thanks Brett. It's Krista Papac. So - before that point. So after public
+comments, summary and analysis report, we also work with a working group
+on looking at the public comments. This is all sort of spelled out in the
+agreement but just for the benefit of everyone. I know Dennis kind of covered
+this earlier. Amendment needs to be approved by the vote of the registries,
+which has two thresholds to cross. Has to be approved by the Board. And
+then once all of that happens the way we're anticipating implementing this -and it's in the public comment form if you - I know there's a lot of very dense
+documents there so -- but the way we'd like to implement it is with a Global
+Amendment. Which basically summarized what each of the changes are.
+That Global Amendment would be sent out to each affected party, contracted
+registry operator that's affected by it, that has this amendment provision in
+their contract. So that's 2012 Round (GTLD)’s as well as some of the
+legacies who now have this provision. Nothing needs to be signed which is
+really awesome because that's pretty laborious. Definitely for ICANN and
+certainly for those that have portfolios of TLD's. And I think the - it's a 60 day you get a legal notification from us with the Global Amendment saying that it's
+affective in 60 days. And then we go from there.
+
+Jonathon Nevett: If I could add one thing (Shawn). What came - I don't know if you were on the
+webinar on -- what was it? A week or two ago? When we discussed - there
+was one issue that was - that is open and then that Krista referred to as being
+discussed I guess. Is what will ICANN show on the Web site for the - in the
+Resource Section for our registry agreements? Will be the old registry
+agreement and then they'll be a click to another - to the amendment that
+changes that? Or will we have a - essentially an amendment restated version
+up on the Web site so you have the current version? And that's still an open
+issue.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 16
+
+It's an administration hassle for these guys to go through all the contracts and
+put all the changes in to each one but it's - it would be great if that happened
+because then when you click your contract you actually see your contract.
+You don't have to cross-reference any additional amendment to say "Oh,
+what's Provision 75 say?" And you pull up Provision 75 and you have the actually the wrong provision because it's been amended and you're not
+cross-referencing it. So that's an open issue that's being discussed, certainly
+internally.
+Krista Papac:
+
+(Ken), if I could just follow up on that? Thanks Jon. Krista Papac again. So
+the way that amendments are today -- for anyone who's amended their
+agreement -- you would know - you might know this. They work very similar
+to this. Only their signatures required. So the way that all of the agreements
+are set up -- if you go look at your Registry Agreement Page, or pages if you
+have multiple TLD's -- you have the Base Agreement that you signed, any
+subsequent amendments, two Character Authorizations. You know, kind of
+the - it shows the history of everything. So - and the way that -- and I'm not a
+lawyer -- but the way that I understand it from our legal counsel to the way
+that our contract is written it's meant to be amended. And this process is
+meant to deliver an amendment rather than a preform a restated agreement.
+And to Jon’s point, not just administrative burden, the human error factor is
+also, you know, all of your agreements are very, very different. These
+amendments, you have different Spec 11 Provisions, you have different
+Exhibit A's, you've made notice at changes to your 7 dot 9 Contact
+Information. Just those are the things that come right off the top of my head
+right now. So the human error factor of trying to restate those is just - is a bit
+problematic as well.
+And then the other thing I wanted to make sure, I didn't mention earlier, is the
+other thing that we would publish at the top of the Registry Agreement Pages
+we have the - what's the current Base Agreement. And - which is just like the
+generic version of the Base Agreement. We would also add the Global
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 17
+
+Amendment there as well as, I believe we envision putting a red-line of this
+new Base Agreement against the old Base Agreement so you could kind of
+see what the standard base looks like in a red-line form. That might make it a
+little bit easier to decipher. But to Jon’s point, we are still discussing it and…
+Jonathon Nevett: (Shawn), I wonder if there is a way that if you pull the Agreement up any
+provision that's been amended -- so it's highlighted or something. That - I
+wonder if there's an easy way to put that in. So, you know, 7 dot 5 was
+amended. You pull up your contract and you see it's highlighted or
+something. You don't see the new language but at least there's a alert. Alert.
+Don't rely on this provision because it's been amended subsequently. Maybe
+there's something we could look at. Do something like that or something.
+Krista doesn't like it. Nope. You want to play poker with Krista.
+Krista Papac:
+
+And that's what I want you to think. Success. I do - I completely see where
+you're coming from. One of the reasons I think we took this Global
+Amendment approach is sort of to make that a - it looks a little bit like the
+Chart of Changes. So you can - some of the - if you look at the amendments
+you guys have today it has, like, "wheretofore's" and "whereas's" and a whole
+bunch of stuff that leads in. It says "We take this out and we replace this."
+And that's actually much more difficult to follow than - it's almost a chart.
+The Global Amendment itself is almost a chart of the changes. It's not exactly
+what you're talking - we're trying to get there is what I'm saying. Looking for
+the most useful but manageable solution. So anyway, thank you and we will
+keep talking. With my poker face.
+
+Man:
+
+Thank you everyone. We have one more question here.
+
+Jim Prendergast: Sorry. Can't get out of here that quick. Jim Prendergast, the (Unintelligible)
+Strategy Group. There's a slightly different take on what Brett said because I
+think you said "Well assuming everybody's okay with these changes." If you
+look at the comment period right now there are comments that are suggesting
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 18
+
+alternative paths to what's in the amendment. So could you give a little more
+insight into what happens when you do have comments that are critical or
+suggesting something else? How is that going to be resolved? What’s the
+process there?
+Krista Papac:
+
+Thanks Jim. It's Krista Papac again. Are you sick of my voice yet? So this is
+the first time we're doing this. But overall the way the negotiation process are
+articulated in the contract and - is there basically has to be agreement
+between the working group, the registry stakeholder group, and from the
+registries, and ICANN in order for the changes to be done - deemed okay or
+whatever. We have to have agreement. So the way I believe we're
+envisioning this is taking the public comments -- and again, there's a
+provision in there also that talks about working with the working group staff
+and the working group through the public comments -- so our best current
+thinking is that, you know, through that conversation we come to some place
+where we're in agreement. And then again it would go to a vote from the
+registry operators. So all registries have to agree to it and approve it under
+the contract. And then again, the Board also has an approval step.
+
+Jim Prendergast: So then -- it's Jim again -- I guess the follow up. So essentially, you know, if
+somebody's recommending that the price notification - where ICANN's
+dropped from the price notification and say somebody's advocating that that
+shouldn't be dropped. Then the negotiating team and ICANN will get
+together, discuss whether or not you accept that edit or not, and then it goes
+forward to a vote to the registry stakeholder - or the registries?
+Krista Papac:
+
+Yes, I believe so.
+
+Jim Prendergast: Okay.
+Krista Papac:
+
+Thanks Jim.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 19
+
+Jonathon Nevett: This is Jon. There are four comments so far. There's one on that 6 dot 7. And
+then - that comment was more along the lines of it should be changed not
+dropped. But yes. I think the process was that's right Jim. That we - we'll get
+together after and look at it. If there's an overwhelming outcry about a, you
+know, a provision then obviously we'll have to take that into account and
+decide what to do about that one.
+Jim Prendergast: Yes. I'm just trying to anticipate the flood of comments on July 12.
+Man:
+
+Go ahead.
+
+Keith Drazek-Neustar:
+
+Thank you very much. Keith Drazek. Verisign Registry
+
+Stakeholder Group. And I apologize for asking this question here in this
+session and not previously in, you know, the various discussions. But in
+Exhibit A in -- I think it's Section 1 point 2 of Exhibit A -- there's a reference to
+Dotless Domains and while appropriately I think it actually confirms that
+Dotless Domains are prohibited in the new GTLD's. Something ICANN Board
+resolved back in 2013. There's some new language around the introduction
+of the use of an (arcept) by a registry operator to seek, I guess, a waiver or
+permission to be able to use Dotless Domains.
+And it seems that that might be, you know, a possible circumvention of the
+ICANN Board's position on that. And so I was just - and there's no
+explanation or rationale included as to why that language was included or
+added. So I was just hoping that we could get a little bit more clarification
+about sort of how that got in there, what the intent was, where it came from.
+That would be helpful. Thanks.
+Francisco Arias:
+
+This is Francisco Arias - ICANN staff. So this is (unfortunate) (unintelligible)
+way to present things I guess. Because this is not new language. What
+happened is for reasons that escape my memory. They basically
+(unintelligible) does not contain Section 1 of Exhibit A. I honestly can't
+remember why. It was three years ago. Or two. Whatever it is. The point is
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 20
+
+Section 1 is that very include - that is specific language without change. It is
+in all the new TLD agreements on - even in some of the last TLD's that have
+both of these new form of agreement. There are indeed some changes
+related to Section 1 of Exhibit A but they are not about Dotless. So that
+language that you have there is indeed prohibiting Dotless. It mentions
+(arcept) because as far as I understand they - even if we didn't mention it
+every registry it's a person is entitled to request change to their services. And
+whether that will pass -- an (arcept) for example -- that's a (recent) question.
+Keith Drazek-Neustar:
+
+Thank you. Just a follow up. Thank you Francisco. I'll have to go
+
+back and take a look at the previous language just to confirm my
+understanding. But it seems to me that if we're looking at something like
+Dotless Domains specifically -- I'm not addressing some of the other records
+that were addressed in that session but Dotless Domains was specifically
+prohibited by the ICANN Board -- that the appropriate place to reference
+Dotless Domains in the new GTLD Registry Agreement would be in the
+Section 2 point 2 or something similar to the prohibition on wildcarding. So
+the idea that there might, you know, be a submission of an (arcept) to seek
+approval of something that has been explicitly by the ICANN Board, it seems
+much more, I guess, comparable to section 2 point 2, which is the prohibition
+on wildcarding. Not allowing for a registry to submit a proposal, an (arcept)
+proposal. Which would have a, I think, a much lower threshold of community
+input, and review, and Board consideration potentially than something that
+might require a change to a Board resolution. Thanks.
+Cyrus Namazi:
+
+This is Cyrus Namazi. Thank you Keith. That's a good input. I think we should
+go back and take a look at it to make sure that, you know, the intent here is
+reflected in what's posted and ultimately adopted. I just want to make sure for
+the record that there is no implication here of ICANN, and perhaps the
+stakeholder group, wanting to provide a backdoor for, you know, Dotless
+Domain to come back. There's no intention of that at all. Just wanted to state
+that for the record. How the red-line is presented perhaps may have given
+rise to that perception. Now again, I also want to echo what Francisco said.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 21
+
+Which is, you know, in terms of any registries being able to submit an (arcept)
+to ICANN for any type of service they want to, they can. There's no way that
+we could tell them not to. How we end up processing it and ultimately
+approving or disapproving it then falls into that category.
+Jonathon Nevett: Jon Nevett. So the bottom line is this language is in the current agreements
+anyway. So it's not a change. So …
+Cyrus Namazi:
+
+That's right.
+
+Jonathon Nevett: Okay. Thank you.
+Man:
+
+Go ahead Edmon.
+
+Edmon Chung:
+
+Just a comment -- Edmon here -- just a comment on that actually from
+Francisco. In terms of Exhibit A, I think one of the reasons why a few years
+back it wasn't included is the intention of -what was advertise at that time was
+that we just reflect what was in the application and, you know, it should
+reference back the approved services based on the application and the PDT
+and those kind of things. And therefore was left blank. And then subsequently
+the language was produced. And, you know, I guess that led to the - all this
+sort of discussion in this particular round.
+And then a couple comments. One, on the kind of effective agreement -which Jon mentioned. And I understand the difficulty Krista mentioned about
+the human errors that may be produced if we create an integrated version of
+the - of a contract. But I think some thinking towards that might be really
+useful because with the amendments piling up or, you know, as they increase
+over time it would be useful to have a version. Even if you say that version is
+not the definitive version and if there's any error go back to the amendment,
+the original one. That would be useful for reference just to read through for
+registries and other people trying to read through the agreement. You can
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 22
+
+have a disclaimer that says "This version is, you know, not the definitive
+version but, you know, just for reference."
+Like - and then a third comment on Jon’s point about if we do the next round
+of amendments. We probably looking at even more complications with the old
+TLD's coming in - back into this format and so I wouldn't expect the shorter
+time to go through my, you know, it would be very optimistic to think about it
+being shorter than what we did this time.
+Krista Papac:
+
+Thanks Edmon. It's Krista. On your point about having a non - an unofficial
+version of a preformat agreement. So - and we have heard you guys on this.
+Going back even to the webinar and the discussion there. One of the things
+we're looking into -- and I cannot promise you this in any way, shape or form
+today -- I cannot promise you this. But we are looking into it, is to see what's you guys all know we're working on sort of re-configuring the GTD portal. And
+one of the things I'd love to get to is something like that. Either through the
+portal or through some other type of technology. It's very preliminary stages
+because we just started talking about it based on the webinar. So the point is
+we're trying to see if there's some way that you could sort of produce
+something like that through technology that is, you know, part of your portal
+or some other thing. If we get there, great, you know, we'd like to get there
+but we're definitely looking into it having heard what you're guys' feedback
+and your concerns.
+
+Man:
+
+All right then. I think that's the end of those questions so we will go ahead
+and close this session. Thank you everyone for coming and participating. And
+we'll see you again on another meeting. (Crosstalk)
+
+Krista Papac:
+
+Sorry. Really quick. I just wanted to thank (Susan Rubens) and Jon. Of
+course the ICANN Staff folks. But especially you guys for help, you know,
+participating in this. Again, really appreciate the collaboration and teamwork.
+So thanks.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/2:01 am CT
+Confirmation # 8995794
+Page 23
+
+Jonathon Nevett: Thank you.
+
+END
+
+

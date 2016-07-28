@@ -1,0 +1,1631 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 1
+
+Transcription ICANN Helsinki
+the GNSO Next Generation Registration Directory Services to Replace Whois Policy
+Development Process Working Group
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Man:
+
+Today, June 28, 2016. This is the second session of the GNSO Next
+Generation Registration Directory Services to Replace Whois Policy
+Development Process Working Group face to face meeting. This part is held
+in Hall B and will go from 10:45 until 12:00 pm local time.
+
+Chuck Gomes:
+
+Okay. Was the recording stopped? Does it need to be started again? I forgot
+all about that? It is? It’s going? Thank you. All right, so we're going to go
+ahead and continue now. Those of you that are talking if you could talk
+outside the room please?
+So I’m - this is Chuck speaking for the transcript. What do you think? Are
+there some requirements that would apply in all circumstances? And I’ll just
+throw it open and ask for responses. You can raise your hand in Adobe or
+you can raise your card. What do you think?
+Because if there are then we’ll - if there’s support for that we’ll start
+deliberating on some of those. If they’re not, we’ll go a different direction. But
+what do you think? Are there some that would - you have one? Go ahead.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 2
+
+Man:
+
+Thank you very much. I’m (unintelligible) from Council of Europe. And I was
+also thinking about taking the (unintelligible) previously. But this is I think a
+good opportunity to put forward international standards. We have
+international standards, international legislation, which masses all the
+principles which - to which Stephanie was making reference to the
+constitutional, although international is about constitutional though.
+So if we are making references to the international standards, international
+legislation, we can have a pretty good state of principles as standards, which
+would apply in every condition. I just wanted - it’s on our list of documents.
+But I just wanted to make reference to one of the UN guiding principles for
+multinational companies on (unintelligible) social responsibility.
+There is a whole chapter concerned to respect for human rights, which the
+other one which I’m more familiar with, because I’m also working in the
+implementation of the principles (unintelligible) which is for the moment, the
+only international convention for data protection and privacy.
+As previously, we offer, I offer my contribution in this respect to gather all
+these principles, which in my sense, would apply in every case.
+
+Chuck Gomes:
+
+And could you frame that in the - as a requirement so that we can capture it?
+
+Man:
+
+Well, I have - as for - I’m speaking basically for data protection and privacy.
+So for privacy I would say there are three underlying principles that goes for
+every inch of data protecting operations, the necessity, proportionality and
+finality we can also call purpose bound nature of the data processing. These
+three would be, I think, applicable for every data processing activity in the
+world which doesn’t have an illegal or doubtful purpose. Thank you.
+
+Chuck Gomes:
+
+Okay, I’m going to pursue this a little bit further so bear with me. And,
+warning, as we move into deliberation I’m going to do a lot of this in trying pin
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 3
+
+things down so that we do it. Now so, are these principles universally
+accepted across the world by all countries?
+Man:
+
+Well, there are, as I mentioned for now, we have one international
+convention, which is Convention 108 at the European - the Council of
+Europe, which has 47 member states, which is an open international
+convention and we are having a fair number of third countries who have
+already express their willingness to join the Convention 108. Out of this we
+have an excellent summary of data protection legislation, which is also I think
+in our documents. There are 108 countries which are currently having data
+protection or privacy legislation. And in all these legislation those principles
+are reflected as common principles as far as we know.
+But if there is other information or other evidence I would be glad to see
+those.
+
+Chuck Gomes:
+
+Okay thank you. So we’ll put that on our list of a possible requirement in this
+category and then we’ll debate it later. Somebody else, what do you think?
+Are there some requirements in our long list of requirements that you think
+apply across the board? Yes, Greg.
+
+Greg Shatan:
+
+It’s Greg Shatan. I actually wanted to respond to the previous comments. I
+think we’re getting dangerously muddled very fast here between
+requirements and legal issues and getting into, you know, misunderstandings
+of what international law is and what applies to universally, you know, what
+applies, which is very little except for treaties and conventions between states
+which are ascribed to by every country in the world, which I’m not sure that
+there are any; maybe the Geneva Convention.
+But, you know, judging from the current state of the world I’m probably pretty
+sure not. So I would actually not say that what was previously stated is in any
+way, you know, a universal requirement, although we could possibly throw
+any one of our potential requirements up there as a universal requirement
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 4
+
+and try to argue it back. But I think that’s a supremely unhelpful. So I think
+that the, you know, we’re kind of - we’re mixing our streams here if we think
+that what was just stated is a potential universal requirement or even a
+requirement at all. Thank you.
+Chuck Gomes:
+
+Thank you, Greg. And that’s - we’ll get to that when we actually deliberate on
+that. Some of my questions, as you could tell, probably, were directed a
+testing that. So what do you think? Are there some of our requirements that
+would apply across the board? Yes, go ahead.
+
+Man:
+
+I’m sorry, just to respond…
+
+Chuck Gomes:
+
+Well hold on, no, because I really don’t want us to deliberate yet, I want us to
+identify possible requirements. We’ll put that on the list and we will deliberate
+it. Okay?
+Because if there aren’t any that fit into that category then we won’t have
+anything to deliberate right now until we do our triage. Maxim.
+
+Maxim Alzoba:
+
+I think the prevention of legal information out of system is general
+requirement.
+
+Chuck Gomes:
+
+Say that again please?
+
+Maxim Alzoba:
+
+Prevention of leaks of information out of system, which is unintentional,
+should be prevented maybe.
+
+Chuck Gomes:
+
+Okay. Okay so what you’re saying is preventing leaks of RDS information
+which…
+
+Maxim Alzoba:
+
+Which were unintentional.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 5
+
+Chuck Gomes:
+
+Which - unintentional leaks, is what you’re saying. Okay, all right. So let’s put
+that on the list. Okay. That sounds like it might be, you know, and we’ll do
+that. Any others?
+
+Greg Shatan:
+
+Chuck, can we throw the list of requirements up and go through them and
+see which ones we might think are universal?
+
+Chuck Gomes:
+
+There are too many.
+
+Greg Shatan:
+
+Okay then maybe this whole exercise is silly because we’re kind of going
+from what we remember as the - one of the 780 requirements…
+
+((Crosstalk))
+Chuck Gomes:
+
+It’s okay to do it from memory some…
+
+Greg Shatan:
+
+My memory is not that good.
+
+Chuck Gomes:
+
+And keep in mind there are over 800 right now. So what about the one I put
+up there? Okay.
+
+Rod Rasmussen: Rod Rasmussen. So I mentioned it earlier today, if you’re going to have a
+database or a system around information about domain names you have to
+have the domain names as a data element within that. In order to make it
+actually functionally we actually deliberated about this quite a bit the early
+days of the EWG. The only other thing you need is a status of some sort, you
+actually don’t need things like name servers technically. It’s a good idea to
+have them but if you take a look at the minimalist kind of output you get from
+some of the ccTLDs basically whether or not the domain exists within the
+registry system at all.
+So from a technical aspect if we’re going to even have a system you have to
+have that, you don’t - otherwise we may as well just go home.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 6
+
+Chuck Gomes:
+
+Rod, would you state that concisely as a requirement for us.
+
+Rod Rasmussen: As the data element you need the domain name, domain name themselves,
+and their status of some sort.
+Chuck Gomes:
+
+Thank you. Okay and, Marika, can we - is it possible to put this list up on - to
+create it and put it up on the screen? Is that doable?
+
+Marika Konings:
+
+(Unintelligible).
+
+Chuck Gomes:
+
+Well, it doesn’t have to be real time but while you're capturing them after we
+finish capturing them we’ll put them up, is that okay? Okay. Okay. Thank you.
+So thanks, Rod. What other ones would you say? Okay, Maxim.
+
+Maxim Alzoba:
+
+Potentially it might be a good idea to have a backup copy of information to
+prevent total loss.
+
+Chuck Gomes:
+
+So backups for the RDS system, okay. Greg.
+
+Greg Shatan:
+
+I would say name and email address and physical address and contactability
+of - on the latter too.
+
+Chuck Gomes:
+
+What was the last one? Compactability?
+
+Greg Shatan:
+
+Contactability - the ability to contact…
+
+((Crosstalk))
+Chuck Gomes:
+
+Contactability, that makes more sense to me.
+
+Greg Shatan:
+
+Yes.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 7
+
+Marika Konings:
+
+So what was that again?
+
+Chuck Gomes:
+
+Repeat those please, Greg.
+
+Greg Shatan:
+
+The name of a registrant and their physical address and email address. And I
+would add that the address and the email address should be contactable, in
+other words accurate.
+
+Chuck Gomes:
+
+Okay. Others? What we’re going to do after we come up with this list is we’ll
+pick one, I’ll probably try to pick an easy one to start with, and we’ll debate it
+and see if we, you know, can reach rough consensus that that would apply
+across the board for an RDS system. Okay. Other suggestions for possible
+requirements that would apply in all circumstances to an RDS system?
+
+David Cake:
+
+Can I…
+
+Chuck Gomes:
+
+Oh sorry, I wasn’t looking at the hands. David, go ahead.
+
+David Cake:
+
+I suggest the requirement about having a backup might be better expressed
+as the system has some resiliency against a single point of failure, I mean,
+backup is one way you could do that but there are others. And I’d also like to
+suggest like a very basic stability requirement, it is continually - it is
+continually available.
+
+Chuck Gomes:
+
+Maxim, you want to respond to that?
+
+Maxim Alzoba:
+
+Yes, it might be good idea to implement both backups to avoid situations with
+split brain - situations where databases decide, okay, I going to raise that and
+you going to do that too. So backups prevent situations where something
+went wrong and you lose information because it’s erased all across the
+system. It happens. And backups resolve this.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 8
+
+And resiliency, where you have more than one central storage things, is the
+other good system so it could be both.
+David Cake:
+
+(Unintelligible) it has a way in which it - which when something bad happens
+we have something we can do about it. You know, there is a response that
+rather than, I mean, a backup is one way of doing that but there are - you
+know, there are - we might not exactly be how it turns out in practice.
+
+Chuck Gomes:
+
+Keep in mind when we get into deliberating on these we will refine the
+wording so we don’t have to do that right now, as long as they're getting
+captured. Michele.
+
+Michele Neylon:
+
+Yes, I think - this is Michele for the record. I think we're getting a little bit too
+specific here. What you really want to say is you want a properly designed,
+secure, stable, resilient system. I mean, that’s what you’re actually getting at.
+But, I mean, your backup thing, yes, sure but I can probably argue five other
+ways of achieving the same goal. This split brain thing, again, that’s a matter
+of how you code the damn thing. And well as for keeping the thing up all the
+time some of my developers would argue the contrary, that actually having a
+fall over all the time is actually better. But that’s just - that’s a philosophical
+discussion.
+
+Chuck Gomes:
+
+Okay.
+
+Michele Neylon:
+
+But ultimately you want the damn thing to…
+
+((Crosstalk))
+Chuck Gomes:
+
+So this is Chuck again. You’re jumping ahead a little bit, again, getting into
+the deliberation phase and refining the wording. Any other possible
+requirements before we start discussing some of these? Yes.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 9
+
+Kiran Malancharuvil: Hi. Kiran Malancharuvil. Mark Monitor. I think that the lowest hanging fruit
+might be the registrar information because of the potential information that
+would relate to RAA requirements. So if we’re going to debate something
+maybe that’s something that we might possibly…
+Michele Neylon:
+
+Which registrar information specifically Kiran?
+
+Kiran Malancharuvil: Like who the registrar is, basic…
+Michele Neylon:
+
+Okay.
+
+Kiran Malancharuvil: Like just the name maybe.
+Michele Neylon:
+
+Just saying the registrar information is like do you want a list of, I don’t know,
+what I had for lunch or breakfast. I mean, I’m not sure where the line was. Is
+the registrar name, then?
+
+Kiran Malancharuvil:
+Chuck Gomes:
+
+Yes, sure. We’ll go with that.
+
+Not Michele’s name for Blacknight?
+
+Kiran Malancharuvil: Just the registrar’s company name please.
+Chuck Gomes:
+
+No, I mean, I was being facetious, I’m sorry.
+
+Kiran Malancharuvil: I know you are. Thanks.
+Chuck Gomes:
+
+Thanks, Kiran. Okay.
+
+((Crosstalk))
+Fabricio Vayra:
+
+So I’d say a requirement is accessibility. The data needs to be accessible at
+some level to meet the purpose. Otherwise what are we collecting data for?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 10
+
+Chuck Gomes:
+
+So, Fabricio, just accessibility of - to everybody?
+
+Michele Neylon:
+
+Or do you mean accessibility in terms of - for blind people? I mean…
+
+Fabricio Vayra:
+
+I’m following the rules so according to you we’re going to deliberate later. But
+the flat requirement on how we word it, we’re collecting data for a purpose
+and so it needs to be accessible to meet that purpose. So accessibility.
+
+Chuck Gomes:
+
+That’s fine. Okay. Go ahead, (Susan).
+
+(Susan):
+
+Name servers.
+
+Chuck Gomes:
+
+Okay that’s all right, we’re not debating right now. We’re going to get - do a
+little bit of debating in a minute if we have time. But so name servers are
+required, name server information, we can reword it later.
+
+Michele Neylon:
+
+Volker, (Stuart) and the gentleman from the Council of Europe, whose name I
+can’t remember.
+
+Volker Greimann: Standards information that is required to perform registrar functions such as
+information that would be required for a transfer.
+Chuck Gomes:
+
+So let’s clarify that one a little bit, Volker. So standard information that
+registrars need to provide their services, is that what you’re saying?
+
+Volker Greimann: Correct, there should be some form of contactability for registrars to access
+information that would enable them to fulfill their contractual obligations, for
+example, sending out FOAs, must be possible in some form.
+Chuck Gomes:
+
+Thank you. And it was (Stuart).
+
+(Stuart):
+
+Supports international characters rather than just ASCII.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 11
+
+Chuck Gomes:
+
+Okay so good. Okay. And then was there - somebody over here.
+
+(Peter):
+
+Thank you. (Peter), by the way. I would also think - go along with this - on this
+line, I mean, to refine a little bit the accessibility thing is without going into
+deliberation phase, but the execution of contract in this respect, I think would
+be one of the key in this respect - key area.
+
+Chuck Gomes:
+
+Thank you. And I better look at - looks like those are old hands I assume for
+Volker and (Stuart), Go ahead.
+
+Man:
+
+Thanks, (unintelligible) Nominet. Just observing the conversation one of the
+questions I have is whether you start including information that’s available
+through the DNS already in Whois lookup system because we’re obviously
+starting to duplicate information and you do end up with a split brain problem.
+So just wonder whether the group should consider making sure we use the
+DNS for what the DNS should be used for and we use the Whois for what the
+Whois should be used for and trying to keep those separate if possible.
+
+Chuck Gomes:
+
+Okay so state the requirement again for me.
+
+Man:
+
+So what’s being discussed is the inclusion of name servers in the Whois
+lookup on the Whois database in that case. One of the examples there is the
+moment the Whois - the name servers change in the DNS doesn’t
+necessarily mean they get automatically reflected in the Whois so you end up
+with out of date results. So just a question on that one.
+
+Chuck Gomes:
+
+All right, just it wasn’t a requirement, it was…
+
+Man:
+
+Not a requirement, just a suggestion, yes.
+
+Chuck Gomes:
+
+Oh okay, thank you.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 12
+
+Michele Neylon:
+
+Look at the chat because people were unhappy.
+
+((Crosstalk))
+Chuck Gomes:
+
+Okay. In response to Andrew’s comment in the chat, we’re not making
+another list of requirements, what we’re doing is trying to see if there are
+some that we might readily be able to identify as acceptable and applying
+across the board as a way to start.
+If we take requirements one by one for 800 that’s an unrealistic way to get
+this job done. So we’re not creating a new list, we’re identifying requirements
+that probably are already in our list of 800 that we may be able to deliberate
+on early on as being applying without getting into the conditional aspects
+where things like gated access would apply and so forth.
+(Aiden).
+
+(Aiden):
+
+(Aiden) (unintelligible) for the record. One requirement I wanted to add - and I
+think it’s possibly already in the list is just to emphasize that any collection of
+personal data but be both conscious and consenting on the part of the
+individual who is affected. So just to make sure that individuals are aware of
+any risks that are available for making that data available to the public too.
+And also I guess if their reputation was to be harmed as a result of this data
+being leaked that they - I guess all I’m saying is there needs to be informed
+consent on the party of the registrant before they provide any personal data.
+
+Chuck Gomes:
+
+So that’s a nice concise way I think…
+
+((Crosstalk))
+Chuck Gomes:
+
+…to state the requirement.
+
+(Aiden):
+
+Stumbling across my words…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 13
+
+((Crosstalk))
+Chuck Gomes:
+
+That’s all right.
+
+(Aiden):
+
+Essentially informed consent.
+
+Chuck Gomes:
+
+Okay. Okay so let’s put up - and we don’t need - we won’t necessarily end
+this here if this is useful way to start some deliberation. We’ll follow it through.
+But can we put the list up? Marika is working on that. She’ll put up the list that
+we have right now. And we can add to it today. But let’s do a little test of
+deliberating on one or two of these. Just I think we don’t have in person
+meetings very often and I’d really like to take advantage of that opportunity to
+test our deliberating approach on this. So just give Marika a little bit of time to
+get this up for us.
+Okay, so we have a list of suggestions by people in the room of requirements
+that would possibly apply in all circumstances. Let’s just do a quick little - and
+I’m working off the cuff here just to get some interaction, okay? So the first
+one says, “RDS data collection needs to be a necessity, proportionality and
+purpose bound.”
+Now, how many here would - and we can work on the wording so it’s clearer,
+but do you think that would apply in all circumstances? Anybody disagree that
+that would not apply in all circumstances, just raise your hand if you question
+that. Okay.
+
+Woman:
+
+The only thing that I would question is once we get more detailed into what
+that means. But as a high level I think it’s fine.
+
+Chuck Gomes:
+
+Okay. Yes, and we do need - we would need to refine the information. But on
+the surface, let’s not do the wordsmithing yet but on the surface that’s one
+that nobody objects to yet, okay? Oh, Volker.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 14
+
+Volker Greimann: Well, as (Simon) said, the name server information does not really need to be
+included in the Whois as it’s already available in the DNS so that’s an iffy
+thing. Not really a - we don’t want this in there but it doesn’t really need to be
+in there because it’s already available otherwise.
+Chuck Gomes:
+
+Okay. Other thoughts on that one? Michele.
+
+Michele Neylon:
+
+Just adding to that - Michele for the record. You don’t need name servers to
+register a domain. It’s not a requirement anyway.
+
+Chuck Gomes:
+
+(Susan).
+
+(Susan):
+
+(Unintelligible) deliberating?
+
+Chuck Gomes:
+
+Yes. Well, yes…
+
+Chuck Gomes:
+
+It’s not a deliberation, it’s a technical fact.
+
+(Susan):
+
+From the technical point of view, what was that?
+
+((Crosstalk))
+(Susan):
+
+Oh.
+
+Chuck Gomes:
+
+Okay all right.
+
+((Crosstalk))
+Chuck Gomes:
+((Crosstalk))
+
+Let’s go to…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 15
+
+Chuck Gomes:
+
+Let’s go to the second bullet. And again, I’m not trying to complete
+deliberation, just I’m getting a sense - a feel for the room here. What about
+the second one, prevention of leaks of RDS information. Is that a requirement
+that should apply across the board? Anybody disagree with that one? Okay,
+yes.
+
+Woman:
+
+Well because I believe that the RDS should be a publicly accessible
+database to begin with so I’m not quite certain what leaks we’re concerned
+about. How do you leak something that’s available to everybody in the public
+anyway? I mean, are we talking about massing and data mining? Spamming?
+That’s a separate issue. To me, this smacks of permitting, you know, sort of a
+loss of confidentiality when I don’t believe it should be confidential to begin
+with.
+
+Chuck Gomes:
+
+My guess is, and I’ll come back to Maxim who I think suggested this one, that
+this is leaks of RDS information that is not public. Would that be a correct
+clarification, Maxim?
+
+Maxim Alzoba:
+
+Yes, internal structure of database or maybe full database or things you do
+not want to deliver in initial designs.
+
+((Crosstalk))
+Chuck Gomes:
+
+…your point is well taken. This is one that we’d probably have to refine the
+wording. With that clarification, would you agree that this is a requirement?
+
+Woman:
+
+Well again, can you speak more specifically as to what information you would
+not - what are we talking about here when we want things to be confidential?
+
+Maxim Alzoba:
+
+I’m not talking about information which should be accessible by definition of
+the system. When a design technical system you have some things you need
+to keep closed like technical implementation details, internal structure, real
+structure of database, and things which could be exploited if it leaked.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 16
+
+((Crosstalk))
+Chuck Gomes:
+
+Michele, you want to jump in?
+
+Michele Neylon:
+
+Yes, I’ll try to help Max out here a little. You don’t want somebody polluting
+the database. So you’re not going to provide the database username and
+password, for example. I think that’s what he's driving at. I mean, you could
+get into finer points around - okay, if we work on the basis not every single bit
+of data that could end up in an RDS is going to be publicity accessible, which
+does not have anything to do with it being publicly accessible but you might you might be gating the access in some way.
+So for example, it’s quite common for a lot of Whois servers to make slightly
+more information available to a web-based user once they go past the
+captcha, for example. So I think - I think that’s what he's talking about. I try to
+channel Maxim but I can’t always succeed.
+
+Chuck Gomes:
+
+So we have several people in the queue. But let’s give Cherine a chance to
+jump in.
+
+Cherine Chalaby: Thank you. Actually it’s a very good point made, but if you look at few points
+down which says, “RD needs to be accessible for purposes identified.” So I
+think that is related to that point as well. Which means that element of
+security or administration that would stop people from accessing and
+modifying or doing things is part of that. So I would personally, having read
+this list maybe I missed something but I think that comment about
+accessibility and prevention of leaks they go together personally. Thank you.
+Chuck Gomes:
+
+We’ll come back to that, okay? (Peter).
+
+(Peter):
+
+Thank you. (Peter). I’m sorry I’m not too technical therefore I just wanted to
+ask a question. Aren’t you talking about here about data security and
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 17
+
+prevention of data loss and data breach? Why we are not putting this
+because we are talking about principles and not on details. That would cover
+everything, I think we are talking about here. But it’s a question.
+Chuck Gomes:
+
+Well, go ahead.
+
+Man:
+
+Can I suggest we remove the word - not talk about prevention of leaks but
+talk about system security, right? Because that’s really what we're talking
+about. It’s a system security. When we talk about how data is taken,
+processed, transferred, held, because otherwise things like leaks connotes
+and gets into discussions about what is the purpose, why are getting it, you
+get into gating. After you build that whole framework, if we’re just talking
+about the system security it’ll cover all of these things. So I think we should
+stick to system security and not prevention of leaks.
+
+Chuck Gomes:
+
+Maxim, you proposed that one, is that something there? Now, I suspect to be
+most helpful for the whole community, when we phrase these requirements,
+we might have to provide - we might want to provide some examples of what
+that includes. But anybody disagree with the system security description of
+that requirement?
+
+Man:
+
+And for example, I think Michele already gave some great examples, right?
+So we could just support it with some of the examples that he gave because
+those were all examples of where system security is not available you end up
+with things like password leaks, you end up with things like data injection and
+corruption and it all comes down to system security.
+
+Chuck Gomes:
+
+Thank you. Volker.
+
+Volker Greimann: I would agree to 90% that this is probably the better term. However, 10% of
+me, what I’m thinking about says that leaks can also come from different
+sources. The system can be as secure as possible, if someone who has
+access to the system then goes ahead and publishes that information in a
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 18
+
+different way because he makes a business model out of that or for other
+purposes, then that would also be considered a leak and there should be
+some legal prevention, some legal measures that prevent someone that has
+access that - is allowed to access this data through the system secure secure system abuse that access.
+Chuck Gomes:
+
+But, Volker, Chuck again. So wouldn’t that still be a system security issue
+even though it’s not a - maybe a technical security measure but rather a
+management issue in terms of security.
+
+Volker Greimann: Yes, but we should differentiate between the technical security then and the
+users - the security of the users.
+Chuck Gomes:
+
+Okay. Okay thanks. Chuck again. And that’s what I was getting at. I think
+we're going to have to provide a little more clarity in terms of what system
+security means. We may have a common understanding. We need to make
+sure that the community has a common understanding of what that means.
+So let’s go to Greg.
+
+Greg Shatan:
+
+I think largely things have been covered. But I do think we just - we need to
+distinguish perhaps between, you know, system security and data security in
+a sense. You know, we're talking about, you know, we're talking about the
+architecture or framework of the database as opposed to the data in the
+database that we may need to distinguish as we discussed. But I think the
+overall system security rubric may cover the whole deal. I mean, essence, the
+framework and what’s been filled into the framework.
+
+Chuck Gomes:
+
+Thanks, Greg. Cherine.
+
+Cherine Chalaby: Just a suggestion. It’s also to do with the administration of the system so it is
+system security and administration. Just a suggestion, no debate on that.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 19
+
+Chuck Gomes:
+
+Thank you. And what we’re experiencing right now is what we’re going to
+have to do on a lot of requirements. Now we’ll get better at it I think, but this is
+what we’re going to have to deliberate on and find ways to do this efficiently
+going forward. But this is - notice the value of all the different contributions
+coming in here to refine this.
+Is there anybody in the room who doesn’t think we're on a right track for a
+requirement that we could support? Hang on, (Lisa), you’re not - you have
+something to say, you’re not raising your hand to my question, right? You are,
+go for it.
+
+(Lisa):
+
+So I just wanted to point out that there are a number of comments in chat that
+there are some questions about whether we should be focusing on the
+system or the policies that the system is intended to support.
+
+Chuck Gomes:
+
+Well one of our questions that we have to deal with is the system, right? Is
+that not correct?
+
+(Lisa):
+
+Possibly. I think the comments in chat are that we're maybe putting the cart
+before the horse, that this group needs to focus first on the purpose of the
+system, the policies surrounding the system and then the contours of the
+system itself.
+
+Chuck Gomes:
+
+Okay, I get that. And we’ve been down that path already. And there are lots
+of working group members that think we should just cover purpose first,
+unfortunately there are some that disagree with that and want to take a
+different approach. So what our decision has been is to iteratively look at
+these to move back and forth rather than to spend weeks arguing about
+where to start. So that’s my concern on that. Personally I have no problem
+with starting with purpose, okay? But there were quite a few working group
+members who didn’t want to start there and thought that it was much wiser to
+start elsewhere. Your turn.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 20
+
+Jay Daley:
+
+Thanks, Chuck. Jay Daley from dotNZ. I’m not the member of the working
+group but you asked if anybody in the room had a view. Having been through
+multiple processes around these type of things before, including Whois in a
+number of TLDs, I cannot see how this process you are following is going to
+deliver a result. It - to my mind this is an extraordinary way of going about it.
+And I’m - really struggling to see how it’s going to land, how it’s going to
+provide coherence, how it’s going to provide a vision. It’s just a large bundle
+of things all being thrown into the soup bowl. It’s remarkable.
+
+Chuck Gomes:
+
+So how would you do it differently?
+
+Jay Daley:
+
+Start talking about the use cases, okay? First most obvious use case is public
+access, so your comment earlier about non-gated access, okay? What do we
+want from public access? Talk about that and talk about the requirements
+about that. Talk about it at a principle level. So the very first one of the
+requirements - I don’t think we can see it - is actually a principle about
+proportionality about the purpose of the use, those type of things. Set some
+of those out. Separate out the principles there from what are the actual data
+elements that are collected, from what are the design requirements of the
+things. Those are three very distinct things, are all bundled together there,
+and done those.
+Do that for that one use case, refine that and iterate that perhaps, learn from
+that then go on to develop the other use cases which are, for example,
+intellectual property lawyer usage during dispute stuff, law enforcement
+access for criminal tracking or those sort of things, other use cases in that
+way. Do it that way. That I think is putting a structure around the process that
+can deliver a result even if you have to change all of those components in
+flight on the way to do it.
+
+Chuck Gomes:
+
+Thank you very much. And of course that’s what we’re trying to do so your
+suggestions fit right into what - and that’s part of what - why we’re doing the
+triage of the whole list and so forth. But - and (Lisa) herself has - I don’t know,
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 21
+
+(Lisa), if you want to add some comments here, but that was one of the
+things she suggested that we approach these requirements on a use case
+basis like you're suggesting. Do you want to add anything there, (Lisa)?
+(Lisa):
+
+Sure. Actually what I did is I relayed to the leadership team the approach that
+the expert working group took which is that we struggled with some people
+wanting to start with purposes and users, other people wanting to start
+looking at the whole problem from the data perspective. And these case
+approach gave us a way for everyone to contribute, you know, sort of their
+take on the problems and describing all the scenarios, we started with all the
+scenarios that exist today.
+And then added some that people thought really a next generation system
+should support. But the idea was to put it into the context of what are we
+trying to do with this, right. And then from that extract the principles.
+
+Chuck Gomes:
+
+Go ahead.
+
+Phillip Sheppard: Thanks. It’s Philip Sheppard. I speak as a former chairman of probably one of
+many former working groups on Whois. And therefore I’m getting a certain
+sense of déjà vu as we go through this scoping exercise. Certainly the
+working group that I chaired we had discussions like this, which although we
+were - that particular working group was bound by the limitations of Whois,
+we did certainly in our early stages perhaps push those boundaries out and
+have (unintelligible) discussions on scoping and purpose and use.
+So I would encourage this working group to refer back to that work and see
+where some of those conclusions and that structuring - early structuring took
+place because that might be very helpful in giving you a shortcut through to
+some of these questions, some of which, as I say, seem very familiar indeed.
+Chuck Gomes:
+
+This is Chuck. Before you leave, so which group - working group was that?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 22
+
+Phillip Sheppard: I can’t remember the year, it was probably about five years ago. It was a
+working group on Whois I chaired. You were on it too. And I can probably find
+out exact details if Marika can’t track it down but…
+Chuck Gomes:
+
+Okay let’s pin that down and make sure we’ve got that in our list of resources.
+Because I don't remember either. So not going to criticize you. So, (Lisa), go
+ahead.
+
+((Crosstalk))
+(Lisa):
+
+…discussing, that was the 2007 Whois.
+
+((Crosstalk))
+Chuck Gomes:
+
+Thank you. So let me ask about this - the use case approach. Again, for
+those that are new to this whole effort that we’ve been involved in, we’ve
+compiled this huge list of possible requirements from a whole bunch of
+resources. But we have to find an approach that is efficient in terms of
+deliberating on those and coming to specific recommendations about
+requirements.
+Is there anybody that is - doesn’t like - sees reasons why a use case
+approach would not - might not work? Okay, Michele.
+
+Michele Neylon:
+
+Thanks. Michele for the record. We did do this during the EWG. It was very
+useful. However, we did get criticism from some people because they
+expected us to come up with every imaginable use case which we have done
+but we haven’t imagined their use cases.
+
+Chuck Gomes:
+
+Keep in mind, and just to counter that a little bit, this is Chuck speaking again,
+I mean, if the use cases we come up with don’t cover all the possible
+requirements there’s no reason why we can’t…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 23
+
+((Crosstalk))
+Michele Neylon:
+
+No, I’m not disagreeing with you, Chuck, I’m just pointing out…
+
+Chuck Gomes:
+
+Yes.
+
+Michele Neylon:
+
+…that even though we did the best that we could we still were criticized for
+not mind-reading. So just making you aware of it. I personally I think use
+cases are helpful because well they're use cases and I think we can actually
+wrap our brains around use cases a lot more easily than we can around
+ridiculously long lists plus piles and piles of documents because, let’s face it,
+who’s got time to read them all?
+Use cases we can actually work around because then you can say, well, you
+know, how do we handle this? Can we handle this? Should we handle this?
+
+Chuck Gomes:
+
+(Aiden).
+
+(Aiden):
+
+Thanks, Chuck. I find the approach slightly problematic only because it
+predisposes that because we collect this data at the moment, and this is what
+the current system is being used for, that this is what we want to be using it
+for in the future. And so I think we should be starting from a different angle,
+the angle of what is this system? What are the minimum functions that this
+system needs to exist?
+And looking at what people are using the data for at the moment, this is a
+new system altogether. So I just want to start from a fresh slate.
+
+Chuck Gomes:
+
+Let me just caution that we don’t want to - don’t worry about what’s being
+collected now, we don’t have to start there but thank you for the point.
+Cherine.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 24
+
+Cherine Chalaby: Just a helpful suggestion, if you don't mind. These are the requirements that
+you say will prevail in all circumstances, correct?
+((Crosstalk))
+Chuck Gomes:
+
+What we’re talking about today, yes.
+
+Cherine Chalaby: What I would suggest is you split this between what you call the user
+requirements and technical requirements because that’s going to bring - that
+list just split it up into two and it will give you much more clarity of those two
+sets of requirements, what’s missing, what needs to be added and it will
+sharpen the thinking. Is just a suggestion.
+Chuck Gomes:
+
+And in fact, I think that’s part of what (Lisa) and (Susan) are doing too,
+grouping them. And you decided two categories of grouping. Sorry, I don’t
+know your name.
+
+Michele Neylon:
+
+Christopher Wilkinson.
+
+Chuck Gomes:
+
+Oh, I - I apologize. Hold on a second because Christopher was up there a
+long time ago and I’ve been looking over here. Christopher, it’s your turn and
+then we’ll go here.
+
+Christopher Wilkinson:
+
+Okay, thank you. Christopher Wilkinson. I think it’s necessary, first
+
+of all I apologize for just diving in because I can’t possibly follow all the
+subjects all the time. But I think it’s necessary to determine precisely the use the agreed uses because in a large part of the available jurisdictions you can
+only use the data for previously agreed uses. And from that point of view
+when you come down to the accuracy of the registration data, I would agree
+absolutely that it has to be accurate. But I think you should delete contactable
+until you have agreed on the uses.
+Chuck Gomes:
+
+Thank you, Christopher.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 25
+
+Stacey Walsh:
+
+Hi, Stacey Walsh for the record. I was just going to reply to what (Aiden) had
+said earlier. I think that actually use cases are good for this scenario because
+you can then talk about Whois currently using the system, who interacts with
+the system and in what way. And then from there you can debate if they need
+to be interacting in the system in the way in which they are currently or if that
+should change.
+And then to go onto what - I’m sorry, the previous gentleman said, I’m not
+sure of his name, but I do like the idea of splitting these into two categories of
+technical requirements and user-based side to the extent possible of course.
+
+Chuck Gomes:
+
+Thank you. And once we get the work that (Susan) and (Lisa) are working on,
+this will probably make a lot more sense and maybe able to refine it even
+further. So thanks for that. I’m not - go ahead, James.
+
+James Gannon:
+
+Oh sure. I just want to caution one thing. We need to be very careful how we
+define the use cases because just from a matter of practicality I want to make
+sure we don’t end up getting into a situation where we're debating people’s
+business models. Because I don’t think that’s something we will ever get
+ourselves out of. So the use cases need to be sort of narrow enough that we
+don’t end up debating somebody’s entire business which we could very easily
+get into with a use case scenario.
+
+Chuck Gomes:
+
+Good caution. I appreciate that. And keep in mind, we’re not - probably not
+going to find a perfect way to approach this. Use cases probably doesn’t
+solve all problems, but if it’s a meaningful way for us to tackle the work and
+make some progress and then if we have to implement that after doing that
+that’s okay. What we're really trying to do here is to find out a way that we
+can tackle this huge problem we have in front of us in a way that’s relatively
+efficient. You’re on again.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 26
+
+Jay Daley:
+
+Thank you, Chuck. Jay Daley from dotNZ. Go back to my suggestion, that list
+is actually split into three things. Principles, data elements and system
+designs. Okay, those are the way that I see them. There may be other
+categories in there but it’s broader than just two.
+The other thing is I think that we need to be clear what use cases means. It
+doesn’t mean a one to one relationship between a use case and a solution for
+how that use case will then be implemented. RDAP is a technology, which is hope it’s actually going to be behind this, has some broad concepts in it such
+as gated access or non-gated access. Okay?
+There are oftentimes when you create - when you’re creating Whois systems
+and these are things which I’m one of the people in here who does for a
+living, we give a set of gated access with a set of data attributes available
+with a particular search functionality available. We know that there are a
+couple of use cases that may use that. But over time that set develops
+because people come along and make a good case as for why they should
+have access to that.
+So a good example is the ability to search by registrant. That is normally
+provided to help in disputes where a lawyer wishes to find all the other cases
+from that registrant to prove that they have a pattern of bad behavior.
+Quite often, that then morphs, once people provide that service, to include
+registrants who’ve forgotten that domain names they have, which is far more
+common than you might imagine. You know, it happens within in large
+corporates all the time. So those are two different use cases delivered
+through one particular solution.
+So that’s the point about use cases is not to have this one to one relationship
+use case, you know, solution, use case solution. And that’s how you deal with
+the issue that you may have forgotten or not known of hundreds of different
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 27
+
+use cases if your solution set has been broad enough and generic enough
+that you can find a way for new use cases to be fitted into those.
+Chuck Gomes:
+
+Thank you. Alex. Sorry, I didn’t see your hand sooner.
+
+Alex Deacon:
+
+That’s all right. Alex Deacon for the record. I just want to caution us to be
+careful when discussing technical requirements. Again, just to echo
+something I said earlier, our focus needs to be more on the policy issues. I
+think, you know, there may be some very high level technical requirements
+we could add to the list. But I think we need to make sure we don’t start
+designing the system despite, you know, there’s - I’m sure there’s lots of
+technical people in the room who are itching to get at that, but I think we need
+to try to avoid that if possible just to make our lives easier. Thanks.
+
+Chuck Gomes:
+
+And designing the system I believe, would be more in the implementation
+phase, after we’ve developed the policies, yes. Any other comments? So I’m
+sensing, and - oh, David, go ahead.
+
+David Cake:
+
+Yes, just the - I mean, the - yes, getting into technical design too early is
+clearly something we want to avoid because it’s not even supposed to
+happen until really phase 3. But there are simple policy things we can lay
+down at this point that will eventually. But a really simple one is consistency.
+Do we want - are we designing a system that we want to return one
+unambiguous answer. And, you know, it means seems trivial but, I mean, the
+DNS is not actually designed that way, right? I mean, Whois is the DNS isn’t,
+it cases all over the places. So there - we don’t need to get too - dig our heels
+in too much on no, you know, no technical - we can put in policy positions
+that will later result in obvious technical constraints that - and then leave it at
+that.
+
+Chuck Gomes:
+
+Thanks, David. So as I started to say a little bit ago, it sounds like the use
+case approach might be at least one way that we can organize our
+deliberation going forward. And (Aiden) expressed a little concern there.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 28
+
+Anybody else have concerns about that approach? Keep in mind that
+approach probably isn’t going to solve all our problems. And we may have to
+do other things. But we’re going to have to continually deal with situations like
+that as we go forward to get the job done that’s in front of us.
+Any other comments on use cases? So we - yes, (Lisa).
+(Lisa):
+
+I just wonder if it might be helpful to the working group to circulate what the
+EWG used as it use case approach, whether this group wants to use that or
+not so at least the framework, it’s the methodology that we applied to go
+through I think it was about 50 different use cases. And to Michele’s point, we
+got to the 49th use case or so and thought, we’ve probably covered enough
+use cases to understand what the system needs to do. We might have
+missed a few. But it was getting that critical mass that then helped us take the
+next step.
+
+Chuck Gomes:
+
+And in follow up that, and then I’ll address the suggestion you made, so with
+the triage work that you and (Susan) are working on, how would we apply the
+use case approach to that?
+
+(Lisa):
+
+I think it’s actually a little orthogonal. In the list of possible requirements, there
+actually a list of possible users and purposes and those map to some of the
+use cases that the EWG happened to come up with. But there are many
+other items on the possible requirements list that maybe would follow
+consideration of use cases after you use the use cases to understand what it
+is you want the system to accomplish, then you go back and look at the
+possible requirements and say, so, will this help us accomplish that goal?
+
+Chuck Gomes:
+
+And Chuck again, do we need to - what you just said sounds like we may
+need to agree on purposes before we can really do that so we're back to the
+purpose issue. So general question for the group is okay, do we need to
+come to at least rough consensus on purposes before we even start looking
+at use cases? Fabricio.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 29
+
+Fabricio Vayra:
+
+So back to the - so Fabricio for the record. Back to what you guys were
+talking about of taking the framework we did for use cases from the EWG, we
+also spent - this is an exact path we took there. And we ultimately did an
+entire purpose statement, I think drafted by Stephanie, and then redefined by
+the group that then informed the use cases.
+So if we’re going to circulate the framework and the use cases why don't we
+just circulate the purpose statement that was done in the EWG, as drafted by
+Stephanie, to see if people accept it or want to iterate that, and then we can
+go back to - otherwise we’re just recreating the wheel.
+
+Chuck Gomes:
+
+Yes, and with regard to the very last comment, I really don’t want to see us
+repeat work that’s been done. It doesn’t mean we have to accept everything
+that’s been done as the final decision. But I think it’d be a terrible shame and
+a waste of time if we don’t take advantage of work like that that’s already
+been done. So, yes, go ahead, James.
+
+James Gannon:
+
+I’m just going to come in and say that I really like the sounds of this and I
+think it would assuage some of my fears that I was talking about earlier. I
+think it fits more into a more logical progression for me. I know it might pose a
+little bit of process issues with looking at purposes and use cases at this point
+but I like it.
+
+Chuck Gomes:
+
+So, are you saying that, you know, looking at purpose and then looking at use
+cases you're saying that that - you support that?
+
+James Gannon:
+
+Yes.
+
+Chuck Gomes:
+
+Okay. Yes, (Peter).
+
+(Peter):
+
+Thank you very much. As you know, I will also support this as sort of
+beginning - from the beginning the purpose approach. I think it will
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 30
+
+tremendously ease up our work after starting our data element and data
+requirements and so on. I think purpose - the definition of the key - definition
+of data processing operation is key. So I would…
+((Crosstalk))
+Chuck Gomes:
+
+Thank you, (Peter). Michele.
+
+Michele Neylon:
+
+Thanks. Michele for the record. Just to clarify one thing as well, I mean, when
+looking at use cases and scenarios, it’s perfectly okay to state a particular
+use case or scenario is invalid. You know, so for example, a spamming
+scumbag abuses Whois data in order to spam you. And, you know, collect
+certain bits of data. That’s recognizing a usage, that’s not saying that that
+usage is a good usage or a usage that we approve of or one that we want to
+facilitate.
+So I think, you know, it doesn’t - looking at use cases doesn’t mean that you
+are endorsing every single one. In many respects it actually allows you to
+say, look, this is the scenario - this is why they want this data, but maybe we
+don’t need to facilitate that. Because I think that’s another thing as well is that
+there are - you cannot turn around to everybody and say, no, no, no, the fact
+that you've been using this data for the last 25 years, now screw you, your
+business model is now completely screwed because we're just going to take
+that all away from you. That’s not going to work very well.
+But this is multistakeholder - the multistakeholder model. If it wasn’t Chuck
+and I would have sorted this out months ago and we wouldn’t be sitting here.
+But the other - but the thing is if you’re going to reject the usage or a scenario
+there has to be I think a rationale behind that. I mean, there has to be a
+reason. It could be because it’s illegal; it could be because it puts an undue
+strain on the system. I mean, there’s a lot of different things.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 31
+
+I mean, for example, I’ll pick on VeriSign because they're really big and rich.
+You know, VeriSign allow registrars to connect to them in order to do things.
+They don't allow us unlimited connections. If I tried to make more than a
+certain number of connections to the VeriSign backend I wouldn’t be able to
+and they’d smack me. Probably physically as well, but.
+Chuck Gomes:
+
+By the way, we did allow that at one time and it created serious problems in
+terms of equal access. So we fixed that. Go ahead, Fabricio. And then Klaus
+and then Rod.
+
+Fabricio Vayra:
+
+So I was just going to say, you know, I started off by introducing myself as
+part of the EWG this morning for lack, and it was actually turned out to be
+very appropriate because we’re just talking about exactly what we did on the
+EWG. And I want to thank you, Michele, because back to this notion of
+circulating the use purposes, I’d like for the benefit of those who weren’t in
+the room in London now three years ago, this is exactly how we did use
+cases.
+We did I think Margie put up a spectrum on a wall from acceptable to illegal,
+or not acceptable, and we all had to come up with use cases on a post-it note
+and put them on that spectrum so that we could have the discussion exactly
+what Michele was talking about which is it may be something people do today
+but that’s illegal and shouldn’t be allowed. And those were actually cut.
+
+So for the benefit of when this use case from the EWG gets circulated, you
+should all know that we actually did that cut between acceptable and illegal
+and I would welcome people to look at that list again and query whether we
+got it right or not as opposed to recreating it.
+Chuck Gomes:
+
+Thank you. And before I go to Klaus, (Lisa), in answer to your question which
+I’ve never answered, yes, I think it would be good to circulate the use case
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 32
+
+information from the EWG. But also, with that, the purpose that was also
+mentioned. Klaus.
+Klaus Stoll:
+
+Klaus Stoll, NPOC, NCSG. I just would like to add my voice to the
+(unintelligible) purpose use cases for another specific reason. I think it
+participated in all of the meetings of the working group except one or two or
+three, doesn’t matter. But I find it very difficult to connect to the work at the
+moment and to - and contribute. I think if you - if we adopt the kind of
+approach it will be much easier for the participants of the working group to
+bring themselves in.
+
+Chuck Gomes:
+
+Thanks, Klaus. Rod.
+
+Rod Rasmussen: Rod Rasmussen. So I wanted to - Fabricio, you stole a little bit of my thunder
+and what I was going to say. And I’m sitting here going I’ve been here before.
+(Lisa), do you remember how many hours - we calculated how many hours
+we actually spent on the entire project. We’re staring into an abyss that we’ll
+never get out of if we reinvent what we did before. So I’d highly suggest we
+take the EWG list and the other lists that we’ve come up with and, you know,
+do this triage, put these things together and walk through that rather than try
+and do this from a whole cloth or we’ll never get done.
+Chuck Gomes:
+
+You’ll get no argument from me on that. Thanks.
+
+Rod Rasmussen: Thanks.
+Chuck Gomes:
+
+Volker.
+
+Volker Greimann: Volker Greimann, Registrars. I also support that thought of going back to
+what the EWG did as a basis and work of that. However, I would also suggest
+that when we look at use cases we compare these use cases to similar use
+cases for similar data in other aspects of the online world.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 33
+
+For example, when you have a use case for - when you have a right to
+access IP information from an access provider, who uses that IP, who uses
+that IP at a certain time, do you have the same rights to access that data as (unintelligible) have in Whois, i.e. freely? Or do you have to jump to certain
+hoops, get a court order or something else? And that should also be applied
+here. So look at comparable situations and apply those comparisons to the
+Whois world as well.
+Chuck Gomes:
+
+Thank you, Volker. Now, we’re just about out of time so I need to wrap it up.
+But I want to throw out one last question that I’d like a response to. There
+were people in the working group that really didn’t want to start with purpose.
+Okay? If there are any of you here, I would like you to tell me why we
+wouldn’t start with purpose.
+What I have heard convinces me more than ever that that’s the place to start.
+Is there anybody here that disagrees with that? Now I know we have lots of
+working group members that aren’t here and we’ll throw that question out to
+the list, another action item, okay. Is there anybody here that disagrees with
+starting with purpose? James.
+
+James Gannon:
+
+Okay obviously I don’t but I know some of my other members do for various
+reasons. And, you know, we should probably take this to the list to have a
+discussion about it.
+
+Chuck Gomes:
+
+That’s the plan. Taking it to the list. Any other thoughts on that before we
+wrap it up? Yes, Marika.
+
+Marika Konings:
+
+Yes, this is Marika. And I think when we put that out on the mailing list I think
+those that weren’t here or weren’t able to participate remotely should listen or
+work through the meeting before responding because it’s very easily to
+immediately state what was initially stated without having gone through or
+listened to the conversation and how everyone here in the room seems to
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 34
+
+now have come to the conclusion that we may want to start looking at
+purpose.
+Chuck Gomes:
+
+And let’s make that part of the request, okay. Any other things there? Now, I
+just want to - for those that maybe frustrated by what we’ve just been
+through, I apologize. But as part of a multistakeholder process when we have
+lots of people involved, and I think that this exercise it wasn’t so much to start
+deliberating on a few requirements that may be universal, if I can use that
+term, but more so to help us get an agreement in terms of how we're going to
+move forward.
+And by just looking at a few examples that we had on the screen, I think it’s
+helped us to do that. We’ll find out in the next few days. Now, let me tell you
+that we do not have a working group meeting next week, which is kind of a at least a GNSO practice after a week of ICANN meetings. And everybody
+traveling and so forth. So we will not. But working group meetings will
+continue on their regular schedule the following week. And I think that staff
+has already sent out a meeting reminder for that.
+Now, are there any other logistics we need to cover before I wrap it up? Do
+any of the leadership team have any final comments?
+
+Michele Neylon:
+
+No actually I do have a final comment. Thanks, Chuck. Just one thing I think
+we’ve had some rather heated moments on the mailing list over the last few
+weeks just, you know, remind people to try not to kill each other, please. You
+know, it’s not helpful. We don’t want to have to put you all in the corner and
+things like that, that would be wrong. But, I mean, joking aside, it’s a very
+contentious issue. This is a long, going to be quite a long process. You know,
+if you want to argue around - have an argument with somebody about their
+view on something that’s perfectly okay. There are differences of opinion. Try
+not to make it personal or take it personally. And try to retain it a certain
+degree of - what was that word you used, Chuck? See Chuck is very
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/1:05 am CT
+Confirmation # 8995781
+Page 35
+
+diplomatic. I can’t quite do Chuck-level diplomacy. But, you know, just bear
+that in mind.
+And also as well, if there are people here around the room that you’ve been
+dealing with on the list or on the calls and you don't actually know each other,
+you know, there’s beers and wines and things I find are a much better way of
+resolving issues rather than calling each other names. Thanks.
+Chuck Gomes:
+
+Thank you, Michele. And hopefully you saw - hopefully you saw some of the
+suggestions I sent around to the list. Avoid attacking anybody personally.
+Avoid attacking any organization specifically. Let’s talk facts about the issues.
+
+Michele Neylon:
+
+Unless it’s VeriSign of course.
+
+Chuck Gomes:
+
+And be respectful. Yes, of course unless it’s VeriSign. So all right, thank you
+very, very much. It’s been a long meeting but I think we made a little more
+progress and we’ll keep plugging away. Have a good rest of the week. And
+meeting is adjourned. Recording can stop.
+
+END
+
+

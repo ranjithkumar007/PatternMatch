@@ -1,0 +1,431 @@
+RSSAC Activities Update
+Brad Verd and Tripti Sinha
+RSSAC Co-Chairs | ICANN 56 | June 2016
+
+Agenda
+1
+
+2
+
+3
+
+RSSAC
+Overview
+
+Measurements
+of the Root
+Server System
+(v3)
+
+RSSAC Workshop
+2 Report
+
+4
+
+5
+
+Updates on
+Current RSSAC
+and Caucus Work
+
+Community
+Interaction
+
+| 2
+
+RSSAC Overview
+Tripti Sinha
+
+What is RSSAC?
+• The role of the Root Server System Advisory
+Committee ("RSSAC") is to advise the ICANN
+community and Board on matters relating to
+the operation, administration, security, and
+integrity of the Internet's Root Server
+System.
+• (This is a very narrow scope!)
+
+| 4
+
+RSSAC organization
+• RSSAC
+– Appointed representatives from the 12 root
+server operators
+– Alternates to these
+– Liaisons
+
+• RSSAC Caucus
+– Body of volunteer subject matter experts
+– Appointed by RSSAC
+| 5
+
+Caucus
+• Members
+
+– 74 Technical Experts (47% not from Root Server
+Operators)
+– Public statements of interest
+– Public credit for individual work
+
+• Purpose
+
+– Pool of experts who produce documents
+• Expertise, critical mass, broad spectrum
+
+– Transparency of who does the work
+• Who, what expertise, which other hats
+
+– Framework for getting work done
+• Results, leaders, deadlines
+
+• To apply, email rssac-membership@icann.org
+| 6
+
+Caucus – Next Meeting
+
+Next Caucus Meeting
+17 July 2016 @ IETF 96 Berlin
+
+| 7
+
+RSSAC publications since ICANN 55
+• Reports
+– RSSAC002v3: Advisory on Measurements of the
+Root Server System [6 June 2016]
+
+• Statements
+– Report from the 2nd RSSAC Workshop [22 June
+2016]
+
+| 8
+
+RSSAC 002v3: Advisory on Measurements
+of the Root Server System
+Duane Wessels
+
+RSSAC002v3: Measurements of the Root System v3
+•
+
+Helps meet the requirements of RSSAC001
+(Advisory on Service Expectations of Root
+Server Operators)
+
+•
+
+Provides valuable data regarding the
+ongoing expansion of the root zone
+
+•
+
+Updated RSSAC002v2 based on
+implementation experience
+
+•
+
+Added clarifications to document scope
+| 10
+
+RSSAC002v3: Measurements of the Root System v3
+RSSAC002 Measurements
+•
+•
+•
+•
+•
+•
+
+Latency in publishing available data
+Size of the overall root zone
+Volume of traffic
+Query and response size distribution
+RCODE distribution
+Number of sources seen
+
+| 11
+
+RSSAC002v3: Measurements of the Root System v3
+Changes from RSSAC002v2:
+Latency calculation changed to 95th percentile
+Zone size only reported by Root Zone Maintainer
+Clarify reasons for responses in traffic volume
+Response metrics include only responses from
+server
+• Version number added to YAML for future proofing
+• A naming scheme added to allow operators to
+create their own metrics
+•
+•
+•
+•
+
+| 12
+
+RSSAC002 Implementation Status (As of ICANN 56)
+Root	Letter
+
+Current	Status
+
+Expected	Completion
+
+A
+
+Publishing
+
+Done
+
+B
+
+Publishing
+
+Done
+
+C
+
+Publishing
+
+Done
+
+D
+
+Publishing
+
+Done
+
+E
+
+Publishing
+
+Done
+
+F
+
+Collecting
+
+Q4	2016
+
+G
+
+Collecting
+
+Q3	2016
+
+H
+
+Publishing
+
+Done
+
+I
+
+Collecting
+
+Q3	2016
+
+J
+
+Publishing
+
+Done
+
+K
+
+Publishing	
+
+Done
+
+L
+
+Publishing
+
+Done
+
+M
+
+Publishing
+
+Done
+| 13
+
+Where to find the statistics (root-servers.org)
+
+DNS-OARC is also collecting and consolidating the RSSAC002 data (https://www.dns-oarc.net/node/348)
+| 14
+
+RSSAC Workshop 2 Report
+Brad Verd
+
+RSSAC Workshop 2
+• RSSAC conducted its second workshop in
+May 2016.
+• Purpose of the Workshop was to continue
+addressing issues initiated in Workshop 1.
+• A Workshop Planning Committee developed
+statements ahead of time to prompt the
+discussions.
+
+| 16
+
+RSSAC Workshop 2 – Statements
+•
+
+Architecture
+•
+
+Reliability and Robustness
+
+•
+
+DNS Root Service Performance and Availability
+
+•
+
+Root Server Operator Expectations
+
+•
+
+Evolution
+
+•
+
+Reinventing RSSAC
+
+| 17
+
+RSSAC Workshop 2 – Architecture
+•
+
+Reliability and Robustness
+•
+
+The DNS root service has consistently
+offered a reliable and robust service.
+Failure of any single operator poses no
+threat to the system.
+
+•
+
+A work party was formed to document the
+architectural and service robustness of the
+root server system
+
+| 18
+
+RSSAC Workshop 2 – Architecture
+•
+
+DNS Root Service Performance and
+Availability
+•
+
+Discussion concerning the technical risks
+and benefits of adding or removing
+authoritative name servers to the root
+zone.
+
+•
+
+Consensus reached that there is no
+technical need for more Root Zone
+authoritative name servers.
+| 19
+
+RSSAC Workshop 2 – Architecture
+•
+
+Root Server Operator Expectations
+•
+
+Discussion concerning the commitment of
+the 12 DNS root server operators.
+
+•
+
+RSSAC will issue a statement that will be
+released to the community reflecting the
+commitments of the root server operators.
+
+| 20
+
+RSSAC Workshop 2 – Evolution
+
+Evolution:
+•
+
+Focused on technical metrics that define the
+expectations for operating a root server.
+
+•
+
+A work party was formed from the RSSAC to
+draft a document that will define the
+technical requirements against	which	
+potential	root	operators	could	be	evaluated.	
+
+| 21
+
+RSSAC Workshop 2 – Reinventing RSSAC
+
+Reinventing RSSAC:
+•
+
+Focused on questions concerning the
+communications role of RSSAC in root server
+operations.
+
+•
+
+RSSAC took action to be the front door to
+global DNS root service, and to the RSOs.
+
+| 22
+
+Updates on Current RSSAC Work
+Tripti Sinha
+
+History of Root Server System
+In collaboration with root server operators, the RSSAC
+has produced a report to inform the community on
+the current root server system, and its history from
+beginnings to present day. The report:
+1. contains a chronological history of the root server
+system from its origin to its current structure,
+divided into historical periods.
+2. contains a description the current operators, and
+their histories in operating the root service,
+provided by each operator organization.
+| 24
+
+Root Server System Naming Scheme
+On 9 July 2015, the RSSAC established a Caucus work party to
+produce “History and Technical Analysis of the Naming Scheme
+Used for Individual Root Servers” with the following scope to:
+1. Document the technical history of the names assigned to
+individual root servers;
+2. Consider changes to the current naming scheme, in particular
+whether the names assigned to individual root servers should be
+moved into the root zone from the root-servers.net zone;
+3. Consider the impact on the priming response of including
+DNSSEC signatures over root server address records;
+4. Perform a risk analysis; and
+5. Make a recommendation to root server operators, root zone
+management partners, and ICANN on whether changes should be
+made, and what those changes should be.
+| 25
+
+Community Interaction
+
+Questions?
+For more information on the RSSAC see:
+¤ Main webpage:
+https://www.icann.org/resources/pages/rssac-4c-2012-0225-en
+¤ Publications:
+https://www.icann.org/resources/pages/rssacpublications-2014-05-12-en
+Interested in joining RSSAC caucus, see:
+¤ Caucus webpage:
+https://www.icann.org/resources/pages/rssac-caucus2014-05-06-en
+¤ Send email to rssac-membership@icann.org
+| 27
+
+Thank You
+
+

@@ -1,0 +1,240 @@
+DNSSEC Workshop
+Dan York, Internet Society | ICANN 56 | June 2016
+
+Remote Participation
+Slides and audio streams at:
+• https://meetings.icann.org/en/icann56sched
+
+| 2
+
+Program Committee
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Steve Crocker, Shinkuro, Inc.
+Mark Elkins, DNS/ZACR
+Cath Goulding, Nominet
+Jean Robert Hountomey, AfricaCERT
+Jacques Latour, CIRA
+Xiaodong Lee, CNNIC
+Luciano Minuchin, NIC.AR
+Russ Mundy, SPARTA, A Parsons Company
+Ondřej Surý, CZNIC
+Yoshiro Yoneya, JPRS
+Dan York, Internet Society
+Julie Hedlund and Kathy Schnitt, ICANN
+| 3
+
+DNSSEC
+Lunch
+and Implementer’s
+Luncheon
+Sponsors
+Gathering Sponsors
+•
+•
+•
+•
+
+Afilias
+CIRA
+Dyn
+SIDN
+
+| 4
+
+Support
+The DNSSEC Workshop and associated
+activities at ICANN are an organized activity of
+the:
+• ICANN Security and Stability
+Advisory Committee (SSAC)
+with additional assistance from the:
+• Internet Society
+Deploy360 Programme
+| 5
+
+Program
+0915-0930	–	Presentation:	Dan	York,	Internet	Society	–	DNSSEC	Workshop	Introduction,	Program,	
+Deployment	Around	the	World	–	Counts,	Counts,	Counts	
+0930-1000	–	Presentation:	Measurement	Survey	of	Server-Side	DNSSEC	Adoption	
+Dr.	Matthäus	Wander,	University	of	Duisburg-Essen	
+1000-1015	–	Presentation:	A	Quick	Review	of	DNSSEC	Validation	in	Today’s	Internet	
+Geoff	Huston,	APNIC	
+1015-1115	–	Panel	Discussion:	DNSSEC	Deployment	Challenges	
+Moderator:	Russ	Mundy,	Parsons	
+Panelists:	
+Dani	Grant,	CloudFlare	–	Lying	Makes	Negative	Answers	Cheaper	
+Ari-Matti	Husa,	FICORA	–	DNSSEC	Challenges	
+Geoff	Huston,	APNIC	–	DNSSEC	Deployment	Challenges	
+Mauricio	Oviedo,	NIC.CR	
+Nick	Shorey,	Department	for	Culture,	Media	&	Sport,	UK	Government	
+1115-1145	–	Presentation:	Key	Signing	Key	Rollover	and	ZSK	Length	Increase	
+Matt	Larson,	ICANN	and	Duane	Wessels,	Verisign	
+1145-1200	–	Discussion:	DNSSEC	Encryption	Algorithms	
+Ondřej	Surý,	CZNIC	and	Dan	York,	Internet	Society	
+1200-1215	–	Presentation:	DNSSEC	How	Can	I	Help?	
+Russ	Mundy,	Parsons	and	Dan	York,	Internet	Society	
+1215-1230	–	The	Great	DNS/DNSSEC	Quiz	
+Roy	Arends,	ICANN	
+1230-1330	–	Sponsored	Lunch		
+
+	
+
+| 6
+
+DNSSEC Deployment Around
+the World: Counts, Counts, Counts
+Dan York, Internet Society | ICANN 56 | June 2016
+
+http://stats.labs.apnic.net/dnssec/XA?c=XA&x=1&g=0&r=0&w=7&r=1
+
+8
+
+| 8
+
+http://stats.labs.apnic.net/dnssec/XA?c=XA&x=1&g=1&r=0&w=7&r=1
+
+9
+
+| 9
+
+Note:	Minimal	
+use	of	Google	
+PDNS	(this	means	
+DNSSEC	support	
+by	local	ISPs)
+
+http://stats.labs.apnic.net/dnssec/XA?c=XA&x=1&g=1&r=0&w=7&r=1
+
+10
+
+| 10
+
+https://rick.eng.br/dnssecstat/
+11
+
+| 11
+
+Note:	Only	
+includes	
+the	TLDs	
+for	which	
+Rick	Lamb	
+can	get	
+statistics.	
+(Example,	
+.GOV	is	
+not	listed.)
+
+https://rick.eng.br/dnssecstat/
+12
+
+| 12
+
+Note	that	
+.BANK	has	
+100%	
+signed,	as	
+does	
+.INSURAN
+CE.
+
+https://ntldstats.com/dnssec
+13
+
+| 13
+
+TLD DNSSEC Implementation Status
+Experimental – internal experiments
+Announced – Public commitment to deploy
+Partial – Zone is signed but not in operation
+DS in Root
+Operational – Accepting signed delegations
+
+| 14
+
+| 15
+
+| 16
+
+Morocco	- .MA
+Madagascar	- .MG
+March	2016
+
+| 17
+
+Syria	- .SY
+Saudi	Arabia	–
+. ‫اﻟﺳﻌودﯾﺔ‬
+June	2016
+| 18
+
+Romania	- .RO
+June	2016
+
+| 19
+
+| 20
+
+| 21
+
+Receiving the DNSSEC Deployment Maps
+The DNSSEC Deployment Maps are published via
+email every Monday morning through the Internet
+Society Deploy360 Programme.
+To subscribe, visit:
+www.internetsociety.org/deploy360/dnssec/maps/
+
+| 22
+
+DNSSEC Event Calendar
+New calendar to track DNSSEC/DANE-related events.
+Two views – event listing:
+https://www.dnssec-deployment.org/events/
+Calendar view:
+http://www.dnssec-deployment.org/calendar/
+Send event submissions to york@isoc.org
+| 23
+
+IETF 96 Hackathon
+Sat/Sun, July 16/17– Berlin
+
+• https://www.ietf.org/hackathon/96hackathon.html
+• Opportunity to work on new tools or services for
+DNSSEC / DANE / DNS Privacy
+• Join us!
+
+| 24
+
+DNSSEC History Project
+
+The DNSSEC History Project is an ongoing project to
+collect and record the history of the work that went
+into bringing about the deployment of DNSSEC. To
+view – or to contribute – please see:
+https://wiki.tools.isoc.org/DNSSEC_History_Project
+
+| 25
+
+GCIG “One Internet” Report
+
+http://ourinternet.org/
+June 21, 2016
+
+| 26
+
+Thank you and Questions
+Dan York, Internet Society | ICANN 56 | June 2016
+
+

@@ -1,0 +1,688 @@
+Use and Abuse at ns.icann.org
+Roy Arends | ICANN | June 2016
+
+Prologue
+ns.icann.org
+
+| 2
+
+Traffic to NS.ICANN.ORG
+What does NS.ICANN.ORG look like?
+Two servers at two locations:
+IAD and LAX
+A few weeks of captured traffic, uploaded to Turing
+
+| 3
+
+What does ns.icann.org do?
+Authoritative for:
+dig @lax.xfr.dns.icann.org . axfr|grep "NS\tns.icann.org."
+int. 
+museum.
+ug. 
+
+
+
+
+
+172800IN NS ns.icann.org.
+172800IN NS ns.icann.org.
+172800IN NS ns.icann.org.
+
+| 4
+
+What does ns.icann.org do?
+Authoritative for:
+dig @lax.xfr.dns.icann.org . axfr|grep "NS\tns.icann.org."
+int. 
+museum.
+ug. 
+
+
+
+
+
+172800IN NS ns.icann.org.
+172800IN NS ns.icann.org.
+172800IN NS ns.icann.org.
+
+and a whole bunch more
+224.in-addr.arpa. – 239.in-addr.arpa.	
+ipv4only.arpa.
+mcast.net.
+icann.org.
+etc
+
+| 5
+
+What does ns.icann.org do?
+Authoritative for:
+dig @lax.xfr.dns.icann.org . axfr|grep "NS\tns.icann.org."
+int. 
+museum.
+ug. 
+
+
+
+
+
+172800IN NS ns.icann.org.
+172800IN NS ns.icann.org.
+172800IN NS ns.icann.org.
+
+| 6
+
+Chapter One
+The Telephone Company
+
+| 7
+
+Lets talk about INT
+TPC.INT
+
+RFC 1528-1529-1530
+RFC 1569
+RFC 1703
+“Remote Printing”
+The idea: send an email to a fax.
+You’ll need a phone number, reverse it, look it up in DNS (type MX)
+
+| 8
+
+Lets talk about INT
+TPC.INT
+“The Phone Company”
+RFC 1528-1529-1530
+RFC 1569
+RFC 1703
+“Remote Printing”
+The idea: send an email to a fax.
+You’ll need a phone number, reverse it, look it up in DNS (type MX)
+
+| 9
+
+| 10
+
+| 11
+
+Lets talk about TPC.INT
+TPC.INT
+You’ll need a phone number, reverse it, look it up in DNS (type MX)
+Example from the RFC:
++1 415 968 2510
+0.1.5.2.8.6.9.5.1.4.1.tpc.int.
+
+Let’s look at the delegation for TPC.INT:
+
+IN MX 10 dbc.mtview.ca.us.
+
+| 12
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+tpc.int. NS ns1.simkin.ca.
+tpc.int. NS ns1.covalent.net.
+tpc.int. NS ns2.simkin.ca.
+tpc.int. NS auth02.ns.uu.net.
+
+| 13
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+tpc.int. NS ns1.simkin.ca.
+tpc.int. NS ns1.covalent.net.
+tpc.int. NS ns2.simkin.ca.
+tpc.int. NS auth02.ns.uu.net.
+
+A
+A
+
+A
+A
+
+216.152.192.130
+10.255.255.251 
+10.6.6.7
+198.6.1.82
+
+| 14
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+tpc.int. NS ns1.simkin.ca.
+tpc.int. NS ns1.covalent.net.
+tpc.int. NS ns2.simkin.ca.
+tpc.int. NS auth02.ns.uu.net.
+
+A 216.152.192.130
+A 10.255.255.251 
+NXDOMAIN
+A 10.6.6.7
+A 198.6.1.82
+
+| 15
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+tpc.int. NS ns1.simkin.ca.
+tpc.int. NS ns1.covalent.net.
+tpc.int. NS ns2.simkin.ca.
+tpc.int. NS auth02.ns.uu.net.
+
+A 216.152.192.130
+A 10.255.255.251 
+NXDOMAIN
+A 10.6.6.7
+A 198.6.1.82
+
+| 16
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+tpc.int. NS ns1.simkin.ca.
+tpc.int. NS ns1.covalent.net.
+tpc.int. NS ns2.simkin.ca.
+tpc.int. NS auth02.ns.uu.net.
+
+A 216.152.192.130
+A 10.255.255.251 
+NXDOMAIN
+A 10.6.6.7
+A 198.6.1.82
+
+| 17
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+A 216.152.192.130
+
+;; connection timed out; no servers could be reached 
+
+tpc.int. NS auth02.ns.uu.net. A 198.6.1.82
+
+| 18
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+A 216.152.192.130
+
+;; connection timed out; no servers could be reached 
+
+tpc.int. NS auth02.ns.uu.net. A 198.6.1.82
+
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL
+
+| 19
+
+Lets talk about TPC.INT
+Let’s look at the delegation for TPC.INT:
+dig @ns.icann.org tpc.int ns
+
+tpc.int. NS ns1.tpc.int.
+A 216.152.192.130
+
+;; connection timed out; no servers could be reached 
+
+tpc.int. NS auth02.ns.uu.net. A 198.6.1.82
+
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL
+
+tpc.int. SOA ns1.tpc.int. dns.tpc.int. 2013103001 …
+
+
+
+| 20
+
+Lets talk about TPC.INT
+This stuff has stopped working YEARS AGO
+
+
+
+| 21
+
+Lets talk about TPC.INT
+
+
+
+
+| 22
+
+Lets talk about TPC.INT
+Normal stuff
+
+
+
+| 23
+
+Lets talk about TPC.INT
+Normal stuff
+
+
+
+Inter. Direct Distance Dialing
+
+| 24
+
+Lets talk about TPC.INT
+Normal stuff
+
+
+
+Inter. Direct Distance Dialing
++852 == Hong Kong
+
+| 25
+
+Lets talk about TPC.INT
+Normal stuff
+
+
+
+Inter. Direct Distance Dialing
++852 == Hong Kong
++1212 == New York
+
+| 26
+
+Chapter Two
+The Ole’ Forgotten ip6.int
+
+| 27
+
+Lets talk about IP6.INT
+Network Working Group
+G. Huston
+Request for Comments: 4159
+APNIC
+BCP: 109
+August 2005
+Category: Best Current Practice
+
+
+Deprecation of "ip6.int"
+
+Status of This Memo
+
+This document specifies an Internet Best Current Practices for the
+Internet Community, and requests discussion and suggestions for
+improvements. Distribution of this memo is unlimited.
+
+Copyright Notice
+
+Copyright (C) The Internet Society (2005).
+
+Abstract
+
+This document advises of the deprecation of the use of "ip6.int" for
+Standards Conformant IPv6 implementations.
+| 28
+
+Lets talk about IP6.INT
+Network Working Group
+G. Huston
+Request for Comments: 4159
+APNIC
+BCP: 109
+August 2005
+Category: Best Current Practice
+
+
+Deprecation of "ip6.int"
+
+Status of This Memo
+
+This document specifies an Internet Best Current Practices for the
+Internet Community, and requests discussion and suggestions for
+improvements. Distribution of this memo is unlimited.
+
+Copyright Notice
+
+Copyright (C) The Internet Society (2005).
+
+Abstract
+
+This document advises of the deprecation of the use of "ip6.int" for
+Standards Conformant IPv6 implementations.
+| 29
+
+Lets talk about IP6.INT
+
+
+1.
+
+
+IPv6 Standards Action
+In August 2001 the IETF published [RFC3152], which advised that the
+use of "ip6.int" as the domain for reverse-mapping of IPv6 addresses
+to DNS names was deprecated. The document noted that the use of
+"ip6.int" would be phased out in an orderly fashion.
+
+
+
+
+
+
+
+As of 1 September 2005, the IETF advises the community that the DNS
+domain "ip6.int" should no longer be used to perform reverse mapping
+of IPv6 addresses to domain names, and that the domain "ip6.arpa"
+should be used henceforth, in accordance with the IANA Considerations
+described in [RFC3596]. The domain "ip6.int" is deprecated, and its
+use in IPv6 implementations that conform to the IPv6 Internet
+Standards is discontinued.
+
+| 30
+
+Lets talk about IP6.INT
+
+
+1.
+
+
+IPv6 Standards Action
+In August 2001 the IETF published [RFC3152], which advised that the
+use of "ip6.int" as the domain for reverse-mapping of IPv6 addresses
+to DNS names was deprecated. The document noted that the use of
+"ip6.int" would be phased out in an orderly fashion.
+
+
+
+
+
+
+
+As of 1 September 2005, the IETF advises the community that the DNS
+domain "ip6.int" should no longer be used to perform reverse mapping
+of IPv6 addresses to domain names, and that the domain "ip6.arpa"
+should be used henceforth, in accordance with the IANA Considerations
+described in [RFC3596]. The domain "ip6.int" is deprecated, and its
+use in IPv6 implementations that conform to the IPv6 Internet
+Standards is discontinued.
+
+| 31
+
+Lets talk about IP6.INT
+IP6.INT was in use for 4 years
+Then the TLD was “rolled” to ARPA
+Over 10 years ago.
+
+| 32
+
+all traffic to ns.icann.org
+
+
+
+
+| 33
+
+All traffic for INT
+
+
+
+
+| 34
+
+All traffic for IP6.INT
+
+
+
+
+| 35
+
+All traffic for IP6.INT
+
+
+
+
+| 36
+
+Lets talk about IP6.INT
+Total traffic for ALL domains to NS.ICANN.ORG:
+
+131M
+
+| 37
+
+Lets talk about IP6.INT
+Total traffic for ALL domains to NS.ICANN.ORG:
+
+131M
+
+Total traffic for ALL int domains to NS.ICANN.ORG:
+
+105M
+
+| 38
+
+Lets talk about IP6.INT
+Total traffic for ALL domains to NS.ICANN.ORG:
+
+131M
+
+Total traffic for ALL int domains to NS.ICANN.ORG:
+
+105M
+
+Total traffic for IP6.INT domains to NS.ICANN.ORG:
+
+77M
+
+| 39
+
+Lets talk about IP6.INT
+
+59 %
+Of ALL queries to NS.ICANN.ORG is for IP6.INT
+
+| 40
+
+Lets talk about IP6.INT
+
+73 %
+Of INT queries to NS.ICANN.ORG is for IP6.INT
+
+| 41
+
+Interlude
+stale roots
+
+| 42
+
+OMAN
+.OM (Oman)
+
+| 43
+
+OMAN
+.OM (Oman)
+March 21, 2012, ns.icann.org is de-listed from OM zone apex
+
+| 44
+
+OMAN
+.OM (Oman)
+March 21, 2012, ns.icann.org is de-listed from OM zone apex
+April 4 2012, OM domain is delegated away from ns.icann.org
+
+| 45
+
+OMAN
+.OM (Oman)
+March 21, 2012, ns.icann.org is de-listed from OM zone apex
+April 4 2012, OM domain is delegated away from ns.icann.org
+April 5 2012, OM is not served from ns.icann.org anymore
+
+| 46
+
+OMAN
+
+| 47
+
+Chapter Three
+Wewe ni lulu ya taji la Afrika.
+
+| 48
+
+Chapter Three
+Wewe ni lulu ya taji la Afrika.
+(The Pearl of Africa's Crown.)
+
+| 49
+
+| 50
+
+Lets talk about .UG
+
+| 51
+
+Lets talk about .UG
+
+| 52
+
+Lets talk about .UG
+
+| 53
+
+Lets talk about .UG
+
+| 54
+
+Lets talk about .UG
+
+| 55
+
+Lets talk about .UG
+
+| 56
+
+Lets talk about .UG
+Uganda
+Around 5500 registered domains
+Around 3.2 M queries per day
+
+| 57
+
+Lets talk about .UG
+Uganda
+Around 5500 registered domains
+Around 3.2 M queries per day
+Around 2.0 M queries result in NXDOMAIN
+
+| 58
+
+Lets talk about .UG
+Uganda
+Around 5500 registered domains
+Around 3.2 M queries per day
+Around 2.0 M queries result in NXDOMAIN
+
+62% NXDOMAIN
+This NXDOMAIN rate is very high
+
+| 59
+
+Lets talk about .UG
+
+| 60
+
+Lets talk about .UG
+That’s us
+
+| 61
+
+Lets talk about .UG
+That’s us
+Very Popular NS
+
+| 62
+
+Lets talk about .UG
+That’s us
+Very Popular NS
+
+Whole bunch of funny domains
+
+| 63
+
+Lets talk about .UG
+
+| 64
+
+Lets talk about .UG
+
+| 65
+
+Lets talk about .UG
+Uganda
+Around 5500 registered domains
+Steady 3M queries per day
+62% NXDOMAIN
+
+| 66
+
+Lets talk about .UG
+Uganda
+Around 5500 registered domains
+Steady 3M queries per day
+62% NXDOMAIN
+
+A SINGLE BOTNET
+| 67
+
+Epilogue
+
+| 68
+
+Conclusion
+
+• 
+
+Legacy stuff never goes away
+• 
+
+Regardless if the domain is failing
+
+• 
+
+Regardless if the domain is non-existent
+
+• 
+
+[meme alert] The Internet Never Forgets
+
+• 
+
+A single botnet can easily overwhelm smaller TLD
+
+• 
+
+Analysing DNS traffic is fun!
+
+| 69
+
+The End
+
+| 70
+
+

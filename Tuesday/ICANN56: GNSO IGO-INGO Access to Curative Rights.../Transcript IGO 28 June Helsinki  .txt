@@ -1,0 +1,1267 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 1
+
+Transcription ICANN Helsinki
+GNSO-IGO INGO Access to Curative Rights Mechanisms Policy Development
+Process WG
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Petter Rindforth: I'd like - good idea that we'll start with (Greg) welcome and roundup
+presentation. So having said that welcome to the IGO NGO Access to the
+Rights Protection Mechanism Working Group. I'm Petter Rindforth, co-chair
+with Phil Corwin representing IPC and next?
+Man:
+
+Since we're going around the room (unintelligible).
+
+Bruce Tonkin:
+
+Bruce Tonkin observing from the board.
+
+(Garrick Campbell):
+Mary Wong:
+
+(Garrick Campbell). I am from Jamaica.
+
+Mary Wong, ICANN staff.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 2
+
+Marika Konings:
+
+Marika Konings, ICANN staff.
+
+Mason Cole:
+
+Mason Cole with Donuts.
+
+David Satola:
+
+David Satola, The World Bank.
+
+(Jonathan Batero):
+
+(Jonathan Batero) from the Organization for Economic Cooperation and
+
+Development.
+(Ty Grain):
+
+(Ty Grain), WIPO.
+
+Brian Beckham:
+
+Brian Beckham also World Intellectual Property Organization.
+
+Kathy Kleinman: Kathy Kleinman. Non-Commercial.
+Petter Rindforth: there are three of you sitting around as well we have three spaces here so
+you're welcome. And also (Mike) just state your name and position and
+interest. Thanks.
+(William Shepard):
+
+(William Shepard) just joined from the seats in the back.
+
+Farzaneh Badii:
+
+I'm Farzaneh Badii, NCUC member.
+
+(Ben Franco):
+
+And (Ben Franco), NPOC.
+
+(Gongish):
+
+(Gongish). I am a member of the NCUC from the Center for Communication
+Governance.
+
+Nigel Hickson:
+
+Nigel Hickson, ICANN staff.
+
+(Dalov Chang):
+
+(Dalov Chang), ICANN staff.
+
+Petter Rindforth: Okay then welcome everybody. Are you connected?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 3
+
+Man:
+
+I was just entering the chat room.
+
+Petter Rindforth: Yes, okay. Yes.
+Woman:
+
+(Unintelligible).
+
+Petter Rindforth: Mary?
+Mary Wong:
+
+Thank you. Hello everybody. This is Mary from staff again. I just want to
+acknowledge that we also have remote participants including several
+members of this working group. And for the benefit of those on the low
+participation it would be helpful if you're on the phone bridge to also be on the
+Adobe Connect if you wish to speak because if you're only in Adobe Connect
+you will not be able to be heard. So if you are on the phone bridge please get
+into Adobe Connect if you can. And if you wish to speak please wave your
+hand and we will alert the chairs or if you wish you could also type your
+question and comments into Adobe Connect for us to read out. Thank you.
+
+Petter Rindforth: Thanks. And I see George Kirikos is one of the members that's on the Adobe
+Connect so welcome.
+Man:
+
+I'm (unintelligible).
+
+Petter Rindforth: Okay I'll start. Well on the agenda really part of a brief update on the Working
+Group and the issue around the topic. And I can just start in saying that we –
+this Working group was actually - we had our first meeting in August 11,
+2014. But the topic as such is definitely not new. It has been discussed
+previously during the years. And there are - there is one report from 2007 for
+ICANN issues report on dispute handling for idea names and abbreviations.
+And I was glad that (Malcolm) is here because WIPO has been active during
+the years facing the need for separate dispute resolution policy. And as you
+note the full name of working group is leading also with IGOs and INGOs. But
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 4
+
+it's a rather early stage. We made the initial conclusion that INGOs actually
+could handle and have handled in efficient way the current dispute dissolution
+policies. So we decided to put that parked on the side so to speak and
+proceed with handing the IDO topics. And we discussed initially the possibility
+to not creating – well I would say there are three possible solutions for this if
+there is a necessity to do anything at all could be just the clarification on the
+IDOs protection and using the policies they have today or to amend the
+UDRP and the URS or to create new separate dispute resolution policy to
+cover these topics.
+And although we have not made any 100% final conclusions but on a very
+early stage we come to the conclusion it's not the best way to make
+amendments to the current UDRP procedure. And as you know there is also
+another working group now dealing with the review all the rights protection
+mechanisms and all gTLDs. And they will deal with the UDRP on a phase two
+starting in February 2018.
+So that gives us two possible solution set as we said before. We reached out
+to Professor (Swaine) to get expert opinions. And that was either to make
+some clarifications or recommendations when it comes to IGOs that they
+could actually use the present dispute resolution policies or to create
+something that well similar to the UDRP but the second phase maybe
+another neutral panelist, three-member panelist or so will deal with a second
+phase of dispute policy. Yes please?
+Philip Corwin:
+
+I just want to jump in here. I'm Philip Corwin. I'm the co-chair of this Working
+Group and I'm a member of the Business Constituency in the Commercial
+Stakeholder Group and one of their – one of the BCs to GNSO councilors.
+I just want to add some further background to what Petter had said and I'll put
+this in a more of a context. Then we get into discussing the final memo
+received from Professor Swain at George Washington University in
+Washington DC. The – this working group is one piece of a broader attention
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 5
+
+being given by the ICANN organization to concerns of IGOs and backed up
+by – backed up in those concerns by the Governmental Advisory Committee
+regarding protections for names and acronyms of international
+intergovernmental organizations. So I just to help put this in context the – yes,
+the GAC advice on IGO acronyms was for second-level protection.
+That is level protection not at the registry level but at the registrant domain
+level in the form of a permanent fit those notifications to both the potential
+registrant of a matching domain and the relevant IGO. This would be pretty
+much similar to what goes on now in new TLDs at the trademark
+clearinghouse, allow the IGO a timely opportunity to effectively prevent
+potential misuse and infusion, allow for a final and binding determination by
+an independent third party to resolve any disagreements in the IGO and a
+registrant which relates most directly to this working group be it no cost or of
+a nominal cost only to the IGO.
+I will state on that one that this working group after the GAC adopted that
+position there communicated I believe at the Buenos Aries meeting last year
+we sent the letter to the GAC asking if they had any subsidy mechanism in
+mind because this working group has no authority to commit ICANN funds to
+subsidize dispute resolution actions brought by IGOs and also what they
+consider to be a nominal costs and whether they consider the current cost of
+bringing a UDRP or URS to be nominal.
+And frankly we got back an answer which was not entirely clear complete. So
+we still don't quite know the answer to that question. And in terms of the - let
+me just make sure I'm - the PDP recommendations of the GNSO Working
+Group that wrapped up in November 2013 was that at the second level there
+should be a 90 days trademark clearinghouse claims notice for acronyms of
+IGOs that were on the GAC list as of March 2013. And they issued a report to
+on the other issues.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 6
+
+Now what's pending is and what the board has done is a temporary matter.
+So I want to make sure that we just have a small piece of this total picture.
+The board adopted a second level reservation of IGO acronyms on the March
+2013 GAC list that was done by the board. And the board also so as far as
+permanent protections the board provided none for acronyms but provided
+top and second level reservation only for the names of IGOs, the full names
+that were on the GAC list.
+And that's - I'm not sure if that's been completed because there was a letter
+sent that just came to our attention last week on 17th of June to the chairman
+of the GAC, Thomas Schneider from Akram Atallah, Head of the Global
+Domains Division say that in order to implement these permanent protections
+the GDD would require additional information.
+And what they required was the full name of each IGO in up to two languages
+to be chosen by the IGO. So that's kind of where things stand and I'm – I
+hope that somewhat clarifies the distinction between some of the broader
+issues that have been articulated by IGOs and the GAC is back them up. And
+the narrower issuer, narrower issues that we were looking at in this working
+group which is basically two questions. One does an IGO have standing to
+bring an action in an existing curatives rights processes, the UDRP and the
+URS.
+And our - while we haven't come to permanent conclusions and
+recommendations we've pretty much reached the conclusion that IGOs would
+have standing either through trademarking their names or acronyms or by
+asserting the protections available to them under Article 6 tier of the Paris
+prevention which provides protections and national trademark law through a
+notification to WIPO.
+And the issue that's held up and basically put this group on hold for a year is
+whether or not using those existing curative rights processes which permit an
+appeal from a decision to accord a mutual jurisdiction would violate any
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 7
+
+sovereign immunity rights of IGO. And not being international law experts we
+had no idea what the sovereign immunity rights of IGOs were.
+And it took some considerable amount of time to both one, secure some very
+modest funding from ICANN to hire a legal expert and two to locate a legal
+expert who was willing to undertake the task for the amount of funding
+available and had the requisite expertise. And that has led to the final memo
+received from Professor Edward Swain of George Washington University Law
+School about two weeks ago.
+And Mary I looked in the schedule session information that links to the Adobe
+chat room there is not a link to the Swain memo. I don't know if in the chat
+room staff can provide a link to that link for individuals. I haven't seen it yet
+and I would like to obtain a copy and review it. So I just wanted to add that to
+put everything in context.
+So where we are now is we've received the Swain memo which is 32 pages
+in length. So this is the answer to the four questions posed by the working
+group are rather complex. And the answers are not black and white as in
+many things in the law the answers are it depends. It depends on the specific
+disputes and it depends frankly different courts and different national
+jurisdictions handle sovereign immunity issues in different ways. So there's
+no standard answer that covers every potential nation in the world.
+So I'll stop there and hand things back to Petter to lead us to the next stage
+of this discussion. Thank you.
+Petter Rindforth: Thanks. Just a quick question. When we talk about the history and this topic
+that leads us to this place Brian do you want to say something?
+Brian Beckham:
+
+I'm sorry could you repeat that?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 8
+
+Petter Rindforth: Well when we're talking about the history and the topic that leads us to this
+working group before we went into the expert do you have any initial
+comments?
+Brian Beckham:
+
+Yes thanks Petter. This is Brian Beckham for the record. I apologize, I was
+just reading that chat transcript. But I think in the simplest terms the question
+of the need for a curative rights protection mechanism for IGOS arises from
+two aspects in particular of the UDRP, the Uniform Domain Name Dispute
+Resolution Policy. And those are that the complaining party have trademark
+or service mark rights that they can evoke to bring a UDRP claim. And then if
+a UDRP claim is successful if there's an abusive registration found by an
+external panelist then under the UDRP there's the possibility - and I'm using
+air quotes -- of an appeal to a court of what's called mutual jurisdiction.
+So this is a jurisdiction that the registrant has signed up to when he registered
+the domain name and the complainant has agreed to in submitting a claim
+under the UDRP. So that requires submission to a court in some jurisdiction
+around the world where either the registrar or the registrant is located. And
+because of complex questions about privileges and immunities for
+intergovernmental organizations that was seen as problematic for IGOs to
+submit to court jurisdiction which would waive those privileges and
+immunities.
+And I – so I just want to highlight one thing. I've just looked at the revised
+draft of the Swain report. And I think two things that are stated very clearly in
+the outset might be helpful for the work of this group going forward. The first
+is there's a statement on the top of the second page which says IGO
+possessing rights in a name under the Paris convention. And I know there's
+been a lot of discussion in this working group about what's the scope and
+nature of rights under the Paris convention. But I think as a starting point or
+an assumption the professor has squared that off and stated quite clearly that
+IGOs would have rights under the Paris convention sufficient for a curative
+rights protection mechanism like the UDRP.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 9
+
+And secondly on the bottom of Page 3 it says IGOs might also volunteer a
+non-judicial substitute such as arbitration. And that's in lieu of the submission
+to a court jurisdiction.
+Philip Corwin:
+
+Yes I would just (unintelligible). I think the first one you cited kind of backs up
+what I said a moment ago which is that in regard to the standing our
+preliminary conclusion not yet final is that an IGO which has either
+trademarked its name or acronym or has a – has not trademarked but has
+asserted rights under the Paris convention would have standing. So the
+existing procedures would work.
+The remaining question is does it offend the scope of sovereign immunity in
+the rare instance where an IGO would bring a UDRP or a URS win and the
+registrant would then say I don't agree with the result and I'm going to an
+available court of mutual jurisdiction for a so-called "appeal" which is a de
+novo action.
+
+Man:
+
+Yes thanks Phil and thanks for that explanation of the jurisdiction issue. It
+occurs to me like I guess there's two quite separate cases there. There's the
+case where the NGO actually has a domain name and someone is raising a
+complaint given that they had their own trademark presumably. And that
+would be challenging the NGO's right to have that name and hence, you
+know, having that name canceled. That's one scenario. It may not be a
+scenario that's thought about.
+The scenario I think you're typically talking about is the scenario where
+there's a registrant of a domain name and the NGO wants to undertake a
+dispute mechanism to overturn that domain name and then there's a court as
+a fallback. But it occurs to me that if that second case goes to court
+essentially the registrar and registrant that are subject to the jurisdiction of the
+court because it's an action against them. It's not an action against the NGO.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 10
+
+In other words if the NGO has the name and so the question is, you know,
+the courts giving in order for that name to be removed from that registrant or
+not. It's not actually giving any direction to the NGO. So I just think it's
+probably worth understanding those two cases.
+Brian Beckham:
+
+Maybe I can certainly clarify. This is Brian again. So what would happen is if
+a registrant had registered a name that was found to be abusive of an IGO's
+rights and the registrant felt that that wasn't supported by law in some
+jurisdictions they would actually go to a court. So they would actually be
+bringing the IGO into court if you will to have a declaratory action in their
+favor that they weren't infringing. So it wouldn't – so in other words it's not the
+registrar or the registrant that's being brought into court but they're bringing –
+they would be bringing the successful UDRP complainant into court.
+
+Man:
+
+Yes but understanding that the action, the actual action of either registering
+or canceling the domain name that's what would be the subject of the court
+finding surely. So it's a direction to the registrar most likely to say either
+cancel this name or keep this name.
+
+Brian Beckham:
+
+Right.
+
+Petter Rindforth: All right I had a possibility to read the expert report (unintelligible) any specific
+comments on his conclusions there?
+Philip Corwin:
+
+Let me jump in here and, you know, we don't have a very structured agenda
+for this meeting other than since we just received the Swain memo very
+shortly prior to leaving home to travel to this meeting. But, you know, Brian
+focused on two key things. Let me get to another one that's refers to
+something I brought up a few minutes ago. And that begins at let's see yes,
+at the bottom of Page 8 in the Swain memo. Yes Mary?
+
+Mary Wong:
+
+Apologies, so just a note that George Kirikos had raised his hand so he
+wishes to speak.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 11
+
+Philip Corwin:
+
+Okay I'll step back and let George speak and then I'll get back to what I was
+saying. Go ahead George.
+
+George Kirikos:
+
+Hi George Kirikos for the transcript. Generally - oh, I can hear myself. There's
+an echo on this (unintelligible).
+
+Petter Rindforth: We can hear you.
+George Kirikos:
+
+I can hear myself twice (unintelligible). Anyhow (unintelligible) memo and he
+made most of the cases (unintelligible) on the earlier draft. Over on Page 9
+which was a comment I had previously regarding Page 8 he seems to have
+missed that point which was the part about the scenario whether it isolates
+the question of whether an IGO has legitimate expectation that would it be
+entitled to immunity as the UDRP. He missed a point that I made in the earlier
+draft that that scenario doesn't actually isolate the question because there's a
+asymmetry whether an IGO is defending an action or whether it's bringing an
+action in court. And so he kind of missed the mark on that point.
+But in general I agree with the report in that from a legal point of view I
+believe the status quo has supported that nothing requires us to change the
+UDRP. If we imagine a thought experiment of the UDRP not existing at all an
+IGO would necessarily have to waive immunity in order to bring an action
+against a registrant for a domain name in court. And that was backed up by
+the State Department's memo which the author of this report referenced in
+the footnotes and in the document itself. So that's my comments for now.
+Thank you.
+
+Petter Rindforth: Yes, thanks. (Bruce) I saw you added some comments in the chat room. If it's
+more or less what you said before? Oh yes. Okay thanks.
+Philip Corwin:
+
+Okay. Why don't we just speak a second then we can get into those slides
+you have on immunity. But what I wanted to just briefly refer to here is that at
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 12
+
+the bottom of Page 8 of the memo -- and again apologies for those of you
+who haven't yet seen the memo but we'll – it is available now in final form -he starts I said the core questions of whether an IGO is "entitled to immunity."
+And then he goes on at the top of Page 9 and this illustrates the lack of black
+and white answers to the questions we've answered. And it says, "As
+explained the answer depends. IGOs generally enjoy immunity under
+international law but different jurisdictions apply the law differently." That is to
+say that -- I'm speaking for myself here not quoting -- that a court in one
+nation might say that an IGO has broader or narrower scope of immunity than
+a court of another nation.
+And then he goes on to say but different jurisdictions apply the law differently.
+And even within the same jurisdiction different IGOs may be treated
+differently. And then he goes on in the full memo to document that that is
+indeed the situation in the United States where different courts of appeal
+have comment the issue differently. And the Supreme Court has never
+resolved the differences between them.
+And then says Part B of the memo introduces the complication of any such
+immunity may be waived every – even nations can waive sovereign immunity
+if they wish to -- that's my comment there, not his language -- through the
+mutual jurisdiction prevision. So I'll stop there quoting but just kind of the
+things we've been struggling with in this working group on one hand but for
+the UDRP and the URS IGOs would have no recourse in regard to a domain
+name that they've viewed as infringing other than to bring a judicial action in
+some national court. And it will be up to them whether they wish to waive their
+immunity if they thought they were entitled immunity to get that relief.
+So the UDRP and the URS provide a much less expensive faster and nonjudicial alternative to bringing that court action. But they are bound by the
+rules of the UDRP and URS to if they win the registrant has the option. That
+may be exercised in only rare cases because it's kind of a slam-dunk case.
+It's likely that a registrant would spend the time and money for the appeal if it
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 13
+
+looks like a losing argument but still that does exist. And so it's whether by
+essentially waive it - being compelled to waive their unity to bring UDRP
+they've – we've offended their immunity in some way.
+And then the other thing we've been struggling with is that if this was simply a
+situation between ICANN and an IGO it be very simple to solve. It could be
+solved in the same way that the professor discusses the IGOs solve this
+issue all over the world in commercial contracts which rather than if there are
+disputes say it's generally a clause that says rather than going to court we'll
+go to a non-judicial arbitration form and agree to a binding decision there.
+But we do have in this case a third-party the domain registrant who when
+they register they agree to be bound by the UDRP and now in a new TLD by
+the URS as well. But in their involuntary accession to that possibility of
+bringing brought into the dispute resolution policies they were told that they
+had a right to go to court if they were unhappy with the result. So that's kind
+of this four corners of the dilemma we've been struggling with.
+And now if you had anything to say Petter why don't you go ahead and Mary
+has some slides on the immunity question that she's going to display for us
+after that.
+Petter Rindforth: Thanks. Just was a comment. When we're talking about both the US and the
+UDRP and there are some interesting differences between these two dispute
+resolution policies especially when it comes to the topic we are discussing.
+Within the URS I mean there are three steps. It's still in the process and it's
+still panelist that decides on the topic as compared to the UDRP. And I would
+just throw out the question both to Brian if you have any initial reply to that but
+also to others here in the room if you see the same need to change or add
+when it comes to the URS compared to the UDRP in this aspect?
+Brian Beckham:
+
+Thanks Petter. To be perfectly honest I don't think it's a topic that's really
+received much attention. I do know that in several times over the years in
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 14
+
+GAC advice there's been a request for a more rapid resolution mechanisms
+so something to address similar to the abuse point of contact in the ICANN
+registry agreement where there's eminent risk of harm for an infringing
+registration could be addressed in a rapid time frame along the lines of 24 to
+48 hours. So I think that maybe have – maybe has overtaken discussion on
+whether the same modifications to the URS would be desirable.
+Petter Rindforth: I'm sorry I'm not suggesting that the same modifications would be decided
+before the UDRP because I say I think we're still on the same line that we
+should try to not change the UDRP at least not just for this specific topic. I
+mean we're as I said initially there is another working group that sometime in
+the future we'll also look at the UDRP and see if there is any changes that are
+needed. But in – still we need – we talk about this aspect what I meat was is
+if it's enough - if the URS is enough as it is today is although after the three
+steps of panelists you can still take the case to a court I presume that then we
+will still have the same formulation as with the UDRP. But I understand that
+when it comes to the UDRP it's just one step and then there's the position
+that maybe they can see or the case was - maybe take it to the second step
+to the court directly.
+Brian Beckham:
+
+All right so we have the slides now. Let me - why don't we go – yes? Sir, go
+ahead sir. State your name please.
+
+David Satola:
+
+Thank you, David Satola from the World Bank. I propose a last question in
+exchange I agree with Phil's conceptual – contextualization of the discussion
+we're having today. I would also add that when the IGOs were first confronted
+with the issue of the new gTLD registrations what we asked for were
+preventative rights. And in the absence of those rights being granted it was
+suggested that existing curative rights would be sufficient and applicable. And
+I think that the discussion that we're having now including the analysis in
+Professor Swain's memo results from that sequence of events.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 15
+
+So I think the question I think that you asked Petter was did the IGOs ask for
+this? No, we asked for preventative rights. And we're still – that discussion is
+still ongoing in other contexts as Phil has rightly said. So, you know, the
+question of how to address curative rights is an interesting one. And it's one
+that we're interested in pursuing if our original requests for preventative
+treatment as some other international organizations have received is not
+granted. Thank you.
+Petter Rindforth: Thanks.
+Brian Beckham:
+
+Thank you David. And again I – at the beginning of this discussion I tried to
+lay out that this is – there's more to this IGO issue than this working group is
+looking at it. And I did discuss what the board has done and what the board is
+still continuing and those talks between the board and the GAC and the small
+IGO group and going on for a very long time without a final conclusion and,
+you know, I don't know if they'll finish first or this working group will finish first
+but we're going to move forward with all deliberate speed.
+And I want to say now I'm – I don't – (unintelligible) to apologize but just
+explain that the reason that this session may seem a bit disorganized is that
+the final Swain memo was received so close to this meeting that there was
+simply no opportunity for the Working Group to go through the final memo
+and identify the key conclusions and maybe the key disagreements that we
+had with it prior to getting there to Helsinki. But we will be doing that and then
+moving on toward trying to formulate final conclusions and recommendations.
+And if this meeting or if anyone not here reading this transcript believe that
+Professor Swain has gotten anything wrong on the legal considerations or
+missed any important considerations we want to hear from those folks as
+well. We want to hear all points of view before we get to the final stages. Let
+me go through these slides quickly because I think they're in some extent
+redundant but maybe there's something here that I – that hasn't been said
+yet.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 16
+
+So the nature of IGO immunity from national jurisdiction there are different
+approaches and different courts to IGO immunity and which is derivative of
+the immunity accorded to nation states sovereign immunity IGOs being
+organizations created generally by treaties between nation states or created
+within the United Nations system which enjoys it's own immunity under
+international law.
+So the immunity's contextual. IGOs generally enjoy immunity under national
+international law but different jurisdictions apply it differently. Their - the
+decisions are often based on an organization's specific treaties to which not
+all states are a party. And as we found out in worrying about Article 6T - why
+don't you just let me finish this statement? I'll let you talk in a sec? That while
+Article 6T well notification of WIPO generally provides protection international
+trademark regimes to all signatories of the Paris convention and all nations
+that are members of the World Trade Organization each of those nations
+reserves the right to not recognizing immunity asserted by a given IGO if they
+wish to. So there's – there can be a nation state which has its own immunity
+can refuse to recognize the assertive community of a particular IGO and go
+ahead with your comment or question please.
+(John Passaro):
+
+This is (John Passaro) from the OECD. Just so we don't lose the forest
+through the trees here I just wanted to zoom out a little bit and point you to
+Professor Swain's text on Page 15 just above Section B where he says that,
+"little may ride on the distinction between absolute and functional immunity
+and ultimately little may depend on the potential scope of immunity at all." So
+while he did in the memo discuss that there are different approaches to IGO
+immunities he said that in most context it wouldn't actually impact the final
+immunity analysis at all. Thanks.
+
+Brian Beckham:
+
+Well that may be true. Different courts may arrive at the same destination
+through different analytical tests. We were just trying to give folks the context
+here. The - so as noted states interpret the obligations under treaties in
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 17
+
+various ways and every jurisdiction, that is every national court system results
+in immunity questions under its own law which is informed by but not dictated
+by international law.
+Then it goes through the as we've discussed that the UDRP and URS provide
+either party if they're happy with the panelist decision to if they are available
+law in a mutual jurisdiction as defined find under the UDRP and the URS they
+can bring a de novo court action to question the action of the panelists. And
+can we get the next slide please? I don't have any way to scroll here?
+Okay so there are different approaches to immunity. There's absolute
+immunity which is comprehensive immunity from judicial process irrespective
+of the nature of the activity in question in the absence of an express waiver
+by the IGO. There's restrictive immunity which is provides exception from
+absolute immunity for litigation concerning commercial activities like those
+undertaken by private parties.
+And then we get into the question of whether the disputes that would be
+subject we'd be considering here are they commercial disputes because
+trademark is commercial law? Are they commercial disputes because they
+involve the assertion of a commercial law type right or are they disputes
+involving protection of an IGOs basic identity which would not be considered
+a commercial dispute? And you can answer that question whichever way you
+think is preferable.
+And most states don't apply the restrictive immunity approach except the
+United States which is a rather significant jurisdiction particularly given the
+number of registrars and registries, significant ones located there and which
+mutual jurisdictions may apply.
+Then you have functional immunity which is you're looking at the function of
+the IGO in question and trying to do decide whether the function is a critical
+one or that this allegedly infringing domain interferes with the core mission of
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 18
+
+the IGO whether it's something not as - not essential to the IGO essential
+identity and mission. So next slide please?
+And as noted outside the domain name area IGOs generally if they wish to
+waive immunity do so through their governing instrument which would give
+them the power to waive if they wish to and by way of an agreement or
+pleading. And generally if an IGO has a problem and there's no other avenue
+available other than a court proceeding it's up to them whether to live with the
+problem or to bring a court action and in a sense by doing so waive their
+immunity.
+So and rather than search for it there is a passage later on in the Swain
+memo which essentially I'm assuming it survived in the final version kind of
+summarized all of this saying that for the purposes of this working group
+there's no clear black and while legal principle that says that agreeing to the
+mutual jurisdiction provision is a clear violation. And it becomes the policy
+consideration, or policy question for this working group where we have to
+balance all the separate considerations. And that's what we're going to be
+doing going forward as we review in detail the Swain memo and then try to
+reach final recommendations solutions on the questions posed under our
+charter.
+Petter Rindforth: Just Petter here. Just add from the (unintelligible) question from George
+Kirikos while we have the university World Bank folks here do they intend to
+respond to written questions from months ago, your written questions sent by
+the PDP Working Group asking for formal feedback, data, et cetera? My first
+question to you is have you seen this documentation? Yes please?
+(John Passaro):
+
+(John Passaro) again from the OECD. This seems to be a favorite question
+that comes up at these meetings. The IGOs answered a number of questions
+for a number of different parties in a number of contents. I believe that he's
+referring to the last set of questions that were received some time ago. We
+found that those same questions repeated much of the content that was
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 19
+
+asked in earlier questions. And also the weight of the questions we're afraid
+just made it totally clear that, you know, everyone was looking for a very
+specific type of answer from us. So we decided it just wasn't fruitful to
+respond. And in any event now you have most of the answers to your
+questions in this Swain memo which it also sounds like people are reading
+much differently than the IGOs have read it. Thanks.
+Philip Corwin:
+
+Okay. And I have found the passage I was thinking of from the prior memo.
+It's at the top of Page 26 and in the section UDRP and its alternatives. And I'll
+just read it. It's a very short passage.
+The question of IGO immunity may be resolved at least in part outside
+ICANN. To the extent that national courts were inclined to find that the matter
+lies - that is the matter, the domain dispute lies outside a particular IGO's
+immunity or that any immunity was waived by the IGO's governing
+instrument. But in other cases though a national court might find that the
+mutual consent affects the waiver of – and that is a waiver of the immunity
+that would otherwise exist even though it otherwise be inclined to recognize
+the IGO's immunity from judicial process. And so that's the case where the
+IGO has immunity and basically has been compelled by following the UDRP
+to waive it when they would rather not. And he says with respect to this latter
+possibility ICANN confronts a policy question infused with legal principles. So
+that's what we're going to be dealing with in the final stages of this working
+group was how do we answer that policy question given the fact that the
+answer on sovereign immunity would be viewed differently within different
+jurisdictions.
+
+Brian Beckham:
+
+Thanks Phil, Brian Beckham again for the record. I think just to sort of zoom
+out a little bit the question of jurisdiction and immunity is a complex one. I
+think that's underscored very clearly in the Swain report. But I think
+something that may be important to bear in mind and Professor Swain ends
+with the suggestion that there's a policy decision to be made by ICANN. And I
+just want to remind folks that yesterday I sat in a session where there was a
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 20
+
+discussion of the trademark clearinghouse. And there were different ideas
+about how to improve it for the future.
+And an individual from the registries or Registrar Stakeholder Group -- I don't
+remember -- suggested that whatever was looked at in terms of making
+improvements or changes to the clearinghouse or suggested would be that
+the parties that were impacted and that in that case the registries or the
+registrars were asked how this would look to them and what types of changes
+would either be problematic for them and would make things more
+streamlined for them.
+And I think here it's useful to bear in mind that the questions like my
+colleague (John) from OECD mentioned IGOs via the GAC had been asked
+some very detailed questions on a number of occasions and IGOs have
+provided answers.
+So when there's a policy question being put to the ICANN community I think
+it's important that people who are making the decisions bear in mind the
+feedback from the very impacted parties. And, you know, the truth is if there's
+a reluctance for members of the working group or for the - from the
+community to provide a curative rights protection mechanism for IGOs that
+addressing these mutual jurisdiction and addressing these scope of rights
+protection issues is desirable. And of course there's a way to get there. But
+let's be clear about one thing, it ignores the feedback from the impacted
+parties.
+Petter Rindforth: Maybe just rephrase your conclusion there. How did you come up with that
+story?
+Brian Beckham:
+
+Yes the point is this. IGOs - just to step back a little bit further. So IGOs
+intergovernmental organizations are created by governments via treaties.
+These are organizations that are conducing activities on behalf of
+governments on behalf of global citizens that governments have deemed to
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 21
+
+be in the public interest. These are funded by governments. These are
+funded by citizens. IGOs have time and again expressed concerns about
+certain aspects of their rights protection mechanism in the ICANN new gTLD
+context. And what I'm suggesting is that when there are policy questions for
+ICANN for the community to decide the feedback from the IGOs from the
+impacted parties is taken into account.
+Philip Corwin:
+
+Let me respond which is that we - we're very happy to see you here in the
+OECD and the World Bank and we take this whole question very seriously. I
+think – I'm thinking for myself now but I think generally there's some
+reluctance to given the history of creating the UDRP and creating the URS
+which took several years it is if we do decide that weight the different factors
+that there was a need to create a curative rights policy solely for the use of
+the few hundred IGOs in the world it would take – that would be some
+considerable additional undertaking to create that - what would be a– what
+would have to be shown by the complainant, what would be the burden of
+proof, what would be the POs mechanism and to which arbitrator, arbitration
+organization, organizations in the absence of going to a court of mutual
+jurisdiction if there was a disagreement with the initial decision.
+So that weighs on us but we take the concerns and the viewpoints of the
+IGOs very seriously but we are so – and the reason we've held – been on
+hold for a year and reached out to a legal expert was to make sure we really
+understood what the law on sovereign immunity was. We weren't going to
+make it up.
+And just to try and finish so we take IGO views very seriously. We also have
+to be cognizant that registrants that sometimes there are wrong decisions by
+panelists. Most of them are right but there are some situations where
+reasonable people can disagree about whether a panelist reached the correct
+decision. And those are the ones where, you know appeals are made to the
+courts under the current system.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 22
+
+I think it's a very rare instance, it'd be very rare to have a situation where IGO
+brought an existing DRP action won it and the registrant really thought that he
+had been so mishandled by the panelist that they would expend a very
+considerable amount time and money to bring a "court appeal." But we want
+to – so we're talking about a very tiny subset of potential complainants which
+is the small, relatively small number of IGOs in the world compared to the
+work that (unintelligible) to say of trademark owners which is much, much
+larger, the number of actions that might be brought and the very tiny subset
+or an appeal of some kind might be made.
+So we take the IGO's viewpoints and interests very seriously but we also
+can't just ignore the legal rights of registrants. And that's - we're going to be
+attempting to balance all of that as we proceed to the final conclusions in this
+working group. Yes sir?
+(John Passaro):
+
+(John Passaro) from the OECD once again. I'd just like to respond to a
+couple of questions at the same. First so one question from you when you
+talking about or statement that you made about the importance of making
+policy decisions with regard to GTO's requirement to submit to a mutual
+jurisdiction provision.
+But the thing is that our member state governments when creating us already
+made a policy decision. and that decision was that we were entitled to
+immunities. The immunities are inscribed in conventions, it is an essential
+part of our existence, it allows us to get our work done. And part of that is
+because, as (Prof. Flaine) points out in this memo, that because we are
+forced to operate in a jurisdiction of a given state, we are more vulnerable
+than a state.
+And then also responding to a statement made by (Mr. Caritose) saying that
+IGOs are asking for rights that even governments don’t have. No, we have
+rights that governments have given us and those governments have given us
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 23
+
+those rights. Again, with an element that we need in order to be able to get
+our work done. Thank you.
+Petter Rindforth: Just have a little quick comment on that, first of all as he mentioned, we are
+discussing dispute resolution, sorry for that, may not be used very often but
+still it will exist when it’s needed and another working group where we are be considering carrying (unintelligible) and others. We have the (PDDRP) that
+has not been used at all so far but still it is there when a topics came out. My
+comments on the IGOs is that, so far what I’ve seen from the report and what
+I have seen from some of the IGOs own policies, there may be a difference
+on how they deal with legal issues. I mean, as we’ve seen from their report,
+(UM) for instance, they’re having their - section that they can accept to set
+accordance in a civil court action in a country.
+And we also had some example of (unintelligible) court in some countries that
+state that IGOs can still - they can be a patch in a normal dispute resolution.
+So, correct if I’m wrong, but what I see from the report is a big gray zone, it’s
+not completely 100% sure that an IGO automatically cannot take the case to
+a civil court in a country or be sued by a counterpart in some country. So
+that’s also why we are not, even with the support, we don’t have a final
+conclusion or suggestion so every comment from you and these
+organizations and from other patch are much welcome before we make our
+initial report.
+Philip Corwin:
+
+Okay, I have two other comments and then take any - Mary at what time did
+we schedule to wrap up here?
+
+Mary Wong:
+
+This session is scheduled to end at 3:00 PM today.
+
+Philip Corwin:
+
+Okay, so it’s 20 to three, we can keep it going as long as people want to keep
+talking. But just two comments to add, one, you know, early in this
+discussion, when this session began, I referred to - I tried to put this in
+context, trying to define what this working group was doing and what the
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 24
+
+board was doing separately in conversations with the (GAC) and the IGO
+group. Whatever - we have to wait to see what the Board’s final decision
+there is but the extent of the Board provides any permanent protection,
+whatever they might be, to IGOs at the top and second level.
+The broader in scope those protections are, the less possibility there would
+be of any dispute arising at the second level, we have to wait to see what
+those are. So this is - it’s kind of difficult for us to - we can’t really balance that
+factor until we know what the Board’s final action on that is going to be when
+frankly we have seen that about a year ago. If those - if names and acronyms
+(M through C) rather brought protection at the second level through board
+decisions that would substantially limit the possibility of disputes rising that
+would ever go to any type of curative rights process but we don’t know yet
+what the Board decision -- which certainly be nice for this working group to
+know that before we reach final conclusions.
+And while we take very seriously that IGOs are created by governments and
+are given immunity, to me that’s - the immunity is not absolute and we’ve
+been trying to figure out - it’s like me saying, “Well, I’m a citizen of the United
+States, I have constitutional rights and I - and particularly the ones given to
+me in the Bill of Rights.” But as we know from Court decisions, none of those
+constitutional rights is absolute, each of them is subject to limitations. And
+what we found from (Prof. Flaine) is that while courts will defer, number one,
+different jurisdictions will be with the scope of that immunity that’s been given
+on IGO to be a broader narrative depending on how they look at the law in a
+specific factual case -- just let me finish and you can respond.
+And -- I lost my train-of-thought there -- that - oh yes, that IGOs always have
+the option, if it’s to their benefit to waive the immunity for a specific situation if
+they wish to. So I’ll stop there and welcome responses. We have - yes, go.
+Go ahead, we have number of - I see (Phil Sheppard), (Jenna) with (UCD),
+(Brian), were there others who wanted to speak? So.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 25
+
+Petter Rindforth: Let me jump in, our (unintelligible) suggest (unintelligible) toward the end of
+(Prof. Flaine’s) report, he’s making a concrete suggestion about a minor
+change -- as I read it -- to the existing (EDRP) to allow for an arbitration
+option. So…
+Philip Corwin:
+
+What page is that on at? It’s…
+
+Petter Rindforth: It’s right towards the end, I think it’s the penultimate page. And I just thought
+that might something worth airing to see if that was thought to be a concrete
+and useful suggestion or if that had problems.
+Philip Corwin:
+
+And which suggestion is it specifically?
+
+Petter Rindforth: Basically saying that - I mean, he quotes early in the report an example of
+Apple who allow for arbitration in their causes in case of IGOs. Basically
+suggests that as mechanism also that we could think of as a - if you’re an
+IGO then you could go for arbitration option as an insertion to the existing
+(EDRP) -- at least that’s how I read it. And I just thought it would be quite an
+interesting proposal that could (unintelligible) all this good work.
+Philip Corwin:
+
+Yes, that’s what I’m saying response and let the other folks speak. The two
+challenges with that are one, as I noted before, this would be an easy issue
+to solve if it was just a relationship between ICANN and IGOs but this is third
+party, the domain registering. The other thing we don’t know is whether - let’s
+say hypothetically we decided that the possibility of being brought into a court
+case in a court of mutual jurisdiction so offended, would we view it as the
+recognized scope of IGO immunity that it shouldn’t be permitted and said that
+for IGOs there should be either a new curative rights process or if the existing
+ones the appeal, “Should not be to a court but should be to a designated
+arbitration bodies.”
+That would not prevent a domain name registering from nonetheless filing an
+appeal, for example, (unintelligible) filing a suit under the anti-cyber squad
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 26
+
+and protection - we don’t know whether the US Court would say, “Sorry,
+you’re out of luck under the policy created by this organiza - this California
+non-profit organization in ICANN, you’ve lost your rights to file a case in this
+case - in this dispute under the (ACPA).” Or whether the Court would say,
+“We’re not going to let some California nonprofit corporation strip you of your
+statutory rights under US law.” We just don’t know what the answer would be
+in that hypothetical.
+Petter Rindforth: It may not matter.
+Philip Corwin:
+
+What’s that?
+
+Petter Rindforth: I said, “It may not matter.” I think, you know, we do what we can as this
+organization and you find out what happens in the real world later.
+Philip Corwin:
+
+I’m not saying that should determine that we shouldn’t take an action just
+because we don’t know how a hypothetical legal situation, I’m just saying we
+might take that action and find out that in some courts it hasn’t effectively
+stopped the IGO from being counter-party in a judicial action.
+
+Man 5:
+
+I’d just like to echo the point you made earlier Phil, when you were stating
+that, you know, we’re talking about an evidently small number of acronyms
+here - (unintelligible) some of our names as well. So we’re talking about a
+really, really, really small subset of disputes. So yes, I also agree with you
+that it’s - we were just granted full protection at the second level as one
+(unintelligible) away with this problem but it would also, again, get away with
+a need for this incredible amount of energy that everyone is expending for
+what’s going to be a relatively small number of (unintelligible) which however
+I do have disproportionately large impact on us.
+I’d also like to echo what was just said previously regarding the arbitration
+option. We’ve been saying since the start that that is a potential solution.
+Also, with regards to the question of absolute immunity, that is not the
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 27
+
+question here, that was never the question here. The question was, do - does
+the scope of IGO immunities mean that we would be entitled to immunity in
+this very specific context? And the answer from (Prof. Flaine), (unintelligible)
+to be pretty clear, as you know -- Phil who’s also a lawyer -- there are no
+slam-dunks in law, this is pretty close to a slam-dunk as I’ve seen in long
+time. This is a very complex issue. Thanks.
+Philip Corwin:
+
+Let me (unintelligible) you’re oral input but I’d hope that organizations like
+(LECD) and other IGOs would submit some written comments on this
+(unintelligible) and tell us what you think is important, our conclusions with you think we should (unintelligible) and tell us if you think there’s anything
+wrong or anything we missed that should be taken into consideration. We
+want to get feedback from everybody on this memo before we move to final
+decisions plan.
+
+Brian Beckham:
+
+Thanks Phil, Brian Beckham again. I just want to come back to something
+that my colleagues from the (OECD) and World Bank mentioned earlier is
+that in very practical terms there’s a simple way to prevent abusive IGO
+names and acronyms in domain names and that’s simply borrowing the
+registration by third parties of those names. Now, IGOs are cognizant of the
+fact that when comes to trademark principals there’s legitimate coexistence
+by actors around the world in different classes of bits and services. So in an
+effort to appreciate that and compromise and come to a solution, we’ve come
+to the proposal for a curative mechanism to address abuse, if it and when it
+occurs.
+But I just want to mention something, I think there’s a generalized concern
+and I see it coming (unintelligible) in a lot of the comments in the chat and of
+course we’ve been monitoring the discussions of this working group that
+registering right in domain names which IGOs appreciate, in some cases, the
+very valuable assets would be put at risk. IGOs are focused on providing
+services to the public, during the ebola outbreak there were domain names
+registered and Web sites put up and emails sent out that were specifically
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 28
+
+intending to install malware on users’ computers. IGOs operate for the public
+benefit, they don’t have trademark enforcement budgets, they don’t have
+monitoring services.
+But in the rare case where there is abuse, where there’s a risk of public harm
+all that the IGOs are asking for is a means to address this. They’re not after
+domain names. And I just want to offer maybe as a very practical solution
+when it comes to in the (UDRP) context, a registrant who’s facing a (UDRP)
+claim has the option to elect a three member panel in which case they can
+elect a panelist who they feel would be sympathetic to their rights and to their
+views and maybe one practical option would be in this context, if there are
+legitimate concerns about domain names being taken from registrants.
+Maybe one way to address that would be to address at the outset the option
+for registrants to elect, even in a single member panel case, a panelist or if
+it’s a panelist via appeal to arbitration who they thought would accurately
+reflect the view of the law in specific terms of coexistence in their favor,
+because I can assure that the intent here in IGOs being here is not to
+displace the rights of domain name registrants; it’s solely to address harm to
+the public and harm to the reputation of IGOs. And it’s one practical way to
+address that would be to vest the registrant with some ability to impact the
+panel composition, that might be a practical way forward.
+Petter Rindforth: Just to make it clear. When we talk about this possible solution, are we still
+talking about a new sort of big IGO (UDRP) or do you think it can be added to
+the present (UDRP) where we also have to identify what IGOs are?
+Brian Beckham:
+
+I think, first of all, it’s not necessary to amend the (EDRP) for this purpose.
+There’s a separate process in ICANN going on right now to look at rights
+protection mechanisms which include the (EDRP), that’s a process that will
+run it’s own course. And more to the point, there’s advice from the (GAC) and
+the Los Angeles Communicate, which is very clear on this point, that in
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 29
+
+providing a curative mechanism for IGOs that this should not require
+amendment of the (EDRP), this should be a stand alone mechanism.
+Philip Corwin:
+
+Okay, and again, as I noted before, that - if it is the conclusion of this working
+group that a new curative rights (unintelligible) for use by IGOs should be
+created and we’re going to have to deal with all the questions of what has to
+be shown by the complainant by what evidentiary standard and all the rest of
+the considerations that come into creating a (CRP) at a whole clause.
+
+Brian Beckham:
+
+Thanks Phil, and this is (Brian) again for the record. I don’t mean to shortcut
+all of the thinking that would go around that but people might be aware that -I don’t recall the exact date, someone from ICANN staff or from the council
+might refresh my memory -- but about a decade ago there was actually a
+draft produced by ICANN staff for precisely this type of mechanism.
+
+Philip Corwin:
+
+Yes, Mary.
+
+Mary Wong:
+
+Thanks Phil, this is Mary from staff. So just to follow up on (Brian’s) point that
+I believe you’re referring to the draft - they made up in 2007, produced by
+staff. Just a note for the record, that that was one of the background
+documents for this working group and it is available for review. And
+presumably when the working group gets to the point of discussing which
+option it might pursue and what mechanisms and language, then it might
+return to that document. Thank you.
+
+Philip Corwin:
+
+Good. Multiple times during this discussion reference has made to the other
+working group that just started in March of this year, that’s revealing all right
+protection mechanisms and all (DTLDs). I’m very familiar with that working
+group because I’m one of the three co-chairs and just for people not familiar
+with it, that working group has a very lengthy projected timeline of these onewhirl review. The rights protection mechanism created for the new (TLD)
+program, the (PDDRP), which is the only one at the registry level and then at
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 30
+
+the trademark clearing house, sunrise registration rights for trademark
+owners, trademark claims notice and the uniform rapid suspension.
+We project completing review about mid-year 2017 and producing a final
+report on a new (TLD RPMs) at the end of next year. And then, just be
+initiating the (EDRP) review and the (EDRP) has never been reviewed. It’s
+the only ICANN consensus policy that has never been reviewed. That will
+kickoff in early 2018, and we haven’t even dared to project how long that will
+take. It’s because given the fact that there’s - well, just walking at the rightful
+guidance to panelists, there’s so many potential issues in the (EDRP) that
+could it be even longer than the new (TLD) reveal and it’s, as with all ICANN
+work, everything is done very deliberately and every potential question is
+addressed from both sides before.
+And then if you circle back around after you’ve done them all and revise
+preliminary conclusions. Now, the treatment of IGOs is not on the agenda for
+that working group and I don’t - you know, I’m presuming that this one will be
+finished well before the conclusion of that one and we’ll recommend whatever
+we do. But again, it would be - and just going through this exercise, I think it
+would be useful for this working group to query the Board as to - and there
+was a discussion yesterday between the (GNSO) and Board members,
+specifically on Red Cross and IGO protections kind of saying, “When are we
+going to have a final decision by the Board? You’ve been looking at this stuff
+for over two years.”
+And there’s been indications before that they’re close to a conclusion and it’s
+frustrating for this working group, I’m sure it’s frustrating for the (GAC) and
+the IGOs that there’s no finality in that other process that relates directly to
+ours because the extent of the protection finally decided upon by the board
+will basically narrow or expand the scope of potential second level disputes
+that would be the subject of either disputes in the existing curative rights
+processes or in a new one if we went - go down that road.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 31
+
+And it’s five to 3:00 now, so I’m going to stop talking and see if Petter has any
+final thoughts and then if any of the participants in the room or on the chat, on
+the phone have final comments to make and then we’re going to wrap it up
+here. And thank you for your participation and hope that you continue to work
+within our working group as we move on to the most important stage of our
+deliberations.
+Petter Rindforth: Thanks. To make a quick summary of the meeting today and the comments
+we have got so far, we will definitely in our report, one of the suggestions
+would be not to make changes in the current (EDRP) but if possible to - one
+of the possibilities would be to create something similar but added that it
+relates to identify IGOs, the protection of IGOs in that policy system. And also
+to add an arbitration procedure. That said, I think what we also concluded
+today is that even if that kind of dispute resolution policy for IGOs is created,
+it cannot be 100% sure. Cases can be taken further to national courts
+anyway, but then at least there is a specific system to use.
+And as someone said, when there is a dispute resolution procedure or when
+a specific name protection is mentioned in some regulations, hopefully it will
+also have some limitation ratio on even organizations that plan to misuse this
+kind of name protection. So Mary, what can we say about the next steps?
+Mary Wong:
+
+Thank you Petter, this is Mary Wong from ICANN staff. So the next steps, I
+believe, will be for the working group having had a chance to review (Prof.
+Flaine’s) opinion with input from the community, included all affected parties
+to look at the various options that it may have and those would include
+options for either modify existing procedures or potentially creating additional
+procedures amongst other options, some of which were highlighted today.
+I believe that the intent is to have that discussion immediately following this
+meeting, at the next working group meeting or commencing the next working
+group meeting and following that then the working group would have to go
+back to other preliminary discussion and conclusions and work out language
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:56 am CT
+Confirmation # 8995821
+Page 32
+
+for proposed preliminary recommendations which, I believe, the plan is to
+have that done certainly before the next ICANN meeting in November.
+Philip Corwin:
+
+Great. So Mary am I correct that our projected date for the next meeting of
+this working group is - one meeting on Thursday, now we’ve been moved to
+Thursdays would be best (Field Day)July 14th?
+
+Mary Wong:
+
+This is Mary again. I believe that’s correct.
+
+Philip Corwin:
+
+Thank you. So again, if you have an interest in following the continuing
+discussion and deliberations, mark your calendar for July 14th, that’s our next
+meeting after this one of the working group where we’ll be going very
+carefully through (Prof. Flaine’s) memo, his final version, and debating
+exactly what it means and what conclusions we should draw from it and what
+our next steps are and then start to move forward in whatever direction we
+decide to go.
+
+Petter Rindforth: With that we end for today. Thanks.
+
+END
+
+

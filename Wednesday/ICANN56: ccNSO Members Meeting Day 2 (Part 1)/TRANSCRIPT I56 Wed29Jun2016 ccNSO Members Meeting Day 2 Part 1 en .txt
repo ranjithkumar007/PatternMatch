@@ -1,0 +1,1536 @@
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+Wednesday, June 29, 2016 – 09:00 to 10:30 EEST
+ICANN56 | Helsinki, Finland
+
+UNKNOWN SPEAKER:
+
+Good morning everyone. Great to see so many of you here after
+the excellent reception we had yesterday. Once again, I would
+like to thank our hosts. [APPLAUSE]
+At least those of them who are present, because I think they also
+worked very hard.
+[SPEAKER OFF MICROPHONE]
+At least one is.
+[APPLAUSE]
+Thank you very much. That was really great. So, while others
+are still rebooting, we will start with our morning session, and
+the chair of our morning session is Mathieu. So I’d love to give
+floor to him, so please welcome our co-chair on CCWG
+accountability.
+[APPLAUSE]
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+MATHIEU WEILL:
+
+EN
+
+Thank you for the warm welcome. It feels almost as warm as we
+were in Panama. So the purpose of this session is to give you an
+update on the accountability work. And you’ve had an update
+yesterday with Lisa about the CWG, so the stewardship
+transition on the naming function of IANA.
+And because we are still expecting our guest star from Canada,
+who shall remain unnamed, so far, we are going to adjust a little
+bit of the way to conduct this session. But just to start with a
+small reset of the context for those of you who may have missed
+the previous seasons of this series.
+It’s much more peaceful than Game of Thrones. I can assure you,
+no character has been injured in the process, and anything
+closely relating to those kind of series is purely a coincidence.
+So, the context obviously is the one of the transition. What you
+see on the graph here is a reminder that there were, that started
+with the ICG, so the track on the IANA function itself, and then
+some months later, when it became clear that the transition of
+the role of the US government in the stewardship of the IANA,
+was also going to effect the accountability of ICANN, a new
+group was formed for suggesting recommendations, to enhance
+ICANN’s accountability.
+And from the very beginning, because of the breadths of
+comments that were received, it appeared an accessory to
+
+Page 2 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+distinguish between two work streams. The first one being
+related to recommendations that need to be in place, or
+committed to before the IANA transition takes place. And that’s
+work stream one. And work stream one recommendations have
+been approved in Marrakech.
+They are now in a, I would say 90% are within a set of bylaws
+that have been approved by the Board, and are ready to enter
+into effect on October 1st, if the IANA contract expires on
+September 30th. So that’s close to completion, although there
+are still some things to do and we’ll get back to that with Becky.
+And what we did the day before this policy forum started in
+Helsinki, so on Sunday, was to start the work stream two, which
+captures the other aspects that were not an accessory to be in
+place or committed to before the IANA transition, but are still
+very relevant to enhancing ICANN’s accountability, and
+especially in the context of the IANA stewardship transition.
+So these topics are here.
+
+You see that there is enhancing
+
+ICANN’s diverse, enhancing ICANN’s SO and ACs accountability
+will get back to that, right after this introduction, enhancing staff
+accountability, enhancing transparency, enhancing the ICANN
+ombudsman function, some considerations around ICANN
+jurisdictions, and a framework of interpretation for how the
+commitment to human rights applies to ICANN within its narrow
+scope, are the key topics.
+
+Page 3 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+There are a couple of additional ones that were sort of cut by our
+lawyers in terms of consistency with the report. One is the
+review of the CP. Who knows what the CP is in this room? Thank
+you Grace, thank you Becky, it’s good. Well the CP is just very,
+very fundamental aspect of any review, and especially the IRP.
+It’s the cooperative engagement process, am I right?
+Yeah, I got the acronym right, yeah. So it’s the part where before
+you get into the arbitration, you’re supposed to speak to each
+other, and speak past each other, and then you go to the
+arbitration because you don’t really want to cooperate. But
+that’s the process.
+
+UNKNOWN SPEAKER:
+
+Well yes, although people complain about it bitterly because
+apparently you cooperate for a really long time.
+
+MATHIEU WEILL:
+
+Yeah, that’s right, it’s too long. So that’s part of the reviews that
+need to be done to have an effective arbitration, or independent
+review. So that’s an important aspect actually. And then there
+is, you may remember that the additional powers for the
+community include removing the Board member, or actually
+recording the Board, and there are some guidelines that are
+needed for how to conduct these discussions within the
+
+Page 4 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+community, in terms of good behavior, to avoid future litigation,
+potential litigation from a Board member against community
+members, because they would have, well I’m not happy with, I
+don’t know for instance, Becky Burr’s behavior in the Board.
+It’s just a pure example, because the ccNSO wouldn’t have the
+right to do that. So, those are the work stream two items. It’s
+starting now, and we’ll get back later in this session about how
+we can get engaged, how its, what pace, at what pace we will be
+discussing this, in this ccNSO rooms, but first, I’d like to
+handover to Katrina to give us a few, and update on the ccNSO
+Council proactive actions on AC SO accountability.
+
+KATRINA:
+
+Thank you very much Mathieu.
+accountability,
+
+we’re
+
+used
+
+Yes, when we talk about
+to
+
+talking
+
+about
+
+ICANN
+
+accountability. Somebody is accountable to us, but at the same
+time, we as the ccNSO are also accountable. We’re accountable
+to our community. And the ccNSO Council is accountable, and
+we think that… We take it really seriously, at least we try to.
+And as one of the first steps in order to identify where we still
+lack some transparency, actually to get some feedback from the
+community, we launched a survey. We wanted to ask you a
+couple of questions to find out how well informed you are, and
+what exactly do you expect from the council?
+
+Page 5 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+Thanks to all of you who responded. We got 46 responses, I
+think. So who did respond in this room? Could you please raise
+your hand?
+C, accountability. Thank you. Thank you very much. I don’t
+know, there are no [inaudible], it’s just a big thanks to all of you
+who responded. Here you can see responses by region. I think
+that all of our members from North America responded, at least
+it looks like that. Europe was very active. We didn’t get too
+many responses from Africa, but I’ll talk about that a little bit
+later.
+Still again, thank you very much. So, we wanted to know how
+you learn about the ccNSO, about things that happen at the
+ccNSO, about our activities. As you can see, most respondents
+indicated that they, they get information from monthly activity
+reports.
+
+Some of you get information from council
+
+correspondents. I suspect those were our councilors.
+Minutes of council meetings, they’re published. Oh, and some
+do not get any information. Somehow they get informed, but
+they indicated none of those immediate used. So another thing
+we wanted to know, we wanted to know which channels you
+used to get this information. And here we see that ICANN
+meetings are important for our community. This is when, where
+we exchange information.
+
+Page 6 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+So, we will take that into account. This is the way we can give
+you all of the information you want, and of course, mailing info
+and the ccNSO website. I was a little bit surprised that in this,
+now [inaudible] social networks are so important. People still
+rely heavily on the mailing list, and that’s your preferred method
+of getting information from the ccNSO Council about the ccNSO
+activities.
+And, well number two is the website. Now this is a really
+interesting slide. This is a subjective question. How well do you
+consider yourself being informed about activities? Glad to see
+that, well, more than half, in this case, some consider
+themselves very well informed, and half consider themselves
+well informed about the activities of the ccNSO. Of course, glad
+that none of the respondents indicated that they, yeah, not
+informed at all.
+This is really great. Still we have more than 10% of those who
+think they are not well-informed. So this is something that we
+need to investigate more to find out why do people have this
+feeling.
+
+And this is another, the same, actually the same
+
+information, but by region. I think that those who think that
+they are very well informed in Africa, Asia Pacific, and North
+America, those were the councilors. I really hope that none of
+the councilors who responded said that they are not well
+informed.
+
+Page 7 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+Another question we wanted to understand, so how… Do you
+think that the Council spends reasonable time and effort to
+explain our decisions, explain what and how we do? Glad to see
+that many people think that, well, most of the time. A couple of
+people who think always. It wasn’t me.
+But yeah, of course, sometimes, and well no opinion. And I’m
+really, really glad to see that none of the respondents said that
+we hardly ever communicate back to the community, or not at
+all. How much do you trust your Council? So do you review the
+decisions undertaken? Some people, yes, always, and that’s
+great.
+Yes, sometimes. Again, more than half, and you know, there are
+people who never review decisions of the Council. Again, I hope
+those were not councilors, but yeah. Something that is, well, I
+think interesting for us, why hardly ever or never? So is this just
+think, the Council does a good job, or you just, probably those
+are responding… Well, whatever. That is a worrying thing.
+Again, how can we improve this to make you more interested in
+the processes? Another part of accountability is redress. And so
+we ask, do you know about this redress mechanism we have
+currently in our ccNSO rules? Rules that were adopted in 2004.
+And what this mechanism is that the Council approves a
+
+Page 8 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+resolution, and the community has seven days to ask for
+members’ vote, if you disagree with the decision.
+It looks like more than half of people did not know about this
+mechanism. So that’s something that, again, Council needs to
+take into account, and probably inform people better about this
+mechanism. So another question we asked, well, taking that
+into account, is this sufficient, or do we need some other
+mechanisms to ensure that you think you have enough control
+of the processes?
+Most of you said yes. I will get back to a couple of suggestions
+we received a little bit later. Not a bit later, but exactly now. So,
+some interesting… Some of the most interesting comments
+that we received to this survey. Apparently there is an interest in
+these issues, and I think that we need a session dedicated to
+ccNSO accountability. And I think this is a good start.
+This session is a good start, and probably something to take into
+account from meeting program working group, please plan
+another session and an update in India. Another suggestion was
+that all of the important decisions could be voted by members.
+Actually, I think at this point, we have well, certain number of
+decisions that were considered important some years ago. They
+are voted by members.
+
+Page 9 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+Members vote on… EDP members vote when they select their
+representatives on the Council, members vote when they select
+our representatives on ICANN Board, for example. So, there is a
+set of decisions that is taken by vote of members. Do we need
+more?
+
+More of other types of decisions.
+
+This is, again,
+
+something that we could discuss in more detail.
+Another interesting suggestion, I think, that it also came as an
+outcome of a discussion about the removal of Board members.
+So, how can we remove a Council member if we do not try a
+particular counselor? This is not such an easy thing because we
+have this regional representation. So, normally region selects
+three counselors. So should we give other regions the power to
+remove a counselor from a particular region?
+Something to think about.
+
+Something that, yeah, that
+
+counselors should take into account, that there was a request
+that counselors should engage more with the community, and
+again, we on the ccNSO Council, we understand the need for
+engagement, they can take certain steps to ensure that you, in
+your regions during your meetings, your regional organizations,
+so the counselors give update on ccNSO activity so that you get
+more information, not only during ICANN meetings, but also
+during other meetings.
+
+Page 10 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+And of course, I think that all of the counselors will agree that if
+you have a question, you can ask, I think, basically, any of the
+counselors, especially counselors from your region speak
+perhaps your language, and they can provide you more
+information about what’s going on in the ccNSO, or in ICANN in
+general.
+Then there was a request for more transparency on travel grants
+and how they are granted. Actually, I think, I’m sure that we
+published, if you go to the ccNSO website which you indicated as
+one of the main tools for information, you will find the list of all
+of those people who get travel funding.
+Yeah, through the ccNSO, of course, yes. As you know, we
+have… Now I suddenly forgot, 12, yes, 12 funded seats. And
+about four or five seats go to the community, where you can
+request, send in your applications and request travel funding. If
+you actively participate in the activities. So, and the list of
+funded travelers, again, it is always published on the ccNSO
+website.
+One of the issues that has been identified is language issue.
+Yeah, it is a problem, so we at the ccNSO communicate only in
+English.
+
+We do not have funds, we don’t have money for
+
+translation, to provide translation. Well, I think, of course, there
+are some certain things that we could translate, but at the same
+
+Page 11 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+time, we have to take into account that all of the information on
+the website, our mailing list, it’s all in English.
+So we won’t be able to translate everything. We can translate
+certain pieces like survey, for example. And again, thanks to our
+volunteers, it would be a community effort. So yes, language,
+and this is an issue but at this point, I do not think we can
+adequately solve it. All I can say, well, use Google translate, for
+example.
+They are working and trying to bring us together too. So these
+are the main findings of the survey. We will try to analyze it
+more deeply. We’ll see distribution by regions, how people from
+different regions responded to different questions. But yes, this
+is something for us to think about, and to prepare an update
+session in India. Are there any questions?
+Yes, David. Please come to the mic.
+
+DAVID ABRAHAMS:
+
+Thank you. David Abrahams from [inaudible] dot UK. I just
+wanted to ask, first, a quick question on the survey. I take it
+from some of the comments that you made, that ccNSO
+Counselors also responded.
+
+Page 12 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+KATRINA:
+
+They raised their hands.
+
+DAVID ABRAHAMS:
+
+So we had, I think, 46 responses, and there are 15 ccNSO Council
+members. Now you would expect most of the answers of those
+questions to be yes, I do know what’s going on and I’m well
+engaged, and I understand the processes for that third of the
+responses. So I’m wondering if we’ve missed a trick by getting,
+trying to get people engaged.
+
+KATRINA:
+
+You’re absolutely right, and we’ve identified this, sorry, after we
+launched the survey. Next time when we launch a survey, we
+will have a separate… We will have the opportunity to tick a box
+if you are a counselor. Of course, well, responses given by
+counselors should be excluded from the general picture,
+because they are, well, yeah, I think that we perhaps should
+survey our counselors too and ask, how well they think they are
+informed about the activities of the ccNSO.
+But yes, we identified that, we realize it, but at this point, we
+cannot, it’s anonymous so we cannot…
+
+That’s just an
+
+assumption, and by the show of hands, a couple of, 10 minutes
+ago, I conclude that yes, counselors like Margarita and Becky,
+they filled in the survey. Yeah.
+
+Page 13 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+DAVID ABRAHAMS:
+
+So in that case, I would suggest that we maybe don’t have an
+accountability problem yet, what we have is an engagement
+problem. And that should possibly be the focus of the actions
+that come out of this survey.
+
+KATRINA:
+
+Thank you David. I think you’re absolutely correct. We do have
+an engagement problem, and there are different reasons for
+that. Yes, Hiro.
+
+HIRO:
+
+Yes, I’m Hiro from the JP. I raise my hand when Katrina asked
+who responded to the survey.
+
+I thought the survey was
+
+responded by ccTLD registry, not by person. So, of course, I
+consulted with my colleagues and responded. So it’s not mine,
+it’s from…
+
+KATRINA:
+
+It’s a fair point, yeah, point taken. Thank you.
+
+MATHIEU WEILL:
+
+So Mathieu Weill speaking. So I think the initiative of our survey
+is wonderful.
+
+It’s actually a wonderful practice.
+
+I had no
+
+involvement in the setting up of the survey. I should disclose at
+Page 14 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+all, but I think this is exactly the way to engage with a target
+community to stop and say, what do you feel? What do we need
+to improve?
+And so I have an easy question for you, Katrina, which is,
+whether those slides and the survey could be shared on the
+accountability working group list, as maybe food for thought for
+other SO and ACs about how to start collecting real data about
+SO and AC accountability? So that’s my question.
+And then the comment is that on engagement, may be the most
+[inaudible] thing to address for the ccNSO, I tend to fully agree
+with that, and it’s fully part of accountability, because if we want
+to be accountable to the whole community, then they need to
+be consulted. They need to, we need to be able to lessen to their
+expectations.
+
+And if we cannot establish a two-way
+
+communication channel, then certainly we have an issue.
+So it’s really within the accountability framework to think about
+engagement, as well, and not only transparency or removing
+counselors. And I tend to fully agree with David about the
+assessment that this is the most important issue for ccNSO right
+now.
+
+Page 15 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+KATRINA:
+
+EN
+
+Thank you Mathieu for the question. Actually, when we were
+discussing cross community sessions here in Helsinki, regarding
+this policy forum, we proposed to have a cross community
+session discussion on SO AC accountability. Unfortunately, it
+didn’t work out. I think that maybe one of the reasons is that
+others are not prepared to talk about yet, but we think, yeah,
+this could be a topic in other meetings, and absolutely we agree,
+this will be pubic, all of the responses, the results will be public.
+And of course, you’re more than welcome to share. We’re ready
+to answer questions and basically we think we won’t stop here.
+We will have to dig deeper and find out what the community
+really wants. That was a nice camera.
+Okay, thank you very…
+Sorry, I hope everything is fine. Okay, so are there any other
+questions or comments?
+Well, if no, I’ll give the mic back to Mathieu.
+
+MATHIEU WEILL:
+
+Thank you very much Katrina. So that’s, I’d say, the first half of
+this session, focused on the ccNSO itself. Now if we can switch
+back to the other set of slides. There are two work streams in
+accountability. So we thought we would divide the update now,
+which is really designed to help you identify what’s going to
+
+Page 16 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+happen next, what remains to be done. And I am going to turn
+to Becky for an update of, as I said earlier, 90% of the work
+stream one implementation is ready, ready to go through the
+bylaws.
+But there are still other issues, including some for the ccNSO to
+prepare. So Becky.
+
+BECKY:
+
+So the work stream one phase two project really is focused on
+the rules for the implementation of the enhanced independent
+review process. Just to be clear about this, at the current time
+the bylaws have a specific carve out and say, decisions about
+delegation, revocation, or transfers of ccTLDs are not subject to
+independent review, although as a result of the PDP, at some
+point, the ccNSO may decide it wants that kind of a mechanism
+available.
+But for all other decisions including, reviews, independent
+reviews or dispute resolution mechanisms, that would be
+brought by the empowered community in which the ccNSO
+participates, we are revising the independent review process.
+And currently we have a sub-team that was appointed by the
+CCWG to work on developing the procedural rules, and the
+detailed rules for how the independent review will proceed.
+
+Page 17 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+We have a very good diverse group. We’re working on this. We
+deliberately tried to make it kind of small, but our goal was to
+have participation from all of the regions, to have linguistic
+diversity, to have diversity in legal traditions, because although
+we are basing a lot of the procedures on international
+arbitration rules, we wanted to make sure that we had people
+with expertise in civil as well as common law jurisdictions.
+From the ccNSO, I am participating, David [inaudible] is
+participating, Maryanne [inaudible], did I pronounce your name
+correctly? From AfriNIC is participating. And then we have other
+people who are participating in this. We’re still putting together
+a document that will allow us to review the rules of procedure,
+as we go through, once that is done, which will be in the next
+week or two, we’ll be kicking off that review in earnest.
+One of our deliverables will be to put together a RFP for a
+provider of, a service provider to manage both the independent
+review processes themselves as they come up, but also most
+importantly, to help us identify candidates for the standing
+panel of arbitrators that will be there. In this, I think this is very
+important for the ccNSO. We want to be very aggressive about
+reaching out to identify qualified candidates for the standing
+panel, from around the world, again, reflecting diversity,
+linguistic diversity, legal system diversity and the like.
+
+Page 18 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+And we hope that you all will be watching for that, and will help
+us identify candidates for that, as I think, you know, and as
+Matthieu was talking about, with the diversity study the other
+day, this is really a critical, making sure that we get a highly
+qualified diverse panel, is critical for the legitimacy of our work
+here. And we don’t think that we’re going to do that just by sort
+of posting a request or a call for expressions of interest.
+We really do think we’re going to need to be more affirmatively
+engaged in identifying candidates and reaching out for them. So
+that’s going to be an important part of the process, and we hope
+that all of you will sort of have your ears and eyes open for
+candidates who might be interested in participating in the
+panel.
+So that work will be continuing. We need to have some of the
+work done fairly quickly, but I think the next big chunk of work
+that will come back to you on, will be in Hyderabad. As I said,
+this is not, you know, although the delegation and revocation
+transfer issue is not currently subject to the independent review,
+the independent review process is the sort of, is what really gives
+the, it makes the empowered community process work, and
+enables the community to come together and challenge work,
+something that ICANN has done that exceeds the scope of the
+bylaws, or that violates the bylaws. So it’s critical to get that
+
+Page 19 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+accountability mechanism right, and we’re working hard on
+that.
+
+MATHIEU WEILL:
+
+Thank you Becky. Are there any question on the independent
+review panel phase two? There are none. You were extremely
+clear.
+
+And so, Hyderabad probably a more substantial
+
+discussions about how the selection process is going to look like,
+and the rules of procedure, which will be absolutely essential in
+the new set of…
+
+BECKY:
+
+Yes, that’s correct.
+
+The way the bylaws work is that the
+
+community comes together to propose a standing panel, the
+standing panelists, and those panelists are confirmed, then, by
+the ICANN Board. So we need to develop a way of identifying
+candidates, vetting candidates, and having the community
+come together to select a panel of candidates. Those are all very
+new things that we have never done before, and so it’s an
+ambitious undertaking.
+
+MATHIEU WEILL:
+
+Thank you Becky. So in that time, [inaudible], oh yes, Giovanni,
+if you have a question, please.
+
+Page 20 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+GIOVANNI:
+
+Thank you Becky and thank you Mathieu.
+
+EN
+I have just one
+
+question regarding communication and education of this
+community in terms of what are the next steps. What is the plan
+for the coming months as we are approaching, let’s say, a sort of
+holiday season for many of us, to educate about the next steps,
+and communicate what are the expectations at the working
+group level against this community?
+Yesterday was this interesting presentation about the type of
+candidates for the customer committee that, you know, are
+expected to come from this constituency, and I think it would be
+good to have a similar kind of educational requirements spread
+out at different levels, you know, not once in a while to this
+community. So I’m just asking you if you have any plan to
+engage more with this community as well as with other
+stakeholder constituencies. Thank you.
+
+BECKY:
+
+So that’s a very good suggestion, and I think what we will need
+to do is do regular reporting back to all of the stakeholder, all of
+the SOs and ACs, and as we incrementally make progress, and
+decide on what the next steps are, and get some of the
+information, maybe do some webinars, and things to get that
+information out. So we’ll make that available.
+
+Page 21 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+MATHIEU WEILL:
+
+EN
+
+That’s definitely an excellent suggestion. And part of this effort
+of setting the expectations clear is also that, there is the IRP and
+there is, if you remember, there is the empowered community.
+So the ccNSO is maybe, will be in a position to make new
+decisions. If all goes well, on October the 1st, the empowered
+community comes into effect, and there are a few administrative
+issues that need to be settled on that day.
+Such as, the ccNSO must decide who will be its representative in
+the unincorporated association, which is called the empowered
+community.
+
+ICT recommendation, the bylaws says that by
+
+default, it’s the Chair. But that needs to be settled. That’s
+probably more of a Council decision, across the summer. And I
+think they will also have to reappoint, or actually formally notify
+who are the Board, the ccNSO appointed Board members on
+October the 1st, when the new bylaws come into effect.
+So that’s really time critical, but it’s not complex. Then the
+ccNSO needs to be prepared for the case where one of the
+powers of the empowered community would have to be
+triggered. And that starts, there is a number of steps, significant
+number of steps. It starts with a petition, so what if, after the
+approval of next year’s budget, Giovanni and the SOP came to
+
+Page 22 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+this room and said, we need to veto this budget. Typical of
+Giovanni. [LAUGHTER]
+So what would be the process for the petition? The process is
+described in the bylaws, but what is the process for the ccNSO to
+accept a petition? Who decides? Is it the Council? Is it the
+community?
+
+Who goes into the community forum and the
+
+discussions? What are the processes in place to decide whether
+we go one step further in [inaudible] mechanism until there is a
+point where the ccNSO needs to decide to express support or
+objection to a decision.
+It seems a little bit complex like this because there are many
+steps, but basically the questions are, it’s what is delegated to
+the Council? Or to the Chair if you want to delegate to the Chair,
+I mean, technically you could be. What is delegated to whom?
+What is the process before making this decision of consulting
+with the community? What is eventually the type of majority
+considered? Is it a simple majority?
+Is it a super majority? And I strongly, strongly encourage you
+relying on existing procedures. There are existing procedures
+within the ccNSO for several types of decisions. It’s probably not
+necessary to add new layers of complexity on that. But it’s
+extremely important to have that ready so that if someday the,
+when someday, that will happen at least once. Someday. I think
+
+Page 23 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+I can go as far as that in terms of prediction, even if it’s the
+future.
+When that happens, there will be no time to discuss the
+procedures. And it’s going to be a very high tension phase, if not
+a full blown crisis. So everything must be laid out before and not
+during such a crisis, otherwise I don’t want to be on the Council,
+but the counselors will just go crazy and probably resign. And
+that’s going to be adding crisis on crisis.
+So this is something that needs to be prepared.
+
+It’s not
+
+extremely complex. There is a little bit of detailed work to
+prepare, but it’s our, my recommendation preparing this was
+that probably a session in Hyderabad would be a good thing to
+discuss about how to fine tune those processes, so that after
+Hyderabad, the Council can adopt some rules of procedure, that
+may clear what would happen and when, in such a case.
+So that’s an important aspect as well. Did you want to comment
+on this?
+
+UNKNOWN SPEAKER:
+
+I would like to comment, thank you. Very fair points. Mathieu,
+thank you. I just want to go a little back in history to remind you
+how it all evolved. As you remember, at some point, we just got
+informed that we will need to appoint people to the customer
+
+Page 24 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+standing committee, to [R-SAC?], and we knew the deadline. It’s
+the middle of August. It wasn’t very clear at that point, but you
+understand the timeframe.
+And so, apparently we needed to do the appointments
+according to our internal procedures. It was written in the
+proposal. So we needed to develop those internal procedures,
+and it was decided by the Council that luckily we have guidelines
+review committee, the people who already work on… They
+were reviewing our internal guidelines. And I think we, I hope
+you’ll remember a couple of guidelines the committee reviewed
+and updated.
+They all posted. So, it seemed a logical solution to mandate this
+group to work on internal procedures for customer standing
+committee, and [R-SAC]. Now, when we realized that we need
+additional procedures, again, tomorrow the Council will
+mandate the group to work on these procedures as well as
+propose them to the community.
+Again, it’s going to be, yeah exactly. We will discuss, find out
+what is necessary, and propose solutions to the community,
+hear out what you think, and then finalize those documents and
+send to the Council for adoption so that there are policies that
+on needed, they are in place. One short comment about the,
+who represents the community on this.
+
+Page 25 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+It says that it’s the chair or the designee. One thing I want to
+remind you that according to our procedures, the chair of the
+ccNSO is not elected by the community, but selected by the
+Council. So this is something that needs to be remembered. If
+you want, and I think it would be a fair thing to request, if you
+want your representative of the community there, so probably
+think about some other, to have this designee. That’s one of
+the…
+
+MATHIEU WEILL:
+
+I’m sure Becky will comment and probably [inaudible] on the
+same line, on this.
+
+BECKY:
+
+So just to be clear, the role that’s being played is a totally
+administrative role. There is no… The ccNSO makes all of the
+decisions, and the representative to the empowered community
+just articulates those.
+
+So we would not be selecting a
+
+representative in the sense of exercising judgement. It is really
+focused on carrying out, in an administrative way, the will of the
+community according to our own policies and procedures.
+
+MATHIEU WEILL:
+
+So no offence, Katrina, but you don’t even need to exert your
+judgment in this. So I think… I don’t know whether that’s
+
+Page 26 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+actually a sign of trust or not, but it’s indeed very, very
+administrative function, but it needs to be discussed, how we
+want to organize this.
+Before just turning to the room, I would like to just complete the
+background picture with one additional thing that we’ll have to
+do in the new bylaws system, as a ccNSO, which is to appoint
+representatives this time, in the review teams. The ATRT, the
+security, stability, and resiliency review teams, from October the
+1st, it is no longer the CEO or chair, well there was some complex
+systems which we were not part of, but it will be up to the ccNSO
+to appoint representatives to the review teams.
+It is very appropriate that there has been a lot of thought being
+given recently on the selection processes for the CSC, even for
+the CCWG members, and the CWG members. So I think we can
+build upon that. But it would be, it’s certainly useful to build
+upon this, and maybe setup sort of a generic framework for
+appointing representatives, because it’s going to become more
+and more frequent in the future. And part of the ccNSO Council
+is probably, responsibilities.
+So that’s something that probably we’re in good shape with, but
+it’s also good keeping it in the picture. On the finalization of
+these new bylaws and associated mechanisms, are there any
+questions in the room?
+
+Page 27 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+Do you all trust Katrina for taking care of this? Good, good. We
+don’t need shortcuts. But [inaudible] did not. Can we put it on
+the record? [LAUGHTER]
+Good. So that’s the roadmap for finalizing this work stream one.
+Now, if we go back to work stream two, I would like to, that’s
+more of an update on what’s going to take place on the CCWG
+side, and how you can follow-up or even maybe engage. So, in
+terms of timeline, basically if all goes well, for the simpler,
+lighter topics of CCWG work stream two, we would be in a
+position to provide recommendations for approval by June 17,
+June next year, in one year’s time.
+That’s the simpler topics, tentative agenda. In the meantime,
+there will be probably, maybe even a first public comment and
+substantial discussions in Hyderabad, and a second round of
+discussions, finalization in Copenhagen, so in March of next
+year.
+That is the, if everything goes well, and the topic is not too
+controversial, and we can make it work easily. Of course, we’re
+not expecting, we have nine subgroups on work stream two, so
+chances are, not all subgroups will move at the same pace. And
+chances are within the nine subgroups, at least a few will be
+quite controversial and consensus building will not be as easy as
+one could help.
+
+Page 28 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+So it’s mostly anticipated that some of these topics might shift
+by six months. By the end of 2017. But this is just to give you a
+heads up that the first substantial discussions will take place
+probably in Hyderabad, with probably public comments as well.
+And this will go on until probably the end of 2017.
+Now, that comes with a cost. There are nine subgroups, nine
+topics basically, it’s a personal view, but I see the CCWG
+accountability as a super review team, super ATRT, if you want,
+because we’re reviewing a number of things that’s absolutely, is
+very wide. And so the key question that obviously we’ve been
+very focused about in the last few months was, how to pursue
+these goals of enhancements, and at the same time, make sure
+we got the cost properly managed, so that we are efficient and
+responsible in our way of managing this.
+And of course, you’re aware of the fact that the transition effort,
+has been basically funded from the reserve fund of ICANN. So
+this is obviously a source of concern for financial stability, it’s
+not sustainable, at the pace that it has been for work stream
+one.
+And the good news is, I think no one wishes to keep that pace,
+not the volunteers, not the ICANN staff, not the Board, no one.
+So what are we planning? And this is relevant to this room
+because there is, the process of the Board, the budget approval
+
+Page 29 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+process, includes the budget for fiscal year 17, includes a section
+on the finalization of the IANA transition and work stream two
+accountability.
+So what we’ve discussed here since Marrakech has been given a
+lot of attention in terms of cost estimates, which are described
+here, and that’s included in the budget, pending two conditions.
+One is that it’s spending approval from the SO and ACs, so
+basically the question that has been raised with the CCNSO is,
+do you think that the work stream two deserves to be continued,
+considering that this is what it is expected to enhance, and this
+is the cost?
+Do you think there is value for money in here? And that’s been
+asked to the ccNSO, to the GNSO, to the all of the chartering
+organizations. And the Board, I know, is intently awaiting a
+word from the ccNSO, whether there is support, whether there is
+objection, we should all stop this, or whether there are any
+concerns. So, basically what’s in the cost estimate, what’s in the
+plan for that?
+First, that’s, there is many things around the transition. The
+figures I’m showing here are including the work stream two
+accountability, and the IRP phase two. So what we’ve been
+discussing. It includes support from staff, we have wonderful
+
+Page 30 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+staff. Some of whom are in the room, but I would say it even if
+they were not in the room, and if it was not recorded.
+Obviously, the AC room, all of the infrastructure, the
+transcription. So that was a discussion. All of the meetings will
+keep being transcribed so that they can be accessed by people,
+easily by people who cannot make all of the calls. There will be
+face to face meetings. We’ve had this practice now to have a
+face to face meeting the day before the ICANN meeting starts,
+where we try to advance some initial discussions.
+I think it’s absolutely critical for some of the consensus building.
+We’ve made great progress in these meetings, because that’s the
+moment when people can actually… Put people in the room,
+they compromise more easily. I don’t know if it’s arm-twisting,
+or just human relationships, but we’ve seen how efficient this is.
+So that’s, and the Board is willing to, was very reluctant about
+travel seats, but because we want to have a diverse
+representativeness in this critical consensus building moments, I
+think they’ve agreed to basically agreed to use the same type of
+reference that they’re using for the review teams by supporting a
+certain number of people to go.
+So we’ll have 20 travel seats out of 27, 28 now members. And
+that’s what we’ve seen in the past meetings, so we’ll get the
+regular attendance. And of course, there will still be a need for
+
+Page 31 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+independent legal advice. As you can see on the chart, it’s a
+significant amount. There is a significant amount for finalizing
+the rules of procedures for the IRP. Obviously that’s very legally
+intensive work, but it’s also a provision, which obviously does
+not correspond yet to a specific work plan, but has been
+designed based on the past experience of the CWG and CCWG,
+and is of course, much lower than the intensity of legal advice
+we’ve received in work stream one, because we’re not planning
+to redesign the bylaws again.
+That would actually not be within our remit anymore, but some
+aspects like human rights, I guess jurisdiction, we require some
+legal studies. So we have a budget for that. The idea behind this
+is also… Did I have a slide on this? No. Is also that this, the cost
+management mechanisms are going to be refined.
+Overnight, I think it was this morning, barely, the ccNSO has
+received a note from the Board finance committee. Of course,
+you’ve reviewed it Katrina, you were talking to me about this
+earlier. I haven’t. That is an outline that the principles that the
+Board finance committee is attached to, in terms of cost
+management, and that will, for the first time, include the idea
+that budget ownership will be set up for, these are the co-chairs,
+or group of, a sub-group of the CCWG to manage these costs,
+with a little bit of leeway for tradeoffs, if need be at some point.
+
+Page 32 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+And of course, reinforce the attention to the legal requests. So
+that’s going to be a condition for the Board, to actually commit
+to external expenses, and that’s going to be now discussed
+within the CCWG in the next couple of meetings, so that we…
+Just like for the procedures for the empowered community, we
+need to get the budget control mechanism set up before the
+discussions get tough and people start using this as an excuse to
+delay process.
+So a lot of, actually, new ground being covered because you can
+imagine that sort of controlling costs could be an interesting
+aspect of some other projects within ICANN, including
+community projects like, I don’t know, subsequent procedures
+for gTLDs, or some of these big review, big, big projects that
+require a lot of surveys and expertise, outside expertise, and so
+on.
+So, we’ll try that route, try to see how we can demonstrate that
+the community itself can behave in an accountable manner in
+terms of cost management as well. So this is going to be the
+extra step. But for the time being, the ccNSO, I think it’s on the
+agenda for Thursday, is expected to say whether they support,
+rejection, or any other comment on this cost estimate and how it
+integrates with the budget.
+
+Page 33 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+And of course, that’s a one-time budget. It’s not… At some
+point, I hope someone will say, maybe not this time, that it is no
+longer valuable to add extra costs for continuing some work, if
+we find that we’re not completing everything. And I would love
+to see the point where we say, we are stopping the CCWG
+accountability, even if we haven’t delivered everything.
+That’s it for me. Did you want to comment, Katrina, or maybe
+we could just take questions from the floor on work stream two
+and the cost estimates. No? Yeah, and while you go to the mic,
+David, thank you, just a reminder that on the different topics
+that are here, you’re invited to join.
+You’re invited to engage. It takes a single email to Grace here, to
+get added to the full list, or just to replace, add yourself as a
+participant or an observer to a specific group. I really wish that
+the ccNSO representatives can contribute to the SO AC
+accountability discussions. I think we have, we are way ahead of
+others in many areas.
+Maybe not the most formal areas, but the more effective ones.
+We can always add more processes, but I don’t think that’s the
+point, but actually, we’ll… There is a lot of things being done
+within the ccNSO from all over its history that can be beneficial
+for the others. So I really would encourage you to contribute to
+this one, and the others obviously. David, please.
+
+Page 34 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+DAVID MCAULEY:
+
+EN
+
+Thank you Mathieu. I’m David McAuley, I’m with VeriSign, here
+in my capacity as [inaudible] services.
+Sorry. Is this working now? My name is David McAuley, I’m here,
+I’m part of VeriSign here in my capacity, we provide services for
+some ccTLDs, including dot CC. In any event, with respect to the
+budget for the CCWG, Mathieu, especially if some of the financial
+control leaks down to the sub-group level. One of the things
+that we did when the CCWG got underway, as you know, is had a
+legal sub-team stood up, to try and grapple with the questions
+that were going to be provided to our lawyers, and we, León led
+the team and I was on it, and there were a number of other good
+folks on it.
+But we… Our remit was basically stood there because some of
+the participants legitimately felt that they were controls on the
+questions that were being posed. I would suggest, as we grapple
+with this in the very near future, that that team be stood up
+again with a view towards the financial side of all of this,
+because there do have to be some controls in place, and I think
+it will be open to everybody in the CCWG, obviously, but that was
+a fairly good team for the time that it operated.
+So it’s just a suggestion. Thank you.
+
+Page 35 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+MATHIEU WEILL:
+
+EN
+
+The suggestion is not lost on us, at all, and I think that is
+probably a direction, well, we’ll have this discussion in the
+CCWG, obviously, but it’s sensible, and in good practice, to setup
+a subcommittee on this.
+
+UNKNOWN SPEAKER:
+
+Three points. The first one is more a matter of procedure.
+Maybe I’m the only one, but having to get out of the line, stand
+up for the microphone, feels like a public forum. And I think one
+of the reasons why we have less, that’s what I mean. So one of
+the reasons why we might have less interaction than normally,
+might be that.
+So I suggest you review this procedure, and maybe consider
+going back to handing out the mic instead of asking people to
+come up here. The second one, can we go back to the slide with
+the work stream two? Again, maybe I’m the only one. I have
+quite mixed feelings about this whole work stream two.
+I think that we’re all aware that we took a lot more time than we
+thought with work stream one, and work stream two has some
+subjects that we didn’t want to touch in work stream one
+because we were sure that we would never meet the deadline if
+we would try to solve those. So my first point is, I think we have,
+
+Page 36 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+and that’s as a working group but also as a community, we have
+to show some self-discipline, and not go in all directions when
+we’re dealing with these subjects.
+I think we risk spending a lot of money, a lot more than you have
+budgeted, and a lot more time then we now [inaudible]. So my
+question there is, because you said that the question is up to the
+communities or the councils of the different constituencies, if we
+want to spend the money and [visits?] on these subjects or not,
+can we also be selective? So say yes, we want to spend money
+on this, but we think spending money on those is probably a
+waste of time and money.
+Is that a possibility? Or is that a yes or not to the whole
+package? Am I making myself clear?
+
+MATHIEU WEILL
+
+That’s very clear. That’s a very good question. Becky, did you
+want to respond? I see you… No? Okay. So, I think it’s up to
+the ccNSO, if you want to say, and we have a specific interest in
+this and an interest in that. Each of the recommendations is
+anyway going to come in front of the ccNSO, and be discussed
+individually or as a package for each topic.
+Now, the bylaws clearly, we have approved a set of
+recommendations that included this list, as a list of topics to be
+
+Page 37 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+further investigated in the next round. So it’s probably too early
+to start picking, because some chartering organizations would
+pick one, some others would pick the other…
+
+UNKNOWN SPEAKER:
+
+That will be good. [CROSSTALK]
+
+MATHIEU WEILL:
+
+I’m not sure this will be good, because those are topics that are
+absolutely… None of them are specific to a certain SO or AC.
+So, I think now is certainly not the time to pick within the list. I
+have, I think that’s something that the ccNSO representatives
+may advocate within the CCWG, as well we need to prioritize our
+efforts.
+I’m personally convinced that the prioritization will take place
+by itself, through the volunteer commitment. No topic will be
+able to move forward if there is no volunteer. And if it doesn’t
+find consensus, it doesn’t find consensus. To me, the role of the
+SO and ACs is going to be, at some point, to say look, you have
+six months to finalize, after that, we stop. The whole stuff.
+And that will be… I mean, I’ve been saying this for… Even
+during the difficult time of work stream one, I think that was,
+that could have been an option at some point to put off the
+trigger on the group. So it’s more, I think, the responsibility of
+
+Page 38 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+the chartering organization to say, is there still…? When is…?
+Continuing to discuss this a waste of time and money, and it
+could be done elsewhere?
+At some point it will be done maybe in the next ATRT. But
+picking on some topics instead of others, I think is a little bit
+dangerous, especially at this point where, in Marrakech, we
+approved the list. And so it would be, I think, a difficult signal to
+understand, and it would probably waste more time than
+actually help us focus the effort. That’s just my personal view on
+that.
+
+UNKNOWN SPEAKER:
+
+Okay. I understand that. Can I have…? Yeah. And what you
+suggest is probably a very good idea, because it’s not a matter of
+interest, it’s matter of… I think they’re all interesting. In fact, I
+think that’s the problem. They’re all very interesting, but the
+important question is, will we be able to get something useful
+out of that? And useful in relationship to what we’re putting in
+it?
+So time boxing it, saying, well, if you don’t start before this, that,
+and if it hasn’t finished, or produced result of the six months or
+something, it might be a very good option and prevent the case
+where we would just go endlessly with these subjects. And there
+are a few in there that have the potential.
+
+Page 39 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+That said, maybe I’ve missed it because I was a bit late, but I
+would like to know what the expectations of the ccNSO Council,
+and maybe also you Mathieu as the co-chair, are of the present
+members of the CCWG and the participants. Do you want to
+continue the same members? Do you want some renewals? So
+continue with a few staying on, and get some new ones? Do you
+want a completely new set? Do you have any thoughts on that?
+
+MATHIEU WEILL:
+
+As a co-chair, I don’t think it’s my position in any way to interfere
+with that. The only thing I can say is I’m willing to continue
+serving as a co-chair for work stream two, until such time where
+I think it’s a waste of time, but I don’t think it is at this point.
+
+KATRINA:
+
+We of the Council, we have identified issues with the volunteers.
+They’re really tired now. And we see some signs saying that we
+should do something about that. At this point, one of the action
+points from our Council discussion was that we must go back to
+our representatives on the working groups and ask if they have
+strength, willingness, and enough commit to continue the work.
+I hope they do, and I’m glad to hear that Mathieu is committed.
+So because it won’t be, first of all, it won’t be easy to replace
+them. Second, yes, we have other active people who participate
+
+Page 40 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+in discussions, but they are not members.
+
+EN
+Yup, we have
+
+identified the problem, and we are thinking how to deal with it.
+If that answers your question, at least partly.
+[SPEAKER OFF MICROPHONE]
+
+UNKNOWN SPEAKER:
+
+Do you have a timeframe?
+[SPEAKER OFF MICROPHONE]
+
+KATRINA:
+
+We don’t have a particular timeline, but yes, it’s better to do
+something before it’s too late. It’s always the case, yes. Thank
+you. Would you like to…? No.
+
+UNKNOWN SPEAKER:
+
+I think I share the same concerns as [Rolof?] about work stream
+two.
+
+Looking at the different subjects, they are quite
+
+quantitatively different, and I think they have different priorities,
+and different time boxes around them. And I wonder if there is
+actually some sense in creating work streams three, four, five,
+and six, and that we separate these out, and that we eat them a
+little bit, you know, in more manageable chunks.
+Human rights is a very complicated subject. I wouldn’t want to
+see that tackled in the same timeframe as say, staff
+Page 41 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+accountability, or some of the others, which need, I think, a
+clearer sense of where we’re going with those before we get to a
+better understanding of human rights. I think it also takes some
+of the pressure off some of those areas as well. You know, I’m
+concerned about how quickly some of the things are moving on
+the human rights side, and just looking at the infographic that’s
+been produced, there are some with nonsense simply to achieve
+some type of result rather than to sort of feel confident enough
+to leave some gaps and then tackle the gaps later.
+So I think, I wonder if there is any [inaudible] for that at all?
+
+MATHIEU WEILL:
+
+I can’t dive into the human rights discussions, because honestly,
+I haven’t dived into it. So, but it’s a concern that many have
+raised already in the group. I can’t predict the outcome, but it’s
+actually not identified as one of the simpler and lighter topics.
+And as I said, I think we’re giving an equal chance to each topic
+at the start, but we’re very aware they’re not going to move at
+the same pace.
+And in… Not going to impose any specific deadline on them to
+follow the same pace and be on a uniform public comment
+pace, or [raise them?] in the future, because we’re very aware of
+that. So it’s too early to say, but maybe at some point, there will
+
+Page 42 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+be only one or two items remaining, and some of the structure of
+the CCWG will have to be reviewed to accommodate for that.
+We have the ability to update the charter at any point, so there is
+some flexibility around for that.
+
+UNKNOWN SPEAKER:
+
+Okay, but if you take ICANN ombudsman, I don’t think we can
+leave that unresolved for a very long.
+
+I though the rather
+
+unusual decision of not renewing the, you know, the
+ombudsman contract and things, means they have got a
+problem that needs to be resolved quite quickly, I think there.
+And I think that automatically suggests that we have two
+different priority streams within work stream two, and suggest
+that we need a work stream two and a work stream three,
+effectively, or a 2A, or something, to tackle those that are a
+higher priority, it must be done soon.
+
+MATHIEU WEILL:
+
+My assumption is that, and that’s related to… And that’s also
+confirmed by the discussions within our groups, that everyone
+agrees with you that there are different priorities. It’s not as
+easy to get a sense of which those priorities are, because some
+will say that human rights is the top priority because it’s a
+
+Page 43 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+necessity from, it’s laid out by one of the bylaws, and until such
+time where we have a framework, etc.
+
+UNKNOWN SPEAKER:
+
+Sorry, to be clear, I don’t mean priority in terms of importance to
+the planet, very clear about that. I mean, priority in terms of
+when they must be delivered…
+
+MATHIEU WEILL:
+
+That’s… As you know, people tend to confuse both, and so I
+don’t think it’s a realistic attempt to spend three months
+discussing those priorities before actually launching this, and I
+think what we’re doing is a design team approach, so it’s very
+distributed. So we as co-chairs, we’ll be in a position to say,
+well, this has moved forward quickly, we’re ready for public
+comment.
+That’s probably the way we’re going to prioritize.
+
+UNKNOWN SPEAKER:
+
+Okay, so that comes back to the other point [inaudible] was
+making, that if you do all of these at once in that design team
+approach, then we are naturally limited in how many we can
+engage with. There is simply too many things going on, and
+
+Page 44 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+we’re not able to take it through those as we should be able to, I
+think.
+And that undermines our ability to contribute.
+
+MATHIEU WEILL:
+
+You’re right, that’s the, one of the challenges. And that’s why I
+think we need to distinguish the role that we’re expecting from
+members of the CCWG, which is certainly to… Because no
+decision would be made in these design teams. It’s all going to
+be reported to the full CCWG. And from maybe volunteers, who
+can engage in specific topics, and yes, I encourage everyone to
+focus on those topics where probably progress would be made
+faster, but I don’t think it’s realistic to expect that everyone in
+the setup like the CCWG, would agree on which these are.
+And we’ll have to make choices. I mean, just like in the policy,
+the policy world, we assess that maybe it’s not worth engaging
+with RDS because it’s here for five years’ time, and we’ll have
+time later, or… That’s the kind of assessment we need.
+
+UNKNOWN SPEAKER:
+
+It’s not worth engaging in RDS because the process is so badly
+broken down, nowhere near getting any kind of result, but that’s
+a different matter.
+
+Page 45 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EBERHARD LISSE:
+
+EN
+
+Eberhard Lisse. I’m an appointed member to the accountability
+working group. I have really concerns. My opinion was we
+should deal with one topic at a time, get it sorted out because
+it’s not really, none of this is really time critical. I really have
+concern to say, oh, we don’t have the money to do this.
+My position, in the end, has recently come, it doesn’t matter
+what we do because we also, ccNSO will subscribe to the
+platonic idea of not reading the report, and taking it [inaudible]
+as it can get. That said, if you can find somebody to sit in on this,
+please feel free to reassign my seat. I don’t really want to do this
+anymore.
+
+MATHIEU WEILL:
+
+Thank you Eberhard. I think that’s noted, and we shouldn’t
+underestimate the time and effort that’s been done by every
+member and participant in these groups, and I think there has
+been a lot of good faith efforts on all sides to make it work. So,
+in summary, because we are at the end of our session, what can
+you expect until or in Hyderabad, on our side?
+In July, there is going to be some communications about the
+refined budget control mechanisms. Maybe with a committee, a
+legal committee or some other thing in there. I think there is a
+
+Page 46 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 1)
+
+EN
+
+good chance that’s the outcome. The October 1st should be
+seeing, if all goes well, the new bylaws in effect, and that’s the
+empowered community. Certainly, IRP will be a discussion item
+for the meetings in Hyderabad as well as the ccNSO procedures
+for the empowered community.
+And I do hope we can have a first batch from the initial source
+from the work stream two discussions as well, to introduce to
+you and start engaging. So that’s still quite a lot of activity that
+can be expected, and we would need to add to this the member
+discussion initiated by the Council.
+And with that, I thank you for being present so early, and for
+your questions. And I turn it back to you, Katrina.
+
+KATRINA:
+
+Thank you very much. Now we have 15, okay, 12-minute coffee
+break, and we will reconvene at quarter to 11 for legal session,
+with a few very interesting presentations for lawyers and nonlawyers present. Thank you. [APPLAUSE]
+
+[END OF TRANSCRIPTION]
+
+Page 47 of 47
+
+

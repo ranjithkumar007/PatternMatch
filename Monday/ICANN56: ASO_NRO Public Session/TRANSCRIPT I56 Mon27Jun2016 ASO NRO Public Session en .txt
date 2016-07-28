@@ -1,0 +1,1775 @@
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+HELSINKI – ASO-NRO Public Session
+Monday, June 27, 2016 – 13:30 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+FILIZ YILMAZ:
+
+Okay, everyone. Thank you for coming to this session, the
+Address Support Organization Address Council Plenary Session.
+We will start in a couple of minutes, so get comfortable, get
+seated.
+Oscar, you can already take your seat at this stage. You’re a
+presenter. No running away.
+Hi. Do you want to join us as well?
+Okay. I guess we’re gathered now, more or less. My name is Filiz
+Yilmaz. I’m the Vice-Chair of the Address Support Organization
+Address Council.
+Yeah, we have a few people here that will give us updates. Our
+agenda involves both representatives from the Numbers
+Community, as well as we have our NRO Chair, Oscar. And we
+have a guest speaker at the end, Lousewies. She is the NomComselected Board member, and she has been very involved with
+the Numbers Community over the early days. So we wanted to
+hear her perspectives and have a bit of engagement through her
+impressions.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+EN
+
+HELSINKI – ASO-NRO Public Session
+
+Can we advance the slides? Yes. Right.
+My name is Filiz Yilmaz, as I said. I’m the representative of the
+RIPE region. This is the policy meeting of the new ICANN meeting
+structure, right? ICANN is known for domain names and the
+policy developed around it. But we used to say, and our old
+Board members used to say as well, that ICANN as a name has
+two Ns, and that one N at the end is Numbers. The policies
+around numbers are developed through certain policy
+development policies, which you do not see exactly on the
+ICANN fora because they are developed through regional
+mechanisms really, but more processes around the globe. We
+are the link to the ICANN community for these communities,
+really grassroots communities.
+I’ll talk a little about this; what the number policies are, what
+we’re talking about here, and also how they’re developed. Then I
+will leave it to my colleagues to go through their regions and
+give instances and latest developments on what is being
+discussed in the latest times. I think we will spot some common
+points there.
+If we advance – yes. So who are these people? Who is the
+Numbers Community? With the Numbers Community, you will
+be hearing certain acronyms – we are ICANN, anyways – like RIR
+(Regional
+
+Page 2 of 57
+
+Internet
+
+Registry)
+
+communities,
+
+Numbers
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+Communities. We have our own understanding of abbreviations,
+too.
+We are organized around the globe within five regions, each
+region under the service responsibility of an RIR. So you will be
+hearing Regional Internet Registries and RIR communities.
+Communities are people who actually develop policies. These
+people work for organizations – ISPs, IXs, and enterprises. For
+example, my day job is at Akamai Technologies. I’m paid
+through Akamai, but I am a volunteer in the Numbers
+Community, and I take part in the RIPE community region,
+mainly. All my colleagues have similar situations here.
+But then there’s the RIRs (Regional Internet Registries), who
+coordinate assignment, allocation, and registration of resources.
+Which resources are these?
+Hello. Hi. Oh, there is more. Thanks. Great.
+These institutions, these organizations, are legal organizations.
+They have legal bindings, and they coordinate with their own
+communities. They implement the policies that their respective
+communities have developed.
+So if we can advance the slide – yes.
+
+Page 3 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+What are we talking about with this regional policy
+development? Thereabout – again, as I said about numbers –
+allocation of Internet Protocol and Autonomous System
+numbers (AS numbers and IP numbers). As you may have heard,
+we are not going to get into the technical parts of this, but they
+make the Internet work, these resources.
+The policy development of these? The need came already,
+decades ago. It was recognized. RIPE itself has an almost 30-year
+history in this kind of working. The need stems from the region;
+the specific needs of the region, the business requirements, the
+grassroots practices. And there are regional differences. This is
+also why we have five different regions. The way ISPs work, in a
+way, and how their needs are addressed may not be exactly the
+same as how ISPs operate in Europe. So there was a need for
+that regional touch.
+It’s also important to keep those logistics within your grassroots
+communities. Your [own] support. You’re in the region. You’re
+[of] the people.
+When I was developing these slides, I actually found this from an
+old presentation of mine: the lifecycle of policy development.
+Basically, there is a need. These resources are registered and
+assigned according to policies that the community develops. But
+
+Page 4 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+these policies also follow the technological developments and
+business requirements.
+So it’s a cycle. You have some kind of policy. You have a rule.
+Let’s call it a rule in simplest terms. There’s a purpose. Then,
+something happens. The requirements change, and then the
+community feels the need: “Okay. This doesn’t apply. This
+doesn’t address the current needs. So we need to change that.”
+There is discussion and consensus, and the implementation lies
+on the RIR.
+Often, the RIR is the Secretariat for these communities. They
+don’t develop the policies. They implement the policies
+developed by their communities.
+And then it’s a cycle. You come back again. Times change, and
+then you review the policies to see if they still satisfy the needs
+of the actual times.
+If you can again…
+We will see that, yeah, during the regional updates, the topics
+change according to the regions’ needs in five different
+communities. But also, the policy development processes and
+the mechanisms in detail also are different according to the
+needs of that region and how they communicate and how they
+gather together and what kind of tools they use.
+
+Page 5 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+There’s that regional zest in there, but the principles are shared.
+Those principles since the beginning have been communicated
+all the time. It’s open. So what you need is actually to be part of
+these communities. There’s no membership registration, per se.
+Nobody will allow or disallow you to take part in that. All you
+need is your interest. If you’re interested in the policies around
+these resources, which are in fact [commonwealth], right? They
+are part of inheritance of this world; it belongs to not only one
+person, but they are for all of us – you can take part.
+Often what you need is just an e-mail address. So you don’t even
+have to be in a meeting, a specific meeting, a face-to-face
+meeting. In RIPE’s case, for example, we don’t even make
+decisions in face-to-face meetings. Face-to-face meetings are
+just another facility that is out there for people to communicate
+and collect feedback. Final decisions are always going through
+the comments that are collected in the e-mail mailing lists.
+Transparency is an important principle, again. Here comes the
+documentation. Since the beginning, the policies and the
+development [inaudible] the mechanisms, plus what the policies
+actually entail. They’re all documented out there. You can even
+see the history of development, what happened from one time
+to another and what’s changed.
+
+Page 6 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+And, again, the bottom-up process – and this is exactly what
+we’re talking about, why it is regional: because you really get
+into the grassroots there – ISPs, IXPs, business people who are
+actually affected through these policies. They are there making
+these policies and taking part in there.
+The decision-making is based on rough consensus. This is an
+interesting topic since the beginning of time: what is consensus?
+It’s often confused with voting. It is not voting. The best way I
+could have explained this in the past, and still can explain what
+consensus is, especially a rough one, is that whatever the
+discussion point put there is coming from a need. First of all, you
+recognize that. Somebody made a proposal because they need a
+change. The current policy has a hole, or it doesn’t work for
+them.
+Once that proposal is put, the rest of the audience, the rest of
+the community, is asked: can you live with this change? If people
+can live with this change, then it is consensus. They might not
+like it, but for the greater good, if they feel it is okay or others to
+benefit from it, that is what we call rough consensus.
+Yes, please, Carlos. Next slide.
+Then we’ll shift from regional to global, when things become
+global. All right. Global policies are about mainly the distribution
+
+Page 7 of 57
+
+EN
+
+HELSINKI – ASO-NRO Public Session
+
+of these critical resources – IP addresses and AS numbers – in
+blocks from IANA to the RIRs.
+That is global because all the RIRs are subject to the same kind
+of policy. That is important. And they need to be the same and
+identical.
+The way they are developed is still regional. Every community
+discusses it in their own region. If they can come with a relatively
+similar policy – the A to Z, the input to output relation is the
+same – then it goes towards the facilitators, and that is the NRO
+and then the ASO AC, where we advise the ICANN Board.
+Eventually it gets implemented by ICANN as the body holding
+the IANA function. Of course, there are being changes around
+there, too, but the principle will stay the same.
+Next slide, please.
+Who we are, finally. We are 15 people right at the moment sitting
+at the Council. We do not make policy. We are the bridge from
+our
+
+regional
+
+communities
+
+towards
+
+ICANN,
+
+mainly
+
+for
+
+engagement.
+We also select two individuals towards the ICANN Board, Seats
+#9 and #10. We advise the ICANN Board where necessary,
+regarding resource allocation policy in conjunction with the RIRs
+and the NRO. And we coordinate the global policy side, as you
+
+Page 8 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+have seen. Regionally developed policies, before they can
+become global, need to be going through some checkpoints,
+and we are involved in that checkpoint.
+We are 15 people, three coming from the five different regions.
+You can see our faces and names in that link.
+Next slide, please.
+So this is the intro. If you have any questions right now about
+how we are developing policy in our regions, like I said, it’s a
+regional matter. All you need is an e-mail address. Come and
+talk to us. We are here for the entire week, as well, until
+Thursday. But the main thing is being involved through there,
+where the policy is developed, and that’s the region.
+So if you are having business in Europe, go talk to RIPE
+representatives. If you have a business in the States, Northern
+America, go talk to ARIN colleagues. If you have a business in the
+rest of the world, like Africa, AFRINIC people are here. Fiona is
+here. Mark – Fiona just walked in. APNIC and LACNIC as well.
+I will just pause here if there are any questions or comments. We
+want this to be interactive, but maybe after all it’s very clear
+what is being said.
+No? Okay. Next one up is Mark.
+
+Page 9 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+MARK ELKINS:
+
+EN
+
+Thank you for this. Membership statistics – sorry. My name is
+Mark Elkins. I’m from the AFRINIC region. I’m an ex-Board
+member of AFRINIC. I’m now on the ASO as the AFRINIC Board
+representative. I live in South Africa.
+We recently had a meeting just a few weeks ago in Botswana,
+but back to the statistics: 48 new members so far, and growth is
+continuing to increase.
+Next slide.
+I’m going to go through the first few slides quite quickly. 6.4
+million IP addresses allocated so far this year, and we’re getting
+close to the end.
+Next slide, please.
+We still have a good number of resource members, which is
+increasing, obviously, year by year. Incidentally, we also have
+350-odd legacy space holders still left in the AFRINIC region.
+Next, please.
+AFRNIC is now the only RIR who can still allocate address space
+according to additional policies. We have basically .7 remaining
+before we get down to the last /8. We expect the soft landing
+
+Page 10 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+policy to come into effect probably late towards the end of this
+year.
+We are focusing on things like IPv6 deployment, though. We
+provide free training. There’s an IPv6 test best, etc., etc.
+Next.
+We have a number of policies which were discussed. Policy
+Update number 1. I’m actually the sole author of this policy,
+which was to allow for the transfer of resources in and out of the
+region. Again, it’s been sent back to the general mailing list for
+further updates and comments.
+Next.
+We have two soft landing proposals, which are in conflict with
+each other, which makes for interesting times.
+If we can go to the next slide.
+These are the essentials of this particular policy. It is under
+discussion still. It was basically opposed by members of the
+other policy.
+If we go to the next slide, we have the other policy. Although
+they have very, very similar endgames, there is a soft landing
+policy already in place, and both of these are trying to modify
+certain aspects of the original soft landing policy that we have in
+
+Page 11 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+place. So at the moment, that is the one that is in place for soft
+landing at the moment. Whether any of these two will get
+through, I’m still not sure. I’m also a co-author of this particular
+policy.
+Next slide, please.
+There is another policy for the auditing of Internet number
+resources so that, if people have resources which may or may
+not be being used properly, as we are the last Regional Internet
+Registry to actually have space, it does allow for perhaps
+potentially nefarious activities in acquiring space from us, which
+is the general reason for this policy, I believe.
+Next.
+One of the previous policy people put forth this policy, which is
+to allow the resource transfer of blocks of IPv for addresses
+within the AFRINIC region. It was well-received at the meeting,
+but it was also proposed a bit late in the day, so this is under
+discussion. I have a strong feeling that this will be passed by the
+community, probably in November. But it was well-received.
+Next.
+I think this is the last policy, and this is inbound transfer policy,
+where we’re hoping that we can take from the rest of the world
+without having to give back. I understand that a similar policy
+
+Page 12 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+was done in LACNIC and was pulled back eventually. Anyway,
+there is inbound policy transfer to do this. I believe that this
+would fit with RIPE but probably not ARIN, which is probably our
+target at the moment. As dubious as to whether this will
+actually, even if it passes, be useful to the AFRINIC region.
+Next.
+Training stats. So far we have one a number of trainings.
+Obviously while we were in Botswana, there was training there.
+Next.
+And they’ll be some training in Johannesburg relatively soon. We
+have our IPv6 certification program. I understand this is
+relatively unique amongst the RIRs. There is a test bank of a
+large number of questions, and at the end of the day, you
+actually get a certificate for completing it. So these would be
+tests, questions, that you would actually go through while being
+moderated. You would be in sort of a classroom environment to
+make sure that no cheating, etc., happened. We’re hoping that
+that will be very successful.
+Next.
+Basically, lastly, our next AFRINIC meeting is in November. It’s in
+this horrible location, a horrible little island in the Indian Ocean.
+You don’t want to go there. It’s a beautiful place: Mauritius.
+
+Page 13 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+I think that’s me. Next. Thank you very much.
+
+FILIZ YILMAZ:
+
+Thank you, Mark. One remark over there. I think we are starting
+with AFRINIC just because of the alphabetical order among the
+RIRs, so you were the first one to go.
+I just want to make a remark. You mentioned a lot of transfers as
+a keyword in the current policy proposals. I think that will be a
+key in the other presentations, too. Can you just explain in two
+minutes, one minute if you want, what soft landing policy was
+for originally and what is being changed now?
+
+MARK ELKINS:
+
+The end of IPv4 address space globally has been looked upon a
+bit like the sinking of the Titanic. No matter what happens, it’s
+going to go down. So everyone has been rushing around, moving
+the deck chairs, rearranging what can happen to give us more
+time with IPv4.
+One of the things that four out of the five RIRs has done is
+institute something called a soft landing proposal, where a
+portion, if not the whole, of the last block of IP address space
+they got from IANA is treated differently from all other previously
+allocated address space in such a way that perhaps address
+
+Page 14 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+space is kept available for late entrances into the market, etc.,
+etc. That would be the regions’ soft landing proposal.
+Does that answer?
+
+FILIZ YILMAZ:
+
+Yes. I know we are here in a very closed environment, together
+with a lot of Numbers folks, but there are few new faces I’m
+seeing. So for their benefit, I wanted to get out a bit of our own
+terminology and have an understanding of what the general
+goal here is.
+Thank you. Thank you. Let’s move on. I think next is on APNIC.
+Tomohiro?
+
+TOMOHIRO FUJISAKI:
+
+Thank you, Filiz. I’m Tomorhiro Fujisaki from the APNIC region.
+Here I’ll introduce – oh, sorry – recent APNIC policy activities. As
+many of you know, APNIC also has two meetings in a year, and
+these policies are discussed in the [inaudible], many on the first
+day.
+Here I introduce three policies recently discussed. Proposal
+[105]. This policy proposal is to register more detailed others
+[inaudible] database, but, yeah, this policy did not reach
+consensus, and was withdrawn by others.
+
+Page 15 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+The next two policies are introduced in detail in the next slide.
+Next, please. Yes.
+Proposal 114 and 113 – this was proposed at the same time. And
+Proposal 114’s purpose is to modify the AS number criteria. This
+policy modifies the eligibility [or] criteria for AS system numbers.
+This policy proposed to remove the multi-home requirement.
+Proposal 113 is to [hold] the IPv4 address. This proposal extends
+the criteria for the [inaudible] IPv6 address assignment. Current
+is this policy removes some criteria. Current criteria is multihomed or interconnected with other ISPs and the [inaudible]
+alphabetize the received addresses in six months. Both policies
+reached consensus and have been implemented already.
+Next, please.
+In the APNIC meeting, we discussed not only WHOIS policy
+proposal, but the potential policy change. These three potential
+policies were discussed in the recent APNIC meeting.
+One is improving the APNIC WHOIS data quality. Actually, as
+many of you know, the address community had this
+[assignment] WHOIS database, and unfortunately, currently this
+database is not so perfectly accurate. So we are discussing how
+to make an accurate WHOIS database.
+
+Page 16 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+Next is IP [inaudible]. As many of you know, there are some
+commercial services that address your location. At the last
+APNIC meeting, we discussed what APNIC [inaudible] WHOIS
+database can do for this service. Also, [inaudible], we discussed
+IP addresses [inaudible]. Actually, current IP address policy was
+targeted to the ISPs, so maybe IoT and [inaudible] service will
+need the policy. So we discussed this issue.
+Next, please. Next slide.
+This slide shows the recent discussion in the APNIC region.
+Unfortunately, country policy discussion in APNIC is not so
+active, so we are trying to increase the interest in the policy
+activities.
+Here I introduce two activities. One is policy [inaudible]
+program. Here, policy [inaudible] to engage the local community
+to this address, develop address policy development. Another is
+policy deployment process. And the session we recently held in
+the APNIC meeting, [that this year] to introduce the policy
+deployment process and the policy proposals in the local
+[inaudible]. As many of you know, APNIC had many, many
+communities, and they have local [inaudible], so it’s very
+important.
+Next, please.
+
+Page 17 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+This is the status of [inaudible] and the recordings of the
+meeting can be heard from this URL. If you have interest, please
+visit this URL. Thank you.
+
+FILIZ YILMAZ:
+
+Thank you, Tomohiro. I will follow up with LACNIC now. Ricardo,
+I believe? Yes, you are next in line.
+
+UNIDENTIFIED MALE:
+
+[inaudible] ARIN.
+
+FILIZ YILMAZ:
+
+Oh, ARIN. I’m very sorry. I’m very sorry. I didn’t mean to. My A-BC is not being good. Right. Go ahead, Jason.
+
+JASON SCHILLER:
+
+Recent policy developments in the ARIN region.
+Next slide. If you go back one slide, please.
+I didn’t want to bore you with particular policy numbers and the
+individual details of the different policies. Instead, I want to talk
+about the two main topics that are under discussion that all
+these policies are about. The first is justified need versus an
+open market, and the second is policy simplification.
+Next.
+
+Page 18 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+The supporters of justified need basically believe that the RIRs
+have a role in providing stewardship and that the number
+resources are a shared resource for the community and that
+they need to be conserved and used efficiently. And they should
+be equally available to those who need them.
+Number resources have been given out fairly based on justified
+needs since the RIRs have started, and now that the ARIN free
+pool is depleted, resources are scarce, and stewardship is more
+critical than it’s ever been.
+There’s concerns that an open market would concentrate IP
+address in companies with the deepest pockets, with services
+that make the most revenue per IP address, and not a single
+competitor is a market segment could have more IPv4
+addresses, and therefore outlive all of its competitors in that
+market. This would reduce competition and provide an unfair
+competitive advantage.
+Next slide.
+The other side of the coin is that the people that support an
+open market basically feel like an open market is the most
+efficient way to distribute IP addresses. Only people that need IP
+addresses would by them. Supply and demand would set the
+price properly. The Internet resources would continue to be
+available to those who are willing to pay for them.
+
+Page 19 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+There’s also some concerns about cornering the market. The
+supporters of the open market feel like you really couldn’t
+corner the market or get enough address base to manipulate the
+pricing to your advantage.
+And there’s a belief that the justified need really made sense
+when ARIN was giving out the addresses from the ARIN free pool,
+and they weren’t charging specifically for the resources. But now
+that the free pool is empty, we can simply use an open market to
+allow the IPs to get distributed.
+They also note the fact that people are transferring IP addresses
+out of ARIN policy. Some organizations are buying a future in
+addresses, where they will pay someone who’s holding
+addresses to continue to hold them for them, and then, when
+they have justified need under the ARIN policy, transfer in
+addresses.
+There’s also some leasing arrangements, where some people
+will continue to hold the IPs but charge monthly fees for another
+organization to use them.
+There are also just transfers that are done outside of the ARIN
+policy. These are not reflected in the WHOIS database.
+The biggest argument for an open market is that the value that
+ARIN provides is uniqueness and registration of the resources,
+
+Page 20 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+and, because people are making transfers outside of ARIN
+policy, they’re not being reflected in the WHOIS. This is a
+problem because now the database in not accurate in terms of
+who is actually using the addresses.
+Next slide.
+Policy simplification. This basically comes in a coupe variations.
+The first is a separation of transfer policy from the normal ARIN
+allocation and assignment policies. Today, the transfer policy
+references a lot of the requirements that are in the ARIN
+allocation and assignment policy.
+One of the approaches is to try to separate those two apart.
+What that will enable us to do is more easily simplify the transfer
+policy without affecting or interfering with the ARIN allocation
+and assignment policy.
+The idea also is that all of that text will be in one place, so
+there’s no referential – there’s no going back and forth to try to
+figure out what other requirements to transfer and address.
+There’s also an effort to try to make the process more
+predictable, and, finally, an effort to loosen justified need or
+remove it all together.
+The third piece of it is, is IPv4 effectively done at this point? The
+ARIN free pool is empty. They’re virtually not making any more
+
+Page 21 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+allocations and assignments. There’s a very long waiting list that
+potentially will take any addresses that become available.
+So can we just remove the IPv4 policies altogether, or can we
+simplify them and take out some of the text regarding particular
+corner cases?
+I have some slides next about the actual policies that are
+available. You can follow that URL to actually read the proposed
+policies, and there’s also an ARIN 37 policy report which details
+the outcomes of our previous ARIN meeting.
+I’ve got a few more slides that actually detail the policies, but I’m
+not going to go into them at this time.
+Next. Yeah, these slides are just here for your reference to look at
+some of the recent policy developments.
+Next.
+
+FILIZ YILMAZ:
+
+Thank you, Jason. I guess that was your cue from – sorry. Thanks
+for the little ring work. Right. Now, this time you really you,
+Ricardo, for the LACNIC update. I wonder if you’re going to use
+the word “transfers,” too. [inaudible].
+
+Page 22 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+RICARDO PATARA:
+
+EN
+
+Yeah. Thank you, Filiz. My name is Ricardo Patara. I am the ASO
+AC representative from the LACNIC region.
+First slide.
+There’s some information Filiz already mentioned, also every
+RIR. We have policy being discussed in the mailing list. LACNIC,
+same thing. [inaudible] mentioned that the next LACNIC meeting
+will be in San Jose, Costa Rica, on September 26th-30th. It’s the
+second LACNIC meeting this year. The first one was in May.
+Next slide.
+Some of the recent discussions. We had discussions about IPv6,
+and also, as Filiz mentioned, the PIv4 transfer and some
+proposals regarding the termination phase. LACNIC had its IPv4
+pool depleted completely in July 2014. After this date, LACNIC
+has two pools. The first one allows allocation up to /22 in six
+months. When this pool is finished, the next one will be in place
+that would allow only one /22 to new organizations. This is the
+termination phase we have in the LACNIC region.
+Next slide.
+These are two recent proposals that were approved during this
+LACNIC meeting in May. The [inaudible] completed the last call
+period and is now at the Board for [inaudible]. The first one is to
+remove a limitation. When end users’ organizations request
+
+Page 23 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+IPv6, now it’s limited to a /32. Once this policy proposal is in
+place, they will be able to request larger blocks if they can just
+[file] for them.
+The other one is also to remove some part of the requirements
+for IPv6 allocation for our ISPs. There were some documents
+that the authors and also the community saw that were not very
+important in order to identify the need for IPv6, so these
+documentation requirements were removed, according to this
+proposal. And it’s implemented.
+Next slide.
+I also mentioned here some policy discussions that were
+presented but not approved during this last LACNIC meeting.
+They are in the discussion process, again, in the mailing list.
+The first one is to allow a new type of organization. When an ISP
+is trying to request IPv6, this new type of organization would be
+governmental ISPs because, as per the author’s view, currently
+this type of organization could not request larger blocks based
+on the text. So the author would like to have a new type of ISP
+identification in the IPv6 policy.
+The next one is to remove criteria for IPv4 allocation. When ISPs
+are multi-homed, they have more than one upstream provider.
+The requirements are easy compared to the case when they
+
+Page 24 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+have only one upstream provider. According to the author, there
+are regions with small ISPs only have on option of upstream
+providers, so the things have gotten complicated for them to
+request IPv4 allocation.
+Next slide.
+There was also discussion to create a new IPv4 pool for the
+termination phase, especially reserved for critical infrastructure
+operators. Currently, this type of an organization can request
+IPv4 from the termination phase, but there are other things that
+would be valid. You have a special pool only for this type of
+operators. So this is something that’s in discussion also in the
+region.
+Next slide.
+This last slide is just information on other topics that were
+already discussed in LACNIC. Some of them are already in place.
+One of them was to increase the size of one of the pools that I
+mentioned before, the pool that allows allocations up to /22 in
+six months. Initially it was /11. As LACNIC was receiving IPv4
+address from IANA from the recovered pool – part of this address
+pool was only reserved for new organization, so the authors
+thought that maybe it would be valid to move part of this
+address space to this special pool. So this is implemented now.
+
+Page 25 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+There was the IPv4 intra-RIR transfer, so allowing transfers
+inside the LACNIC region. This policy was already in the text, but
+it was inactive. So this proposal was to activate these policies
+already place since last March.
+Also, related to transfer, there was a proposal to only allow IPv4
+transfer of blocks that are allocated for more than three years to
+allow speculations of new allocations.
+Next slide. I think this is it. Thank you.
+
+FILIZ YILMAZ:
+
+Thanks, Ricardo. Finally, I’m turning to Nurani for the RIPE
+update before we turn for the implementation phase to Oscar.
+Thank you.
+
+NURANI NIMPUNO:
+
+Thank you. My name is Nurani Nimpuno. I work for Netnod, but
+I’m here representing the RIPE region in the ASO AC. I’m here to
+give you a little update on the policy developments in the RIPE
+region.
+As Filiz has already explained, this is an ICANN policy meeting,
+but this is not where the IP address policy takes place. They take
+place in the regional communities. I thought I’ll just put this slide
+up here because it’s a little bit confusing for those who are not
+
+Page 26 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+familiar with the RIPE and the RIPE NCC and what the difference
+is between RIPE and RIPE NCC.
+The RIPE NCC is actually the Regional Internet Registry, simply
+the Secretariat for the RIPE community. But it is in fact the RIPE
+community who develops policies that apply to Internet
+resources – IPv4, IPv6, and AS numbers.
+Next slide, please.
+Just like others have explained, these policies guide the usage of
+IP addresses, and they’re done in working groups. As Filiz also
+explained, although we have these face-to-face meetings twice a
+year, all the discussions are always taken to the mailing lists so
+that anyone can participate in the discussions, whether or not
+you can come to the meetings. There’s actually even now a new
+way of interacting with these discussions that I’ll get to.
+It’s important to understand that, although the RIPE NCC is a
+membership-based organization, you don’t have to be a
+member to participate in these policy discussions.
+Thank you.
+I really like the categorization that Jason did for the ARIN region.
+I could say for the RIPE region that there’s a similar division of
+discussion points, so to speak. One is transfers. For this, it’s
+important as well, for those of you not familiar with the
+
+Page 27 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+numbers, the management of IP addresses, to understand that
+IP addresses in the past were not sold and bought the way
+domain names were. So it was considered a common resource
+that we should all share and manage.
+Clearly, now that we’re more or less out of IPv4 addresses, the
+transfer policies are there to make sure that we strike the right
+balance in managing these last resources. A big focus there is
+also making sure that the registrations in the public databases is
+correct.
+I would say that the next hot topic in the RIPE region is how we
+manage these last resources. Just like ARIN and APNIC and
+LACNIC, the RIPE NCC are now down to their last /8, so that’s a
+last 16 million-chunk of addresses. Before this happened, the
+RIPE community said, “We need to then change the policies to
+make sure that the last chunk of addresses are distributed in a
+fair way and lasts as long as possible, so to speak.”
+Interestingly, at the last RIPE meeting, which took place in May,
+there were two contradictory proposals. Currently, if you are an
+LIR, which is a member of an RIR, you can get one /22. That’s
+1,024 addresses. And that’s it. You’ll get no more, no less, and
+that is what you need to use to survive, so to speak.
+This first proposal, 2015-05, actually proposed that a member of
+the RIPE NCC could get a new /22 – that’s another 1,000
+
+Page 28 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+addresses – every 18 months. In fact, there was another
+counterproposal, in some ways, called Locking Down the Final
+/8 Policy, which argued the opposite, that you should only have
+one /22 allocation, regardless of how that has been received.
+These two proposals were discussed, and then it was decided to
+have a general discussion about how we best manage this last /8
+that the RIPE NCC holds. There were no decisions to change the
+current policy, but I think this still means that we will have many
+of these discussions in the coming meetings as well. Have we
+struck the right balance? We need to make sure these addresses
+last as long as possible and give new entrants the possibility to
+run their businesses.
+But at the same time, these are the very last IPv4 addresses we
+have, so matter what policies we make, we will eventually run
+out.
+I’d say the last category of discussion topics was really about
+database registration accuracy. For example, there was one to
+include a [inaudible] policy on the legacy addresses – the old
+addresses that were allocated a long time ago – and also
+introduce a way of authenticating objects have been registered
+in other Internet routing registries. These are databases that
+register routing information that people then use to send traffic
+across the Internet. So those were those.
+
+Page 29 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+It might just be interesting to know that, across the region, this is
+an indication of who participates in this policy development.
+Finally, I just wanted to mention that, since the very, very early
+days, all these discussions in the RIPE community took place
+over mailing lists. They still do, and for some reason, some of us
+are still very fond of this way of discussing.
+But it’s also very encouraging to see that the RIPE NCC is trying
+to find new ways to allow new people to interact with the
+community. So this RIPE forum is a web-based interface that
+interacts with the mailing lists, but it’s a little bit more modern
+for you young folk out there. You know who you are.
+Next slide, please.
+And it looks a little bit like this. So it gives the option as to how
+you want to participate. You get pretty pictures and little bit
+more color than a text-based e-mail. I know some of you are very
+uncomfortable with that.
+Okay. Well, that was it from the RIPE region. Thank you very
+much.
+
+FILIZ YILMAZ:
+
+Thank you, Nurani. Yes, there are some [inaudible] service
+[inaudible] communicate with forum introductions and mailing
+lists being combined with forums and meetings. And there is
+
+Page 30 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+now the implementation side. So the community develops
+policies. We discuss topics. We tell sometimes contradicting stuff
+to our RIRs on how things should be done or what we think.
+Then they end up with having to implement these in a workable
+way.
+At this point, I will leave it to Oscar to tell us how they manage to
+do that.
+
+OSCAR ROBLES:
+
+Thanks, Filiz. This is the NRO update. How can I control the
+slides?
+
+UNIDENTIFIED FEMALE:
+
+[inaudible].
+
+OSCAR ROBLES:
+
+Okay. Next one, please. I didn’t pay attention to that. Next,
+please. Thank you. This is what I’ve been talking about in the few
+minutes. Next.
+The NRO is a lightweight, unincorporated organization. It aims
+to coordinate the work among the RIRs. It is run by the Executive
+Council, which is composed of the five CEOs of the RIRs. Most of
+the activities are carried out by the coordination groups.
+
+Page 31 of 57
+
+EN
+
+HELSINKI – ASO-NRO Public Session
+
+Next, please. These are the areas where we are trying to focus
+for the past months. So far, we have defined coordination
+groups for the engineering, which is the ECG, and the
+Communication Coordination Group, also, and the Registration
+Services Coordination Group. We had in the past the Public
+Affairs Coordination Group.
+Next, please.
+Currently, the Executive Committee is composed, as I
+mentioned, by the five CEOs of the RIRs. I am the current Chair of
+the NRO EC. It is on a rotational basis. Since 2013, we have a
+permanent Secretariat, and it is run by German Valdez. Also, the
+activities for the Secretariat are supported by one of the
+registries. This year, it’s ARIN – and the coordination groups that
+I was mentioning before.
+Next, please.
+The NRO finances are very simple. For the NRO, most of our
+expenses are depending on the contribution to ICANN which is
+permanent at $823,000 U.S. annually. That includes already the
+new SLA. That won’t change with the new SLA. Of course, the IGF
+contribution,
+
+the
+
+communications
+
+among
+
+the
+
+different
+
+coordination groups, and the NRO EC, and the staff costs for the
+Executive Secretary.
+
+Page 32 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+The budget is shared proportionally based on the revenue by
+every one of the RIRs. Recently, last year in 2015, we established
+a joint RIR Stability Fund, which consists of some pledges made
+by the five RIRs. It aims to contain any financial increases in one
+of the RIRs, in case there’s some changes that may prevent that
+registry to have access to financial resources. We define the rules
+under which that registry may have access to those resources.
+You may see the policies for the use of this fund in this link.
+Next, please.
+One of the main jobs of the NRO is to coordinate reports from
+different topics, like the coordinated statistics for the five RIRs
+and the comparative policy overview.
+Next, please.
+The governance matrix, the different practices to elect Board
+members, the Bylaws for every RIR, the regional and PDP policy
+development process, etc.
+We have also included RIR accountability questions and answers
+in this link. We also conducted, for the last 12 months so far, a
+joint RIR independent accountability assessment. That helps us
+to identify areas where we want to reduce some risks to the
+accountability and transparency processes. Very soon we will
+have a public report for this accountability assessment.
+
+Page 33 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+Next, please.
+Since you know, the five RIRs worked together to develop a joint
+proposal. At first there were discussions among the five different
+regions, and then the [inaudible] created these integrated
+principles that led us to work in the SLA.
+Finally, the SLA was discussed during all these months and
+accepted by the NRO and ICANN. This is going to be signed in the
+next hours on Wednesday with ICANN. But that will be in place
+until the IANA and the Department of Commerce finish its former
+relationship.
+Next, please.
+The NRO participates in different forums to deliver some of the
+messages as RIRs or to conduct our work. Last year, we
+participated at the IGF in Brazil. We also supported the IGF with
+100 [KUS]. We keep NRO [booth], and we developed some
+workshops and support other IPv6 best practices forums.
+Last week we had the [short] presentation at the OECD
+Ministerial on the Digital Economy, and also with the Ipv6 topics.
+At this moment, we’re working on preparations for the NRO
+participation at the 11th IGF, which will be in Guadalajara,
+Mexico.
+Next, please. That’s it. Thank you.
+
+Page 34 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+FILIZ YILMAZ:
+
+EN
+
+Thank you, Oscar. I have a question before I open the floor. For
+our final speaker, I’ll move to Lousewies. We keep hearing this
+transfer policies, and we have some CEOs also there, sitting.
+Paul Wilson, I’m addressing you now. So don’t make me repeat
+the question.
+As RIRs, I’m thinking maybe not as NRO. Is it on the NRO level or
+RIR level? But there should be some kind of preparation now as
+transfer policies are being developed in various regions. Do you
+have some insights to share with us as an example, if you would
+like to? Am I putting you on the spot now?
+
+PAUL WILSON:
+
+Yes.
+
+FILIZ YILMAZ:
+
+Come to the mic.
+
+PAUL WILSON:
+
+Yeah, this is not a Dorothy Dix, is it? I actually missed how you
+introduced the question, so I’m not sure what you’re asking. Is it
+about coordination of transfer policies amongst the RIRs, or?
+
+Page 35 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+FILIZ YILMAZ:
+
+EN
+
+Right. Yes. Not coordination, but in every region so far, we have
+seen in the reports that RIR communities are discussing
+transfers within their regions and between the regions. So I’m
+guessing, as the RIR staff, you are monitoring these
+developments because if they get accepted, it will induce some
+implementation responsibilities on the RIRs. So I’m just asking if
+there is preparation other than just one [during] now.
+
+PAUL WILSON:
+
+Well, luckily we’ve had a quite long and slow start on any kind of
+major quantity of transfers, particularly RIR transfers, because
+over the years, we’ve had one RIR, and then the next and the
+next, run out of IPv4 and then institute transfers. Then we’ve had
+the process of inter-regional transfers only occurring firstly
+between our own and APNIC, and now with RIPE NCC as well.
+So, yeah, there’s been a long process of planning, of design, or
+working out what would be the stages of improved
+implementation of transfers and automated implementation of
+transfers and reducing any time downtime involved with
+Reverse DNS resolution, for instance, or WHOIS lookups, and
+importantly, RPKI as well. So at the moment we can’t say we’ve
+got a single button transfer that makes all of that happen in one
+go, and that’s actually quite a long way away. Whether or not we
+ever need it will depend on how the right of transfers might
+
+Page 36 of 57
+
+EN
+
+HELSINKI – ASO-NRO Public Session
+
+increase in the future. It’s pretty low now, and [I don’t really
+know] what the expectations of the community are.
+I hope that helps.
+
+FILIZ YILMAZ:
+
+It does. I think this is a good example of the manifestation of
+how the market changes and then the policy developments in
+the regions recognize those changes and respond accordingly.
+So I just wanted to use it as a showcase, that while very
+technical
+
+resource-related
+
+policies
+
+may
+
+be
+
+diminishing
+
+nowadays because there’s not much happening at the
+technology level, but on the business side there are changes,
+and that is still going on and having an influence on the policy
+development.
+
+PAUL WILSON:
+
+If I could just add, in case we actually did end up in situation
+where there was a high volume of transfers being conducted
+between any pair of RIRs amongst the five, it would be quite a
+challenge. That is something that we are preparing for in some
+sense, an according to I think what we think the likelihood
+would be.
+Amongst the RIRs, there are several coordination groups of staff
+who
+
+Page 37 of 57
+
+communicate
+
+regularly.
+
+In
+
+particular,
+
+there’s
+
+an
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+Engineering Coordination Group that really looks after the
+engineering, particularly of RPKI. That’s one of their inter-RIR
+challenges at the moment. And there’s a Registration Services
+Coordination Group. Both of those groups have been meeting
+and discussing over the years, actually, as I say, as this situation
+is developing and we’re seeing more and more. So it is an active
+coordination amongst the five of us now. Thanks.
+
+FILIZ YILMAZ:
+
+Any questions? Yes, there’s a remote participant. Carlos is also
+monitoring the remote participants. Thank you.
+
+[CARLOS REYES]:
+
+Thanks, Filiz. There’s a question from [Lou Hang] in the Adobe
+Connect chat. “Where is the joint RIR Stability Fund being kept?
+In each RIR’s account with a mark of stability fund, or in a joint
+bank account somewhere?”
+
+OSCAR ROBLES:
+
+It is kept in every RIR’s finances. It is just a pledge. In case there’s
+a need to use it, that would be directed to the RIR requiring
+those funds. But it’s in every RIR.
+
+Page 38 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+FILIZ YILMAZ:
+
+EN
+
+Any further questions at this point? Oh, Nick you would like to –
+you sat too far away from the mic, so now…
+
+NICK:
+
+Sorry. Just a couple of things. One, first of all, thank you for
+pushing the RIPE forum. We work very closely with the working
+group Chairs in developing that for the community.
+The second thing I was wanting to ask APNIC. You have your
+policy champions. I was curious to know about the community
+involvement and how you find and vet these champions and
+how successful the program is. Thank you.
+
+TOMOHIRO FUJISAKI:
+
+Thank you for asking, but, actually, the APNIC Champion
+Program just started. Yes, we are now considering how to
+implement or how to proceed with that program. Actually, at the
+last APNIC meeting, some implementation report – sorry. Just
+that it’s a not so concrete example that we have just now.
+
+FILIZ YILMAZ:
+
+Same topic, right? Yes, please.
+
+OSCAR ROBLES:
+
+Last year, LACNIC implemented something similar to the APNIC
+Champions. We call it the Policy Shepherds, which aims to help
+
+Page 39 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+and support other ideas to produce a policy but are not that
+knowledgeable in the process. These persons are appointed
+from the previous moderators or Chairs of the policy
+development processes. We have four or six of them in the
+community, and they are volunteers to help others to produce
+the policies.
+It’s working so far. It’s working very well so far.
+
+FILIZ YILMAZ:
+
+That’s great. Thank you for creating a queue by the mic.
+
+UNIDENTIFIED MALE:
+
+[inaudible]. I have a simple question for Mark. As you say,
+AFRINIC is the only region IPv4 left. As we know AFRINIC actually
+have the smallest IPv4 block. So do you have any plan to prevent
+the people from going to AFRNIC to grab your IPv4 and put it
+into a sale market?
+
+MARK ELLISON:
+
+As far as I am aware, apart from the existing policies on a needs
+basis, etc., there are no additional policies or anything else to
+stop space from being grabbed. So any legitimate request
+should go through just fine. There’s nothing else special at the
+moment.
+
+Page 40 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+UNIDENTIFIED MALE:
+
+EN
+
+Yeah. My question is because AFRNIC generally comes in later, so
+if the Ipv4 is taken off and used in another place to sell it, then
+it’s not very good for AFRNIC/Africa to develop IP addresses to
+use. So that’s my question.
+
+MARK ELLISON:
+
+I’m sorry. I’m not catching everything you’re asking.
+
+UNIDENTIFIED MALE:
+
+Okay. Got it. Do you want me to explain?
+
+FILIZ YILMAZ:
+
+I think the question is – and correct me if I’m wrong, [inaudible]
+– IP number usage in Africa has been lowed compared to the
+other regions so far, so in an event of transfer policies, Africa is
+one of those regions where they will still have addresses, and the
+other regions will not. So do you have a different focus in your
+policy development for that, what will happen for the Africa
+region, for the interest that you will receive from other regions?
+
+UNIDENTIFIED MALE:
+
+Page 41 of 57
+
+Yeah.
+
+HELSINKI – ASO-NRO Public Session
+
+FILIZ YILMAZ:
+
+EN
+
+Is this part of your discussions, or are you just looking into how
+to…
+
+MARK ELLISON:
+
+It’s not really being discussed, except there was the one policy
+about properly investigating any suspicious previous allocations
+or assignments to organizations that could therefore be audited
+properly. But there’s nothing apart from that to better slow
+down or stop or vet any applications.
+Otherwise, I’m not a host master, so I can’t really answer that
+question. But I know that the host masters at AFRINIC are taking
+longer and longer to process applications because they’re doing
+a lot more checking.
+
+UNIDENTIFIED MALE:
+
+Okay.
+
+[RON DA SILVA]:
+
+Different topic.
+
+FILIZ YILMAZ:
+
+Yeah. I guess there’s a response to that.
+
+Page 42 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+[RON DA SILVA]:
+
+EN
+
+No, no, no. Not a response to that. Different topic, if that’s okay.
+I’ve seen the ASO involvement here in ICANN for a number of
+years, trying to identify what a good engagement model is for
+this group of folks to participate and have impact. I think there’s
+a great topic that is at hand, and unfortunately scheduled
+concurrent with this session.
+But nevertheless, there could be some follow-up, and for this
+[last year’s group of folks to consider], and that is, especially
+light of this whole conversation around IPv4 depletion and how
+that impacts consumers and end users and providers, actually,
+operating, and getting universal acceptance of v6 in place.
+So there’s this whole discussion underway in ICANN about
+universal acceptance, and it’s all about strings; funny different
+characters, different languages, different new top levels, and
+how that will interact technically with protocols and
+applications.
+I think just as important is the acceptance of IPv6. This is
+probably a great intersection between this community and the
+broader Names community. I think a shared goal, which is how
+we make sure in the same way new strings are being accepted
+that Ipv6 is being accepted.
+So I would encourage this group to consider finding some way to
+formally participate and impact that activity. Thanks.
+
+Page 43 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+FILIZ YILMAZ:
+
+EN
+
+Thank you. Great feedback, Ron. On the floor I heard the same
+thing. In this meeting, since it is the first meeting with this new
+format, I think we are all a bit trying to find what’s going on
+where and how this is going to happen. So hopefully next time
+we will do a better job altogether. Thank you.
+With that, I will turn to it over to Lousewies. She’s an ICANN
+Board member now, for a while already, and NomCom-elected.
+She’s been a politician in the past, and she’s very interested in
+the Internet and technology as well. She’s being showing a lot of
+attention to our topics recently, so we took the opportunity to
+invite her here to hear her perspective for the time she spent
+with the Numbers Community. I’m really curious as to what I will
+hear.
+She masters those speeches without [slides], so please go
+ahead, Lousewies.
+
+LOUSEWIES VAN DER LAAN: Thank you very much, Filiz. I’m really, really honored to be here,
+I have to say, and it’s wonderful not just to get the update from
+you guys but also the way that you’re building bridges with
+people who don’t necessarily come from the Numbers
+Community.
+
+Page 44 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+I was elected by NomCom in October and I totally don’t come
+from the Internet world at all. So as you can imagine, it was
+quite a transition. The way I tend to describe it is it’s like landing
+on an alien planet. Then it turns out there’s different planets on
+the planet as well, or different species and everything else. So it
+has really been fascinating.
+I joined the Board in October with Ron da Silva, and with Lito
+Ibarra. I said, “Where do I start with all this technical stuff going
+on?” and they both said, “Oh, you have to start with the
+Numbers because A) they’re the most important and B) they
+have the nicest people.” So there we go. So I have been doing
+that.
+There’s of course, besides just my personal interests, the formal
+relationship that you mentioned already. The ASO appoints two
+Board members. Kuo-Wei and Ron are here, and the
+replacement Kuo, Akinori, is right there, who has been elected
+by you guys.
+There is another formal relationship, which is that the ASO also
+appoints someone to the NomCom, which appoints the
+NomCom members of the Board. So there’s quite a lot of power
+that you have to influence the leadership and the Board.
+There’s something much more informal, which I think is actually
+in many ways more important, which is that of course the Board
+
+Page 45 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+is there to, besides help run the organization and steer the CEO,
+serve the community. It’s something that I don’t know exactly
+how it’s been done before. But I think that the key thing that I
+see in this new Board is that this is going to be taken extremely
+seriously.
+One of the key ways of doing it is not only to meet each other
+three times a year at this big ICANN members, but precisely for
+Board members to go into the community, into your ecosystem,
+to go to the RIPE meetings, to go to all the different meetings.
+We can’t all fly all over the world all the time, but we should
+definitely try to make an effort, especially in our own region, to
+find out what’s going on and to learn these subject matters.
+Now, rather than me explaining what I’ve tried to learn and then
+probably mess it up and you think, “Oh, she needs to learn a lot
+more,” there’s one thing I’ve really noticed which I think is
+important, and this is because I have a political background. I
+engage a lot with governments and with inter-governmental
+organizations and with politicians.
+I knew that I didn’t know a lot about the technical way the
+Internet is run. A lot of politicians either don’t know or don’t
+care, but they know even less, especially know that I’ve been
+catching up a little bit – virtually nothing – about how the
+Internet is run. And that is something extremely dangerous
+
+Page 46 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+because politicians are faced every single day with pressure
+about security, about terrorism, about pedophilia, about
+everything that happens on the Internet. It can be business
+related. It can be security related.
+But these are serious questions, and if they don’t know how the
+Internet is actually run at a technical level, because they’re not
+engineers, then they’re going to use a sledgehammer to try to fix
+one little thing, and it’s going to ruin the system.
+One of the things I’ve been trying to cross-communicate – planet
+politics, where I come from, need the technical expertise of
+people like you to explain how they can actually solve the
+problem without going too far. A lot of this is legitimate, but I
+also admit that sometimes it will not be legitimate. Sometimes a
+government knows exactly how the Internet works and will use
+whatever – some so-called terrorist threat – as an excuse to shut
+down the opposition or to take down critical Twitter feeds. Of
+course that will happen as well.
+But the more that the technical community is out there
+explaining, “Well, if this is the problem you say you want to
+solve, this is actually the way you can do it without bringing
+down the system or without doing more damage or ruining the
+things that make it work – the interconnectivity, the openness,
+
+Page 47 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+the freedom; all the things that we stand for.” That will make it
+much harder for these governments to follow that agenda.
+So I’ve been at these meetings and saying, “Look, you guys. You
+need to engage with politicians. You need to engage with
+governments.” Then you get a lot of, “Uh, well…” Just as your
+planet is new to me, a lot of I would say people I’ve met at the
+various RIRs are not really keen to do this and say, “Well, our
+politicians don’t understand, or they don’t care.”
+But my plea to you is to keep trying, because this is going to get
+worse in the sense that the pressure on governments and
+politicians to get more control over the Internet has been
+increasing and it’s going to keep on increasing. Unless we make
+sure that, within this multi-stakeholder model but mostly also
+within the outside world, who knows nothing about how these
+things work, if we don’t get all their voices in, then that can
+actually damage the kind of Internet that we stand for.
+One of the personal things I’ve taken on is to try to build bridges
+between Planet Internet or Planet Tech – whatever you might
+call it; Planet Geek – and then Planet Politics/Planet
+Government. I think that is really going to be crucial if we want
+to keep the Internet working the way it is.
+So that’s what I wanted to say. Of course, I’m available for
+questions. I know I have a difficult name – Lousewies. The
+
+Page 48 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+advantage is that, once you learn how to spell it, you can easily
+find me on Facebook, on Twitter, on LinkedIn. But you can also
+come get my business card. What? No, yes you can. I put a
+pronunciation guide on the ICANN wiki. Also, I try to available.
+I want to thank all the Numbers Community for being so
+incredibly welcoming and warm and patient and explaining
+again what a /22 is and how it works and explaining again why
+this is important. I hope to take a quiz after my three years and
+see if I actually learned it well.
+
+FILIZ YILMAZ:
+
+Any comments? Remarks? We have eight more minutes
+specifically for Lousewies. Am I saying that right?
+
+LOUSEWIES VAN DER LAAN: Super.
+
+FILIZ YILMAZ:
+
+Yeah? Okay. Or for the entire panel, even to the audience out
+there?
+
+WILFRIED WOEBER:
+
+Wilfried Woeber, also on the ASO for the RIPE region. I’d like to
+really comment on your last contribution. It’s also my personal
+experience over the years that there is really a point in trying to
+
+Page 49 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+cross the bridge and to try to understand the vocabulary, the
+background, the pressure, and the expectation of these different
+and sometimes separate parts of our world.
+The one thing that’s the reason why I’m standing in front of the
+microphone and consuming your time: one of the things that I
+found is that, in trying to make that exercise successful, you
+have to find the proper layer, let’s say, or the proper point of
+attachment, because if you just talk widely and broadly about
+politicians, they tend to come like the birds in spring and go
+back in autumn. And then you start over again.
+I think it is one of the advantages of our technical community
+that there is some sort of stability around. My experience in that
+comes mostly over the last couple years from interacting with
+our government of our little country, Austria, with regard to
+security and Internet management, not from a political level, but
+from an operational and security level.
+You have to build this mutual understanding and trust. It’s
+sometimes difficult to find the layer where the stability is there,
+where the interest is there, and where it is useful to spend the
+effort. I’ve seen a couple of things where people tried to get in
+contact at a very high level because this seemed to be the
+proper point to interact. But then you’ll start over every other
+year or something like that. Just for consideration. Thank you.
+
+Page 50 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+LOUSEWIES VAN DER LAAN: I think this is a wonderful contribution, and I would just like to
+point out that politicians come and go, usually very quickly, but
+there is layer underneath, which is the civil servants, who tend to
+be quite stable in many, many countries. I think, to build up
+relationships there, especially if in your own country there is a
+multi-stakeholder model and you have ISOC meetings or IGF
+meetings or whatever, to make sure that that’s the place to
+meet. Once you build up those relationships, then once
+something happens, it creates a piece of legislation or some
+politician shouting something. You already have the contacts to
+go there and say, “Hey, this is what you don’t need to do, or, if
+you want to solve this problem, you can do it this way.”
+The second thing is: don’t underestimate what you can do in
+public. When I was an elected member of Parliament – and I was
+elected to the Dutch Parliament and to the European Parliament
+– if I would be dealing with an issue and I would read a very good
+newspaper article – it could be technical one saying, “Well, the
+European Parliament is dealing with this legislation. This is a
+problem they’re trying to solve. I am a technical expert and
+would recommend A, B, and C” – the first thing I would do is call
+up that person and say, “Can you please come brief me?”
+
+Page 51 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+I think this is a way also to reach out, but it has then got to be
+written in a way that non-techies understand it. But that’s easier
+to do. This is just a great way to enter the policy debate. Before
+you know it, you’ll be on T.V., explaining to the politicians what
+they need to be doing. That’s exactly what we need: to get some
+experts into the debate.
+
+LOUIE LEE:
+
+Hi. Louie Lee. Thank you very much for coming. We get a fairly
+regular request from the ICANN Board, from GAC governance on
+how they can help with various things, like IPv6 deployment.
+“Should we do a mandate?” Do you get a sense of how the
+message is being received, what message is being sent, or how
+it’s being interpreted, and what they are doing, if they actually
+take the advice of, say – just an example: one way, maybe a
+government can say that, for its own purchasing, all new
+equipment must support IPv6 and for some definition of
+support, whether it’s in hardware or software or whatnot.
+Do you get a sense that any of that advice is being taken,
+received, understood in any way, if that’s actually working?
+
+LOUSEWIES VAN DER LAAN: The short answer is I don’t know. The long answer is that I think
+it differs greatly per country. And not even every country is in the
+
+Page 52 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+Governmental Advisory Committee here, which works together
+with ICANN. Sometimes you would have one person who then
+has to be the government person for the Netherlands of
+whatever.
+So this is a huge, huge workload. The people who are involved in
+ICANN may not always be the ones who are then at technical
+level trying to work the governments there. But I think it’s a
+wonderful question.
+One of the ideas of this policy forum, having a B Meeting, is
+precisely to cross-fertilize between the different silos. I think this
+is exactly the kind of question that you guys should be asking
+the GAC. You’ll have a joint meeting with them at some point?
+Well, then maybe at the next B Meeting, this may be something
+to do.
+I just came from a meeting this morning, which was basically a
+technical briefing for the GAC, where people were explaining to
+them how domain names worked. It was just a discussion about
+having country codes in the second level. Some countries think
+that is an absolute disaster and should be forbidden and that
+country codes should be only for countries, even at the second
+level.
+Others are saying – the Netherlands, for example, have this
+wonderful example of de.nl – “de” being the German country
+
+Page 53 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+code, and DE also being a Dutch coffee company, [inaudible]. It’s
+never been a problem.
+But then it’s nice to get the technical people together with the
+governmental people and saying, “Hey, is this really a problem
+or not?” This is precisely the kind of place, ICANN, where we can
+start doing this. Then you can ask the question to the people
+who actually know.
+
+FILIZ YILMAZ:
+
+Thank you. Just a short notice – thank you – for the answer. We
+have only two minutes, and probably we have to clear out the
+room. So if you can, keep it brief.
+
+CRAIG NG:
+
+Very quickly. Craig Ng, APNIC, but speaking for myself. I just
+want to say, Lousewies, thank you very for coming, and thank
+you very much for your support. Speaking for myself and having
+worked on the SLA, I just want to say how truly appreciative we
+are of the Board’s support through this whole process and how
+grateful we are that we have finally reached where we have
+reached. So thank you very much.
+
+Page 54 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+LOUSEWIES VAN DER LAAN: I think all the credit for the SLA goes to Ron over there, so I’m
+just going to bat that right over there.
+
+UNIDENTIFIED MALE:
+
+Hi, Lousewies. I’m [cheating]. I’m Dutch as well, so I actually
+know how to announce it. No, I don’t get brownie points for that
+one.
+Thank you for your honest feedback, as one alien to another
+shows the way. I would love to be able to educate me some civil
+servants and politicians. If only I’d know where to find them in a
+way where I don’t get immediately written off as some sort of
+badly-organized lobbyist. If you could show us some direction in
+that sense, that would be highly appreciated. Thank you.
+
+LOUSEWIES VAN DER LAAN: I think that’s great. This of course is going to be totally different
+at every national level. I think you really blend in pretty well. No
+pony-tail, no beard, no shorts. Because this kind of stuff scared
+civil servants. They’re like, “Who are these people?” It is about
+learning each other’s language and trying to blend in, and
+wherever I can personally help to build bridges in the
+Netherlands, I will. But it’s going to take a lot more than just one
+country or one region. This is something we have to do globally
+and we’ll all work together. And maybe keep on being in touch
+
+Page 55 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+EN
+
+and exchanging experiences are good examples of how we can
+build the bridges.
+
+FILIZ YILMAZ:
+
+All right. One last remark. Maria, go ahead.
+
+MARIA HALL:
+
+Thank you very much. Maria Hall. I am a member of the Board of
+the RIPE NCC. That’s why I’m here. [inaudible]. I just want to say
+that I was a former Swedish rep in the GAC. I was engaged in the
+RIPE NCC and the RIPE community in 2004, when I started.
+I have to say that RIPE NCC is doing a great job, so I just want to
+say thank you for doing this because you have the Coordination
+Working Group, which is actually a forum for trying to interact
+between governments and the technical community.
+And obviously you have this round table meeting, so there are
+many ways you can make platforms or forums to interact
+between these sectors. So you’re doing a great job. Thanks.
+
+FILIZ YILMAZ:
+
+Thanks, everyone. Maybe at the next ICANN meeting we need to
+find a forum to talk together as well, like you said.
+Thank you. Thanks, everyone, for your time and being here until
+the [bitter] end.
+
+Page 56 of 57
+
+HELSINKI – ASO-NRO Public Session
+
+[END OF TRANSCRIPTION]
+
+Page 57 of 57
+
+EN
+
+

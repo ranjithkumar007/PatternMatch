@@ -1,0 +1,2519 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 1
+
+Transcription ICANN Helsinki
+GNSO Review of All Rights Protection Mechanisms (RPMs) in All gTLDs PDP
+Working Group
+Thursday, 30 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+J. Scott Evans:
+
+Good morning, everyone. My name is J. Scott Evans. I am Associate General
+Counsel at Adobe Systems, Incorporated and I am one of the three co-chairs
+of this working group which is the review of all rights protection mechanisms
+working group. This is our open meeting in Helsinki on Thursday, June 30,
+2016. It is 8:00 in the morning. I don’t know if we have others on the phone
+with us but if you are, welcome for joining up.
+Up at the front of the room with me is also Phil Corwin who is another of the
+co-chairs. Unfortunately, Kathy Kleinman had to fly home early due to a
+family emergency and she will not be going us today. I hope you all will keep
+her in your thoughts. Also, up here with me today is Mary Wong who, if you
+are on the phone calls, is a very intimate driver of everything we do here in
+preparation of a lot of the materials.
+At the end of the table there, on my right hand side of the room is David
+Cake. He is sitting next to Kurt and he is another ICANN staff member who
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 2
+
+has been very helpful in keeping us on track and developing materials that I
+want to thank them both for all their help and for being with us today. As we
+get started, the first thing I’d like to do since this is our first face to face
+meeting that we’ve had since we started our work about two months ago, I
+would like to go around the room and we will begin on my left at the very far
+end and if you would introduce yourself. Tell us what your day job is and then
+who you are connected to within the ICANN ecosphere. I am a member of the
+business constituency and former two or three, maybe four time president of
+the Intellectual Property Constituency years ago and that is my affiliation. So,
+we will start down at the end of the room.
+Ellen Shankman: Ellen Shankman, my affiliations with ICANN have been counselor in the
+GNSO, officer in IPC. I am privileged to have been an IRT and most recently
+NomCom.
+Jeff Neuman:
+
+I am Jeff Neuman. I don’t think we have enough time to go through all of my
+ICANN affiliations but mostly here in my capacity as one of the co-chairs of
+the subsequent procedures working group, so our work is closely tied. I
+participate officially along with a company called Cum Laude in Valideus and
+we’re a member of the registrar stakeholder group and participate on behalf
+of our clients in the registry stakeholder group and IPC.
+
+(Beth Bacon):
+
+Good morning everyone. I am (Beth Bacon). I am with public interest registry
+and through the registry stakeholder group.
+
+(Brian Somalik):
+
+Hi, (Brian Somalik), also public interest registry with the registry stakeholder
+group.
+
+(Christine Durane):
+
+(Christine Durane) with Amazon Registry Services with registry
+
+stakeholder group.
+(Pete Dixson):
+
+(Pete Dixson) with Amazon Registrar, the registrar stakeholder group.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 3
+
+Man:
+
+(Unintelligible), electronic (unintelligible) England and non-commercial
+stakeholder group.
+
+(Elon Tigram):
+
+(Elon Tigram) with the world intellectual property organization.
+
+(Darcy):
+
+(Darcy) (Unintelligible), I am with Endurance International. I do corporate
+compliance, part of the registrar stakeholder group.
+
+(Sara Bocke):
+
+(Sara Bocke) with Godetti, part of the registrar stakeholder group.
+
+Brian Beckham:
+
+Good morning, I’m Brian Beckham, head of the Internet Dispute Resolution
+Section at the World Intellectual Property Organization. We are the leading
+EDRP provider globally.
+
+(Luke):
+
+Hello everyone, my name is (Luke) (Unintelligible), I have a registrar
+operation in London (unintelligible) associates and (unintelligible) specialized
+intellectual property online and Italy (unintelligible). My affiliation with ICANN
+is dating long back. IPC member since a number of years, 2001, my first
+ICANN, and (unintelligible) registry group member as well.
+
+Nick Wood:
+
+Nick Wood from Valideus, in this environment I represent MARQUES which
+is a member of the IPC.
+
+(John Acquaine): I’m (John Acquaine), I’m a lawyer with Nelson Mullins. I’m with the IPC and I
+am the current chair of the internet committee for the International Trademark
+Association.
+(Molly Shannon): I am (Molly Shannon), I am the senior director for Internet Policy for the
+International Trademark Association and a longtime member of the
+community, most recently with the NCSG and currently treasurer of the IPC.
+Philip Corwin:
+
+Phil Corwin, I am one of the three co-chairs of this working group. I am
+founding principal of Virtual Law which is an IP and internet policy consulting
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 4
+
+firm working in Washington. I am coming up on 10 years as counsel of the
+internet commerce association which I represent within the business
+constituency. I’m one of the business constituencies to GNSO counselors. I
+am also co-chairing the working group on Curative Rights Processes for
+IGO’s and I am a proud member of (unintelligible) Internet Committee.
+J. Scott Evans:
+
+I guess I should also disclose many people in the room know me but just in
+case I don’t want to be hiding anything, I am also former president of the
+International Trademark Association. I am past president from last year so I
+don’t want anyone to think that I’m stealthily trying to not disclose all of my
+connections here; if we could just get (Beth) real quick who is stuck
+(unintelligible).
+
+Beth Allegretti:
+
+Hi, I’m Beth Allegretti from Fox Entertainment Group. I manage the global
+domain portfolio and I’m part of the DC.
+
+Man:
+
+(Unintelligible) registry and some registrars, too.
+
+Reg Levy:
+
+Reg Levy from Mind Machines, we are a vertical integrated registry registrar
+and I sit on the executive committee of the registry stakeholder group.
+
+Denise Michel:
+
+Denise Michel, with Facebook and the business constituency.
+
+(Yvette):
+
+(Yvette) (Unintelligible), I am an Italian Hungarian lawyer and I am the URS
+case manager of MSFD based in Milan, it’s the third URS provider.
+
+Man:
+
+(Unintelligible), Milan based lawyer and cofounder of MSSD, the
+(unintelligible) provider since 2000 for (unintelligible) and the mediation case
+manager.
+
+Woman:
+
+(Unintelligible), with former (unintelligible), the forum for an ICANN credited
+provider.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 5
+
+(Alistar Payne):
+
+(Alistar Payne), Matison Lawyer’s Dublin, (unintelligible) internet law
+committee and on the IPC.
+
+(Charlotte):
+
+(Charlotte) (Unintelligible), I am (unintelligible) with Adams & Adams in South
+Africa. I am IPC.
+
+Susan Payne:
+
+(Susan Payne) from Valideus. I am a member of the IPC and I also
+participate in the registry stakeholder group on behalf of (unintelligible) and I
+am one of the honorary legal (unintelligible) to the brand registry group.
+
+(Heather Foust): (Heather Foust), I teach intellectual property at the University of Tasmania. I
+am a member of the GNSO council for the IPC. I am the council lead for this
+PDP II council, yeah.
+John Nevett:
+
+John Nevett (unintelligible) registry stakeholder group, former chair of the
+registrar stakeholder group and the new TLD applicant group.
+
+(Kurt Bert):
+
+(Kurt Bert), formerly with ICANN and now a management consultant. I
+worked with J. Scott and many of you on the implementation
+recommendation team where we fashioned many of these rights protection
+mechanisms we are talking about right now (unintelligible), and then worked
+with the GNSO on implementing them.
+
+J. Scott Evans:
+
+We had one gentleman join us who got ahead of the queue so if you will
+introduce yourself for us.
+
+(Nassar Vitori):
+
+Thank you very much, good morning. (Nassar Vitori), manager director of
+Origin. Origin is an alliance of (unintelligible) groups and I am a member of
+this working group. It’s my first time on the committee. Thank you.
+
+J. Scott Evans:
+
+Great. This is an open meeting for anyone who may be on the phone, which
+means that it’s not just populated in the room here in Helsinki with members
+of the working group. There are also observers here and just for the record
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 6
+
+because we are trying to keep an accurate transparent record, I’m going to
+have the observers introduce themselves as well so we all know. Please
+understand as an observer as we are discussing issues, you are welcome to
+make any comment and come to the microphone and speak either if you
+want to come to the table and grab a microphone, if you want to go to the
+standing mic that will be here, but we encourage your participation. We want
+your participation. So Glen if we can start, thank you.
+(Daniel Madden): (Daniel Madden) from (unintelligible) in Paris.
+Woman:
+
+(Unintelligible), from (unintelligible) Paris.
+
+(Soriah Komite): (Soriah Komite), Holding levels, Paris.
+(Jacob Williams): (Jacob Williams), Interlink.
+(Damon Ashfap): (Damon Ashfap) with Snell and Womer in Phoenix, Arizona and I’m with the
+IPC.
+(Jennifer Scott):
+
+(Jennifer Scott), contractual compliance.
+
+(Maggie Surrad): Good morning everyone, (Maggie Surrad), contractual compliance.
+Man:
+
+Good morning, everyone.
+
+Woman:
+
+Good.
+
+(Ally Alvadux):
+
+And it’s (Ally Alvadux).
+
+(Christine Alanti): (Christine Alanti), trademark express teamwork.
+(Joanna Badden): Hi, (Joanna Badden), Gemini Lens, CCPLD (unintelligible).
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 7
+
+Man:
+
+(Unintelligible), from India, (unintelligible).
+
+(Dana Bran):
+
+(Dana Bran), Northcott, Amazon.com.
+
+(Jennifer Bryant): (Jennifer Bryant), (unintelligible) U.K. Limited.
+Woman:
+
+(Unintelligible).
+
+(Renville Strenusta): (Renville Strenusta).
+Man:
+
+(Unintelligible) with the Trademark (unintelligible) house.
+
+Woman:
+
+(Unintelligible), Trademark (unintelligible) house.
+
+Man:
+
+(Unintelligible) house.
+
+(Celia Smith):
+
+(Celia Smith) with Fox. I am also in the brand registry group and the B.C.
+
+(Martin Fenton):
+
+(Martin Fenton), brand registry group and member of the registry stakeholder
+group.
+
+(Selmin Franco): (Selmin Franco), in (unintelligible).
+(Chuck Gomes): (Chuck Gomes), (unintelligible).
+David McAuley:
+
+David McAuley, Verisign.
+
+Freida Tallon:
+
+Freida Tallon, sky member of the registry stakeholder group.
+
+(Stephen Modala):
+Man:
+
+(Stephen Modala), (unintelligible).
+
+(Unintelligible).
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 8
+
+Man:
+
+(Unintelligible), JPRS.
+
+Man:
+
+(Unintelligible), JPRS.
+
+(Emily Berbas):
+
+(Emily Berbas), ICANN staff.
+
+(Steve Chan):
+
+(Steve Chan), ICANN staff.
+
+(Brian Scarpelli): (Brian Scarpelli), ACTVF Association.
+Man:
+
+(Unintelligible).
+
+(Susan Anthon): Thank you, (Susan Anthony), United States Patent and Trademark Office.
+(Karen Month):
+
+(Karen Month), ICANN staff. I also worked on implementing money of the
+RPM’s in the program.
+
+J. Scott Evans:
+
+Mary?
+
+Mary Wong:
+
+Thanks, J. Scott. I’m not ready to introduce myself although I am Mary Wong
+from ICANN staff, hello, and to acknowledge that we do have folks in remote
+participation in the Adobe Connect Room who are not here and they include
+a number of members and observers of our working group.
+
+J. Scott Evans:
+
+Thank you Mary, very much, if I can just quickly for those in the room,
+everyone who is actually a member of the working group, would you please
+raise your hand just so that we can get -- so it’s good to see that we have
+such a good participation and to have so many people live at the meeting, I
+think that shows how very important and historic the work that we are doing is
+going to be and I am pleased to have you all here.
+So, I think the first thing I would like to do is sort of report out that I don’t know
+how many people attended the meeting we had on Monday afternoon where
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 9
+
+we presented to the community about our work plan and how things were
+going and how we’d set up things and that we had started with the PDDRP
+and we had some discussion. We took some responses from the audience of
+some additional issues and is it possible, David), to put up the .pdf that has -we extrapolated since Monday the listing of some of the things that came out
+of that meeting so that we could show them to those of you that may not have
+been there and David has put it in the .pdf. It was too large to put into our
+deck.
+So real quick, while we are going to concentrate in the second part of this
+meeting on the actual PDDRP which is the first -- one of the things I wanted
+to do was I wanted to go through the issues that we discussed and have
+everyone look those over and see if there is anything that you feel that we
+need to add to that list, is there something that needs to be subtracted from
+that list? Are there things that we need to think of differently? So, let’s just go
+through them subject by subject and look at them quickly. We see here we
+have the trademark clearing house and the questions and comments that we
+got were you see here does the trademark clearing house provide avenues
+that are procedurally and substantively fair so effectively balanced the rights
+of right holders versus normal internet users so we had a lot of comment and
+discussion about the cost benefit analysis of the trademark clearing house. I
+think there were some -- I want to say it may have been a registry
+representative who is just saying, you know, it’s expensive for the registries to
+have to participate and was the benefit really weighed, you know, out at least
+balanced with the cost to the registry?
+Does the trademark clearing house create a tendency to perpetuate the
+status quo? How acceptable is the trademark clearing house to reviewing
+accessibility for trademark agents in developing countries? Should the
+trademark clearing house remain the single provider or should we open to
+different providers that would have the centralize database? And I think that
+previous question and this question are sort of connected. I think there was
+some discussion in the room if I am remembering correctly that perhaps
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 10
+
+having a single provider that only operates in English might cause problems
+for different cultures that they don’t have as many people who speak English
+and if you are forcing them to operate in English not only is expensive but it
+might not be as useful for those purposes and so that was something they felt
+we might want to consider.
+There was a lot of focus on whether the trademark clearing house should
+remain a single provider. Are the costs of the trademark clearing house rock
+holders for ICANN for the community proportionate to the benefits? Again,
+you see that question coming up. How do you determine what is a good
+chilling effect and a bad chilling effect in relation of RPM’s? I mean, one of
+the data points we have roughly is that there have been about a million
+trademark claims notices went out that people didn’t then carry through with
+the registration and I think there is some concern that maybe there were
+people who were scared off from registering when they could have registered
+but again I think there was also the point brought up that you don’t know for
+sure, it could be the trademark clearing house actually is working as it was
+intended and those million people had innocently made a mistake. Not
+everybody is actually out to infringe on someone’s rights and realized that
+and chose a different name. So we just don’t know and the question is we
+may have to struggle with how to determine that or if that can even be
+determined. Do you have a comment?
+Man:
+
+Yeah, well I was just going to -- have we gotten to the end of this?
+
+J. Scott Evans:
+
+Any time anyone wants to --
+
+Man:
+
+Well I was going to suggest we go through all of these up through the
+trademark clearing house and take comments on the clearing house before
+we go onto the next one so I don’t think we’ve quite --
+
+J. Scott Evans:
+
+And then we went through -- we were asking the group also, are there any
+data points that you think we should consider? Because, you know, we had
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 11
+
+an opportunity to sit in a room with a majority of people who have not
+participated on any of our calls so they don’t know what we’ve been talking
+about considering and we were, you know, just asking is there anything we
+should look at? And here are some of the ideas that we put forth. It’s useful to
+look at how many cases have helped existing right holders, how many cases
+have helped internet users that do not own the rights at the time they come to
+the trademark clearing house.
+In relation to questions and procedure, for example, has procedure been
+followed correctly in all cases? In the cases of deviations, why were the
+deviations caused? Who were the deviations helping? How many domains
+were registered to users that were not the registered claim holder that were
+eventually challenged by the team CH claimholder and whose ownership was
+then moved from the user that registered the domain to the claimholder, and
+then it gives us an example.
+So those are some of the things that we were asked that they thought we
+should consider and data points we should look at. The question is if we can
+find that data if it’s available, I’m not sure but now I’d open it up to the floor to
+ask anyone if they have anything that they see here or is different or if they
+have any idea where we might find some of this information, I’d just open it
+up to the room.
+Man:
+
+Let me jump in with the first quick comment, two quick comments, one, we’ve
+heard from quite a number of people about dissatisfaction with the cost, of
+clearing house rate (unintelligible) and a desire to have multiple providers for
+both cost and other reasons. We are going to have to, I think, if we can find
+out what type of contracts ICANN is entered into with (unintelligible) and IBM,
+the two current providers who share the duties of providing the current
+clearinghouse. We don’t know if that’s an exclusive arrangement or what it
+says on whether it’s possible under that contractual arrangement to have
+other providers if we decide that’s a good idea.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 12
+
+Also, on the good versus bad chilling effect, I do know because I asked the
+folks doing the study when they spoke on it at Marrakesh that the current
+study that’s been undertaken by ICANN in request to, in response to a
+request that the GAC made several years ago, I asked point blank are you
+going to be able to -- from what you’re doing to be able to tell us when there
+was a good chilling effect when receipt of a claims notice deterred what
+would have been an infringing registration versus an undesirable chilling
+effect where someone who was going to register a generic dictionary word
+with the intent to use it for a purpose totally unrelated to whatever it was
+trademarked for was just spooked by the notice and didn’t go forward with the
+registration.
+And I think also to add one last, we have to remember that the vast majority
+of domain registrants, you know, we live in this ICANN bubble and so many
+of us, or trademark orders, or at least know a lot about trademark where we
+have to remember that the millions of domain registrants, the vast majority
+know nothing about intellectual property law and trademark and when they
+get a notice like that their first thought could be I don’t understand this work
+but it looks like I might get in trouble and I’d have to spend a lot of money to
+consult with a trademark order to find out whether this registration is a good
+idea. So, we have to keep the average user in mind and I’ll stop there and we
+welcome other comments and thoughts.
+J. Scott Evans:
+
+Okay I see two hands. Before we get there, one of the things I want to put out
+to the room and I’d ask the two people who are going to speak next to maybe
+give their comment on what I’m about to say, but I’m speaking not as chair.
+I’m speaking as J. Scott Evans from Adobe and just a person who has been
+involved. I wonder if our job is necessarily to decide the issue with regards to
+a single provider. I wonder if our issue is to recognize that that’s been brought
+up and then bring that to the subsequent procedures working group and let
+that be an issue that they deal with because it seems to me that that’s more
+about implementation of the program rather than the rights protection
+mechanism itself and it seems it might be slightly beyond our (unintelligible). I
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 13
+
+do believe we should note it and say in our report that it was -- we heard it
+repeatedly but I don’t know if we should delve into that issue any broader
+than making a note and then have our, make sure our liaisons from that
+group take it back and then ask them to specifically address it. That would be
+my -- I don’t know how controversial I’m being but that would be my thought.
+I’m seeing Ellen Shankman and then I saw Jeff, do I see any other hands real
+quick, and (Kirk).
+Ellen Shankman: The kind of -- I’d like to make J. Scott I think goes directly to what you are
+saying and support it which is they are the “what” questions which is what are
+you trying to achieve, what needs need to be met and then there are the
+“how” questions and every “how” has its pluses and minuses and I think it
+would be unfortunate to get bogged down in the best house to fix things even
+though I think this working group is intended to make better “hows” and to
+first be asking the questions of -- and then when these mechanisms were first
+set up there were certain needs identified.
+And this was an attempt to address those needs and maybe it was successful
+and maybe it could be more successful and maybe it wasn’t. But, I think it is
+important to look and see did this address the needs that were there and are
+there any other needs that have since been identified that need addressing
+because to otherwise argument about well, this thing could be a little bit
+tweaked this way, it’s more expensive, less expensive, somebody else takes
+(unintelligible) provider net, I think is to lose the opportunity to see whether or
+not this is doing what it should be doing and what we thought it should be
+doing when we wrote these whatever a number of years ago, have those
+needs been addressed and have new needs come up that should be
+addressed?
+J. Scott Evans:
+
+Thanks so much. Just a reminder, please state your name for the transcript
+record because we do have people participating remotely and if they want to
+respond to you I’d like them to be able to know who they are responding to,
+so if you’d just say your name, I’d appreciate it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 14
+
+Jeff Neuman:
+
+Thanks, this is Jeff Neuman. I think (Ellen), you said a lot of what I was going
+to say, (unintelligible) respond to (Phil), the agreements with the clearing
+house providers are actually posted. They are online. I could send around a
+link to where they are. There are some parts that are redacted but I think for
+the most part there was an exclusivity period. I’m not sure yet if that’s expired
+or if it was based on instead of the time period it might have been based on a
+number of registrations but I do agree that, you know, you all should look at
+the concept and the principles and then pass it on either to -- not even
+necessarily the subsequent procedures but to implementation. Whether that’s
+the subsequent procedures or an IRT on that is a whole other question.
+
+J. Scott Evans:
+
+Thanks, Jeff, just real quick, I have a question for the room because Ellen
+Shankman raised the question of we need to answer the “what,” right? How
+many people have read the original IRT report to know what that group
+thought they were trying to solve? So, I suggest that everyone on this
+committee read that report so you understand what they were trying to solve
+because you are not going to understand the “what” if you don’t look at the
+report and try to understand what they were trying to solve. I know there is so
+much hyperbole in this community that a lot of it gets distorted and goodly
+and badly. I’m not -- but you just go to the root of what we are talking about
+so when we begin to answer that question, you understand what they were
+trying to answer. So, I would implore all of you to read that report and I
+believe you can find it on the ICANN website. Mary, I would ask that you put
+a link to that in an email after this meeting so that everybody can find it easily.
+And with that, I will turn to (Kirk).
+
+(Kirk):
+
+It’s sort of getting back to what (Ellen) says but when you talk about a cost
+and you are worrying about a cost being too high, there are two elements to
+that and one is the price given to us by the bidder but the more important
+aspect is what he or she is asked to bid on and I think what -- a good test for
+this group more than the subsequent procedures group is to look at the scope
+of the clearing house and because we were being careful then and we
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 15
+
+wanted certain aspects of the implementation there and look and see which
+ones added value and which ones did not and a more effective way to reduce
+cost is really to reduce scope.
+J. Scott Evans:
+
+Thanks (Kirk), I think I saw (Susan Payne) raise her hand.
+
+Susan Payne:
+
+Yes, I wanted to make a comment on the bullet point #3 on the data to be
+gathered, just because I’m one of the people who volunteered to work on that
+stay together and exercise and I don’t want us to go down the wrong track
+slightly. I don’t think that specific data is particularly useful for us in this
+particular context because you don’t need a trademark in the trademark
+clearing house to bring a UDRP and the only complaint that would allow you
+to recover the domain name is the UDRP. So, that information in terms of
+successful or unsuccessful UDRP’s is definitely relevant when we are
+reviewing the UDRP but I don’t think complaining the two is particularly
+helpful for us so there may be data that is relevant for us to gather around
+numbers of claims and what the impacts of those claims were (unintelligible)
+people but I don’t think it’s relevant for us to complain that whether a UDRP
+was successful or not.
+
+J. Scott Evans:
+
+I think Brian, I saw your hand, does anyone else have -- okay.
+
+Brian Beckham:
+
+Thank you J. Scott, Brian Beckham for the record, I wanted to just ask the
+question to follow on (Susan)’s comments if this working group has thought
+yet about who to canvas for feedback for this, so should we for example
+reach out to the international trademark association to canvas members the
+intended beneficiaries? We heard in the earlier session some important
+feedback from registries and registrars in terms of the cost and the
+operational pain so I think it would also be equally important to somehow
+reach out to the intended beneficiaries to trademark owners. I also know that
+the governmental advisory committee has expressed an interest many years
+ago to look at the trademark clearing house once it was operational so those
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 16
+
+are two avenues maybe the working group wants to look into in terms of
+outreach going forward.
+J. Scott Evans:
+
+Thank you. Our data gathering subgroup, I would put to you, perhaps we
+want to develop some sort of mechanism that we could use at many different
+(unintelligible) but do the same type questions. We could agree on it, this
+whole group would agree you all would just develop it and maybe we do it to
+marks and ECTA and INTA and maybe the registry stakeholder group as
+well, the registrars, we gather data from everyone so I would say -- I would
+put that to the group, (Susan), that you are working with to think about that,
+whether we want to survey those different groups and do, you know, a very
+similar survey for everyone. I have a hand here and then a -- okay, and then
+Mary.
+
+Man:
+
+Yes, I’m (Unintelligible) for the records. During the working group discussion
+we had a debate whether we should consider any single mechanism or
+district resolution in isolation or we should consider them in connection if
+specifically we do the DRP and actually one of the questions I asked and I’d
+like maybe to see it reflected in the question is what kind of consequence
+should we draw from the fact that (unintelligible) indications have been
+admitted in the trademark clearing house under the item marked, protected
+on the treaties and statutes. I think this is quite important because once we
+have -- once you recognize some identity to this legal instrument to be
+admitted in the clearing house, I think it will be interesting to consider and
+discuss whether there should be any consequence in terms of allowing GI’s
+also to be a legal titre, to activate a UDRP, I think it’s very interesting to
+discuss it in this framework, I think, this you know, in some instances it might
+be also a theoretical question in the sense that many geographical indications
+are protected in some jurisdictions as well as trademark, so practically they
+could activate any way the UDRP but I think it would be important also to
+have a debate on that because otherwise it would be a little bit limiting, you
+know, to accept into the (unintelligible) but not to give the possibility then to
+solve (unintelligible) registered as second level domains by an entity which is
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 17
+
+not relation with -- and let’s remember, let’s remind you that GI’s are
+intellectual property rights, recognized by the (unintelligible) agreement.
+Thank you.
+J. Scott Evans:
+
+A couple of things, first of all the EDOP and the trademark clearing house are
+not connected in any way. Just so we all understand. They are not connected
+in any way. You can bring a UDRP and never even consider, know about,
+have discussed, have anything to do with the trademark clearing house first.
+Second, I want to give everyone just a brief history.
+When we first conceptualized on the IRT, the trademark clearing house, it
+was not called the trademark clearing house. It was just called the centralized
+database and the original idea was it would just be a centralized database
+that would collect rights information and that the registries would determine
+based on the jurisdiction which they sat in, what rights they wanted to protect
+under their laws. So for instance, in Germany titles to books are given the
+same rights as a trademark. They are not in the United States unless they are
+series of books that show good will, right?
+So, in U.S. you couldn’t protect a title, in Germany you could, but if I was a
+German registry and I wanted to protect titles, I could and all the trademark
+clearing house would do is collect that data in one central place and any
+German registry that wanted to protect that would ping and get that
+information. But somehow it got conflated that we were trying to create
+trademark rights for things that didn’t have trademark rights and so they kept
+narrowing it down and it ended up just being trademarks, not common-law
+marks, not geographic indications, not other things, because they thought we
+were trying to create rights that didn’t exist and I think that is where it got
+changed.
+But that was not the original concept. The original concept was just to collect
+data and let a registry choose what they were going to protect and all the
+database would do is take in the data so that the owner only had to go to one
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 18
+
+place to do it rather than 50 different registries to figure out what was going
+on. So that was the original concept and I think there was some concern that
+by creating this they were going to create rights outside of different countries
+that would make people concerned and so that’s where some of that came
+and we can discuss that but there are a lot of people, since you haven’t
+(unintelligible) would say, we really don’t want to go back and rehash issues
+that have already been decided by the community so I just put that out for
+everyone. I see Nick’s hand, then Phil’s hand.
+Nick Wood:
+
+Just a quick addition to that, I think in those early days and we have
+designed what we are talking about, we referred to it as a cost reduction
+mechanism for mark owners to participate in an unknown number of sunrises
+in the future. It wasn’t actually referred to by if it’s a rights protection
+mechanism and it became much more complicated when it came out and one
+of my concerns about the current model is how it would scale if we have
+10,000 applications in the next round because certainly most of my clients
+don’t want to get claims from 10,000 registries.
+
+J. Scott Evans:
+
+I think, Phil? Say your name for the record.
+
+Philip Corwin:
+
+I wanted to raise a question for you and the group -- of the right RPM’s, but
+my question relates to what about infringement, infringing activities that have
+actually arisen that are not susceptible to any of them, one of, specifically
+thinking about is every couple of days I review the junk mail folder of my
+Outlook and it is full of emails from new TLD’s. I’m not going to but there
+seemed to be a certain new TLD that is very attractive to spammers and in
+the domain name, the domain name is complete nonsense. It looks like a
+computer generated nonsensical domain name with letters and numbers and
+so it wouldn’t be picked up by the clearing house. It wouldn’t be susceptible to
+UDRP or URS. The infringement is going on in the subject line which refers to
+a very well-known corporation.
+Now, when you look at the actual email, some of them pretty transparently
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 19
+
+phony, but some of them, particularly the ones that relate to financial
+institutions and social media, are very sophisticated and can fool a lot of
+people into thinking it is from their bank or it is something to do with their
+social media account and I don’t know, I don’t think it’s within our charter but
+what should ICANN generally do about that type of infringing phishing activity
+that has arisen using certain new TLD’s that’s really not covered by any of the
+RPMs?
+We’re not really chartered to think about new RPMs, but I just wanted to raise
+that question of what about things we’ve noticed about troubling uses of
+some new TLDs that aren’t covered by any of the RPMs?
+J. Scott Evans:
+
+Anyone have – my personal belief – this is J. Scott Evans speaking as
+someone who’s been at ICANN and as a – doubly not as trying to persuade
+anyone – way – one way or the other is those are issues that we should note.
+And I think we should probably say that we – well whether we believe or we
+don’t believe they’re inside or outside ICANN’s ambit, because I think what
+happens is then the GAC or somebody then needs to understand that that’s a
+problem that we don’t think ICANN can fix, but it’s a problem that needs to be
+fixed and then maybe the local jurisdictions or the local governments need to
+fix it.
+And I think we have to identify those if we stumble across them but I don’t
+think we can create new things that are outside of the ambit. And I wonder
+since we’re the domain name administrator if we can start dealing with
+infringement that happens in a subject line.
+
+Philip Corwin:
+
+And I may agree with that. I, you know, certainly you had a – went into a
+meeting and there’s hundreds of exhibitors and there’s many, many
+competitors out there providing very sophisticated tools for trademark owners
+to – that can pick up that kind of spam activity.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 20
+
+So it may be completely outside ICANN’s remit but it, you know, at least it –
+but it does relate to, you know, unhappy uses of some new TLDs and we
+should always note it and decide what if anything we should do whether it’s
+just something that the private sector has to deal with.
+J. Scott Evans:
+
+I think Mary had something from the remote.
+
+Mary Wong:
+
+Actually there’s couple of remote participants but it relates to an earlier point
+and goes back to your question J. Scott and Ellen and Jeff’s comments
+earlier about whether some of the questions that have been raised are indeed
+within the scope of this policy-based working group, or whether it’d be more
+appropriate to be referred to another policymaking group such as the new
+gTLD subsequent procedures or even moved to implementation.
+The comment is from George Kirikos who disagrees with Ellen and with Jeff
+because he says that, “If for example that that could mean that other groups
+could be making the so-called tweaks to the UDRP or the URS, that might
+more appropriately be done by this group.
+And if there are going to be changes they should be very explicit and not
+leave it to some other PDP or working group.” And then there was some
+subsequent discussions between George and Jeff on this in the Adobe chat.
+
+J. Scott Evans:
+
+Jeff did I see your hand go up?
+
+Jeff Neuman:
+
+Thanks. This is Jeff Neuman. I actually didn’t want to respond to that
+particular point. I wanted to respond to Phil. I think the issue you’re referring
+to Phil is actually an issue not just with new gTLDs, but I would think it is also
+a huge issue with gTLDs in general and ccTLDs.
+So I would hate to note it when dealing with just new TLDs without a full
+understanding of the entire problem, but I do think that that’s way beyond this
+group anyway.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 21
+
+I’m not going to say it’s beyond ICANN. I don’t want to get into that whole
+mess but it’s certainly beyond the remit of this group.
+J. Scott Evans:
+
+I – we have one gentleman before you (Ellen) and then we will come to you.
+
+(Brian Tamal):
+
+Yes (Brian Tamal) with PIR. Just to Phil’s point I do think while it might be
+outside this group’s focus I think it – what you’re describing sounds a lot like
+spam or phishing and that would be technical abuse that should be covered
+under Spec 11.3(b).
+It’s – I think it’s covered under ICANN but not necessarily this group’s remit.
+Ellen?
+
+Ellen Shankman: To address – to respond to those comments I’m not saying what is
+appropriate for – or do I think this group should spend a lot of time thinking
+this isn’t a remit or not.
+I would just encourage people to not put the cart before the horse, which is
+first focus on what the problems are, figure out what the needs are, figure out
+what needs are being addressed or not.
+If we can address them address them and if we can’t at least as you say
+identify them as needs that are going unaddressed so that people understand
+that the needs remain.
+J. Scott Evans:
+
+Okay are – is there anyone else that has a comment on the Trademark
+Clearinghouse data they think we should gather, who we should gather data
+from, issues they think we should consider? Anyone?
+Okay and Susan what I heard come out of this discussion – the only
+takeaway I’m hearing is to consider perhaps a data – some sort of survey or
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 22
+
+something to gather data from different groups that your group should
+discuss and consider.
+That’s the only takeaway. I mean, am I correct in the room? Am I – that’s the
+only takeaway I’m really hearing. Susan.
+Susan Payne:
+
+Well I – as – I have one more which is, you know, we know there’s an
+independent review of the Trademark Clearinghouse underway and I know
+they’ve reached out to various people and asked for various information and
+say, “I don’t want us to be duplicating some work that’s already been done.”
+So we clearly need to communicate with them I would say.
+
+J. Scott Evans:
+
+I would ask that we set up a call with our data gathering group and this
+independent review group, and have them have a discussion together that
+they would then report back to the whole group.
+I think if we keep it small they’ll get more – it’ll be a more robust and fruitful
+discussion and then they can come back and report back to us what you find
+out as part of your data gathering.
+Susan does that make you more comfortable? I’m seeing – okay I see Lori
+and then I’m going to move us on after that okay? Lori?
+
+Lori Schulman:
+
+Lori Schulman for the record. I want to respond to your two suggestions
+about surveying institutions generally. INTA has already been asked by the
+CCT group to do a survey to our members in terms of the costs of defensively
+living in this space.
+So if your group is considering reaching out to indirect or most any of the
+groups, I think it would be really helpful to those group representatives to
+maybe work on consolidating the requests, because I think what will happen
+institutionally – there’s some wear and tear on members in terms of survey.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 23
+
+So in order to really help the community in general perhaps it might be a
+good idea that we all sat down to think about what we might want and include
+them in surveys that are – might already be planned and get it done sooner
+rather than later.
+J. Scott Evans:
+
+Lori could I call upon you to reach out to our data gathering group and sort of
+let them know who you’ve already talked to about surveys so that we can do
+some coordination on that level? Would that be good?
+
+Lori Schulman:
+
+That would be wonderful.
+
+J. Scott Evans:
+
+Great. With that I’m going to move us on to look at the trademark claims
+notice. You see here we got two points out of there. For Registrars
+implementing trademark claims these currently have limited and very low
+validity period that affect this to prevent some of the marking activities that
+usually are performed by Registrars.
+I’m not sure – completely understand this but I think some people – I think
+this relates to the issue of people farming the Trademark Clearinghouse
+information to use that for their own purposes beyond that for which it was
+designed.
+Is - that sort of seem what they’re talking about there? I think I’ve heard some
+people did things like looked in the Trademark Clearinghouse and then put
+those on a list and then they charge expensive premium for.
+They sort of use the information from – for things it was not designed for and I
+think that’s what that bullet point’s trying to get to but I’m not sure. The
+working group should talk to Registrars and maybe even like track down
+users who have been – who have seen the notice and ask them their reaction
+to it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 24
+
+And I just want to say for the group – Brett if you would repeat what you said
+to us on Monday up at the dais so that the whole group can know what your
+experience is and what you’ve offered for us.
+Brett Fausett:
+
+Hi Brett Fausett, Registry. I went to Dot Mom back in May and I was telling J.
+Scott at the session the other day that we had reached out to prominent mom
+bloggers to see if they would be interested in, you know, registering their
+name in Dot Mom and helping us promote it.
+And we found – I think one of the examples we had was Swoon had
+stylemom.com and we said, you know, “Would you like style.mom?” And she
+said, “It’s great. That’d be wonderful. That’s actually perfect for me.”
+And then we showed her the claims notice and she freaked out and we – so,
+you know, told her we couldn’t offer legal advice but, you know, this is what
+the purpose was.
+And eventually she took the name but yes that’s the kind of – and that was a
+first hand reaction of someone, you know, sitting with them while they saw
+that claims notice and they thought it was a – some sort of legal demand.
+It had a – for someone who’s not a – in the law business it can be a
+intimidating thing to see. You don’t know what it is. It’s not something you’re –
+even if you’ve registered a name before it’s not something you typically see.
+So I think that we ought to perhaps think about a – maybe a softer way of
+presenting the information.
+
+J. Scott Evans:
+
+I would suggest that that might be something and I would – and when we get
+to this – covering this issue I had planned to ask Jeff Neuman to give us a
+presentation on how they had run it in Dot Biz, which is where trademark
+claims notice originally came from.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 25
+
+So we could talk about it and see how it was originally conceptualized and to
+see if it’s gotten so complicated that it’s not really serving the same purpose.
+But we’ll get to that but I think that’s a good point and I think that’s a good
+illustration of how sometimes good things can go bad, because I personally
+think that what happened is we’re trying to give them so much good
+information that it actually has the negative effect but that’s my personal
+opinion. I saw Jeff’s hand go up.
+Jeff Neuman:
+
+Yes I’m – I think the bullet point – sorry Jeff Neuman. The bullet point on the
+low validity periods is partially related to marketing but it’s also partially
+related to not having Registrars have a default acceptance anytime someone
+looks up that name.
+So I think the main point is I think there are some technical issues with the
+trademark claims and sunrise and how Registries and Registrars interact with
+the – with IBM for the database part of the TNCH not the validators, that
+either this group can break into a technical track or it could be referred to
+subsequent procedures to break onto a technical track.
+But I think there definitely are some issues that were brought up. I can’t
+remember if it was the face-to-face meeting we had or a call where there
+were some technical issues that were brought up on what it’s like to have a
+centralized provider versus the decentralized solution that was originally
+proposed and how this encryption and the keys work and all of that.
+I definitely think there is a technical track that we should create like I said
+either in this PDP or in the subsequent procedures that can tackle those
+types of issues.
+
+J. Scott Evans:
+
+Jeff could I call upon you to take that bullet point and sort of turn it into like a
+little executive summary of some of the technical issues so that when we get
+to this – when we get to it on our work plan that’s one of the first things we
+can consider?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 26
+
+But I think this sort of assumes a lot of things and has a lot of assumptions
+built into it. If you’d break it down for us knowing that many of us are not
+technicians so that we have a better understanding so we go to discuss it we
+can decide whether we’re going to push it, whether we’re going to do a
+technical track or whatever. Can I call upon you to do that for us?
+Thank you. I think we have someone online that has a comment and then I
+see Phil’s hand’s up.
+Mary Wong:
+
+We have another comment from George Kirikos in this chat in Adobe and I it
+relates both to the earlier data gathering point as well as the current
+discussion on trademark claims.
+His comment is that, “It’s probably more effective to collect data now rather
+than later and that it probably is possible. If for example a prospective
+Registrant decides not to register a domain name due to a trademark notice,
+the best means to understand that decision is to collect the data at the time
+such as by the Registrar or some independent party.
+We would of course need some cooperative Registrars who would be willing
+to implement that into their registration path today.” So that’s George’s
+comment.
+And if I may add a comment from the Staff side that J. Scott you mentioned
+earlier that there was some liaisons between this PDP Working Group and
+the PDP Working Group on new gTLD subsequent procedures.
+…Payne and I see Susan in the room so that’s one means that this group is
+coordinating with other efforts. And on top of that I wanted to mention that
+internally amongst the Staff we also have a coordination group of sorts and
+we meet very regularly, and we are being coordinated at the moment by
+Karen Lentz who is in the room as well.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 27
+
+J. Scott Evans:
+
+Thank you. Phil?
+
+Philip Corwin:
+
+No actually I’m glad Mary brought that up. I want to – I also had noticed
+George’s comment and wanted to speak to it. I thought it was useful in that,
+you know, if someone – now if someone has an existing relationship with a
+Registrar and logs in where they know the customer, you could go to them
+after the fact if they begin a registration and don’t complete it after receiving a
+claims notice.
+But in the vast majority of cases somebody goes to GoDaddy or eNom or
+some Registrar and does a search for a name they’re interested in and sees
+it’s available and starts the registration.
+Claims notice pops up and they disengage and there’s no way for that
+Registrar to have any idea who that is so - to go back to them. So if there is a
+way for Registrars to build into that process some way when someone – to
+put up a popup that says, “If you decide,” you know, to accompany the claims
+notice saying, “If you’re – if you are weary of this we have an information
+page or would you be willing to answer questions about why you didn’t
+complete the registration?”
+That might be useful because for most potential Registrants there’s not going
+to be any way once they leave the Registrar Web site to ever know who they
+were if they haven’t completed the registration.
+
+J. Scott Evans:
+
+I – this is J. Scott speaking as a guy who deals with e-commerce platform
+providers as my client and has to try to get them to put all the legal stuff at the
+payment page.
+And I can tell you that most e-commerce gurus would tell you that is a
+sticking point they don’t want to add to their checkout process, but that would
+just be – well…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 28
+
+Philip Corwin:
+
+Just to counter that though I think if you’re a Registrar and if you’re losing a
+completely valid registration because someone misunderstands the notice or
+is just spooked by the possibility of violation trademark law, it would be in
+your interest to try to gather that information and try to provide some
+explanation.
+
+J. Scott Evans:
+
+Okay. Then I would say to Susan and the data gathering group if we might
+reach out to some Registrars to see if they might be willing to participate in
+some data gathering of that methodology. So that’s a takeaway I’m getting
+from that. I see Beth.
+
+Beth Allegretti:
+
+Beth Allegretti. Is it possible to change the wording of the notice and if so who
+would do that?
+
+J. Scott Evans:
+
+We would and that’s something…
+
+Beth Allegretti:
+
+Okay. Right. We would…
+
+((Crosstalk))
+J. Scott Evans:
+
+…that we’ll consider when we get there but I think we need to get some data
+gathered just to ensure. Brett?
+
+Brett Fausett:
+
+Yes I think on the data gathering you would want to know the percentage of
+people who back out of their cart when presented with a claims notice versus
+the people who back out of their cart just normally, because you need both
+figures to see if there’s a difference.
+
+J. Scott Evans:
+
+Okay Susan did you hear that that we need to get - one of the data points is
+probably the percentage of people who back out of their cart – their shopping
+cart once they’re presented with a notice versus the number of people who
+just back out of their cart?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 29
+
+Jeff Neuman:
+
+And some people do it anyway.
+
+J. Scott Evans:
+
+Right. All right. So I’m going to – (Nick).
+
+(Nick):
+
+Just a quick point. There are some people I think from the Clearinghouse
+here. Shall we ask them what data they might be able to give us easily that
+would be helpful?
+
+J. Scott Evans:
+
+I am happy to do that but I don’t think I want to do that today. I do want to
+reach out to them at some point and I think our data gathering group should
+reach out to them and ask them that question, because I want to move us on
+so that we can take our coffee break and then come back and delve into the
+PDDRP.
+So Susan if we can just, you know, have the group reach out to the
+Trademark Clearinghouse providers and find out what type of information
+they can provide to us.
+
+Susan Payne:
+
+Just as a point of clarity I’m not the chair of that group or anything. It’s – I’m
+not actually sure who’s on the group but yes I’m sure once we all get together
+we’ll do that.
+
+J. Scott Evans:
+
+Okay. I just keep pointing to you because you’ve done that. I’m not trying to
+make you chair, but if somehow since you’re here when you all do discuss if
+you would bring these things forward to them. Okay thank you.
+Then let’s move on to the Uniform Rapid Suspension System. Your
+consideration should be given to how to convert a URS to a UDRP. I’ll put the
+trademark owner first in line when the suspension is lifted or have some
+mechanism to get someone the name that they want after they’ve won the
+URS.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 30
+
+And for those of you that may have not been there Monday let me put this
+into context. I think it was a Registry operator who stated that they’ve had
+situations where the true owner of a name has been successful in the URS.
+But because of the way it’s written and the way it is implemented they cannot
+then give it to the rightful owner and they want to but they can’t. They’re
+prevented from doing so and this is a frustration both for the party who filed
+the URS, and for the Registry who really wants to get it into the hand of the
+proper owner. So that’s that point there. Beth.
+Beth Allegretti:
+
+Beth Allegretti. I think that’s the key point with the URS is getting that name –
+being sure that you can get that name back. I know that a lot of businesses
+don’t use it just for that reason. I think that’s key.
+
+J. Scott Evans:
+
+Yes ma’am.
+
+(Annabeth Polovich): (Annabeth Polovich) representing (MSSID) and one of the URS provider
+and this is one of the question that we receive after the districts are
+concluded.
+So this is the first teammate I received the next day after the determination.
+What can we do to get the domain name?
+J. Scott Evans:
+
+Two hands here and then I see a hand there and then I see this one and then
+I see Brian so we’ll go with Denise for…
+
+Denise Michel:
+
+Just quickly Denise Michel with Facebook. I just wanted to support and
+underscore Beth Allegretti’s comments. Not being able to get the name back
+after the URS is a significant impediment for using that service.
+
+J. Scott Evans:
+
+Yes sir.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 31
+
+Maxim Alzoba:
+
+Yes Maxim Alzoba for the record. Actually there are two things which might
+be useful to be clarified for the end users of the URS – yes potential users.
+So nobody reads the frequently asked questions on the URS provider site
+unfortunately and they do not – most people do not know that you can file
+more than one name, more than ten names actually the one time.
+And they do not read the line in the very bottom. “If you want to keep the
+name consider UDRP.”
+
+J. Scott Evans:
+
+Ellen and then Brian and then Phil and then Mary.
+
+Ellen Shankman: Ellen Shankman. I think more than any of the other rights protection
+mechanisms the URS is the one that I think would benefit most from meeting
+what’s the mentor that will identify it at the time, including being that many
+brand owners did not want to get their – that domain name and wanted a
+procedure that didn’t have it and what eventually happens with the URS and
+how it got that through.
+I mean, I think that that of all of them had the biggest gap between identifying
+the needs that needed to be met and how it eventually played out, and I think
+that that one would be the best to see whether or not the needs that were
+identified then and the needs that have been identified since then can be met
+by an approved URS.
+J. Scott Evans:
+
+Okay I think Brian’s hand and then Phil and then (Mar) and I saw Petter.
+
+Brian Beckham:
+
+Thank you. Brian Beckham for the record. Just to dovetail in what Ellen said I
+think one of the questions - if we’re asking how to quote convert the UDR –
+the URS into a UDRP in terms of the transfer remedy, one of the questions
+we ought to be asking is is there a point at which we can be asking too much
+of the URS?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 32
+
+And going back to Ellen’s comment the original intent was that this was a
+complement to the existing UDRP where a trademark owner can get the transfer a domain name into a – into its portfolio.
+Some brand owners want that. Some would rather not hold defensive
+registration portfolios. Around the time when the rights protection
+mechanisms were being first introduced for discussion, WIPO also introduced
+a proposal for a very unfriendly URS whereby if there was no response,
+which we see in almost 80% of cases, is there a need to appoint the panel to
+render a decision or could the domain name simply be suspended like you
+have in the DMCA context with appropriate safeguards where Registrants
+maybe haven’t received notice because it goes into their spam box or they’re
+on vacation?
+So the question really is what is the intended function of the URS? Is it meant
+to replace the UDRP in which case that opens up a very big discussion, or is
+it meant to complement the UDRP as a more narrowly tailored rights
+protection mechanism?
+J. Scott Evans:
+
+It’s funny you read my mind because I was going to throw out to the group
+not for discussion today but what I think is the elephant in the room. If you
+had a default judgment - for those not in the United States if you had a
+judgment that was issued basically by the provider when there’s no response
+filed, they just resolve the case and then resulted in money being returned
+because there’s not a full case done.
+Some money would be returned to the complainant. Would there even be a
+need for a URS? Okay. So I just put that out there for when we get to think
+about it and we start – because we’re doing the URS right before we do the
+UDRP and there’s - a reason for that is because they are the - closely
+complemented.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 33
+
+But that’s what I put out to you to think about over the next year as we get
+closer to that. If there was a default judgment that acted as an expedited,
+cheaper way for trademark owners to win in the UDRP would there even be a
+need for a URS? And then I think it’s Phil and Mary and Petter. Yes and then
+we’ll go to the Forum.
+Philip Corwin:
+
+Thank you. Phil Corwin and I’m speaking now in a personal capacity that’s
+informed by my experience within ICANN and the BC and INTA and also with
+Council to the Internet Commerce Association who are professional domain
+investors.
+This is worked out. It’s Uniform Rapid Suspension, not Uniform Rapid
+Transfer. It doesn’t mean we can’t think about transfer again or at least first
+dibs to purchase at end of registration period.
+There’s different ways to do this and different consideration - one that I’ve
+suggested and that’s gain some support within the Business Constituency
+that if it’s not a generic term at issue, one that might be used for infringing or
+non-infringing purposes but one that’s microsoft.com, google.com, there’s,
+you know, it’s not – I shouldn’t say Dot Com.
+It’s Microsoft or Google Dot New TLD and there’s almost no way you can
+think that it could be used for any amount - infringing uses except by the
+trademark owner.
+Maybe it should just be taken – shouldn’t be available for reregistration, that
+is the trademark owner doesn’t have to require it and pay perpetual defensive
+registration costs and they’re not going to see it registered, you know, and
+have to bring another URS or UDRP.
+And maybe there’s a good case to make that if they want to acquire it that
+they should have first dibs but we have to be – there have to be safeguards
+because I know from the trademark owner’s side there’s nothing they hate
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 34
+
+more than someone registering a new TLD for $0 or 5 cents, and then they
+have to spend $500 on a URS or $1500 on a UDRP filing fee plus attorney’s
+costs to stop just blatant infringement.
+I know from the domain investor side there’s nothing that drives them crazier
+than having a domain that they’re using in a non-infringing way and
+somebody – and it’s registered ten years before a trademark.
+And then somebody registers it for a trademark for something else and offers
+them some money, and it maybe that he think is insufficient and they have no
+interest in selling a domain and then they’re hit with a UDRP, and they have
+to spend money on attorney’s fees fighting a hijacking attempt.
+So we don’t – I know from the Registrant – professional Registrant side they
+don’t want to see URS turned into a quick and cheap way to attempt domain
+hijacking.
+And we’re going to have to keep the balance and keep a fair system for both
+sides because one question we’re going to have to deal with down the road,
+and I think we have discretion whether we deal with it at the end of Phase 1
+or in Phase 2, is whether URS or any of these other RPMs should become
+consensus policy and applicable to the big legacy TLDs.
+So I just wanted to get those thoughts out there. I’m open to anything but we
+just have to keep reasonable safeguards and a balance between the rights of
+trademark owners and Registrants as we consider changes. Thank you.
+J. Scott Evans:
+
+And Mary.
+
+Mary Wong:
+
+Thank you J. Scott. This is Mary from the Staff. There are comments from
+George Kirikos and I’d like to follow them up with a note from Staff as well. So
+George has a comment on this thread of the conversation.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 35
+
+He disagrees with the transfer of the name because as he’s noted that this
+would then replace the UDRP, and he notes further that the protection for
+Registrants in a UDRP are not present in the URS.
+Further he also notes that due process demands that a review should still be
+done even when there’s no response, because all too often Registrants are
+not properly served with a URS notice.
+And he notes that we should take a look at how often extensions of time are
+asked at the U.S. PTO or in court. His final comment on this point is how
+would trademark owners like it if one could cancel their mark for $100 filing
+fee of limited evidence?
+J. Scott Evans:
+
+Okay I think it would…
+
+Mary Wong:
+
+Can I follow with a Staff note? Just a very brief note that into – in relation to
+this suggestion from Monday that you see on your screen, the list of topics for
+our working group that is in our charter does touch on this, as well as part of
+a broader question about whether the URS should allow for additional
+remedies or other remedies such as the transfer or right of first refusal.
+
+J. Scott Evans:
+
+Great. Petter?
+
+Petter Rindforth: Petter Rindforth. First of all I think we have to have in mind that it’s a Rapid
+Suspension System. It’s – so it’s important to keep the UDRP and the URS
+aside.
+They’re two different kind of systems which is different kind of objects. And
+even if the transfer in the URS is not possible also think about when the
+domain name is suspended.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 36
+
+There is on the Web site - there was connected to that – there’s a new site
+getting up stating that this site is suspended and then there’s a short
+information about the URS system.
+So it’s not just that you can’t find the domain name or the Web site. It’s
+actually informing that this has been a misuse of this domain name in a
+certain way.
+And for some time that’s what you see when you search for it. And I think
+might get – I’d just like a quick – go through the difference between the
+UDRP and the URS.
+I saw the initial questions here but I think also it’s important I remind that with
+a URS the burden of proof is clear and convincing evidence. It’s rather a little
+bit a higher level than for the UDRP.
+And when it comes to the UDRP the complaint word limits is 5000 words.
+With the URS with the clear and convincing evidence it’s 500 so that means –
+well of course for employers it should be a good experience to be more
+clearer and then put away some of the discussion parts of our evidence.
+But it’s a little bit contradictive in this way and so I think we should be very
+clear about the URS system as a whole and also the very – the short time
+limits to make a decision and us having in mind that panelists for both these
+kind of dispute resolutions process – we go through the whole case.
+We don’t just look just because there’s no reply from the domain holder. We
+order a transfer or we order a stop. We go through all the comments and you
+can also see from the URS cases that most – each one and every one is
+definitely when it comes to the first phase are decided on behalf of the
+complainant.
+J. Scott Evans:
+
+Okay I think Petter Rindforth had a comment.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 37
+
+Petter Rindforth: Yes thank you J. Scott. This is Petter Rindforth from Forum. Related to the
+same subject we are getting some questions between the URS and UDRP
+and to how – as they – they’re currently written how they interact with each
+other.
+I don’t think there is anything in the procedures currently that prevent a UDRP
+filing after a successful URS suspension. So as a provider we can’t really
+prevent the trademark owners from filing a UDRP, but if they do get a
+favorable decision in the UDRP while the URS suspension is still in place the
+interaction between the Registrar, the Registry and the decisions between the
+URS and UDRP become fairly complicated.
+And so the working group could set – shed some light for all of us I think: the
+providers, Registry and Registrars and – as to how to handle the URS and
+UDRP in conjunction with each other as they’re currently written. Thanks.
+J. Scott Evans:
+
+I think that’s a excellent point because as a member of the IRT I can tell you
+one of the things we thought was, “Well if you really want the name you could
+still bring the UDRP.”
+But then I think when it got to implementation nobody told the Registrars and
+Registries exactly what they should do in the event that happened. And so I
+think that’s the point you’re making is if we decide they can be used
+conjunctively, we need to help out the Registrars and Registries with some
+implementation ideas of how to make that work fluidly so that we know what
+the communities expect. That’s what I’m hearing from you. Is that correct?
+
+Petter Rindforth: Exactly and I think recently we are seeing a couple of cases that are currently
+going through that process. It will be interesting to see how it all pans out.
+J. Scott Evans:
+
+It would be great if as – when we get to this if those have been resolved if you
+would share that with us as a case study please.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 38
+
+Petter Rindforth: Yes. Sure. Absolutely. Thanks.
+J. Scott Evans:
+
+I have Phil’s hand and then I saw Jon Nevett’s hands.
+
+Philip Corwin:
+
+Yes. Two quick comment and - on URS and the administration. The Uniform
+applies to uniform administration. It means that no matter which dispute
+resolution provider you pick it should basically be the same result at the end.
+It shouldn’t – we want folks to pick the provider based on convenience or
+they’re dealing in a language that another one doesn’t deal with or something
+like that.
+We don’t want forum shopping based on different qualitative treatment. I think
+we also need as we’re gathering data in advance of our URS review to look
+at if the providers have been sticking to the standard.
+The standard is they have to find that there’s been bad faith registration and
+use by clear and convincing evidence. From what I’ve seen, and I don’t look
+at every URS decision, I think the vast majority of decisions they’re sticking to
+it.
+But I also have to say I’ve seen a few decisions where I wasn’t so sure it was
+a black and white case. It was more kind of shades of gray that maybe
+should’ve been sent to the UDRP.
+And I’ve seen one or two where there was no use of a domain and yet there
+was a decision against the Registrant. So I think we want to look at if it’s
+been, you know, the providers are enforcing the cases as per the prescribed
+evidentiary standard and if not well what ICANN – I know there’s an MOU
+between ICANN and all the providers but we don’t know.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 39
+
+Just like we want to see contractual compliance with Contracted Parties,
+Registrars and Registrars we want to see some compliance effort if a dispute
+resolution provider is getting off the reservation on how they enforce an RPM.
+Thanks.
+J. Scott Evans:
+
+John.
+
+Jonathan Nevett: Thanks J. Scott. Jon Nevett from Donuts. Just want to respond to Petter. The
+thinking when we drafted the URS back in the day on the IRT and
+subsequently in the FTI was that the standard would be exactly the same.
+You have to prove the same thing between URS and a UDRP, but the burden
+of proof was different. The burden of proof, as you mentioned, is clear and
+convincing for a URS.
+And the reason for that was we were looking at, and (Alan) always liked using
+the term slam-dunk cases, we wanted a quick, easy way to take down a case
+of infringement for a slam-dunk case. So if you can't say it in 500 words,
+thinking was if you can't say it in 500 words maybe it's not a slam-dunk case,
+maybe it's not what we intended for the URS. So the thought was, you know,
+do a quick takedown, cheap, fast, easy for this - at the time (Brian) it was
+70% of cases that went un-responded to.
+And then if you wanted to follow up, as J. Scott said, if you want to follow up
+with the UDRP to get the name, that'd be a little longer process. But we
+wanted to get the takedown process quickly and easily for trademark holders,
+and that was the thinking back down. And, you know, we can talk about how
+we did. I just looked at our stats from (Donuts), we've had oh it looks like a
+little over 200 URSs with a 90% success rate so far. So people - some people
+are using it.
+J. Scott Evans:
+
+Okay with that I'm going to call a break and everyone has 15 minutes to
+check your e-mail if you're not doing that right now, play on your Facebook.
+Unfortunately we don't have coffee in the room. I'm not responsible for that so
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 40
+
+I apologize to everyone, but I do think there's a café downstairs that sells
+coffee, so. Let's all take a break. We'll meet back here. And when we come
+back we're going to focus on the PDDRP. Thank you all. And for those on the
+phone, take a break.
+((Crosstalk))
+Man:
+
+How long are you targeting this working group, or do you have an estimate of
+that?
+
+J. Scott Evans:
+
+Yes we're estimating phase one on the new TLD (unintelligible) finishing all
+the work about a year from now. We have the final report recommendations
+(unintelligible).
+
+Man:
+
+We haven't even - it's impossible for us to even estimate phase one of our
+PDP.
+
+J. Scott Evans:
+
+No it's a multiyear process. But it's interesting work and it's important and the
+thing is I told everybody (unintelligible) whatever changes we recommend
+and ICANN adopts, don't expect that's going to be the rule (unintelligible).
+Nobody's coming back anytime soon. So whatever tweaks we make,
+decisions we make, that's it. (Unintelligible) I mean I'll probably be gone off
+the planet before (unintelligible).
+
+Man:
+
+And also it's important work.
+
+((Crosstalk))
+J. Scott Evans:
+
+Ladies and gentlemen, we're going to start in about five minutes, so if you'll
+start wrapping up your conversations. I do notice that they brought snacks
+and things over here in the corner if you'd like to help yourself before we get
+started.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 41
+
+((Crosstalk))
+J. Scott Evans:
+
+If everyone could start making their way back to their places we're going to
+start in a couple minutes, please.
+
+((Crosstalk))
+J. Scott Evans:
+
+I just want to check administratively, are we still recording or can we start the
+recording? If someone will give me a thumbs up. There we go. All right. This
+is J. Scott Evans. I am one of the co-chairs of the Review of All Rights
+Protections Mechanism Working Group. This is our face-to-face meeting here
+in Helsinki. It's June 30, 2016.
+We've just finished about an hour and 20 minute discussion going through all
+the rights protection mechanism and some of the issues that were brought
+forward at our meeting on Monday. I have been - I told everyone we're going
+to move to the PDDRP discussion, but I did get a request from WIPO that
+they could respond to Phil's comment about the consistency of decisions and
+the importance of that. So with that I'm going to turn it to Brian Beckham, and
+then after that we're going to turn right to the discussion on the PDDRP.
+
+Brian Beckham:
+
+Thank you, J. Scott. Again, Brian Beckham for the record. I just wanted to
+respond briefly to the comment from Phil. With the U in uniform, I'm not
+entirely clear on the history with the URS but certainly with the UDRP, that's
+meant to mean uniform across all top level domains. So before the UDRP
+there were different dispute resolution systems being managed by registries
+and registrars. The UDRP came in to provide a global disputes resolution
+mechanism across all top level domains.
+And so I think it's just important to be careful about when we talk about
+uniformity of decisions, this of course is an area of the law, trademark law,
+particularly where there are differences of opinion. Not every decision is
+going to be decided exactly the same. There are different sets of facts and
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 42
+
+circumstances involved. There are external experts that look at these cases.
+So there will be differences of opinions in these cases.
+And finally in terms of the suggestion about checks on providers where there
+are differences in the decisions themselves, I know certainly for our part, we
+have an annual training meeting where we get all of the UDRP panelists
+together. We also provide a jurisprudential overview that assists the parties
+and the panelists in their pleadings and in the decision-making process.
+And so I think the question is not so much about what is the provider's role,
+because the providers are neutral adjudicatory bodies, they administer the
+disputes. The cases are actually outsourced to external experts to render the
+decisions. So to the extent there might be questions about similarities in
+decisions and outcomes, maybe one of the areas to look at in the URS is is
+there a need for training of panelists like we do for the UDRP.
+J. Scott Evans:
+
+Great. Just for the record I want to correct a little factual information that you
+just said. Prior to the UDRP there was only one registrar and one registry, so
+there was - it was uniform but we were getting ready to introduce competition
+into the registrar level, which is why we wanted something that would apply
+across everyone.
+And before then, there was no dispute mechanism. You had to go to federal
+court in the United States, no matter where you were from. That was your
+only remedy. And that's the reason we went with this because it was very
+expensive both for the registry and the registrar who got pulled into the
+dispute and for the trademark owner as well. So just a little factual information
+there.
+But I think your point about training is an excellent one and one that we
+should consider, and that is certainly a recommendation that I think that we
+could make and I think it's also an obligation that we could put on ICANN. It
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 43
+
+certainly has enough funds that educating panelists would be something that
+would be good for the community, I believe.
+All right with that we're going to - Petter Rindforth, I'll let you have one
+comment and then we're going to move to the PDDRP.
+Petter Rindforth: Just one quick comment. First of all, there is for all these new dispute
+resolutions (unintelligible) educational sites for panelists but then also for the
+dispute resolution providers that I know about, they have annual meetings
+with the panelists, going through the cases and updates. And although it may
+not be as long as the annual WIPO meetings but it is some hours. And if
+there's a possibility to have a more common yearly further education, that's
+good. But the panelists are not without any (unintelligible) or competitive
+education on these cases.
+J. Scott Evans:
+
+Great. All right with that let's turn to the PDDRP. As - I don't know who was
+on our last couple of calls or not so I'm just going to sort of let you know
+where we are, and also for I guess the observers in the room to let you know
+where we are. We're looking at the PDDRP. What we have done is we had
+asked the providers who are in an agreement to be providers of the PDDRP
+to answer some questions for us.
+And so we got written responses from the WIPO, we had a live presentation
+from the forum, and then I think we had a written response from the Asian
+dispute resolution group well. And those should have been circulated to
+everyone. You should have seen those.
+What we've learned, just for the room, is that no one has used the PDDRP
+since its inception. We also have learned that there have been questions that
+the providers have gotten from people who have wanted to know what it is
+and we I think what I remember surmising was some people were concerned
+that there was no remedy available, there were only recommendations that
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 44
+
+you could get from the panel, not necessarily a remedy. And so that was
+discouraging to them.
+It was expensive and I think there were some burden of proof issues that
+were pointed out because it's a clear and convincing standard as well. So
+those are the issues that we've taken in and the information we've gotten
+from the providers. So is there anyone who has any thoughts on the PDDRP
+that are on the comments we've received from providers that they would like
+to bring forward now? Okay. Yes, Jeff?
+Jeff Neuman:
+
+Thanks. This is Jeff Neuman. And again, just to go back to some of the
+original work that was done on the PDDRP by the IRT. That's a lot of
+acronyms there. The reason why there were no remedies provided or why -let me go back a step -- the reason why ICANN imposes the remedies is so
+that the registry has some avenue to appeal those decisions. There is a
+dispute resolution mechanism in contracts between ICANN and the registries.
+So if it's ICANN imposing the remedy, then the registry then has the
+jurisdiction to appeal that decision, if you will, in its contract with binding
+arbitration.
+Absent that, there was no way that a registry could appeal a PDDRP decision
+by a panelist to a court. There's no cause of action. It's not like infringement
+or anything like that where a court would have jurisdiction. So there were a lot
+of discussions, and I'd be happy to go into in more detail as to why it was that
+IRT had not mandated at the time that the panelists or the providers were the
+ones imposing the remedy.
+
+J. Scott Evans:
+
+Thank you, Jeff. I have sort of stayed silent on this from my personal
+perspective so I'm going to sort of open it up right now from me speaking as a
+trademark and member of the IRT. I personally think that it hasn't been used
+but that's not evidence that it's not useful, right? I think also it is way too early
+to make a decision about whether it's non-use when some of the registries
+have only been online for about 18 months, whether it needs to be changed
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 45
+
+or -- because I'd change a lot of things about it if I had the time. If it needs to
+be changed or anything.
+I think my personal perspective is that it should be left in place as it is and
+maybe looked at again at another review time, because I just think it's too
+early and because we have had no cases under it, we can't really point out
+any flaws other than what we would say are theoretical flaws based on our
+own theoretical beliefs on what the policy should be doing. That's my
+perspective personally. I see we have someone at the microphone. I'd like to
+acknowledge them and then I'll go to Ellen Shankman.
+Man:
+
+(Unintelligible) from (unintelligible). You know, I made a comment yesterday
+about the fact that there must be an avenue to remove a TOD operator from
+power. You know, if it's abusing too much. And I certainly know of cases
+where that actually should be initiated. Maybe the registry operator could
+reform or not but there should be an avenue that makes sure that this could
+be the consequence, you know, if the registry operator did not reform. Under
+the (unintelligible) right now this is clear to the parties. It's so confused that
+nobody knows what to do if there is a clear pattern of misuse or you know,
+condoning misuse by the registry operator for this actually to take place.
+If there is no remedy by the panel, does that mean that the ICANN Board can
+make a decision or who can make a decision in this case if there is no
+remedy? I haven't understood that. I'm not sure if it is clear at all.
+
+J. Scott Evans:
+
+Thank you. I think there's a recommendation that goes from the panel to
+ICANN. Now, who would then ICANN - I don't think the policy specifies who
+that is. I would assume -- and here again, this may be an instance as we've
+pointed out with the URS UDRP situation -- that there's so much ambiguity
+my assumptions are incorrect, that it would go to contract compliance and
+they would be the ones that would make a recommendation within ICANN.
+But there's no stipulation in the policy for how it's handled I do not think. Jeff.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 46
+
+Jeff Neuman:
+
+Yes, I would agree with that - this is (Jeff Newman). I think again if we go
+back to the mindset in 2009, I think (Christine) had said it on the last call that
+really what everyone was upset about was at the time contract compliance
+wasn't doing anything. And everybody was trying to get contract compliance
+to do its job. And so the whole notion of having the PDDRP I remember these
+discussions clearly. We kept saying it wouldn't even be necessary to have a
+PDDRP if compliance did its job.
+Now we're in a very different environment. Compliance is doing a lot more of
+them than they did back then, you know, and so it's hard to imagine what it
+was like back then. But that's what it was. That's why it came into existence
+as (Christine) said on the last call.
+
+J. Scott Evans:
+
+Ellen?
+
+Ellen Shankman: Ellen Shankman. Then going back to why we did it was also we thought we
+wanted to have some (unintelligible) protection mechanisms going into the
+system and we wanted to have something that was going to be a catchall at
+the end, so that we had hoped the rights protection could filter out the abuse
+from the front end, but if it didn't then we wanted to have at least a catchall
+that would allow it to do it at the back end.
+And I agree with you that both why we had recommendations and that it may
+be too soon to do it. The hesitations that I've been hearing conversations
+about is that it's been described as a "nuclear option" and that nobody wants
+to do it because it's taking down (unintelligible) and people are afraid of doing
+nuclear options. I don't know if that's a correct label, but even if it is then I
+think the questions might be do you want to think about mechanisms for
+identifying steps that are shorter than the nuclear option that may lower
+people's resistance to trying to address the problem.
+J. Scott Evans:
+
+Thank you. Mr. Corwin?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 47
+
+Philip Corwin:
+
+Phil Corwin. And I want to thanks, Ellen, for that great segue into what I was
+going to say and am about to say, which is if it's (unintelligible) as a nuclear
+option one, the best use of nuclear weapons is to deter their use, of their ever
+needing to be used and if this is having a deterrent effect against really bad
+practices by registries and this is the only RPM that's directed against
+registries, rather than registrants.
+That's good when you survey the feedback from the providers on one hand
+who say the burden of proof is so high -- and we want a high burden of proof
+here if it's a nuclear option -- and the fact that the end result is just
+recommendations because then you get into a contract where you're really
+talking about shutting down a registry where they put a lot of money in
+establishing that registry and people have established domains there and
+you're really wiping the whole thing out. End result you want a high burden.
+On the other hand, I think maybe what's mitigated the need for better use has
+been better vetting of the applicants to make sure there were no obvious
+infringing registries up front and better compliance effort. So all of that is
+good, but I think back when I first got involved with ICANN, there was a
+collapse of a registrar called Register Fly.
+
+Man:
+
+Register Fly.
+
+Philip Corwin:
+
+Which was engaged in really criminal practices, where the executives were
+stealing - they were putting a lot of domains in privacy protection then
+registering them in their own name and taking the money and it was really
+terrible and we found out that at that time, ICANN had a nuclear option for
+registrars, which meant that it was rarely used because the only remedy was
+shutting them down completely and the REA was changed to provide you
+know, a number of different steps of enforcement with that being the last
+option.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 48
+
+So one thing we might look at here is whether there's some intermediate
+options to discipline a registry that's kind of questionable without going
+completely nuclear. Kind of a tactical option rather than a nuclear option. I'm
+not saying we should do it, but we should look at whether that might be
+advisable. And I do agree that it's way too early. If it's have a deterrence
+effect and that's mitigated against needing to actually us it, that's good and I
+think it's far too early in the new TLD program to think about eliminating this
+completely. That's a personal opinion.
+J. Scott Evans:
+
+Okay, I see several hands. I have a question first. Maybe I am incorrect, but I
+didn't think the only remedy or recommendation that could come from the
+PDDRP was the nuclear option. I think that is like the last thing that can
+happen and there are all these steps filled in. So the fact that people keep
+talking about the only recommendation you can receive is pull your - cancel
+your registry agreement, I don't think that's correct and I want to get that on
+the record that I don't think that's correct. And I'm going to come to you,
+(Jeff), and you can let us know. But I think first I had (Paul) and then I had
+(Christine) and then I have (Jeff), okay? (Paul.)
+
+Paul McGrady:
+
+Paul McGrady. I'd like to build on what both (Ellen) and (Phil) have mentioned
+and again, without addressing the issue about is nuclear the only, all that. I
+agree with you that without any data to know whether or not this thing is
+working the right way, the only data we have is that there haven't been any
+so again, that may be deterrence - that may be cost prohibitive. We don't
+know why there are no complaints under it yet and there's no way to sort of
+guess that.
+But I do think what might be helpful and what might help to ford deterrence of
+complaints under this - frankly that's never used and maybe it's the best
+policy ever right? Is what (Ellen) and (Phil) are talking about, which is some
+sort of intermediate step. (Phil) said discipline. I would even change the
+rhetoric a little bit and just talk about bringing a registry in the conversation by
+somebody who has a concern about something that's going on in that space.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 49
+
+And so some sort of active mediation method that we could tack onto this,
+rather than changing this. If we could tack on a mediation step where we
+bring registries and parties who feel aggrieved and maybe ICANN into the
+mix to talk about the problem prior to action. I think that would be a great
+thing. And the reason why I think that would be a great thing is because if an
+aggrieved party really has a problem that is irreparable and superbad they go
+to court, right? So is there any mechanism to handle the immediate problem
+that is irreparable injury if something terrible is going down.
+So I think a mediation step is consistent with the ICANN model of talking out
+your problems instead of the nuclear option, or even leading with a complaint
+against somebody. And so I'd like for us to consider that. And I also would
+like to agree with something that (Jeff) said earlier on, which was when this
+was built we were in a very different environment and ICANN Compliance is a
+very, very different portion of the organization now than it was. It is much
+more active and responsive and we've seen a big improvement in that space
+in the last four or five years. I mean it's just unbelievable.
+And so again, I think maybe the environment has changed so much here that
+we should be thinking more about dialoging with each other, rather than
+leading with something that is sort of automatically puts people into defensive
+positions. Thanks.
+J. Scott Evans:
+
+(Christine), (Jeff), and then (Denise).
+
+(Christine):
+
+(Christine) (Unintelligible) with (unintelligible) services speaking in my
+capacity as former director of the firm and not in any advocacy position, to tie
+exactly into what (Paul) was saying. When the PDDRP was drafted, one of
+the big things ICANN Compliance would always call people who contacted
+them was the only option rather than nuclear option. And this isn't worth
+cancelling the registrar's agreement or registry's agreement. And so that was
+one of the big complaints. So when this was drafted they actually did draft
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 50
+
+graduated sanctions into the PDDRP and I pasted the provision into the
+(unintelligible) that shows the graduated sanctions all the way from a simple
+conversation through just a temporary prohibition on registering domain
+names to a long-term suspension to eventual and the exact words are "in
+extraordinary circumstances cancellation of a registry's contract."
+So to be really clear, one of the, you know, we (unintelligible) that ICANN
+Compliance is significant when they address this problem but the intended
+purpose was to obviously create a list of graduated sanctions.
+J. Scott Evans:
+
+Thank you, (Christine). (Jeff)?
+
+Jeff Neuman:
+
+Yes thanks. So this is (Jeff Newman). Just to first go to (Paul)'s suggestion.
+Actually, the first step is sort of a medication that's built in there. I wanted to. I
+remember when I was on the IRT to build in a mediation but I think it was kind
+of shot down. And (Kurt) was on the side of ICANN so I don't know if he
+remembers those discussions, too. I wanted to bring ICANN more directly
+involved but that was not - ICANN didn't want to do that at the time and
+maybe they will.
+But the first step is that the parties have tried to work it out already and then
+they couldn't, so you have to have the complainant make a statement that
+says you've already notified the respondent and you've tried to work it out. It's
+been 30 days and you haven't been able to work it out. So that's already built
+in and we could actually emphasize that as a group.
+The second thing is I really want to make it clear, this is only for one very
+specific type of "bad behavior" and that is a registry essentially profiting off of
+trademark infringement that's going on within the registry. It's not meant to
+address any other bad behavior. It's not meant to address, for example, you
+know, trademark owners are not happy with the prices that our registry
+charges for Sunrise. It's not meant to address that. If we want to address that,
+that's fine -- we can do that some other way. But the PDDRP is not for
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 51
+
+registries as bad actors. It's registries that are bad actors that are also
+profiting off the infringement that's going on - trademark infringement that's
+going on. Not copyright infringement, not anything else.
+So it's very, very, very narrow.
+J. Scott Evans:
+
+I just want to make a couple of points. One, I think you're correct. But two, I
+disagree. I think this group can make it whatever it wants to make it. Okay.
+I'm going to go to (Paul) because he wants to respond to (Jeff). Wait, wait,
+wait. (Paul) to (Jeff), then I'll let (Phil), then (Denise).
+
+Man:
+
+So (Jeff) what's baked in now is negotiation. And in 30 days - I'm talking
+about mediation where there's a neutral, right? And then ICANN participates
+to the extent it's comfortable and the two parties, then we have a retired
+judge running back and forth trying to make the problem go away. So
+something a little more formal. Thanks.
+
+J. Scott Evans:
+
+(Phil).
+
+Man:
+
+Yes, a question for (Jeff). (Jeff), is it for any kind of trademark infringement
+and my understanding is that it has to be kind of intentional. You have to
+show that the registry intends to profit from infringement. It can't just be
+willful. One is that there's infringement going on and they're turning a blind
+eye to it but aren't encouraging it.
+
+Man 4:
+
+Correct. That's why I said when I said the registry profiting off of it, that was
+my shorthand way of saying yes, that it's intentional and it's not willful
+blindness.
+
+Man:
+
+But is it any kind of trade? Would it cover a kind of spam situation I talked
+about before or just infringing domain names?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 52
+
+Man 4:
+
+It's infringing domain names.
+
+Man:
+
+Okay so it's a pretty narrow type of trademark infringement.
+
+Man 4:
+
+Right now it's very narrow.
+
+Man:
+
+Okay. And my one other thought was that I don't know - we can ask GDD.
+One reason it may not be used is if it's expensive and time consuming, and
+the most likely immediate result is just to start a conversation, is there
+another way for a concerned party to think there is a registry that's you know,
+encouraging some bad practices to get GDD to start a conversation, or is this
+the only way to do so? So more data we need to gather to understand what's
+going on and whether we should fix it.
+And the last thing I want to say is that we're having this conversation now but
+at some point for this RPM and all the others, we're going to be asking
+participants in the working group and other parties to come to us with your
+specific suggestions for how you'd like to change each of these RPMs and
+we'll consider all of them. But there will be a time for each of them when there
+will be an opportunity to suggest this or that tweak or this change, narrow it,
+add this possibility and so start thinking about what you want to suggest to
+the whole group for as we approach that stage for this one.
+
+J. Scott Evans:
+
+(Denise), and then I'm going to the microphone.
+
+Denise Michel:
+
+Thanks. (Denise Michelle) with Facebook. Originally I was in the queue to
+clarify that there is a graduated sanctions involved in the PDDRP. Other
+options of course are (pick) DRP. But since I have the mic I just wanted to
+reinforce that I think it's important for this group to reach out especially to
+trademark holders and understand why these mechanisms are not being
+used.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 53
+
+We certainly know that there are registries that are profiting off of deliberate
+trademark infringement. I think the important question is the market is
+speaking and the market is not using these mechanisms. So I think it's really
+important to understand why.
+Man:
+
+Back to the mic. (Unintelligible) again from core (unintelligible). I think what's
+difficult to understand for people who look at this from the outside -- I mean
+from users -- is why limited to trademark if there is many other kinds of abuse
+that you know, quite, quite dangerous - quite problematic. And you know,
+being engaged in.
+And the other thing is of course in any registry there is not just bad users. So
+termination of the contract is kind of an option that had a lot of collateral
+damage. But people who were not concerned. Whereas redelegation would
+be the responsible way to address it. You know, so redelegation would be an
+appropriate avenue to make sure that registries are removed from a bad
+registry operator and put into the hands of a good one.
+
+J. Scott Evans:
+
+As chair I'm going to address specifically that I think broadening this policy
+beyond IP is way beyond our remit, okay? And I would say to the gentleman
+who has brought it up several times, if you believe there needs to be an
+avenue to address bad actor registries, then I think you need to be talking to
+the subsequent procedures group or another group that if they want to
+develop some sort of policy and it subsumed the PDDRP is one of the things
+you could complain about, I don't think any of us would have a problem with it
+being a broad policy where IP is just one of the tick boxes in a broader policy.
+But I think it's way beyond the scope of this group to even suggest that this
+PDDRP be some sort of general abuse policy because the name in our
+charter is very specific. And it's rights protection mechanisms and that's what
+we have to focus on. (Greg) had his hand up.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 54
+
+Jay Chapman:
+
+Thanks. Jay Chapman for the record. First, to point out that there are in fact
+three post delegation defeat resolution procedures. The one that we're talking
+about which it's full name is the Trademark Postdelegation Defeat Resolution
+Procedure. And then there is also the RRDRP which is a Registration
+Restriction Defeat Resolution Procedure where registry goes beyond what its
+stated registration restrictions are outlined in its registry agreement. And the
+(PFDRP) is also another form of post-delegation dispute resolution
+procedure.
+So there is a panoply and I agree only the trademark DRP falls under our
+ambit in this group. I was part of the group that formed this PDDRP and while
+all ICANN output comes from compromise, I felt that this was more
+compromised than most and that we ended up with something which was
+nuclear option not because of its outcome -- there are graduated outcomes -but a nuclear option because it's applied to such a narrow set of facts and
+because it's fairly difficult to initiate and you really need to fit into it.
+And also I think there's a disconnect in terms of potential complainants. This
+is about pervasive and affirmative registry conduct essentially being a
+ringleader almost of a trademark infringement gang and if you're only one
+trademark owner, unless you have many, many domains or many, many
+trademarks that are being infringed, there's really no incentive to be the one
+to go out there and start this. You know, maybe there should be a class
+action type of operation although without any monetary remedies, why it's a
+class action - but at least some way to combine the complaints into one.
+The alternative is to try to build coalitions or take advantage of existing
+coalitions to bring these cases, but I think that the bottom line is that looking
+for something that fits all of the descriptions of the standards of what meets
+potential trademark PDDRP problem leaves you with a very narrow window
+of types of behavior. Thanks.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 55
+
+J. Scott Evans:
+
+Okay. We've only got about 15 minutes left and so what I would suggest is
+what I've heard from (Denise) is we need to have some way to go and ask
+the market why this isn't an attractive option. We've asked the providers what
+they have heard. I think we should think about that and if anybody has any
+ideas. One of the things that comes to mind -- I just throw this out as an idea - is maybe have a panel discussion. We come up with a facts scenario and
+we present it to an outside counsel, an inside counsel from a couple of
+jurisdictions and have them talk through it, why they would or wouldn't do it,
+just for this group to understand the thought process. So can understand why
+they would or wouldn’t use it. I just throw that out there as a possible idea.
+I see (Brett) and then (Jeff) and then I'm going to give you my next
+assignment.
+
+Man:
+
+I'd just like to quickly offer another response. Perhaps one of the reasons that
+this has not been used to date is because there have been no circumstances
+that would have required it. So perhaps it has been a deterrent to registries
+that we hoped it would be and that the behavior hasn't risen to the level
+where anyone needs it.
+
+J. Scott Evans:
+
+(Jeff).
+
+Jeff Neuman:
+
+Yes, thanks. This is (Jeff Newman), too. And I want to take issue with
+something that (Denise) had said. (Denise) said that there are examples out
+there of where it could have been used. And I actually disagree with that
+completely. There have been plenty of examples of bad behavior, don't get
+me wrong. There are plenty of registries I would love to do something with.
+But in this case you have to look - it's infringement. It is a registry with
+trademark infringement.
+So if you are upset at a registry that's charging exorbitant fees to trademark
+owners for registrations, unfortunately that doesn't fall under this because
+they're selling it to the trademark owner itself. They're not selling it to an
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 56
+
+infringer necessarily. So I agree with (Brett) and I've been monitoring this
+because this is a policy near and dear to my heart. I have actually been
+monitoring and there are bad behavior registries that I would love to have
+some remedy against but unfortunately I agree with (Brett) in this case, that
+these specific circumstances I do not believe have occurred.
+J. Scott Evans:
+
+(Denise).
+
+Denise Michel:
+
+Thank you. (Denise Michelle) of Facebook. (Jeff), you misstated what I said. I
+did not say that there are registries who are profiting off of infringing
+trademarks and that can't be used for these mechanisms or these
+mechanisms weren't used for that. I simply said that clearly there is behavior
+of registries profiting off of infringing on trademarks. Period.
+Clearly the market is not using these remedies and we should talk to
+trademark owners and attorneys and people in this field who potentially could
+use these remedies but are not. So the market is not using these remedies
+and I'd like this group to have a clear understanding of why that is.
+
+J. Scott Evans:
+
+Okay. Here - please, go ahead. You with your microphone on. That's why you right there.
+
+(Dennis Chi):
+
+Ok, thank you. My name is (Dennis Chi) and I'm now working with New GGO
+Registry but my former capacity is the secretary general of the ADNDLC. So I
+echo what my former colleague who responded to the question why are
+possible reason for the PDDRP not have been used.
+But in addition I would like to compliment the awareness of this PDDRP in
+Asian area is not high. So my gut feeling is it might be too early to say that it
+is why there has not been used or is there any defect and we need to fix. And
+another reason is not all the GDRD has been rolling out and operation not
+new GDRD operators, just at the beginning. So my feeling is might be too
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 57
+
+early but of course, if we can pick up some pitfalls that we need to include
+then it would be a good thing.
+But at this moment I don't think there is a mistake or something wrong within
+the TM PDDRP mechanism. My only comment - my major comment is like
+what have been manager and my former colleagues the remedies may not be
+useful and I should say that it should not be - it is lack of certainty because
+even though you get a remedy from an excellent panel and a peer panel, it is
+not certain that it could be implemented by ICANN. So the lack of certainty
+might be a factor for consideration why we need to initiate a TM PDDRP
+procedure.
+If I am a trademark owner, I would like to recover the second level of domain.
+(Unintelligible) UDRP. If I was just likely suspended I go for URS. So that
+would be much more straightforward and less burden for trademark owner to
+tackle this infringement matter.
+If there is a very large-scale infringement concerning the operation of new
+GGRD registry, that might trigger the use of the TM PDDRP to try to try to
+seek remedies to terminate the registry agreement and (unintelligible) off the
+registry but that's possible and there is a lot of uncertainty and whether the
+decision will be appealed or whether there is any subsequent procedures
+being filed in a competent court. So it's a very lengthy procedure. So is
+possible ICANN community or the working group may consider making a
+recommendation perhaps in the future TM PDDRP may consider including
+final and binding decision from the panel that would be more powerful or that
+would be to enhance the certainty of the outcome. So that's my very brief
+comment on this TM PDDRP.
+J. Scott Evans:
+((Crosstalk))
+
+Thank you.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 58
+
+Man:
+
+(Brent) from RPIR. Just to echo (Brett), I think there's a pretty good chance
+that this procedure has never been used because the standards have never
+been met. It's not just a registry profiting from infringing trademarks. It's a
+substantive pattern or practice of specific bad faith intent to profit from the
+sales infringing needs. So that's a distinction with a difference.
+
+J. Scott Evans:
+
+Okay I'm going to let (Paul) be the last word on this and then I'm giving
+everyone an assignment.
+
+Man:
+
+So two things. One, I don't know how we would ask trademark owners that
+question. I don't know what the mechanism - what that would be like. But
+secondly, the GDRP may be releasing this theme that would build up such
+that a business model challenge isn't necessary or at least not viewed as
+necessary. The national pastime of North America is baseball. In Europe it
+appears to be football. For trademark people the national pastime is
+Wackamole. And so it may be, you know, there are other mechanisms that
+release steam enough.
+And I don't know how we would get an answer to the question. It's a great
+question. I just don't know how we would ask it.
+
+J. Scott Evans:
+
+All right. With that I'm going to ask two things. If there's anyone that believes
+there's behaviors in the market now that are occurring that this would address
+and it's not being used would you please send that to the staff so that we can
+put it on a list to discuss on our next call, which is in two weeks by the way.
+It's not next week because we all get I Was At ICANN off. Because half of
+you are actually going on vacation. I'm not going to tell your employers that.
+Next thing I'd like to see is from everyone that's here and everyone on the
+committee so this will go in the record -- I'd like four points of things that you
+think should be adjusted or changed within the PDDRP so that we can then
+put that on a list and then we'll work our way through that list in our call. So
+that's what your homework is. You've got two weeks to do this. It's give me
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 59
+
+four things. And I don't want 30 right? So you can give me two - you can give
+me four - you can give me five. But don't go over five things that you would
+change if you were given the pen so that we can put that on our list and we
+can work through those issues. Because that's the only way we're going to
+address things is that we have it and we go.
+I'm giving everyone an opportunity to put in their thoughts. So I would
+appreciate it. If you don't have thoughts, that's fine. You can have an opinion
+about the thoughts. You know, that's okay too. But those of you that believe
+there should be changes, this is your opportunity to let us know what those
+are so we can put them before the whole group. We have a robust discussion
+about those and then we can move forward.
+I see another hand over here and then I'm going to let (Phil) and then we're
+going to close out.
+Woman:
+
+Thanks. Risking the ire of everyone at the table, can I add to the homework
+assignment a little bit?
+
+J. Scott Evans:
+
+Yes ma'am.
+
+Woman:
+
+In addition to things that you might want to see changed, I think it's also
+important that maybe you include one or two points that are big equities for
+you. Something that you would not want to see changed. I think that's an
+important counterpoint to that discussion.
+
+J. Scott Evans:
+
+I think that's great. I think we have (Phil) wanted to make a comment.
+
+Man:
+
+Yes, just as we close out this meeting I wanted to thank (Jay Scott) for doing
+a great job of chairing this meeting. I wanted to thank everyone who's here in
+the room for an 8:00 a.m. meeting on the last day of this ICANN First ever
+meeting be - particularly those of you who stayed up to sunrise.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995677
+Page 60
+
+And the last thought I want to share with you -- which may be obvious to
+many but just I think emphasizes the importance of this working group. Yes,
+we have a long timeline. We're not going to - Phase I - we project delivering a
+report recommendations on what if any changes should be made to existing
+RPMs developed for new TLDs at the end of 2017 and then counsel will have
+to consider whether they wish to adopt them. And then if they adopt them, the
+board will have to consider whether they will take the last step.
+And then the same thing for the UDRP and we haven't even tried to project
+yet how long that phase will take. It could well take longer than the first
+phase. But the thought I want to leave you with is that well that's a long time.
+Once we're done and once whatever changes we're recommended are
+adopted, there will probably not be another working group to review these
+RPMs for the UDRP for another decade or two. So whatever changes are
+made are going to be very long lasting.
+So this is your shot if you think changes need to be made to get them. Don't
+expect that if you miss this train there will be another one along for anytime
+soon. Thank you very much.
+J. Scott Evans:
+
+And with that, we're adjourned.
+
+END
+
+

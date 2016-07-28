@@ -1,0 +1,1534 @@
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+HELSINKI – GAC Meeting with the GNSO
+Wednesday, June 29, 2016 – 09:30 to 10:30 EEST
+ICANN56 | Helsinki, Finland
+
+OLGA CAVALLI:
+
+Good morning, everyone. Can we take our seats so we can start
+our session this morning.
+So this is -- Good morning, everyone. This is our meeting with
+the GNSO. Welcome our friends from the GNSO to our GAC
+room.
+The idea of this meeting that will last for one hour is to discuss
+GNSO review of GAC Marrakech communique; current review
+and policy development work; policy differences between GAC
+and
+
+GNSO;
+
+operation
+
+of
+
+the
+
+empowered
+
+community;
+
+appointment of new GNSO Council liaison.
+So welcome to our dear friends. So the floor is yours.
+We are happy to have you here, and welcome.
+
+JAMES BLADEL:
+
+Thank you, Olga.
+
+And thank you to the GAC and all the
+
+governments participating, and hopefully you're pleased so far
+with the policy forum format.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+OLGA CAVALLI:
+
+Yes.
+
+JAMES BLADEL:
+
+I think we were discussing earlier today that it maybe takes a
+little getting used to, a little bit of courage to try something new
+but it's working well so far.
+So if you don't mind, we can maybe start with some
+introductions. For those who don't know me, I'm James Bladel,
+chair of the GNSO.
+We can maybe start at this end of the table, if that's okay.
+With Gema.
+
+GEMA CAMPILLOS:
+
+Good morning to everyone. This is Gema Campillos from Spain,
+one of the GAC vice chairs.
+
+JONATHAN ROBINSON:
+
+Hi, Jonathan Robinson here as a co-chair of the GAC-GNSO
+Consultation Group.
+
+Page 2 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+MANAL ISMAIL:
+
+EN
+
+Manal Ismail, Egypt GAC representative, and co-chair of the GACGNSO Consultation Group, too. Thank you.
+
+HEATHER FORREST:
+
+Good morning, my name is Heather Forrest. I'm the vice chair of
+the GNSO retching the noncontracted parties house.
+
+MASON COLE:
+
+Good morning, my name is Mason Cole. I'm the GNSO liaison to
+the GAC.
+
+HENRI KASSEN:
+
+Good morning, Henri Kassen, GAC vice chair.
+
+WANAWIT AHKUPUTRA:
+
+Wanawit Ahkuputra, GAC's vice chair.
+
+DONNA AUSTIN:
+
+Donna Austin, GNSO Council vice chair for the contracted parties
+house.
+
+JAMES BLADEL:
+
+Thank you. And I note that we have, as well as those here at the
+table, we have a number of other representatives and
+councillors from the GNSO community in the audience and
+
+Page 3 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+would encourage them to also participate in the conversation as
+well, if they can find their way to a microphone.
+So if there are no objections, we can dive right into the agenda. I
+think we have a slide here, and I have this, so we can move
+through the agenda. And we've already done that.
+So we were asked to come prepared to discuss the status of
+some various PDP, those are policy development process,
+activities within the GNSO, some of which have been identified
+as having particular interest by the GAC.
+So with those, we can start a little bit to discuss, I believe, really
+any of these.
+First is that the three large PDPs that are currently under way,
+the first being the new gTLD subsequent procedures, which is
+identifying the issues and the processes necessary to look at
+another round of new gTLD applications and allocations. We
+have next generation registration data or directory services,
+RDS.
+
+And, see, even I get caught up by the acronyms
+
+occasionally.
+
+OLGA CAVALLI:
+
+Page 4 of 47
+
+We all do.
+
+HELSINKI – GAC Meeting with the GNSO
+
+JAMES BLADEL:
+
+EN
+
+And this is to take a look at the -- a holistic look, top to bottom,
+of the WHOIS system as it exists today, identify the needs and
+uses for that, and make recommendations on whether or not
+any wholesale improvements are needed to that system.
+And then the third one is a review of all rights protection
+mechanisms in gTLDs, which includes the new rights protection
+mechanisms that were included for the 2012 round of gTLDs; like
+the URS, Uniform Rapid Suspension; the procedures to
+challenge the PICs; public interest commitments; as well as the
+older and more established rights protection mechanisms, like
+the UDRP.
+So all of those are under review, and that -- I think the one note
+that I would like to raise with regard to this PDP is each of these
+is expected to be a very significant -- a significant undertaking
+with, in some cases, hundreds of participants on the PDP. It
+could be multiple phases lasting several years.
+So this is -- We talk about volunteer workload on the
+community. These are very, very significant work units that are
+currently under way within the GNSO community.
+And when we say GNSO community, they are GNSO processes
+but they are open to all in the ICANN community, including
+members from the GAC.
+
+Page 5 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+So I don't know if you wanted to discuss any particular issues
+associated with those three. There's also the IGO/INGO curative
+rights PDP, but I will confess to knowing a little bit less about
+that one.
+
+OLGA CAVALLI:
+
+Thank you, James. Please, I'm in your hands, also.
+I think that the new gTLD issue in general, the starting of the new
+PDP, is an interesting thing for the GAC. And as we still have
+some work undergoing about reviewing what happened with
+geographic names and with other sensitive issues related with
+new gTLDs, perhaps you can give us some more information
+about the timeline and the process of it.
+I don't know if, Manal, that she's following up other issues. Do
+you want to add something to that?
+
+JAMES BLADEL:
+
+Okay. Thank you.
+And we were just discussing that these are just getting started. I
+think that this one in particular was organized earlier this year,
+probably right around the time of the Marrakech meeting. It has
+had I believe two sessions here at the -- in Helsinki, and is
+beginning its work.
+
+Page 6 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+If you can take a look at the slide here, I can tell you that we are
+now in -- and it's very small print, but if you can see stage 4
+where a policy working group has been formed.
+
+OLGA CAVALLI:
+
+Okay. This is the high bar?
+
+JAMES BLADEL:
+
+This is the tall one, exactly. And that is an indication of the work
+units that are currently under way as part of a working group.
+They then, when they're completed, move to the council
+deliberations. You can see that we're not very busy right now.
+That's the joke.
+And then move to pending for board ratification and then
+implementation.
+So when we complete these over the next -- Yes. We have Jeff.
+Perfect, yeah. And then we move into implementation.
+So we do have one of the co-chairs of, I believe, the new gTLD
+subsequent procedures. Hey.
+
+CHAIR SCHNEIDER:
+
+Page 7 of 47
+
+Hi.
+
+HELSINKI – GAC Meeting with the GNSO
+
+JAMES BLADEL:
+
+EN
+
+Manal, you've changed.
+For that PDP in the room. And, Jeff, if you can make your way to
+a microphone.
+I believe we also have some of the members that are leaders of
+some of the other PDPs as well.
+So, Jeff, if we could get an update, maybe three minutes. Give
+us an idea of your timeline.
+
+JEFF NEUMAN:
+
+Yeah, thanks. This is Jeff Neuman, one of the co-chairs of the
+subsequent procedures, or others called it the New gTLD
+Working Group.
+As we presented yesterday, there is a work plan in effect. The
+hope is to get a preliminary report out by mid next year, 2017,
+and finish it up by the end of 2017.
+And to respond to, yes, there's other work that's going on, other
+reviews. And this working group has taken a particular interest
+in the outcomes of those groups and is watching those groups
+carefully and will take the inputs of those groups, including the
+CCT review team, the geographic -- I'm going to get the acronym
+wrong, Heather, but the uniform -- the U -- the Cross-Community
+Working Group on country and territory names, the output of
+
+Page 8 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+that group as well as the output of -- that Phil Corwin will
+address on the rights protection mechanism PDP.
+So these are all ongoing, and I do believe, as does the working
+group, that there are issues that we can address even before
+those are finalized as they are outside the scope of those other
+groups.
+So we are certainly mindful of all the other work that's going on,
+but working towards producing results by the end of 2017, early
+2018.
+Thanks.
+
+JAMES BLADEL:
+
+Thank you, Jeff.
+And if we could, Phil, you into service for a similar update on the
+rights protection mechanism review.
+
+PHILIP CORWIN:
+
+Yeah. Phil Corwin. I'm going to sit while I speak but here I am.
+I am a GNSO Councillor from the business constituency. Let me
+first -- since Jeff just spoke, I'm one of the three co-chairs of the
+new working group on the review of all rights protection
+mechanisms and all gTLDs. We are coordinating our work with
+that of Jeff's working group on subsequent procedures.
+
+Page 9 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+We just began our work in March. We held a cross-community
+conversation on Monday afternoon. We're holding a working
+group session tomorrow morning at 8:00 a.m.
+We have a very extended timeline. We -- The first -- We have a
+two-phase work plan. The first phase is to review all the rights
+protection mechanisms created for the new TLD program.
+We've begun with a review of the post-delegation dispute
+resolution process which has never been used. We're trying to
+find out why it hasn't been used and whether it's a solution in
+search of a problem or whether there are impediments to
+effective use for real problems.
+We'll then be reviewing the trademark clearinghouse, sunrise
+registrations, trademark claims notices and uniform rapid
+suspension. We project completing those reviews mid-2017 and
+producing a final report and recommendations for phase one by
+the end of 2017.
+And then beginning in January 2018, beginning phase two of our
+work, which is the first ever review of the uniform dispute
+resolution process, the only ICANN concensus policy that has
+never previously been reviewed. And we have not yet tried to
+project how long that will take, but it will be a considerable
+undertaking, so I think it will probably take at least as long as
+the new TLD RPMs.
+
+Page 10 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+Let me also speak -- I also co-chair the working group on
+curative rights processes for international intergovernmental
+organizations.
+
+My co-chair, Petter Rindforth, from the
+
+Intellectual Property Constituency is sitting right behind me.
+We began that exercise I think about a year and a half -- two
+years ago. We've really been on hold for the last year, since the
+Buenos Aires meeting, because after rapid progress, we had to
+confront the issue of what is the recognized scope of sovereign
+immunity for IGOs, and we had no expertise within our working
+group on that subject.
+We obtained some funds from ICANN and just received a final -the final report, a 32-page legal memo, very extensive and
+documented from Professor Edward Swaine of George
+Washington University Law School in Washington, D.C.,
+discussing the sovereign immunity issue in the context of
+curative rights processes.
+We held a working group session yesterday afternoon. We had
+good participation from WIPO, OECD, and the World Bank and
+we welcome that. And we did have a conversation with the GAC
+chair and vice chairs last year on this.
+So we're going to be moving forward, now that we have the legal
+advice, moving forward and hope to reach final conclusions
+before the end of the year.
+
+Page 11 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+I will say that it would make our job easier if we knew before we
+completed our work the final conclusions of the board
+discussions with the GAC and the small IGO group regarding
+preventative measures for IGO full names and acronyms
+because I'm not endorsing any particular outcome when I say
+that the broader the scope of those preventative measures, the
+less need there will be for curative rights processes at the
+second level. But we will do our best, but it would assist us
+greatly if that parallel process reached a conclusion before the
+end of our -- of our working group's efforts.
+And I'll stop there, and I hope that's been informative. I'd be
+happy to answer any questions. Thank you.
+
+JAMES BLADEL:
+
+Thank you, Phil, for those two updates. Thank you, Jeff, for your
+update. The fourth item is the next generation registry directory
+services. I don't know we have any of the leadership of that
+particular PDP here in the room. Susan, I see. If you could -- and
+Chuck.
+
+Chuck, would you mind finding your way to a
+
+microphone, and you can give us a couple minute update? Just
+off the cuff.
+
+Page 12 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+CHUCK GOMES:
+
+EN
+
+Sorry for the delay. Chuck Gomes speaking. I'm chair of the next
+generation registration directory services PDP. And as I think
+most of the GAC members know, we had a cross-community
+session Monday afternoon and a regular working group meeting
+yesterday morning. Let me start by saying -- by thanking all the
+GAC participants who were in the cross-community session and
+for the GAC participants who are participating in the working
+group, the leadership team, and there are three vice chairs and
+two ICANN staff, and we've been very pleased with the
+participation from the GAC.
+Now, where we're at right now, we have an approved work plan
+and we're finalizing a list of possible requirements that we
+understand that the GAC will be responding to that in a few
+weeks. And we're just getting ready to started deliberation on
+those requirements for an RDS system. The -- it's going to take
+us quite a while to deliberate. I think all of you know the history
+of WHOIS. We've been talking about WHOIS for over 15 years in
+the GNSO. But the exciting thing is that we've got very large
+participation from the whole community and -- including the
+GAC. And so we -- we will just be plugging away to make
+progress. Now, people like to hear time estimates. It's going to
+take us quite a while because it is a controversial issue, but the
+continued participation of the GAC is greatly appreciated in this.
+And we've had two outreaches so far. The first one the GAC gave
+
+Page 13 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+us their responses. We're actually drafting responses to your
+input. And probably those will be coming back to you in the next
+couple of weeks. And we'll be looking forward to the -- to your
+input on the second request for information in the next few
+weeks. And thanks, last of all, for the fact that we have a person
+who's serving as a GAC liaison to keep the information flow
+going both ways.
+
+JAMES BLADEL:
+
+Thank you, Chuck. So whether it's the requirements capturing
+and the communication via the liaison into the RDS or whether
+it's feedback from the discussions between the board and the
+GAC into IGO protections or just generally speaking, the
+underlying theme here is we want and need desperately GAC
+participation, GAC feedback, into these PDP processes.
+
+It's
+
+going to improve the quality of the output, it's going to uphold
+the integrity of the process, and I think it's going to lead to a
+much faster and more expeditious development and adoption of
+the new policies. So if you have any questions about how to get
+involved, you can capture me or any of the folks that have given
+these updates, and we encourage you to please do so and share
+your views.
+
+Page 14 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+CHAIR SCHNEIDER:
+
+Maybe just to add to this -- good morning -- we are doing all our
+best to augment the participation of the GAC in the PDPs. We've
+been making lists on who could go where, who would have the
+resources to go where.
+
+We've been slightly taken by the
+
+transition work, as most of us in other communities, but we're
+confident that we will be more present. Thank you.
+
+JAMES BLADEL:
+
+So any comments or questions from the room, from any of the
+GAC members or participants? Any of the visitors from the
+GNSO? Maybe it's too early in the morning.
+[ Laughter ]
+
+CHAIR SCHNEIDER:
+
+U.K. U.K., please.
+
+UNITED KINGDOM:
+
+Yes. Thank you, Chair. And thank you, GNSO, for joining us
+today. It's very helpful to have this update on the current PDPs.
+I just actually have a question for my information, and forgive
+me if I've failed to pick up the messages. It's about the timeline
+for the rights protection mechanisms and review and what the
+next opportunity is for us in consultation with our intellectual
+property agencies to -- to input into the review of the rights
+
+Page 15 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+protection mechanisms, trademark clearinghouse and so on.
+It's just a point of information I'd like, if you would be able to
+provide that. Thank you.
+
+JAMES BLADEL:
+
+Thank you, U.K. Phil, are you still available and would you like
+to take a shot at answering that?
+
+PHILIP CORWIN:
+
+Sure. I was walking back to my seat. Could I ask for the short
+synopsis of the question so I know I'm responding
+appropriately?
+
+JAMES BLADEL:
+
+I think it's about asking specifically what the timeline is or the
+window to provide input into the rights protection mechanism
+PDP.
+
+PHILIP CORWIN:
+
+Okay. As I explained, it's a two-phase process. The first phase is
+consideration of the new TLD rights protection mechanisms.
+We've just begun by looking at the Post-Delegation Dispute
+Resolution process. Next up will be trademark clearinghouse
+and then the two derivative-related RPMs, sunrise registrations
+and trademark claims notice. And we'll wrap up with Uniform
+
+Page 16 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+Rapid Suspension. That process will take us through the mid
+2017. So there's plenty of time for input, and then we'll be
+taking the second half of 2017 to put together our final report
+and recommendations.
+Phase two of the working group process will launch -- it's
+projected to launch in January 2018. We'll begin our review of
+the UDRP. So that's the timeline. And there's -- we've just begun
+the substantive work so there's plenty of time for input, and we
+welcome it. Thank you.
+
+HEATHER FORREST:
+
+Thanks, James. Heather Forrest. As a member of both of these
+PDPs I know we did this yesterday in our initial discussion of the
+subsequent procedures working group to ensure that we quite
+loudly and clearly welcome GAC members to participate in these
+two PDPs. It would be very, very helpful to have you join us in
+these efforts and use that as an opportunity to express your
+views. So I encourage you all to join both of these PDPs, RPM
+and subsequent procedures. And would also note for the folks
+in subsequent procedures on behalf of Jeff that this working
+group will be meeting today, be meeting in fact soon after this
+session and then again after lunch. Thank you.
+
+Page 17 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+JAMES BLADEL:
+
+Spain.
+
+SPAIN:
+
+Thank you very much. About this working group on all rights
+protection mechanism, I read in the briefing that has been
+prepared for us that the charter for these working group
+envisages to address several issues that I think are important for
+the GAC. I would like to have confirmation as to whether this is
+right, this is effectively envisaged to -- to be dealt with. I'm going
+to read the -- the sentences. Are free speech and rights of noncommercial registrants adequately protected? Are last names
+and geographic places adequately protected so they are
+available to all to use and allowed under their national laws?
+Examine the protection of country names and geographical
+indications, and generally indications of source, within the rights
+protection mechanism. Is the working group going to tackle
+these things in the phase two UDRP? Thank you.
+
+JAMES BLADEL:
+
+Thank you, and for a specific answer I think generally they will
+take on those questions if they are raised as part of the input
+from the GAC into this work but, you know, I can defer to Phil if
+they are specifically outlined as part of the charter and remit of
+this PDP.
+
+Page 18 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+PHILIP CORWIN:
+
+EN
+
+Yeah, on that point, attached to the charter, which is available
+online, there is a list of non-exclusive questions already raised
+by the community for each of these RPMs, both the new TLD
+RPMs and the UDRP. But that is a non-exclusive list. We don't
+consider it final in any way and we anticipate and expect that
+additional questions will be raised by working group members
+and by the community as we proceed.
+In regard to each question, in some cases there may be a
+question as to whether the issue raised is within the scope of our
+charter, but particularly in regard to the UDRP, we anticipate
+evaluating the charter before initiating phase two in early 2018
+and if there's a legitimate need to ask the council to acquiesce to
+a revision of the charter to encompass questions that have been
+raised that we think are important and within the general scope
+of our effort, we'll -- we're certainly willing to look at that and to
+take that step. So I think most of the issues you mentioned
+would be in scope and we'll take -- if they're raised by
+community members, members of the GAC, we'll take them very
+seriously and address them.
+
+JAMES BLADEL:
+
+Page 19 of 47
+
+Thank you, Phil. Next is Donna.
+
+HELSINKI – GAC Meeting with the GNSO
+
+DONNA AUSTIN:
+
+EN
+
+Thanks, James. Donna Austin. I guess I have a question for the
+GAC in terms of participation in PDP working groups. I think
+that, you know, the GNSO is very much aware that individual
+governments can't speak on behalf of the GAC and that the GAC
+will try to provide input into PDPs as the GAC. The question I
+have is, is it feasible or possible or something that individual
+GAC members consider that they would participate in PDPs, you
+know, representing their own governments? And I know in the
+past that there have been some members of the GAC that have
+participated in working groups in their individual capacity, not
+as the GAC. So I guess I'm interested to understand, because -and I'll just take a little bit of a step back. It would be helpful
+when we're going through some of this stuff, particularly on
+WHOIS, to understand where there are differences in national
+legislation that can potentially impact some of the discussions
+we're having. And I understand that it's potentially difficult for
+the GAC to come up with a consolidated position on anything
+like that because of the differences you have individual -individually within your country. So I guess it's just a question,
+we -- we understand the challenges that the GAC has in
+participating in PDPs, but is there any interest or discussion that
+you have at any point in time about individual governments
+participating in PDP working groups?
+
+Page 20 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+CHAIR SCHNEIDER:
+
+EN
+
+Thank you, Donna. I think there will be no formal, let's say, GAC
+representation in the PDPs because that's probably not
+possible, apart from maybe some exceptional cases. So you -hopefully you will have more than one individual governments
+that reflect some of the diversity in case there is diversity on
+legal backgrounds and other things. And, of course, they will try
+and inform you if they know about what is going on or what the
+situation is in other country. But we have to see how many will
+be present in which PDPs. That also depends on the workload
+and so on and so forth that we will discuss tomorrow afternoon.
+But we'll do our best to communicate as intensely. And also, the
+facts can be communicated always. And whereas our structures
+basically foresee we advise the board after you finish your PDPs.
+We are very happy to follow the invitation to comment as early
+as possible, and we'll have to see how well or what is the best
+way to come in when with what. But yeah, let's take it that we
+try our best to communicate as good as we can.
+Iran.
+
+IRAN:
+
+Page 21 of 47
+
+Yes, good morning. Thank you very much.
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+I think your question perhaps should be some sort of
+encouragement other than a requirement.
+
+Participation is
+
+already something good if we could further promote that. Not
+putting that if you participate and then you just speak on behalf
+of the government, yes, if they can, they do. But sometimes they
+could -- they prefer to just contribute as a participant, which has
+been helped and in helping all process. Perhaps we should put
+it in that context. Thank you.
+
+JAMES BLADEL:
+
+Thank you. We had Petter, and then I think we are halfway
+through. We want to start to go to some of the other topics.
+Thanks.
+
+PETTER RINDFORTH:
+
+Petter Rindforth.
+Just as a practical note, it's always possible to join as an
+observer. That will give you continuous update of what's going
+on in the working group.
+And then you can either afterwards, after a while, go in as an
+ordinary member or still as an observer reach out to the chairs of
+the working group with specific questions and issues. So that's
+also a practical way to do it.
+
+Page 22 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+JAMES BLADEL:
+
+Thank you. Okay. We're about -Oh, we have U.K.
+
+UNITED KINGDOM:
+
+Sorry. I don't mean to hold things up. But just to illustrate
+another modality, if you'd like, the GAC working group on
+human rights and international law, we are trying to identify
+volunteers to engage with PDP processes. For example, the new
+registry
+
+directory
+
+services
+
+PDP,
+
+we
+
+are
+
+looking
+
+for
+
+representatives for the working group to participate and report
+and interact. So that's a modality that we are developing in that
+particular context as one example. Thank you.
+
+JAMES BLADEL:
+
+Thank you. Good example.
+Okay. We're about halfway through our session, and I know that
+-- it's good that we had such a spirited and engaged discussion
+on this topic.
+
+It shows, I think, an indication that there's
+
+significant interest in these areas of work.
+I would note that, however, besides the active PDPs, we have a
+couple of PDPs that are waiting for board approval and then we
+have a couple that are moving into the implementation phase.
+
+Page 23 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+We don't have time to dive into them now but wanted to make
+you aware that those are subsequent processes that follow the
+adoption of a PDP.
+So let me see. I think we have some background slides here that
+we can now -- we've probably already covered this information.
+So if you bear with me while I time travel here a little bit.
+Go ahead, Mason.
+
+MASON COLE:
+
+Thank you, James. Just one point on the slides, I am happy to
+make this slide deck available to everyone on the GAC and I'll be
+happy to forward that to the GAC secretariat so it's available to
+members of the GAC for background.
+
+JAMES BLADEL:
+
+Thanks, Mason.
+Let's see. We're just kind of zipping through these here.
+Now we can move to the consultation group, which I think was
+another item on our agenda. So if you don't mind, we have the
+two members of the consultation group here, Jonathan
+Robinson and Manal.
+If you don't mind, Jonathan, can I turn it over to you?
+
+Page 24 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+JONATHAN ROBINSON:
+
+EN
+
+Not at all. Thank you. Mason, Manal, and I will provide you with
+a brief update jointly. We've got three slides really, and the first
+one talks about the current status and a brief reminder of where
+we came from on this.
+The origins of this were both an initiative, I guess, originating
+within the GNSO but also very cognizant of recommendations
+from both the previous Accountability Transparency Review
+Team recommendations about earlier GAC involvement in GNSO
+policy development activities.
+So our purpose or our objective was to explore and enhance and
+develop ways in which we could effectively work together. And
+we've really worked on this over probably the last two years or
+so going back to a point where our meetings together were not -well, in fact, at one point, I think, in 2012 meeting we didn't
+actually even meet together.
+So I'm personally just, as a quick personal note, very encouraged
+by the tone and substance of this meeting, the fact that we are
+collectively engaged with the policy development process.
+In any case, we set up the consultation group and started to
+work. As you see on bullet 2 there, we split the work into two
+key tracks of activity: Enhancing the sort of day-to-day ongoing
+
+Page 25 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+collaboration and coordination of the work between the two
+groups and, in particular, focused on GAC early engagement in
+the actual GNSO policy development process.
+To date, we've produced a number of outcomes which have
+been, in my view -- and I hope you'll share this -- productive.
+We've implemented from a trial to a permanent basis liaison
+from the GNSO to the GAC. That's been filled by Mason Cole over
+on my right there who you've got to know much better over the
+last while.
+And the purpose of that is to enable you to have regular updates
+and information and knowledge of PDP work such that you can
+more readily get involved in PDPs and/or at the relevant times in
+PDPs that's most effective to the GAC.
+We've also implemented as part of the issue scoping
+recommendations a so-called quick-look mechanism where you
+end up with a flash of the activity and opportunity to get a good
+initial oversight of what's going on in the PDP.
+There are monthly updates, so-called one pages, that are
+coming through and they highlight what's sort of coming down
+the tracks, as it were. And then there are joint GAC-GNSO
+leadership calls taking place prior to the ICANN meetings, or as
+necessary. And, in particular, you can see that the benefits of
+
+Page 26 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+that are something like this meeting where it's been thought
+through and structured and hopefully presenting information
+that's of particular relevance and timeliness to the two groups.
+So that should give you a feel of very briefly where we've come
+from and the sort of work we've been doing and what the
+deliverables to date are. And with that, I'll hand over to Manal.
+
+MANAL ISMAIL:
+
+Thank you, Jonathan.
+If we go to the next slide, please.
+So being where we are, we thought this is a good moment to
+conduct a survey to update input on the experiences to date
+with the quick-look mechanism and seek additional suggestions
+and ideas for opportunities for GAC engagement in later phases
+of the PDP.
+We've got 30 responses to the survey, 13 from the GAC and 17
+from the GNSO. And we are very thankful to each and everyone
+who have spared the time to respond to this survey and provide
+us with valuable comments and feedback.
+So not all questions were answered by everyone, but still we
+found the feedback to be very useful.
+
+Page 27 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+On the quick-look mechanism, just to give you the sense of how
+the survey results are -- and still you have the survey available.
+You can check the details online.
+So over 60% of those who responded to this agreed that the
+quick-look mechanism has positively contributed to the early
+GAC engagement.
+
+And there were interest also from some
+
+respondents to explore additional engagement opportunities in
+other -- in later phases of the PDP. Initially, we were focusing on
+the issue scoping and the very early phases of the PDP.
+So the consultation group is still to review the survey results and
+take those into consideration in our next steps. And with this,
+again, as I said, the survey is online. The results are online, too,
+if you want to get a clearer vision of how the responses were.
+And with this, I'll hand back to you, Jonathan, for the next steps.
+
+JONATHAN ROBINSON:
+
+Thank you, Manal.
+Next slide, please.
+So this is the final of the three slides.
+The consultation group will reconvene. We'll get back together
+again immediately or shortly after this meeting here in Helsinki.
+And really I think we see our purpose now to try and complete
+
+Page 28 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+our work by the next ICANN meeting in Hyderabad. That's our
+objective in any case and to present the final results to the GNSO
+and the GAC. We don't see ourselves as being a group with an
+indefinite life. We feel and hope that you will agree that we've
+made some quite significant progress, and we'd like to, you
+know, let that continue. And if in the future, there's a need for a
+similar group, of course, that's not precluded.
+And our expectation is then that the ATRT3 group, which will be
+formed in due course and undertake its work, will review these
+improvements that have been made and assess their
+effectiveness.
+
+No doubt there may be some other
+
+recommendations, but we hope that they will be able to
+recognize that we are in a better place and have fulfilled at least
+some of what was required or requested from the outputs of the
+previous ATRT groups.
+So that's really it from us. I hope that's been a useful and
+succinct update. Manal would like to have a final word.
+
+MANAL ISMAIL:
+
+Just a quick addition on this last bullet just for those who don't
+know where the ATRT comes from in this context. This initiative,
+the GAC-GNSO -- the early engagement of the GAC and the GNSO
+PDP was an outcome of ATRT1, and then the consultation group
+was formed with ATRT2.
+
+Page 29 of 47
+
+And this is why, as Jonathan
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+mentioned, we're expecting that ATRT3 will be reviewing what
+we have achieved so far. So thank you.
+
+JONATHAN ROBINSON:
+
+Thank you, Manal. I think that concludes our update. So I'll
+hand this back to our chairs.
+
+CHAIR SCHNEIDER:
+
+Thank you, Manal and Jonathan. I think the GNSO-GAC
+consultation group has made a significant contribution in filling
+this gap in your early engagement. And I think the quick-look
+mechanism is a very good tool.
+And the challenge, however, is always that the structures are
+only as good as the resources you have to actually fill and live
+them. And I think we are now at a point that you allude to as the
+end of your presentation that I think we have now enough
+structures, enough processes, and there's no urgent need for
+developing new ones. For the time being, we have to make sure
+that these processes and these channels that we have built now
+in terms of communication and exchanges, that they are
+actually used and we have to concentrate on using our
+resources in the GAC to use these processes. And at a later point
+in time, it may be useful if we then again would find another gap,
+that we would reactivate the group. But I think so far the group
+
+Page 30 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+has done an excellent job and has given us the structures that
+we need. Now, we need to use them. Thank you very much.
+Any comments or questions on the consultation group and its
+work?
+So everybody's happy. We take the silence as a big thank you to
+all of you.
+India.
+
+INDIA:
+
+Thank you, Chair. So let me begin by we appreciate the work
+that the GNSO has been doing, and we appreciate that the GNSO
+has reviewed the Marrakech communique.
+Where we are particularly interested in is the issue of local
+language and in the new gTLD subsequent procedures PDP.
+You have made a mention that not only the registry but also the
+registrars must focus on, you know, the IDN issue, the local
+language support issue.
+So we in India are having a huge challenge, we face a huge
+challenge because we are trying to bring on users to the Net in
+15 languages which are non-Latin based. And perhaps around
+the room also this could be a concern to some of the countries
+who communicate in a non-Latin script.
+
+Page 31 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+So we have this huge challenge of bringing out an ecosystem
+where we have email support and browser support on these
+scripts, so perhaps this could be an area of focus as we go
+forward and we could also see which countries have an interest
+in this and see how we can factor this in as we go forward. And
+we would like to be associated with that. Thank you.
+
+JAMES BLADEL:
+
+Thank you. That's an important point. I think that as part of the
+next subsequent processes associated with the next round of
+new gTLDs, internationalized scripts are a priority. They were an
+important component of the previous round. I expect that will
+grow in the second round.
+I think to your second point regarding support for email and
+browsers, that is an additional -- an additional challenge
+referred to, I think, internally as "universal acceptance." I note
+that that is -- there is some involvement and ICANN is sponsoring
+some industry groups that are working on that problem and
+trying to build a greater sense of awareness amongst software
+developers and operating systems and mobile systems and
+infrastructure fabric to help build out universal acceptance.
+So I would encourage you to reach out to that group as well,
+which is not necessarily a formal structure within ICANN but it is
+-- but it's meeting regularly in conjunction with ICANN meetings
+
+Page 32 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+to address that problem specifically. Because you're absolutely
+correct. That is a barrier to adoption outside of the Latin scripts.
+Do we have any other questions? I note that we are down to our
+last 15 minutes and we did skip over -- that's my fault, Thomas. I
+went too quickly. So if you don't mind, I'll back up a couple of
+slides and we can talk a little bit about the exchange of views on
+the outstanding issues for Red Cross and IGO recommendations.
+And do you want to introduce this topic?
+
+CHAIR SCHNEIDER:
+
+No. Actually, I want to start by asking you a question.
+As you know, we have touched a little bit on the IGO protection
+in a previous discussion earlier in this session. With regard to
+the Red Cross, this is -- there are some similarities between it,
+too. Not everything is identical because the legal basis, and so
+on, for protection is different.
+We just thought it may be worth it to have a quick exchange and
+see where we are on this because I think we both -- and we
+discussed this earlier -- we have a common interest in arriving
+from
+
+temporary
+
+mechanisms
+
+to
+
+sustainable,
+
+durable,
+
+permanent mechanisms that create the clarity, I think, that
+everybody wants.
+
+Page 33 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+There are still differences in terms of where this is procedurally,
+what is expected from the board, and you have produced a
+letter shortly to the board.
+Maybe we can start with that and ask you how you see the next
+steps in this issue with regard to arriving at something
+permanent and stable.
+
+JAMES BLADEL:
+
+So thanks. And I know that we probably have some other folks
+from the GNSO that might want to weigh in on this topic as well.
+Just from my perspective, we sent a letter to the board in
+response to some consultations that we had with members from
+the international Red Cross, both in Marrakech and at our GNSO
+Council meeting in April.
+The challenge is that from our perspective in the GNSO, that this
+issue has been stuck for several years. In fact, we were taking a
+quick headcount and noting that most of us on the council
+currently were not on the council when this -- when this PDP was
+formally adopted, so that just gives you an idea of how much
+time has elapsed. And our goal was --
+
+CHAIR SCHNEIDER:
+
+Page 34 of 47
+
+But the Red Cross was still there.
+
+HELSINKI – GAC Meeting with the GNSO
+
+JAMES BLADEL:
+
+EN
+
+The Red Cross was still there. In 2013. Yes, they were.
+So -- but the point being that we had to get up to speed,
+refamiliarize ourselves with the issues, and also sort of restart or
+reboot that effort and get it -- get it back in front of the board.
+Where we're going from here is that we've specifically asked the
+board for guidance on what their intentions are in terms of
+making -- you know, if they intend to either accept our
+recommendations or accept them partially or -- or reject them.
+Because we have mechanisms for each scenario, but -- but we
+need to -- we don't want to necessarily presume the outcome.
+So I think that for the most part, our letter was asking the board
+-- reminding them that we are awaiting some movement or
+some disposition from them before we can move forward on this
+issue; that we are essentially waiting for them to make the next
+move.
+And I don't know if anyone else at the table or from the GNSO
+would like to weigh in on this topic, but it is something that we
+are also keenly aware -- keenly interested in seeing that move
+forward and having these temporary measures replaced with
+something a little bit more permanent and sustainable.
+
+Page 35 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+CHAIR SCHNEIDER:
+
+Thank you. I think this is useful for the GAC to know, so, yeah, I
+see there are a few hands up, so please make your comments or
+raise your question.
+I have Iran, the U.K., and the OECD. Thank you.
+
+IRAN:
+
+Just a simple question. After your letter to the board, has there
+been any follow-up action? Thank you.
+
+JAMES BLADEL:
+
+Not yet, no. U.K.?
+
+UNITED KINGDOM:
+
+Thanks. Well, you know, this has been going on, as I think you've
+acknowledged, for a huge amount of time, and when you're
+talking about the Red Cross/Red Crescent movement, you're
+talking about the humanitarian organization that has to deploy
+resources to combat abuse.
+Is there any action happening -We appreciate your attention to this.
+
+That's very well
+
+appreciated. But, you know, is there something happening at
+this meeting, for example, in Helsinki that you can update us on
+in that respect so that we can report back to our -- not only to
+
+Page 36 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+the ICRC but also to our national Red Cross entity in the U.K. and
+elsewhere? Thank you.
+
+JAMES BLADEL:
+
+So first off, there are temporary measures in place for protection
+against abuses. I don't want us to think that we are exposed
+during this interim time. But I think, Heather, if you want to
+update on activities at this meeting?
+
+HEATHER FORREST:
+
+Thank you, James.
+We should note that in James' answer to the question "Has
+anything happened since our letter of 31 May," no, not formally,
+but we did meet with members of the board yesterday and this
+was one of the issues that was raised. It was one of two issues
+that was raised. And the board members present noted our
+concerns that were outlined by James in terms of the position
+that we're in.
+Please understand, as James said, those of us sitting on the
+council are not, by and large, those who voted on the
+recommendations that were made by the PDP working group.
+There is a process that's outlined in the bylaws.
+
+The PDP
+
+working group puts forward recommendations, those are put
+
+Page 37 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+forward to the council, and they go to the board. And that's
+where we sit.
+So insofar as the GNSO Council, we've done what we can do. We
+pushed the board in our meeting yesterday and we'll continue to
+push the board.
+
+JAMES BLADEL:
+
+And OECD.
+
+OECD:
+
+Thank you. I'd just like to echo those same concerns that the
+issue for IGOs also remains unresolved.
+In particular, with the point to the -- regarding the fact that the
+current members of the GNSO actually weren't there when the
+initial PDP happened, you know, the IGOs are still around. We're
+very familiar with these issues. If anyone ever wants to pick up
+the phone or send us an email, we'd love to have a conversation
+with people and just bring everyone up to speed. There's been a
+great deal of concern on all of our behalves that there's a little
+bit of -- a lot of misinformation flowing around and I think
+maybe some misunderstandings of what we're actually looking
+for and the degree to which IGOs are willing to be flexible on
+certain issues and also why some of the issues are important to
+us.
+
+Page 38 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+So I think communication is really the key in order to bring a
+timely resolution to this issue.
+And in that regard, I'd like to note the work of this small group
+that's been going on in some semiofficial capacity since the Los
+Angeles meeting in 2014, which has also been at basically a
+standstill despite the efforts of the IGOs.
+I know that I personally, with my colleagues at the OECD,
+organized a meeting in Paris last summer which we hoped
+would spur things along a bit but we didn't really see any
+progress happening after that, so that was another bit of
+disappointment.
+And then also in -- it's interesting to hear everyone say that the
+board is waiting for a steer from the GNSO or everyone's waiting
+for the board to act because in my informal conversations with
+board members I've heard a little bit of the opposite, that they
+needed action to happen from elsewhere.
+So I think whether it's in the context of the small group or in
+some other informal conference call or email conversation or inperson meeting or what have you, the IGOs are here, we're
+available, if you want to just sit down and have a conversation
+and maybe figure out how we can bring this to a close.
+Thank you.
+
+Page 39 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+JAMES BLADEL:
+
+EN
+
+Thank you. Certainly appreciate the offer, and it is something
+that I think we may explore as we go forward.
+We had one other question, I think, from Switzerland? Is that
+right?
+
+SWITZERLAND:
+
+Thank you very much and thank you for your comments.
+I wanted to echo what the U.K. and also what the OECD have
+said. I think that these are related, although different, issues
+with different legal bases which, as you know, we have
+repeatedly asked for a solution on a permanent basis which
+takes up the -- the provisional protections at the same level, and
+I trust that both the board and the GNSO, and also consulting
+with us, if needed, you may come up with a solution on this
+which takes up the level of protections that is already there on a
+provisional basis, and that we really deliver something on this,
+and in a short time frame, as soon as possible, and treating both
+issues differentiate -- in a differentiated manner according to the
+different legal bases. Thank you.
+
+JAMES BLADEL:
+
+Page 40 of 47
+
+Thank you. And the last note on this would be Donna.
+
+HELSINKI – GAC Meeting with the GNSO
+
+DONNA AUSTIN:
+
+EN
+
+Thanks, James. Donna Austin.
+Just responding to something that the OECD mentioned, one of
+the things that became obvious during our conversation with
+some of the board members on Monday is that there is
+confusion around process, and that's something that we will try
+to get clarity on with the board. I think it's something that we've
+committed to do.
+So we do have a little bit of a miscommunication in terms of
+process on this one, so we need to clear that up.
+There are certain things that the GNSO Council can do, but we
+don't have the flexibility in what we can do that the board seems
+to assume that we have, so we need to get some clarity around
+that and make sure everybody understands what we can and
+can't do moving forward. Thanks.
+
+CHAIR SCHNEIDER:
+
+Thank you. I think Donna raises an important point. There has
+been a little bit of like a weird football game where nobody's
+trying to score the goal but just kick the ball to the next one in
+hope that he would do it, with the board asking the GNSO to
+maybe modify its recommendations where they didn't run out of
+
+Page 41 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+line with the GAC's advice and the GNSO waiting for the board to
+take that decision.
+As long as you take over GAC advice, we actually don't care how
+you take that decision so it's actually fairly simple. So that
+would be a very pragmatic solution from our side.
+And sometimes this is the chance and sometimes it can also be
+good to have new flesh blood to maybe have the right knives to
+cut the Gordian Knots that are there in terms of process and
+other matters. So we all hope -- and you're right, there have
+been quite significant delays in this so-called small group where
+we had some hope that we would find a pragmatical solution
+that could then be shared with the rest and we got very far but
+not to the very end.
+And again, the excuse for everything, of course, have been the
+transition from all sides that everybody was so taken by this.
+That excuse is now gone, so we -- as you know, we have
+scheduled a meeting here to try and move this on, and I think we
+need to keep each other informed about process -- progress or
+problems with progress, so that we come to a close on this one
+in a reasonable time. Thank you.
+So we have a few minutes left and I think it would be good from - Mark, a very short (indiscernible) on this?
+
+Page 42 of 47
+
+EN
+
+HELSINKI – GAC Meeting with the GNSO
+
+MARK CARVELL:
+
+Sorry, Chair. Sorry. It's another point. I just wanted to get in a
+different issue. Do you want to do it in --
+
+CHAIR SCHNEIDER:
+
+Okay.
+
+MARK CARVELL:
+
+Oh. Thank you very much.
+My point relates to a report by the Internet Watch Foundation,
+2015. The Internet Watch Foundation, based in the U.K., is
+tasked with identifying and blocking child abuse imagery on
+line, and their report records that child abuse images were
+found on new gTLDs for the first time in 2015.
+They took -- the Internet Watch Foundation took action on 436
+new gTLD domains, many of which appeared to have been
+registered specifically for that purpose.
+
+Child abuse image
+
+dissemination.
+So I -- my question is: Is the GNSO aware of this report and is it
+taking any action to consider it and react? Thank you.
+
+Page 43 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+JAMES BLADEL:
+
+EN
+
+So just briefly, no, I'm not aware of this particular report. I know
+that, you know, speaking personally, our company has been
+involved with the Internet Watch Foundation and -- to address
+this issues, as well as MICMAC, the U.S. counterpart. I certainly
+don't believe that there's any question that that would be
+something that the -- not only the industry, but also law
+enforcement across the globe would take action upon. I'd be
+curious to see this report, and -- but this is the first time hearing
+of it. Thanks.
+
+CHAIR SCHNEIDER:
+
+Thank you, Mark, for raising this. This is, of course, an issue of
+fundamental importance so we should all have a look into this.
+We're basically done, but I would like to spend two minutes
+before the coffee break on asking James a very quick
+information about knowing that they -- the GNSO is looking at
+their internal procedures and mechanisms, analyzing to what
+extent they are fit or not for their participation in the new
+empowered community structure, knowing that we have to deal
+with this as well -- we're going to talk about this in our session
+on IANA transition and the one on operating principles -- it may
+be useful and inspiring for us to see how are you proceeding.
+
+Page 44 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+So if you, in one, two minutes, could outline to us how you're
+doing and what the key things are that you're realizing should be
+done.
+
+JAMES BLADEL:
+
+Sure. So that effort is just getting underway at this meeting. We
+have a motion for consideration during our meet- -- during our
+meeting tomorrow. I suspect that that will begin in earnest
+between now and our meeting in July, where we will form a
+team to take a look at these issues. We have an analysis that
+was prepared for us by staff that will probably be the starting
+point for those discussions to understand exactly what
+mechanisms or what aspects of the empowered community we
+are ready for, what we're not ready for, and how to best
+approach the process to fill in those gaps.
+I think that one of the questions we had yesterday that we're still
+working out, and it will probably come up again in our
+discussions tomorrow, is the time line and how -- what our sense
+of urgency is, whether this is something that needs to be -- some
+of these need to be in place, perhaps, earlier and closer to the
+actual transition, where some perhaps can wait a little bit longer
+towards the end of the year. But all of those things will be up for
+discussion as we kick off this exercise.
+
+Page 45 of 47
+
+HELSINKI – GAC Meeting with the GNSO
+
+EN
+
+But I will confess to the fact that we are just getting started, it's
+very early on, and -- but I have -- I'm encouraged by what we've
+done thus far.
+
+CHAIR SCHNEIDER:
+
+Thank you. And I've seen some of the documents and I don't
+know whether they have been shared with the whole GAC but
+actually there are some interesting elements in it for us, so in
+case they haven't been shared I would like to ask the secretariat
+to share this with everybody and continue to feed us, as you
+seem to be, not too much but slightly ahead of us. Continue to
+feed us with your work on this, because that may be useful for us
+as well.
+Any final questions, comments, things that you would like to
+raise before we let you go to the back to get your coffee?
+It does not seem to be the case. In that case, I would like to
+thank you for this exchange. Again, it was very useful, I think.
+Also building on our exchanges on more substantive details that
+we had already in the past days. Let's continue like this. Thank
+you very much. This is the coffee break.
+
+JAMES BLADEL:
+
+Page 46 of 47
+
+Thank you.
+
+HELSINKI – GAC Meeting with the GNSO
+
+[ Break ]
+
+Page 47 of 47
+
+EN
+
+

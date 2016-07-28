@@ -1,0 +1,802 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 1
+
+Transcription ICANN Helsinki
+Policy Implementation IRT-IGO/INGO Identifiers Protection
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Dennis Chang:
+
+Welcome, my name is Dennis Chang. I’m ICANN Staff TDD Services and
+Engagement Foreign Director and within that role I’m responsible for
+implementation project of this IGO and INGO protection. So let’s get started.
+So today what we want to do is provide you first with a session objective, why
+we’re doing this session and then give you some background on the project
+and some status and present to you our implementation approach and see if
+we can get some feedback from the community and talk about the next steps.
+So the session objective, this is an open IRT meeting so it’s an opportunity to
+gather community feedback on the work that we are doing together. So
+you’re all invited to provide your input here. The Implementation Team -- as I
+will report to them -- consists of ICANN staff sitting around here and also the
+Implementation Review Team.
+The Implementation Review Team is made up of these lists that you see on
+the slides. And in the room we have Petter. So what I would like to do at this
+time is maybe go around the room. And we have a small group here so I think
+we have time to introduce ourselves. So let’s start from Karen down there.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 2
+
+Karen Lentz:
+
+Karen Lentz, ICANN staff.
+
+John Passaro:
+
+Hi. My name is John Passaro. I’m a Legal Advisor at the Organization for
+Economic Cooperation and Development.
+
+Petter Rindforth: Petter Rindforth, IPC in the Phoenix Legal Fund, Sweden.
+Berry Cobb:
+
+Berry Cobb assisting the GNSO Policy Team.
+
+Krista Papac:
+
+Krista Papac, ICANN staff.
+
+Steve Chan:
+
+Steve Chan, ICANN staff.
+
+Tom Iacobucci:
+
+Tom Iacobucci, ICANN staff.
+
+Erica Randall:
+
+Erica Randall, ICANN staff.
+
+Dennis Chang:
+
+Do you want to participate? Why don’t you come sit at the table, both of you?
+We have plenty of room.
+
+Rubens Kuhl:
+
+Rubens Kuhl, NIC.br, not a member of the IRT.
+
+(Lara Dosan):
+
+(Lara Dosan), Trademark Clearinghouse.
+
+Dennis Chang:
+
+Thank you and welcome everyone. Well, Francisco, do you want to introduce
+yourself or? Francisco is part of our Implementation Team.
+
+Francisco Arias:
+
+Francisco Arias, ICANN staff.
+
+Dennis Chang:
+
+Go ahead and introduce yourself and your role.
+
+Adeel Sadiq:
+
+I am Adeel Sadiq, a next-gen Ambassador from Pakistan.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 3
+
+Dennis Chang:
+
+Welcome. So let me provide you with some project background.
+
+Man 1:
+
+I’d love that.
+
+Dennis Chang:
+
+Yes. So there was a policy development process that was initiated to develop
+this policy recommendation for provision of protection for identifiers of certain
+international government organization, otherwise IGOs, and international
+nongovernmental organizations, we refer to as INGOs which includes the
+Red Cross, the Red Crescent movement (RCRC) and the International
+Olympic Committee (IOC). And you will hear those four acronyms again and
+again, IOC, RCRC, INGOs and IGOs.
+The PDP working group completed its work in 2013 and it has provided a
+consensus recommendation that was approved by the GNSO Council. In
+April 2014 the board adapted those of the PDP recommendation that were
+not inconsistent with the GAC advice received on the topic. And this will be
+an important point that I will clarify in a moment.
+The adapted recommendation related to the protection related to the top and
+second level or the specific RCRC, IOC, IGO names and with the exceptions
+procedures designed for the affected organization and 90 day claims notice
+process for the second level for certain INGOs.
+So the important part of what I said about not inconsistent, so when the policy
+recommendation came out, it had various recommendations which the board
+had adopted as not inconsistent. And there were parts of the
+recommendation that was differing from the GAC advice that was received.
+So board asked more time to consider those items that had differences
+between the GNSO Council recommendation and the GAC advice.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 4
+
+So the - on the RCRC we are to reserve full names for these RCRC names in
+61 languages with a provision for exceptions procedures. However, we’re not
+to implement the 189 national RC societies or the 90 days claims. So that’s a
+very important point that we have to keep in mind. This project is only to
+implement the first part that is considered not inconsistent.
+On the IOC there was no differences so we are implementing the GNSO
+Council recommendation as it was provided.
+On the IGO there were differences so we again have to be mindful of what
+we need to implement and not implement as you see on the slides.
+On the INGOs there were no differences so it’s a simpler matter.
+The tricky part here is top level and second level are treated differently. The
+top level we provide reservations. On the second level we are providing 90
+days claims process.
+Any questions about this from anyone? Okay then let me move on.
+I think this slide will provide you more clarification for those of you who are
+tracking, monitoring the IGO, INGO activities. Essentially there’s three tracks
+or three streams of activities for IGO and INGOs.
+The first line you see that are in blue is the policy recommendation that we
+are implementing today which is this project.
+The second line you see -- and we call that the reconciliation of GNSO
+recommendation differing from the GAC advice -- those items are what I just
+showed you in the previous slides. And we are waiting for the board to take
+action on what to do next on those items. So this Implementation Team is not
+to implement those items.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 5
+
+The third line you see -- the last one -- is what we call IGO, INGO curative
+rights protection mechanism. And that is still in the policy development phase
+with a working group and therefore it belongs in the GSNO.
+So the bottom line is this policy implementation project is focused on only
+those GNSO recommendation that is not inconsistent with the GAC advice
+which is -- going back to this chart on page six -- is the first column.
+Let me pause here and see if there are any questions. Is this clear? There
+was a lot of discussion yesterday at the GNSO Council. And they were talking
+about the second line and somewhat the third line but not the first. Okay?
+We’ll move on then.
+So the status of the implementation today is this. We look at the
+implementation project in three work items, the things that we have to do.
+The first one is securing the initial list of identifiers. The second is defining the
+list update process. Third is to develop the systems and processes that we
+will be using to operate these protections.
+As list goes, we have secured RCRC, IOC and INGO identifiers. We also
+needed the INGO contact list to implement the 90 days claims which we have
+secured.
+And IGOs, we have received the first set of the list in English and we are
+seeking the second set. And we’ll talk a little bit more about that on the next
+slide.
+Defining the list update process: INGO we have a development working with
+UN DESSA on way to update the processes. On IGO, IOC and RCRC we are
+in the definition phase with the IRT. We discussed this in our last IRT and we
+will continue to do so. And we’ll tell you what we’re thinking of our approach
+in a minute here.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 6
+
+On the development systems, for the full name reservation process, we will
+use our current system and process that is already in place on the 90 days
+claims. We will be using a system that is like the TMCH and leveraging the
+systems that we have.
+About the list, so this is a table to simplify what the status is about the list. So
+RCRC, you will see that we have complete list; IOC we have a complete list;
+INGO also.
+And IGO, as I said, the recommendation we received was that are protect up
+to two languages and GAC had provided us with one set of languages. So we
+have written to the GAC seeking the second or up to two language, second
+language being an optional language. And that letter was sent to GAC on 17
+June. And we are in coordination with a GAC support group to obtain that list
+for implementation.
+Let’s talk about - okay, go ahead Petter.
+Petter Rindforth: Just a quick question on update but as you said, the contact data for INGOs
+is fully completed. Can you just make a quick comment on how you received
+it and identified it because I know that we have discussions from previous
+meetings that you had some problems on getting that?
+Dennis Chang:
+
+Yes that’s true. A couple of IRT meetings ago -- actually in Marrakesh -- we
+have talked about the difficulties or challenges of getting the INGO names,
+specifically the ECOSOC list from UN DESSA.
+Since then we have managed to make contact and have built the working
+relations and UN DESSA had provided us with a list and the contact
+information we needed for the ECOSOC. So we are in receipt of our initial
+list. And we received it and it had all the information that we can use and we
+can implement.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 7
+
+What we have yet to do and we are in the process of doing is to develop an
+update process, a procedure, and reach an agreement with UN DESSA. And
+we’ll talk a little bit more about that is that we are likely to have an ongoing
+conversation with the organization including get something in writing in terms
+of agreement, perhaps an MOU.
+Let’s talk about the update process for the full list. So how do we update our
+process? We’ll talk about INGO first. So as I was just mentioning, UN DESSA
+is the authoritative source for the ECOSOC list. And our approach here is to
+identify the list authority and receive the list from the list authority and then
+ICANN will simply implement the list provided by the list authority.
+And it so happens that UN DESSA’s process is an annual update of the
+ECOSOC list. Consequently we have asked them to provide their list as they
+make them annually and we will simply update our system annually.
+IGO: We look to the GAC who provided our - the initial set of list. And as I
+said, we are going back to the GAC to get the second set of strings up to two
+languages. And once we receive that, we will implement the protection for the
+list that we are given, again looking at the GAC as the list authority.
+And RCRC and IOC: It’s our approach that we’re going to treat it the same
+way as IGO list. It’s our plan to look to the GAC as the list authority and
+ICANN will simply implement the protection that we receive from the GAC.
+Does that make sense? Go ahead.
+Rubens Kuhl:
+
+Rubens Kuhl for the record. Does that mean that the mistakes that are
+currently in the RCRC reserve list came from the GAC and we can’t fix them
+because it’s the GAC that made them? The mistakes I mentioned, Society
+Russian and Russian and Tajikistan terms that are still incorrect in the
+reserve name list.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 8
+
+Dennis Chang:
+
+That’s a good point Rubens. So what we are going to do is when we go out
+for public comment, we are going to propose some correction if we deem this
+obvious. And if the IRT and the Implementation Team agrees, we’ll put it out
+there. And if there’s no objections, I think that we can go ahead and make the
+corrections but if you have suggestions, we would love to hear from you.
+
+Rubens Kuhl:
+
+I already posted them on the GNSO Council list. Maybe you won’t remember
+that but that comes long back to like a year from (unintelligible) that have
+raised that issue with GDD portal. So that goes far back.
+
+Dennis Chang:
+
+Did you want to speak to this?
+
+Petter Rindforth: Okay, you read my thoughts. Just one thing that came up. When you send
+this out for comments and you refer to the GAC list, it would be very good to
+have some information on how this list has been set up, under what guidance
+because as you know, in another working group, we’re talking about The
+Paris Convention rather to identify ideas and that is not the same. That’s
+more limited than the GAC list.
+And obviously there are some other difficulties there so just without any
+comments, positive or negative, it could be good to have some information on
+how this list has been set up from the start.
+Mary Wong:
+
+This is Mary Wong from ICANN staff. So Petter can I just ask a clarifying
+question. Which list did you have in mind because there’s -- in terms of
+getting the information -- because there’s the list of names of the Red Cross
+and the IGOs and the INGOs? Thank you.
+
+Petter Rindforth: Well I was thinking about the IGOs list specifically just so that everybody has
+the basic information on how that is created, the list that came from GAC.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 9
+
+Mary Wong:
+
+This is Mary Wong again from staff. So this is multiple clarification for the
+transcript. So the understanding we have is that the IGO list was sent to
+ICANN by the GAC in I believe March or April 2013.
+And in that - as part of the correspondence of sending that list, the GAC did
+mention criteria that were used for the inclusion of the IGOs that are currently
+on that list. And I believe it’s very similar or based on the .int criteria.
+That doesn’t mean of course that we can’t seek further comment or
+clarification but that’s our understanding of the basis upon which that list was
+sent to us.
+
+Petter Rindforth: And sorry I don’t mean any further comments but just a note when you send it
+out on what the list is based on.
+Dennis Chang:
+
+Yes, we will note that Petter. We will be working on the consensus language
+document that will be used for public comment together with you. So we’ll
+make sure that note gets in there.
+
+Petter Rindforth: Thanks.
+Krista Papac:
+
+Krista Papac, ICANN staff. I just wanted to go back to your question Rubens
+but I wanted to let the conversation with Petter and Mary finish up. So just
+one quick update on the Red Cross names. We have been in contact with
+them trying to -- these whole lists are very complicated -- but trying to sort out
+some of the things that you’ve brought up.
+And we’ve gotten a response from them that looks like there’s some changes
+that we could address. I don’t know if it 100% addresses everything you’re
+talking about but there are some changes which we need to work to
+implement on our side to update the published lists that you guys work from.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 10
+
+And then that requires us to also send you a legal notification which falls
+under Section 7.9 of your contract.
+But that’s something that we’re working on internally. We’ve been working to
+resolve it. And you may not be 100% happy but I think you’ll be happier than
+you are today. So we’re getting there.
+Rubens Kuhl:
+
+Just don’t send us faxes. We prefer e-mail.
+
+Dennis Chang:
+
+Thank you everyone. Let’s move on to discuss the 90 day claim system. So
+the 90 day claim system is in the design phase and we’re defining the
+processes here now.
+And the claim systems only applies to the INGO identifiers at the second level
+-- so let’s make that clear first -- which means the list that we will be using is
+the ECOSOC list that we will be receiving from UN DESSA.
+And as I said, when UN DESSA sends us the list, we will go ahead and
+implement it exactly. And we will not try to evaluate or adjust the list.
+And for your information, the identifier list or organization names are on their
+Web site and anyone can go visit their Web site and review the list today. It’s
+a public information.
+What they’re giving us is a list in a spreadsheet form that’s easy to work with.
+And they are including information that we need to do claims notice, such as
+address, phone number and e-mail address, contact information, along with
+the list.
+So when we get the list, we will go ahead and do the DNS label creation from
+the list and we’ll use the same algorithm that we have already used on SPEC
+5.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 11
+
+And when we do that, there was a question in the GNSO recommendation
+page, a note that what will we do with characters that are longer than 64. And
+the answer to that question -- and that’s what I noted here -- is that because
+the algorithm does not support or the DNS system does not support
+characters 64 or longer, the answer is that there will be no DNS label created
+for that identifier.
+The other things of note is that we will go ahead and use the same sort of
+interface that you’re all used to, meaning registry, registrar and registrants
+from the TMCH system in terms of claims notice. So the Implementation
+Team right now is in discussion with the vendors to create this 90 day claim
+system.
+And what else can I tell you about the process or the system? We’re
+anticipating it’s a straightforward design process or the processes that is very
+familiar to you already. And we are not going to try and create something that
+is very different or new. Any questions on the system or process that we are
+planning?
+Lori Schulman:
+
+Hello. Lori Schulman for the record. This essentially goes over I think what
+we did in our last meeting. And I had raised some issues then. And I was
+wondering if any more thought had been given to it or if it’s just a closed
+matter on this idea of taking little exacts and particularly when you make the
+comment about names that could potentially be longer than 63.
+Then, you know, theoretically then you can end up with these strings that are
+essentially garbage that aren’t identifying the NGO, that aren’t really doing
+what they’re supposed to do is protect an NGO name in the way that it would
+be used and recognizable to the public.
+And I still think that’s an issue at some level. And, I don’t know, I’m wondering
+if we need to give more thought to that. I understand being agnostic and I’m
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 12
+
+not necessarily challenging that at the higher level but at a practical level, are
+we then saving the spirit of what we’ve been asked to do?
+Dennis Chang:
+
+So let me ask Francisco to maybe provide some explanation on a technical
+basis of what a DNS system allows or cannot accommodate for the specific,
+the topic of longer than 64 characters.
+
+Lori Schulman:
+
+I appreciate that but I want to follow up and say that technically in terms of
+substituting symbols or spaces, I’m interested in hearing the explanation. But
+I still -- even understanding what the technicalities may be -- are there some
+practicalities with working with UN DESSA? That’s all I’m asking.
+
+Krista Papac:
+
+Thanks Dennis. Krista Papac, ICANN staff. Hi Lori. I’ll let Francisco explain all
+of his - share all of his wisdom on DNS labels.
+But the short answer is that the policy itself says it has to be an exact match
+and that’s gospel basically.
+
+Lori Schulman:
+
+I kind of need to leave that to the room. We can talk privately if other
+people… I understand there’s technical limitations even if I don’t understand
+the technical itself per se.
+But I still in my mind call to question, you know, when people say exact, I
+don’t even know that people really mean exact quite frankly.
+And I just worry about these organizations that are looking to a level of
+protection that if we use this exact highly technical, agnostic system that we
+end up with domain names that aren’t - you know, that don’t make sense, that
+aren’t usable, that aren’t going to get…
+And the real protection issue might not even get captured because if we’re
+using the identical legal name and there’s… And maybe this doesn’t matter
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 13
+
+because these aren’t the IGOs and they’re NGOs and they should know
+better.
+I don’t know the answer to that one but if they’re relying on sort of this
+paternalistic system we’ve come up with to protect them and the end results
+are domain names that don’t in effect protect them through the claim service,
+I don’t know why we’re going through this.
+Krista Papac:
+
+Thanks Lori. It’s Krista again. Yes. It’s one of the challenges of - these policy
+recommendations are challenged in a couple different ways. This is one of
+them.
+And it’s - while the policy recommendations make sense when you’re talking
+about them from a PDP perspective, when you get to the other side of the
+wall and you’re trying to implement them, we’re running into these exact
+issues.
+And it really is a question that we also have when we talk internally about
+how to implement this. You’re right, like these names - is this really what was
+intended. But we also have a policy recommendation that’s been approved by
+the board that says exact match.
+And so we’re still struggling ourselves with -- on the staff side of this -- with,
+you know, what is the right thing to do, do we need to go back to the
+policymaking body to ask is this - did they really want this ginormous thing or
+did they mean something else.
+And it would be really - would encourage any of you in the room, IRT or
+otherwise, if you have any thoughts or suggestions on the best way to
+approach it because we’re wrestling with that ourselves.
+
+Lori Schulman:
+
+Lori Schulman again for the record. And again we discussed this a little bit on
+the call I think it was a few weeks ago but I feel that since more people are in
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 14
+
+the room, it might just be worth expanding it for - just for a few more minutes,
+this discussion about some sort of - I don’t know if it would be a validation
+service, it would be something that not necessarily ICANN would do.
+Like if we produce this list and the list has these really crazy names, then
+shouldn’t it be or maybe a recommendation day to work with UN DESSA to
+get some sort of confirmation from the organizations in question maybe this is
+supposed to protect? And if they don’t come back, I mean if they send an
+inquiry and the inquiry is not answered, I think that’s the end of it. I wouldn’t
+have any sort of process that belabored something or stretched out time.
+But I’m wondering if it makes sense at least at a high level to have some sort
+of validator with the organizations themselves that these are the domains
+they’re using or the name that came out through our agnostic process is the
+name.
+Rubens Kuhl:
+
+Rubens Kuhl. I have a question. I really don’t know the answer. Does
+trademark plus 50 applies to the IGO or NGO names?
+
+Dennis Chang:
+
+The answer is no.
+And Lori, yes, we have been thinking about how we should go about this for a
+long time. And we keep coming back to the conclusion that the ICANN should
+not be in a position to validate someone else’s authoritative list or try to gain
+another name based on what comes back.
+Then do we go back to UN DESSA and then treat the name in a different
+way? We, you know, to be fair and equal and objective as possible, the going
+toward a - doing something more than what we were asked to do in - with all with good intention of course, right, well intended, could be a slippery slope.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 15
+
+Lori Schulman:
+
+It’s Lori Schulman for the record. I agree to that point and I was thinking more
+of the validation issue as a UN DESSA responsibility, not a ICANN and
+certainly not a registrar responsibility so.
+
+Krista Papac:
+
+Thanks Dennis. I’m Krista again. I think the other side of the coin is the
+challenge also thinking of the registries that have to reserve these names or
+protect them. I don’t want to speak for them.
+But there’s one side of the argument that says the policy said to reserve blah,
+blah, blah, blah, blah, blah, blah, blah, blah and UN DESSA comes back and
+says, “No, no, we really want this truncated version of it.” I don’t know but I
+feel like there would be registries -- they’re shaking their heads -- that would
+say, “But that’s not what the policy said. It said…” So that’s kind of the
+struggle.
+And I think you understood Dennis’ point. From a staff perspective, we’re just
+here to implement what you guys tell us to do so we’re - this is a struggle that
+we have right now. So it’s the challenge.
+
+Lori Schulman:
+
+I’m going to do one more response then I’ll let it drop, okay? But I think it’s
+important. It’s important from a broader name protection which is what this is
+supposed to be is that maybe the idea is again we need to work harder on
+capacity building and knowledge awareness in the sense that these
+organizations are having these strings put in supposedly to protect them.
+And I completely get the technical point and I’m not discounting the technical
+point.
+But I still have this concern about all this work being done and done for the
+good reason and then at the end of the day, it’s really not - it’s not having the
+end that we thought it was going to have. That’s all.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 16
+
+Dennis Chang:
+
+One thing that I can tell you is that we are going to have a working
+relationship with UN DESSA will be reaching to their organization with this
+added benefit. And through that process we believe the NGOs, INGOs will be
+educated and more knowledgeable and all 4,000 organizations will now be
+aware of what a DNS is and what protection is.
+So on an annual basis, they could approach UN DESSA to update their
+names, information or a new application. So gradually maybe we will achieve
+what we had intended to do. But for now, we’re trying to get started.
+
+Lori Schulman:
+
+Thank you.
+
+Dennis Chang:
+
+Thank you Lori. Go ahead Petter.
+
+Petter Rindforth: Petter Rindforth. Just an idea that came up and you probably have already
+thought about it but have you provided some educational information, slides,
+for these organizations that they can use to have a good start, so to speak?
+Dennis Chang:
+
+Absolutely. That’s our intention. And we will have to start with UN DESSA
+themselves, right, because they’re - this is all new to them. And we have just
+begun the working relationship. So there will be a series of “tutorial training.”
+Go ahead.
+
+Krista Papac:
+
+Thanks. It’s Krista again. Thank you Lori for saying that you were going to
+finish up your questions. I just wanted to add one more thing to that. I’m a
+little slow on the uptake today so forgive me.
+So the problem that you’re bringing up is not just a problem here. It happens
+from time to time.
+And one of the things that we’re talking about on the GGD, Global Domains
+Division, side of things is looking at the policy development work earlier on
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 17
+
+from the implementation side of things to try and identify some of these
+challenges before they get into the policy recommendations because it’s…
+The policy development work is excellent work but it has a specific focus. And
+the implementation side of it is just very, very different. At ICANN we -across the teams, Global Domains Division, policy teams, etcetera -- have
+realized that it would make sense for - rather than there to be PDP work and
+implementation work, it kind of makes more sense to try and have those
+things be a little bit more cohesive so that these types of things can maybe not -- I mean, we can’t think of everything -- but could potentially be identified
+a little bit earlier on so we don’t end up here today.
+You already see like our policy folks are here from the implementation
+perspective supporting it. We’re trying to do the reverse of that.
+So we’re working towards that. It doesn’t fix this problem we’re discussing
+today but hopefully it will help a little bit more with some future policy work.
+Dennis Chang:
+
+Okay. Let’s move on. So I want to present to you the timeline of this
+implementation project. So it’s our aim to go out with a public comment with
+the policy - the consensus of policy implementation language in August and
+then the announcement to be made on 1 February 2017 with the effective
+date of 1 August 2027.
+So to achieve that, those milestones, the Implementation Team has identified
+deliverables or specific gating items that we must have before we achieve
+those milestones. And the important thing here is to see that what we will wait
+for and have to have and what we are willing to let it pass the milestone for
+the next milestone to catch up.
+For example, what you will see here for our public comment, we believe it’s
+essential to have the agreement or MOU with UN DESSA to make sure that
+all parties involved understand our obligation to support this implementation.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 18
+
+And the other things are the update process that we have to clearly identified
+and have the public agree with who we consider authoritative for the list and
+how we will go ahead and maintain that.
+Now the - specifically what we are not going to wait for and we believe it’s
+okay to do -- and I want to point this out -- is the GAC list or IGO list which we
+have asked for for the second language or up to two language. So I am not
+sure whether we will receive the second set of language from the GAC by
+August.
+But even if we don’t, we believe that we can go ahead and provide the
+consensus language in August and have the public comment provide
+feedback on our plan.
+Is everybody okay with that plan? Does anybody see any issues there?
+And moving on, of course before we make the announcement, we will
+absolutely have to have the full list exactly so that everybody involved in
+implementing the protection will have the list. So that’s our plan.
+So next steps for the Implementation Team -- and again Implementation
+Team including not just the staff but Implementation Review Team also -- is
+that we are going to get the MOU for UN DESSA and define our 90 day
+claims system in more detail and the update processes and document that in
+the consensus policy language so that we can go ahead and provide it for
+public comment.
+Next couple of scheduled IRT meetings are these: one at the end of July, the
+other one 25th of August, the 25th of August meeting being the last meeting
+before our public comment.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 19
+
+And the IRT -- like any other IRT that we have at ICANN -- we have a
+community Wiki page where all of our meeting material is posted. So
+everyone is welcome to review and provide us your input at any time. And
+you need not wait for the public comment. And we would appreciate any input
+that we receive.
+So I post here a couple of other meetings that you might be interested in
+because you’re here for IGO, INGOs. So there is a GNSO IGO/NGO the
+access to curative rights mechanism PDP working group meeting, which
+(Mary) is going to run.
+Mary Wong:
+
+I am?
+
+Dennis Chang:
+
+This afternoon, right? And then there is also an important I think session for
+the GAC where they will be discussing this IGO/NGO names and acronym
+protection. And these two relate to those two work streams that is not part of
+the implementation yet but we need to be aware of them so not to be
+confused and have clarity with everybody involved.
+So this is -- the page that you see -- how we engage with ICANN. And feel
+free to contact me directly if you have inputs on this project or any member of
+the IRT. The IRT member list is provided at - on the community page.
+And the last page, we look for your feedback on the format of this format B
+policy forum.
+That is the end of the slides. And any other - we’ll take any other questions or
+feedback you might have. Go ahead and identify yourself and speak.
+
+Liz Finberg:
+
+Hi, Liz Finberg, general counsel, PIR. Am I correct that for this
+implementation none of the names that we’re talking about are already in the
+zone, in other words we’re not envisioning a claw back, correct, because the
+names have already been registered?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 20
+
+So for example I heard you say that we’re still waiting for GAC to give us a list
+and do - are we confident that the names that will be - that we’re talking about
+here that will be run through the TMCH are not yet registered? That’s my
+question.
+Francisco Arias:
+
+This is Francisco Arias from staff. So I believe the policy applies to - only to
+these (unintelligible) effective date that have their sunrise and claims bid after
+that. So they will not have the names registered yet.
+
+Liz Finberg:
+
+Thanks. That was my question.
+
+Krista Papac:
+
+Hey Liz. It’s Krista. Just one small, small clarification. And I don’t -- maybe not
+in this room but in some other rooms -- there’s some sensitivities around the
+claims that would apply to these - this policy or their future policies related to
+this, our claim services would use some sort of claim service but not TMCH.
+Some folks are sensitive about the trademark word. So I just want to respect
+those sensitivities. I know you understand but anyway.
+
+Liz Finberg:
+
+Yes. I understand. I was on the official - so yes.
+
+Krista Papac:
+
+We find ourselves saying it all the time too.
+
+Liz Finberg:
+
+It’s a TMCH-esque sort of process, yes.
+
+Krista Papac:
+
+Exactly.
+
+Liz Finberg:
+
+Thank you.
+
+Krista Papac:
+
+Yes, no worries. Thank you.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995693
+Page 21
+
+Dennis Chang:
+
+If there are no other comments, questions, we will conclude this meeting.
+Thank you everyone for attending. And IRT, we will see you at our next
+meeting. Thank you.
+
+END
+
+

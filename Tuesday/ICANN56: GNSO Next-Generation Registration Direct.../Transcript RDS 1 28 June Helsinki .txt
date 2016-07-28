@@ -1,0 +1,1350 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 1
+
+Transcription ICANN Helsinki
+GNSO Next-Gen Registry Directory Services to replace WHOIS Policy
+Development Process Working Group
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Chuck Gomes:
+
+Okay this is the Next Generation Registration Data Services PDP Working
+Group Meeting on the 28th of June here in Helsinki.
+Welcome to everyone. We want to get started fairly close to on time; probably
+about ten minutes late. Thank you for those of you who are on time.
+Again, please log into Adobe Connect if you can, and we will be using that for
+hands raised. But you can also, you know, raise your card or raise your hand
+and we'll call on you that way as well. David is going to let me know if we
+have any remote participants.
+The first thing we want to do is see if there are any Statement of Interest
+updates, and I'll just pause for a few moments to see if anybody has an
+update to their Statements of Interest.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 2
+
+While I'm waiting for that, this is a working group session today. The only
+difference, really, is that it's open to everyone and everyone may participate.
+So whether you're a working group member, a working group observer or a
+guest, you are welcome to participate. We would like you to use a mic.
+So do we have any roaming mics or do they need to find one at the table?
+Man:
+
+(Unintelligible).
+
+Chuck Gomes:
+
+Okay, good. Okay, so just remember to identify yourself for the transcript
+case in particular and that will be very much appreciated.
+The agenda is on the screen. Let's just go through it. We're going to start off
+with some introductions. We've got the - and David is going to handle the
+introduction section. Then we're going to look at the work plan and Susan is
+going to go over that.
+And then we'll get into our real work for today. And just take a look there at
+the bulleted items under number three, we're going to talk about Outreach #1,
+and we're actually going to - the Leadership Team has prepared some
+responses to the four inputs that we've received.
+Have we received any more since the four?
+
+Woman:
+
+The Outreach ones? No.
+
+Chuck Gomes:
+
+Okay. So we'd like the working group to go over those today and suggest
+edits or see if we can get confirmation to go ahead and finish the Public
+Comment Tool on those.
+Task 9E then -- Outreach #2 -- this is the deadline for that today. Now again,
+like I said in the cross-community session yesterday, we're setting deadlines
+to manage our work and to make sure we're making progress. But we will
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 3
+
+rarely have a deadline -- at least in our early stages of our work -- that is in
+concrete. We're not going to reject things that come in late, so keep that in
+mind.
+It's the same thing with our requirements. We will discover requirements later
+on that we missed, and that's okay. We're not going to be rigid about this. At
+the same time, we want to be somewhat efficient and manage our progress.
+Then the third bullet -- Finalize Task 11 -- that's a very important one deciding
+how we're going to reach consensus when we're doing our deliberations.
+We'll be looking at that document that's been distributed to the working group
+and talking quite a bit about that.
+And then we might get into Task 12 today; it kind of depends on how the
+previous task goes. But we may start a little bit of deliberation there and so
+we'll see how it goes.
+Any questions or comments about the agenda before I turn it over to David
+for Agenda Item 1?
+Okay David, you're up.
+David Cake:
+
+So we're just going to try and introduce ourselves. If you are a working group
+member, you still should be able to come up to the top table. If you're a
+working group member in the background or otherwise want to introduce
+yourself, that's fine too.
+We think we've got a large working group, a lot of the members don't know
+each other; may not have met face-to-face. So we're just going to make the
+effort to spend a few minutes introducing ourselves. So I think we'll start with
+me and head clockwise.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 4
+
+So my name is David Cake. I'm one of the three Vice-Chairs of the working
+group. We've got three vice-chairs each from one of the stakeholder groups oh four but three vice- chairs and a chair; one from each of the four
+stakeholder groups in the GNSO.
+I'm from the Non-Commercial Stakeholder Group and obviously within the
+GNSO and primarily - or with NCUC as a constituency. And also I come here
+as a representative of Electronic Frontiers Australia.
+Fabricio Vayra:
+
+Good morning; Fabricio Vayra, Partner of Perkins Coie, member of the EWG.
+No, not EWG; I was a member of the EWG -- member of this group, yes.
+Anyway, good morning.
+
+Man:
+
+(Unintelligible).
+
+Alex Deacon:
+
+Hi everyone, my name is Alex Deacon with the Motion Picture Association of
+America. I'm a member of the Intellectual Property Constituency in the
+GNSO.
+I do want to mention that my background is technical and not legal -- as you
+may assume -- with focus on security and Internet and infrastructure and
+applied cryptography. But it's nice to meet you all.
+
+Victoria Sheckler: I'm Vicki Sheckler with the Recording Industry Association of America and a
+member of the IPC.
+Michael Palage:
+
+Michael Palage; Pharos Global.
+
+(Stu Arc):
+
+(Stu Arc) from U.K. with no particular affiliations.
+
+Sara Bockey:
+
+Sara Bockey with Go Daddy.
+
+Roger Carney:
+
+Roger Carney with Go Daddy.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 5
+
+Beth Alegretti:
+
+Beth Alegretti with Fox Entertainment Group.
+
+Andrew Harris:
+
+Andrew Harrison; Amazon.
+
+Chris Pelling:
+
+Chris Pelling; Net Earth registrar.
+
+David Cake:
+
+Actually, could we also try and mention which geographic region we're from.
+And I know it's obvious to a lot of us here, but it's probably worth
+remembering if you are a member of a stakeholder group of not. I know I
+mean, obviously, Go Daddy are a registrar and so on, but.
+
+Man:
+
+(Unintelligible); Scandinavia and registrar.
+
+(Emily Barvis):
+
+(Emily Barvis); GNSO Policy Staff, based in Europe.
+
+David Tait:
+
+David Tait; ICANN Staff.
+
+Greg Dibiase:
+
+Greg Dibiase; Endurance International Group and the United States.
+
+Man:
+
+(Unintelligible) with (Unintelligible) of South Africa of the registrars.
+
+James Gavin:
+
+James Gavin; Europe with the Non-Commercial Stakeholder Group.
+
+Man:
+
+(Unintelligible), Electronic (unintelligible) Finland which is in Finland and
+Europe, and Non-Commercial Stakeholder Group.
+
+Carlos Raul Gutierrez:
+
+Carlos Gutierrez; Latin America and the Caribbean, GNSO
+
+Councilor.
+(Donna Ali):
+
+(Donna Ali); NCUC and Canada.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 6
+
+Ayden Federline: Hello everyone, my name is Ayden Ferdeline. I'm here in my capacity as a
+member of the Non-Commercial Stakeholders Group and based in the United
+Kingdom. Thanks.
+Maxim Alzoba:
+
+Maxim Alzoba (unintelligible), (unintelligible); Registry and Registrar
+sometimes.
+
+Michele Neylon:
+
+But only on Tuesdays. Is that it?
+
+Monika Konings: Monika Konings; ICANN Staff, Central America.
+Lisa Fifer:
+
+Lisa Fifer; ICANN Staff, North America.
+
+Susan Kawaguchi:
+Chuck Gomes:
+
+Susan Kawaguchi with the BC and North America.
+
+Chuck Gomes and I'm from North America also with VeriSign and Chair of
+the working group.
+
+Michele Neylon:
+
+Michele Neylon, Registrar (Unintelligible) which is Europe. We're still in
+Europe; (Unintelligible) which is a registrar.
+
+David Cake:
+
+To any of the people sitting not at the main table want to introduce
+yourselves? You have an opportunity if you wish.
+
+Man:
+
+(Unintelligible).
+
+David Cake:
+
+I know. Are there any other - especially - are any of you not sitting at the main
+table working group members? And I guess we don't have anyone on - do we
+have any remote participation? Thank you.
+
+Chuck Gomes:
+
+Thank you very much David.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 7
+
+And with regard to working group membership or working group observers, I
+just want to make sure everybody understands that there's no deadline when
+you have to become a member. So if sometime during the progress of a
+group you want to become a working group observer or a working group
+member that is a possibility.
+And GNSO working groups are open to everyone. The only condition is, is
+that the follow the standards of behavior for ICANN and for the GNSO
+working groups.
+Next, I'd like to turn it over to Susan to take a look at our work plan.
+Susan Kawaguchi:
+
+Thanks Chuck. So far, we've had the Outreach #1 that we talked about
+
+yesterday, and we are analyzing the comments that we received, and you
+can find that on the working group Wiki as Outreach #1 Public Comment
+Review Comment. It could be a comic review tool also Comment Review Tool
+-- June 25 anyway. It's a little too early for me obviously.
+And then we're right in the middle of the Outreach #2. We've reached out
+again for requesting additional possible requirements.
+If your stakeholder groups/constituencies are still working on that, obviously
+we can still keep accepting any possible requirements. This is sort of a fluid
+receipt date, so we can, you know - it would be great if we had them because
+then the working group needs to review those. But as they come in, we
+appreciate you sending them in.
+And then Task 11 -- which is our most important task today I think -- is to
+decide how and when the working group will try and reach consensus.
+And then if there's any questions on the working group status and plans, we
+can take those now. No. Anything to add Chuck?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 8
+
+Sorry, James.
+James Gannon:
+
+Thanks Susan. And I know that we have kind of a high level idea of how
+we're going to draw it and approach the items and try and work through this,
+but do we have a little bit more detail on how that's going to happen yet
+because I'm still personally very concerned about the timeline of how that's
+going to happen because in my mind -- just looking at what we have and
+what we need to get too -- I'm still concerned over how that's going to
+happen.
+
+Susan Kawaguchi:
+James Gannon:
+
+Sorry, of the Task 11 in particular.
+
+Susan Kawaguchi:
+James Gannon:
+
+So the timeline of the working - sorry - timeline of the work in general or?
+
+Oh, Task 11.
+
+Is that something we want to talk about later or do you want to talk about that
+now?
+
+Susan Kawaguchi:
+Chuck Gomes:
+
+We can talk about that now, can't we?
+
+Well, notice that that's in agenda Item 3, so we'll get to that. Okay and in fact,
+the target for that, I'm hoping that we can at least agree on that approach
+today in this meeting. Now, if we can't, we can't; we'll deal with it. Okay, but
+that's the goal. Okay?
+
+Marika Konings:
+
+Yes, this is Marika. Just for the record, I wanted to note that the work plan
+has now also been communicated to the GNSO Council as one of the
+requirements in the charter by Stephanie who is the Council Liaison to this
+working group.
+
+Beth Alegretti:
+
+Beth Alegretti, hi. Just to go back to the outreach real quick. If I'm part of the
+BC, if the BC doesn't have a comment or anything to add on that Outreach,
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 9
+
+do we need to officially submit no comment or, you know, is it fine to do
+nothing?
+Susan Kawaguchi:
+Marika Konings:
+
+Go ahead Marika.
+
+Yes, this is Marika. I think at least from a working group perspective, it's good
+to know that nothing is forthcoming, so I mean we just take an email saying,
+"Well, we're not planning to submit anything at this stage," because
+otherwise, we don't know if something is still maybe in the pipeline. So if it's
+easy to do, yes, it's helpful, but it's definitely not an obligation.
+
+Beth Alegretti:
+
+Well lets you and I work on that together because I have an idea.
+
+Chuck Gomes:
+
+This is Chuck again; just jumping in here. Like Marika pointed out, it is helpful
+to know. We want to make sure that we're giving all groups an opportunity to
+provide input. And it's perfectly understandable that you may not have any on
+this.
+But just a simple email that would say, "The BC has no comments," or
+whatever group it is, that would be appreciated.
+Fabricio?
+
+Fabricio Vayra:
+
+So does the - if you don't have any comment and that's been related back to
+you, for example, for the IPC it was related back to me on the first outreach
+that there was no substantive comment to put back, does it matter whether it
+comes officially from them or can I just fill out the form and put it in on their
+behalf if they're okay with it?
+
+Chuck Gomes:
+
+Well in the case of Outreach #2 -- this is Chuck -- we actually are doing it
+informally. So whoever is the liaison can just communicate it to the group is
+fine.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 10
+
+In the case of more formal outputs, it can also be done through the liaison;
+that's okay. But the formal outreaches will generally have specific directions
+in terms of who to communicate to.
+Okay, Chuck again and let's jump into the main part of our agenda. And could
+we bring up the Comment View Tool -- post that so that we can go over that
+in detail. And we'll take as much time on this as we need.
+We'd like your feedback, certainly if you have any concerns - good; that's
+better resolution there so that we can see it.
+Now this Comment Review Tool is one that the GNSO has been using for a
+while for responding to public comments and so we're using the same
+template.
+And I'm not going to go through and read the comments section. Notice the
+first column is a number of the item, but then the second column is the
+comment itself -- or at least a condensed version of it. And then it shows who
+the comment is from, and there are four groups I believe that we have
+received comments from; the SSAC, the Regarding Stakeholder Group, the
+GAC and the ALAC.
+And you'll see that the comments are organized by the questions there. So
+there will be multiple occurrences of the submitters depending on what part of
+the comment.
+So with the first comment from the SSAC, the green agreement just means
+the working group is in agreement with the SSAC in terms of what they're
+suggesting with regard to the documents that they proposed. We don't
+necessarily need to take any action on this particular case - excuse me; let's
+back up. Actions taken, the documents were added to the inventory.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 11
+
+So again, for any visitors that are here, we -- the working group -- went
+through and identified dozens of documents that could be input sources for
+the working group. And then we reached out and said, "Hey, did we miss
+any? Are there some other ones that we should add?" And that's what we
+asked for the community.
+The SSAC identified some there and then those -- in this case because the
+SSAC was the first one to get their comments in quite a while ago -- those
+have been added to the inventory. And then, also in this case, because we
+received them some time ago, some working group members have extracted
+possible requirements from those documents already.
+Okay? Any questions on Item #1? Okay.
+For the same question that you see up at the top there -- any documents
+missing -- the Registries did not have any additional documents to identify, so
+that's a simple response.
+Number 3 then, the GAC said they were satisfied with the requirements
+reviewed. So again - and then we noted their comment. So any questions on
+3?
+We can scroll down to the next slide. So again, you can see the ALAC didn't
+have any so that's a simple one. Let's go to 5. Okay, excuse me. It's not 5; it's
+the next question; my mistake.
+So this is - the second question then, you know, did you - a lot of groups had
+previous input into this process. So this particular question relates to that and
+we're just adding them to confirm whether any of their previous input has
+changed. And you can see the SSAC response there.
+Notice - here's the first example today where we have a proposed response
+from the working group, so I'll read that and you can look at it there.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 12
+
+The working group confirms that the initial list of documents identified are
+indeed part of the key inputs received from third parties. The working group
+has added the additional document to the list in response to the SSAC's
+input. And so you can see the action taken which was in the response as
+well.
+And again, in this case, the working group members have already extracted
+possible requirements from that document to add to our long list. Okay?
+Any questions on the first item under this request? Okay, then the second
+one is the Registries Stakeholder Group comment and this is a fairly long
+comment because the Registries actually -- for the purpose of emphasizing -the Registries actually sided some points that they had submitted months ago
+-- in fact, back on July 13 2015 -- as you can see. And then the responses
+are also fairly lengthy here because the Registry input on this one was
+lengthy.
+The first point the Registries made -- as you can see there and we'll have to
+scroll down - if we can scroll down a little bit and see - I don't know if we can
+see both at the same time. Here we go - oops.
+Okay, so one of the points the Registries made was that, you know, costs
+needed to be analyzed throughout the process and right from the beginning.
+Now you can't do too much in terms of analyzing costs until we have more
+detail about requirements and policy and so forth.
+But some of you will recall that Stephanie from our working group, you know,
+has brought this same point up in terms of making sure we look at costs and
+possible cost impact. So that will be an ongoing task throughout.
+And so you can see the response from -- the proposed response from the
+working group -- and we're basically saying that, you know, the cost model is
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 13
+
+going to be part of all three phases. And so we will have - we're in
+agreement, I think, with the Registries although we recognize that it will be
+easier to estimate cost and possible cost impacts once we get further into our
+process.
+So take a look. I won't read it since it's a little bit longer, but take a look at that
+first paragraph on the cost model there in the right column. See if you have
+any suggestions in terms of the response. Is it okay? Do you want to modify
+it?
+Okay. The Registry comments, again, emphasize coordination with other
+Whois efforts going on and they talk about prioritization in Phase 1 of certain
+questions, and then expectations of privacy.
+The last bullet shown there -- a technical feasibility industry impact and so
+forth. So the responses continue on the right. Just take a quick look at that in
+the lower half of the screen, the full paragraph that's showing there -- working
+group deliberation.
+Any questions or comments on that?
+And then the proposed response to the Registries comments here, they're
+listed in some bullet points to cover the points that they talked. Some of the
+other points, an effort to order group and prioritize possible requirements has
+just begun.
+So just to bring everybody up to date, right now, Susan and Lisa are
+spending a huge amount of time starting that task, okay. And then they'll be
+coming back to the full working group in the next few weeks with a first step
+of triaging the long list of requirements that we have. And the working group
+will work on prioritizing those so that we have some sense of what order to do
+them identifying the pendent requirements, so Requirement A is dependent
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 14
+
+on Requirement B. We'll obviously need to cover Requirement B first, so that
+has begun.
+The second bullet there, there's a response that just says a privacy is one of
+the first three areas that the working group is going to deliberate on
+requirements. Okay, most everybody who is in the working group I think is
+pretty aware of that.
+And then the third bullet there -- Impact Analysis -- that comes in when we
+talk about costs, and one of the related questions out of the Charter 11
+questions that we'll be going through. And then that also gets into
+benefits/risks -- also another one of the eleven questions.
+And then jurisdiction concerns will be particularly addressed when
+deliberating on possible privacy requirements and gated access
+requirements.
+So that's a fairly long response to quite a larger input. Any concerns with
+that? Any questions or suggestions for edits?
+Lisa, go ahead.
+Lisa Fifer:
+
+Thanks Chuck; Lisa Fifer for the record.
+The points that are made here on the left by the Registries Stakeholder
+Group. They sound a little like possible requirements. Did the stakeholder
+group actually submit those as possible requirements as well?
+
+Chuck Gomes:
+
+No; I don't believe that they did. This is Chuck. The Registries did submit
+some requirements that were just received yesterday I believe, but I do think
+that - I think their new ones are not specific to these.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 15
+
+But that's a good point, so I wonder if maybe we have another action item on
+this one. That's a good suggestion. So if we scroll back up to Action Item just scroll up to Page 3 there. Who's controlling this? There we go.
+Okay, so there under Action Items, we may want to add -- in addition to
+seeing the response below -- an action item that working group members
+should be tasked with seeing if there's some possible requirements from the
+comments. Okay?
+Any other questions or thoughts on this?
+Michele Neylon:
+
+(Unintelligible).
+
+Chuck Gomes:
+
+Oh, I've got to look at my Adobe. James, go ahead. Sorry, James.
+
+James Gannon:
+
+No problem; James Gannon. Is this a good point for me to come back to my
+timeline description because I think it's relevant to the response to this.
+
+Chuck Gomes:
+
+Go ahead.
+
+James Gannon:
+
+So I just wonder, can we have a little bit of a conversation possibly just for a
+minute or two about how we actually hope to -- maybe in a bit more detail -approach locking down these requirements and starting to go into debating
+on them and they relevant, they're not relevant. You know, there are so many
+people around the table here, we're going to have a serious, you know,
+struggle or disagreements over many of them.
+And so from my point of view, you know, I do business requirements from a
+date basis from work. And I personally just - I don't understand how we're
+going to work through it.
+I understand the high level concept that's being presented and I would just
+love to understand a bit more in detail how that's going to fit into any sort of
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 16
+
+timeline. You know, because if this is being worked with a dedicated time, I
+can still see that requirements document taking months to work through.
+Chuck Gomes:
+
+Thanks James. And that really leads into other things we're going to cover
+today. When we get to the attempt to finalize Task 11 -- which is to decide
+how we're going to reach consensus -- we're going to spend a lot of time on
+that today -- as Susan said. That's a key objective today.
+And that ties in to what Susan and Lisa are doing as they first cut to tackling
+the long list of requirements, and then that will lead to prioritization and so
+forth.
+And that's where we're going to decide, okay, how we're going to tackle all of
+these requirements and deliberate on them. So we're actually going to talk
+quite a bit about that today.
+So if you can hang on a little bit - yes, if you can hang on a little bit in the
+agenda, we'll get more to that. But please, follow-up.
+
+James Gannon:
+
+Yes, that's brilliant (unintelligible). And I'm just - maybe we should just put
+kind of an asterisk beside some of our comment responses then just until
+we've made sure that the working group is happy that this is something we
+can move forward on how we're going to knock down these requirements
+because we have it in a couple of the responses, I think, about some
+concerns over the number of requirements and et cetera, et cetera.
+
+Chuck Gomes:
+
+This is Chuck again. I guess I'm not totally clear what you're suggesting in
+terms of putting an asterisk. We're going to go through all of the requirements
+and debate them -- pros and cons and try to come up with compromises if we
+can; things like that.
+What exactly are…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 17
+
+James Gannon:
+
+I suppose that's my concern. I have serious wonders whether we can actually
+do that; I don't know how physically we're going to do that as a group.
+
+Chuck Gomes:
+
+This is Chuck again. We have to do that as a group. And like I mentioned
+yesterday in the cross-community session, I hope there's a few that are easy,
+but there will be a lot of them that will be hard. And everybody is going to be
+able to air their concerns, their suggestions and so forth.
+And I hope everybody also will be willing to collaborate with one another. Are
+there ways we can deal with Stephanie's concerns and with Fabricio's; I'm
+just picking on a couple people that I know pretty well. And, you know, they
+will conflict sometimes; we know that, okay.
+So yes, you will. And everybody knows I've been trying to hold people back in
+terms of starting this before we get there because it's going to take a lot of
+time to do this. There may be some requirements that we have to spend a
+couple of meetings on.
+Now the other issue -- and you'll recall I brought this up in a previous working
+group meeting -- is how do we - you know, we've got, right now -- for those
+that aren't aware of it -- we have a list of possible requirements that's in
+excess of 800. That's intimidating.
+If we are to try and do those one by one, some of us would be long gone
+before we got through that. But that's part of the triage that's going on. Maybe
+we can tackle them in groups or several things. And if we get a chance to
+start some deliberation, there's another thing that we can do today that looks
+at them in a different way.
+But a lot of time is being spent on that. Thanks to Lisa and Susan, they're
+taking a first crack at some things, and then it will come back to the working
+group and we'll debate it and try and improve it and so forth.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 18
+
+Stephanie.
+Stephanie Perrin: Thanks; Stephanie Perrin for the record.
+Yesterday in the GNSO meeting, we had a discussion because there will be a
+meeting with the GAC at 11:00 to discuss their concerns about the output
+from the Privacy/Proxy Working Group.
+And I just wanted to put on the table that going through all of this work to
+analyze these documents and, you know, just the prospect of arguing with
+(Fam) over our particular differences over the next umpteen years, I would
+hate to do that and think that the GAC could come in at the end of it and
+disqualify this process, and I'm sure everybody feels the same.
+You know, it's not just that the GAC's views are usually different than mine on
+this matter. I think we all don't want to throw - because quite frankly, if Trump
+card is played at the end, we will not take it quietly and say, "Oh that's fine.
+All those other concessions that we traded off for that, we'll just forget about
+them." That's not going to happen because as you know it's a complex
+process involving trust.
+So got any thoughts on that? And we hope you're going to hang around for
+that.
+Chuck Gomes:
+
+No commitments there. For those that don't, I had my 70th birthday a couple
+of weeks ago but, you know, I'll try, okay. My wife may have something to say
+about that.
+But let me turn it - I will respond to…
+
+Stephanie Perrin: She's welcome too, Chuck.
+Chuck Gomes:
+
+I'll respond but let me let Michele talk.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 19
+
+Michele Neylon:
+
+Thanks; Michele for the record.
+And Stephanie, I agree with you 1000 or 10,000%. As one of the people who
+was involved in the PPSAI, to say that I am frustrated by how this is playing
+out -- with respect to the GAC and the Public Safety Working Group -- is
+possibly the most diplomatic and polite way of expressing it.
+If the same kind of thing were to happen with this, well, honestly I don't know.
+I just - words would fail me. I wouldn't know how to - I mean this would be
+ridiculous because if we can reach consensus within this working group, that
+would be a major achievement; that would be historic.
+If consensus from any working group is then put at risk due to third parties
+who -- at the same amount of time which I would consider to be ample in
+order to address their concerns -- were to disrupt that entire thing, I would be
+incredibly upset, annoyed, and I would use lots of expletives.
+To Chuck -- you dark horse. If we had known about such a momentous
+birthday, we could have done something.
+
+Chuck Gomes:
+
+Marika did.
+
+Michele Neylon:
+
+That's because Marika has access to your deepest darkest secrets or
+something; I don't know.
+
+Chuck Gomes:
+
+Okay, I'll get you in.
+
+Michele Neylon:
+
+As if you'd know (unintelligible).
+
+Chuck Gomes:
+
+Let's go to Maxim and then Susan.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 20
+
+Maxim Alzoba:
+
+Actually, I think it might be a good idea to approach your relevant GAC
+member and (unintelligible) introduce him ideas slowly because they go into
+mind all the time. So we - they do not have like surprise in the end. That's my
+thinking.
+
+Chuck Gomes:
+
+Thanks Maxim. This is Chuck again before I go to Susan.
+It's a very good suggestion. If you know your GAC member and stuff, having
+some conversations with them would be a good idea -- and answering there
+questions.
+As we're talking about the GAC, I want to caution us. Let's be respectful to
+governments and the importance of their input. I think we're probably all on
+the same page in terms of the concern that Stephanie raised, okay. But let's
+do it in a respectful way and we'll be a lot more successful.
+And I think all of us understand that, so let me go to Susan.
+
+Susan Kawaguchi:
+
+And actually, I absolutely agree with you. I think reaching out to GAC
+
+representatives or the PPCWG or whatever…
+Man:
+
+(Unintelligible).
+
+Susan Kawaguchi:
+
+Thank you; me and acronyms don't work. Any of those members, I think
+
+is helpful to sit down and have discussions which is something I've been
+trying to do even on the PPSAI.
+So hopefully - I am hopeful that maybe we won't get GAC Advice on the
+PPSAI; I know that doesn't really pertain exactly to what we're discussing
+today. But I think it would suit us all to really be active with our own GAC and
+the Public Safety Working Group and try to get - if they can't come and be the
+voice, then try to get some of their points of view understood and convey
+those to the working group.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 21
+
+I was a little -- at the GNSO meeting -- I was a little bit surprised at what
+appeared to be equal weight between the GAC and the multi-stakeholder
+community. And that was, you know. So we need to iron that out with the
+Board too, and I think more discussions with the Board would be good on that
+topic.
+Chuck Gomes:
+
+Thanks. And I'm going to turn it over to Michele to address Sara's question in
+the Chat.
+
+Michele Neylon:
+
+Thanks Chuck. Actually, Sara, as you're in the room - this is Michele - do you
+want to just put your question on the mic rather than have me weed it out in
+an hour shack (sic) as opposed to your accent?
+
+Sara Bockey:
+
+This is Sara Bockey for the record. My question is -- and I'm not sure if this
+was raised at some point and I dismissed it -- but it's something I've been
+wondering about since this working group started.
+And so what that is, is that it seems in order to answer the question is a new
+RESOURCE needed? We needed to take into consideration the outcome of
+current Whois PDPs such as the consistent labeling and display, RDAP,
+translation and transliteration, privacy proxy, et cetera. It would seem that
+Whois will be changed when these are implemented.
+And so will be taking the outcomes and improvements of these PDPs into
+consideration when we go to answer the question is a new RDS needed.
+They may not be requirements per se, but documents and items that should
+be considered.
+
+Michele Neylon:
+
+Thanks Sara. Chuck, would you like to comment on this?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 22
+
+Chuck Gomes:
+
+Sure. Yes, I think it's a definite yes. In fact, it's part of our charter to take a
+look and coordinate with the other working groups and efforts going on in the
+community that relate to our work. And there's several of those.
+There's the privacy/proxy issue, there's Thick Whois, that one - so the PDP is
+done but the implementation is still to happen. So there are quite a few. The
+translation/transliteration, that's another PDP that's done as far as the
+working group so far; it has yet to be implemented.
+So absolutely; we have too. And we don't want to duplicate what those - it
+would be wrong for us to go back and redebate the things that a PDP working
+group has already made recommendations on. It would not only be a waste
+of time, but it would undermine the work that's already been done and
+undermine the whole process.
+Does that answer your question?
+
+Sara Bockey:
+
+I think so, yes. So we will take all that into consideration before we do our first
+report that we're anticipating being done by December?
+And so then my question is if some of these haven't been implemented yet
+and we don't know what the change will be to Whois, and it might be an
+improvement that satisfies a lot of our issues and questions, then how can we
+issue the first report that's going to answer the question is an RDS needed if
+those haven't been put in place yet?
+
+Chuck Gomes:
+
+Excellent question; this is Chuck again.
+In some cases, we'll probably have to put a conditional statement saying, "It's
+still ongoing. Here's what we think is going to happen." It will be a case-bycase basis.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 23
+
+But in terms of any final recommendations, it will be dependent on the
+finalization of some of that work including implementation -- as you noted.
+So let me comment to Stephanie's issue, and I'm going to digress a little bit
+away from our charter and talk a little bit more about some personal
+perspectives I have with regard to this issue. And they were running through
+my mind yesterday during the GNSO meeting when they were talking about
+the Red Cross national names and the acronyms and the IGO names and so
+forth. And I chatted with James as Chair of the Council just before this
+meeting.
+And it's not my roll to tell the Board what to do; it's not any of, I guess, our
+role. But I think there is something the Board can do, and I hope that the
+GNSO Council will communicate this. And it kind of came out in the
+discussions in the Council meeting yesterday.
+But I think that we need - and I have a fairly simplistic view on this that is the
+Board is not a policy development body, nor is the GNSO Council a policy
+development body.
+The Board is the group that approves policy, but that policy is developed in
+the case of our situation -- the GNSO; the same thing for the other SOs. And
+the GNSO Council is the manager of the policy development process.
+The Board, in my opinion, has three options when they're presented with
+consensus policy. Number one, they can approve it, and then, of course, the
+obligation is it will be put on registries and registrars for their contracts.
+They can reject GAC Advice - excuse me. What I'm saying - I said that wrong
+at the beginning. When they get GAC Advice, they have three options;
+number one, they can approve it, accept it; number two, they can reject it,
+okay, and the bylaws say what they need to do if they reject it; or number
+three, they can send it back to the GNSO.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 24
+
+When they - and I don't think they have other options. But my suspicion is
+that the GAC because -- and I don't mean this critically -- but I think we've
+over the years set this expectation erroneously, I think the GAC expects -because they have the direct relationship with the Board, there advice goes
+to the Board -- that I think there's the expectation that if they give advice that
+goes against policy, the Board can agree with them and override policy. And I
+think that's wrong.
+What should happen, again, if they do that and they make a significant
+change to policy recommendations, they have just become a policymaking
+body. And I don't think the Board believes they're a policymaking body. I think
+that's the conundrum that they're in right now.
+And I think they need to - and I think it will take some time to do this but I
+think they need to communicate that okay, this -- very significantly -- was the
+policy that was developed and approved by the GNSO Council, and so it's
+got to go back.
+Now as many of you know, I was co-chair of the policy and implementation
+working group. Now that was not a consensus policy working group, but the
+recommendations of that group -- and some of you were involved in that with
+me -- were that policy and implementation kind of go together, and that if
+there are significant changes to any policy recommendations, it needs to
+come back to the GNSO and needs to be dealt with.
+Staff can't just change things, and we're very explicit about that. And the
+Board approved these recommendations.
+Okay, so I think that the expectations of the GAC need to be clarified. And
+again, it's not my role to do that; it's not. But I think that's a position the
+GNSO Council can take and suggest that the Board make that clear. And
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 25
+
+maybe first of all, it's making sure that the Board is agreement with this way
+of looking at it.
+And I really think they are. That's why they've been frustrated. But until the
+GAC understands that and has the correct expectations, we're going to keep
+getting this situation -- including in the one we're working on.
+Sorry to take so long, but hope that's a little bit helpful.
+Stephanie Perrin: Stephanie Perrin for the record. And I totally agree with you, and I was hoping
+that - and I'm a former government person. I certainly don't speak for the
+Government of Canada; I don't speak for any government.
+But I have been saying since I got here, my goodness, this is a very unusual
+government body -- the GAC. And the way they're treating the work
+environment seems to be more like they think of themselves as a council of
+ministers approving or disapproving of the work that is done here.
+And that's not the way I think it ought to be. They ought to be working with us.
+And normally, as a former public servant working in these international
+organizations, you work and you contribute and you don't act as if you're the
+sort of approval body.
+And so how this came about is fascinating; worth a dissertation on its rights -no doubt. And possibly some student somewhere is writing one.
+But it really deserves some examination because I don't think we're just going
+to fix this by having a GNSO liaison to the GAC. We need to explore just
+exactly how everybody sees the process and get some - and Work Stream 2
+is a good place to do that isn't it? Nobody wants to upset the applecart on the
+CCWG stuff by getting into the deep, deep layers of this -- how it's risen.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 26
+
+But it does seem to me that as a multistakeholder model, this is not going to
+work because people are not going to be willing to put in five years of work on
+something and have it trumped. Thanks.
+Chuck Gomes:
+
+Yes, and we've got several people in the queue. We've got James and Alan
+and Marika.
+And I want to just interject something else first, and that is I was really
+pleased yesterday at the presentation of the GAC in our cross-community
+session. That is a really good sign. And the GAC is really trying. And it's hard
+for them -- as governments -- and the way they approach things to do this.
+So let's be a little bit patient. At the same time, let's do everything we can to
+ensure that things are done right and that the model that we have for
+developing policy isn't compromised.
+And let's go to James.
+
+James Gannon:
+
+Thanks Chuck. I suppose it actually builds on what you just said, and
+particularly because we have a few extra people in the room as well.
+For those of you who have GAC members who are here and attending,
+please go and talk to them. And please like tell them what we're doing and,
+you know, show them that we're not the big evil GNSO because the more
+informed GAC members we have, and if you have a country that is actually
+sending people to the GAC and is becoming engaged, please utilize it
+because those of us who don't have engaged GAC members are, you know,
+jealous of those that do. So if you have that opportunity, please do take it.
+And tell them about RDS and tell them about the other things that you're
+involved in because the more educated they are on these things, the less
+likely we are to get situations where we get contentious GAC Advice coming
+out. It's a call to action.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 27
+
+Chuck Gomes:
+
+Thanks James. Chuck again. Alan, go ahead.
+
+Alan Greenberg: Thank you, thank you. It's been a few years since I sat around a GNSO table
+and took the microphone to suggest there's other ways of looking at things.
+But I think it's important here. It's not just an issue of the GAC has to
+understand; they can't trump what the GNSO says.
+The GAC does have the right to advise the Board, and the Board may well be
+in a position to decide that the GAC has a good point they want to listen too.
+Therefore - and Chuck's right. That may well mean something gets sent back
+to us.
+Since we tend to labor long enough on these things, it's not clear we want
+something sent back to us. So we do have an onus to the extent that the
+GAC will participate in our process. To not say that they have, you know, veto
+rights in our discussions, but that we should be listening because it may well
+bounce back to us two years later if we don't.
+So I think we have to make the whole system work; not just decide who is
+man on top each time or woman on top each time. Thank you.
+Chuck Gomes:
+
+Chuck again, thanks Alan. That's well said.
+The point is that it just needs to come back. And we have to accept in the
+responsibility when it comes back to us - I'm talking about the GNSO - to…
+
+((Crosstalk))
+Alan Greenberg: (Unintelligible).
+Chuck Gomes:
+
+What's that?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 28
+
+Alan Greenberg: We don't want it to come back; we want to do it right the first time and that
+does mean listening and factoring in GAC concerns.
+Chuck Gomes:
+
+We're on the same page, okay? Let's go to Marika.
+
+Marika Konings:
+
+Yes, this is Marika and I think it's a point that Jonathan made yesterday as
+well during the session that, you know, we've already come a very long way.
+And I think both the PDPs that are currently under discussion or where there
+are concerns, they actually predate all the new mechanisms that we now
+have for early engagement.
+I think the RDS PDP is actually the first one, for example, had the quick look
+mechanisms where the GAC did respond as part of the preliminary issue
+report. They have already provided input as well to Outreach Message 1.
+So they are actively engaging and trying to involve themselves in the working
+group deliberations -- which as you said, is a really good sign. So I think the
+hope is that through that engagement and continuing that, and maybe worth
+as well from time to time, to ask them, you know, are you able to keep that up
+because, indeed, for them it is a challenge. They're trying to find mechanisms
+by which they can provide timely input.
+But, you know, for the GAC, they need all of them to agree to make it GAC
+input.
+And I think we've tried to communicate as well through the work that has
+been done in the consultation groups is that it doesn't always need to be
+formal GAC Advice. It can be, as well, input from individual governments
+because that will still give an idea of what government perspectives may be.
+So those can be factored in similarly to all the positions of different
+stakeholders here around the table.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 29
+
+So I'm at least hopeful that through those new mechanisms and that new
+sense of realization as well from the GAC side, that it's really important to
+have their views heard at a very early stage. I'm hoping we won't be in a
+similar situation at the end of this process.
+Chuck Gomes:
+
+Thanks Marika, and Chuck again and Susan is next. But let me add the GAC
+has come back to us on our informal Outreach #2 and said, "Hey, we're going
+to be late but we're doing it."
+See, there are good things happening so let's not leave with the impression
+that the GAC isn't changing and growing; they are and we're seeing the
+benefits of that already.
+Susan.
+
+Susan Kawaguchi:
+
+So one thing that comes to mind to me is that, you know, it would be to
+
+our advantage to make, you know, just continue that relationship with the
+GAC. And maybe we do something similar to the GNSO GAC liaison, but
+from this team where we do develop a short, you know, really bullet, onepager. But maybe work with the PPSWG because they're part of the GAC,
+right.
+But I think that's where our work is going to be most relevant to them -- to
+those members. And then they can deliver to that -- to the GAC -- that maybe
+we just make that special accommodation; have one or two people, or
+whoever it works out to be, point person so when they do - if they can't stay,
+don't have the resources to be in all the calls and the meetings, then have
+someone they can reach out to and say, "Where are you on this point," and
+really get some clarity for them.
+And so - but sort of make it as easy as possible for them to stay engaged. It
+might be worth the working group's efforts to do that.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 30
+
+Chuck Gomes:
+
+Thanks Susan; Chuck again. And before I go to Michele, note that the GAC we do have a person who is serving as a GAC liaison right now.
+
+Susan Kawaguchi:
+Chuck Gomes:
+
+That's all right; there's an awful lot going on.
+
+Susan Kawaguchi:
+Chuck Gomes:
+
+Oh, I'm sorry.
+
+(Unintelligible).
+
+Now - and he's willing to continue doing that if the GAC will support that. So
+again, good progress.
+Michele, it's your turn.
+
+Michele Neylon:
+
+Thanks Chuck; Michele for the record.
+I'd love to be able to agree 100% with Alan, but I actually can't because one
+of the problems with this framing of this GAC GNSO interaction is that there's
+an assumption that there's a consensus between the two parties -- or at least
+that's the way I understood what you were saying.
+There's been the issue that we're currently facing around the Proxy and
+Privacy is that it wasn't that we didn't listen to, hear or consider what they
+were saying; it's that we didn't agree with it. And we did consider it, we did
+look at it, and it was very much a case of let's for a second (unintelligible), oh
+no a third, oh no, it's a fourth bite of the apple.
+And then we end up with this ridiculous situation where -- how many months
+after that PDP finished -- nothing has happened and the entire thing has
+stalled. I mean I think we're now 12 months plus or I don't know if somebody
+is keeping track of it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 31
+
+And that kind of interaction is not healthy. I mean we can consider, we can
+discuss, but if we've ultimately rejected and we've reached consensus within
+a working group, I don't know what we're meant to do with the GAC if they
+keep coming back saying, "No, no, no; we still want you to do it." This is the
+bit I'm struggling with.
+Chuck Gomes:
+
+Let me jump in here and I think I'm going to cut this one off here. I think the
+points have been well made; they're all good points. Let's plan on working
+constructively with the GAC, and again, let's recognize that they're making
+really good progress, and it's demonstrated in this working group.
+So let's not continue this discussion but let's be constructive in our attitudes
+and optimistic that this is going to be a working group where we get pretty
+good participation from the GAC.
+And keep in mind. We're going to do lots of outreaches and keep them
+smaller in volume or smaller in content to that it's easier to respond. And
+hopefully, that will - so far, that's working with the GAC. It looks good on our
+first two outreaches, so that's very good.
+So we've got the one action then on the Registry comment -- the long
+Registry comment here. We're going to add the action item; we have that.
+Is there anything else on the working group response to the Registries
+comment on this particular Registry comment? Okay, let's scroll down then to
+the next item in the table, and scroll a little bit to the left.
+So we've got number three, and good timing; it's the input from the GAC. And
+we're suggesting that we agree with the GAC. You can read the comment
+there from -- the suggested comment from the working group.
+Any concerns about that? Suggested edits? Okay, and note that the
+documents have been added to the list of inputs we received.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 32
+
+And notice there's a second action item. We need to task - so this will be an
+action item coming out of this meeting I presume that would task a working
+group member or members with identifying possible requirements from that
+additional document. So that's an action item.
+So I don't know if there are any volunteers in the meeting today -- somebody
+that would like to take that task -- take the lead on that and come back to the
+working group. If there is, please identify yourself. If not, let's reach out to the
+full working group list and make sure we get that task assigned.
+Okay, yes. Vicki?
+Vicki:
+
+(Unintelligible).
+
+Lisa Fifer:
+
+So Vicki there. I believe there are four additional documents. Are you
+volunteering for all four? Thank you.
+
+Chuck Gomes:
+
+Fantastic, thank you very much. Okay, we appreciate that.
+All right, now I guess that raises in the question, we may want to modify the
+action item a little bit. The working group has identified one of its members
+who will do that task, okay. Thank you very much; appreciate that.
+All right, let's go to the next item -- number four here from the ALAC. Now we
+won't let Alan talk on this one will we? I'm kidding of course.
+So in this particular case - in fact, Alan, if you'd like, since you're here, you
+want to talk to the comments? Okay, all right. So you can look at the
+comments there on number four.
+And the ALAC suggestion here, in my opinion, is very good. There are some
+documents that we really need to take seriously. And interestingly enough, I
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 33
+
+think we have on all of there -- and will even more going forward -- take a
+look at - so the action item is to ensure that all the documents identified as
+critical by the ALAC are examined for possible requirements. And I think -- in
+large amount if not all -- we've got that spin done; we may find more.
+Take a look at the proposed response. Any questions or comments on that?
+Alan, go ahead.
+Alan Greenberg: I guess I will make a brief comment.
+The main focus was not to say, "Make sure to look at those." There's not
+much chance you're not going to. It was a pragmatic statement saying there's
+an awful lot of documents and a huge number of pages to read. And if
+somebody isn't going to read all of them, make sure these are on the list you
+do read.
+Chuck Gomes:
+
+Thanks for clarifying that Alan; appreciate it. This is Chuck. So any questions
+or comments on that one? Okay, let's go to the next one.
+Oh, go ahead Lisa.
+
+Lisa Fifer:
+
+I would just note, I did believe that most of the documents were identified
+either have volunteers or have already been covered. But I don't think that all
+follow the statement of EWG members have been covered yet and that we
+don't have volunteers to cover all of them yet.
+And also, I would note that we're still waiting for the possible requirements
+from the new European data protection work. That is assigned but it's still not
+sending on it (sic).
+
+Chuck Gomes:
+
+So - this is Chuck. Can you identify - let's try and get some volunteers for the
+ones that are missing. Can you identify which ones we need volunteers for?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 34
+
+Sure, take a minute. Now pay attention because I'm looking for some
+volunteers just like Vicky so graciously volunteered on the GAC documents.
+Lisa Fifer:
+
+I'm not going to find it on that list. What I'll do is I'll type it in Chat.
+
+Chuck Gomes:
+
+Okay, thank you. Okay, so that will be put in the Chat, and if there are
+volunteers here today. If there are not, then let's put it out to the working
+group.
+Now I want to interject just a little another logistics matter. Keep in mind -those of you in the room that aren't working group members -- you're
+welcome to participate, just let us know. So if you have a question or a
+comment or suggestion, you're welcome to do so. We just want you to go to a
+mic.
+It looks like there's one mic available over here and we have a loose mic that
+can be used as well, okay.
+All right, let's see, we've got that covered. Let's go to the next one. These
+three are all pretty straightforward, so I don't think we need to spend any time
+on those. Go ahead and scroll down.
+The next one where we need you to review it is, again, comments from the
+ALAC. And the action items are really related to the second paragraph as you
+can see. And I'll let you take a look at those and the comment itself and see if
+there's any input on the proposed response.
+Okay, anybody need more time? All right, let's go ahead and move forward.
+And here the question is, "Is there any other information," this was kind of an
+open-ended question -- anything else you would like to suggest. And the
+SSAC did submit some things there. And again, a fairly lengthy response so
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/11:26 pm CT
+Confirmation # 8995690
+Page 35
+
+I'll pause a little bit longer to let you take a look at that. So bear with the
+silence a little bit while we give people the chance to look at those.
+
+END
+
+

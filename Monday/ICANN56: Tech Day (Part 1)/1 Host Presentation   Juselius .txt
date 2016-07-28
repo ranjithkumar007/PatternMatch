@@ -1,0 +1,116 @@
+Tech Day Host Pres.
+ICANN #56 Helsinki
+
+.FI in short
+Managed by Finnish Communications Regulatory
+Authority since 1997/2002
+390 000 domains registered, annual growth
+~5.5%
+
+12 eur/year
+~12 FTE
+Registrant must be Finnish company, association,
+public authority or private person
+Domains available directly and through registrars
+
+[Name, title]
+
+[Date] |
+
+2
+
+Technical platform
+•
+•
+•
+•
+•
+•
+
+Registry system
+
+Domain.fi
+
+Business logic
+Web and WebService interfaces
+Open data interface
+Master DB
+Whois
+Administrative tool
+
+Fi-root
+b.fi, d.fi
+
+• Primary, fully redundant
+• Hosted by CSC
+• .FI root DNSSec signing
+
+a.fi
+
+h.fi
+• Anycast, unicast
+• Netnod
+
+c.fi
+g.fi
+
+IDN, IPv6,
+DNSSec fully
+implemented
+
+e.fi
+
+f.fi
+
+• Unicast, fully redundant
+• FICIX / FICORA
+
+• Anycast
+• DENIC
+•Anycast
+•Packet Clearing House
+
+• Anycast
+• CommunityDNS
+
+• Unicast, fully redundant
+• FICORA
+
+|
+
+3
+
+Registry – Registrar model
+No local presence required anymore
+No age limits
+Domain parking will be accepted
+Domaining will be accepted
+
+TLD names will be released for registration
+Standard EPP
+
+*)
+
+New rights to improve security
+New IT security related requirements to registrars
+*)
+
+At least as standard as possible
+Juhani Juselius
+
+2016 |
+
+4
+
+Secure
+Reliable
+
+Finnish
+
+Juhani Juselius
+
+2016 |
+
+5
+
+

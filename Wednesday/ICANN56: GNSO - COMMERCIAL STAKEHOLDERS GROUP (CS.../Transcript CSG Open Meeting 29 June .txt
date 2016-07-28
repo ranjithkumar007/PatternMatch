@@ -1,0 +1,1531 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 1
+
+Transcription ICANN Helsinki
+GNSO – Commercial Stakeholder Meeting
+Wednesday 29 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Chris Wilson:
+
+Okay I think we can go ahead and start. Chantelle are we okay to start
+recording? We okay? Good. Okay if we can go ahead and start. Thank you.
+All right, good morning everyone.
+Welcome to the CSG open meeting here in Helsinki. My name is Chris
+Wilson. I’m Chair of the Business Constituency but today serving as sort of
+moderator for today’s discussion.
+As you can see up on the screen behind me and in front of you we have a full
+agenda of topics to discuss. Some maybe will enjoy more discussion than
+others but we thought it’d be good to get a chance for everyone to get together
+here in Helsinki, notwithstanding the fact that there’s no Constituency Day
+and other opportunities to chat.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 2
+
+But we’ll have a full discussion here today so maybe real quickly we’ll just go
+around the table so everyone can introduce themselves just for a minute, and
+then we’ll go ahead and start the discussion. So Greg why don’t I turn to you
+and we’ll go this way?
+Greg Shatan:
+
+I’m Greg Shatan. I’m a Partner with McCarter and English and the President
+of the Intellectual Property Constituency.
+
+Tony Holmes:
+
+I’m Tony Holmes from BT, Chair of the ISPCP.
+
+Anthony Harris: Tony Harris from CABASE Argentina. I’m with the ISPCP.
+Esteban Lescano: I’m Esteban Lescano from CABASE Argentina, ISPCP.
+Denise Michel:
+
+Denise Michel, Facebook, Business Constituency.
+
+Anne Aikman-Scalese:
+
+Anne Aikman-Scalese from Lewis Roca Rothgerber Christie and
+
+I’m with the IPC, and I’m sorry I have to duck out for a human rights meeting
+in 15 minutes so…
+Paul Mitchell:
+
+Paul Mitchell, Microsoft, Business Constituency.
+
+Cheryl Miller:
+
+Cheryl Miller, Verizon, Business Constituency and CSG Representative.
+
+J. Scott Evans:
+
+I’m J. Scott Evans from Adobe Systems.
+
+Heather Forrest: Heather Forrest, University of Tasmania, IPC, Councilor on the GNSO
+Council and Non-Contracted Parties House Vice Chair on the Council.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 3
+
+Lori Schulman:
+
+Lori Schulman, Senior Director for Internet Policy for the International
+Trademark Association and IPC Treasurer.
+
+Griffin Barnett:
+
+Griffin Barnett from Mayer Brown in Washington, DC, IPC member.
+
+Charne le Roux: Charne le Roux, Adams & Adams South Africa, IPC member and also a
+Fellow.
+Chantelle Doerksen: Chantelle Doerksen, CSG Secretariat Support.
+Andrew Harris:
+
+Andrew Harris with Amazon and the BC.
+
+Alain Bidron:
+
+Alain Bidron, ISPCP, Orange and ENTO.
+
+Steve DelBianco: Steve DelBianco, the Business Constituency Vice Chair for Policy
+Coordination.
+John Berard:
+
+John Berard, a Public Relations Consultant, member of the BC.
+
+Steve Metalitz:
+
+Steve Metalitz, Vice President of the IPC and I’m here on behalf of the
+Coalition for Online Accountability.
+
+Wolf-Ulrich Knoben: Wolf-Ulrich Knoben, ISPCP and on behalf of ECO Association.
+Olivier Muron:
+
+Olivier Muron, Orange, France, ISPCP.
+
+Chris Wilson:
+
+Thank you all very much. And I – just as a housekeeping reminder when you
+do have an opportunity to speak just make sure you announce yourself again
+for recording purposes so thanks.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 4
+
+So let’s go ahead and get started and this is Chris Wilson speaking. Item
+Number 1. We thought it’d be good to get a chance for all of us to get together
+and talk a little bit about at least the three core PDP Working Groups that are
+underway and obviously that are engaged here in Helsinki, and see if there’s
+an opportunity for policy coordination among the Commercial Stakeholder
+Group on issues of mutual concern and interest.
+So maybe I’ll go ahead and turn to Greg real quick and he can provide sort of
+his thoughts – initial kickoff thoughts and then we can have a discussion.
+Greg Shatan:
+
+Thanks Chris. Greg Shatan for the record. You know, these three PDPs
+promise to shape the future of a lot of what we are concerned about at
+ICANN.
+And each of the three groups have from the IPC very robust participation in
+the two figures, and would be very surprising if we had three figures but that’s
+for some future ICANN.
+And however of course, you know, given the fact that the three of us are
+stronger together as constituencies thought it was a good idea to raise in the
+stakeholder group context coordination.
+We’ve put together email list for IPC members and one case includes other
+kind of I – we’ll call fellow travelers. We could expand that or add other
+things but I think we – it’ll be helpful if we do coordinate on in the next
+generation RDS and the RPMs and the subsequent round or procedures for
+new gTLDs groups on the kind of common goals that we have.
+And if there are – if there’s kind of significant gaps in our positions we should
+figure that out too, and when it comes to being influential and to fashioning
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 5
+
+consensus we’re going to be much more successful if we have common
+positions.
+Obviously a lot of those will develop, you know, organically in the committee
+but not always, and of at least equal importance there are let’s say forces or
+aid against us.
+Not to sound paranoid but obviously there are differences of opinion and for
+instance on the email list if those opinions are expressed more forcefully and
+consistently and at length it doesn’t help us either, so we all have to kind of
+bolster these positions by being active in the meetings and in the lists and in
+producing documents and the like.
+So just kind of an overall views and I think a meeting of this length – I don’t
+know you would have time to discuss the substance of the three, but I think
+we do need to find a way to work in a coordinated fashion on – as we move
+forward.
+Anyone else? I don’t know if there’s much more we need to say about that at
+the moment but I think if there are some, you know, we can either open a
+cross email list or we can just communicate kind of first at the leadership level
+and then, you know, more broadly on what we see as - Bruce said maybe what
+we should do as a beginning, and maybe Chantelle can assemble a list for
+those three groups of who from these three groups participates in those.
+We can then, you know, have kind of a super caucus and put together an email
+list for those three, one for each of those for the CSG participants and we can
+– that has kind of a major back channel for each of those three groups.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 6
+
+That’s what I would suggest as a concrete action item. It’s always nice to end
+a topic with an action item so I will.
+Chris Wilson:
+
+Any other thoughts or questions about that? Anne?
+
+Anne Aikman-Scalese:
+
+Yes thank you. Anne Aikman-Scalese for the transcript. I’d love to
+
+get a recruit from the BC to participate in the human rights side of things
+because, you know, businesses are authors as well and authors’ rights are kind
+of being, you know, the human rights thing is going forward, right.
+It’s going to be in the – it’s in the bylaws that sort of – and the framework –
+developing the framework for human rights…
+Chris Wilson:
+
+Are you moving to Item 2?
+
+Anne Aikman-Scalese:
+Chris Wilson:
+
+Okay so you’re still…
+
+Anne Aikman-Scalese:
+Chris Wilson:
+
+I just was – you were talking about coordination.
+
+Oh I was – yes.
+
+Anne Aikman-Scalese:
+Chris Wilson:
+
+No I got to leave in two minutes.
+
+And if we can find…
+
+Item 1 was the three PDP Working Groups and Item 2 is coordination of
+Workstream 2 but…
+
+Anne Aikman-Scalese:
+
+Oh.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 7
+
+Chris Wilson:
+
+…if nobody – I don’t think anybody else had anything on this one so we’re on
+to Item 2.
+
+Anne Aikman-Scalese:
+Chris Wilson:
+
+Never mind.
+
+No. So – and we are on to Workstream 2 so go ahead Anne.
+
+Anne Aikman-Scalese:
+
+Just looking for somebody else to volunteer from the BC or ISPs in
+
+relation to authors’ rights and the human rights development so that authors
+are not ignored. Companies are authors as well as we know especially under
+U.S. law.
+Greg Shatan:
+
+And this is Greg. I would even go one step further, which is to say that there
+are certain folks who view the human rights topic and the development of the
+framework of interpretation for the human rights bylaw as an opportunity to
+create a viewpoint of human rights as being opposed to intellectual property
+rights and the rights of businesses.
+There are, you know, I’ve seen discussions on other lists about, you know, IP
+laws being suggested in the UK that weaken human rights. I mean, that – there
+are those who view these as somehow opposable or opposing factions.
+And the other faction, you know, is focused on cherry picking human rights
+and on – there are also those who view human rights as a universal concept
+and are very pro-human rights at – while being pro-IP. So I’ve got Steve and
+J. Scott.
+
+((Crosstalk))
+Steve Metalitz:
+
+Yes first I – this is Steve Metalitz.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 8
+
+((Crosstalk))
+Steve Metalitz:
+
+I certainly agree with what you just said about the importance of this issue.
+But I signed up for this subtopic on Workstream 2 as well as another topic and
+never received any emails.
+Do you – does anybody know if those lists have even been activated? Maybe
+Steve does.
+
+Steve DelBianco: Steve DelBianco, CCWG Representative for the CSG and we spent all day
+Sunday Steve -- were you there for some of that -- going through each of the
+topics, continuing to generate both participants and observers and inviting
+people to give what we called lightning talks, which is supposed to be a five
+minute presentation on your vision for a particular topic.
+And there was a discussion of diversity, SO/AC accountability and human
+rights. When that happens that’s designed to generate even more people to
+sign up.
+So I see your name in there and Anne to your point there are two BC
+members, Andrew Mack and…
+((Crosstalk))
+Steve Metalitz:
+
+But if those lists have…
+
+((Crosstalk))
+Steve DelBianco: …Phil Corwin and…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 9
+
+Steve Metalitz:
+
+No one’s ever sent me…
+
+Steve DelBianco: …and those are sign ups and there are no emails yet to anybody in those lists.
+The answer is no and we are – this is the key time though to step up as a
+rapporteur, the penholder.
+Consider it a chair really for that working group and it could be a year to year
+and a half long project with probably the weekly or biweekly calls so it’s a lot
+to ask.
+But currently under the human rights we have three people that have stepped
+up to say they want to work as rapporteurs: Tijani Ben Jemaa, Neils Stenover
+and Nigel Roberts.
+And that’s not a – that’s a mix of oil and water with respect to the last two
+names so it could be very difficult to achieve I think progress at drafting
+unless other people come in and take the pen so that early on if we frame it
+properly there’s a better chance of having it make sense, of having it not
+cherry picked - to your point and to Greg’s point not cherry pick, and keeping
+in mind that in Workstream 1 we locked in a bylaw that says that these human
+rights are not enforceable by ICANN or against other parties.
+So enforceability – I can’t tell you how many times I’ve quoted that particular
+bylaw on Capitol Hill where some are seeing potential concerns that the
+human rights could become enforceable.
+Well we share that concern in Workstream 1 and we prevailed over some
+parties in CCWG who wanted them to be enforceable, but the bylaws say they
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 10
+
+shall not be enforceable and we’ve got to stick with that and get some other
+BC members, IPC and ISP members to sign up right now.
+But I will let you know believe me as soon as the list starts sending, but it’s
+really going to be controlled by who steps up to take charge. So if Tijani,
+Neils and Nigel work out amongst themselves this week that they’re all three
+going to be rapporteurs they would be the ones to send the first email.
+J. Scott Evans:
+
+You know, I just think when we tried – when we did the IRT we tried to have
+a system when we looked at the clearinghouse that would recognize any sort
+of right and allow the Registries to pick what rights.
+So if you were in Germany where they give broader rights to book titles and
+authors and you were a German Registry you could seek to protect that; not all
+Registries but a German Registry could and that we would have that database
+used to take in the same type of information.
+And there was a real push against it. You see where we ended up. Only thing
+that ended up in the database is this. So I want everyone to be very cognizant
+that I am very worried that this is going to be used as some sort of backdoor
+way to grossly circumscribe the rights that we’re able to protect.
+What – even as far as trademarks and copyrights as they exist today I think
+that we need to pay very close attention. This is something that I think our
+membership is not paying attention to.
+And we not only need to participate but we need to make sure that we’re
+reporting out what the developments are so that our GR people and our
+organizations can get involved as well if Steve and others need help on the
+Hill.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 11
+
+So – or in Brussels wherever that may be because – and now I guess in the
+UK as well. But seriously this is something - I think we talked about this when
+I was in Buenos Aires last summer.
+We sort of looked at it and thought that, you know, all of our companies have
+human rights perspectives. And I think we need to be able to harness that and
+have a message that we all are – take human rights very seriously but not to
+the point that they begin to circumscribe the IP rights that protect the
+economic development of many countries through their IP whether that be
+copyright, whether that be trademark, whether that be patent.
+Anne Aikman-Scalese:
+
+Yes I completely – this is Anne again for the transcript – Aikman-
+
+Scalese. I completely agree with J. Scott and I think it’s very important. I do
+also think that authors’ rights are very important.
+And I was reading the European Union Statement of Human Rights yesterday
+and there is a very succinct provision in there that says, “Intellectual property
+rights shall be respected.”
+So right now I’m headed off to the Human Rights International Working
+Group because that is where a lot of this policy has been generated over the
+last year with Neils’ leadership.
+And so it’s not just participating in the Workstream 2 group. I think we have
+to have a presence in the human rights whatever it is. I don’t know what it is.
+Greg Shatan:
+
+It’s the Cross Community – it’s called the Cross Community Working Party
+on Human Rights. It is however chartered by no organization and has no
+charter.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 12
+
+It is actually a – an activity of the Non-Commercial Stakeholder Group so if
+we ever feel like forming a Cross Community Working Party we can do so
+apparently.
+And it’s important to take pains when it’s mentioned to point out that it is not
+in fact any kind of Cross Community anything. There are a couple of
+members of – outside of NCSG in it but it has no, you know, balance or
+legitimacy.
+It’s basically an Article 19 Working Group NCSG fronted activity and it
+should be viewed as nothing more than that, which is exactly why I’ve been
+hesitant to get involved in it. I’ve spoken at it but made it clear that I am
+visiting.
+Anne Aikman-Scalese:
+
+Steve what’s my article on the universal convention for authors?
+
+Article 26? Who knows?
+Steve Metalitz:
+
+Twenty-seven.
+
+Anne Aikman-Scalese:
+Greg Shatan:
+
+Twenty-seven. Okay thanks.
+
+Steve DelBianco.
+
+Steve DelBianco: Hey Anne are you going to the GAC session on human rights at 9:15? Okay.
+A number of us will drift over there as well. That will reveal that the
+government representatives in the GAC have – are a mixed mind when it
+comes to the human rights stuff.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 13
+
+Several didn’t want to see ICANN step into implementation or respect for
+human rights and some do, and of course everyone has their favorite human
+rights that they want to respect and not.
+But I did think it was worth identifying that Workstream 2 has been scoped in
+the bylaws. It’s been scoped and it’s to consider which conventions or
+instruments if any should be used.
+And if a convention like the U.N. Declaration on Human Rights is selected as
+the convention then we – all of us would run to suggest that you couldn’t
+cherry pick.
+You would have to take them all or none. The second is to consider any
+policies and frameworks that ICANN needs to fulfill its commitment to quote
+unquote respect human rights.
+The third was how these frameworks could be discussed and drafted for broad
+stakeholder involvement. I don’t think that’s a particularly important one.
+This is important though. What effect would the bylaw have in ICANN’s
+consideration of GAC advice? So the notion there is if ICANN’s going to
+respect human rights as defined by a framework and GAC advice comes over
+the transom even if it were consensus GAC advice – if that advice was in
+conflict with one or several of human rights we had checked the box on,
+would that actually give rise to a challenge?
+Would the Board be able to suggest we’re not going to accept that advice from
+the GAC? Well none of that’s defined right now because there’s no
+enforcement mechanism.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 14
+
+The bylaw doesn’t provide for that but that is where we’re going to have to
+see if there’s a clash between what the GAC comes up with. And then there’s
+a question as to whether the bylaw on respecting human rights would affect
+how ICANN’s operations are carried out.
+Now that could be interesting too because some of those 30 human rights in
+the U.N. Declaration are things like the right to -- I know -- sick leave and
+vacation policy.
+There are some employment aspects to those human rights. Are those going to
+be suddenly respected in an explicit way in ICANN’s employment practices?
+Good question.
+And then finally how will the implementation of this bylaw interact with
+future ICANN policies and procedures, and that means PDPs and policies that
+we develop?
+Would they simply consider and check the box on human rights as we’re
+going through a PDP, or is there a more definitive way that human rights will
+have to shape the conclusions that are drawn?
+Is there a checklist we’ll have to adhere to? The – it is a risk and it’s going to
+take a year to year and a half. And I think that the game is not in the GAC
+where they’re working on human rights.
+It’s not in the NCSG Working Party. I think Workstream 2 is where it’s going
+to happen so I realize there are other groups but I think they’re all going to
+converge on this Workstream 2.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 15
+
+Greg Shatan:
+
+One sec. I’ll speak briefly and then Cheryl. This is Greg Shatan. I was
+essentially a co-rapporteur with Neils in the work team that we had that
+brought forth the human rights bylaw and I felt that was necessary for balance.
+And I have contemplated throwing my hat in the rapporteur ring for this one,
+but there’s only so many hours in the day and so many fish in the sea and the
+jurisdiction group to look at too.
+I think I may have put myself forward for that one rather than human rights,
+but I will be an active participant having kind of been there when the stage
+was set.
+And I would say that on the last point that you mentioned Steve that there are
+those in there who would very much want this group or I’d say the, you know,
+the Workstream 2 human rights group to establish a human rights review
+process for every PDP Working Group, for every policy, a non-PDP for
+everything that ICANN does and that filter could be set in a number of ways.
+And if it’s set only to filter for freedom expression and privacy defined as
+things which are - as opposed to intellectual property rights and the rights of
+those to, you know, look for bad guys.
+That’s going to be a problem so it’s going to be a long slog. I’ll be there to
+keep them honest but I think I’d rather maintain my non-neutrality than to
+slog along in a – behind the scenes.
+But while you say that Nigel and Neils are oil and water on a personal level, I
+think on the human rights level they’re actually more aligned and not to our
+benefit.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 16
+
+So anybody else feels like, you know, taking a role in the lion’s den, you
+know, speak up now in the accountability mailing list. Cheryl?
+Cheryl Miller:
+
+Thanks Greg. Just a question. I unfortunately was not able to be there on
+Sunday. So the topic of human rights is pretty broad. Are the sort of subtopics
+within that already definitely defined or is that up for further discussion?
+
+Steve DelBianco: I just read those to you. What I read to you is…
+((Crosstalk))
+Steve DelBianco: …in the bylaws as the subtopics on this human rights for that.
+Cheryl Miller:
+
+So the – there won’t be any added then. There’s not room to add – to kind of
+broaden that or is there room to broaden it?
+
+Steve DelBianco: The list I just read you is broad enough.
+((Crosstalk))
+Cheryl Miller:
+
+Oh yes I agree. I agree.
+
+((Crosstalk))
+Steve DelBianco: …the scope of any different conventions of human rights - particular human
+rights in the list and a - an array of ways that it could impact what we do at
+ICANN.
+Cheryl Miller:
+
+Okay.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 17
+
+Steve DelBianco: Yes what I just read is broad enough Cheryl that I wouldn’t fear it getting any
+broader. It’s…
+Cheryl Miller:
+
+Okay.
+
+Greg Shatan:
+
+Paul?
+
+Paul McGrady:
+
+Paul McGrady. Not to change subjects but I don’t know how much time we
+have allotted for the Workstream 2 topic. And I think the human rights issue is
+an important one but I think that the jurisdiction issue is the most important
+one.
+There is discussion on that list on that topic already about going out and
+finding the most friendly jurisdiction for ICANN. That list presupposes that
+there is a problem with its current jurisdiction.
+When asked about those problems where and how the community developed
+that list of problems it was, you know, silent. But there are a lot of
+presuppositions that are being baked into that.
+People are actually talking about going out and studying a list of jurisdictions.
+They’re your standard North American and Western European exclusion of
+everybody else jurisdictions, so it’s not like we’re doing a real global effort
+here.
+But this is, you know, there – this is going to get out of control if it doesn’t
+come into control. And then interestingly because Workstream 1 was based
+entirely on this very novel idea of a sole designator, which barely exists in
+California, the idea of changing a jurisdiction means we are talking about
+undoing Workstream 1 in its entirety.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 18
+
+And so there’s two issues here. One is the underlying substantive issue of
+whether, you know, how we try to get that under control so that we don’t end
+up spending an enormous amount of time in Workstream 2 dealing with that.
+But secondly, whether or not we can get some guidance from somebody
+somewhere, the CCWG or the ICANN Board or somebody who says to us
+that, “Workstream 2 is lovely but Workstream 2 can’t be used to undo
+Workstream 1,” because if we talk about changing ICANN’s jurisdiction
+there’s more than – there’s – it affects every policy decision across the entire
+organization.
+And so any thoughts from the folks who are more heavily involved in
+Workstream 1 who pushed off this issue to Workstream 2 in terms of how this
+should be scoped and organized - I would appreciate it.
+I volunteered to be the rapporteur on this topic. So far there are no other
+volunteers and so it seems like unless somebody else steps up I’m on a
+collision course with having to do it. But guidance would be great. Thank you.
+Greg Shatan:
+
+I’ve got Marilyn then Steve DelBianco then Steve Metalitz.
+
+Marilyn Cade:
+
+Thank you. Marilyn Cade speaking. I’m not volunteering but I am going to
+refer to something that you might think about looking back to for a
+jurisdiction.
+When I was on the President’s Strategy Committee for three years we retained
+Hans Corell, a former Under Secretary of the United Nations in international
+areas that are definitely related.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 19
+
+And we actually studied various jurisdictions in great detail. So let me speak
+privately to (J.J.) who did support us. I can’t remember who the legal staff
+person was who supported us but you might want to just circle back.
+And just to give people comfort there’s that much paper associated with it. It
+was a really detailed study and it might be something that would help you to
+kick the can down the road so to say, because it would at least point out that
+there’s been an extensive examination of the various legal jurisdictions.
+And, I mean, we actually looked at moving to Switzerland. At Vin Cerf
+instruction we looked at moving to Addis Ababa. It – let me look into that and
+get back to you.
+Steve DelBianco: Steve DelBianco. Paul is correct and bold and brave for stepping up to chair
+the jurisdictional element. But I do want to keep reminding you that we
+actually adopted a report and the report became bylaws.
+They’re adopted but they’re not effective until the transition but the bylaws
+make it clear about what it is the jurisdiction group looks at. And many are
+happy to conflate jurisdiction with the question of where is ICANN
+headquarter located and incorporated?
+And those are completely separate topics. All of the bylaws and Articles of
+Incorporation established that ICANN shall be in California and it is
+incorporated under the Public Benefit Corporation law of the State of
+California.
+That is all taken as a given and Paul’s right. You can’t in Workstream 2
+casually pick up and change the incorporation of ICANN, much less location
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 20
+
+in any casual way without breaking everything we put together in Workstream
+1.
+So if there are only three bullets in the bylaws of what the jurisdiction
+Workstream 2 is supposed to look at, confirm and assess the gap analysis
+about concerns with the multiple layer of jurisdiction, and that jurisdiction has
+to do with, “Well who’s privacy laws apply to this Registrar when the
+Registrant’s from Northern Ireland, the Registrar’s in the United States of
+America and the principle operations are in Romania?”
+So that’s jurisdiction? Which laws apply to multi-location activities? Second
+bullet. Are there potential alternatives and benchmarks for the ability of
+matching all CCWG requirements using the current framework?
+I don’t even know what that means – where that came from. The third and
+final one was consider potential Workstream 2 recommendations based on the
+conclusions of the analysis.
+This is not an analysis of where is ICANN located. It never was. There are
+some on this premature list who want to make that the topic. It’s not going to
+be the topic.
+Instead we’ll try to make it clear of which jurisdiction applies and how that
+affects ICANN’s contracts and activities and policies, and I don’t think that
+has much to do with where the headquarters is.
+So thank you Paul for getting involved. I’ll be watching that. I think there are
+four BC members who’ve already signed up to be involved in that one as well.
+Thank you.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 21
+
+Greg Shatan:
+
+Steve Metalitz.
+
+Steve Metalitz:
+
+Steve Metalitz. Steve DelBianco made a very important point there and I think
+that topic is very important to us as well about which laws apply. So – and the
+Articles of Incorporation settled the other question.
+Again I would just point out that this just seems like a strange and very unICANN-like way to proceed that, you know, rapporteurs are being chosen,
+topics are being identified including topics that are outside the scope of what
+they can do without actually involving people who have signed up for it.
+So I guess you have to turn up a day early at an ICANN meeting to participate
+in those discussions. So I hope those who are participating could perhaps
+remind ICANN Staff that they should activate these mailing lists if they
+actually want to get this work started. Thank you.
+
+Greg Shatan:
+
+Anything else on this? Lori Schulman.
+
+Lori Schulman:
+
+It’s not directly on the jurisdiction side. I just wanted the group to know I did
+volunteer as a rapporteur for the last listed Workstream, the conduct while
+engaging in discussions for Board removal. So if I am chosen we’ll have a
+representative there.
+
+Greg Shatan:
+
+Thank you Lori and it’s good to see members stepping into these lion’s dens.
+Anything else on this topic? I do expect to be involved in the jurisdiction
+stream heavily and speaking of jurisdiction I see Phil Corwin has just joined
+us.
+Phil gave one of the lightning talks on jurisdiction at this Sunday festivities.
+Steve DelBianco?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 22
+
+Steve DelBianco: And it’s one contextual item. It’s not a deep dive into substance but of the
+nine Workstream 2 threads that are in the bylaws six of them involve
+transparency and accountability, and those six overlap pretty tightly to the
+ordinary scope of the ATRT, the Accountability and Transparency Review
+that’s called for under the Affirmation of Commitments.
+And the next one of those ATRTs is supposed to begin in January 2017. And I
+identified a significant clash, a clash of coverage because both ATRT and
+Workstream 2 would at the same time be looking at sweeping, important
+issues and maybe even coming up with recommendations.
+That’s a recipe for disaster and not only volunteer for the team but conflicts.
+So we undertook about a 40-minute discussion on Sunday afternoon with
+Board members present and how to resolve that.
+And we’re going to be recommending that ATRT 3 simply assess the
+implementation of ATRT 2 recommendations, and it’s a good bit of work with
+a lot of Staff research to assist it.
+They may come up with a conclusion that some of ATRT 2’s
+recommendations have yet to be finished and ought to be implemented. But
+we don’t want ATRT 3 to overlap with the work that’s in Workstream 2.
+Workstream 2 is open to all whereas ATRTs are limited to 21 individuals
+selected by the – either by the community leaders or in this case by the GAC
+and the ICANN Chair under the old AOC.
+More importantly Workstream 2 in the bylaws carries a much stronger stick
+for implementation. In other words Workstream 2 recommendations have to
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 23
+
+be accepted by the Board unless the Board can site a rationale that it’s against
+the public interest and vote by 2/3 not to implement it.
+And then there’s a whole consultation process with the CCWG where the
+Board has to a second time by 2/3 vote say that it’s against the public interest
+to implement it.
+That’s a very high bar for the Board to reject a Workstream 2
+recommendation on a tough thing like transparency of documents and Board
+meeting minutes and accountability.
+So we have much more leverage using Workstream 2 than the ATRT, and for
+those reasons that recommendation will probably go to the Board from the
+CCWG chairs later this week.
+So I did want to solicit CSG comments on that. I support this plan and was
+initiating it by trying to avoid the conflict and to increase our leverage. Is
+there – are there any points back on that? Any agree or support or opposition
+or questions?
+Greg Shatan:
+
+Well this is Greg Shatan. I do support the way/path forward that Steve
+DelBianco mentioned. I know, you know, just me and not the IPC speaking I
+would hope that the IPC would come to the same conclusion in Toto -- that is
+not a Wizard of Oz reference -- and that we could move forward with this
+because I think it is right.
+And I think rolling on from that a bit those are equally – those are important in
+many ways; not quite the, you know, lions and Romans and coliseum show
+that we’re going to get in the jurisdiction and the human rights.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 24
+
+But SO/AC accountability, you know, dovetails in many ways with the
+weaknesses of the GNSO review and with the effort that Paul McGrady has
+put forth on behalf of the IPC to have the GNSO in the empowered
+community, in post-transition ICANN, you know, looked at as a – as
+something that has to, you know, grow and change and not just become a, you
+know, an extension of, you know, the Council’s list of activities.
+There’s also Staff accountability, which in an alternate universe might have
+been the primary focus of Workstream 1. Instead we ended up focusing on the
+Board in many ways.
+So those are important. I think it’s important that we have folks in these
+groups and that we have, you know, again kind of coordination and many lists
+and back channels and appropriate ways to coordinate even if we don’t
+necessarily agree, but important that we don’t kind of all just act as like free
+floating atoms in these groups or worse yet, you know, leave a group kind of
+unpopulated.
+There may be some where we could afford to be unpopulated at the IDP group
+or something like that but, you know, it’s probably – and of course these
+workstreams will still come back into the plenary of the CCWG, which means
+that there is – while things are going to come out of those ovens fairly baked it
+doesn’t mean that they’re not going to get chopped when they’re looked at by
+the full plenary which means that it’s important to be on the plenary mailing
+list and not just wait are kind of concentrate on a sub team or a work stream
+list because things will move there. So, you know, kind of a call again for both
+population and coordination of efforts in those groups. Thanks.
+Chris Wilson:
+
+So this is Chris. I - maybe just - because I know we’ve got only about 30
+minutes left, but I would say with regard to the first two item - agenda items,
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 25
+
+you know, I think going forward I think obviously I expect that the CSG
+excomm, if you will, will probably have a call, at least one or two calls before
+ICANN 57 in Hyderabad
+And I suggest we probably keep these two topics on the next CSG agenda, the
+open meeting agenda in Hyderabad, as well, because it obviously will be a
+little bit - slightly further down the road on the Bellman of some of these ideas
+and I’m sure future ICANN meetings as well.
+So these may be sort of semi-permanent topic items for us to discuss in the
+future interactions. So why do we go ahead and move off of those. That was
+some good discussion.
+You know, quickly, there’s - again, we’ve got a few things here. I know item
+three is with regard to auction proceeds. I think the thought was that we would
+have sort of this initial brainstorming session about sort of where we are
+collectively, potentially on that issue.
+Tony Holmes:
+
+Chris…
+
+Chris Wilson:
+
+I don’t know that anyone in particular that has any thoughts of the top - Tony,
+why don’t you go ahead.
+
+Tony Holmes:
+
+Oh, does this window mention that Tony Harris wanted to be here but he’s
+just walked in, so that’s fine.
+
+Chris Wilson:
+
+Did Tony - did you want to speak about the auction proceeds issue?
+
+Tony Harris:
+
+Yes.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 26
+
+Chris Wilson:
+
+Okay, why don’t you go ahead? Yes.
+
+Tony Harris:
+
+Good 40 everyone. Tony Harris for the record. Catching my breath. I just
+went back (from the next gen). I’m on the auction proceeds drafting team. I
+just wanted to comment. We made quite a lot of progress.
+There’s an almost finished draft ready. The draft will have to be approved, the
+charter, the draft charter - sorry, and then there will be a call for the cross
+constituency working group which will be the actual group of people who will
+start to define how the auction proceeds money will be used.
+I just wanted to raise one simple point from - at least from our perspective.
+We discussed this in the ISP constituency. There is a tendency within the this drafting of the charter group.
+It’s coming basically from Alan Greenberg, to steer away from the original
+intent which was that these funds be used in a manner consistent with
+ICANN’s mission.
+And now there’s wording been introduced, and the meeting that we had, I
+think it was yesterday - no, Monday, sorry - on this yesterday afternoon, it’s
+now - the wording has been changed to say it’s not - use the funds in a manner
+which would not be inconsistent with ICANN’s mission.
+Basically, the objective of changing that wording is to make it more flexible.
+This is something which has come up and has some measure of support. And
+having heard from two board members who participated on our team who are
+(Asha) and (Erica Mann), who brought concerns to do with our fiduciary and
+tax issues which could - let’s say if the funds are not properly allocated and
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 27
+
+distributed in a manner which they should be, they could evolve into a
+situation where tax competitions arise on ICANN’s tax status.
+So I think, is the CSG, I’m suggesting we should pay attention to keeping this
+on course. I think we should insist on these funds being used in a manner
+definitely consistent with ICANN’s mission.
+And the second point is we have a meeting today with the contracted party
+house. And I heard some of them at this meeting on the drafting team, our
+auction proceeds, bringing up something which I think is pretty pertinent, and
+that is how will these funds be used to ensure that the new gTLD program is
+successful?
+And some of you may have issues with new TLDs and what may come from
+that as far as intellectual property infringement and so forth which is
+understandable. But the objective of, let’s say, the universal acceptance group
+activities is to get these things to work properly.
+So I think basically that sometime in - but say the process of when the cross
+constituency working group actually begins to function, at least from my
+perspective, we should give some support as a suggestion that part of these
+funds be used in a manner which would ensure the proper functioning of new
+gTLDs. It would save at least the (IFCs) a lot of headaches. Thank you.
+Chris WIlson:
+
+Marilyn raised her hand and then Phil after Marilyn.
+
+Marilyn Cade:
+
+I may need to go back - Marilyn Cade speaking - I may need to go back and
+clip my long dissertation speech yesterday during this meeting. During the
+study, during the GNSO council when the council had a working group on
+release of second letter, single letter names - second level, single letter names.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 28
+
+I spent two years on that working group and at the time was representing
+Overstock. And we became counsel to look at many of these issues. There are
+a lot of complications here that, when I was sitting in that room, I heard a lot
+of aspirational hopes from people that I think, first and foremost, need to be
+framed under a really thorough legal and financial analysis of some of the
+points that Tony just made.
+And they’ve done a lot. There is a good summary, about an eight page paper.
+but my suggestion very strongly is that we do, within our individual
+constituencies, need to look at this but - and having a responsibility about the
+overall health and survivability of the organization, there’s a real problem
+with making sure that members of the community who have interest in how
+the funds are spent understand what the legal implications are for ICANN’s
+not for profit tax status and also for sessions of self-dealing.
+There are people, perhaps portfolio gTLD providers, who would like to be
+able to be recipients of the funding and one way or another which would put
+ICANN in a very, very difficult, not just hack situation but perhaps even
+antitrust situation.
+So I’m very interested in this working group. I do have a lot of background
+from that two years, but within our constituencies, I think we might want to
+distribute the page paper, and you know, think about it from the business side
+of ICANN (aside) from the political implications and risks of some of these
+decisions.
+I also made a suggestion that we not rely on a standard SOI but because of the
+financial implications of these decisions, that we have a specialized conflict of
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 29
+
+interest declaration. (Erica) suggested that no one should be allowed to be on
+the working group if they were ever going to be expected to benefit.
+I think that’s unrealistic. But I did also suggest that ICANN might need to
+seriously consider not allocating the funds themselves but establishing a
+framework and even a not-for-profit that would then allocate the funds so that
+there would be more independence. But there are a lot of ideas floating
+around.
+Phil Corwin:
+
+Thank you. Phil Corwin for the record, and pretty much - all the thoughts,
+Marilyn. It’s very supportive what you said. I’m happy to hear, Tony, that tax
+considerations may limit the ways in which these funds can be used and keep
+them consistent with ICANN’s purpose because I’m concerned that we’ll get
+a vast number of suggestions that go way outside of ICANN’s remit.
+So far as the universal acceptance, I don’t have, personally, big problem with
+that. I feel that’s a narrow technical issue. I would be very concerned about
+using these to market new TLDs overall, because one, that could have tax and
+legal implications, and two, marketing is extremely expensive and all the
+money could go really fast for that.
+And three, again, personal view, I would hope that it would be consistent with
+setting up a nonprofit entity to administer this, that these funds would be
+viewed as an endowment that if used judiciously can - and we don’t know
+when or if there will be a next round or whether there will be more last resort
+options.
+But we have $100 million and if that’s you do something they can give out $5
+- say 5 million a year in grants, they can last a very long time particularly even if it’s invested conservatively.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 30
+
+By concern that there will be a lot of proposals and when you add them all up,
+they’ll add up to more than $100 million and they’ll be pressured to just give
+it all away in one big squash and then it will all be gone and a lot of it will be
+wasted.
+So I really hope that we view this as a great opportunity to set up something
+enduring that can benefit the community over a long time. And it will make
+everyone happy has ideas for how to spend it all at once. But he can prove
+something of lasting value. Thank you.
+Chris Wilson:
+
+Paul.
+
+Paul McGrady:
+
+Paul McGrady. A couple of things - one, am afraid to speak because I’ve been
+told if I have any input into how this turns out that, you know, I’ll be
+disqualified and I assume that everybody will take it even further and say that
+every client that I represent will be disqualified.
+I think - and their children, in perpetuity, forever. To me it’s anti-ICANN to
+have a close working group where people are excluded just because they think
+they might bring some good idea to the table, right?
+What if I wanted to participate because I wanted to tell you about a charity in
+Ohio that’s doing amazing work on anti-Alzheimer memory, nonmedicinal
+that actually brings people back from where they were?
+But I can’t do that because, you know, I maybe somehow interested because I
+sit on their board or whatever, right? So I think that message number one is
+that the gag order needs to come of this. This is anti-ICANN. It’s nonsensical
+to me.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 31
+
+Message number two is, if there’s any possibility that these funds could be
+used to promote the industry rather than for charitable purpose, I really think
+that this (team) needs to go back and look at how did all these funds come into
+this pot, right?
+Because I’ll tell you, some of these funds came into this pot over objections
+from brand owners who had a bid on their own trademark because I can failed
+to have an applicant guidebook that recognized prior rights and put forward a
+dispute mechanism that made sense.
+The dispute mechanism was based on an infringement analysis and everybody
+in this room knows you can’t have infringement if you don’t have use, right.
+So we need to have at least some reserve for some way to separate out the old
+on gains from the gotten gains before we start pumping this thing back into
+the new gTLD industry.
+And so I think that this group - and I’m afraid to say that because I don’t want
+anybody to be disqualified that knows me or used to go to college with me
+from be able to be involved in this.
+But I think that this team needs to look at that issue. I think it’s an important
+one. I think it will be a pure disaster if we take money from these folks to help
+these folks’ business.
+And lastly, and again, this is just as I’m listening this week, one of our major
+issues in work stream two is diversity. And nobody can seem to figure out
+how to solve that problem.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 32
+
+And it seems to me that if I were ICANN and I were looking for a problem to
+solve, I might be thinking that these funds would be a good - maybe
+something to think about in that space rather than just sort of wringing our
+hands and sing we wish we could reach people. We wish we could get people
+here to these meetings. This is a lot of money and it could be used for really
+good purposes if it’s used for good purposes. Thank you.
+Chris Wilson:
+
+Andrew Mack, and then we have 20 minutes left so I may have to close the
+loop on this topic. But Andrew Mack, when you go ahead.
+
+((Crosstalk))
+Andrew Mack:
+
+A couple things. First of all, I was in the same meeting with Marilyn
+yesterday. And it was really pretty striking how big the question this is, how
+widely diverse expectations and hopes are for this.
+And secondly, how complicated this is. I’ve come out of a development
+background, not software development but international development.
+Worked with the World Banks for a while. I know how complex this is.
+One hundred million dollars is a hell of a lot of money, no question, but by the
+same token, with this many people in these many diverse expectations, I think
+we will go through it conceivably very quickly.
+I like Phil’s idea of using this as a catalytic longer-term kind of thing. I like
+the idea of using this to promote diversity and especially geographic diversity
+(unintelligible) from the (global south) and things of that nature.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 33
+
+I do think that we’re going to put ourselves in a terrible bind if we break the
+rules in such a way that people who have experience working with this kind of
+thing would be disqualified for participating.
+Those people in the ICANN community haven’t done this. This is actually
+very, very complex, thinking about how do we create accountability for the
+community with money that’s being pushed out if people send us back, for
+example, report about the work that they are doing and we don’t have the
+experience to really look at that, analyze it, understand it and related back to
+the community?
+I think that will be - that won’t solve the problem. I would suggest that we
+probably want to kind of keep these funds and some big proximity to what
+we’re doing here in a sense that there may be real opportunity for us to take
+the work that we do - that we’re doing around things like diversity and use
+these funds to amplify those.
+If we get to the very worthwhile charity about Alzheimer’s in Ohio, we may
+be a couple standard deviations too far away from ICANN’s core mission and
+my concern would be that that literally everybody would have a claim. And
+that might be - so that we need to write this closely enough so that we’re close
+to ICANN, I think.
+The last thing I would suggest is that managing a portfolio of grants is its own
+art. And what we may very well end up with is a push to try to do a very small
+number of larger grants just because it is so difficult to manage this and any
+expectations around it and the accountability around it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 34
+
+And that’s fine but we’ve got to be worried about them (capturing) from a few
+large organizations and lack of impact as a result. So I think it’s a complex
+question.
+Chris Wilson:
+
+Denise, did you have a quick comment?
+
+Denise Michel:
+
+I’m sorry if I missed that - missed this, but what’s the inflection point for this
+issue? Where does this (auction) proceeds process stand? The timing has have decisions been made on what the conflicts are and what people will be
+chosen for the working group and how it will operate? I’m just curious as to
+where we are in this.
+
+(Tony Harris):
+
+Well, actually what was shown yesterday was the first, let’s say, consensus
+draft of the charter because that’s all we’re working on now, the charter for
+the - to be able to set up a cross constituency working group.
+The actual definition of how the funds will be used and how this will be
+structured will come from the working group which hasn’t even been
+convened yet.
+Now, the timing would be we should have the drafting process finished before
+Hyderabad and then - because it has to go out for public comment and so by
+Hyderabad, I think that we would probably be in the stage where it will be a
+call for volunteers for the cross constituency working group and we expect a
+lot of volunteers for that, of course.
+
+Chris Wilson:
+
+Thank you, Tony, for raising that issue and we look forward to talk - Marilyn,
+okay.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 35
+
+Marilyn Cade:
+
+I’m going to make one other quick comment. So, I think the three substantive
+points that I made, and I will the pull out the comments I made because they
+are fairly lengthy, one, I think that the - what’s in the charter, draft charter
+right now, proposes no more than five members from each chartering
+organization and I raise the very strong objection and concern about that,
+noting that there would not even be one per constituency and the diversity.
+Two, I also pointed out that the working group should have a very strong set
+of advisors with expertise on tax implications, antitrust implications for the
+organization and would possibly need outside expert advisors.
+And I want to point to (Andy)’s comment, I now support two organizations one commercially focused and the other an NGO that we see grants or they
+have - it’s a really - it’s both a science and an art but also a management
+nightmare.
+So I think there is something that we should do between - early. We should
+look at that draft charter within each constituency and think about what our
+top priorities are about trying to improve before a gets chartered.
+Otherwise, I think we’re going to find ourselves, because money is involved,
+and a very difficult and almost personality and opinion driven situation that’s
+even a challenging as the accountability working group.
+
+Chris Wilson:
+
+Okay, final comment and then we have to move on. Sorry. Go ahead.
+
+Ellen Shankman: Ellen Shankman. I’m working on the NomCom. I will say that that was a very
+big issue for the people as we were looking at board members and being
+concerned about how the issue of what was going to be happening with the
+auction proceeds.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 36
+
+And what I can say is that I was surprised by the various constituencies in the
+room that there were many more shared concerns than arguments about what
+might be done with it, and shared concerns about how do you decide what
+should be.
+And so I think that this group might well be worth having conversations with
+some other constituencies because I believe that there are surprising natural
+allies on this that we should be exploring.
+Chris Wilson:
+
+That’s a good point. This is Chris. Thank you. Thank you, Tony, for raising it
+and thank - I think will continue to have to discuss this I am sure as the charter
+gets finalized and beyond.
+Well, when we go ahead and turn to any of the item - item four. I’m looking at
+Steve Metalitz. I may only have - unfortunately, I only have about ten or so
+minutes left.
+But maybe, Steve, you can tee up the issue now and we can, you know, talk
+about it in future opportunities, but at least tee up the idea that you’re talking
+about with regard to GNSO fit for purpose and how you see things and we can
+move from there.
+
+Steve Metalitz:
+
+Thank you. Steve Metalitz. We’ve talked many times in this group about the
+GNSO structure and how it marginalizes the concerns of the constituencies in
+this room.
+I think we have a potential for dealing with at least part of that due to the fact
+that the GNSO has been given literally hundreds of new roles to play under
+the revised bylaws, rules that are in many cases distinct from the only role that
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 37
+
+the GNSO council now has under the bylaws which is to manage the policy
+development process.
+So the staff - the ICANN staff prepared a paper on this or chart on this which I
+think is very well organized and has some good information in it. I circulated
+it to the leadership of this stakeholder - this CSG.
+Our document, which is less well-organized but poses 101 questions about
+these new roles and who will carry them out, but it’s clear that - and the result
+of that - or as - following on from that, I think there will be a motion, as I
+understand it before the GNSO council this week to set up a drafting team to
+work on this.
+So, in other words, I think there are a lot of - the only GNSO-wide structure
+that we have is the GNSO council, but many of these issues don’t involve
+policy development, and therefore, there may well be a need for new
+structures.
+I’ll just add to that that looking at the framework that’s been proposed for
+cross community working groups in the future, the cross community working
+group on cross community working groups, or whatever it is, that supposed to
+set the ground rules for this in the future, it’s exactly the same question.
+That document emphasizes several times that CCWGs are inappropriate for
+policy development and so a CCWG should only be set up where there’s not
+primarily a policy development focus.
+And so the question of how the GNSO would participate, choose its
+participants, decide whether to approve a charter, decide whether to accept the
+results are endorsed the results of the charter and so - of the CCWG, none of
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 38
+
+those are tasks that are properly assigned to the GNSO council under the
+current bylaws.
+So, as I said, I think this is a big challenge for the GNSO. It also, I think, is
+potentially a big opportunity for those of us who feel that the current structure,
+which was set up only to create a voting system within the GNSO council on
+policy development matters, disadvantages are - (sort of) marginalizes our
+views.
+So I’ll just - I’m happy to, you know, if you haven’t seen either the staff paper
+or the 101 questions paper, I would be happy to take those available, and as I
+think Paul has offered, the motion that will be brought up, I think, tomorrow
+and I would encourage your counselors to support it. You know, it’s just the
+first step, I think, but this is an important issue for us going forward. Thank
+you.
+Chris Wilson:
+
+I see, Phil - and I think that’s an old hand for Phil, so I think Paul, I see your
+hand up. Yes.
+
+Paul McGrady:
+
+Thank you, Steve. I think there is definitely going to be a tug-of-war on this
+issue and there’s going to be resistance to setting up additional structures
+within the GNSO.
+So we need, first of all, the motion to (second), so anyone who’s a counselor
+around the table that would like to do that, that would be nice because right
+now I’m looking like the lone wolf here.
+And secondly, we’re going to need some volunteers. Those have to be
+identified quickly to be on this drafting team. There’s no limit, at least, as the
+motion is written now, how many people can participate.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 39
+
+But we need some people who are prepared to get into the weeds on this. And
+Heather and I are already at 250% capacity, and I hate saying that because it
+drives my wife crazy because his own 100%. But we’re full up, so that means
+that if people have an interest in this topic, they’re going to have to get their
+pans out. Thank you.
+Chris Wilson:
+
+John.
+
+John Berard:
+
+Thank you, Chris. John Berard. As co-chair with Becky Burr of the cross
+community working group on cross community working groups, I would
+encourage those who have an interest, particularly in light of the distinctions
+that Steve has made to attend the session where having today at 5:00.
+It is not the intention of our recommendations to supplant the policymaking
+responsibilities of any as SO or AC but it’s pretty clear since our - being
+commissioned in 2014, that there is an increasing reliance on cross
+community working groups for the business of ICANN.
+And the objective is to set a set of recommendations - guidelines, really,
+setting the rails between which cross committee working group drafting teams
+can establish themselves and operate effectively. But the policymaking,
+ultimately, is the responsibility of the SO or AC that participates in the cross
+community working group.
+
+Chris Wilson:
+
+Other thoughts, questions about this? I think I’ll certainly circulate Steve’s
+material to the BC list if I haven’t already. If I haven’t, I apologize. And, you
+know, obviously this is - I guess detecting a theme here, these are agenda
+items that I think will be continuing on further discussions, further meetings.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 40
+
+But I appreciate Steve teeing it up now. We can talk about it, of course, in
+Hyderabad and beyond. We have seven minutes left. I’m open to maybe
+turning to Tony Holmes if you want to provide a quick update on the GNSO
+teachers issue and then closing up from there.
+Tony Holmes:
+
+Okay, thanks, Chris. Just a very quick update because there is a session on this
+today at 13:30 in Veranda One. I just to say that as far as this group is
+concerned, there is a linkage with the last issue and the work of the futures
+group.
+And the focus of that group really is to recognize that there is a common
+problem space, get some dimensions around that had to focus on possible
+scenarios that could help address that, not to come up with a solution.
+But I think it comes back to what Steve was saying earlier, to try and get some
+momentum to actually work on this, we need to pull out all stops and I see this
+GNSO futures group as part of that. So I won’t take any more time on that but
+with suggest people come along to the session (today). Thanks.
+
+Chris Wilson:
+
+Thanks. Any thoughts on - any questions, comments on that? Good. Okay,
+well, then I guess last item on the agenda, real quick, and again, we only have,
+unfortunately, five minutes left, but I know there was some - I should say
+controversy or concern about the processes in regard to the GNSO GAC
+liaison.
+We thought maybe it was something that we could tee up for the discussion
+from all of us and coordinate perhaps thinking on the process, at least the
+process issues on that.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 41
+
+I’m happy to bring it up now. We can at least bring up initial concerns and
+then, you know, have off-line discussions or additional discussions down the
+road. But perhaps, just flagging the issues. So if there’s - I don’t know, Greg,
+if you want to flag it or Paul or somebody else, perhaps just like the issue for
+folks that don’t - may not be privy to exactly what the issue is. Paul.
+Paul McGrady:
+
+So this is, I think, frankly a communication bump in the road more than
+anything else. We asked for volunteers for GAC liaison role. The IPC put
+forward something that we think was imminently qualified.
+In fact, he’s the chair of the subcommittee for GAC issues within INTA. He
+leads a team of about 30 or 40 people. And nobody else put anybody forward.
+And so instead of saying, gee whiz, nobody put anybody else forward, would
+you guys mind if we extended this thing out, what - and collect more people
+which is, you know, that is legit.
+What hit (the council list) was, well, we’re not ready to you applied but we
+don’t - you know, the message was that we don’t think he’s qualified and so
+we need to push this thing out.
+Well, there’s a difference between not being qualified and you didn’t get
+enough people, right? And so I took umbrage with that and so there was some
+controversy on the list about that.
+The bottom line is, at the end of the day, the decision was made to try again
+and so they’re pushing it out with the goal of getting more applicants. That
+will be sometime in the fall.
+Mason Cole is doing a great job and has graciously agreed to continue on until
+we can get that sorted. So I would just say that the take away from this is that
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 42
+
+we should put everybody in - all of us should put somebody forward so that
+we have at least somebody that’s, you know, not necessarily from the
+contracted party’s house, at least been considered for the role.
+And I think that procedurally, and from a TR standpoint, the message has
+already been - there’s no point in repeating the message. I don’t think we’ll
+see this kind of bump - speedbump again. I think it’s handled.
+So the takeaway is, think about whether or not you would like to be in that
+role and let your leadership now sooner rather than later. That’s get some
+good, robust applications in. Thank you.
+Chris Wilson:
+
+Wolf-Ulrich and then Susan.
+
+Wolf-Ulrich Knoben: Thank you. Wolf-Ulrich, ISPCP. Well, I was following the (Paul said on
+counselors), as well, and I would say it was not the best way it was started and
+the best timing it turned out.
+So I didn’t know who was applying or how many people were applying for
+that job. I had personally some background talks to people where I was
+thinking they might be appropriate for that job so they would bring the skills
+for the job.
+And it turned out for some of them that the timing was not the best one
+because, as usual, volunteers are asked for and there are not too many
+volunteers. People who have the skills, they’re loaded with other work and
+with other applications in other working groups, and so.
+And it turned out it might be better (but from those told) if this call would
+happen at the end of the - at the time of the AGM in Hyderabad because there
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 43
+
+will be a change of people were around (the counter) who are (now the)
+working group and so on.
+That might be better. And they gave me the impression and that’s where I
+accepted what was decided from the council, well, to move that: to repeat that
+call them when we are in Hyderabad. So I do hope that we will have more
+(resonance) then at that time and I’m confident we will have, and that’s the
+case, so that’s my impression. Thanks.
+Chris Wilson:
+
+Susan.
+
+Susan Kawaguchi Just really quickly, in Marrakesh when we were - the GNSO council was
+discussing this and it was - and I realized that it was a closed process and there
+cannot be transparency about the candidates, I pushed back vigorously.
+Didn’t win that argument, but there is no reason that this should not be
+transparent and we shouldn’t know who is up for the roles and he was
+interested.
+Maybe if we had known, we might have come to the same result right now.
+Maybe we would decide that we should wait and get a bigger pool of
+candidates but it seems a little mysterious that, A, the GNSO council doesn’t
+really get to weigh in on - it’s a very important role, in my opinion.
+And there’s no transparency to the candidates that, you know, the argument
+was, oh, it might - may deter people from applying and it’s, like, every other
+review team, you know who has applied.
+So I’m hoping that the GNSO council will work on a standard process that for
+every special role, because there will be more of them, that it’s transparent,
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:20 pm CT
+Confirmation # 8995832
+Page 44
+
+there’s a committee that reports back and we know exactly what the
+candidates are. So that’s my initiative to - well, not my initiative, but I would
+like to move that forward.
+Chris Wilson:
+
+Thanks, Susan. So it is - it’s 9:15. This is Chris, and now we have the noncommercial stakeholder group that wants to start their meeting and I respect
+that. So why don’t we go ahead and wrap up?
+I’ll just lastly say, there is a letter that the BC has drafted with regard to
+asking a series of quick questions. Andrew Mack drafted it regarding
+questions regarding moving locations of ICANN meetings and the impact it
+has on the community, et cetera.
+I’ll be circulate that to the CSG Excomm so they so they could circulated to
+their constituencies and we would love to get the entire Commercial
+Stakeholder Group to sign on of that letter if possible. So just look out for that
+in the future. Anyway, thank you all very much and we can stop recording.
+Thank you.
+
+END
+
+

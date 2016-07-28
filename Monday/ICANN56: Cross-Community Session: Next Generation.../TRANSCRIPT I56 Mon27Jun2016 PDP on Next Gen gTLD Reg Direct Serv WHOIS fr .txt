@@ -1,0 +1,1549 @@
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de nouvelle
+génération
+Lundi 27 juin 2016 – 15h00 à 16h30 EEST
+ICANN56 | Helsinki, Finlande
+
+MARIKA KONINGS :
+
+S’il vous plait, Mesdames et Messieurs, prenez place dans la
+salle. Nous allons commencer cette séance. Merci.
+Bonjour à tous. Veuillez prendre place dans la salle. Nous allons
+commencer. Si vous avez des conversations en cours, vous
+pouvez aller les poursuivre à l’extérieur de la salle, s’il vous plait.
+Merci à tous de participer à cette réunion, une séance
+intercommunautaire sur les services d’annuaire de données
+d’enregistrement de nouvelle génération. Je vais céder la parole
+d’ici un instant au président du groupe de travail PDP, mais
+avant cela, j’aimerais faire quelques annonces de logistique.
+Sachez que les micros qui sont sur les tables ne sont pas activés.
+Donc, nous avons certains collaborateurs dans la salle; vous les
+voyez ici avec leurs affiches. Si vous souhaitez intervenir, levez la
+main et nous allons leur demander de venir vers vous.
+On vous encourage à vous connecter à l’Adobe Connect en ligne,
+et il y a deux questions pour le sondage qui nous intéressent. On
+
+Remarque : Le présent document est le résultat de la transcription d'un fichier audio à un fichier de texte.
+Dans son ensemble, la transcription est fidèle au fichier audio. Toutefois, dans certains cas il est possible
+qu'elle soit incomplète ou qu'il y ait des inexactitudes dues à la qualité du fichier audio, parfois inaudible ; il
+faut noter également que des corrections grammaticales y ont été incorporées pour améliorer la qualité du
+texte ainsi que pour faciliter sa compréhension. Cette transcription doit être considérée comme un
+supplément du fichier mais pas comme registre faisant autorité.
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+aimerait connaitre votre point de vue là-dessus, pour l’équipe
+sur le leadership qui aimerait bien comprendre quel est le
+niveau de connaissance des personnes dans la salle sur cette
+question, et après cette séance, quelles sont les personnes qui
+ont participé à cette réunion pour pouvoir faire une évaluation
+de la manière dont nous organisons ces réunions à l’avenir.
+Vous pouvez télécharger l’application de cette réunion si vous
+ne l’avez pas encore fait, pour pouvoir nous donner votre avis
+sur ces séances. Et pour ceux qui n’ont pas encore pris place
+dans la salle, n’hésitez pas à venir vous asseoir dans la salle. Il y
+a encore des chaises libres. Il y a également une possibilité de
+participer à distance et la possibilité pour les gens qui nous
+suivent à distance de poser des questions. Je crois que pour ce
+qui est des annonces de logistique, j’en ai fini. Oui.
+Et bien sûr, cette réunion est enregistrée, et il y a des
+transcriptions qui sont faites. Je suis sûre d’ailleurs que
+l’enregistrement est en cours. Ça a commencé. Oui, je vois qu’on
+opine du chef dans la salle. Donc, d’accord.
+
+CHUCK GOMES :
+
+Bonjour à tous. Je m’appelle Chuck Gomes. Je suis le président
+du groupe de travail des services d’annuaire de données
+d’enregistrement du PDP et encore une fois, j’aimerais vous
+
+Page 2 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+souhaiter à tous la bienvenue à cette réunion. Il s’agit de la
+première séance intercommunautaire du nouveau type, format
+de réunion. Donc, c’est très intéressant pour tous. Je sais que
+beaucoup d’entre vous ont remis en cause ce nouveau format,
+ce modèle. Pour ma part, je suis très optimiste et très motivé par
+rapport à ce nouveau format. Pourquoi? Parce que la chose
+première que fait l’ICANN, c’est le développement de politiques,
+et l’accent qui a été mis sur cette question cette semaine et pour
+les personnes qui d’une manière générale ne participent pas à
+nos réunions et qui sont ici aujourd’hui et qui vont pouvoir le
+faire demain, est extraordinaire. Cette séance va être conçue
+autant que possible pour faciliter l’interaction et promouvoir
+cette interaction.
+J’aimerais vous présenter les membres de cette équipe de
+leadership. Je me suis déjà présenté. L’un de mes viceprésidents, David Cake, sur ma droite Susan.
+Un autre vice-président n’a pas pu être là, parce qu’il avait une
+autre réunion, Michele Neylon. Ils proviennent de chaque unité
+constitutive, des autres unités constitutives. Moi, j’appartiens à
+l’unité constitutive des Opérateurs de registre, et les autres
+appartiennent aux autres sous-groupes.
+Donc, il est très important de vous présenter les deux autres
+membres de notre équipe de leadership, parce qu’ils sont
+Page 3 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+extraordinaires, et on serait tout à fait perdu sans eux.
+Remercier également le personnel de l’ICANN, qui sont tous les
+deux sur ma droite, Lisa et Marika Konings, que vous connaissez
+tous depuis un moment. Et Lisa a participé au travail de l’EWG
+auparavant.
+Ce que j’aimerais faire très rapidement, c’est de vous demander,
+en levant simplement la main, les personnes qui sont des
+membres du groupe de travail, pas des observateurs. Mais ceux
+qui sont des membres du groupe de travail, levez la main s’il
+vous plait. Et maintenez cette main bien haute pour qu’on
+puisse vous compter. Parce que ces gens travaillent très dur.
+J’aimerais les remercier.
+Qui sont les observateurs du groupe de travail? Merci. Merci.
+J’espère que ce travail d’observation vous plait, se passe bien, et
+à tout moment, si vous voulez devenir membre de ce groupe de
+travail, vous êtes les bienvenus. Contactez, dites-nous à l’équipe
+de leadership si les choses ne vous plaisent pas.
+Et maintenant, combien d’entre vous participent pour la
+première fois à cette réunion? Levez la main, s’il vous plait. Très
+bien. Parfait!
+Très bien. Pas de problème.
+
+Page 4 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Bien. Maintenant, nous allons essayer de vous présenter
+brièvement cette thématique, et je vais me tourner vers David,
+qui va vous faire cette présentation-introduction sur le PDP. Ça
+va être très rapide. Mais ensuite, vous aurez l’occasion de poser
+des questions; pendant toute la semaine d’ailleurs, vous aurez
+l’occasion de poser des questions.
+
+DAVID CAKE :
+
+David Cake au micro. Je suis l’un des vice-présidents de ce
+groupe.
+Comme Chuck l’a dit, nous avons un vice-président pour chaque
+unité constitutive de la GNSO. Moi, je représente Electronic
+Frontiers de l’Australie.
+Je vais faire une présentation très brève sur ce que fait ce
+groupe de travail. J’espère que je n’ai pas besoin de vous
+expliquer ce qu’est le WHOIS – vous faites partie de l’ICANN,
+mais je vais vous expliquer ce qu’un RDS, parce qu’on ne l’a pas
+beaucoup employé auparavant. Il s’agit d’un service d’annuaire
+de données d’enregistrement. Et le système de WHOIS est l’un
+des
+
+exemples
+
+de
+
+ce
+
+service
+
+d’annuaire
+
+de
+
+données
+
+d’enregistrement.
+À l’heure actuelle, c’est le seul système qui existe. Et on nous a
+demandé de voir s’il doit être remplacé par un autre, un autre
+
+Page 5 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+service d’annuaire de données d’enregistrement de nouvelle
+génération.
+Donc, lorsqu’il s’agit du RDS, il y a des choses que cela implique
+de manière très spécifique, par exemple SAC51. Il ne s’agit pas
+du protocole lui-même, voir quel est le protocole : voilà un petit
+peu le travail de l’IETF; ce qui a permis petit à petit de remplacer
+le protocole WHOIS.
+Ce qui ne veut pas dire qu’il y a plusieurs caractéristiques qu’on
+n’utilise
+
+pas.
+
+Pourquoi?
+
+Parce
+
+qu’elles
+
+impliquent
+
+un
+
+changement dans les services d’annuaire sous-jacents.
+Également, les données qui y sont déjà contenues. On parle par
+exemple de données qui sont contenues dans le WHOIS, mais
+pas les bases de données par rapport au système, par rapport
+aux gens qui peuvent y avoir accès, etc. C’est de cela qu’il s’agit :
+système de données collectées, qu’est-ce que WHOIS, qui y a
+accès, combien de temps ces données sont-elles stockées, etc.
+Le travail de ce groupe de travail bien particulier a, comme l’a
+dit Chuck, un historique avec le groupe d’experts qui s’est
+penché sur – je ne vois pas très bien le but de cet intitulé de ce
+groupe de travail. Il s’agissait d’un groupe de travail – d’un
+groupe de travail d’experts, constitué directement par la
+communauté de l’ICANN, donc un groupe de travail GNSO PDP
+
+Page 6 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+créé par le Conseil d’administration avec les experts en dehors
+de l’ICANN et à l’intérieur de l’ICANN pour voir ce que l’on
+pourrait avoir pour remplacer le WHOIS actuel.
+Le système WHOIS a une longue histoire. Il date des années 70.
+Que ferions-nous si l’on devait créer le WHOIS aujourd’hui. Ça,
+c’est un exemple d’analyse qu’ils font. Ils élaborent des
+rapports, très longs, qui sont élaborés par des personnes très
+intéressantes, très intelligentes, mais peut-être qu’à l’époque, il
+ne s’agissait pas d’un processus ascendant, multi parties
+prenantes et axé sur les besoins de la communauté. Mais cela a
+démontré qu’il était possible de remplacer le WHOIS en théorie
+et qu’il y a plusieurs intérêts à faire cela.
+Donc, ce groupe de travail a été constitué afin de passer en
+revue, de manière détaillée, ce rapport, nous pencher en
+profondeur sur ce que contenait le rapport et sur la teneur des
+services d’annuaire de données d’enregistrement, les révisions
+de WHOIS, les rapports SSAC, et la manière dont les données
+sont collectées jusqu’à présent. Ça a représenté un travail
+énorme. Et on a tellement de travail qu’il a fallu créer un Conseil
+d’administration spécial pour essayer de voir comment nous
+allons faire face à cette tâche énorme, cette entreprise énorme.
+Nous avons travaillé sur la transition IANA. Ça, c’est encore plus
+important, mais là aussi, c’est un chantier énorme qui nous
+Page 7 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+attend, et il faut voir comment nous allons aborder ce chantier,
+et on va diviser les choses en étapes. Chuck va vous donner un
+peu plus de détails là-dessus dans un instant. Mais ce qui est
+important, c’est qu’on se situe actuellement à l’étape numéro
+un dont l’objectif est, d’une manière générale, de voir si nous
+mettons en place un nouveau RDS.
+L’EWG a démontré qu’il était possible d’en concevoir un. Cela
+présente des avantages par rapport au WHOIS, qu’il s’agirait
+d’un système beaucoup plus moderne. Mais nous n’avons pas vu
+s’il s’agissait d’un processus de politiques ascendant, axé sur les
+besoins de la communauté, et c’est un peu l’objectif de notre
+étape numéro un. Avons-nous besoin d’un nouveau système?
+Nous avons passé en revue les conditions nécessaires, les
+conditions nécessaires d’un RDS : s’il en fallait un maintenant,
+voir si le système actuel du WHOIS peut être d’une manière ou
+d’une autre modifié pour couvrir toutes ces conditions actuelles
+ou allons-nous dire non.
+Si on peut avoir un système moderne qui répond à tous les
+besoins actuels de l’ICANN. Alors, il faut partir d’une technologie
+sous-jacente et d’hypothèses de départ sous-jacentes.
+Donc, conclusion évidente, qui a donné lieu à une discussion, à
+savoir que ce protocole permet un accès différentiel plutôt que
+
+Page 8 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+réserver l’accès à certaines personnes. Certaines personnes
+utilisent cette caractéristique; si c’est une caractéristique
+essentielle, il faut procéder à certains changements par rapport
+à ce RDS. Et donc, on peut procéder d’une autre manière. On en
+est à ce stade-là des choses actuellement.
+Nous avons une liste énorme de conditions nécessaires et c’est
+presque ingérable. C’est énorme. Ce sont des données que nous
+avons collectées en analysant un nombre infini de documents
+par rapport aux discussions touchant au WHOIS – le nouveau
+IDSS, toute la législation sur la protection des données, toutes
+les contributions provenant des SG, des AC, et des unités
+constitutives, des SO, etc.
+Donc, voilà où on en est un petit peu maintenant pour vous
+donner une idée de toutes les étapes préalables, de ce qui nous
+attend. Est-ce que j’ai oublié quelque chose, Chuck? Bien.
+Donc, l’étape numéro un consiste à voir si nous avons besoin
+d‘un nouveau RDS ou non. Nous allons présenter un rapport
+d’ici la fin de l’année – nous l’espérons, qui ensuite va donner
+lieu à un rapport distribué à l’ensemble de la communauté, qui
+sera présenté au Conseil de la GNSO, selon le format habituel
+des PDP de la GNSO. Et nous espérons qu’il y aura ensuite des
+discussions au sein de la communauté. Mais en fin de compte, la
+décision principale, c’est de savoir si on a besoin ou pas d’un
+Page 9 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+nouveau RDS. Dans ce rapport, nous allons présenter les
+conditions qui s’imposent d’après nous par rapport à ce nouvel
+RDS. Une explication, une justification : pourquoi avons-nous
+besoin ou pas d’un nouveau RDS, quelles sont les conditions
+requises qui nous obligent à changer ou à modifier ce système.
+Et ensuite, nous passons à la deuxième étape.
+Lors de la deuxième étape, on voit les choses de la manière
+suivante. Bien, nous avons besoin d’un nouveau RDS. Voyons
+quel type de RDS il va nous falloir et là, il y a des diagrammes
+très compliqués par rapport à ce type de RDS, un certain
+nombre de choses qu’il faut prendre en considération, par
+exemple toutes les questions techniques, pratiques. Quelles
+seront les conditions nécessaires pour modifier les processus
+internes de l’ICANN, les évaluations de risque. Bref, toutes les
+choses qu’il faut mettre en place et qui font partie de la
+conception.
+Ensuite, étape numéro trois, voir comment mettre cela en place
+dans les faits, et là, on en est loin.
+
+CHUCK GOMES :
+
+Merci. Chuck au micro pour ceux qui nous suivent à distance.
+Alors, revenons à la diapo numéro cinq. Très brièvement, s’il
+vous plait. Parce que je veux m’assurer que vous puissiez
+
+Page 10 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+visualiser les étapes dont il a été question. Phase un, étape
+numéro un : conditions potentielles d’un nouveau RDS, si vous
+considérez qu’un nouveau RDS est nécessaire.
+Tout ce diagramme a été conçu avec beaucoup de soin, donc
+lisez-le attentivement. Ensuite, étape numéro deux : le travail de
+PDP pour respecter ces conditions nécessaires. Et étape trois,
+comme David vient de le dire, c’est l’étape de mise en œuvre et
+de cohabitation avec le système actuel. Peut-être que la phase
+trois va se passer de manière concomitante avec la précédente.
+Voilà le diagramme que nous avons préparé. Je ne vais pas
+passer en détail ce diagramme, mais il y a neuf domaines qui
+impliquent des conditions que nous avons identifiées. Ensuite,
+vous pouvez voir que ces domaines s’appliquent à la mise en
+œuvre du PDP.
+Diapo sept, très rapidement, qui était à l’écran il y a un instant.
+Nous allons essayer de parvenir à un consensus au sein du
+groupe de travail lorsque nous allons analyser les sept domaines
+que vous avez vus sur la diapo précédente. Ce que nous faisons
+à l’heure actuelle, c’est la chose suivante : nous travaillons sur
+ces conditions fondamentales. Et comme David l’a dit, nous
+avons créé une liste énorme de conditions possibles.
+
+Page 11 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Ce que l’on va vous demander aujourd’hui, c’est de suggérer des
+conditions qui, d’après vous, ne figurent pas sur cette liste.
+Donc, ce que nous attendons de vous, c’est que vous puissiez
+faire une comparaison entre cette liste et celle qui d’après vous
+serait la liste correcte ou complète.
+David a parlé des conditions fondamentales qu’il faut remplir
+lors de la phase un, l’étape numéro un. Vous le voyez ici à
+l’écran. Donc, je ne vais pas le lire. Mais ce que j’aimerais en
+revanche faire dès maintenant, parce qu’on va avoir des
+personnes qui vont nous présenter des exemples de ces
+conditions, et on va vous laisser le soin ensuite de le faire.
+Mais avant de faire cela, passons au deuxième point à notre
+ordre du jour. Diapo suivante, s’il vous plait.
+
+DAVID CAKE :
+
+On a une liste très longue de conditions, mais ce que vous
+pouvez faire aussi, c’est de nous envoyer des documents qui
+d’après vous n’ont pas été pris en compte pour élaborer cette
+liste.
+
+Page 12 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+CHUCK GOMES :
+
+Oui. Merci David. Peut-être que vous allez mieux comprendre les
+choses à mesure qu’on avance. Alors, on a parlé du plan de
+travail et des opportunités. On va en parler dans un instant.
+
+SUSAN KAWAGUCHI :
+
+Comme vous pouvez le vous – à partir de cette diapo, je dois dire
+que Chuck et Lisa et Marika ont beaucoup travaillé pour que ce
+plan ait des bons résultats. Maintenant, nous travaillons entre le
+9 et le 11. Et voilà pourquoi ce travail de sensibilisation et de
+diffusion va être fait après une délibération. Ensuite, nous allons
+aborder l’étape douze concernant la délibération sur tous ces
+besoin possibles et que nous puissions nous mettre d’accord ou
+pas sur ce qui va être demandé. Nous pourrons voir aussi ce qui
+a été décidé pour le reste de l’année, les points qui vont être
+abordés dans notre travail et nous pouvons maintenant
+aborder, voir la prochaine diapositive. Je ne sais pas si nous
+pouvons voir cela. Voilà. Merci.
+Nous avons donc une première étape de diffusion, externe et
+formelle, et nous avons travaillé avec la communauté, nous
+avons reçu leurs réponses.
+Le groupe de travail analyse tout cela avec le reste des éléments.
+Et en ce moment, nous en sommes à une étape externe de
+diffusion et de sensibilisation qui se termine demain, le 28 juin.
+
+Page 13 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Si vous avez des commentaires à faire, nous serions heureux de
+vous entendre. Nous avons en ce moment – nous nous occupons
+de la planification d’autres périodes pour la sensibilisation. En
+ce moment donc, nous sommes à la période, à la première
+période, la première étape. Nous avons besoin de la
+contribution de vos commentaires pour pouvoir prendre des
+décisions sur ce système.
+
+CHUCK GOMES :
+
+Merci Susan. Je voudrais faire un commentaire sur nos dates
+butoir et notre plan de travail. Je crois que tout le groupe de
+travail et même les observateurs comprennent ceci. Mais
+lorsque nous établissons les dates butoir, nous sommes
+vraiment conscients du fait qu’il ne s’agit pas de dates butoir
+rigoureuses. Nous avons une liste de conditions sur un système
+RDS. Mais nous allons voir qu’il y aura d’autres conditions après
+cette date. Ce sera un processus très dynamique, parce que
+nous apprenons au fur et à mesure que nous avançons, au fur et
+à mesure que nous résolvons les problèmes.
+Vous allez comprendre que ces dates butoir sont utiles pour
+continuer à aller de l’avant et pour résoudre des questions ; elles
+ne sont pas aussi rigoureuses, ces dates butoir, que nous ne
+puissions pas les modifier. Bien. Maintenant, nous allons
+
+Page 14 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+considérer le point numéro trois sur lequel nous allons le plus
+travailler aujourd’hui.
+Vous pouvez voir la première puce – Susan vous a déjà parlé à
+propos de ceci, nous devons dire si nous pouvons parvenir à un
+consensus sur toutes ces conditions que nous allons établir. Le
+deuxième point ou la deuxième vignette indique un domaine
+pour lequel nous travaillons avec les membres du groupe et sur
+lesquels il est demandé des conditions supplémentaires. Nous
+voulons vous demander de nous aider là-dessus aujourd’hui.
+Nous allons donc être ouverts à la réception de nouvelles
+conditions pour un système RDS. Maintenant, dans la prochaine
+diapo, je veux que nous nous concentrions sur ce point. Voilà les
+cinq domaines sur lesquels nous allons travailler. Nous allons
+dans les semaines qui viennent, nous allons nous occuper de
+trois de ces domaines dans leur ensemble pour le dire en
+quelque sorte.
+Nous ne savons pas lequel de ces domaines va être le premier
+sur lequel nous allons travailler. Nous allons tenir compte des
+utilisations et des propos. Ensuite, la confidentialité et enfin,
+l’accès restreint. Nous parlons des éléments sur les données.
+Voilà donc les trois premiers points. L’accès sécurisé. Nous
+allons aller et venir sur ces trois domaines, puisque que ce sont
+des domaines qui sont en rapport étroit. Ensuite, nous allons
+
+Page 15 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+nous occuper de l’accès sécurisé et de la précision, et puis il y a
+les six dernières questions qui sont résumées dans la partie
+bleue, en bas. C’est les questions concernant le travail, le travail
+interdisciplinaire.
+Voilà donc d’abord quelles sont les conditions possibles ou les
+contraintes possibles pour que vous puissiez commencer à
+réfléchir. Vous avez ici quelques idées qui peuvent vous aider un
+tout petit peu. Quelles sont les contraintes ? Quelles sont les
+conditions possibles que ce nouveau cadre de politiques du
+service d’enregistrement des nouveaux gTLD envisage ? Vous
+pouvez dire : ceci peut être fait au moyen du WHOIS et s’il ne
+pourrait pas l’être, il faudrait voir quelles sont les politiques de
+RDS auxquelles il faut répondre dans ces nouvelles conditions.
+Nous vous le disons pour que vous puissiez commencer à
+réfléchir et vous présenter en tant que bénévole volontaire.
+Nous cherchons donc des points très stricts et clairs. Il faut que
+vous soyez très bref, que vous soyez très précis par rapport à vos
+commentaires et ce que vous allez proposer, parce que nous
+sommes très nombreux dans la salle.
+Nous allons pour commencer, nous allons commencer à parler
+avec des membres de notre groupe de travail. Lisa et Susan vont
+partager avec nous quelques exemples. Et nous allons
+
+Page 16 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+commencer avec la prochaine diapo. Je veux demander à Jim
+Galvin de venir avec nous ici – pour que tout le monde puisse
+vous voir. Jim va nous présenter un exemple concernant une de
+ces questions. Dans la prochaine diapo, nous pourrions voir un
+tout petit peu de quel domaine il va s’occuper.
+
+JIM GALVIN :
+
+Jim Galvin fait partie d’Afilias et il est président aussi du SSAC.
+Je veux donc focaliser ce que je veux dire sur les éléments
+d’enregistrement.
+Dans la partie supérieure et les éléments en particulier pour ce
+type de travail, en particulier pour répondre à la question
+suivante : quel est le but des données d’enregistrement?
+Je veux dire à ce groupe. J’ai demandé à ce groupe d’établir la
+différence entre deux points : les données qui existent à l’heure
+actuelle ne sont pas les mêmes que celles concernant la réponse
+précédente, à savoir la raison pour laquelle nous avons besoin
+de ces données, et pour quelle raison, destinées à qui, à quel
+utilisateur et puis quelles sont les données qu’il faut collecter
+pour pouvoir répondre à ce besoin?
+Ce qui est important pour cette discussion c’est que le groupe
+d’experts – que vous avez pu voir dans la diapo précédente, si
+vous avez lu leur rapport. Ils ont fait un excellent travail
+
+Page 17 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+lorsqu’ils ont établi la liste des réseaux ou la liste des objectifs
+pour lesquels les données WHOIS que l’on voit à l’heure actuelle
+sont en usage.
+Mais, je veux établir une différence. Ce n’est pas la même chose
+ceci que le fait de savoir pourquoi nous avons collecté ces
+données en particulier.
+C’est cette questions qui est peut-être la plus importante. Les
+données des noms de domaine sont recueillies. Est-ce qu’il faut
+continuer à le faire? Pour pouvoir répondre à tous ces objectifs
+pour lesquels elles sont utilisées aujourd’hui. Et c’est différent
+de la question générale ou de la question plus spécifique de ce
+que la communauté doit pouvoir utiliser, ce que la communauté
+est disposée enfin à soutenir.
+Voilà donc. Je pense que c’est une question élémentaire que ce
+groupe doit se poser. C’est une question différente de la
+réponse, de la question à laquelle le groupe d’experts a
+répondu.
+
+CHUCK GOMES :
+
+Merci beaucoup, Jim. Voilà donc une partie des conditions
+possibles. Je ne peux pas vous donner enfin la vue d’ensemble
+qu’il vous a donnée pour que vous sachiez quelles sont les
+
+Page 18 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+conditions, mais je voulais qu’il vous le dise pour que vous ayez
+un tour d’horizon.
+Voilà, nous parlons tout le temps de contraintes ou conditions
+possible, parce que nous n’avons pas encore commencé à
+débattre sur cela.
+Nous n’avons pas encore cherché à établir un consensus.
+J’espère, je suis sûr, qu’il y aura des conditions plus faciles à
+établir et d’autres qui nous demanderont davantage de travail
+pour parvenir à un consensus. C’est pour cela que nous devons
+voir un tout petit peu quelles sont les conditions que nous allons
+établir dès maintenant.
+Maintenant, je veux appeler Beth Allegretti.
+Beth va vous expliquer une autre condition possible.
+
+BETH ALLEGRETTI :
+
+Une autre condition pour l’enregistrement et les services
+d’enregistrement de données, c’est l’accès.
+Qui et comment peut accéder à ces données? Moi, je travaille
+pour le groupe Fox Entertainment. Je gère un portefeuille de
+domaines mondiaux, et ce que nous voulons, c’est vérifier notre
+information, à nous. Je m’en sers constamment pour m’assurer
+que notre information est correcte. Si nous achetons une
+
+Page 19 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+nouvelle unité de business, je ne sais peut-être pas quels sont
+leur noms de domaine.
+Et je me sers du WHOIS pour faire figurer d’autres noms de
+domaine sur le portefeuille de notre groupe.
+Une autre condition possible, c’est l’accès à ces données. Qui les
+a? Qui peut y accéder?
+
+CHUCK GOMES :
+
+Merci Beth, et maintenant, c’est Susan qui va nous parler.
+
+SUSAN KAWAGUCHI :
+
+L’une des conditions pour mon travail. Moi aussi, je m’occupe
+d’un portefeuille de noms de domaine mondiaux pour Facebook
+et la précision. J’ai un accès à ces données pour être sur qu’elles
+sont précises et m’assurer que des tierces parties ne se serviront
+pas de ces données. Les données de notre compagnie ne sont…
+Sont précises seulement pour nous pour enregistrer des noms
+de domaine de notre groupe. Et cela arrive beaucoup plus
+souvent que vous ne pourriez le faire.
+Donc, la précision est aussi une condition indispensable.
+
+Page 20 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+CHUCK GOMES :
+
+Merci Susan. Maintenant, on va revenir sur la diapo précédente.
+Lisa, pourriez-vous nous expliquer un tout petit peu cette diapo?
+
+LISA PHIFER :
+
+Bon, je vais vous présenter quelques autres exemples.
+Jim a déjà présenté la diapositive précédente, à savoir le besoin
+de savoir quel est l’objectif de l’enregistrement. Cela a été le
+résultat d’un rapport SAC. Ce serait un exemple de différents
+points que vous pourriez demander à inclure dans le travail de
+ce groupe de travail en tant qu’analyse des conditions possibles.
+Ces exemples expliquent un peu ce que l’on apprécie, ce que
+l’on n’aime pas, ce que l’on n’apprécie pas dans ce système du
+WHOIS.
+Il
+
+y
+
+a
+
+beaucoup
+
+de
+
+personnes
+
+qui
+
+s’inquiètent
+
+du
+
+fonctionnement du système du WHOIS ou de l’absence de
+certains mécanismes pour pouvoir accéder au contrôle, à
+l’intégralité ou à la confidentialité. Bon nombre de personnes
+estiment que cela est un manque dans le système du WHOIS. On
+pourrait le considérer comme une condition de confidentialité
+ou bien une condition permettant d’avoir un certain niveau
+d’accès sécurisé ou de contrôle d’accès au-delà du système
+actuel, qui a un accès public.
+
+Page 21 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Un autre exemple concerne vos attentes par rapport à ce
+système. Vous allez concevoir un nouveau système. À l’heure
+actuelle, vous n’êtes pas obligé de vous restreindre à ce qui
+existe actuellement dans le WHOIS. Et si c’est le cas, quelles
+serait les conditions pour un système différent du système
+actuel? À partir du rapport d’EWG, nous voyons que les données
+d’enregistrement fournies au moyen d’un service d’annuaire ne
+seraient présentées que pour un ensemble d’objectifs définis par
+une politique. Et, cela au moyen d’un service d’enregistrement,
+ne permettrait pas d’accéder à toutes les données pour toutes
+les raisons.
+Vous verrez aussi que tous ces exemples sont présentés dans un
+document. Voilà donc la modalité de travail de ce groupe. Nous
+avons commencé sur le travail qui a été fait auparavant sur ce
+thème, sur les différentes positions des différents groupes et
+nous essayons de voir quelles sont les conditions possibles à
+partir de cela, qui ont été disons proposées et travaillées dans
+cette direction.
+
+CHUCK GOMES :
+
+Merci beaucoup, Lisa.
+Maintenant, c’est votre tour. Je parle donc à tous les invités qui
+sont ici présents, que ce soit des observateurs, des groupes de
+
+Page 22 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+travail qui, normalement, ne participent pas non plus. J’ai
+demandé aux membres du groupe de travail de ne pas – enfin –
+participer, parce qu’ils auront beaucoup d’autres occasions de
+participation. Ils ont déjà présenté leurs commentaires.
+Je vous demande donc de parler très rapidement, d’être bref, de
+parler lentement pour que nous puissions comprendre tout cela,
+et que nous puissions le dire – enfin le montrer sur l’écran, vous
+faire voir tout cela sur l’écran.
+Il y a des micros dans la salle. Alors, levez le numéro des micros,
+comme ça. Ici, nous allons commencer par le micro numéro
+quatre. Il y a quelqu’un qui veut suggérer quelque chose, par
+rapport à cette condition.
+Nous allons donc avancer peu à peu. Nous allons changer de
+place peu à peu. Donc, s’il vous plait, dites votre nom et qui vous
+représentez si c’est le cas. Et, nous allons donc présenter les
+conditions.
+
+GEMA CAMPILLOS :
+
+Bonjour, je m’appelle Gema Campillos. Je suis la représentante
+de l’Espagne pour le GAC.
+La condition que je voudrais présenter serait la suivante, à
+savoir une présentation uniforme des données dans les
+
+Page 23 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+différents registres et les différents bureaux d’enregistrement
+ainsi qu’un accès aux autorités d’application de la loi.
+
+CHUCK GOMES :
+
+Bon, excusez-moi. Vous venez de présenter deux conditions.
+Donc, dites-moi si c’est deux conditions que vous présentez?
+
+GEMA CAMPILLOS :
+
+Donc, deux conditions. La deuxième condition concerne l’accès
+aux autorités d’application de la loi si c’est possible, voire si l’on
+peut consulter l’historique de l’enregistrement de noms de
+domaine.
+
+CHUCK GOMES :
+
+Est-ce que c’est une troisième condition?
+
+GEMA CAMPILLOS :
+
+Oui.
+
+CHUCK GOMES :
+
+Bon, d’accord. Je veux être sûr de l’avoir établie sur la liste.
+Merci beaucoup.
+
+Page 24 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Nous allons revenir dans cette partie de la salle ensuite.
+Maintenant, nous allons voir le micro numéro cinq si quelqu’un
+veut parler?
+
+MALCOLM HUTTY :
+
+Je m’appelle Malcolm Hutty de LINX. Je ne vais pas
+recommander cela comme condition, mais je voudrais que le
+groupe de travail considère la possibilité d’avoir une condition
+faisant que personne ne puisse utiliser et enregistrer un nom de
+domaine sans qu’il n’y ait une personne disponible et qui puisse
+être enfin suivie, qui puisse être tenue comme responsable de ce
+nom de domaine.
+Je pense que cela est fondamental et j’espère que cette
+question sera considérée de façon explicite. Et si vous pensez
+que la réponse est positive, il faut se demander si cela fait partie
+de ce que l’ICANN doit faire pour pouvoir parvenir à cet objectif.
+
+CHUCK GOMES :
+
+Merci Malcolm. Bien, maintenant, espace trois de cette salle. Au
+fond de la salle aussi.
+Bon, personne dans cette partie de la salle. Je ne vois pas trop
+bien d’ici. Donc, deuxième partie de la salle à l’avant.
+
+Page 25 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+THOMAS DE HAAN :
+
+Je m’appelle Thomas de Haan. Je représente le gouvernement
+des Pays-Bas au sein du GAC.
+Je ne sais pas si c’est une condition. Enfin, une condition légale
+imposée. Moi, je dirais qu’il faut traduire l’esprit de bon nombre
+de lois sur la protection de données qui existent au tour du
+monde. Ce que je dirais, c’est que la condition de base, c’est que
+les utilisateurs fournissant des données à des tierces parties
+doivent savoir exactement dans quel but cela se fait et à qui ils
+vont fournir ces données. Et cela doit se faire à l’avance.
+
+CHUCK GOMES :
+
+Oui, merci. Je pense que c’est quelque chose de raisonnable, de
+très raisonnable et vraiment possible par rapport aux
+conditions. Je vous en remercie.
+Et maintenant dans la première partie de la salle, là, à l’avant.
+Nous avons une question.
+
+SEBASTIEN BACHOLLET :
+
+Puisque nous avons un système d’interprétation dans la salle, je
+parlerais en français.
+Merci beaucoup. Sébastien Bachollet. Je voulais suggérer deux
+choses. La première c’est que quand je suis en tant qu’utilisateur
+individuel, utilisant un nom de domaine personnel, je
+
+Page 26 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+souhaiterais que mes données ne soient pas accessibles par
+toutes les entreprises marketing du monde, qui vont m’envoyer
+plein de mail si mon adresse mail est rendue publique. Et à
+l’inverse, quand j’achète quelque chose sur un site web, je veux
+pouvoir avoir accès aux données d’information de quel site web
+ils utilisent et qui sont les responsables. Est-ce c’est bien la
+bonne entreprise à laquelle j’accède en allant sur cette page
+web?
+Merci.
+
+CHUCK GOMES :
+
+Merci, Sébastien. J’apprécie beaucoup votre intervention.
+Je vois qu’il y a une personne qui souhaite intervenir dans la
+zone cinq. Donc, je reviendrais à la zone quatre dans un instant.
+
+DAVID HUGHES :
+
+Bonjour. David Hughes, membre d’IPC.
+Alors, la question que j’aimerais soulever, c’est une question qui
+a déjà été soulevée par rapport à l’accès de la part des autorités.
+Mais il y a d’autres aspects par rapport au fait que les gens
+pensent que leurs droits peuvent être enfreints, mais il y a aussi
+la question des autorités qui doivent avoir accès à ces données.
+
+Page 27 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+CHUCK GOMES :
+
+Merci beaucoup. D’ailleurs, j’en profite pour vous dire la chose
+suivante. Combien d’entre vous… Si vous participez à un groupe
+de travail, vous délibérez… Qui donc, si vous faisiez partie de ce
+groupe de travail, qui soutiendrait ces conditions?
+Alors, vous voyez un petit peu ce qui nous attend comme
+volume de travail au sein du groupe de travail.
+Nous sommes préoccupés, et au sein du groupe de travail, nous
+avons observé de la part de la communauté, des points de vue
+divergents au sein de la communauté. Donc, moi en tant que
+Président, j’ai essayé de parvenir à un consensus, mais c’est une
+tâche très difficile.
+Revenons à la zone quatre.
+
+WANAWIT AHKUPUTRA :
+
+Oui, merci. L’une des conditions, c’est d’utiliser une base latine
+pour l’ASCII, par exemple, et la question de la traduction, de la
+translittération des éléments de données qui serait nécessaire
+pour mettre en place un PDP sur la traduction, la
+translittération, les informations de contact, etc. Et toutes les
+informations concernant l’adresse qui sont contenues lorsque
+
+Page 28 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+vous n’utilisez pas l’ASCII comme langue locale ou lorsque la
+signification de ces informations n’est pas là.
+
+CHUCK GOMES :
+
+Oui, très intéressant. D’ailleurs, vous avez soulevé un point
+intéressant. Il y a beaucoup de groupes de travail qui concernent
+le WHOIS, qui sont en cours et qui vont devoir coordonner, en
+étroite coopération avec le nôtre, leur travail.
+On a un groupe sur la traduction et la translittération des
+données d’enregistrement. Donc, on va travailler main dans la
+main avec ces autres groupes.
+Intervention suivante, dans la zone trois, me semble-t-il.
+
+ANNE AIKMAN-SCALESE :
+
+Bonjour, Anne Aikman de l’IPC. J’ai une question par rapport aux
+notifications de la part du centre d’échange d’information sur
+les marques déposées. Lorsque nous voyons une notification par
+rapport à une marque déposée d’un bureau d’enregistrement,
+nous faisons cette notification au client et l’analyse à laquelle
+nous procédons est la suivante : nous voyons qui est le titulaire
+du nom de domaine. Très souvent cela élimine tout problème et
+ne suppose aucune action supplémentaire, parce que lorsqu’on
+voit quelle est l’activité, quelle est cette personne, on peut dire
+
+Page 29 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+au client qu’il ne s’agit pas d’un problème qui peut entrainer une
+quelconque complication.
+Dans notre cas, peut-être que 60 à 70 % de ces cas sont éliminés.
+Donc, si je ne peux pas obtenir ces informations-là par le client,
+alors il faut que je prenne un risque et que j’essaie de pousser
+plus avant cette enquête pour le bien de mon client. Donc, il faut
+que je voie si j’ai un accès par rapport aux notifications de
+requêtes du TMCH pour obtenir ces informations pertinentes.
+
+CHUCK GOMES :
+
+Merci Anne. J’apprécie énormément.
+Intervention dans la zone deux.
+
+NIGEL CASSIMIRE :
+
+Bonjour, Nigel Cassimire de l’Union des télécommunications des
+Caraïbes. Je pense que pour tout domaine enregistré, il devrait y
+avoir un contact du côté administratif technique et les
+informations devraient être accessibles au public. Pour ce qui
+concerne les données à ce jour, alors ça ce sont les données
+pour l’aspect technique, les autres pour l’aspect administratif.
+Ensuite, ce qui a été dit, ce sont des arguments qui peuvent
+effectivement être recevables, mais voilà ce à quoi devrait se
+
+Page 30 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+limiter les données : données d’ordre administratif et technique.
+Point.
+
+CHUCK GOMES :
+
+Merci beaucoup.
+Zone numéro un.
+
+STEFANIA MILAN :
+
+Bonjour, Stefania Milan pour le groupe des unités constitutives
+non commerciales.
+J’aimerais vous présenter un point de vue légèrement différent.
+J’aimerais plutôt que d’ajouter quelque chose à cette liste,
+retirer quelque chose. Minimiser les données qui figurent dans
+cette base de données, et ma contribution serait de supprimer
+certaines des données qui sont présentées là-bas, notamment
+l’adresse associée au titulaire de nom de domaine individuel.
+Parce
+
+que
+
+pour
+
+les
+
+bloggeurs,
+
+journalistes
+
+et
+
+autres
+
+organisations, c’est inutile de les exposer à des risques
+supplémentaires. Donc, nous aimerions que le groupe de travail
+prenne en considération cet élément.
+
+Page 31 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+CHUCK GOMES :
+
+Oui, merci. Attention ici ! J’apprécie ce que vous venez de dire,
+ce que vous venez de partager, mais ce que vous faites en fait,
+c’est que vous empiétez sur la phase de délibération.
+Nous allons décider, et d’ailleurs nous allons très probablement
+éliminer certaines conditions. Mais si je permets que les
+participants à cette réunion le fassent, alors je vais perdre le
+contrôle de cette réunion. Donc, je respecte tout à fait votre
+contribution. D’ailleurs, j’ai dû le faire à plusieurs reprises au
+sein du groupe de travail, en rappelant aux membres du groupe
+de travail : attention, vous êtes en train de vous éloigner des
+règles du jeu.
+Il faut délibérer là-dessus et il faut trouver une solution que la
+majorité d’entre nous va pouvoir soutenir ou bien - on va dire –
+on ne peut pas soutenir cette condition. Donc, ne prenons pas
+cette voie pour l’instant, s’il vous plait, parce qu’il va falloir des
+mois pour que notre groupe de travail emprunte cette voie-là.
+Or, on n’a qu’un temps limité aujourd’hui pour le faire.
+Donc, revenons à la zone numéro deux.
+
+JORDYN BUCHANAN :
+
+Page 32 sur 46
+
+Bonjour, Jordyn Buchanan de Google au micro.
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Alors, point de vue légèrement différent. Moi, j’étais
+impressionné en voyant la liste de conditions que vous avez déjà
+réunie.
+Peut-être que ce serait intéressant de procéder de la manière
+suivante, peut-être dire, ne pas inclure de conditions où il existe
+d’autres mécanismes alternatifs pour obtenir le même résultat
+d’une meilleure manière. Ça, ça serait peut-être utile pour faire
+le tri un petit peu entre toutes ces conditions.
+
+CHUCK GOMES :
+
+Oui. Merci Jordyn. Et j’aimerais faire un bref commentaire làdessus, parce que l’une des choses – et d’ailleurs Lisa et Susan
+font le gros du travail là-dessus, c’est qu’on établit une longue
+liste des conditions qui existent. Et pour utiliser l’un des termes
+de Greg Aaron, l’un des membres de notre groupe de travail, ce
+qu’on essaie de faire c’est justement ce que vous venez de dire,
+c’est-à-dire, voyons cela comme une manière de peaufiner cette
+liste pour qu’elle soit plus gérable.
+Merci beaucoup, Jordyn.
+
+JEAN-JACQUES SUBRENAT : Bonjour, Chuck. Jean-Jacques Subrenat au micro.
+En fait, ce n’est pas une condition que j’aimerais suggérer.
+
+Page 33 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Mais j’aimerais vous demandez de prêter une attention
+particulière à ce que je vais dire, parce que ça a une incidence
+sur vos conditions futures.
+Ce dont je parle, c’est d’un plan pour avoir un nouvel accord
+transatlantique sur la protection des données. Cela a fait l’objet
+de négociation entre la Commission européenne et les autorités
+nord-américaines,
+
+et
+
+s’est
+
+intitulé
+
+le
+
+bouclier
+
+sur
+
+la
+
+confidentialité.
+Je pense que cette communauté devrait être au courant des
+raisons qui expliquent l’échec d’un port sur d’abord une absence
+totale de transparence, mais surtout ça a été très partial. Et
+l’accord en principe qui a été négocié entre le gouvernement des
+États-Unis et la Commission européenne, il y a de nombreuses
+années maintenant, a été annulé par la Cour de justice
+européenne il y a de cela quelques mois, au motif que c’était un
+accord partiel qui était rédigé à l’avantage des autorités nordaméricaines.
+Donc, ce que j’aimerais suggérer Chuck est la chose suivante,
+sans pour autant en faire une condition de travail pour votre
+groupe de travail.
+Je pense que ce serait intéressant que votre groupe de travail
+suive ce qui se passe du côté de ces négociations, parce que
+
+Page 34 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+vous le savez les États-Unis et l’Union Européenne sont les deux
+principaux acteurs du marché international des échanges
+commerciaux, mais également dans le domaine de la protection
+des données. Et je pense que l’un des membres de votre équipe
+de travail ou plusieurs membres devraient suivre de près ce qui
+se passe du côté de ces négociations et indiquer un lien vers ce
+document.
+
+CHUCK GOMES :
+
+Je peux vous assurer que nous avons plusieurs membres de
+notre groupe de travail qui font déjà cela, mais nous avons pris
+bonne note de votre intervention, et nous allons y prêter une
+attention particulière. Il y a toute une série de contributions,
+toute une série de documents qui sont liés à ce que vous venez
+de dire, qui ont été identifiés. On va s’assurer qu’ils sont inclus
+ici. Donc, voilà le type de sensibilisation très pertinente qu’il est
+intéressant de faire.
+Zone trois.
+
+PERSONNE NON IDENTIFIÉE : Bonjour, [Inaudible]. J’aimerais porter votre attention sur un
+problème technique du RDS, à savoir qu’avec le système
+traditionnel du WHOIS, il n’existait pas d’interface claire et utile
+
+Page 35 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+pour avoir accès aux données pour les candidatures de parties
+tierces, par exemple.
+Donc, il est important de définir une bonne interface pour avoir
+accès aux informations pour le nouveau système du RDS. Par
+exemple, il faut que nous ayons un API pour avoir d’autres
+applications et avoir accès aux informations du système RDS de
+manière plus simple.
+
+CHUCK GOMES :
+
+Merci. Nouvelle intervention dans la zone cinq.
+
+RUBENS KUHL :
+
+Bonjour, Rubens Kuhl, membre de la GNSO, mais je ne parle pas
+au nom de ce groupe. Une suggestion que j’aimerais faire : avoir
+un mécanisme d’aperçu rapide pour voir si un domaine utilise
+des services d’anonymisation ou de représentation fiduciaire.
+Donc, pour ce qui concerne la protection des données. Et ça, ça
+soulève des préoccupations par rapport au fait que les
+domaines omettent de donner des informations.
+Or, certaines personnes aimeraient savoir si c’était le cas ou pas.
+Certains ont suggéré que le DNS le fasse. Ça, c’est une question
+de mise en œuvre, mais la condition c’est d’avoir accès en temps
+
+Page 36 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+réel aux informations pour voir si le domaine est protégé en
+termes de confidentialité ou pas.
+
+CHUCK GOMES :
+
+Oui. Comme vous le savez, il y a un groupe de travail – je ne me
+rappelle plus de son acronyme d’ailleurs, PPSI me semble-t-il,
+sur les services d’anonymisation et de représentation fiduciaire
+qui a envoyé des recommandations au Conseil d’administration.
+Et nous espérons que le Conseil d’administration va prendre en
+considération ces recommandations et va permettre d’ouvrir
+une période de commentaires public dans un avenir proche.
+Y-a-t-il d’autres personnes souhaitant intervenir dans la salle? Je
+suis admiratif de la participation qu’il y a eu dans la salle. Merci
+de toutes ces contributions. On va s’assurer que toutes les
+suggestions qui ont été faites, on va en débattre au sein de notre
+groupe de travail.
+Et, on va passer en revue cette liste très longue de conditions
+possibles et on va essayer de parvenir à un consensus sur
+chacune de ces conditions ou éventuellement les modifier.
+Alors, j’aimerais vous dire que voici la seule possibilité que vous
+avez d’intervenir sur cette question. Nous n’avons qu’un forum
+par an, ce forum politique. Donc, nous allons faire un travail de
+sensibilisation et pour ceux qui connaissent un petit peu le
+
+Page 37 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+travail de la GNSO, sachez qu’il y a un rapport initial à la fin du
+travail qui est publié, et on vous demande vos contributions. On
+a décidé au sein de notre groupe de travail de procéder d’une
+autre manière et de vous demander des questions plus brèves.
+C’est plus réaliste. Donc, vous allez voir plusieurs demandes sur
+cette question.
+Alors, ce qu’on a prévu, c’est qu’après les trois premières
+demandes, on va partager avec vous les conclusions du groupe
+de travail, en vous disant voilà ce à quoi nous sommes parvenus.
+Quand pensez-vous? On va essayer de limiter ces questions.
+Mais on attend avec impatience vos réactions pour le bien du
+processus de ce groupe de travail. Et, on espère pouvoir parvenir
+à un consensus, même s’il y a des points de vue divergents.
+Donc, merci à tous de vos contributions, de votre participation.
+Peut-être que vous penserez à d’autres contributions, d’autres
+conditions, pardon. Si vous le pouvez, envoyez vos suggestions
+aux membres de l’équipe sur le leadership et on va essayer de
+les intégrer à notre travail.
+Avançons, passons au point quatre de l’ordre du jour.
+Excusez-moi, j’essaie de suivre un petit peu la présentation à
+l’écran. Nous avons une réunion demain, de 8 h 00 à 12 h 00, et
+ne vous inquiétez pas il y a une pause au milieu. Et cette réunion
+
+Page 38 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+est ouverte à tous. Il s’agit d’une réunion face à face de notre
+groupe de travail. Les membres du groupe de travail peuvent
+participer activement, mais lors des réunions face à face, on
+permet à tous de participer. Donc, c’est un petit peu une
+occasion que vous avez de pouvoir participer à notre travail.
+Demain donc, notre réunion de travail est ouverte. Donc, si vous
+n’avez pas d’autres obligations et si vous voulez voir notre
+travail de vos propres yeux, voir comment nous progressons
+dans les différents domaines. Venez participer à cette réunion
+demain matin. Vous êtes les bienvenus si vous êtes disponible.
+De toute façon, nos réunions sont enregistrées et il y a des
+transcriptions. Donc, vous pourrez suivre la teneur de nos
+débats.
+Bien, j’ai suffisamment parlé du contenu de cette diapo. Passons
+à la suivante. Oui, vous voyez ici certains liens, que nous vous
+invitons à examiner.
+J’espérais que Michele aurait pu nous rejoindre à la fin de cette
+réunion, mais je crois comprendre que la réunion à laquelle il
+participait s’est étendue. Donc, il n’a pas pu nous rejoindre.
+J’aimerais, étant donné qu’il ne nous reste plus que quelques
+minutes, vous dire qu’il s’agit de la première séance que ce
+groupe de travail organise sous ce format, et j’en suis très
+
+Page 39 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+satisfait pour ma part. Je ne sais pas si c’est votre cas. Je ne sais
+pas si vous avez des questions. On n’a pas eu beaucoup de
+temps.
+Même dans les cinq derniers mois, nous n’avons pas couvert
+autant d’éléments que nous l’espérions, mais y a-t-il des
+commentaires que vous aimeriez faire? Des questions que vous
+aimeriez poser?
+Il nous reste encore quelques minutes.
+Nous avons des personnes, encore une fois, dans la salle qui ont
+un micro et qui peuvent vous le donner si vous avez une
+précision à demander, une question à poser ou un commentaire
+à faire.
+Ici, à l’avant.
+
+KAVOUSS ARSTEH :
+
+Merci beaucoup, monsieur le Président.
+Vous avez dit que c’était la première réunion en présence et qu’il
+y en a une, une fois par ans. Qu’est-ce qui vous empêche d’avoir
+des réunions en présence? Est-ce que c’est difficile de les
+effectuer?
+
+Page 40 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+CHUCK GOMES :
+
+Probablement, Xavier n’est pas là, dans la salle.
+Et puis, une autre, c’est qu’il n’y aurait pas suffisamment
+d’argent pour cela. Mais au sein de la GNSO, nous avons cette
+possibilité qui fait que les groupes de travail peuvent demander
+des réunions en présence. Mais ces réunions représentent un
+défi, parce que tout le monde doit payer pour assister à ces
+réunions. Bien sûr, on commence à voir des questions
+budgétaires, des questions liées au calendrier et à l’agenda de
+chacun.
+Donc, en fait je me suis trompé, c’est notre deuxième réunion en
+présence. Nous avons eu la première à Marrakech, mais ce
+n’était pas la même chose que celle-ci. La participation n’était
+pas la même que nous avons ici. Les gens avaient beaucoup de
+problèmes pour pouvoir assister à cette réunion.
+
+DAVID CAKE :
+
+Je voulais dire que nous avons eu une réunion en présence avec
+le groupe de travail et à vrai dire, on a dit que pendant la
+réunion B, on allait travailler sur la nouvelle structure. Et, dans la
+prochaine réunion, je pense que nous allons avoir aussi une
+réunion en présence. Nous savons qu’il y a beaucoup de travail à
+faire. Il y a beaucoup de choses à faire.
+
+Page 41 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+GEMA CAMPILLOS :
+
+Je m’appelle Gema Campillos, je représente le gouvernement de
+l’Espagne.
+Ce n’est pas une question, parce que je connais déjà la réponse à
+ma question, mais je voudrais dire ceci pour que tout le monde
+puisse en prendre note.
+Cela concerne la portée de l’activité du groupe de travail. Le
+groupe de travail ne s’occupe que de noms de domaine. Il ne
+s’occupe pas des adresses IP. Ce serait vraiment super si un
+exercice de ce type pouvait être fait en ce qui concerne les
+adresses IP, parce que l’Internet ne se termine pas sur les noms
+de domaine. Et il y a de plus en plus d’adresses IP utilisées pour
+identifier des applis, des dispositifs, des dispositifs mobiles, etc.
+Il n’y a pas de règles. Il n’y pas d’ensemble de règles pour les
+adresses IP. Il n’y a pas de cohérence dans une seule procédure,
+pour qu’il y ait un accès à ces adresses IP.
+Je voulais le dire, juste pour qu’on puisse en prendre note.
+
+CHUCK GOMES :
+
+Merci. Je suis sûr que vous savez que les registres des adresses
+et l’organisation des adresses s’occupent des numéros IP. Bien
+sûr, les numéros IP sont en rapport – disons – avec les noms.
+
+Page 42 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+La GNSO et le PDP de la GNSO, le groupe de travail de PDP de la
+GNSO, doit développer des politiques pour des noms de
+domaine de premier niveau génériques.
+Soit dit en passant, les services d’annuaires sont utilisés aussi
+par les registres d’adresses, et vous devez savoir que cela est à
+l’usage en ce moment. Donc, c’est un très bon commentaire de
+toute façon, à inclure dans le travail de l’ASO.
+
+DAVID CAKE :
+
+Un petit commentaire sur la portée. Nous parlons des nouveaux
+gTLD, nous ne parlons même pas de tous les TLD. Nous faisons
+partie d’un projet de la GNSO. Nous faisons un travail où nous
+voulons analyser tout ce qui peut être fait, tout ce qui se fait,
+mais la portée de notre travail est assez limitée finalement. Nous
+espérons que lorsque notre travail sera fait, une partie de cela
+pourra être utilisée pour ce dont nous aurons besoin.
+
+CHUCK GOMES :
+
+Maintenant, la diapo 18. Ensuite une autre question et ensuite,
+nous aurons fini.
+Kavouss a une question à poser.
+
+Page 43 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+KAVOUSS ARASTEH :
+
+Vous avez déjà répondu à la question de Gema, mais moi, je
+veux ajouter une autre petite chose. Le travail est suffisamment
+complexe, et je ne voudrais pas ajouter à la complexité de ce
+travail, avec cette histoire des adresses IP. C’est un travail
+vraiment complexe.
+Quant à la réunion et au budget disponible, je pense que pour
+l’avenir des gTLD, c’est quelque chose de très important. Donc, il
+faut que nous nous efforcions autant que possible pour fournir
+autant de possibilités de réunions en présence et pas pour ce
+budget ici ou pour cette réunion-là. Je crois qu’il faut qu’il y ait
+une possibilité de présenter ici cela, lors de la réunion du GAC
+avec le Conseil d’administration. C’est très important.
+
+CHUCK GOMES :
+
+Je vous remercie de ce que vous dites, de ce que vous suggérez.
+Je ne pense pas qu’il y ait de désaccord là-dessus.
+La question est la suivante : lorsqu’il y a une réunion en
+présence, il faut pouvoir travailler sur cela à un moment
+approprié. Je vous remercie de votre soutien et je ne pense pas
+que nous allons discuter là-dessus.
+Je veux maintenant que nous considérions la diapo qui est sur
+l’écran. Les groupes de travail sur le PDP vont analyser des
+
+Page 44 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+questions fondamentales et ils vont discuter toutes les
+conditions possibles auxquelles il faut répondre.
+Il faut répondre à cette question : est-ce qu’on a besoin de RDS
+de nouvelle génération pour répondre aux conditions de service
+de l’annuaire de données d’enregistrement sur la base de vos
+conditions? Qu’en pensez-vous? Donc voilà, c’est une question
+clé à laquelle il faudra que nous répondions.
+Je vais maintenant faire une enquête très rapide. Nous ne
+votons pas dans nos groupes de travail, mais nous réalisons des
+enquêtes si elles sont utiles. Combien d’entre vous pensent qu’il
+y a déjà une réponse à cette question? Personne!
+Voilà, alors probablement notre travail va nous permettre de
+parvenir à une conclusion sur cela.
+Combien d’entre vous estiment que le système du WHOIS
+existant à l’heure actuelle est approprié? Est-ce qu’il y a
+quelqu’un? Combien estiment que ce n’est pas un système
+approprié? Bon, nous avons beaucoup de travail à faire.
+Maintenant, prochaine diapo. Je voudrais savoir si j’ai oublié
+quelque chose.
+
+Page 45 sur 46
+
+HELSINKI – Session intercommunautaire : services d’annuaire des données d’enregistrement de
+
+FR
+
+nouvelle génération
+
+Nous avons encore le temps de répondre à ce qui nous a été
+demandé. Nous pouvons passer cela à la prochaine réunion
+intercommunautaire.
+Je vous remercie d’avoir été parmi nous. Nous espérons
+continuer à avoir vos commentaires et je voudrais vous
+demander d’être patient dans un système multipartite et dans
+les thèmes complexes, tels que celui que nous abordons
+maintenant, demande suffisamment de temps pour pouvoir
+travailler. Nous allons avancer, mais cela prend du temps de
+pouvoir discuter sur tout cela.
+Je vous remercie de votre présence et nous finissons notre
+réunion dès maintenant.
+
+[FIN DE LA TRANSCRIPTION]
+
+Page 46 sur 46
+
+

@@ -1,0 +1,751 @@
+JAKU – Analysis of a
+Botnet Campaign
+ICANN56
+Andy Settle
+Head of Special Investigations
+Forcepoint Security Labs
+
+Copyright © 2016 Forcepoint. All rights reserved.
+
+ANDY SETTLE - HEAD OF SPECIAL INVESTIGATIONS
+ Previously:
+•
+Thales UK – Head of UK Cyber Security Practice
+•
+Raytheon UK – Chief Cyber Security Consultant
+•
+25+ Years Independent Consultant. Clients including:
+•
+•
+•
+•
+
+UK Government – Home Office, Ministry of Defence, Cabinet Office, Foreign and
+Commonwealth Office
+NATO
+BT, Citibank, IBM, Fujitsu Defence
+.GG & .JE ccTLDs
+
+ Also:
+•
+•
+•
+•
+•
+•
+
+Advisor to UK Government as a member of the CPNI Security Researcher’s
+Information Exchange
+Serving British Army Officer (Reserves)
+Member of the Chartered Management Institute
+Member of the British Computer Society
+Assessor to UK Cyber Security Challenge
+Registered UK Schools STEM Ambassador
+
+ Buzzwords:
+•
+Network Security, Information Assurance, Threat Intelligence, Penetration
+Testing, Vulnerability Assessments, Intrusion Detection, DNS, Unix, Linux,
+C, C++, Perl, Software Engineering, Banjo, Harmonica
+
+PUBLIC HEALTH WARNING
+MAY CONTAIN OPINIONS
+
+Copyright © 2016 Forcepoint. All rights reserved. | 2
+
+JAKU- Episode I
+First stage malware and making your own luck
+
+Copyright © 2016 Forcepoint. All rights reserved. | 3
+
+Copyright © 2016 Forcepoint. All rights reserved. | 4
+
+SO WHAT? – PIVOTING AND MAKING YOUR OWN LUCK
+KNOWN
+PATHS
+IP
+
+DNS
+
+WEB
+SERVER
+
+•
+•
+•
+•
+•
+
+CSS
+BIN
+TEST
+BBS
+IMG
+
+PASSIVE DNS
+
+ITERATE
+bbsbox.strangled.net
+benz.strangled.net
+benz.wikaba.com
+blog3.serveblog.net
+boardchk.strangled.net
+browny.ddns.net
+combiz.user32.com
+cometome.yourtrap.com
+comix.mornor.com
+cpanel.epismile.com.sg
+cpanel.hash-tech.com
+cpanel.roborobo.com.sg
+cutemini.sexidude.com
+decrypt.dnsd.info
+decrypt.effers.com
+decrypt.info.tm
+dns53.ignorelist.com
+file2.strangled.net
+forum.bbsindex.com
+
+forum.serveblog.net
+ftp.mornor.com
+mail.mailserverthai.com
+mail.mornor.com
+mailserverthai.com
+minicooper.chickenkiller.com
+minicooper.ddns.com
+mob-adv.com
+mor1.vps-leo.com
+mor2.vps-roc.com
+mornor.com
+mornor.net
+movie.flnet.org
+movieadd.mooo.com
+myforum.info.tm
+ns1.thefince.com
+ns2.thefince.com
+pic.ezua.com
+pic.zzux.com
+
+pic3.mooo.com
+sign.neon.org
+sweetbrowny.mooo.com
+torent.dnsd.info
+torrent.dtdns.net
+torrent.gotgeeks.com
+torrent.serveblog.net
+torrent1.coza.ro
+torrent1.flnet.org
+torrent3.bbsindex.com
+torrentfiles.ddns.net
+webmail.mailserverthai.com
+winchk.bbsindex.com
+www.bbsupdates.comxa.com
+www.comix.mornor.com
+www.mailserverthai.com
+www.mob-adv.com
+www.mornor.com
+www.thefince.com
+Copyright © 2016 Forcepoint. All rights reserved. | 5
+
+LOOKING FOR UNUSUAL THINGS…
+
+Index of /img
+Icon
+Name
+Last modified
+Size Description
+___________________________________________________________________________________________________________
+[DIR] Parent Directory
+[IMG] near.jpg
+09-Dec-2015 19:59 451M
+___________________________________________________________________________________________________________
+
+Apache/2.2.21 (Unix) DAV/2 mod_ssl/2.2.21 OpenSSL/1.0.0c PHP/5.3.8 mod_apreq2-20090110/2.7.1 mod_perl/2.0.5
+Perl/v5.10.1 Server at pic3.mooo.com Port 80
+
+Copyright © 2016 Forcepoint. All rights reserved. | 6
+
+…SEEK, AND YE SHALL FIND?
+
+$ file near.jpg
+near.jpg: SQLite 2.x database
+$ sqlite near.jpg .schema
+CREATE TABLE child (uid TEXT PRIMARY KEY, version REAL, pip TEXT, info TEXT,
+infouptime INTEGER, iplist TEXT, instime INTEGER,lasttime INTEGER, downfile
+TEXT, downver REAL);
+CREATE TABLE dist2 (id INTEGER PRIMARY KEY, pubdownfile TEXT, pubdownver REAL,
+pubdowncnt INTEGER, pridownfile TEXT, pridownver REAL, pridowncnt INTEGER);
+CREATE TABLE history (id INTEGER PRIMARY KEY, uid TEXT, ctime INTEGER);
+CREATE TABLE tvdist (id INTEGER PRIMARY KEY, tvdownfile TEXT, tvdownver REAL,
+tvdowncnt INTEGER);
+CREATE INDEX idx_instime ON child(instime);
+CREATE INDEX idx_lasttime ON child(lasttime);
+CREATE INDEX idx_version ON child(version);
+Copyright © 2016 Forcepoint. All rights reserved. | 7
+
+DOCUMENTING THE FINDINGS
+COLUMN
+
+DESCRIPTION
+
+UID
+
+A unique identifier of the victim. This allows the C2 server to track victims if and when
+their IP address changes.
+VERSION
+A unique identifier for the version of the malware on the victim machine.
+PIP
+The public IP address of the victim. This is updated as and when the victim machines
+external IP address changes.
+INFO
+The details gathered by the malware from the victim machine.
+INFOUPTIME The date/time that the INFO field was updated in the database.
+Believed to be the data/time on the C2 server.
+IPLIST
+A list of IP addresses from all the victim machines network interfaces.
+INSTIME
+The date/time that the malware was originally installed on the victim machine.
+LASTTIME
+The date/time of the last beacon received by the C2 server from the malware on the
+victim machine.
+Copyright © 2016 Forcepoint. All rights reserved. | 8
+
+EXAMPLE DATA - PROCESSES AND FILENAMES
+Image Name
+PID Services
+========================= ======== ==========================
+System Idle Process
+0 N/A
+System
+4 N/A
+smss.exe
+232 N/A
+...
+winlogon.exe
+456 N/A
+services.exe
+500 N/A
+lsass.exe
+516 KeyIso, SamSs
+lsm.exe
+524 N/A
+svchost.exe
+636 DcomLaunch, PlugPlay, Power
+svchost.exe
+708 RpcEptMapper, RpcSs
+...
+explorer.exe
+2348 N/A
+hpwuschd2.exe
+2448 N/A
+HPStatusAlerts.exe
+2464 N/A
+Skype.exe
+2488 N/A
+SSScheduler.exe
+2504 N/A
+SearchIndexer.exe
+3132 WSearch
+chrome.exe
+3416 N/A
+svchost.exe
+3440 FontCache, SSDPSRV, upnphost
+...
+chrome.exe
+4028 N/A
+chrome.exe
+2248 N/A
+svchost.exe
+2560 WinDefend
+...
+taskeng.exe
+608 N/A
+Services.exe
+1408 N/A
+WmiPrvSE.exe
+2176 N/A
+WmiPrvSE.exe
+3088 N/A
+TrustedInstaller.exe
+3832 TrustedInstaller
+TVC15.exe
+3780 N/A
+conhost.exe
+3284 N/A
+tasklist.exe
+2872 N/A
+
+亞裔美少女被老外狂舔騷B各種姿勢狂幹加口暴指插肛門高清超長視頻
+出租房露脸干成都骚货
+國內騷妻艷舞自拍好身材扭的真風騷扭玩再吹簫真刺激超清
+Hollywood Sex Wars.2013.720p.KOR.HDRip.H264-KTH
+Honeycam 2015-09-24 23-57-13
+Hotaru.No.Hikari.The.Movie.2012.JAP.BDRip.x264.AC3- ADiOS
+Hotel.Transylvania.2012.1080p.BluRay.H264.AAC-RARBG
+House.of.Tolerance.201.KORSUB.x264.AC3-ADiOS
+KWANGHO Passport
+NOORI Passport
+passport ID.pdf
+Astaneh Passport.pdf
+Passport Goudarzi.png
+Passport Rastegar.jpg
+Passport Taghizadeh.pdf
+Passport Taheri.jpg
+PASSPORT_LEEJAEYOUNG.jpg
+Ling Yok Ung Passport
+My Passport (F)
+
+2015 DPRK Funding with comments DPRK 260615.doc
+Color coded DPRK Proposal to ****** 2016 - 2018-DM
+DPRK DL workshop programme DAY One. docx
+DPRK 2016 funding Analysis Mar 2016.xlsx
+
+Copyright © 2016 Forcepoint. All rights reserved. | 9
+
+FIRST STAGE - WHAT INFORMATION IS EXFILTRATED?
+
+systeminfo
+net use
+net user
+tasklist /svc
+netstat –ano
+dir "%USERPROFILE%\Recent“
+dir "%APPDATA%\Microsoft\Windows\Recent“
+dir /s/b "%USERPROFILE%\Favorites"
+
+Copyright © 2016 Forcepoint. All rights reserved. | 10
+
+PIVOTING VIA WHAT WE NOW KNOW
+
+C2
+BLACK-SAPHARUS
+BLUE-MONKEY
+BROWN-COOPER
+GREEN-SOUNDFIX
+GREY-THAI
+ORANGE-HOWL
+PINK-COW
+RED-RACCOON
+RED-RACCOON
+RED-RACCOON
+VIOLET-FOX
+YELLOW-BOA
+
+IP
+101.99.68.5
+43.252.36.195
+103.13.229.20
+27.254.44.207
+202.142.223.144
+27.254.96.222
+27.254.55.23
+] REDACTED [
+] REDACTED [
+] REDACTED [
+27.254.96.223
+202.150.220.93
+
+ASN
+AS45839 PIRADIUS NET
+AS45144 Net Onboard Sdn Bhd - Quality & Reliable Cloud Hosting Provider
+AS23884 Proimage Engineering and Communication Co.,Ltd.
+AS9891 CS LOXINFO Public Company Limited.
+AS7654 Internet Solution & Service Provider Co., Ltd.
+AS9891 CS LOXINFO Public Company Limited.
+AS9891 CS LOXINFO Public Company Limited.
+AS45144 Net Onboard Sdn Bhd - Quality & Reliable Cloud Hosting Provider
+AS24218 Global Transit Communications - Malaysia
+AS23884 Proimage Engineering and Communication Co.,Ltd.
+AS9891 CS LOXINFO Public Company Limited.
+AS38001 NewMedia Express Pte Ltd. Singapore Web Hosting Service Provider
+
+VICTIMS
+5153
+3925
+1184
+327
+3005
+4204
+2242
+10
+17
+10
+1187
+3236
+
+Copyright © 2016 Forcepoint. All rights reserved. | 11
+
+DATA LOCATIONS & VICTIM COUNT
+
+Copyright © 2016 Forcepoint. All rights reserved. | 12
+
+TOTAL NUMBER OF VICTIMS PER SERVER
+6000
+5000
+4000
+3000
+
+2000
+1000
+0
+Oct/2015
+
+Nov/2015
+
+Dec/2015
+
+Jan/2016
+
+Feb/2016
+
+Mar/2016
+
+BLACK-SAPHARUS
+
+BROWN-COOPER
+
+GREY-THAI
+
+YELLOW-BOA
+
+RED-RACOON
+
+GREEN-SOUNDFIX
+
+PINK-COW
+
+ORANGE-HOWL
+
+VIOLET-FOX
+
+BLUE-MONKEY
+
+Apr/2016
+
+Copyright © 2016 Forcepoint. All rights reserved. | 13
+
+WHAT DO WE KNOW ABOUT THE VICTIMS?
+
+Victims Countries
+US
+6%
+
+OTHERS
+12%
+
+China
+9%
+
+Chinese
+10%
+
+Korea
+42%
+
+Japan
+31%
+
+Victim Languages
+OTHERS
+4%
+
+English
+13%
+
+Korean
+43%
+
+Japanese
+30%
+
+Copyright © 2016 Forcepoint. All rights reserved. | 14
+
+VICTIMS LOCATIONS – AMERICAS & EMEA
+
+Copyright © 2016 Forcepoint. All rights reserved. | 15
+
+VICTIMS LOCATIONS – KOREA & JAPAN
+
+Copyright © 2016 Forcepoint. All rights reserved. | 16
+
+POISONED BITTORRENTS
+Poisoned Files
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+mario-gun.exe
+DjVuSolo3.1-noncom.exe
+fp801.exe
+driver_booster_setup.exe
+uiso9_pe.exe
+K-Lite_Codec_Pack_1120_Basic.exe
+Wextract
+winrar-x64-500.exe
+wrar500.exe
+pcsx2.exe
+
+Copyright © 2016 Forcepoint. All rights reserved. | 17
+
+PIRACY, CORPORATE VICTIMS & DWELL TIMES
+
+Software Piracy. Over 50% of the victim computers were found to be running
+counterfeit copies of Microsoft Windows.
+
+Corporate Victims Amongst the JAKU victims the number of corporate victims
+is significantly low. The proportion of victim computers that are a member of a
+Microsoft Windows domain, rather than workgroups or as standalone systems is
+less than 1% of all victims. This is calculated on 153 unique victims matching the
+corporate criteria.
+Dwell Time. The length of time a botnet victim is infected for is referred to as the
+dwell time. For those identified as corporate victims the mean dwell time is 93
+days with the maximum observed being 348 days. For the non-corporate the
+figures vary wildly and in a number of cases the systems appear to be either reinfected or are infected by a number of variants (versions) of the malware.
+Copyright © 2016 Forcepoint. All rights reserved. | 18
+
+JAKU – HEADLINES
+Piracy. The prevalence of users/victims who are running counterfeit installations
+of Microsoft Windows®, downloading ‘warez’ software and using BitTorrent
+software to illegally obtain these as well as other copyright protected material,
+such as movies and music.
+
+C2 Databases. The use of SQLite files to collate and manage the botnet
+members, their structure and the use of version numbering.
+
+Poisoned BitTorrents. The technique of threat actors deploying torrent files
+onto torrent sites that are pre-infected with malware has not been widely seen
+before, especially with respect to BitTorrent-types of attack. This behaviour is
+difficult to trace and track and is indiscriminate in its infection pattern unless it
+has some means of targeting desired demographics.
+Resilient C2 Channels. Stage two of one piece of malware has three inbuilt
+Command and Control (C2) mechanisms. This level of resilience is not
+accidental, but rather, such investment and effort is usually indicative of the
+perceived value of the target.
+
+High Value Targets. Within the noise of thousands of seemingly indiscriminate
+botnet victims, the JAKU campaign performs a separate, highly targeted
+operation.
+
+Copyright © 2016 Forcepoint. All rights reserved. | 19
+
+JAKU – Episode II
+2nd Stage malware, code re-use and precision
+targeting
+
+Copyright © 2016 Forcepoint. All rights reserved. | 20
+
+2ND STAGE MALWARE – HIDING IN PLAIN SIGHT
+$ file download-sample.png
+download-sample.png: PNG image data, 997393152 x 167848821, 152-bit
+
+Malware embedded in ‘fake’ PNG files
+
+LZH – LZ Huffman compression algorithm
+Bitdefender – AV Detection
+Stealth Injection – ‘explorer.exe’
+
+Reverse Engineering
+
+Bad RC4 Encryption
+
+Service Installation
+
+Copyright © 2016 Forcepoint. All rights reserved. | 21
+
+R2D3 – 2ND STAGE COMMAND AND CONTROL
+
+POST http://101.99.68.5/bbs/CaC.php HTTP/1.1
+Content-Type: multipart/form-data; boundary=--HC-MPFD-BOUNDARY
+Content-Length: 320
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML,
+like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Host: 101.99.68.5
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
+Copyright © 2016 Forcepoint. All rights reserved. | 22
+
+R2D3 – WEB LIBRARY (REUSE)
+
+Copyright © 2016 Forcepoint. All rights reserved. | 23
+
+RED RACCOON
+
+Look, I’m NOT red and
+I’m NOT a Raccoon!
+
+Copyright © 2016 Forcepoint. All rights reserved. | 24
+
+Image: Wikipedia
+
+RED RACCOON – PRECISION TARGETING?
+
+Copyright © 2016 Forcepoint. All rights reserved. | 25
+
+C3PRO – SECURE FILE DELETION (REUSE)
+The file deletion routine has been taken and recoded from publicly available
+code
+Originally written by John Underhill, it was called ‘Secure File Shredder’
+The routine used in the malware even contains the same coding errors made,
+where file are renamed 780 times (30 * 26) instead of the intended 30
+
+The only difference is that the file truncation is only performed once in the
+malware, rather than 10 times as in Underhill's code
+The purpose of this code is to prevent advanced forensics techniques from
+being able to recover the deleted files
+Special Investigations contacted John who we must thank for his cooperation.
+
+Copyright © 2016 Forcepoint. All rights reserved. | 26
+
+C3PRO – DNS COMMAND & CONTROL CHANNEL
+
+COMMAND
+go
+ti
+
+PURPOSE
+This just means "OK - no action to take"
+Change wait/sleep time between DNS C2 attempts
+
+Encoded system
+Name and MAC
+address of victim
+machine every ~3
+minutes
+
+sh
+
+Not implemented by author
+
+fs
+ts
+dl
+
+Start UDT based C2 module
+Start secondary C2 module
+Inject a DLL into a process via remote thread in explorer.exe
+
+du
+
+Unload DLL from current process via remote thread in explorer.exe
+
+de
+
+cu
+
+Securely delete file (write/read 4 times, rename 900 times, truncate to 0 size, then
+delete)
+Execute command-line utility (%COMSPEC%) with parameter and send results to C2
+over DNS
+Send computer information to C2 over DNS
+
+ex
+
+Execute command via WinExec but do not send back the results to C2 server
+
+cm
+
+Copyright © 2016 Forcepoint. All rights reserved. | 27
+
+C3PRO – UDT LIBRARIES (REUSE)
+
+“UDT is a reliable UDP
+based application level
+data transport protocol
+for distributed data
+intensive applications
+over wide area highspeed networks. UDT
+uses UDP to transfer
+bulk data with its own
+reliability control and
+congestion control
+mechanisms. The new
+protocol can transfer
+data at a much higher
+speed than TCP does.
+UDT is also a highly
+configurable framework
+that can accommodate
+various congestion
+control algorithms.”
+
+The ability for malware to
+concurrently support three
+separate, custom built C2
+channels is more advanced
+than the majority of malware
+currently observed.
+
+This offers insight into the
+amount of effort the malware
+author has expended to
+ensure that the malware is
+stealthy and resilient.
+
+Copyright © 2016 Forcepoint. All rights reserved. | 28
+
+THE POWER OF COLLABORATION – MAKING NEW FRIENDS
+CERTS
+•
+•
+•
+•
+•
+
+UK
+Dutch
+Japanese
+Canadian
+Korean
+
+Law Enforcement
+• NCA UK
+• Tokyo Police
+
+Vendors
+• Microsoft
+
+Copyright © 2016 Forcepoint. All rights reserved. | 29
+
+JAKU – HEADLINES
+Piracy. The prevalence of users/victims who are running counterfeit installations
+of Microsoft Windows®, downloading ‘warez’ software and using BitTorrent
+software to illegally obtain these as well as other copyright protected material,
+such as movies and music.
+
+C2 Databases. The use of SQLite files to collate and manage the botnet
+members, their structure and the use of version numbering.
+
+Poisoned BitTorrents. The technique of threat actors deploying torrent files
+onto torrent sites that are pre-infected with malware has not been widely seen
+before, especially with respect to BitTorrent-types of attack. This behaviour is
+difficult to trace and track and is indiscriminate in its infection pattern unless it
+has some means of targeting desired demographics.
+Resilient C2 Channels. Stage two of one piece of malware has three inbuilt
+Command and Control (C2) mechanisms. This level of resilience is not
+accidental, but rather, such investment and effort is usually indicative of the
+perceived value of the target.
+
+High Value Targets. Within the noise of thousands of seemingly indiscriminate
+botnet victims, the JAKU campaign performs a separate, highly targeted
+operation.
+
+Copyright © 2016 Forcepoint. All rights reserved. | 30
+
+blogs.forcepoint.com
+
+Thank you!
+Andy Settle
+<asettle@forcepoint.com>
+@iC3N1
+http://blogs.forcepoint.com/security-labs/
+
+Copyright © 2016 Forcepoint. All rights reserved. | 32
+
+

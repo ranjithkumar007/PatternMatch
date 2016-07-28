@@ -1,0 +1,444 @@
+Community Session – Review of All Rights
+Protection Mechanisms in All gTLDs Policy
+Development Process
+ICANN56 | 27 June 2016
+
+Goals of this Cross Community Session
+
+Purpose
+
+• To discuss with the community the proposed methodology
+and timelines for this Policy Development Process (PDP)
+• To obtain the community’s input on data to be collected,
+and list of issues to be analyzed, as part of the PDP
+• Why this PDP is being conducted in two phases, and how
+• What is being covered in Phase One and Phase Two?
+• What is the timeline for each Phase?
+• What is the community’s view on the scope of topics and
+possible data to be gathered for Phase One:
+
+Scope
+
+o Trademark Clearinghouse (TMCH)
+o Sunrise registrations through the TMCH
+o Claims Notices sent to potential registrants through the
+TMCH
+o Uniform Rapid Suspension dispute resolution procedure
+o Trademark Post-Delegation Dispute Resolution Procedure
+
+| 3
+
+Introduction to the
+Rights Protection Mechanisms in All
+gTLDs Policy Development Process
+(PDP)
+
+What is this PDP Working Group tasked to do?
+• March 2016: WG chartered by the GNSO Council to conduct the PDP in two
+phases:
+o Phase One: review of the RPMs that were developed for the 2012 New gTLD Program
+o Phase Two: review of the 1999 Uniform Dispute Resolution Policy
+
+• For each Phase, WG to assess effectiveness of the relevant RPM(s)
+• WG work should ultimately also cover:
+o the interplay between and complementary roles of each RPM in seeking to more fully
+understand their overall functioning and effectiveness.
+o the overarching issue as to whether or not all the RPMs collectively fulfill the purposes
+for which they were created, or whether additional policy recommendations are needed,
+including to clarify and unify policy goals
+Note:
+“Rights	protection	 mechanisms” (RPMs)	in	this	context	means	those	ICANN	policies	and	processes	that	
+are	aimed	at	combatting	cyber-squatting	 and	providing	 workable	mechanisms	for	trademark	owners	to	
+either	prevent	or	remedy	certain	illegitimate	uses	of	 their	trademarks	in	the	domain	 name	system	
+(DNS)
+| 5
+
+What are the RPMs to be reviewed in the two phases of this PDP?
+Sunrise Registration Period
+and Trademark Claims
+Notification Services (Phase
+One)
+• Sunrise services provide TM
+holders with advance opportunity
+to register domain names
+corresponding to their marks
+before names are generally
+available to the public
+• The Trademark Claims period
+follows the Sunrise period and
+runs for at least the first 90 days
+in which domain names are
+generally made available
+• TM Claims Notice is sent to a
+potential registrant whose
+domain matches that of a TM
+record in the TMCH
+• TM owner is notified if registrant
+proceeds
+
+Trademark Clearinghouse (Phase
+One)
+• A global database of verified trademark
+information to support rights protection
+processes
+• Benefits of inclusion are access to Sunrise
+Period and Trademark Claims Service
+
+Trademark Post-Delegation
+Dispute Resolution Procedure
+(Phase One)
+• Allows a TM owner to act directly
+against a New gTLD Registry Operator
+whose affirmative conduct supports
+TM infringement at the top or second
+level of its gTLD
+
+Uniform Rapid Suspension
+Dispute Resolution
+Procedure (Phase One)
+• Designed as a complement to
+the UDRP, to provide TM owners
+with a quick and low-cost
+process to suspend domain
+names on the same substantive
+grounds as the UDRP
+• Burden of proof and remedies
+are not the same as UDRP
+
+Uniform Dispute Resolution Policy
+(UDRP) (Phase Two)
+• Created in 1999
+• Provides a uniform, standardized alternative
+dispute resolution procedure to resolve
+disputes concerning who is the rightful holder
+of a registered domain name
+• Applicable to all domains registered in all
+generic top-level domains (gTLDs) – Phase
+One RPMs apply only to gTLDs delegated
+under the 2012 New gTLD Program round
+| 6
+
+Will the RPMs be changed or new ones added as a result of this PDP?
+• Conducting a review does not mean there will definitely be new
+RPMs or changes to the existing RPMs
+o Existing policies and processes will continue to apply unless policy
+recommendations to modify, add to or delete them are adopted
+
+• Possible outcomes of a PDP may include:
+o Developing new or additional RPMs and/or new or additional
+procedures applicable to one or more RPM(s)
+o Clarifying, amending or overriding existing RPMs
+o Supplementing existing, or developing new, procedural requirements for
+existing RPMs;
+o Recommending neither substantive nor procedural changes to any
+existing RPMs, nor the creation of new RPMs
+o Recommending that all RPMs are Consensus Policies applicable to all
+gTLDs
+
+| 7
+
+What are the dependencies or other related projects that could affect this PDP?
+• The Working Group will coordinate its work (including timelines) with
+the following ongoing parallel efforts:
+o The GNSO PDP on New gTLD Subsequent Procedures
+o The Competition, Consumer Choice & Consumer Trust Review Team
+o The independent review of the Trademark Clearinghouse
+
+• The Working Group Charter specifically contemplates community
+liason(s) will be appointed between this PDP and that on New gTLD
+Subsequent Procedures
+
+| 8
+
+PDP Work Plan and Proposed Methodology
+
+Estimated Timeline for Phase One
+
+Jun 2016
+
+ICANN56
+
+TMPDDRP
+
+Aug 2016
+
+ICANN57
+
+Jan 2017
+
+TMCH
+
+ICANN58
+Sunrise, TM
+Claims
+
+Apr 2017
+
+ICANN59
+URS
+
+Jul 2017
+
+Oct 2017
+ICANN60
+
+Jan 2018
+
+PREPARE &
+PUBLISH
+PHASE ONE
+REPORT
+
+BEGIN
+PHASE TWO
+(UDRP
+Review)
+
+Notes:
+•
+
+Each RPM is being reviewed consecutively
+
+•
+
+For most RPMs, a Sub Team to perform data collection and initial analysis will be formed (except for the
+TM-PDDRP)
+
+•
+
+Initial outreach to all SO/ACs, GNSO Stakeholder Groups & Constituencies began on 28 May 2016
+| 10
+
+Community Feedback on Some of the RPMs
+being Reviewed in Phase One
+
+1. Reviewing the Trademark Clearinghouse (TMCH)
+•
+
+Should further guidance on verification guidelines for different categories of marks be considered?
+
+•
+
+Is the protection of the TMCH too broad? Is the TMCH providing too much protection for those with a
+trademark on a generic or descriptive dictionary word? Should TM+50 be reversed?
+
+•
+
+Are legitimate noncommercial, commercial and individual registrants losing legitimate opportunities to
+register domain names in New gTLDs?
+
+•
+
+How should the TMCH scope be limited to apply to only the categories of goods and services in which
+the generic terms in a trademark are protected?
+
+•
+
+Should the TMCH matching rules be expanded, e.g. to include plurals, ‘marks contained’ or
+‘mark+keyword’, and/or common typos of a mark?
+
+•
+
+Should there be an additional or a different recourse mechanism to challenge rejected trademarks?
+
+•
+
+How quickly can a cancelled trademark be removed from the TMCH?
+
+•
+
+How can TMCH services be much more transparent in terms of what is offered pursuant to ICANN
+contracts and policies vs. what is offered to private New gTLD registries pursuant to private contracts?
+
+•
+
+Should there be a review on accessibility to TMCH for individuals, private trademark holders and
+trademark agents in developing countries?
+How can the TMCH provide education services not only for trademark owners, but for the registrants
+and potential registrants who are equally impacted by their services?
+
+•
+
+What other questions/topics should the Working Group address?
+What feedback do you have on these questions?
+| 12
+
+2. Reviewing the Sunrise Registration Period
+•
+
+Should the availability of Sunrise registrations only for “identical matches” (e.g. without extra generic
+text) be reviewed?
+
+•
+
+Is the notion of ”premium names” relevant to a review of RPMs, and, if so, should it be defined across
+all gTLDs? Should there be a mechanism to challenge whether a domain is a ‘premium name’?
+
+•
+
+Should there be a specific policy about the reservation and release of “reserved names” (e.g.
+modification of Section 1.3.3 of Specification 1 of the current Registry Agreement)?
+
+•
+
+Should there be a public, centralized list of all reserved trademarks for any given Sunrise period?
+
+•
+
+Should holders of TMCH-verified trademarks be given first refusal once a reserved name is released?
+
+•
+
+Should Sunrise periods continue to be mandatory? If so, should the current requirements apply or
+should they be more uniform, such as a 60-day end-date period?
+
+•
+
+Whether and how to develop a mechanism by which trademark owners can challenge Sunrise pricing
+practices that flout the purpose of Sunrise
+
+•
+
+Whether more can be done to improve transparency and communication about various Sunrise
+procedures
+
+What other questions/topics should the Working Group address?
+What feedback do you have on these questions?
+| 13
+
+3. Reviewing the Trademark Claims Notification Service
+•
+
+Should the Trademark Claims period be extended beyond ninety (90) days?
+
+•
+
+Should the Trademark Claims period continue to apply to all new gTLDs?
+
+•
+
+Should the Abused Domain Name Label service be continued?
+
+•
+
+Does a Trademark Claims period create a potential “chilling effect” on genuine registrations, and, if so,
+how should this be addressed?
+
+•
+
+Is the TMCH and the Sunrise Period allowing key domain names to be cherry picked and removed
+from New gTLDs unrelated to those of the categories of goods and services of the trademark owner?
+
+•
+
+What is the effect of the 90-day Trademark Claims process?
+
+•
+
+Should notices to the trademark owner be sent before the domain is registered?
+
+What other questions/topics should the Working Group address?
+What feedback do you have on these questions?
+
+| 14
+
+4. Reviewing the Uniform Rapid Suspension Procedure (URS)
+•
+
+Should the ability for defaulting respondents to file a reply for an extended after the default notice, or
+even after a default determination is issued be changed?
+
+•
+
+Is the URS’ ‘clear and convincing’ standard of proof appropriate?
+
+•
+
+Is there a need to develop express provisions to deal with ‘repeat offenders’ as well as a definition of
+what qualifies as ‘repeat offences’?
+
+•
+
+Should the URS allow for additional remedies such as a perpetual block or other remedy, e.g. transfer
+or a “right of first refusal” to register the domain name in question?
+
+•
+
+Is the current length of suspension (to the balance of the registration period) sufficient?
+
+•
+
+Is the cost allocation model for the URS appropriate and justifiable?
+
+•
+
+Should there be a “loser pays” model? How can that be enforced if the respondent does not respond?
+
+•
+
+Should the Response Fee applicable to complainants listing 15 or more disputed domain names by
+the same registrant be eliminated?
+
+•
+
+Has ICANN done its job in training registrants in the new rights and defenses of the URS?
+
+•
+
+Are the expanded defenses of the URS being used and if so, how, when, and by whom?
+
+•
+
+What sanctions should be allowed for misuse of the URS by the trademark owner?
+
+•
+
+What evidence is there of problems with the use of the English-only requirement of the URS,
+especially given its application to IDN New gTLDs?
+
+•
+
+How can the appeals process of the URS be expanded and improved?
+What other questions/topics should the Working Group address?
+What feedback do you have on these questions?
+
+| 15
+
+5. Data Gathering for Phase One
+What additional sources besides those below should the Working
+Group/ICANN approach to obtain useful data for the work ahead?
+Providers:
+•
+•
+•
+
+TMCH – Deloitte (for verification services); CHIP S.A. is contracting party issuing invoices:
+http://www.trademark-clearinghouse.com/content/clearinghouse-team
+URS – The FORUM; Asian Domain Name Dispute Resolution Center (ADNDRC); MFSD Srl:
+https://newgtlds.icann.org/en/applicants/urs
+TM-PDDRP – ADNDRC; The FORUM; The World Intellectual Property Organization (WIPO):
+https://newgtlds.icann.org/en/program-status/pddrp
+
+ICANN Compliance and Global Domains Division (GDD)
+The TMCH Independent Reviewer: https://newgtlds.icann.org/en/reviews/tmch
+Also, join the Working Group’s meeting on Thursday to discuss the
+Providers’ feedback on the TM-PDDRP:
+https://icann562016.sched.org/event/7Gl1/gnso-review-of-all-rights-protection-mechanismsrpms-in-all-gtlds-pdp-working-group?iframe=yes&w=i:100;&sidebar=yes&bg=no
+| 16
+
+To Learn More about this PDP and the
+Working Group
+
+Further Information
+
+• GNSO	Activity	Page	(with	background	 information,	 relevant	GNSO	Council	
+Resolutions,	 and	the	PDP	Issue	Reports):	http://gnso.icann.org/en/groupactivities/active/rpm
+• The	Working	 Group	 Charter	(describing	 the	two-phased	PDP	and	the	scope	of	
+work):	https://community.icann.org/x/2CWAAw
+• The	Working	 Group’s	 online	 collaborative	wiki	space	(containing	 agendas,	
+transcripts	and	recordings	 of	all	Working	 Group	 meetings;	draft	documents;	and	
+background	 material):	https://community.icann.org/x/wCWAAw
+
+| 18
+
+

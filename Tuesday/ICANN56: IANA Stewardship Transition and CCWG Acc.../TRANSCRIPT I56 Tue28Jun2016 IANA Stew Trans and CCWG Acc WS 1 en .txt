@@ -1,0 +1,1344 @@
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+Tuesday, June 28, 2016 – 09:30 to 10:30 EEST
+ICANN56 | Helsinki, Finland
+
+CHAIR SCHNEIDER:
+
+So good morning, everybody. We need to start because time is
+very short.
+Please take your seats.
+Before we start with this meeting, one important thing. I have
+heard that yesterday in some sessions -- in particular, the one on
+the two-character country code -- some representatives have
+not been able to speak because they haven't been seen. And
+just the setting here is not ideal because it goes very far back, it's
+very narrow, people are closely together. So in particular, those
+that sit in the back, and if you want to take the floor, please
+make sure that you hold your hand up until you get nodded that
+we have noticed you and put you on the speakers' list because
+it's a pity that people can't take the floor because the person
+who is chairing a session is not seeing you. So we want to try to
+avoid this.
+So please signal. The further back you are, the more higher you
+have to hold your hand so that we -- and keep it up until you get
+a signal that we've noticed you.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+Thank you very much.
+With this, I would like to start our session on IANA transition.
+And we have some guests here that those who have been to
+previous meetings have learned to know rather well.
+We'll divide the session in two, because there are two processes
+that are, of course, linked. The first one is the -- let's say the
+rather technical part of the process on the post IANA -- the posttransition IANA, and we'll get a quick overview on where we are
+now with this process after the whole package has been
+delivered to the NTIA by ICANN in Marrakech after the end of our
+last meeting, and particularly focusing on the Customer
+Standing Committee because this is the next question or the
+next thing that the GAC needs to decide on, how to -- if and how
+to use and profit from the possibility to have a liaison to the
+Customer Standing Committee.
+So I'll stop talking and I'll give the floor to Lise and Jonathan, the
+two co-chairs of the CWG, as it was called or is called, to brief us
+quickly about where we are with the PTI.
+Thank you.
+
+JONATHAN ROBINSON:
+
+Thank you, good morning.
+
+It's Jonathan Robinson.
+
+I'll be
+
+working today with you together with my co-chair Lise Fuhr.
+
+Page 2 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+We'll take you through a couple of update points, as Thomas
+said.
+Can I check if we have the slides available for this? Do we have
+the slides available? Are they uploaded yet?
+Okay. I'll just make a couple of remarks while we wait for those
+slides to come on.
+Essentially we were the group that developed the transition
+proposal on behalf of the names community, as you know, and
+there were three proposals:
+
+one developed by the names
+
+community, one by the numbers community, and one by the
+protocol parameters community. And together those formed, in
+composite, the proposal that went to the NTIA.
+Having prepared and submitted that proposal and the phase
+that we are now involved in is the implementation of that
+proposal. That implementation is being led by ICANN staff in
+their professional capacity as executives responsible for doing
+so. And what we agreed with the ICANN staff was that we would
+retain the Cross-Community Working Group for the purpose of,
+in a sense, overseeing that implementation or working together
+with ICANN staff on that implementation to make sure that it
+remained at all times coherent and consistent with, I guess you
+would say, the letter and the spirit of the proposal. And that's
+the work that we've been involved in for the last few months.
+
+Page 3 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+And it involves many different aspects of dealing with that
+proposal, from things like what sort of Service Level Agreements
+will be in place, what the organizational documents pertaining
+to the -- if you remember, if those of you that were familiar with
+it, the new -- the structure is that the post-transition IANA will be
+structurally or at least legally separated. It's an ICANN -- what in
+colloquial terms would be called a subsidiary. It's a second
+entity under ICANN, but it's a closely bound in separate legal
+entity called an affiliate, and that requires constitutional
+documents, legal documents to bring it into life. It will require
+its own board and, ultimately, employees. So all of that work,
+the detail on all of that work needs to be executed, and that is
+being executed by ICANN staff with the direct collaboration and
+cooperation with CWG.
+So let me check if we have some slides to illustrate that at this
+stage.
+Julia, can you tell us if we have those slides available?
+Okay. I get confirmation that they're uploading now.
+I have a couple of graphics to I am straight that, but one -- and
+we'll come back -- I can refer you to those. Okay. Here we go.
+Let's see what we can....
+But let me -- I think we can....
+
+Page 4 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+Just one moment, please, while we upload the slides.
+So I think I'm going to let -- it makes sense to hand over to Lise.
+One of the key components of the structure is that there this
+post-transition IANA, this ICANN affiliate will have a direct
+relationship with the customers through an organization called
+the Customer Standing Committee. Now the customers are the
+registries that directly rely on the IANA function for their services
+and they will be represented via a Customer Standing
+Committee. And so let me let Lise talk that through with you,
+and then I can come back and summarize the structure.
+We will have a slide deck available for you that we can share
+with you afterwards.
+
+LISE FUHR:
+
+Thank you, Jonathan. Maybe we can go to slide 7, then, because
+that's the slide about the Customer Standing Committee. Thank
+you.
+As Jonathan mentioned, the new structure meant that we had a
+Customer Standing Committee, and that was because the earlier
+structure was that there was an oversight by NTIA overlooking
+several issues regarding IANA.
+
+Page 5 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+Now the new structure is that the Customer Standing
+Committee, which members you can see in the blue square, is
+going to be the ccTLDs, the gTLDs, and TLD representatives that
+are not G's or C's.
+We will have several liaisons. One is PTI, and PTI is going to be a
+mandatory member. And there is going to be ALAC and GAC.
+You will be also a liaison with the Customer Standing
+Committee.
+The role of this is actually to have the day-to-day oversight of the
+-- of the PTI of the new IANA, and it's to see that they fulfill the
+Service Level Agreements. It's also to be able to assess if PTI is
+performing poorly. We don't know if they will do so. They have
+not done before, so we think IANA will keep up the good work,
+but this is a group that can be the first part of taking -- of
+addressing any issues. And they are to escalate. If the PTI
+performance is not according to SLAs or there's an issue, they
+can escalate this to the ccNSO and the GNSO. And it's also to
+review and recommend changes to PTI service level targets.
+So this group is meant to meet like once a month. It's meant to
+be an ongoing, and it's not that they have physical meetings but
+it's going to be quite a lot of work being in this group because
+it's going to be the technical insurance that PTI is performing.
+
+Page 6 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+Next slide is we have another committee that's the RSSAC.
+That's a technical one. It's not related to GAC as the other ones,
+so we just wanted to show you there is going to be this
+committee that is going to advise the Board if there is any
+changes to the technical parts of PTI.
+And I'd like to share the last slide really quickly because that's a
+nice overview of PTI. As you can see, we have the Board with five
+directors where Jonathan and I are going to be interim until the
+NomCom has settled a process for choosing the board, and staff
+will be seconded at the first take and then we will, within three
+years, have them employed directly by PTI.
+And as Jonathan explained, PTI is going to be an affiliate of
+ICANN.
+You'll have those slides and can review them if you want to go
+into details.
+Thank you.
+
+JONATHAN ROBINSON:
+
+Thanks, Lise.
+Let's look at the last slide which summarizes an overall timeline.
+You've really seen that we've gone through three different
+phases. There was the whole preparation of the proposal and all
+
+Page 7 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+of the work that went into that from the three different
+communities in phase one that ultimately resulted in a
+composite proposal that I referred to in the beginning from the
+names, numbers, and protocol communities, pulled together by
+the ICG, taken through the public comment period, and in
+parallel with that, the work on ICANN's accountability that you'll
+hear and discuss more about in a moment. Of course that then
+being submitted to the NTIA for review and evaluation during
+phase two. And the report coming out earlier this month, in fact,
+which dealt with the -- this community developed stewardship
+transition proposal and the fact that U.S. Commerce
+Department's NTIA found the stewardship proposal to -developed by the multistakeholder community to meet the key
+requirements or criteria set out by NTIA back in March 2014.
+And to remind you of those which you've probably heard many
+times before, but it was a requirement that it supported and
+enhanced the multistakeholder model, maintained the security
+and stability and resiliency of the DNS, meet needs and
+expectations of global customers of the IANA service itself,
+maintain openness of the Internet, and does not replace NTIA's
+role with a government-led or intergovernmental organization
+solution.
+So the proposal is deemed to have met those criteria, and that
+brings us then into this phase three, this final point, where we
+
+Page 8 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+can finalize the implementation. And that is where we're right in
+the thick of things now, making sure that all of the detail of the
+implementation is self-consistent and consistent with the
+proposal. And so in many ways I think we thought our work was
+done a while ago when we handed the proposal over to the ICG
+but, of course, there's this significant phase three which now
+requires appropriate levels of work on the implementation and
+that's what we are sleeves rolled up in now. And as Lise said of
+particular interest probably to the GAC this morning is the CSE
+and your potential involvement with liaisons to that CSE. So I
+think with that I'll hand the microphone back to Thomas
+Schneider, your chair.
+
+CHAIR SCHNEIDER:
+
+Thank you very much. And I think we should use the moment
+and the fact that we have our two main experts on this part of
+the process here with us to ask them certain questions or make
+comments, but in particular ask them questions about the
+process. Ideally with the focus on the CSE.
+Before that I would just like to quickly give the floor to our
+colleagues from the United States because they can give us a
+little bit of an insight on where the process is in that phase two
+and how -- how the next few months are -- what is needed to
+
+Page 9 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+happen in order for this to actually proceed. So Chris, if you
+could tell us, thank you.
+
+UNITED STATES:
+
+Thank you, Thomas, and good morning to all colleagues. In
+March ICANN sent NTIA the IANA stewardship transition proposal
+developed by the Internet's multistakeholder community. And
+as you all know, the plan addresses both the technical
+performance of the IANA functions as well as enhancements to
+ICANN's accountability.
+On June 9 NTIA announced that the proposal meets the criteria
+NTIA outlined in March 2014 which were just reviewed by Mr.
+Robinson a moment ago. Assessment against these criteria was
+a joint work effort of all U.S. federal agencies with equities in
+DNS operations.
+
+The interagency team provided a set of
+
+questions to allow for a detailed evaluation of how the plan met
+our top-line criteria as reflected in the matrices attached as part
+of our report.
+In response to a recommendation by the U.S. government
+accountability office, NTIA also examined the IANA stewardship
+transition proposal against relevant portions of the internal
+control principles developed by the Committee of Sponsoring
+Organizations of the Treadway Commission, or COSO.
+Evaluating the proposal against the COSO framework NTIA
+
+Page 10 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+found that the transition proposal adheres to the COSO
+principles with respect to organizational environment, risk
+assessment, and monitoring.
+Regarding organizational environment, NTIA's review concludes
+that ICANN has structures and processes in place that set the
+tone for accountability, and the proposed enhancements
+reinforce this by allowing the community to hold the board
+accountable to its commitments and responsibilities. Further
+the post-transition IANA, which will be instituted as an affiliate of
+ICANN for purpose of performing the naming functions, is well
+on track to establish such processes and structures prior to the
+transition.
+Risk assessment. The transition proposal does a good job of
+identifying risks and proposing mechanisms to address them,
+namely through contractual requirements, service level
+expectations, oversight in review committees and processes,
+and requisite ICANN bylaws to institutionalize them.
+For monitoring, the proposal incorporates a variety of
+monitoring requirements including those associated with
+operational performance of the IANA functions as well as those
+associated with ICANN and the ICANN board's actions.
+Finally, NTIA commissioned a panel of corporate governance
+experts including Columbia University law professor John
+
+Page 11 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+Coffee, Brooklyn law school professor Dana Brakman Reiser, and
+the Berkman Center for Internet and Society at Harvard
+University to review the ICANN accountability provisions. The
+expert
+
+panel
+
+concluded
+
+that
+
+the
+
+accountability
+
+recommendations are consistent with sound principles of good
+governance that reflect the unique and important mission of
+ICANN within the Internet ecosystem.
+The transition proposal represents the largest multistakeholder
+process ever undertaken. On behalf of the government of the
+United States of America, I would like to extend our sincerest
+appreciation to the members of the GAC and the broader
+multistakeholder community for their tireless work and
+commitment to the IANA stewardship transition process. Thank
+you.
+
+CHAIR SCHNEIDER:
+
+Thank you very much for this update. So the floor is yours,
+European Commission.
+
+EUROPEAN COMMISSION:
+
+Yes, thank you, Thomas, and thank you to Jonathan and Lise for
+the very useful presentation. I just have a question, and it
+reflects also what Chris has just said from the United States. In
+the assessment by NTIA, as you recall, and there have been a
+
+Page 12 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+number of papers about this, there were some areas that were
+identified as yellow. In other words, they still needed a bit of
+work. And I wondered if the chairs of the CWG could give us an
+assessment of timing and progress on those aspects because
+you've talked about those but can you give us an assessment of
+whether the -- the August 12 date that you've identified here will
+be met and how much more needs to be done and what, if
+anything, the GAC can do to assist you.
+
+LISE FUHR:
+
+I can give a first go of this. Actually at the moment we're
+working on the PTI bylaws, and a lot of the areas that were
+mentioned are actually in process. It's been worked on. A lot is
+regarding code of conduct and conflict of interest documents, et
+cetera.
+
+Those are also being worked on, and we haven't
+
+discussed it, but I believe we would use a lot what's been
+worked on in the accountability group already so we don't
+invent new procedures for that. So I'm absolutely sure we'll
+meet the -- the deadlines and the time, but it's just a part of that
+we wanted to have the PTI bylaws concluded first and the IANA
+PTI contract which is on process.
+
+JONATHAN ROBINSON:
+
+I would just make one follow-on remark. It's Jonathan Robinson
+for the transcript. If we could have the last slide, please, Julia.
+
+Page 13 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+There's one more slide in the deck. What you'll see is a project
+manager and summary, and I don't expect you to go through
+this in detail now, but I think what it symbolizes is that there's a
+professional project management approach which is -- ICANN's
+staff have been working on to support this. And -- and it breaks
+down the different tracks of work into detail and the different
+areas. So you can be assured that we are mindful of all of those
+details and they are being handled professionally and properly
+to seek to meet the targets -- target dates. So thank you for the
+question. I hope that's helpful in answering.
+
+CHAIR SCHNEIDER:
+
+Thank you. I have Iran.
+
+IRAN:
+
+Thank you, Jonathan. Thank you, Lise, for the presentation.
+Just a question for you to -- to reply, if you wish. What would
+happen if transition does not take place? Thank you. For PTI
+actions only.
+
+I'm not talking of the CCWG accountability
+
+because we have already and sort of answer from ICANN board.
+But for the PTI actions over this one, what would happen if -thank you.
+
+Page 14 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+JONATHAN ROBINSON:
+
+EN
+
+In some ways I don't want to duck the question but I would say
+that's not something we are contemplating. We are working
+towards achieving the outcome and doing all the preparation
+work. I guess there might be a position of go/no go at some
+point but probably the most significant items might be things
+like -- the most obvious thing might be -- which would become in
+some senses irrevocable, might be something like the transfer of
+the IPR. But it's a good question, and we should think about at
+what point some form of change takes place that whilst not
+irrevocable becomes more difficult. So there's probably some
+key timelines where a change has to take place. But I think from
+my -- I mean, for example, creation of the subsidiary, of the
+affiliate, doesn't mean that the transfer of the -- of the -- the staff
+needs to take place or any -- so a lot of this is preparatory work.
+And it's a good question as to what -- at what point the change
+has to take place. And it's not something we've actually actively
+contemplated. Rather we've been focused on getting ready for
+that transition.
+
+CHAIR SCHNEIDER:
+
+Thank you. Since we should decide until the second half of July
+if and how and who we would send as a GAC liaison to the
+Customer Standing Committee I think we should spend one or
+two minutes on this one. First of all, do we want -- one question
+
+Page 15 of 41
+
+EN
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+is, do we want to have a liaison of the GAC to the Customer
+Standing Committee.
+
+UNKNOWN SPEAKER:
+
+(Off microphone).
+
+JONATHAN ROBINSON:
+
+Yeah, I think just to help you perhaps in that thinking, the
+Customer Standing Committee is a structure designed to help
+the post-transition IANA function properly in service of its
+customers. There was a strong feeling at the time of designing
+this that there were direct customers of the IANA function who
+need to have a direct relationship with that service provider.
+There was also some strong feelings that there was a danger, if
+we just focused on the direct customers, that some within the
+multistakeholder
+
+model
+
+might
+
+feel
+
+in
+
+some
+
+senses
+
+disenfranchised which is why, from my recollection, we ended
+up at a position where there was the opportunity for a liaison
+but not the necessity for it. So in a sense, the invitation is there.
+It's not going to go away. It's available to you to take up, should
+you wish to, I think is probably the way to express it.
+
+CHAIR SCHNEIDER:
+
+Page 16 of 41
+
+Thank you, Jonathan. Iran.
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+IRAN:
+
+EN
+
+Thank you, Thomas. You raise a question, do we need to have a
+liaison. Perhaps the answer will be, why not?
+
+CHAIR SCHNEIDER:
+
+Thank you for that very clear statement, Iran. I see the United
+Kingdom.
+
+UNITED KINGDOM:
+
+Thank you, Thomas. And thank you, Jonathan and the team for
+presenting to us today such a comprehensive overview of the
+current state of plays. It's very -- it's very encouraging. The
+process as you say is very professionally managed well and it's -it's a remarkable achievement by all involved.
+With regard to this immediate question about the CSC, I -- I
+guess my first thought is that as I understand it, one of the
+functions would be to undertake some substantive review at
+some point, particularly if there was an issue requiring a bit of a
+rethink or adjustment of the PTI. And I guess at that stage the
+GAC would be very interested to understand what the issue was
+and if there was some element of public interest or an issue
+relating to stability and -- and integrity, if you like, of the new
+transition entity. I guess that that would be a point at which the
+GAC would need to be sort of involved and offering to provide
+
+Page 17 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+advice or input or consider an issue in particular if it was a
+matter of stability and public interest.
+
+So that's my initial
+
+thought.
+Ordinarily I think the main operational function of the CSC is not
+something that we would need to be directly involved in on a
+day-to-day basis. I don't really see that. But the review function,
+if that is triggered, is probably the opportunity I would see as
+relevant to the GAC. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. Thank you, Mark. I think this is exactly what the
+liaison is about. The liaison is probably -- Lise, correct me if I'm
+wrong.
+
+It's probably not an operational watchdog, but it's
+
+somebody who has the potential to report, if necessary, which is
+the basis for being able to participate in the review function, for
+instance.
+Lise, thank you.
+
+LISE FUHR:
+
+Thank you. I just want to clarify that there is another review
+team that's going to review the IANA function as such, which is
+taking place first in two years and then every five years. The
+review that is meant in the CSC is more review of technical
+issues. And after one year, you will have a review of the charter
+
+Page 18 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+to see if it's fulfilling its purpose, if we meet the objectives of the
+CSC.
+So I think at a more organizational level, it is a review team
+that's going to be more satisfactory for GAC. This is a very
+operational committee, not that it's not important and
+interesting for GAC to liaise with it but it's just to set the
+expectations.
+
+CHAIR SCHNEIDER:
+
+Thank you. Further comments?
+
+JONATHAN ROBINSON:
+
+Just one thing.
+
+CHAIR SCHNEIDER:
+
+Yes, Jonathan.
+
+JONATHAN ROBINSON:
+
+Just one brief follow-on to what Lise said.
+So if the CSC was sufficiently concerned about the operational
+function of IANA, it could recommend that a review of the IANA
+function take place. So to that extent, it's connected but its
+primary role is on day-to-day, week-by-week effective
+
+Page 19 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+operational performance of the IANA function and less about
+periodic, strategic, or other reviews of the overall performance.
+
+CHAIR SCHNEIDER:
+
+Thank you. One last comment or question?
+So we should decide during this meeting what we do with this -with this possibility to have a liaison. From what I've heard, I see
+rather a "why not" sense that we somehow have an interest in
+principle in this. We don't want to be too closely involved, but
+there needs to be some link for us to -- because this is a crucial
+function in the end. So please continue to discuss this. Give
+your views also electronically on the mailing list.
+We have another session on the transition later this week, but
+that will be more focused on the accountability part. But we
+need to know what we want by the end of the deadline with the
+liaison. But I see that what I've heard is rather positive, that we
+should have one, than negative.
+Yes, Lise.
+
+LISE FUHR:
+
+Just to give a quick remark to this because I think the first year is
+going to be the year where you shape this committee. That's
+going to be where we find how is the CSC going to operate as
+
+Page 20 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+this committee. So this might be the most interesting part for
+you to be in the first year, and then you can evaluate if it's
+interesting or not to follow. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you very much.
+Indonesia.
+
+INDONESIA:
+
+Yeah. Just to comment on, one is like my friend Iran said "why
+not." I think it's good because customer of Internet, so many of
+them, and the GAC will need to know what is happening for our
+customers.
+Secondly, I would like to ask a question about the PTI to Lise.
+About the PTI itself is basically about IANA. As I understand
+today, IANA is a U.S. D.O.C. organization managed by ICANN
+under a particular contract. What will happen after the PTI and
+the new multistakeholder organizations?
+
+I read some
+
+information about that. But perhaps due to my poor English, I
+couldn't get it properly.
+Will IANA be -- still be a U.S. D.O.C. organization managed by the
+new organization or it will be separated totally from the U.S.
+organization and become a private organization owned by the
+
+Page 21 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+multistakeholder organizations? And it means there will be no
+U.S. (indiscernible) from inside?
+
+There is no U.S.-owned
+
+equipment, network, whatever? Can you tell me more about it?
+Thank you.
+
+JONATHAN ROBINSON:
+
+Thank you for the question. I will attempt to answer that as
+accurately as I can.
+The post-transition IANA is a -- will be a newly formed private
+corporation that is -- in my terms, in a normal sort of commercial
+terms would be called a wholly owned subsidiary company, if
+you thought about it. But because it's a not-for-profit, it is
+referred to as an affiliate and it will have its own board members
+and ultimately its own staff. But it is very closely associated with
+ICANN, but it is a separate legal entity and a private not-forprofit corporation.
+So I hope that answers your question and allays any concerns
+you've had. We could give you more detail about the exact
+nature of it; but that, in essence, is what it is. Private, not-forprofit corporation, affiliate of ICANN, own five-member board,
+and capacity to employ its own staff and operate its own
+budget.
+
+Page 22 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+CHAIR SCHNEIDER:
+
+EN
+
+Thank you. Last quick word by the European Commission, and
+then we need to move to the other parts of the discussion.
+Thank you.
+
+EUROPEAN COMMISSION:
+
+Thanks, Thomas. I don't want to extend the discussion, of
+course.
+
+But I just think that we should be taking a more
+
+substantive position on this. And you've mentioned this, of
+course. But to identify "why not" as an option for GAC I think is a
+bit wishy-washy. We should congeal this into a clear position.
+And as Lise said as well, I think if the GAC is part of the
+multistakeholder approach and model, we should clearly be
+participating at least in the first years to come. And we can
+identify a GAC official, either chair, vice chair, et cetera, as a
+liaison person. But that's for our next discussion.
+But I wouldn't like the record to say the GAC can't decide and
+why not and maybe, et cetera. So that's for a future discussion.
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you for that clear statement that we should clearly
+participate.
+So with this, I would like to thank Lise and Jonathan. Of course,
+you can stay if you want and listen to how the rest of the
+
+Page 23 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+discussion is going. But if you have more important work to do,
+then, of course, you don't have to stay here. Thank you very
+much in any case.
+With this, I would like to immediately hand over to the three
+gentlemen that are sitting between two women on this side of
+the table. I forget your names, but you're somehow co-chairs of
+something, I think.
+[ Laughter ]
+Why don't you present yourself and start. Thank you very much.
+
+THOMAS RICKERT:
+
+I can just refer to us as the French, the Mexican, and the German
+that have spent the last 18 months together.
+But joking aside, my name is Thomas Rickert. I'm the GNSO
+appointed co-chair to the CCWG. And I would like to invite those
+who don't have headsets to try to find a headset because after I
+spoke, my colleagues will speak in Spanish and in French.
+This is to provide you with a little update on what we did this
+weekend kicking off our work in work stream Number 2. As you
+know, we have split the accountability work in two areas, work
+stream 1 and work stream 2. I would like to use this opportunity
+to remind ourselves that while work stream 1 is now completed
+
+Page 24 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+in terms of our part, work stream 2 is dealing with topics of the
+same importance. We just have not been able to handle all
+these at the same time.
+So this has been called an unprecedented multistakeholder
+effort. And I think this -- nothing could be more true in this
+arena. And I would like to thank the GAC and its members again
+for contributing so tirelessly in this first phase. And I hope that
+you will continue to work with the other community parts at the
+same level of engagement in work stream Number 2.
+Also, while our work stream 1 recommendations have
+undergone several phases of community interaction and
+community examination -- and we came to the conclusion that
+what we proposed was the right thing to do -- it was really
+reassuring, I think, not only for me but also for the other
+community members to hear again a few minutes ago from the
+U.S. that this proposal has been examined very thoroughly and
+that not only it meets the NTIA criteria but actually that this is
+the right accountability approach for an organization such as
+ICANN which is a one-of-a-kind organization. So we couldn't just
+copy any corporate or social responsibility models from other
+places, but we had to come up with a completely new process.
+And I think that's sort of revolutionary.
+
+Page 25 of 41
+
+EN
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+This Sunday we had a whole-day meeting kicking off our work
+stream 2 discussions. There was very good turnout. So the
+room was full, and we had very engaged discussions. And the
+idea was to spark off the work stream 2 items by allowing for socalled lightning talks where volunteers from our group would
+speak to an issue that they're interested in so that we get the
+discussion going on how we approach these nine topics that we
+had in our report for work stream 2. You know all this. I'm not
+going to bore you with repetition.
+The idea is, just so you know, we will have nine subteams that
+each of them have their own leader or rapporteur. But these
+groups will just do the groundwork. They will do fact finding.
+They will discuss recommendations and bring them to the
+plenary CCWG. So the subteam themselves will not make any
+decisions.
+
+They will just prepare recommendations for the
+
+whole CCWG to discuss. And then these proposals will be put in
+front of the community.
+There will be a public comment period for each of those topics
+for work stream Number 2. And you can expect those to be
+rolled out sequentially because we do know that it would be
+overwhelming for the community likely to have a public
+comment
+
+period
+
+where
+
+they
+
+need
+
+to
+
+respond
+
+to
+
+recommendations on all nine work stream 2 recommendations.
+
+Page 26 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+So while they can be -- some of them can be combined as they
+get ready, please do expect multiple public comment periods
+where we put the recommendations in front of the community.
+And then these public comments will be analyzed, and it is our
+plan, our hope, as community, resources permit, to deliver
+recommendations for all nine topics in the middle of 2017. So
+our work shall be completed in June 2017 when we again will
+present our findings to the global community.
+So there's one remaining point that I would like to briefly
+mention. ATRT3 is to be launched soon according to plan. And
+some of the items that are on the agenda for ATRT3 are
+congruent or partially congruent with work stream 2 items.
+Therefore, there was a question whether our group should
+maybe pause and wait for the outcome of ATRT3. But our
+discussions have concluded in a way that we're going to prepare
+a correspondence to the SOs and ACs as well as to the ICANN
+board informing them that our group will conduct its work as
+planned, as promised to the global community in our work
+stream 1 report.
+
+So we will prepare our work stream 2
+
+recommendations on all topics, not pausing or deferring
+because of ATRT3. And certainly it's not for us to determine how
+ATRT3 is conducted. But I think that you will hear from the
+board as we move on what impact that might have on work on
+ATRT3.
+
+Page 27 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+So with that, I'd like to hand over to Leon Sanchez, my fellow cochair.
+
+LEON SANCHEZ:
+
+Thank you very much, Thomas. I will speak in Spanish so you
+will need your headset, please. Go ahead and make use of the
+services.
+All right.
+
+So we just were trying to project this image to
+
+intimidate you, but actually there are a series of smurfs behind
+these people, so for the purposes of the translation, the smurfs
+are presented as smurfs. So behind those helmets, there are
+actually three -- of the three stormtroopers are actually three
+smurfs.
+So in line with what Thomas just said, this is an important time
+for the group and we want to invite you so that if you consider
+this necessary, you can review participation of different
+members appointed within the CCWG as well as to also invite
+you to include new participants, if you so wish, or also to review
+the members that are assigned to the CCWG.
+So this is actually the right time to do this.
+You can do this at any time, but we still consider that this is the
+right juncture in the process where this review is proper.
+
+Page 28 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+We believe the work has been very intense and it is possible that
+some of the volunteers who have devoted hours of work in this
+process are now exhausted, and so this is actually a good time
+for this review, and this has to be done under their own
+processes and needs.
+It is also good to have a review of the issues to be dealt with
+within the working groups.
+The first one is diversity. Diversity is an issue that was still
+pending for the second part of our job, human rights as well.
+Jurisdictions. Also the issue of accountability of SOs and ACs.
+The issue of the ombudsman. Transparency. Transparency for
+staff, accountability for staff as well.
+
+Also, guidelines or
+
+standards of conduct. What is it that we consider good faith and
+what if we need to exercise the power to remove some members
+of the board of directors or members of the board of directors.
+And of course to review the CEP, which is the cooperative
+engagement process.
+So these are the issues that we're going to focus on, and Thomas
+has just given you a description of what is the aim of this group
+and how is it that we're going to work. But I also considered it
+important to remind you of all these issues and to invite you
+once again because we need many hands and we probably need
+new hands. So I insist that this is the right time to do this,
+
+Page 29 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+Thomas, so that you can assess whether those who are currently
+assigned as members of the group should remain, if they want to
+remain, or if the GAC itself needs to refresh this team that has
+been working with us.
+So I would just want to thank all the GAC members for all the
+support they have shown in this process, for all the work they
+have done, and thank you again for inviting us today.
+So I now will give the floor to Mathieu, my co-chair.
+
+MATHIEU WEILL:
+
+Thank you.
+My name is Mathieu Weill. I'm the co-chair of the assigned
+working group.
+
+It has been assigned by the ccNSO in the
+
+distribution of the work with my two colleagues.
+So we now need to present the tasks or the request for tasks
+that will probably make our work more heavy.
+This is the work that you have to do in this Helsinki session,
+because there are a number of points we need to complete to
+progress in our work.
+The first element is a message that we convey to the president,
+to the chair, and to the -- to all the chairs of all the organizations
+
+Page 30 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+that supported our work and our charter, and this has to do with
+the budget for the second part of our work.
+This is so because we are working in Work Stream 2 and Leon
+actually referred to volunteers, but the new issue that he
+referred to requires support from staff. They -- you know, our
+staff has an excellent work, does an excellent work, and this is
+necessary to continue with these meetings, support for the
+member groups so that they can all be here. And also, the
+experience we have had so far has shown that there is a need to
+have external advice, legal -- independent legal advice, because
+the nature of the issues that we deal here requires that.
+So we believe that with the support of the ICANN teams and a
+very narrow link with the finance committee, we have been able
+to estimate our needs for the following periods and we informed
+that to all the organizations that signed our chartering -- our
+charter and we know that the ICANN board is impatiently
+awaiting the opinion of these organizations to know whether the
+relationship between the added value of the work that we will
+continue doing and the cost is an appropriate relation from the
+point of view of each person.
+This is something I know you want to know, to the extent
+possible, and we have prepared some motions and it would be
+interesting to have these present to keep these in mind.
+
+Page 31 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+This is the financial part.
+So more pragmatically and in the dimension of implementing
+the recommendations adopted in Marrakech and presented by
+the new ICANN bylaws, there are several issues we need to
+consider.
+First, the GAC is a participant, is a full-rights participant in the
+community, in the empowered community, and that is why it
+needs to be prepared, as well as the rest of the organizations, so
+that we know what are the procedures needed to start a petition
+to participate in the different phases to escalate the discussion,
+if the case so requires, and also, of course, to make a decision in
+the last resort if we reach this phase.
+So we urge you to identify, among all of your procedures, the
+way to see how we can get organized, including time lines, to
+participate fully in the different instances.
+Now, secondly, you will probably know that from now on,
+regular review teams will be made up by the different chartering
+organizations and also the GAC, and so it is necessary to
+implement a process to select representatives in these teams so
+that then this process can be applied in each new review.
+Thirdly, for the time being, there is nothing we can do about this
+but it is good to start thinking about this issue. There will be a
+
+Page 32 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+selection process by the community. We will select panelists to
+independently -- for -- to have an independent review. This is
+going to be the IRP. And even though the work of this group is in
+course, it is clear that for the GAC, it will be important to position
+or to identify the way to contribute for this central element in
+the new governance device in ICANN.
+So I just wanted to call all your attention -- the attention of all of
+you, so that you can start discussing these issues and to see how
+you will be able to fully participate in the governance of new
+mechanisms to be implemented by the recommendations that
+we have adopted so far in Marrakech altogether.
+Thank you very much, and now I'll give the floor to our chair.
+
+CHAIR SCHNEIDER:
+
+So thank you very much for these very important informations.
+There are other issues that we need to discuss. We need to
+discuss this quite quickly, and the key issue for Work Stream 2
+will be, which are the members of the GAC in CCWG.
+You know that the -- you know that participations is essential.
+There are -- there's no limit in the number.
+
+And these
+
+discussions are still in course and those who are interested will
+know that we will have a proposal in the following weeks.
+
+Page 33 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+You know also that there is another space for discussing this
+issue. This will happen tomorrow in the morning.
+And the second issue is what Mathieu has just mentioned. It is
+necessary that the GAC start reflecting and start acting and
+developing a process for more involvement of the GAC in the
+empowered community.
+This is not super urgent because actually the system itself needs
+to be put in place, but actually this will exist and we will need to
+know how to participate in this structure.
+So we have 10 minutes for questions and comments with our cochairs here and you can also express your point of view here
+orally in the room, but you can also use electronic media to
+communicate issues maybe by email. Thank you very much.
+
+UNITED KINGDOM:
+
+And thank you, all the co-chairs of CCWG, for updating the
+committee this morning. It's very helpful, very useful.
+Just one question about the time line for Work Stream 2. I
+wonder if you could explain a little bit about how that's going to
+work out, in view of the sequential request for public comment
+and so on.
+
+Page 34 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+What is the target endpoint, and is the cost of the support for
+Work Stream 2 something that's being factored into that? And
+I'm thinking in particular of legal costs, which of course have
+been quite substantial from the experience of Work Stream 1.
+So first of all, time line, and then, you know, cost management
+and lessons learned from Work Stream 2 -- Work Stream 1, if
+that's possible. Thank you.
+
+THOMAS RICKERT:
+
+Thanks very much for the question.
+In terms of time line, we have an overview of who volunteers for
+what topics, and there are certain topics that have more interest
+by the community than others, so we're now reinforcing our
+invitation to the whole community to join one or multiple
+subteams for Work Stream Number 2.
+So our hope is that we will have the human resources, the brains
+at our fingertips, to actually get all the work done in a timely
+fashion.
+The idea is that we would kick off the -- all of the subteams after
+this meeting. Maybe there are two or three that we will roll out a
+little bit later, but then you should expect us using the two
+bigger ICANN meetings as opportunities to consult with the
+community extensively, so that actually, we will be able to
+
+Page 35 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+deliver our final output on all the subteams -- or the whole
+package of nine subteams in May-June 2017.
+And, yes, we have prepared a budget, together with ICANN staff,
+that would allow for us to deliver on all these items, but I should
+also note -- or refresh your memory that there is a new way of
+approaching the budget. I.e., we will work in a new fashion
+that's going to be presented to the community in the near
+future, and that would allow for the account- -- the enhanced
+community, actually, to have budget ownership for certain parts
+of the work.
+So that will allow for us to exercise cost control in a much more
+efficient manner than previously, and that will also help us to
+meet financial targets, and there will also be a process for the
+hopefully unlikely case where we need more budget than
+anticipated at the outset.
+
+CHAIR SCHNEIDER:
+
+Thank you. So you will go for a crowd funding campaign for the
+CCWG. That's excellent.
+I have Iran next on the list.
+
+Page 36 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+IRAN:
+
+EN
+
+Thank you very much. The three heroes that done this job for 17
+months. I take this opportunity to sincerely thank for all good
+things you have done and are going to do.
+Just one complementary question to what Thomas Rickert said.
+With respect to the ATRT3 and Work Stream 2, although we don't
+get involved what ICANN wants to do, but we have to mention
+and we have decided to mention that if they do the work in
+parallel, they would be overlapping because many areas are
+common in our process.
+So it is important that it is taken into account to avoid any
+overlapping and the need of feedback from one to the other.
+That is not something that is -- full freedom for ICANN is to take
+that into account. That was mentioned.
+With respect to the issue raised by Mathieu, I hope -- I think, if I
+have heard it correctly, it would be beneficial if we receive, GAC
+receive an input from CCWG with respect to these two issues,
+review team and panelist qualifications, scope of work, nature of
+the work, and so on so forth, in order that we really know at
+what time we have to do.
+With respect to empowerment of community, of GAC
+participation in the decision-making, it is already in our
+communique of Marrakech what we have to do.
+already discussed this in general.
+
+Page 37 of 41
+
+We have
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Iran.
+Switzerland is next.
+
+SWITZERLAND:
+
+Thank you very much for giving me the floor.
+And first of all, besten dank, muchas gracias, merci beaucoup,
+and I'm very glad to see you with so much energy starting Work
+Stream 2, or you are pretending to have that energy in a very
+reliable and credible way. But I'm very happy to see you here
+with such a lot of energy.
+And as the time is short, I would just like to thank you that in
+these negotiations about the support for the Work Stream 2, you
+have taken up a lot of the points we've made on the transcripts,
+on the staff support for drafting, because this is very important
+for the inclusivity and the diversity of this effort.
+And on this note of diversity, I would like to make my pledge or
+my urge to you is that you keep on with your good guidance and
+you keep on with your maneuvering and your management of
+the discussions of this very difficult effort and you try to include
+as much all the different stakeholder groups in all positions in
+
+Page 38 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+the subgroups that are going to start this work, because we have
+learned some lessons about diversity in workstream 1, and I'm
+sure you will take the right conclusions out of them.
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you.
+You want to quickly react or should we use the time -- India,
+please.
+Thank you.
+
+INDIA:
+
+Thank you, Chair.
+So we feel that the issues that are going to be raised in the nine
+areas that are going to be raised in Work Stream 2 are extremely
+relevant for us, and across the community, across all the
+stakeholders in the country we are more than happy as well as
+keen to involve and associate in more than one ways in issues, in
+all the issues, particularly relating to diversity, jurisdiction,
+human rights.
+So we would like to volunteer to be the volunteers as well as
+participate in all the discussions.
+
+Page 39 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+And also, as we go forward, we feel that the next year, the
+coming year, is extremely crucial, and not only in Work Stream 2
+aspects but also in the CSC. The kind of -- You know, the
+challenges that are going to be there are going to be there in this
+first year, so it's important that the GAC also maintains great
+liaison with the community, with the emerging PTI structure,
+and we feel there should be an important role of GAC in this.
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you very much, India.
+Other comments or questions?
+Or you want to have the coffee break?
+I see no more questions or hands up, so that means that I would
+like to thank you, to everybody who has contributed to this
+session.
+There's a lot of substance here. We have very little time so we
+really have to get to grips with this and use all our
+communication ways to exchange views in order to be ready in
+time to take the decisions to know where and how we will
+continue to contribute in these processes, because they are
+fundamentally important.
+
+Page 40 of 41
+
+HELSINKI – IANA Stewardship Transition and CCWG Accountability Work Stream 1
+
+EN
+
+So thank you to everybody also in the GAC and with the
+observers who is willing to share the burden, because it's a lot of
+work, but it's worth it.
+So this is the coffee break.
+We will reconvene at five to 11:00, because otherwise it would be
+too short until everybody gets a coffee. And we have five-minute
+update about the communique. And at 11:00 sharp we will start
+with the next session.
+Thank you very much.
+[ Applause ]
+
+[ Coffee break ]
+
+Page 41 of 41
+
+

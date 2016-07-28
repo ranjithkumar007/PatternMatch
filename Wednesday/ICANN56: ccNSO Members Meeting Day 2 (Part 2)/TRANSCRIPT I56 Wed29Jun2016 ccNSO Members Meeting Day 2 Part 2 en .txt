@@ -1,0 +1,1503 @@
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+Wednesday, June 29, 2016 – 10:45 to 12:00 EEST
+ICANN56 | Helsinki, Finland
+
+UNKNOWN SPEAKER:
+
+We’re on? Super.
+
+UNKNOWN SPEAKER:
+
+All right. All right. It’s time for a little legal stuff now. I believe
+we are a little bit late from the agenda, but in my mind, that’s
+completely okay. We are ready to start the legal session of this
+ccNSO member meeting days here in Helsinki. I’m pretty sure
+you’ve all been welcomed to Helsinki like 10 times already, but I
+do want to do it one more time.
+So welcome. And I hope you have enjoyed your stay. We have
+four presentations today, interesting topics. Something about
+terms and conditions, court cases, digital security, and
+memorandum of understanding with governments. Very wide
+range of topics.
+To my presenters, I would like to remind you that, please talk to
+the microphone because I’ve heard we had some technical
+problems. And we start with David Abrahams from Nominet UK.
+Please, I give the mic to you.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+DAVID ABRAHAMS:
+
+EN
+
+Thank you very much. Good morning everyone. I’m just looking
+at my computer as it gives me a nice error message. Just want
+you want as you start your presentation.
+
+Yeah, I’m David
+
+Abrahams. I’m head of policy at Nominet, the dot UK domain
+name registry. And thank you very much for giving me the
+opportunity to speak here.
+I wanted to give a short, and it will be short, overview of some of
+the changes that we’ve made to terms and conditions in the dot
+UK registry, and some of the lessons that we learnt in doing that.
+Oh yeah, I’ve got to click that, don’t I?
+So. Unlike in the gTLD world, and probably quite like a lot of you
+in the CC world, Nominet has a contractual relationship with its
+registrants. Now we still have a registrar model, and almost all
+of our registrants are registered through registrars. But there is
+this three-way relationship that you can see on the slide.
+We have the registrar agreement between us as the registry and
+the registrar. Obviously, there are the registrar’s own terms and
+conditions that their customers sign up to. And then we have
+our own registrant terms and conditions, which are between,
+effectively, a contract between Nominet and the registrant of a
+dot UK domain name. So I’m still relatively new to the ccNSO
+community.
+
+Page 2 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+So I actually wanted to ask all of you, how many of you in your
+registers, have a direct contractual relationship with the
+registrant of the domain name?
+[SEPAKER OFF MICROPHONE]
+Some, yeah.
+[SPEAKER OFF MICROPHONE]
+Yeah, have a contractual terms and conditions, something like
+that. And how many do not?
+So I would say that’s, you know, that’s quite a majority for
+having that direct relationship, which is obviously gives us a
+slightly different relationship to the gTLDs. And for Nominet,
+this is quite interesting because you may know, we’re running a
+couple of gTLDs ourselves and the backend for others, and so,
+we have had to adjust our thinking for the gTLD world, for those
+new gTLDs that we’re running.
+Now, to just give you the background, the registrant terms and
+conditions, which are the ones that I’m going to talk about are…
+They set out our obligations and our rules, and the obligations of
+the registrants.
+So. Our terms and conditions were in need of a bit of an update.
+Now, I think I have to declare this is an interest. I am not a
+
+Page 3 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+lawyer, but one of the things that any of you who manage terms
+and conditions and any of you who are lawyers will know, is that
+it is very difficult to keep your terms and conditions up to date,
+constantly in a rapidly changing environment, like the one that
+we have, in an industry that changes quite quickly.
+In a legislative environment that changes quite quickly. So the
+way we’ve done that in the past is over the past probably five
+plus years, is that we’ve done, what our legal team like to call,
+laser surgery, because that sounds cool, laser surgery on our
+terms and conditions, on the detailed terms in the contract,
+which means that, for example, when we introduced
+registrations that go on longer for two years, because you can
+register a dot UK domain name up to 10 years, when we
+introduced that, we just changed the particular conditions on
+that.
+We didn’t do a full review of the terms and conditions. So, when
+we came to look at them in their entirety, towards the end of last
+year, we found that, to our slight embarrassment, that they
+haven’t been keeping pace with changes in the industry. Our
+processes had changed significantly. Our registrars’ processes
+have changed significantly. For example, we had, we no longer
+had any kind of paper based systems. Everything was done
+online, our registrants were able to access their accounts online,
+as were our registrars.
+
+Page 4 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+And of course, we no longer routinely communicate by fax
+machine. But it was still quite a lot about fax numbers in the Ts
+and Cs. Our laws and regulations that applied in the UK had
+been updated. Some through UK rules, some through European
+rules. So, yeah, that might be a headache that we have to have
+all over again, relatively soon.
+The other thing that we found on taking a fresh look at the terms
+and conditions is that when they had been last fully reviewed,
+there was a very different approach to the language and the
+tone that had been used. So the terms and conditions were very
+long. They had been used to try and explain what Nominet was,
+and what sort of organization it was, and how it would operate.
+And I think, at the time, that was meant to be a consumer
+friendly way of making sure that people understood these things
+when they bought their domain name. Perhaps it was more
+innocent times before we all had to click on okay and agree 20
+different times every time we switch on an iPhone or something
+like that. But I think it’s fair to say that that wasn’t the right
+place to be communicating those messages, and it certainly is
+not the…
+The lawyers were very clear on this, and I think, you know,
+absolutely right on it, that in a contractual terms and conditions,
+is not the right place to be describing your organization and
+
+Page 5 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+what your goals and vision of the internet might be. We took the
+brave decision of rather than doing a little bit more laser
+surgery, we would go and do full open heart surgery on the
+terms and conditions.
+Now we didn’t quite, we didn’t quite start from scratch. But we
+did do, we did make some significant changes. The terms and
+conditions themselves came down from eight pages to six
+pages, which is pretty good, and that wasn’t just fiddling with
+the margins, or the fonts, or anything like that. It was really, you
+know, we took some words out.
+It went from 38 different sections down to 13. Now most of
+those were relatively uncontroversial, not many people were
+worried about their fax machines. But there were some which
+were more controversial. So, and this goes back to some of the
+issues of language that had been used in the previous terms.
+One of the key reasons, one of the key drivers for us updating
+our terms and conditions, was that last year, we decided we
+were going to raise the prices for dot UK registrations. But our
+terms and conditions stated that Nominet would price on a cost
+recovery basis. Now I’m not sure they knew what that meant
+when they put it in the terms and conditions originally, but we
+weren’t doing that. We weren’t doing that before we raised our
+prices, and we arguably never actually did that.
+
+Page 6 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+It was true for some charges, but not for the domain registration
+itself. And I think that’s probably what the drafters of the old
+terms and conditions were trying to get at, but they hadn’t used
+precise enough wording, so it was misleading, and wrong, and it
+needed to change. We also, within the terms and conditions,
+had a commitment that if we were to change any of those terms
+and conditions, we would need to publically consult for at least
+30 days, and I think that is one of the reasons why we hadn’t
+made significant changes sort of more recently, because it
+became a much more onerous task.
+We had effectively made a rod for our own back.
+
+So in
+
+suggesting that we remove that, we were looking to be able to
+make small changes to the terms and conditions, you know,
+quite easily, without having to publish notice, and you know,
+one of the things about these contractual changes, as it says, we
+will issue a notice 30 days before they come into effect, and we
+will do that by publishing them on our website.
+And of course, the concept that consumers are constantly
+checking our terms and conditions website to see if it has been
+updated or not, it’s clearly a false one. The important thing
+here, and of course it was a big issue in the consultation process
+on these changes to the terms and conditions, was that we, we
+were doing nothing to change our approach to policy making for
+dot UK, which is still very open and consultative.
+
+Page 7 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+This was purely about amendments to the terms and conditions
+on their own. And then, and you might be detecting a thing
+here, but for reasons no one can quite remember around the
+office, we had a section that said, that if registrants weren’t
+happy with any change in the terms and conditions, then they
+could cancel their registration and the would receive a
+[inaudible] refund.
+Now, for a domain name that costs three pounds 50 a year, that
+refund was never going to be that much, and in practice, we had
+no way of doing it, because all of these registrations came
+through registrars. And the registrars had no way of doing it,
+and as far as I can tell, in the 20 years that Nominet has existed
+and managed dot UK, no one has ever exercised that right.
+So, that was one thing, another thing that needed to change. We
+had already, through our laser surgery, taken some powers
+within the terms and conditions, to allow us to suspend domain
+names, if they were used in relation to criminal activity, or to any
+activity that would damage the domain name system.
+And I know that we’re probably a little bit more activist in that
+respect than some other registrars. One of the things that we
+wanted to do was make it very clear that we saw this as part of
+our duty, and that we didn’t want to just be limited to damage to
+the domain name system, we wanted to, you know, I’m sure
+
+Page 8 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+we’ve all been seen an increase in malware and botnets and the
+like, being detected within our registers.
+And we wanted to be able to take action on that. So we broaden
+the scope of the definition of a registration that could be
+suspended. So, these were the more controversial elements
+within the proposals. We ran a 30-day consultation, as we were
+required to do under the terms and conditions. But that is
+significantly shorter than we would normally do.
+So for a policy change, we would normally run a 90-day
+consultation. But we did feel that this was sufficient for the
+people who were likely to respond to this rather specialist topic,
+to make their responses. And this is what we found, and you can
+see 36 responses to that consultation. So, having made that
+point about engagement earlier in the, regarding the ccNSO
+survey, I now realize that that was a complete hostage to
+fortune.
+[SPEAKER OFF MICROPHONE]
+I haven’t been over it. 36, we had less answers in the ccNSO
+survey had, but they were, as you can see, two-thirds of them
+came from registrars, about a third from registrants. It was
+actually a fairly representative cross-section that we got. But
+the key thing here is this wasn’t seen as particularly big news in
+the industry, probably in part because, at the same time as we
+
+Page 9 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+announced the changes to our terms and conditions, we also
+announced a price raise for the first time in our history, ever.
+So that’s a good way of making sure that people are focused on
+the right issues. Now, in terms of responses, there was general
+support for having a shorter document with tighter language.
+There was, as I say, concerns about some of those issues that I
+mentioned. Some people felt that by taking out descriptions
+about Nominet being a not for profit company, we were in some
+way trying to dilute our commitment to that, which we were not
+doing.
+We were just saying, that’s not the right place for it. And we have
+articles of association for the company, and that’s where, where
+we have those things. A lot of the comments in relation, that we
+got in relation to the cost recovery point were quite interesting,
+in that they probably didn’t understand the term cost recovery
+either.
+Now that might have been our fault, maybe we didn’t make it
+clear enough in the consultation.
+
+The, probably the most
+
+difficult balance to strike was that one over, should we consult
+on future changes to the terms and conditions? There was an
+acceptance amongst most people that small changes shouldn’t
+need to go through a consultation process. If we change our
+phone number, or our address, that has to be in the terms and
+
+Page 10 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+conditions, but do you need to consult for 30 days on whether
+you’re doing it or not?
+I mean, that’s not really… it’s a change you’re going to make
+anyway, so there is no point consulting on it, and respondents
+understood that, but there were obviously other people who
+saw it as some kind of way of taking an unequal power in the
+terms. The refunds in the event of changes, nobody came up
+with any practical suggestions for how we should do that,
+unsurprisingly.
+And under the domain suspensions discussion, there was widespread support for us to be able for us to act on things like
+malware. And I think Nominet has got a fairly good reputation
+within our stakeholder community for our security work, so
+there is a fair amount of trust, but there were obviously some
+people who were concerned about mission creep in saying, you
+know, Nominet, it’s not your job.
+But overall, not too many, no unexpected issues coming out of
+the response. So what did we decide to do? We decided to press
+ahead of the changes. They came into force on the 1st of March
+2016, and nothing too much has happened. There hasn’t been
+any adverse stakeholder reaction.
+The one really interesting effect, I think, is by talking about this,
+by seeking to change the clause on refunds, we actually got
+
+Page 11 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+some claims in for refunds. And this was mainly linked to the
+fact that some of our domain portfolio holders, when looking at
+the price rise, were saying, ah, maybe I’ll hold a few less domains
+than I had before. And so they saw this as a good opportunity to
+claim a refund for the domains that they had decided to trim
+from their portfolio.
+I think it’s probably fair to say that the cost to Nominet of
+providing those refunds was more than the refund itself, but we
+did it. And there were relatively few claims, so it didn’t make too
+much difference to us. I think that the key lesson for us, and one
+I’d like to share with all of you, and Peter and I were talking
+about it just before we started, is don’t be tempted to kick the
+can down the road when it comes to things like this.
+It’s too easy to say, oh, we’ll just do a little change. It’s probably
+worth doing the full review quite regularly, to make sure that
+you keep things up to date, because otherwise you end up with a
+long shopping list of things that aren’t right. Okay? Thank you.
+
+UNKNOWN SPEAKER:
+
+Thank you David. Very helpful and useful to hear. Now that I
+look my [inaudible], I would say that if there are one or two
+questions, we can have them now, and the rest of them we save
+until the end of the session. So does anyone have a question for
+David?
+
+Page 12 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+Yes, Nigel, please.
+
+NIGEL:
+
+Hi David. It is working, good. First of all, congratulations. I
+haven’t actually had the time to go read these yet, but I shall be
+doing very shortly. Just to comment, I’m doing my best, that’s
+better. All right. I have to get really close.
+First of all, congratulations on doing this. I kind of, thank you for
+giving me some work here. When we started our registry, we
+initially took our terms and conditions from a telephone
+contract, as in for a mobile phone. And we shortly reviewed
+that, and we stole lots of Nominet’s ideas and concepts, pretty
+much wholesale, so it’s our terms have migrated very much into
+the way that Nominet has done this, simply because they’re big
+and you’ve set a good example.
+And in fact, even in some of the things that we’ve done, it’s
+actually explicitly noted now. If you look at our good practice
+terms, it’s explicitly noted that they’re inspired by Nominet. This
+just means I’ve got to go and do the same exercise now, and
+review how you’ve managed to cut some of these, because
+nobody reads terms and conditions.
+We have had to rely on them in certain cases recently, and
+nobody reads terms and conditions. And they’re very shocked
+
+Page 13 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+when you seek to rely on them. I get more visibility [inaudible]
+because you’ve got millions of domain names, and all the
+problem ones come to me, but thank you.
+
+DAVID ABRAHAMS:
+
+You’re very welcome, Nigel.
+
+UNKNOWN SPEAKER:
+
+Anyone else? Peter, yes please.
+
+PETER:
+
+David, I was just wondering, after the public comment period,
+and the following adoption of the terms and conditions, did you
+engage to the existing registrants, did you, for instance, set up a
+mass mailing to alert them, hey guys, now these are the new
+terms and conditions are in place? Or not?
+
+DAVID ABRAHAMS:
+
+Not. No, we didn’t. And so, 10.7 million domain names, over 3
+million individual registrants, no. I think that we are very, very
+limited in when we would communicate directly with our
+registrants, mainly because they don’t actually interact with
+Nominet, so they don’t necessarily recognize the brand, and the
+name, and so what we end up doing is creating a lot of work for
+
+Page 14 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+our registrars, because people… Why is this company mailing
+me about my domain name? I don’t know who they are.
+And also, there are some… I mean, obviously, we… The good
+thing about having the direct relationship, the good thing about
+having the contractual terms, is that you can, when necessary,
+communicate with them. For our gTLDs, we can’t. it would
+actually probably fall into the new spam regulations or
+something like that. You can’t… Even though we might have
+the data, we wouldn’t be able to use it in that way, but because
+we have a contractual relationship, we can.
+But it has to be specifically about that, those terms. But no, we
+didn’t do a mass mailing to tell people that the terms and
+conditions they never read have now changed to something that
+they’re not going to read.
+
+UNKNOWN SPEAKER:
+
+Wow, I envy you guys with contracts and terms and conditions,
+because we here in Finland, we only have the law, and try to
+change the law. It takes only nine years.
+[SPEAKER OFF MICROPHONE]
+And now, Peter, I think it’s your turn. You had a court case that
+impacted your terms and conditions somehow, tell us about it.
+
+Page 15 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+PETER:
+
+Okay, thank you. Right. Okay. Like this? All right. A bit odd, but
+we’ll manage. Well, this is going to be very much in line with
+what David has just presented us, and I’m so grateful that he set
+the scene for me, because for dot BE, we’re living in exactly the
+same context as Nominet does.
+
+We have a triangular
+
+relationship, registry, registrar, registrants, and our contractual
+link with the registrants is basically the terms and conditions.
+So we’re in exactly the same model. Now, we haven’t gone
+through a change of what terms and conditions yet, but we,
+we’re about to. The reason what cost it, is an unfortunate court
+case that we actually, because it has been dormant for such a
+long time, that we actually forgot about.
+So but the, everything started in 2001, when a certain individual,
+I’m going to call him Mr. X…
+[SPEAKER OFF MICROPHONE]
+Sorry. Okay. That should be better. Yeah, I’m going to look at
+that slide, yeah.
+So we have a certain individual that registered the name
+[inaudible] dot BE. Now this is a well-known local brand owned
+by a certain company called [inaudible], and they are
+manufacturers of [syrups?], that you mingle with water to have
+
+Page 16 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+flavor to water or lemonade if you want.
+
+And it’s also a
+
+geographical name, more specifically, it’s a village in the south
+of Belgium.
+So, the company [inaudible] files an alternative dispute
+resolution procedure against that Mr. X, and he regains control
+over the domain name. So the outcome is that the third party
+decider, or there is the transfer of the domain, which happens
+somewhere mid-February 200 and no, not 10. That should have
+been 2002, probably. So anyway, case closed, you would say.
+Now, following the outcome of the ADR, we contact Mr. X, and
+we send him an invoice for the admin costs that we repay,
+reimbursed, to the [inaudible] company. So what I should add
+here, is all alternative dispute resolution is very close, it’s 95
+match, 95% match with the UDRP that you have in place for
+gTLDs.
+So you need, basically you need to prove the existence of three
+conditions. If those three conditions are fulfilled, you again, you
+can get the transfer or deletion of the domain name at stake.
+Now, peculiar for our ADR, is a reimbursement mechanism. If
+you use the ADR, you get the domain name back.
+We as a registry, we are going to refund you the administrative
+costs of the procedure. Obviously, we do want to get our money
+back as well, so we are going to reclaim it from the previous
+
+Page 17 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+owner.
+
+EN
+
+And this is obviously in our terms and conditions,
+
+otherwise it would not be enforceable. So important note here,
+that the system of, the existence of the alternative dispute
+resolution mechanism, was already in place since 2000.
+So before the actual registration of this domain name, but the
+reimbursement mechanism was not in place yet at that time.
+We added it someway later. And this is obviously having its
+impact on the following of this case, because Mr. X refuses to pay
+for the invoice. As a consequence, we start litigation. Our base
+policy is that if a former registrant is a company or an individual
+in Belgium, refuses to pay for the ADR reimbursement, then we
+start litigation.
+If there is somebody living outside, and especially outside the EU
+borders, it’s simply not cost efficient to start litigation. So we
+had a number of cases, until now, until this one, we had won all
+of them, but in this case, the Court of Commerce rules against
+us. Somewhere in 2011. Now, we argued that well, since Mr. X
+registered a domain name, he is bound by our terms and
+conditions.
+He accepted everything, including that reimbursement rule. And
+as the reimbursement rules are effective 2009 onwards, and the
+ADR case was only concluded in 2010, so clearly, Mr. X has to pay
+for the invoice. Now, Mr. X, however, was very brief, and he said,
+
+Page 18 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+well, that’s all a bit of rubbish. The only version of the terms and
+conditions that apply to me, are the ones that were presented to
+me at the time of the registration in 2001.
+Now, the reasoning… Did I miss…? Did I skip…? No? Okay. So
+the Court of Commerce, ruled against us and its reasoning was,
+okay, you have indeed inserted in the terms and conditions, a
+right to unilaterally change the registration rules, but however,
+this has nothing to do with registration rules. The point of
+argument here is your conditions regarding alternative dispute
+resolution, which is not a registration rule, hence, I throw it out.
+So obviously, we were not all too happy with that. It’s more like
+a play of words than a real legal argument because well, we
+think that registration conditions, registration rules, it refers to
+the whole set of the terms and conditions. And not only to those
+specific technical registration rules that are going to define who
+and who has not right to register at dot BE.
+So we file an appeal against this case, and then suddenly the
+case goes numb. We have an exchange of arguments, and then
+nothing happens for several years.
+
+And to be honest, I
+
+completely forgot about this case. And so, just two months ago,
+finally, we get a judgment of the Court of Appeals in our letter
+box. So I was pretty much startled by that fact alone, and even
+more startled when I start reading the thing because the court
+
+Page 19 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+just reaffirms completely what the Court of Commerce has been
+saying.
+They are hitting on the nail again, like oh yeah, you can change
+your terms and conditions unilaterally, but registration rules,
+not the rest. So, all of our arguments got basically thrown out,
+and Mr. X, who is, by the way, who has a history of
+cybersquatting, he walks. So what’s the outcome and what’s
+the lesson learned?
+Well, it has been proven beyond any reasonable doubt, I would
+say, that the courts have a clear tendency to evaluate terms and
+conditions in a restrictive way, if you’re in an unique market
+position, not to use the N word. The terms and conditions, even
+when the subtitle clearly says, change of terms and conditions,
+to the section, to make it sure that there is a price to the whole
+set of terms and conditions, still the court says, no, no, no, no.
+it’s limited to your registration rules.
+You cannot use this mechanism for your whole set of terms and
+conditions. One of our arguments was, and we thought it was
+fairly important that we did our very best to inform every
+registrant of the subsequent changes we have made to the
+terms and conditions. That was why I was asking the question
+to David, because if we go to for a major change of the terms and
+
+Page 20 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+conditions, we do effectively a mass mailing to our registrants,
+either direct, either through the registrars.
+But the court through it out. They said, well, it doesn’t matter
+whether you informed your customers or not. I’m just not going
+to keep that into account. So, the only good thing that came out
+is that the courts, or both courts, confirmed the possibility that
+we can work with unilateral changes for the terms and
+conditions. So what are our next steps?
+Well, I’m a bit pissed off, to say the least. So, our sweet revenge
+is going to be that we are going for a full, complete review of the
+terms and conditions, because as David pointed out, you have
+some small things that you leave on the road. That you say,
+well, we should update our terms and conditions, but we are not
+going to do that much effort for just some small stuff.
+So we had already a whole bag of small stuff, that in itself, would
+have justified an update of the terms and conditions. But this is,
+of course, now we have a very dangerous precedent, that I want
+to neutralize as soon as possible. So obviously, now is the time
+to do a full and complete review. My aim is, and I’m really
+encouraged by the example set by Nominet because they have
+clearly done the same, is I want to redraft the terms and
+condition to exclude any kind of ambiguity, because when you
+draft a first set of terms and conditions, when you start your
+
+Page 21 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+activities, and now you’re more than a decade further ahead,
+there is a lot of the wording that has become vague, and that
+you say, well, we can still live with it.
+But if you go for a full redress, it really might be the time to say,
+we are going to look very thoroughly into this language, and we
+go and set it to a new and modern standard. So and obviously,
+I’m going to add certain clauses, and one of them is going to
+be… Well, because the court confirmed that they don’t care
+whether we inform the registrant or not, so I’m going to nail it
+into my terms and conditions, I’m going to say, well, every time
+terms and conditions change, the registrant is supposed to have
+accepted the most recent version, ultimately at the moment of
+the renewal of [inaudible] domain name.
+So we had this big advantage, that we have a yearly renewal of a
+domain name. So each time we have, what I would call, a
+substantial legal contractual point that I can use as an anchor to
+have a silent buy-in or acceptance of the new version of the
+terms and conditions. So, conclusions about, keep in mind that
+courts are very restrictive when it comes down to the
+interpretation of your terms and conditions. It happened to us,
+but it probably could happen to each and any of you.
+Also, take with you that you can be creative in your terms and
+conditions. In our case, we managed and got confirmation, that
+
+Page 22 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+you can work with clauses that allow you to have unilateral
+changes, which is in a normal contractual relationship, which is
+some bit strange, but feel free to play with it if you see that there
+is advantages for your registry.
+Obviously, as stressed before, working with a renewal period
+gives you a much wider array of changing your terms and
+conditions. And well, last and not least, take advantage of, what
+I would call, David’s and my experience, to do a sanity check of
+your terms and conditions, because for many of us, it’s a
+document that is somewhere, laying down there in a dark
+corner, but it’s one of your contractual cornerstones. Please
+don’t forget that.
+So do a regular sanity check. That’s it. Thank you.
+
+UNKNOWN SPEAKER:
+
+Thank you Peter. Also, very helpful to hear. One thing is for
+sure, you never know what comes out of court.
+And the other thing, seems to be sure that terms and conditions
+need to be checked on a regular basis. Now, there is a question
+waiting already. Wonderful.
+
+Page 23 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EBERHARD LISSE:
+
+EN
+
+Belgium is a civil jurisdiction that mainly relies on codified law,
+whereas many English speaking countries, in partly the United
+Kingdom and [inaudible] for example, are common law
+jurisdiction which mainly rely on precedent. Would it have made
+a difference if your terms and conditions say that your
+applicants are required to regularly review the terms of
+conditions and policy as published on our website, and if there is
+no comeback after a while, to be deemed that they would have
+accepted those.
+Would that have made a difference in your case?
+
+PETER:
+
+It’s a very interesting question, Eberhard. And the short answer
+is no. Do I have 100% certainty about it? No, but from what I
+know, from jurisprudence, we know that many courts toss out a
+kind of obligation, especially if it’s oriented to a private
+customer. It might be different for a business customer, but
+especially for a consumer. The courts are just going to throw it
+out, and they’re going to say, well, you cannot put that
+obligation on a private consumer, that he should virtually check
+your website every day to find out whether something has
+changed in his set of rights and obligations.
+So I don’t think it would have made a difference.
+
+Page 24 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+UNKNOWN SPEAKER:
+
+The last question.
+
+UNKNOWN SPEAKER:
+
+I’ve got two questions. One is, if you would like to disclose how
+much money you are talking about, in this case with Mr. X. And
+the second question is that the amendment for the registrant
+being, must be knowledgeable of the most recent version of the
+constraints is taking it [inaudible] the finish version, where we
+apply the law, and there we have that ignorance of the law is not
+a relevant defense.
+
+PETER:
+
+That’s the difference between the legal framework and a
+contractual framework.
+
+It wouldn’t work in a contractual
+
+framework. Regarding the costs, the fixed price for an ADR
+procedure, is 1,750 Euros. So that’s only the administrative
+costs that are charged by the ADR organization that does it for
+us, because we don’t do our own ADR. We work together with
+the Belgium Mediation and Arbitration Center.
+So what we do is, we reimburse those costs, but not legal fees. If
+you hire a lawyer or an attorney to assist you with the case,
+that’s your personal cost. We only reimburse the 1,750 Euros.
+So basically, that is what we invoice to Mr. X, and obviously, the
+
+Page 25 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+legal fees involved with those two court litigation, seriously
+outnumber the value of the difference itself.
+But for us, it was a matter of principle.
+
+UNKNOWN SPEAKER:
+
+Good. Halfway through. Next one, for the next, we have a
+presentation from Columbia, Eduardo [Santoyo]. Did I say it
+right? Something about the importance of digital security.
+
+EDUARDO [SANTOYO]:
+
+Yes, thank you. Thank you very much for the invitation and to be
+present here, to have the opportunity to talk about again. The
+relationship of this topic that we have been talking about, the
+terms and conditions in cybersecurity, because we are really
+doing a link between these two things in order to handle these
+[inaudible] cybersecurity.
+We had included in our terms and… We have a mixed process
+between a registry, registrar, and a registrant relation. We are a
+registry who has direct registrations to some registrants, as the
+registrants from the domain name, from that dot GOV, dot CO,
+dot EDU, [inaudible], and dot ORG, [that’s you?]. But we have a
+registry registrar system for that conduct dot CO, or for dot CO,
+or dot [inaudible] net dot CO.
+
+Page 26 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+In those cases, we don’t have the direct relationship with the
+registrants. So we need to manage both things. But in all the
+cases, so in the cases that we have contracts with registrants,
+where we are registrar, we have included in terms and
+conditions that the registration is driven in good faith, that is not
+allowed to have malicious activity within the, in the use of the
+domain name, dot CO.
+And also, we have these provisions in the terms and conditions
+that we have with our registrars. So we ask them to include in
+the contract that they have with the registrants, these specific
+prohibitions. So, this is an important to understand what is this
+[inaudible] related, how we would handle this type of security
+[inaudible].
+And probably, I’m going to go a little bit fast for a few slides, but
+has only [inaudible] in some specific topics.
+[SPEAKER OFF MICROPHONE]
+Okay. I’m going to be shorter. Okay, sorry. Yes, okay. A little
+thing about us. Almost all of you know that we started these
+new activity in 2010 to ask [inaudible] internet, nevertheless the
+domain name has been delegated for [inaudible] from 1991.
+Now, we have almost a little bit more than 2.2 million domain
+names registered all around the world.
+
+Page 27 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+And in Columbia, all of the Columbian agency, governmental
+agencies use that call as the main domain.
+
+90% of dot
+
+companies are using dot CO, and dot CO is also used worldwide
+for many companies.
+
+So for that reasons, we are really
+
+commitment in order to support initiative and for activities to
+continue the security, stability, and reliability of our domain
+name, because we understand that we have a big responsibility
+on DS.
+And of course, in cybersecurity matters, we also identify that
+begin to have half, or more than half, the terms and conditions
+with our registrars and our registrants, we also have to have a
+very good relation with the global and the local cybersecurity
+community. In order to work together, in order to [inaudible], or
+in order to prevent the misuse of the dot CO.
+And then we have relationship with many organizations
+worldwide. Our strategy has many, many things is to have, of
+course, very good standards for IT operations. We are now a
+company. We are a [inaudible] company. We are based in
+[inaudible] services as a provider.
+everything now today.
+
+Our engineering and
+
+We have active participation, as
+
+stakeholders at both levels, at national, regional, and
+worldwide.
+
+Page 28 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+So we [inaudible] in cybersecurity [inaudible]… as Columbia,
+because that was also among data that we receive from the ICT
+ministry in Columbia. We have a contract with the Columbian
+Ministry in order to manage the dot CO domain name. And this
+is one of the specific requirements in the Columbian
+[government?].
+Okay. We set in process using the terms and conditions, some
+specific procedures. One is that what we call rapid domain
+complaint process, which is precisely to ask the registrants, or
+the registrars, or the registrants through the registrars, to look
+how to compliant the terms and conditions on the [inaudible].
+The tool is one thing that we call, internally, the registry
+mitigation services, is now that we are [inaudible] to provide
+services, including all of the registries. How would this work?
+We receive alerts from many different trusted sources about the
+use or the misuse of the dot CO domains in malicious activities.
+We review these alerts, and finally, we discover if some of them
+are really incidents that has to be handled right now, or some of
+them are really something that was an incident in the past, but
+now is not online, or is not an active to it for the system.
+And [inaudible] the scope of these activities, we are talking
+about phishing, farming, malware distribution, malicious
+hacking, and defacements. We do not focus on content about
+
+Page 29 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+[inaudible] privacy, cybersquatting, or other malicious activity.
+What for? Because we have in Columbia, and a specific law
+allow this first list of malicious activity that invite us to be more
+active in order to monitor what is happening on this, and we
+have for the others, more…
+We have to realize more in a normal justice process [inaudible]
+into account. What we do if we find an alert that is actionable,
+and we validate that through our service that we have
+[inaudible] dot CO? That we do is in the cases that we are the
+registrar, we inform to the registrant that the domain name is
+being used for a malicious activity, and we invite them,
+according the terms and conditions to review the activity that
+has been in place that for domain.
+In the cases that we have not relation, direct relation with the
+registrar, we notify the registrant, in the cases that we are
+working with registrars, we notify the registrar that we found
+that some specific domain that has been registered through to
+them, is being used for malicious activity, and we invite them to
+handle the case with the registrar.
+In some specific cases as [inaudible] dot CO, or some other
+specific, we contact directly the registrant, but those are really
+exceptional cases. This is something that is, and it continues
+[inaudible] process and it continues [inaudible] activities, to
+
+Page 30 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+review the terms and conditions, and to be sure that the
+registrants and the registrars are really aware that we, what are
+we expecting from them when we review, this is specific points
+in our terms and condition, and that was a specific requirement
+from the Columbian [ITC?] Ministry.
+Some [specific] non-rapid registry monitoring system that is not
+actually for our side, like spam or [inaudible] or E-policy, or
+cybersquatting, that we do is that when we know cases about
+this, we [inaudible] that information to the Columbian Law
+Enforcement Authority, because we are not the authority to
+manage this.
+And they have to investigate and decide to take or not action
+about that. Some lessons learned is, after five years of doing
+this, 90% of the alerts are not action, so many of them are
+[inaudible] because they’re probably the effective party real life
+has been used, his side in a malicious activity and they correct
+that by themselves, or 56% of that are not malicious after the
+research.
+Therefore, we view every single alert. We receive, more or less,
+two and two and a half million alerts for a year. So we have a lot
+of activity within this. And we only notify to the registrant, or to
+the registrar when we really identify that the malicious activity is
+in place.
+
+Page 31 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+That we learn, is that collaboration on this is a really an
+important matter, more probably that having in the contract,
+the terms and conditions, because we found that having a very
+good work, acting together with other organizations, not just to
+share information, as LACTLD, LACNIC, and the [inaudible]
+working group, ISOC, or some others, has been very useful for
+them and for us, ending in the interest to keep a safer place for
+the dot CO space.
+This is yes to have a map, and how are we related in the map of
+cybersecurity, as a registry in Columbia. We have been related
+with the ICT ministry, we have a contract with them. They said
+the policy to manage the dot CO, and they of course, execute the
+[inaudible] and policy support for Columbia. We have had direct
+relationships within the ministry of defense in Columbia. We
+have an agreement with them, where we provide them
+information about the malicious activity that we receive the
+information on the dot CO space, so they can do all of the
+intelligence that they need to do.
+And there are several bodies internally in the Columbian
+cybersecurity policy, which is the culture, the ministry and
+defense, and the national [inaudible] courts, and of course, the
+relation that they have with other international public bodies.
+We have specific relation, and we have an active relationship
+
+Page 32 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+with our registrars in our, in [inaudible] service, and with the
+registrants, to the terms and conditions, as mentioned before.
+And of course, we also have a very good relation, this is not a
+contract, this is more agreements that we have with sources to
+provide us information about, we are not monitoring this space
+in the dot CO. We are asking for, to people who do this activity,
+to inform us every single bad activity that they identified on the
+dot CO space.
+And we have been working also very close with ICANN in order to
+share the experiences that we have working together in all of
+this cybersecurity related topics with some others, [inaudible],
+Latin America, as ICANN invited us to work together with them to
+present our cases to the organizations of American States, we
+have with them a very close relationship.
+And we had been working together in order to include our
+strategy to Paraguay and to Peru, invited by ICANN too. So, I
+have some of the slides, but it is not very relevant in order for the
+cases that we are discussing right now. So I’m going to stop here
+and to give the floor, you have questions. Thank you.
+
+UNKNOWN SPEAKER:
+
+Thank you very much Eduardo. Interesting. A lot of work, very
+important topics. Digital security, that concerns us all, I believe.
+
+Page 33 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+My fault, we started too late, that’s why I won’t give any
+questions right now for you, in case there is something very,
+very, very urgent to ask right now.
+Instead, I would like to give the mic to Jay Daley, from New
+Zealand.
+
+You have recently signed a memorandum of
+
+understanding with your government, and we would like to hear
+about it.
+
+JAY DALEY:
+
+Thank you. So, yes, I will start, I know by explaining a little bit of
+the structure of the dot NZ ccTLD, because I know that many of
+you are confused why there are always 55 of us that come along
+for these meetings.
+
+So the dot NZ ccTLD, the designated
+
+manager is a membership society and a charity called Internet
+New Zealand. And many of you will know Jordan, who is the
+chief executive of Internet New Zealand.
+That organization actually has very little to do with dot NZ. It
+works on other areas, it works as the voice of the internet, and
+internet users, delivers internet policy, provides community
+funding, which it grants, and runs community events. So our
+local equivalent of the IGF. Internet New Zealand owns two
+companies, and these companies are quite independent with
+their own boards.
+
+Page 34 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+The one on the left is the registry, NZ RS, and I’m the chief
+executor of that. We are the registry. We run the marketing and
+channel management. We do broad technical research, and we
+do business development and introduction of new products.
+Then the other companies, the domain name commission, and
+Debbie is the chief executive of that. They set the dot NZ policy.
+They authorize registrars.
+
+They regulate the market.
+
+They
+
+handle complaints and they manage disputes. So through that
+policy that they set, which is what we then implement as the
+registry there.
+Right, so we have recently signed a memorandum of
+understanding for the management of the dot NZ country code
+top level domain.
+
+This is an entirely voluntary agreement
+
+between Internet New Zealand, the parent organization, and a
+government department. It took 18 months of discussions and
+negotiations to achieve. On one side we had us three chief
+executives, doing the negotiation, and on the other side, was the
+GAC rep for the New Zealand government, who is actually in the
+room to answer questions as well.
+And so, we sign that in May 2016. Now, people often ask us why
+would we enter into a voluntary agreement with government?
+Aren’t we better off leaving no contract at all, no agreement?
+But we think that this tackles three important risks. Internet
+New Zealand, as I mentioned earlier, does internet policy, and so
+
+Page 35 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+it regularly finds itself disagreeing with the government on that
+policy.
+So, we have had two big disagreements recently.
+
+One is
+
+regulated pricing for the monopoly infrastructure, that’s
+[copper] in the ground, and a disagreement on surveillance and
+interception laws. And we wanted to prevent anything that,
+those type of disagreements then having a contagious effect on
+dot NZ. The next thing that we have is that there are plenty of
+people, generally telecommunication companies, who claim
+that dot NZ profits are a public tax, and that they believe that
+the government should take control in distributing where those
+profits go. Their view is, why does Internet NZ get to decide?
+Our answer is because we invented it, go away. And if you
+invented something, you would be in a good position, but that’s,
+a better answer might be needed.
+And the other thing is that there are no authoritative documents
+to point to. And so, regularly, there is an assumption just to
+amongst the general population, that something this important
+must be government controlled, and there is a regular fit from
+newcomers who come into this, whether they come into
+government or into some other organization that has a role in
+this misunderstanding the nature of this relationship.
+
+Page 36 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+So, the MOU tackles this in a number of different ways. The role
+of a government is very clearly defined, and thereby limited.
+Now, government, of course, can pass any law it likes, change its
+mind entirely, so that doesn’t, it’s not a permanent limitation,
+but it is a practical one, unless they choose to then take a very
+strong option of changing the law in that way, or tearing up the
+MOU.
+It provides recognition and definition of the Internet New
+Zealand role. So that makes it difficult for third parties to
+challenge that and say, you know, we think we should have that
+money or to do something else. We already have some practices
+within Internet New Zealand, that have now become public
+obligations, and that is good because that keeps us honest, and
+that is in the community interest to keep us honest in that way.
+The MOU has a defined process resulting concerns, which fits
+with RFC 1591, and the whole thing is pinned to the external
+documents. The RFC 1591, FOI, GAC principles, and our own TLD
+principles.
+
+And importantly, the MOU does not talk about
+
+funding, and it does not talk about intellectual property. Those
+are left as operational matters in that way. Okay.
+So the role of the New Zealand government, as set out in our
+MOU, is that it asserts that it is responsible for ensuring the
+stability of the internet, that dot NZ is reliable and responsible,
+
+Page 37 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+that dot NZ is run consistent with RFC 1591, and that dot NZ
+supports the interests of users. So yes, we are in this fantastic
+position where the government is now committed to ensuring
+that we follow RFC 1591. We could not have asked for a better
+result really, in that way. Okay. Because of course, the threat
+that many others see is that the governments don’t recognize
+RFC 1591, and think that they have sovereign rate straightaway.
+So there was a recognition then of Internet New Zealand role,
+recognition that it is the designated manager. So this goes back
+to the RFC 1591 phrase that any discussion about ownership is
+not relevant.
+
+This is about…
+
+Yeah, the service to the
+
+community. Recognizes that the process through which we
+became the designated manager was a proper process,
+involving the local internet community.
+It recognizes that we make a surplus for dot NZ, and we use it to
+further the objects of Internet New Zealand, the bit I talked
+about before. And that those objects may include disagreeing
+with government.
+
+And it recognizes that we decide and
+
+implement the dot NZ market structure, and we regulate that
+market. And that we develop and set all dot NZ policy to benefit
+and meet the needs of the local community.
+So it’s a strong recognition there. As I mentioned, many of our
+existing practices become obligations, and this is something we
+
+Page 38 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+were very happy with. So we commit to a high standard of
+public transparency, and we commit to continuing the
+following. Publish our annual report in a public and timely
+fashion.
+As an incorporated society, there is no need to make it public, so
+it requires us to do that. Hold governance meetings in public.
+And again, public publish minutes. Again, there would be no
+legal requirement to do that without this, but we do it anyway.
+Provide the public reports on how the surplus from dot NZ is
+spent. And then engage in broad community consultation and
+any changes to the objects, which are the overriding principles
+of how we would spend it on dot NZ money, and on dot NZ
+policy.
+There is only one new obligation which came in, which we were
+very happy with, and this is regularly testing the views of the
+broader community for these purposes: to ensure that Internet
+NZ is demonstrably in-touch with internet users. Now, this came
+about because the government minister had experience of other
+societies where, membership societies, where the management
+there had become quite strongly political and there was a
+disconnection with the membership.
+And this is to prevent that happening, to ensure that we are
+keeping… Effectively we’re delivering what is needed by our
+
+Page 39 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+user base. Also to increase community understanding of its own
+views. So to help the community understand what it things, and
+to identify key issues of concern. So this needs a feedback loop,
+so this requires a public report back on the views expressed.
+So finally, one of the most important bits in here is a process for
+resolving concerns. We wanted to make sure that there was a
+process that was consistent with RFC 1591. But we also wanted
+to make sure that this process, where the government could
+invoke it, was available to any significantly interested party.
+This is not exclusive to government.
+So, stage one is open dialogue.
+
+If they are unhappy with
+
+something, they can send us a please explain notice, and notify
+us and give us time to resolve and come back and explain. Much
+the same that anybody could do, they could send us that. And
+we would choose where not to respond, same case.
+Stage two, is initiate a community conversation, which is to
+say… Basically to ask some questions about our ownership. So
+if they’re unhappy with the response in the dialogue, the
+community conversation would need to be multistakeholder,
+open and inclusive, and then to discuss the problems that they
+have with us, okay?
+So, then if they do have that conversation, there is a potential
+where stage three is reached, where there is a community
+
+Page 40 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+consensus that the management of dot NZ is inconsistent with
+RFC 1591, and that there is a better local RFC 1591 compliant
+manager out there that this could be transferred to. If all of
+those three steps are made, and followed, and then within
+Internet NZ, we would agree, and would support the transfer to
+another designated manager.
+Now, we… There are circumstances that we can understand
+when all of us that are currently in positions within that, with the
+overall group there have left, it has been replaced by people
+who share very different principles, and very different views, and
+they attempt to turn it into something very different.
+So we are not really protective of ourselves as individuals, we’re
+protecting against a chain in our organization that would no
+longer suit RFC 1591 by doing that. So, that’s it.
+
+UNKNOWN SPEAKER:
+
+Thank you Jay. And that really was it. I was honored to be here
+with these four gentlemen. Thank you for listening, the legal
+session today. Now, it’s time for lunch, after one and a half hour,
+we come back here. And there is a question. We can have
+questions. [Inaudible] our time for questions, but what about
+the lunch? Sure, we can have questions. As many as you wish.
+
+Page 41 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+UNKNOWN SPEAKER:
+
+EN
+
+That was quite interesting, this session. Well, Jay, I have a
+question for you. You know that we have something like what
+you have organized, we have had it for quite a few years. The
+objective is slightly different because it’s really aimed at
+ensuring the stability of dot NL, making sure that it’s always
+available, it’s not so much on how we govern it. I’m interested
+to know, can your contract end? And what happens if it ends?
+And my second question is, if I understood you well, it’s with
+Internet NZ, the contract. So I would also be interested in if the
+contract ends, or if you run this four step process, and the
+conclusion is, we have to transfer dot NZ to somebody else, can
+the two subsidiaries, can they still remain? Or is the whole thing,
+and you have to replace everything.
+
+JAY DALEY:
+
+Okay. Yes, either side can cancel, by a letter to the other one.
+There are no particular implications from that, in the MOU. We
+couldn’t have or expect anything else, other than that really, as a
+way forward. But it would be a very symbolic gesture, and it
+would then lead to considerable community discussion, which is
+the intent. It brings the community back into seeing this as
+something important, and stepping up to have some
+involvement.
+
+Page 42 of 47
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+The structure that we have is a structure that is never intended
+to be there forever. It has changed before, and will probably
+change again, at some point. And yes, if there were to be a
+transfer, then all of that would be replaced. This is the structure
+of the two subsidiary companies, is merely a mechanism for
+delivering dot NZ.
+
+And if there was a transfer to a new
+
+designated manager, then a new mechanism would be put in
+place.
+We have no idea what that would be.
+
+UNKNOWN SPEAKER:
+
+Okay. Thank you.
+
+UNKNOWN SPEAKER:
+
+[Inaudible], Malawi. I wanted to find out again, from the dot NZ
+experience, who initiated the MOU? How as it initiated? Was it
+from the government side? Or was it from dot NZ side? I also
+wanted to know, how it is linked in government. Government
+has a whole big structure.
+
+At what level does it link into
+
+government? And finally, what happens when the structure of
+the government side changes?
+How does the MOU take care of this?
+
+Page 43 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+JAY DALEY:
+
+EN
+
+Okay. There had been discussions about this on and off for
+many years. So it was initiated by us, but that’s a very light
+touch because there was already some willingness at the other
+end to be talking about these things, okay?
+The second part of your question…?
+
+UNKNOWN SPEAKER:
+
+At what level…?
+
+JAY DALEY:
+
+At what level, right. So in the government, it is signed by the
+Chief Executive of Ministry, and but it has had the eyes of a
+minister over it, but it has not been signed by a minister, and
+does not require the cabinet approval at that level, okay? And,
+third part?
+
+UNKNOWN SPEAKER:
+
+Change in the structure on the government side.
+
+JAY DALEY:
+
+Right. So thank you Carlos. This is intended to help with that,
+because when a new minister comes in, there is a very clear
+document that sets out for that minister where these things
+stand. And that minister can be briefed in that regard and
+shown that. So it’s meant to help.
+
+Page 44 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+UNKNOWN SPEAKER:
+
+EN
+
+Okay. [Inaudible] from Chile. A question about the Belgium. As I
+understand it, the outcome of the court case was that you could
+change the terms and conditions regarding to registrations, but
+not about other stuff. So you decided to do a full rewrite. What
+would happen if Mr. X were to go to court, why would the court
+not decide that in your [inaudible] right, you could change only
+those provisions about registrations, but not about other things?
+
+PETER:
+
+You need to make a distinction between what you can’t change,
+and what you can change unilaterally. So if we say, we are going
+to have a full redress of the terms and conditions, at a certain
+moment in time, it will automatically apply for all new
+registrations, obviously.
+
+It will also apply, unless heavily
+
+disputed in court, for the existing ones. Usually it doesn’t come
+that far. In this specific case, Mr. X has no reason whatsoever to
+start litigation, because he walked away with it anyhow.
+Even if we would change the terms and conditions now, it would
+not have retro effect on his position. We will never be able again
+to send this gentlemen an invoice, unless of course, we succeed
+in having confirmation of that rule that we are planning to put in
+the terms and conditions right now, that ultimately the moment
+you renew your registration, you ought to be aware of the then
+
+Page 45 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+EN
+
+applicable version of the terms and conditions. Now where is
+the legal risk? And that’s probably why it touched upon.
+If we would have a new case against Mr. X, and expose that he
+did not have only one name at that time, registered in 2001, but
+he has to, or another similar case that dates early from 2000s.
+Yes, there is a chance that the court are going to reconfirm, and
+to say, well no, registration rules you can change unilaterally,
+not the rest. So now you have changed the whole set of your
+terms and conditions, fair enough for all new registrations that
+have been registered since then, but you cannot imply it
+retroactively.
+So there is a legal risk there, but if I don’t do anything, the
+situation is only going to be worse. So at least what we should
+try to do is try to fix it. But if historical cases like this would pop
+up, we might be in problem. Now luckily enough, I don’t suspect
+that there will be many cases of this. Either you have now
+already pending litigation, or at least disputes, or there will be
+none in the future.
+So, I’m quite okay with it, but yes, there might be a legal risk.
+But it’s going to be, it’s always going to be limited to cases like
+reimbursement of ADR costs. I don’t think it will go further than
+that.
+
+Page 46 of 47
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 2)
+
+UNKNOWN SPEAKER:
+
+Any more questions? Comments? If not, I kick you out for lunch.
+Be back at 12:30.
+Be back at 1:30, not 12:30.
+
+[END OF TRANSCRIPTION]
+
+Page 47 of 47
+
+EN
+
+

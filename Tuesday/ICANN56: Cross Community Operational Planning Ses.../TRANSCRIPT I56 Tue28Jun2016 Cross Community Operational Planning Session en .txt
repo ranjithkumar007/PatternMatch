@@ -1,0 +1,1636 @@
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+HELSINKI – Cross-Community: Operational Planning Session
+Tuesday, June 28, 2016 – 17:00 to 18:30 EEST
+ICANN56 | Helsinki, Finland
+
+XAVIER CALVEZ:
+
+We’re going to start this session in two minutes.
+Hello, everyone. It’s three minutes past the hour so we are going
+to start this session. This new session, Cross-Community
+Operational Planning, is a new session that we’re going to try
+today with this group is to offer an interaction between the
+ICANN organization and the community on the ICANN operating
+plan.
+The purpose is twofold, is to increase the understanding of the
+community on ICANN’s operations and to allow the community
+to provide input to ICANN executives on their area of
+responsibilities in the ICANN operations.
+This will enhance the capability of the community to provide
+input during the operating/planning process and it also will help
+the ICANN executives to plan more effectively on an annual
+basis.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+The approach is that we will have a short presentation from
+each ICANN executive on their area of responsibility and we will
+follow this short presentation with a Q&A session.
+The idea of this interaction resulted from conversation with the
+ccNSO SOP Working Group – the SOP Working Group is the
+Strategic and Operating Plan Working Group. It’s a permanent
+Working Group from the ccNSO whose focus is to look at the
+planning activities of ICANN, and through interaction between
+this working group and the staff we have had the idea of
+creating this session to interact on the operations. And because
+we believe that the interest was on this type of interaction could
+be much more than simply for the ccNSO Working Group, we
+thought it would be best to have this session be crosscommunity and open to anyone interested.
+For this first session, the ccNSO SOP Working Group has offered
+three topics of interaction: an overview of engagement and hubs
+operations, which Sally Costerton as VP of Engagement will
+provide; and an overview of HR operations, which Susanna
+Bennett, COO of ICANN, will provide. Giovanni Seppia is the
+Chair of the ccNSO SOP Working Group and has offered to
+moderate this session. Giovanni, a few words? Thank you.
+
+Page 2 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+GIOVANNI SEPPIA:
+
+EN
+
+Thank you, Xavier, and thank you, Susanna, Sally, Diane, and
+Patrick, for being with us today. It’s great to see you here. As
+Xavier pointed out, over the past years the ccNSO SOP has
+provided ICANN with a series of comments regarding certain
+areas of the work as they were presented in the operating plan
+and budget every year. And during the Marrakech meeting a few
+months ago, we thought it was a good idea to ask possible
+questions directly to those who are at the top of the
+departments that are in charge of these different areas and to
+ensure that there is an interaction, not only with Xavier’s
+department that has been providing us with a lot of information,
+clarification, background, notes about what’s behind the
+process of producing the operating plan and budget, but also to
+have an interaction again with those in charge of the different
+areas.
+And among the different areas, let’s say the most wanted areas
+for more information and clarification were certainly HR, the
+hub, and office engagement strategy of ICANN. So we thought it
+was a good idea to start with those, but yesterday during the
+ccNSO SOP meeting, we also highlighted other areas where in
+the future we would like ask ICANN to meet and interact with
+those in charge of the other areas. So it’s with great pleasure
+that I welcome ICANN staff today in the room to provide this
+overview. And again, I invite not only the ccNSO SOP members
+
+Page 3 of 49
+
+EN
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+who are attending this meeting today but all the ccNSO
+community and other stakeholders in the room, to ask
+questions at the end of each presentation so that again we can
+interact and see how we can further clarify all the matters that
+we may have left pending over the past year.
+So thank you again for the opportunity.
+
+XAVIER CALVEZ:
+
+Susanna, do you want to start on the…or Sally, you will start
+over the engagement presentation?
+
+SALLY COSTERTON:
+
+Good afternoon everybody. For those of you who don’t know
+me – which I don’t know, probably quite a few, looking around
+the room I recognize quite a lot of faces but not everybody – my
+name is Sally Costerton and I lead what we call stakeholder
+engagement at ICANN, which is quite a general term. My day-today responsibilities encompass quite a number of areas of
+ICANN’s
+
+outward-facing
+
+activities,
+
+including
+
+overall
+
+responsibility for the meetings team, who put on this fantastic
+event that we’re all at at the moment. All our engagement team
+around the world. I have a lot of involvement with our
+communications function, and very recently I’ve also taken over
+oversight of our development and public responsibility team.
+
+Page 4 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+So in that process, I’ve been at ICANN for just under four years,
+and many things have changed and developed in that time
+frame. What I’m going to try and do, and just very briefly, is in
+two parts. So I’ll start by giving you an overview of our
+engagement strategy, and I will explain our hub strategy, and I
+will try to articulate the difference between the two. Sometimes
+they’re closely related, but our hubs are not just there for our
+engagements, just to be very clear. It’s a very common
+misunderstanding and maybe we have to really work on our
+communications about that.
+And then I’m going to hand over to Patrick Jones, my colleague,
+who I’m sure many of you already know, who works very closely
+with me in this program, and also Jeannie Ellers, who is sitting
+here in the front row. Do you want to put your hand up, Jeannie?
+If there’s anybody at ICANN who doesn’t know Jeannie I’d be
+surprised, but anyway. And the three of us have been very
+closely involved in the second part of the presentation which I
+know that Giovanni was keen we should discuss, which is about
+goal setting and metrics and measurement.
+So hopefully at the end of that it will be a bit clearer, but I’m sure
+there’ll be questions and I look forward to a lively discussion.
+Next slide please.
+
+Page 5 of 49
+
+EN
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+So what you see at the bottom of this slide is the way we think
+about engagement. And it’s really a very simple idea. Three
+concentric circles. So in the very middle of that circle is the
+existing ICANN community – so people who are at ICANN
+meetings, who are part of our SO/AC structures, who are part of
+the Board, who are part of the staff – this is what we mean
+loosely in this inner circle. And as you can see, the strategy that
+we deploy in terms of our engagement and communications
+resources for our community in that sense is mainly support
+based. So we’re here to help you do your work. Wherever you’re
+based,
+
+whatever
+
+your
+
+specialist
+
+interest
+
+is,
+
+whatever
+
+stakeholder group you are involved with. And in doing that, we
+work extremely closely with the policy support team that is run
+by my colleague, David Olive.
+And as time has passed, that closeness has deepened to the
+level that David and I now co-chair a larger coordination group
+inside ICANN staff which has representatives on it from every
+department that is touching the community. That would include
+our IT and product development team, our meetings team, our
+languages
+
+team,
+
+also
+
+our
+
+communications
+
+team,
+
+our
+
+engagement team, our policy team. So we try to make sure at a
+staff level that in that support role for our community members,
+that we’re thinking in a joined-up way.
+
+Page 6 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+Could we go back to the slide with the three circles on it? We
+seem to have gone to the end. I must be being very boring.
+In the middle circle – keep going, that’s it, thank you – in our
+minds we think of this as particularly through a very regional
+lens. We have eight regional vice presidents who are positioned
+around the world to support you in a slightly more localized
+way. All engagement in the end is really local, of course. But we
+try to do that in a reasonably harmonized way that reflects
+common global interests as well as specific bespoke local
+requirements.
+And many of you will know – and we’ll talk about how we’re
+measuring it later – we are mainly operating that strategy
+through what we call regional engagement strategies. And
+Patrick’s going to talk about those a bit more in a minute. And
+they are largely community-based groups working with staff to
+address the local and regional needs for your different
+stakeholders in the different parts of the world.
+And then finally, in that outer ring, are people who are affected
+by our work but don’t necessarily know that yet. Really
+important group, and as it says in the text on this slide, that
+group has been particularly activated towards ICANN through
+this process of the IANA oversight transition. For many people in
+the world, suddenly they know about ICANN and they are
+
+Page 7 of 49
+
+EN
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+thinking about ICANN and they are wondering whether they
+understand enough about what happens at ICANN and what
+implications in effect that might have on them in their role as a
+registrant or other participant in the Internet as a user.
+And predominantly our strategy – not exclusively, but
+predominantly
+
+–
+
+our
+
+strategy
+
+there
+
+is
+
+through
+
+our
+
+communications channels and through the content that we
+produce, that it comes now in many, many, forms – everything
+from video to infographics, from newsletters to local speaking
+points for meetings, and almost everything in between. And a
+key element in that group is the languages capability. If we are
+to make ourselves understood, if we are to help that group of
+people who do not spend time with us – and maybe never wish
+to spend time with us like we are today – understand what we
+do and why what we do affects them and how they can engage
+with us if they want to, they have got to be able to understand
+us.
+And it sounds so easy, but a lot of time and resource goes into
+making that work. And we’re not there yet. And this group
+touches our website very strongly and our web assets, as you
+might imagine.
+So let’s move to the next slide. I’ve covered the next slide. My
+presentation skills are better than I thought.
+
+Page 8 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+Okay, so hold that thought in your mind as we go in, and we’re
+going to delve into a bit more detail now about how we look at
+some of the programs and projects that are in those layers and
+then how we measure them. Patrick.
+
+PATRICK JONES:
+
+So we’ve provided the slides. It will be posted on the session
+node for this event so that you will have them for your own
+reading. What I’ll provide an overview now is of our regional
+strategies and plans.
+Five of our regions are currently, they have community-driven
+bottom-up strategies. This is the Latin America and the
+Caribbean region, Africa, Middle East, Asia-Pacific, and the
+Oceania regions. Oceania launched their regional strategy in
+Fiscal Year ‘15, and the others were launched in Fiscal Year ‘13.
+Asia and Africa have realigned their strategies to match up with
+the ICANN goals and objectives from the ICANN strategic plan,
+and Africa and the Latin American/Caribbean Region have
+redrafted their regional strategies completely as of Fiscal Year
+‘15 and they are now following along with the ICANN five-year
+strategy.
+North America, Europe, Eastern Europe, and Central Asia do not
+have bottom-up community-driven strategies but our regional
+vice presidents have their own regional work plans, and those
+
+Page 9 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+do take into account input from the stakeholders in the regions.
+And these plans are, they are matched with our ICANN strategic
+plan. So these are all built around, it begins with the ICANN
+strategic plan as the base and then the plans then take into
+consideration the regional community needs. And I think this
+does fit well with the comment that was received from the
+ccNSO and SOP, is that you wanted to see better alignment of
+our work with the input that’s coming in from the regions.
+The next few slides show you how the regional strategies are,
+the timing and the number of projects that are underway with
+each of these. It’s also useful to see the number of objectives for
+each of the strategies. So for example, the graph represents the
+regional objectives goals and how they fit with the ICANN
+strategic goals. So for example, Africa shows nine regional goals
+under the objective “Evolve and further globalize ICANN.” And
+it’s difficult to read it in the chart, but if you take a look at the
+detail, this should provide a better understanding of how the
+regional plans match up with the ICANN objectives.
+The regional plans are now at the phase – and this gets into the
+discussion around KPIs and metrics – there is work underway to
+gather the metrics that have collected across the regions and
+synchronize these efforts, identify gaps, and where there are
+similarities across the regions, to help set measurable goals. And
+right now there’s regional work plans in place. We’re in the
+
+Page 10 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+process of setting targets. And this also – this relates to where
+we’ve identified some challenges with our previous KPIs. We’ve
+now been trying to come up with solutions to address those
+through better collection of data and also better data that we
+are displaying for the community through our dashboards.
+Maybe I’ll take a pause there and see if Giovanni or anyone has
+questions about the way we’ve structured this. All of this is
+around taking what we’re measuring now and building from it,
+taking in the feedback from the community and being able to, as
+we go forward into FY17 and beyond, how can we better show
+outcomes and impact of the work that we’re doing in
+engagement.
+And that is the end of the slide deck, but you’ll have it for your
+future further use.
+
+GIOVANNI SEPPIA:
+
+Thank you, Patrick. Thank you, Sally. Is there any question from
+the attendees of this session? [Roloff], there is a mic in the
+middle of the room and as we have done this morning, please
+get close to the mic. It will function soon.
+
+[ROLOFF MEYER]:
+
+Page 11 of 49
+
+Okay, soon.
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+GIOVANNI SEPPIA:
+
+Soon.
+
+[ROLOFF MEYER]:
+
+[Inaudible].
+
+GIOVANNI SEPPIA:
+
+No. Can you please activate the mic in the middle of the room?
+
+[ROLOFF MEYER]:
+
+[Inaudible]. I think then the question then it’s with regard to one
+of your slides, Sally. I can’t literally quote the slide but it says
+something like, “The objective is to make sure that everyone
+who is affected by the work of ICANN knows about ICANN.”
+Something like that, right?
+I think it’s a very honorable goal, but I think you could well argue
+that everybody who uses the Internet is affected by the work
+that ICANN does because one of the things that you do has to do
+with IANA and as soon as we use the web…well, resolving
+etc…root zone. So I think you’re going to perform very poorly on
+any KPI affected with regard to that objective for a very, very,
+long time. And I don’t completely understand why you think that
+would be necessary. Everyone.
+
+Page 12 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+SALLY COSTERTON:
+
+EN
+
+[Roloff], thank you. It’s a really good comment. You’re right, of
+course.
+
+[ROLOFF MEYER]:
+
+[Well, that’s not always the case].
+
+SALLY COSTERTON:
+
+No. Okay, fair enough. You said that, fine. On the record. You’re
+right. You’re definitely right about this point, let me put it that
+way. It reflects – hello, McKailey. Are you coming to address me
+in person? Okay, thank you.
+This reflects where we started. And what I showed you was very
+transparent. I mean, this is where our engagement strategy
+came from, if you will; its kind of genesis. What you will not find
+is a KPI for that goal. So in that sense it isn’t accurate actually to
+call it a goal. I would call it – I’m not sure what I would call it. But
+I think it’s a…pardon…a dream. Yes.
+One of the things that I’m incredibly happy about is that we’re
+here having this discussion, because we actually don’t spend a
+lot of time at ICANN meetings talking about engagement. And
+I’m really happy that this has been put on the agenda because
+now we’ve been doing this and we’ve done a lot of things in the
+last three/four years. And ICANN has changed a lot and the world
+
+Page 13 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+has changed a lot. And we have new Bylaws, we have a big
+change in our community.
+And I would welcome an opportunity for us to gather informally,
+for people who are interested, to have more ongoing discussions
+about how…this particularly this question about measurement,
+as we move forward and we say, we look at ICANN’s scope and
+ICANN’s Bylaws, and we say, “How do we make sure that our
+engagement is in scope and that we are very tightly aligned, not
+just to our strategic plan but to our scope and to the
+expectations that come from that?” That is an evolution of
+where we started from. And that will give you a subset, actually,
+of that group, if that’s helpful. But thank you. You’re raising a
+really important point.
+
+GIOVANNI SEPPIA:
+
+Thank you, Sally. McKailey.
+
+MCKAILEY NALEM:
+
+Thanks. A couple of things. First off, where do you define a
+stakeholder?
+
+SALLY COSTERTON:
+
+Page 14 of 49
+
+What, you mean in the slide deck?
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+MCKAILEY NALEM:
+
+No, anywhere.
+
+SALLY COSTERTON:
+
+Anywhere.
+
+MCKAILEY NALEM:
+
+Yes, no. Because the thing is this, you’re talking about
+stakeholder engagement.
+
+SALLY COSTERTON:
+
+Yes.
+
+MCKAILEY NALEM:
+
+Yet I don’t see a definition of who constitutes a stakeholder.
+
+SALLY COSTERTON:
+
+Right.
+
+MCKAILEY NALEM:
+
+Which then leads me on to…which is the bit missing. Because
+what I’m seeing several people here from the ICANN side
+presenting, and I’m also noting people who are missing. So for
+example, Chris Mondini and his team have been doing a lot of
+stuff around business engagement, yet you seem to have the
+business engagement as something which is separate to the
+
+Page 15 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+overall global stakeholder engagement, which seems to be –
+unless the two are some way pulled together which I’m not…I
+don’t see that. I mean, maybe I missed the slide. Great, Patrick.
+You’re going to help me out here?
+
+PATRICK JONES:
+
+So the way we’ve structured this is that there’s the regional
+engagement that happens, but we also have functional
+engagement, too. So global business engagement, technical
+community engagement, the civil society engagement, all of
+that, and also we work closely with our government
+engagement colleagues. So where maybe we segment
+stakeholders into the traditional four stakeholder group areas,
+but those are all part of our team.
+And Chris Mondini for global business has his own global
+business work plan that he works from.
+
+MCKAILEY NALEM:
+
+So is he part of your team or not?
+
+PATRICK JONES:
+
+Yes.
+
+Page 16 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+MCKAILEY NALEM:
+
+EN
+
+Okay. It’s just because then the other thing is that the last couple
+of slides that you have some of these KPIs that you’ve decided
+on. Where are those published? Where are you actually sharing
+the information?
+
+PATRIC JONES:
+
+Yes, so we do have some of these on the ICANN organizational
+Dashboard. We will admit that we internally have more data that
+hasn’t made it to the ICANN-wide Dashboard and we’re going
+through this process now of improving our KPIs and we’ll be
+publishing those as FY17 goes on.
+
+SALLY COSTERTON:
+
+But you make an excellent point, McKailey. And it’s an absence
+in the slide deck. It is very easy for us to attach to this a structure
+chart that shows exactly who is in this group and which
+stakeholders they address. And it is a matrix. So just to add to
+what Patrick said, at a regional level each regional vice president
+is asked to balance, as equally as possible, resources across the
+four stakeholder groups in their region. So both global
+coordination and regional focus on the WSIS stakeholder
+groups. So we’ll add that structure chart to this so that everyone
+can see it.
+
+Page 17 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+MCKAILEY NALEM:
+
+EN
+
+Okay, thanks. Could you go to the last slide where you have the
+KPIs, please?
+
+PATRICK JONES:
+
+Also this is a representative. It’s not into the detail and if you
+want the detail we can provide this. I’m trying to get to – this is a
+sampling of the regional metrics that we are collecting, and
+we’re turning these into KPIs.
+
+MCKAILEY NALEM:
+
+Right. It’s the…
+
+PATRICK JONES:
+
+This one?
+
+MCKAILEY NALEM:
+
+No.
+
+SALLY COSTERTON:
+
+Which one do you want?
+
+MCKAILEY NALEM:
+
+It’s the one where you have what you’re doing currently, what
+you’re planning to do on the KPIs.
+
+Page 18 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+PATRICK JONES:
+
+This one.
+
+MCKAILEY NALEM:
+
+Yes. Because the one that concerns me the most is it’s the
+stakeholder journey aspect here. Because what concerns me is
+that you don’t seem to have been tracking that, yet that to me
+would appear to be the most obvious one. Because…I’m
+speaking as a registrar, we have registrars from all the regions
+where we have certain positions which are elected positions for
+our representatives and we are meant to have geographic
+diversity.
+Now if you’ve looked at the AFRINIC report on diversity within
+ICANN you realize fairly quickly that there are much deeper
+diversity issues. But as Chair of the Registrars I have to throw
+that out, because I can’t turn to you and actually with a straight
+face say that I can actually give you that diversity within our
+representatives because at the moment I can’t even get the
+geographic.
+So if you guys are investing the ICANN budget in stakeholder
+engagement, then the stakeholder journey as in those who are
+actually engaged and what’s happening to them in turning those
+into active, useful participants, is key. And that it isn’t a KPI at
+the moment, it’s only a future KPI, is quite worrying.
+
+Page 19 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+SALLY COSTERTON:
+
+EN
+
+Right. That is the central challenge now, right now. So I just want
+to explain this because what you’ve said is the most important
+thing we can say about the metrics and the KPIs.
+What you’re seeing here is what often happens in organizations.
+When you start doing KPIs and you start doing metrics, you
+measure what you can see, you measure what you can count,
+and any of you who have ever been involved in putting together
+with KPIs and dashboards will know that this is one of the
+weaknesses of doing this. What we want to do and what we are
+straining every sinew to do and what Jeannie here sitting in the
+front is spending an inordinate amount of her time doing, is
+precisely what you’ve just said.
+So the brief that we have in my team – which is surprisingly hard
+to do, but that’s not what this session is about unless you want it
+to be – is exactly that. Because in a way, that is ICANN’s mission,
+is how do we deliver, and demonstrate that we are delivering, a
+pipeline of qualified volunteers that is representative according
+to the Bylaws, according to the mission, that is functional, that is
+helpful, and how do we track that through right from that outer
+circle right into the center circle?
+And in some cases, we don’t need everyone in the world to go
+into the center circle but we need enough of the right people
+
+Page 20 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+from the right places with the right expertise. So it’s not just
+measuring people as they come towards us, it’s also increasingly
+in the future going to be about saying, “Where do we need to go
+to find the people that are not here? Where are the gaps in
+expertise, in the working groups?”
+I was very struck by some comments you made in a meeting we
+were in together earlier in the week about this. The need for
+finding the right people and making sure they come to ICANN
+more quickly so that we don’t just represent what we’re required
+to do by our mission and Bylaws, but we also have a good pool
+of volunteers. Otherwise our existing volunteer community is
+just going to collapse.
+So you have absolute commitment that that is front and center.
+You really do. And I’m very happy for that to be on the record.
+
+GIOVANNI SEPPIA:
+
+Thank you, Sally. Thank you again, McKailey. Jay, you’re the
+next.
+
+JAY DALEY:
+
+Thank you. Jay Daley from .NZ. On the same slide, website
+metrics isn’t an outcome or an impact. I’m glad that this change
+is taking place because the left-hand side isn’t KPIs, as you’ve
+said, and I’m pleased about what you’re talking about.
+
+Page 21 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+It still seems that there is still much further to go on the righthand side. Do you have a time scale, not so much for when you
+deliver it, but when there will be clarity about the right-hand
+side that those of us who are in this position look at that and go,
+“Yes, those are real outcomes.”
+
+SALLY COSTERTON:
+
+Right now today, I’m not going to say to you a week on Tuesday.
+But you’re absolutely right and I take that action. I think it’s an
+important goal for us as an engagement team to be able to have
+more detailed, clearer communication about this activity and
+what are the steps in the process. What does done look like? And
+how far are we from done and what are the milestones that we
+need to get to?
+And, by the way, I don’t want you to hear what I’m saying as
+meaning ‘slow.’
+
+JAY DALEY:
+
+No. I realize that you might like to avoid saying next week on
+Tuesday, but we really do quite like people saying that because
+we like to hear commitment and a plan, and that target and
+knowing that there’s a target set.
+
+Page 22 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+SALLY COSTERTON:
+
+EN
+
+I take that point and I don’t want to be flippant. This is a serious
+point. I kind of in a way reoffer my offer of earlier. If there are
+people in this room or in this group or anywhere else in the
+community that would like to convene in a more informal way
+as we go through this process, I personally would really welcome
+that. Not because we don’t have ideas. We do. But without
+taking up the whole session, there are some quite tough
+constraints – well there are just constraints, constraints are by
+definition tough – that we have to often make trade-offs against.
+And I think we haven’t been very public in that discussion and I
+think that this is what I’m taking from – that’s why I said earlier
+I’m very happy we’re having it – but I’m also recognize for many
+of our community this is perhaps not very interesting or
+relevant, but for some people it’s highly relevant. So I hope we
+can further that conversation. And I’m not avoiding making
+commitments on time, but what I know is even with some of my
+colleagues on this panel, there are interdependencies and I
+think the more visibility there is of those interdependencies the
+better.
+
+JAY DALEY:
+
+That would be great if there were a slide of those so that we
+could see those, yes. Thank you.
+
+Page 23 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+GIOVANNI SEPPIA:
+
+EN
+
+Thank you, Jay. And thank you again, Sally.
+Just one point as Chair of the ccNSO SOP, that this is a comment
+that we have put forward since many, many years. And since
+many, many years the feedback of ICANN has been that ICANN is
+in the process of setting those KPIs and so we have been hearing
+that for the past four years. And so when Jay say we like to hear
+time frames, we’re not hoping to hear next Tuesday, hopefully
+you’re going to get some rest after this week next Tuesday. But
+let’s say that…and we all agree that for certain areas of your
+work it is incredibly difficult to find good KPIs and also to find
+KPIs that go over years.
+But what we would like to see is at some point to see these KPIs.
+And so I try to reformulate the question of Jay. When do you
+think you and your team would be comfortable to say, “Okay we
+have a baseline of KPIs in the future”?
+
+SALLY COSTERTON:
+
+Okay, so let me just to be a bit clearer, because now I’m
+underselling what we’ve been doing. I’ve gone the other way.
+Actually the team has made an awful lot of progress in terms of
+both defining KPIs and agreeing metric and goals. And without
+wishing to be sort of pedantic about it, they are different. But
+even establishing that and a culture inside ICANN and the
+community that even…that’s actually surprisingly difficult.
+
+Page 24 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+So we actually have a lot of KPIs and a lot of data now. And
+frankly, this is not particularly secret or anything. And I, as I say,
+if there is a smaller group of people that want to sit with us and
+really understand that and get underneath it, I’m very happy for
+that to happen. And to McKailey’s point, if an ultimate goal or a
+really important goal is to be able to measure and track the
+stakeholder journey from end to end – and it absolutely is in my
+opinion – then it would be really, really helpful to have a wider
+group of input from community members to say, “Okay, well if
+you’ve got all of these here now, Sally, well that’s great. Because
+we didn’t know that and now we do and that’s much better than
+not knowing it.” And it needs to be no, we haven’t had four years
+in zero, because that’s not true. And some of this is public but we
+have a lot more.
+The second thing is that helping us to solve some of those
+problems about how do we close the gap between what we
+need for a credible stakeholder journey map, if you will, and
+measurement of that, and what we have. So I hope that’s
+helpful. But it’s very genuine. I really don’t want to give the
+impression that we’re hiding away.
+
+GIOVANNI SEPPIA:
+
+No, that was not at all the message I was trying to deliver at all.
+The message is that, indeed, like the ccNSO SOP has on
+
+Page 25 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+numerous occasions said that we are all available – the ccNSO
+SOP – to sit with you, your team, any time to help you to
+improve KPIs and to make the KPI’s journey a nice journey for
+you and your team. And again, with our experience, different
+ccTLD registry managers will be so happy to do that.
+Patrick, and then I have Xavier, and then Eduardo, and McKailey
+again.
+
+PATRICK JONES:
+
+So quickly. In the lead-up to this meeting we did a number of
+preparation calls, and there’s nothing that would prevent us
+from turning that preparation before coming here into, how can
+we show you more of what we have already been collecting and
+work with you on what we could improve with an eye towards as
+we are going to start the FY18 budget process and I think we
+could make progress in between the meeting just by doing a call
+or a series of discussions.
+
+XAVIER CALVEZ:
+
+Just a very quick comment. Without necessarily committing as
+Sally has indicated on a timeline for all these outcomes metrics,
+putting it differently, the next opportunity to share information
+and the one that’s available by then is the FY18 operating plan
+and budget. And by then the team will have made further
+
+Page 26 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+progress and will be at least able to have an overview as to
+what’s available by then. So that’s the next point that I think is
+useful to work towards because then that’s also a basis for the
+community then to provide comments as to what’s there, what’s
+not there, and the progress that have been made.
+I think that will establish a good rhythm which also can be
+complemented by what Patrick just offered, to do on a more
+substantial meeting interaction in between meetings.
+
+GIOVANNI SEPPIA:
+
+And again, we are ready to help. Eduardo, and then McKailey.
+
+EDUARDO SANTOYO:
+
+Thank you, Giovanni. Okay, my name is Eduardo Santoyo. I am
+from Colombia. And I’m going to talk as my capacity as
+Chairman of LACTLD. We have been working with ICANN in this
+region on engagement since 2013 and we can provide our
+testimony that this is very useful for the region and I guess for
+ICANN purposes, too. Because we have been doing many joint
+activities, not just with our community but all the communities
+in Latin America and I guess what we are having on these joint
+activities a very useful result for both parties.
+But at the same time, I’m also going to raise the attention on
+how could [be affected]. [inaudible] we’re doing together
+
+Page 27 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+cancelling the meetings in the region. Because it will also have a
+lot of impact in many engagement activities because one of the
+most important activities to engage people from ICANN issues is
+how many meetings on the regions. And cancelling two
+meetings this year will have a very serious impact on the region.
+That’s what I wanted to mention.
+
+SALLY COSTERTON:
+
+Thank you very much. Thank you for your help with the regional
+engagement strategies. They wouldn’t work without you, any of
+you. They’re really for you and with you. But I really appreciate
+the feedback and I know the team will.
+
+You raise a really important question. It’s two questions actually
+in a way. What is the role of the ICANN meeting in our
+engagement goals and strategies? There was a, as you know, a
+big meeting strategy working team, a cross-community effort for
+I think nearly two years to produce the new strategy. And that
+group spent a lot of time trying to answer that question. And so
+we know two things, or we did at the end of that.
+One is that it is less effective than we would like, actually, at
+outreach in our local communities when we take the meeting
+around the world. So even when we do take the meeting around
+
+Page 28 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+the world, we have a lot of work to do – this was the view of the
+community group – to ensure that there is much higher
+frequency, more depth, more breadth, of engaging local and
+regional Internet community members when we are actually in
+their city. So we should not assume that even wherever we do go
+that we are yet mature enough in that effort. And there are many
+community working groups paying attention to this, but we
+have a way to go with that.
+The other side of it is – okay, so, having said all of that, there is
+no question in my opinion, and I am not a professional meeting
+organizer but I’ve done many of these now – going to a city with
+an ICANN meeting makes a difference. I absolutely agree with
+you. It makes more of a difference probably in Marrakech than it
+does in Los Angeles. I don’t know, maybe that’s not true. There is
+an element of importance – and we had the Policy Forum partly
+because they would be smaller meetings and it would allow us
+to go to smaller cities – where there would be more impact. This
+was one of the considerations of the working group.
+What happens when we can’t go? That was your question. The
+reason I made my preamble is because I recognize that there is
+an impact and therefore if you don’t have a meeting you lose
+that impact. Very occasionally – and it is extraordinarily
+unfortunate that it has happened in this way; you have had a
+double whammy, a double impact – things come along which
+
+Page 29 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+are totally outside ICANN’s control, where we have to make a
+collective decision that we cannot go ahead and we have to
+change, we have to postpone. In this case we have postponed,
+not canceled.
+But nonetheless, there will be a gap. You will lose that platform
+in your region to do with whatever you might want to do. What
+we have done for the benefit of everyone else is we have put
+together a very senior group of staff to spend time with you and
+with your regional stakeholder group to make sure that we’re
+doing everything we can to put new and extra engagement
+activities in with more people coming to you than we would
+normally do. Normally the regional activities are inside the
+region, but we recognize that there are things that we can do in
+this specific circumstance. Even if we don’t bring an ICANN
+meeting, we want to do everything we can and we will allocate
+some additional resources. And I think you already know this,
+but we’ve agreed to allocate some additional resources to make
+that happen.
+So sometimes, as in many other areas of ICANN, we have to
+make pragmatic decisions because we face no alternative. And
+in those cases we will always seek to try to do everything we can
+to mitigate, which is very much done in engagement with the
+local regional stakeholders. And we will do everything we can –
+we will postpone, not cancel.
+
+Page 30 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+But I don’t wish to imply that this is not bad for the region
+because that would be wrong and it would be inappropriate. But
+all I would say is nobody is more disappointed that we had to do
+it than I am. We never want to do it. When we picked a location
+we pick it for all the right reasons. A great deal of work goes into
+selecting, and it is incredibly difficult and hard work and
+disappointing if we have to change.
+
+GIOVANNI SEPPIA:
+
+Thank you, Sally. McKailey. The very last and short question.
+
+MCKAILEY NALEM:
+
+Thanks, Giovanni. Just being a bit pointed about this. The total
+budget involved in all of this is not insignificant. So I think the
+thing really, and I’ve asked you all this before so it’s nothing
+new, it’s that it’s not just a matter of KPIs, it’s also a matter of
+return on investment. So I mean just something that you need to
+bear in mind when you’re looking at this, because the amount of
+money is significant. And if you are spending money and you
+cannot show some kind of return on that and you cannot
+quantify it in some way, then realistically you might as well put
+the money in a pile on the floor and set light to it. Which in a cold
+winter in the darks of certain parts of the world that might be a
+good use of the money, but I don’t think that’s really what you
+should be doing.
+
+Page 31 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+SALLY COSTERTON:
+
+EN
+
+McKailey, I don’t think it’s pointed, or at least not in a negative
+way. I don’t take it that way. I completely agree with you. I
+couldn’t agree with you more. And what we have at the moment
+is, as you know as you can see, we’re being very open. We are
+counting and measuring lots and lots of things, but it’s actually
+really difficult to answer that question right now. Not because
+we don’t want to, but because it’s not joined…now, if we can
+measure a stakeholder journey properly, we can also measure,
+in a way, the cost of that stakeholder journey, and then you can
+start to make a judgement about what you – and I’m not putting
+off answering your question, I’ve got no problem in having a
+value for money conversation through whatever frame people
+want to have it. I genuinely really haven’t. I mean, at the end of
+the day this is all in the public domain. We go through it when
+we publish the budget. We’re not hiding anything.
+But I want to be able to answer that question, because I want to
+know the answer to that question quite apart from anything
+else. I have to make decisions about how we do allocate
+resources, and we have to show that we’re doing that in the
+public interest and we have to show that we’re fulfilling our
+scope and our mission. And I’m highly aware of that. And I really,
+really am very committed to being able to do that as part of that
+process. I wish it was easier than it is, but it is possible.
+
+Page 32 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+GIOVANNI SEPPIA:
+
+EN
+
+Thank you. Thank you, Sally. Thanks again to all those who
+asked question for this first part. We have some sort of time
+constraints, so if Sally and Patrick are available for a session in
+Hyderabad, a similar session like we had today, I would like to
+invite you to participate in this session about and have the hub
+strategy presented in Hyderabad.
+
+SALLY COSTERTON:
+
+Absolutely no problem. I am feeling – is this a reward or a
+punishment, Giovanni? I don’t know. I can’t decide.
+
+GIOVANNI SEPPIA:
+
+We’ll discuss it later.
+
+SALLY COSTERTON:
+
+But no, seriously, I think we should absolutely do that. And can I
+make the suggestion that we in a way we have a kind of more of
+a dialogue between now and then, and we do have a bit of a
+workback plan so that when we meet in Hyderabad we’re not
+having the same conversation’ we’ve really moved the needle
+and we can focus specifically more on the hubs then and we can
+prepare for that. Because it is really rather different. But thank
+you for the invitation.
+
+Page 33 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+GIOVANNI SEPPIA:
+
+EN
+
+A pleasure and again, between now and Hyderabad we’ll be
+ready to help you as I said for the KPI journey.
+
+SALLY COSTERTON:
+
+Good. Definitely.
+
+GIOVANNI SEPPIA:
+
+Then I’d like to pass the floor to Susanna for the second part,
+which is about the HR strategy of ICANN. Thank you, Susanna.
+
+SUSANNA BENNETT:
+
+Thank you, Giovanni. Thank you to all of you for having us here.
+There’s a great opportunity and really good that we have this
+arranged and hopefully that we will continue this [inaudible]
+adding value and transparency.
+First I wanted to just give you a little background about myself
+and the team. First actually I wanted to introduce the team.
+Many of you, probably all of you, know Diane Schroeder, VP of
+global HR and also administration. She’s our second employee
+of the organization, has been with the organization for about 16
+– 17 years. And I have to say I’m very, very, fortunate to have her
+on the team. I turn to her all the time for advice and very sound
+advice and judgement.
+
+Page 34 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+And to my right is Xavier. Many of you or probably all of you
+already know him. Extremely talented in finance and many other
+areas, and working very closely with all of you and the Board,
+especially recently with the CCWG and CWG on the PTI [side]. So
+I’m very fortunate to have both of them and the rest of the team
+in Operations.
+A little bit about myself. I joined ICANN three years ago. As of
+July 1st will be exactly three years. And it has been an amazing
+journey. And I have to say I’ve never joined an organization with
+such talent and dedicated people. And when I joined I felt that
+there is such a good match with my background. I’ve been with
+tech companies for the 25 years of my career focusing on very
+much on organization excellence and change management,
+particularly with companies who start up or turn around or
+mergers/acquisitions so a lot of change management related
+areas and I’m very, very, passionate about that.
+So when I joined ICANN three years ago it was quite different,
+like Sally was saying, different from today, and we’ve grown a
+lot. And we have come a long way in many areas and really
+thankful for the team, a lot of dedication from the staff and also
+from the community. I’ve never seen such involvement from the
+whole world in such a journey. So very much I feel very fortunate
+about that.
+
+Page 35 of 49
+
+EN
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+So today’s focus is on HR strategy. And so how we manage HR is
+very much a focus on the strategy that’s built together with the
+community. And that drives how we formulate our plans. So you
+can see on the slide here we have the strategic plan that was
+done with the community, and then the operating plan for the
+five years period also done in conjunction with the community.
+Then that drives the annual Budget and Operating Plan, then
+work with the community on the achievement of that.
+Then within the organization, how we manage our work is also
+driven by the strategic plan and operating plan. If you can shrink
+the slide a little bit, that would be great can see [inaudible].
+Great.
+And in the framework of
+
+the organization excellence and
+
+elements of, of course, the budget and cost management,
+project managements, many of you know that we post that on
+ICANN website for you to see how we progress with each of the
+projects. And through people management are driven by the
+strategic plan and operating plan and also looking at risk
+element and reporting. We have many reportings. We’ll go
+through that later on in this deck.
+Okay, am I driving this? Yes.
+So the goals specifically relate to the operation team is the
+objective three that two goes within objective three. The goal 3.1
+
+Page 36 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+and 3.3: “Enhance ICANN long-term financial accountability,
+stability and sustainability.” And then 3.3, “Develop a globally
+diverse culture of knowledge and expertise available to ICANN’s
+Board, staff, and stakeholders.” And our team have been
+focusing on those two areas and building the strategy of
+operations.
+Okay. So HR, what we’ve been focusing on are three key areas.
+One has been a [trust and] strategic partner. Two are staff and
+aligning and engaging with our executive and management
+team and develop a world-class work force start with talent
+acquisition, acquire the best talent and then develop our people
+and also try our best to retain the very best staff.
+And, of course, building HR excellence, we follow several models
+including EFQM Model. Many of you are familiar with this one.
+And we have embarked on the internal assessment each year
+since FY15. And we’re looking at enhancements in many areas,
+particularly on the system side to enable us with more analysis
+to make sure we are doing the right thing and growing the right
+places.
+Okay, with this I would like to have Diane go through the next
+section.
+
+Page 37 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+DIANE SCHROEDER:
+
+EN
+
+Thank you, Susanna. So the slide you see here basically
+summarizes the department. We are a global HR department.
+We are based in all of the regions. And we offer four basic
+services to the internal staff. One, the employment – just the act
+of acquiring and bringing on staff – rewards, organizational
+development, and then operations within HR [IS] outlook on it.
+The challenges that we have is while we’re not necessarily a very
+large operation, we are a very complex operation. From an HR
+side, we’re spread throughout 30 countries. Just within the
+United States we’re in 18 different states. We have people who
+engage in many different types of activities from the technical to
+the engagement people, the policy people, to the operational
+people. And we try to take all of that different aspect of our staff
+and provide everything that they need to perform at the highest
+possible level.
+One of our real focuses in the last couple of years has been
+building an organizational development department function
+within our HR. And it’s had, at its core, five key areas to really
+focus on. The box that is in front of you represents those five
+areas:
+
+leadership
+
+development,
+
+organizational
+
+change
+
+management – as some of you know, we’ve been going through
+just a little bit of change in ICANN recently – learning and skill
+development, organization strategy and talent management,
+which all leads into team and organizational effectiveness.
+
+Page 38 of 49
+
+EN
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+So we’ve really tried to focus on a journey in these areas, putting
+in what’s reasonable for the foundations and then building on
+them as we have more experience with our staff in these areas.
+Performance management is an important and key part of our
+total strategy for HR. We have a twice a year evaluation system
+where staff set goals with their managers and are rated on those
+goals, how they’ve achieved them, as well as the behaviors that
+are taken to perform at a high level.
+So the performance management system leads into our
+compensation
+
+program.
+
+We
+
+have
+
+an
+
+annual
+
+average
+
+performance score that comes out of the two performance
+management reviews that we do. This feeds into compensation
+data that’s driven from the market. We use two main
+benchmarking studies. One is Willis Towers and Watson, and the
+other is Radford. And this leads into an HR guidance that’s given
+to the managers for compensation adjustments which we do
+annually.
+Our compensation program has been built on guidance from the
+Board of Directors, and they have given us guidance regarding
+how to position our compensation within various comparisons
+of markets within the framework that we have where we have an
+at-risk compensation program that is guided by the goal setting
+of the staff and the performance management and by a blending
+
+Page 39 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+of the different types of markets that we compare our salaries to
+when we do the benchmarking.
+And with that I’m going to go back to Susanna.
+
+SUSANNA BENNETT:
+
+Some of these dashboards you have seen. We post them on
+icann.org on a monthly update. I wanted to go through just a
+few with you to relate to the budget that you have seen.
+So look at the head count first and a few other stats I want to
+share with you. As of May this year, we have 357 staff, and it’s
+below the budget right now. The reason being below the budget
+is that we have a lot of work going on. It’s challenging for the
+team even to have the time to fill certain positions. Many of the
+team members just had to absorb the work and they just put in a
+lot of hours to make sure that they get the work done. So we
+have not been able to fill some of the positions, but the work has
+been achieved, as you can see what has been happening with
+our transition.
+So the total staff number is below budget and also the average
+number of staff this year is below budget. And next year, FY17,
+we target to grow to 386 staff at the end of the year, and that
+includes 11 staff in the new gTLD group and then the rest in
+
+Page 40 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+ICANN Operations. And that includes the staff also working on
+the transition.
+Then the growth trend as you can see that we had a huge growth
+in 2013 to 2014 – about 46%. Then after that, the growth had
+been tempered and slowed, and the team had been working
+tighter together and the growth in that 2013/2014 was very, very
+necessary to get the organization ready for the next phase.
+Next slide, please. Okay.
+Here is a picture to show how our staff are spread all over the
+world. You can see the various areas. Of course, we still have the
+highest number in the United States or North America area.
+However, the growth in the North America region has been very
+small in the last three years in compared to the other regions.
+The other regions been growing about over three times. And the
+highest growth definitely in Singapore and Istanbul hub. When
+we started over three years ago and also in [inaudible] and
+[inaudible] regions outside of the Hub offices.
+Next slide please. Okay.
+Here is to show you a bit about the diversity of the organization.
+Diane, would you like to cover this one?
+
+Page 41 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+DIANE SCHROEDER:
+
+EN
+
+So this shows some statistics – and we put them together
+recently for the first time, surprised a number of people –
+particularly in the diversity/gender area. We are currently – and
+this is the end of May – almost 54% female. Which I think is great
+for the type of organization that we are and the way that we’ve
+grown in the recent years.
+We also, I think, have an interesting age trend which is that we
+are on the average 41 years old. So we’re sort of right in the
+middle of a working life is where our average comes. And then
+the years of service probably won’t surprise those of you who
+have watched our growth over time. So we’ve effectively had
+staff in place for just a little over 16-and-a-half years. And so we
+have 5% of our staff who’s been there more than 10 years, and
+the biggest percentage of our staff has grown in the last one- to
+three-year time frame.
+
+SUSANNA BENNETT:
+
+I also want to show you the turnover in the organization. We
+measure ourselves against a target. It’s a [inaudible] survey
+benchmark and that’s a global benchmark of 13.4% that’s the
+most current trending 12 months benchmark. And so you can
+see the other bars in grey, that’s our ICANN staff turnover. Each
+one of the bars is looking back 12 months at a time. And you can
+see that it increased to as high as 11.8% late last year. We kind of
+
+Page 42 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+analyzed the factor was relate to the announcement of Fadi’s
+departure and the changes affect the people’s perception of the
+next phase of ICANN.
+And then as we progress on hiring the new CEO Göran and also
+the work on the transition, right now looking back 12 months as
+of May our turnover rate has dropped down to 9.1%. And a lot of
+it definitely is a credit to the HR team and the management team
+putting a lot of efforts to development of the staff and efforts on
+retaining staff.
+And I turn over to Xavier to cover this slide.
+
+XAVIER CALVEZ:
+
+Thank you, Susanna. On this slide we want to provide an
+overview of the various channels of reporting that contain
+personnel or HR information across everything that ICANN does.
+So most of you know that we have a strategic operating and
+annual operating plan and budget process in which information
+on personnel costs and the head count of the organization
+appears, notably in the annual operating plan and budget. We
+have Board oversight through the various committees of the
+Board who receive information relative to personnel and
+personnel costs, and we mention here the Board finance
+committee, the Board risk committee, the audit committee as
+well, and there is also a Board reporting that occurs on a
+
+Page 43 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+recurring basis that contains a lot of the information that you
+have seen on those previous slides.
+We have also a regulatory type of reporting that occurs through
+our tax form. ICANN, being a tax-exempt entity, has a very large
+tax return to produce every year, as any non-profit organization
+in the U.S. And that tax return contains a lot of information
+relative to personnel and compensation. About half of the tax
+return, which is about 100 page, contains compensation and
+salary information.
+On a quarterly basis, as many of you know, ICANN conducts
+stakeholder calls during which the activity of the previous three
+months is disclosed at a fairly high level of detail and of course
+contain also HR and compensation information. And we also
+publish on a quarterly basis financial statements that are not
+audited. We publish them on a quarterly basis providing a
+statement of operations, a statement of position which is also
+called a balance sheet, and in which there is also compensation
+information or personnel cost information in them.
+On a monthly basis we have mentioned earlier in the
+presentation that we publish our management system coming
+from the system called Workfront. We publish also the monthly
+dashboard. You can look at it every month. A new version of it is
+published every month, and we’re currently in the version one of
+
+Page 44 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+the dashboard, and the versions measure the evolution of the
+dashboards which represents the progress made on refining
+KPIs, notably as a result of the comments that we receive
+through the public comment process of the budget.
+At ICANN meetings, this is also an opportunity to provide
+information and feedback, and we have at most meetings
+except this one first Meeting B, we have organizational
+excellence sessions that cover financials, EFQM, also updates,
+which is in our continuous improvement process, and also risk
+management updates that are usually provided at ICANN
+meetings. So that covers most of the information that is shared
+at different periods of the year on the both the financial area as
+well as the HR and compensation area.
+I think we’re through the slides.
+
+SUSANNA BENNETT:
+
+Yes, with that thank you Xavier and Diane. And thank you again
+for this time, allowing us to share our work with you. Please, any
+questions we welcome your questions and input. Thank you.
+
+GIOVANNI SEPPIA:
+
+Page 45 of 49
+
+Christopher. Could you please open the mic? It’s open.
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+CHRISTOPHER WILKENSON: Is this it? Anyway, could you tell us a little bit more about the
+Human Resource aspect of the transition, and particularly about
+the staffing proposals for post-transition IANA PTI?
+
+XAVIER CALVEZ:
+
+Thank you, Christopher, for this question. So many of you may
+know in relation to Christopher’s question that there’s been a lot
+of ongoing discussion on how to organize the staff who supports
+the IANA functions, and the current proposal from the
+implementation team is to have the IANA dedicated staff being
+seconded into the PTI legal entity. The secondment can be
+described in other words like a lease of employees basically. So
+the employees have a contract with ICANN but are dedicated to
+the IANA functions operations that are hosted within the PTI
+entity.
+There is also a set of resources who are not dedicated to the
+IANA functions but still contribute to the IANA functions. As an
+example, the IANA department of ICANN today utilizes IT
+resources that are not necessarily dedicated to the IANA
+functions, but shared across the entire ICANN organization. So
+there is also a set of resources whose activity contributes to the
+IANA functions. Those resources will remain in ICANN, but the
+costs of the services that these resources provide will be
+nonetheless allocated to the PTI.
+
+Page 46 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+There will be also officers for the PTI, and these officers will be
+including for the general counsel and the treasurer will
+be…those corresponding positions for the PTI will be held by
+ICANN staff simply because those positions are not full-time
+positions within the PTI. And for example, for the treasurer, it
+seems that I will be offered as a candidate to be the treasurer of
+the PTI. It doesn’t have to be me but that’s also a relatively
+natural thing to do.
+So that’s a quick overview of the PTI IANA functions staffing
+approach.
+
+GIOVANNI SEPPIA:
+
+Thank you, Xavier. Any other question? I personally found the
+presentation – I really like to thank Susanna, Diane and Xavier
+for the presentation on the HR, which received quite a lot of
+comments in the past year. And it’s been incredibly useful to see
+how the structure behind what we can see when we read and go
+through the operating plan and budget, and also the strategy.
+And both presentations to wrap up this afternoon session has
+been a long day for everybody. So I like to wrap up a bit earlier
+to allow everybody to breathe a bit before the social
+engagement of the evenings.
+But I’d like to thank all of you – Patrick, Sally, Diane, Susanna,
+Xavier, and all the ICANN staff here in this room because at the
+
+Page 47 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+ccNSO SOP level we have been looking for this kind of excellent
+information and details for a long time. And it’s incredibly
+valuable for us. It will also enable us to provide comments in the
+future round for future strategy plan and operating plan in a
+different way, because now we know that we can contribute
+more and we know also that there is a baseline strategy, a clear
+structure, behind everything that we have been seeing when we
+went through the past year’s strategy plans, operating plan, and
+budget.
+So thanks a lot on behalf of the ccNSO SOP and as Sally said, we
+hope that this can be a session that is replicated in the next
+ICANN meetings and as the ccNSO SOP, I reiterate our
+availability to meet informally any time in the future via phone
+or in person at an ICANN meeting at a local or international level.
+So thank you so much again to all of you. Thank you.
+
+SUSANNA BENNETT:
+
+Thank you very much, Giovanni. I wanted to add that this
+session is very valuable to us to…we want to really put a good
+effort to show the accountability and transparency. It’s very
+important to us that you know this is one of our objectives. So
+thank you for giving us this venue to do so. And definitely look
+forward to the future opportunities. And the HR area is definitely
+a journey, and it’s been an incredibly rewarding journey and we
+
+Page 48 of 49
+
+HELSINKI – Cross-Community: Operational Planning Session
+
+EN
+
+wanted to continue this with the community’s input to be the
+very best, and thank you again.
+
+XAVIER CALVEZ:
+
+Thank you, Susanna. I’ll wrap up very quickly. I think this was a
+first instance of that type of engagement, but I think we have
+already taken note of the next instance. We’ll replicate it, we’ll
+improve it, and please continue to participate and to advertise
+also these type of sessions. And as we go I think we’ll continue to
+improve them to have more participation, maybe more
+information a lot of input. Thank you very much for taking the
+time to attend. It was a well-attended session so thank you for
+that. And thank you very much for the ccNSO SOP Working
+Group that’s been obviously instrumental in making this
+happen. So thank you, Giovanni.
+
+[END OF TRANSCRIPTION]
+
+Page 49 of 49
+
+

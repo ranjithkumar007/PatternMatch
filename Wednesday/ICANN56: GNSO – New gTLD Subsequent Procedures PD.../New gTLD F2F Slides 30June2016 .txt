@@ -1,0 +1,669 @@
+New gTLD Subsequent Procedures – WG Sessions
+ICANN56 | Wednesday, 29 June 2016 from 1045-1500
+
+Agenda
+
+1
+
+2
+
+3
+
+Session 1:
+Discussion of
+overarching issues
+and input received
+
+Break/Gap from
+1200-1330
+
+Session 2: work
+tracks, questions for
+consideration, and
+logistics
+
+Break until 13301500 session
+
+Here’s a place to
+introduce your fifth
+agenda item from
+your talk.
+
+Here’s a place to
+introduce your sixth
+agenda item from
+your talk.
+
+| 2
+
+Introductions
+
+Face to Face – Session 1
+Discussion of Overarching Issues and
+Input Received
+
+Overarching Issues
+•
+•
+
+Questions	sent	to	community	organizations	on	11	June,	requesting	response	by	25	July
+• Is	there	any	early	feedback	available?
+Topics:
+• Additional	new	gTLDs in	the	future.
+• Categorization	or	differentiation	of	gTLDs (for	example	brand,	geographical,	or	
+supported/community)	in	ongoing	new	gTLD mechanisms.
+• Future	new	gTLDs assessed	in	“rounds.”
+• Predictability	should	be	maintained	or	enhanced	without	sacrificing	flexibility.	In	the	event	
+changes	must	be	introduced	into	the	new	gTLD Application	process,	the	disruptive	effect	to	all	
+parties	should	be	minimized.
+• Community	engagement	in	new	gTLD application	processes.
+• Limiting	applications	in	total	and/or	per	entity	during	an	application	window.	
+
+| 5
+
+1. Additional new gTLDs in the future.
+1.a:	The	2007	consensus	policy	above	expressed	the	commitment	to	an	ongoing	mechanism	for	the	
+introduction	of	new	gTLDs.		Are	there	any	facts	and/or	circumstances	that	have	changed	such	that	you	
+believe	this	should	no	longer	be	the	policy?	Please	explain.
+1.b:	Would	the	absence	of	an	ongoing	mechanism	have	an	anti-competitive	effect	for	potential	
+applicants?
+1.c:	Are	ongoing	mechanisms	for	the	introduction	of	additional	new	gTLDs necessary	to	achieving	
+sufficient	diversity	(e.g.,	choice	and	trust)	in	terms	of	domain	extensions?	Please	explain.
+1.d:	Is	it	too	early	in	the	review	cycle	of	the	previous	round	to	determine	the	full	range	of	benefits	of	
+the	2012	round	of	new	gTLDs?	Should	that	impact	the	decision	to	introduce	additional	new	gTLDs
+and/or	the	timing	of	ongoing	mechanisms	for	new	gTLDs?
+1.e:	What	additional	considerations	should	be	taken	into	account	before	deciding	on	ongoing	
+mechanisms	for	new	gTLDs (e.g.,	to	cancel	ongoing	mechanisms	for	new	gTLDs via	policy	changes)?
+1.f:	Any	other	Issues	related	to	this	overarching	subject.
+
+| 6
+
+2. Categorization or differentiation of gTLDs in ongoing new gTLD mechanisms.
+2.a:	Should	subsequent	procedures	be	structured	to	account	for	different	categories	of	gTLDs?
+Note,	several	possible	categories	have	been	suggested	by	PDP	WG	members,	including:
+Open	Registries	
+Geographic
+Brand	(Specification	13)
+Intergovernmental	Organization
+Community
+Validated	- Restricted	Registries	with	qualification	criteria	that	must	be	verified
+Not-for-profit	or	non-profit	gTLDs,	NGOs
+Highly	Regulated	or	‘Sensitive’	TLDs
+Exclusive	Use	Registries	(Keyword	Registry	limited	to	one	registrant	&	affiliates)	or
+Closed	Generics
+TLD	with	applicant	self-validated	restrictions	and	and	enforcement	via	Charter	Eligibility	Dispute	
+Resolution	Policy,	e.g.	.name	and	.biz
+
+| 7
+
+2. Categorization or differentiation of gTLDs in ongoing new gTLD mechanisms, cont.
+
+The	following	questions	refer	to	this	list	of	possible	categories:
+2.b:	Are	additional	categories	missing	from	the	list?	If	so,	what	categories	should	be	added?
+2.c:	Do	all	categories	identified	by	the	PDP	WG	members	belong	in	the	list?
+2.d:	If	categories	are	recognized,	in	what	areas	of	the	application,	evaluation,	contention	resolution	
+and/or	contracting	processes	would	the	introduction	of	categories	have	a	likely	impact?	
+2.e:	If	different	categories	of	gTLD are	defined,	should	all	types	be	offered	in	each	application	window?	
+Is	it	acceptable	for	an	application	window	to	open	for	only	one	or	a	limited	subset	of	categories	of	
+gTLDs (e.g.	a	.Brands	only	application	window)
+2.f:	Any	other	issues	related	to	this	overarching	subject:
+Specification	13	to	the	Registry	Agreement	(RA)	provides	certain	modifications	to	to	the	RA	for	
+applicants	that	qualify	as	a	.Brand	TLD.	For	additional	information,	please	see	the	Specification	13	
+section	here:	https://newgtlds.icann.org/en/applicants/agb/base-agreement-contracting
+
+| 8
+
+3. Future new gTLDs assessed in “rounds.”
+3.a:	Should	we	continue	to	assess	applications	for	new	gTLDs in	“rounds.”	If	not,	how	could	you	
+structure	an	alternative	application	window	for	accepting	and	assessing	applications	while	at	the	same	
+time	taking	into	consideration	public	comments,	objections,	evaluation,	contention	resolution,	etc.?
+3.b:	How	would	the	assessment	of	applications	in	a	method	other	than	in	“rounds”	impact	rights	
+holders,	if	at	all?	
+3.c:	Does	restricting	applications	to	“rounds”	or	other	cyclical	application	models	lead	to	more	
+consistent	treatment	of	applicants?
+3.d:	Should	“rounds”	or	other	cyclical	application	models	be	used	to	facilitate	reviews	and	process	
+improvement?
+3.e	Do	“rounds”	lead	to	greater	predictability	for	applicants	and	other	interested	parties?
+3.f:	Do	“rounds”	add	latency	to	the	evaluation	and	approval	of	an	application,	leading	to	longer	times	
+to	market?
+3.g:	Do	“rounds”	create	artificial	demand	and/or	artificial	scarcity?
+3.h:	Does	time	between	“rounds”	lead	to	pent	up	demand?	
+3.i:	What	is	an	ideal	interval	between	“rounds?”	Please	explain.
+3.j:	Any	other	issues	related	to	this	overarching	subject:
+| 9
+
+4. Predictability
+
+4.a:	Was	the	round	of	2012	sufficiently	predictable	given	external	factors,	while	balancing	the	need	to	
+be	flexible?	Please	explain.
+4.b:	Do	the	changes	implemented	as	a	result	of	the	establishment	of	Cross	Community	Working	
+Groups	and	the	adoption	of	the	principles	and	processes	from	the	Policy	and	Implementation	Working	
+Group	suffice	to	maintain	predictability	of	the	application	process	while	at	the	same	time	provide	for	
+the	needed	flexibility	to	address	changes	of	circumstances?	
+4.c:	What	are	the	impacts	on	applicants,	users		and	related	parties	from	a	process	that	lacks	
+predictability?	
+4.d:	Any	other	issues	related	to	this	overarching	subject:
+
+| 10
+
+5. Community engagement in new gTLD application processes
+
+5.a:	Are	there	circumstances	in	which	the	application	window	should	be	frozen	while	unforeseen	
+policy	issues	are	considered	and	resolved?	If	so,	should	there	be	a	threshold	or	standard	that	must	be	
+reached	before	considering	freezing	an	application	window?
+5.b:	If	the	Board	is	faced	with	questions	that	cannot	be	addressed	by	the	policy	recommendations	they	
+were	sent,	must	the	Board	bring	the	issue	back	to	the	GNSO	and	PDP	process	(e.g.,	the	GNSO	
+Expedited	PDP	or	GNSO	Guidance	Process)?
+5.c:	Should	a	standard	be	established	to	discriminate	between	issues	that	must	be	solved	during	an	
+open	application	window	and	those	that	can	be	postponed	until	a	subsequent	application	window?	
+Please	give	an	example.
+5.d:	Any	other	issues	related	to	this	overarching	subject.
+
+| 11
+
+6. Limiting applications
+
+6.a:	Should	a	limit	for	the	total	number	of	applications	for	an	application	window	and/or	from	a	single	
+entity	be	established?	If	so,	what	should	be	the	limiting	factor	(e.g.,	total	application,	total	number	of	
+strings,	etc.)	and	why?
+6.b:	If	a	limit	for	the	total	number	of	applications	for	an	application	window	and/or	from	a	single	entity	
+is	established,	how	would	the	appropriate	amount	of	applications	be	set	to	establish	this	limit?
+6.c:	If	a	limit	for	the	total	number	of	applications	for	an	application	window	and/or	from	a	single	entity	
+is	established,	what	mechanism(s)	could	be	used	to	enforce	limit(s)?
+6.d:	How	would	a	limit	on	the	total	number	of	applications	for	an	application	window	and/or	from	a	
+single	entity	impact	fees?
+6.e:	Would	limits	to	the	total	number	of	applications	for	an	application	window	and/or	from	a	single	
+entity	be	considered	anti-competitive?		Please	explain.
+6.f:	Do	limits	to	the	total	number	of	applications	for	an	application	window	and/or	from	a	single	entity	
+favor	“insiders?
+6.g:	Any	other	issues	related	to	this	overarching	subject:
+
+| 12
+
+Open Questions
+
+1.	Are	there	further	overarching	issues	or	considerations	that	should	be	discussed	in	the	New	gTLDs
+Subsequent	Procedures	PDP	WG	?
+2.	Are	there	additional	steps	the	PDP	WG	should	take	during	the	PDP	process	to	better	enable	
+community	engagement?
+
+| 13
+
+Discussion of input from cross community session
+•
+•
+•
+•
+•
+•
+
+Update	– Cross	Community	Working	Group	on	the	Use	of	Country	and	Territory	Names
+Update	– Competition,	Consumer	Trust	&	Consumer	Choice	Review	Team
+Promoting	applications	from	underserved	regions/developing	countries
+Community	applications
+Geographic	Names	and	other	Names	of	public	interest
+Safeguards	/	PICs
+
+Topics	Not	Covered	During	Session
+• How	can	implementation	work	proceed	in	parallel	with	policy	development?
+• Streamlining	the	.Brand	process	(time-permitting)?
+
+| 14
+
+Face to Face – Session 2
+Work Tracks, Questions for
+Consideration, and Logistics
+
+Overarching Subjects for which the WG is seeking community comment
+• Additional gTLDs in the Future: Should there in fact be new gTLD subsequent
+procedures and if not, what are the justifications for and ramifications of
+discontinuing the program?
+• TLD Differentiation: e.g. Brands, Geos, Communities – Does one size fit all? How
+to account for different categories?
+• Assessing Future gTLDs in “Rounds” depending on Scale of Demand: What are
+the metrics, methods and implications?
+• Predictability: Does community agree with WG’s assessment that this does not
+require policy development work? Regardless, are there unforeseen
+circumstances that would require policy work?
+• Community Engagement: Does community agree with WG’s assessment that
+this does not require policy development work?
+• Limiting applications in total and/or per entity during an application window: Not
+foreseen in 2007 policy – what requirements and assessment/enforcement
+mechanisms might be needed?
+• Others: How can the WG better enable community engagement during the PDP?
+| 16
+
+Proposed Work Track 1: Process / Support / Outreach
+• Applicant Guidebook (AGB): Is the AGB the right implementation of the
+GNSO recommendations for all parties (ROs, RSPs, Escrow Providers)?
+• Clarity of Application Process: How can the application process avoid
+developing processes on an as-needed basis (e.g., clarifying question
+process, change request process, customer support, etc.)
+• Applications Processing? Rounds? FCFS? Other window methodology?
+• Accreditation Programs: As there appears to be a limited set of technical
+service and Escrow providers, would the program benefit from an
+accreditation program for third party service providers? If so, would this
+simplify the application process with a set of pre-qualified providers to
+choose from?
+• Systems: How can the systems used to support the New gTLD Program,
+such as TAS, Centralized Zone Data Service, Portal, etc. be made more
+robust, user friendly, and better integrated?
+• Application Fees: Evaluate accuracy of cost estimates and/or review the
+methodology to develop the cost model.
+• Support for Applicants From Developing Countries
+| 17
+
+Proposed Work Track 2: Legal / Regulatory
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Reserved Names List and Mechanism for Release
+Base Registry Agreement / Differentiation?
+PICs? Is this the right way to implement restrictions?
+Registrant Protections
+Contractual Compliance
+Registry/Registrar Separation
+Registrar Non-Discrimination
+TLD Rollout
+2nd Level RPCs
+Global Public Interest / GAC Advice / Safeguards
+IGO / INGO Protections
+Closed Generics
+
+| 18
+
+Proposed Work Track 3: String Contention / Objections & Disputes
+
+•
+•
+•
+•
+•
+•
+
+Freedom of Expression vs. GAC Advice, community processes and
+reserved names
+String Similarity Evaluations (Effective? Fair? Efficient?)
+Objections – Review rules around standing, fees, consolidation,
+consistency of outcomes? Appeals? Oversight over Process/
+Role of Independent Objector
+Accountability Mechanisms
+Community Applications and Community Priority Evaluations
+
+| 19
+
+Proposed Work Track 4: Internationalized Domain Names, Technical & Operational
+•
+
+•
+•
+•
+•
+•
+
+Internationalized Domain Names and Universal Acceptance: Consider how
+to encourage adoption of gTLDs. Evaluate whether rules around IDNs
+properly accounted for recommendations from IDN WG. Determine and
+address policy guidance needed for the implementation of IDN variant TLDs.
+Security and Stability: Were the proper questions asked to minimize the risk
+to the DNS and ensure that applicants will be able to meet their obligations in
+the registry agreement?
+Should there be non-scored questions and if so, how should they be
+presented?
+Were the proper criteria established to avoid causing technical instability?
+Applicant Reviews: Technical/Operational and Financial: Were Financial and
+Technical criteria designed properly to allow applicants to demonstrate their
+capabilities while allowing evaluators to validate their capabilities?
+Name Collision: What measures may be needed to manage risks for 2012round gTLDs beyond their 2 year anniversary of delegation, or gTLDs
+delegated prior to the 2012 round?
+| 20
+
+Proposed Work Track 5: Operational Implementation Guidance
+
+•
+
+Subjects TBD – identify subjects that do not require policy development and
+where implementation guidance could be provided before PDP is complete.
+
+•
+
+Question: Is there support for a work track such as this, which could be
+added to as new subjects are determined to not require policy
+recommendations, but would benefit from implementation guidance?
+
+| 21
+
+Proposed Questions
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+Are the subjects categorized in a logical manner?
+Should any subjects be shifted to another track?
+Is there meaningful overlap between subjects or between work tracks?
+Are there dependencies amongst subjects that should be considered when
+sequencing the WG reviews?
+Are there certain subjects that can be determined even now to not likely
+require policy development?
+With work being managed by sub teams, how will all of the work tracks and
+subjects be considered holistically?
+Are there data gathering needs foreseen in the near future?
+Is there value in having WG members review the Applicant Guidebook to
+determine where:
+• The implementation was not a result of policy recommendations
+• The implementation did not follow policy recommendations
+• The policy recommendations requires changes
+Is there value in attempting to determine which topics are most important to
+resolve (e.g., assign level of importance to topics)?
+| 22
+
+Sub Group Logistics
+
+•
+•
+•
+•
+
+When should sub groups begin operations?
+What resources are needed?
+• Mailing lists, Wiki pages, volunteers for leadership positions, signup
+for subgroups, etc.
+How will volunteers be collected? Sign up pages on the Wiki?
+How often should the sub group meetings be held in order to allow for
+volunteers to participate adequately?
+
+| 23
+
+PDP WG Information
+
+¤
+
+PDP WG Wiki: https://community.icann.org/x/RgV1Aw
+
+¤
+
+PDP WG Charter: https://community.icann.org/x/KAp1Aw
+
+¤
+
+PDP Work Plan: https://community.icann.org/x/NAp1Aw
+
+| 24
+
+Annex A
+Existing policy recommendations from 2007
+Final Report on the Introduction of New gTLDs
+
+2007 GNSO Policy Recommendations: 7 Principles
+PRINCIPLES MISSION & CORE VALUES
+A
+B
+C
+
+D
+
+E
+
+F
+G
+
+New generic top-level domains (gTLDs) must be introduced in an orderly, timely and
+predictable way.
+Some new generic top-level domains should be internationalised domain names (IDNs)
+subject to the approval of IDNs being available in the root.
+The reasons for introducing new top-level domains include that there is demand from
+potential applicants for new top-level domains in both ASCII and IDN formats. In addition
+the introduction of new top-level domain application process has the potential to promote
+competition in the provision of registry services, to add to consumer choice, market
+differentiation and geographical and service-provider diversity.
+A set of technical criteria must be used for assessing a new gTLD registry applicant to
+minimise the risk of harming the operational stability, security and global interoperability of
+the Internet.
+A set of capability criteria for a new gTLD registry applicant must be used to provide an
+assurance that an applicant has the capability to meets its obligations under the terms of
+ICANN's registry agreement.
+A set of operational criteria must be set out in contractual conditions in the registry
+agreement to ensure compliance with ICANN policies.
+The string evaluation process must not infringe the applicant's freedom of expression
+rights that are protected under internationally recognized principles of law.
+| 26
+
+19 Recommendations (1/3)
+1
+
+2
+3
+
+ICANN must implement a process that allows the introduction of new top-level domains.
+The evaluation and selection procedure for new gTLD registries should respect the
+principles of fairness, transparency and non-discrimination.
+All applicants for a new gTLD registry should therefore be evaluated against transparent
+and predictable criteria, fully available to the applicants prior to the initiation of the
+process. Normally, therefore, no subsequent additional selection criteria should be used
+in the selection process.
+
+Strings must not be confusingly similar to an existing top-level domain or a Reserved
+Name.
+Strings must not infringe the existing legal rights of others that are recognized
+or enforceable under generally accepted and internationally recognized principles of law.
+Examples of these legal rights that are internationally recognized include, but are not
+limited to, rights defined in the Paris Convention for the Protection of Industry Property (in
+particular trademark rights), the Universal Declaration of Human Rights (UDHR) and the
+International Covenant on Civil and Political Rights (ICCPR) (in particular freedom of
+expression rights).
+
+4
+
+Strings must not cause any technical instability.
+
+5
+
+Strings must not be a Reserved Word.
+| 27
+
+19 Recommendations (2/3)
+6 Strings must not be contrary to generally accepted legal norms relating to morality and
+public order that are recognized under international principles of law.
+Examples of such principles of law include, but are not limited to, the Universal Declaration
+of Human Rights (UDHR), the International Covenant on Civil and Political Rights (ICCPR),
+the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)
+and the International Convention on the Elimination of All Forms of Racial Discrimination,
+intellectual property treaties administered by the World Intellectual Property Organisation
+(WIPO) and the WTO Agreement on Trade-Related Aspects of Intellectual Property (TRIPS).
+7 Applicants must be able to demonstrate their technical capability to run a registry operation
+for the purpose that the applicant sets out.
+8 Applicants	must	be	able	to	demonstrate	their	financial	and	organisational	operational	capability.
+9 There must be a clear and pre-published application process using objective and
+measurable criteria.
+1 There must be a base contract provided to applicants at the beginning of the application
+0 process.
+1 [Replaced with Recommendation 20 and Implementation Guideline P and inserted into Term
+1 of Reference 3 Allocation Methods section]
+| 28
+
+19 Recommendations (3/3)
+12
+13
+
+Dispute resolution and challenge processes must be established prior to the start of the
+process.
+Applications must initially be assessed in rounds until the scale of demand is clear.
+
+14
+
+The initial registry agreement term must be of a commercially reasonable length.
+
+15
+
+There must be renewal expectancy.
+
+16
+
+Registries must apply existing Consensus Policies and adopt new Consensus Policies
+as they are approved.
+
+17
+
+A clear compliance and sanctions process must be set out in the base contract which
+could lead to contract termination.
+
+18
+
+If an applicant offers an IDN service, then ICANN's IDN guidelines must be followed.
+
+19
+
+Registries must use only ICANN accredited registrars in registering domain names and
+may not discriminate among such accredited registrars.
+
+20
+
+An application will be rejected if an expert panel determines that there is substantial
+opposition to it from a significant portion of the community to which the string may be
+explicitly or implicitly targeted.
+
+| 29
+
+Implementation Guidelines (1/5)
+MISSION & CORE VALUES
+IG A The application process will provide a pre-defined roadmap for applicants that
+encourages the submission of applications for new top-level domains.
+IG B Application fees will be designed to ensure that adequate resources exist to cover the
+total cost to administer the new gTLD process.
+Application fees may differ for applicants.
+IG C ICANN will provide frequent communications with applicants and the public including
+comment forums.
+IG D A first come first served processing schedule within the application round will be
+implemented and will continue for an ongoing process, if necessary.
+Applications will be time and date stamped on receipt.
+IG E The application submission date will be at least four months after the issue of the
+Request for Proposal and ICANN will promote the opening of the application round.
+IG F If there is contention for strings, applicants may:
+i) resolve contention between them within a pre-established timeframe
+ii) if there is no mutual agreement, a claim to support a community by one party will
+be a reason to award priority to that application. If there is no such claim, and
+no mutual agreement a process will be put in place to enable efficient
+resolution of contention and;
+iii) the ICANN Board may be used to make a final decision, using advice from staff
+and expert panels.
+| 30
+
+Implementation Guidelines (2/5)
+IG G
+
+Where an applicant lays any claim that the TLD is intended to support a particular
+community such as a sponsored TLD, or any other TLD intended for a specified
+community, that claim will be taken on trust with the following exceptions:
+(i) the claim relates to a string that is also subject to another application and the claim
+to support a community is being used to gain priority for the application; and
+(ii) a formal objection process is initiated.
+Under these exceptions, Staff Evaluators will devise criteria and procedures to
+investigate the claim.
+Under exception (ii), an expert panel will apply the process, guidelines, and definitions
+set forth in IG P.
+
+IG H
+
+External dispute providers will give decisions on objections.
+
+IG I
+
+An applicant granted a TLD string must use it within a fixed timeframe which will be
+specified in the application process.
+
+IG J
+
+The base contract should balance market certainty and flexibility for ICANN to
+accommodate a rapidly changing market place.
+
+| 31
+
+Implementation Guidelines (3/5)
+
+IG K
+
+ICANN should take a consistent approach to the establishment of registry fees.
+
+IG L
+
+The use of personal data must be limited to the purpose for which it is
+collected.
+
+IG M
+
+ICANN may establish a capacity building and support mechanism aiming at
+facilitating effective communication on important and technical Internet
+governance functions in a way that no longer requires all participants in the
+conversation to be able to read and write English.
+
+IG N
+
+ICANN may put in place a fee reduction scheme for gTLD applicants from
+economies classified by the UN as least developed.
+
+IG O
+
+ICANN may put in place systems that could provide information about the
+gTLD process in major languages other than English, for example, in the six
+working languages of the United Nations.
+
+| 32
+
+Implementation Guidelines (4/5)
+IG P
+
+The following process, definitions and guidelines refer to Recommendation 20.
+Process
+Opposition must be objection based.
+Determination will be made by a dispute resolution panel constituted for the purpose.
+The objector must provide verifiable evidence that it is an established institution of
+the community (perhaps like the RSTEP pool of panelists from which a small panel
+would be constituted for each objection).
+Guidelines
+The task of the panel is the determination of substantial opposition.
+a) substantial
+b) significant portion
+c) community
+d) explicitly targeting
+e) implicitly targeting
+f) established institution
+The following ICANN organizations are defined as established institutions: GAC,
+ALAC, GNSO, ccNSO, ASO.
+g) formal existence
+h) detriment
+
+| 33
+
+Implementation Guidelines (5/5)
+
+IG Q
+
+ICANN staff will provide an automatic reply to all those who submit public
+comments that will explain the objection procedure.
+
+IG R
+
+Once formal objections or disputes are accepted for review there will be a
+cooling off period to allow parties to resolve the dispute or objection before
+review by the panel is initiated.
+
+| 34
+
+

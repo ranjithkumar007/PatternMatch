@@ -1,0 +1,190 @@
+DNS  delegation  verification tool
+Mats  Dufberg
+IIS
+
+Sandoche Balakrichenan
+AFNIC
+
+DNS  validation  tool
+• It  is  a  DNS  validation  tool  and  it  reports  on  errors  
+in  delegation.
+• It  can  also  test  planned  delegation  before  it  is  
+delegated  (pre-­delegation  test).
+• All  Zonemaster tests  are  based  on  DNS  
+standards  and  DNS  best  current  practice.
+• It  comes  with  a  complete  web  GUI  and  CLI.
+
+iis.se    
+afnic.fr
+
+Zonemaster roots
+• Project  started  in  October  2013.
+• Joint  effort  of  IIS  and  AFNIC.
+• Zonemaster replaces  the  IIS  DNSCheck and  the  
+AFNIC  Zonecheck.
+• It  is  stable  and  publicly  released  in  February  
+2015.
+
+iis.se    
+afnic.fr
+
+Zonemaster in  brief
+• Open  source    program  written  in  Perl  
+(+javascript)  and  open  documentation.
+• Multiple  tests  are  run  on  tested  domain.
+• Provides  FAIL/WARNING/NOTE/OK  output.
+• Outputs  in  English,  French,  Swedish  and  other  
+translations  are  welcome.
+
+iis.se    
+afnic.fr
+
+Open  requirements  and  specifications
+• A Centr WG  has  created  common  requirements  
+on  DNS  delegations  based  on  input  from  the  
+Zonemaster work.
+• An  Internet  draft  of  the  Centr work  is  available.
+• Is  based  on  documented  test  specifications  that  
+are  publically  available.
+• What  Zonemaster does  is  not  hidden  in  the  
+code.
+iis.se    
+afnic.fr
+
+Categories
+• The  60  tests  specifications  are  split  into  categories:
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+Basic
+Address
+Connectivity
+Consistency
+Delegation
+DNSSEC
+Name  Server
+Syntax
+Zone
+
+• Any  error,  warning  or  informational  message  will  
+point  back  to  the  specification  that  it  came  from.
+iis.se    
+afnic.fr
+
+Program  architecture
+• Zonemaster consists  of  building  blocks  
+with  clear  APIs.
+• The  engine  performs  all  tests.
+• The  CLI  is  for  command  line  usage.
+• The  backend  handles  the  queries  from  the  
+frontend.
+• The  frontend  is  the  interface  to  the  web  
+user.
+Frontend
+Web  GUI
+(service)
+
+CLI
+
+iis.se    
+afnic.fr
+
+Engine
+(library)
+
+Backend
+(service)
+
+Zonemaster Engine
+• The  engine  is  a  Perl  module  found  at  CPAN.
+• All  translation  to  other  languages  is  done  in  the  
+engine.  The  CLI  and  backend  select  available  
+languages  via  API.
+• The  modular  structure  makes  it  fairly  easy  to  add  
+new  tests.
+• The  engine  can  be  used  in  your  own  program.
+
+iis.se    
+afnic.fr
+
+Zonemaster Backend
+• The  backend  handles  the  queries  that  comes  
+from  the  web  user  via  the  frontend.
+• It  is  a  service  (daemon)  that  accepts  queries  and  
+send  them  to  the  engine.
+• The  backend  has  a  database  that  stores  the  
+completed  queries  and  they  can  be  retrieved  by  
+the  frontend.
+• The  API  to  the  frontend  uses  JSON  over  HTTP.
+• The  backend  can  be  called  by  your  own  
+application.
+iis.se    
+afnic.fr
+
+Zonemaster Frontend
+• The  frontend  is  the  web  GUI  for  the  users.
+• The  frontend  is  a  service  (daemon).
+• The  frontend  can  run  on  a  different  server  from  
+the  backend.
+• The  frontend  can  be  viewed  and  tested  at  
+zonemaster.net.
+• You  can  modify  your  own  installation  of  the  GUI  
+for  your  own  look-­and-­feel.
+iis.se    
+afnic.fr
+
+Configurable
+• The  test  profile  can  be  adapted  to  your  
+requirements  by  disabling  tests.
+• The  test  policy  can  be  adapted  to  your  
+requirements  by  increasing  or  decreasing  the  
+severity  of  a  deviation.
+• A  filter  feature  from  next  release  adds  a  fine-­
+grained  control  of  the  policy  per  name  server.
+
+iis.se    
+afnic.fr
+
+Installations  and  the  future
+•
+•
+•
+•
+•
+
+CIRA  has  an  installation  for  .ca.
+IIS  works  on  an  installation  for  .se  and  .nu.
+RIPE  NCC  works  on  an  installation.
+More  installations  to  come.
+IIS  and  AFNIC  are  dedicated  to  support  
+Zonemaster.
+• Users  and  contributors  are  welcome!
+
+iis.se    
+afnic.fr
+
+References
+• Try  out  Zonemaster at  https://zonemaster.net/
+• Everything  is  found  at  
+https://github.com/dotse/zonemaster/
+• Draft:  https://tools.ietf.org/html/draft-­wallstrom-­
+dnsop-­dns-­delegation-­requirements-­00
+• Test  specifications:    
+https://github.com/dotse/zonemaster/tree/master
+/docs/specifications/tests
+iis.se    
+afnic.fr
+
+• Questions  and  comments?
+
+iis.se    
+afnic.fr
+
+

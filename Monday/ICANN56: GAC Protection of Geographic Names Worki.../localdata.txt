@@ -1,0 +1,13 @@
+Folder Location (Path) - /home/ranjithkumar/hargup/Monday/ICANN56: GAC Protection of Geographic Names Worki...
+
+Name of the Present Directory - ICANN56: GAC Protection of Geographic Names Worki...
+
+word being checked is jurisdiction
+
+                  File Name   	                                            Number of Times jurisdiction appeared
+1. TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting ru         Not Found in this file
+2. TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting es         Not Found in this file
+3. TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting en         Not Found in this file
+4. TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting ar         Not Found in this file
+5. TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting fr         Not Found in this file
+6. TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting pt         Not Found in this file

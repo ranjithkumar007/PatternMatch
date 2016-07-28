@@ -1,0 +1,167 @@
+.nz Registrar Portal
+Jay Daley
+
+Quick background
+• Standalone web application
+• Launched in January 2015
+• Replaced section of main web site
+with registrar transaction data
+• Started phase 2 dev in April 2016
+• No usage stats
+
+ICANN 56 Helsinki
+
+June 2016
+
+2
+
+Original objectives
+Influencing registrars
+•
+
+Reduce support costs
+
+•
+
+Increase .nz sales by helping registrars to
+
+•
+
+Improve quality of TLD by nudging registrars
+
+Financial: late payments, invoice resends, etc
+Technical: registration system errors
+…
+…
+…
+…
+
+find new markets / customers / sales
+improve their sales process
+understand their customers better
+retain customers by timely intervention
+
+… improve quality WHOIS data
+… manage DNS better
+… act quickly on phishing / compromised sites
+ICANN 56 Helsinki
+
+June 2016
+
+3
+
+Things it musn’t do
+• Create a class of registrars who don't use
+EPP and our proprietary equivalent
+• Allow one part of a registrar to work in an
+uncoordinated way with another part
+• Do things in private that we should do in
+public
+• Provide a new way to attack a domain
+• Substantially increase support costs
+So no functionality that duplicates EPP !
+ICANN 56 Helsinki
+
+June 2016
+
+4
+
+LIVE DEMO
+
+ICANN 56 Helsinki
+
+June 2016
+
+5
+
+Recap
+• Transaction data
+Split into sections – each with specific aim
+Gentle gamification
+
+• Opportunities
+Lists they can use to upsell, cross-sell, retain
+No tracking, no pushing, up to them to use
+
+• Quality
+Bad WHOIS data – nightly text pattern matching
+SRS/EPP errors – straight from system
+Zone errors – from our weekly zone scan
+Compromised / phishing sites – external feeds
+ICANN 56 Helsinki
+
+June 2016
+
+6
+
+ICANN 56 Helsinki
+
+June 2016
+
+7
+
+Technical info
+•
+•
+•
+•
+
+Ruby on Rails web app
+AmCharts for charting
+Standalone PostgreSQL database
+Threat intelligence feeds:
+Shadowserver compromised sites for .nz (free)
+Openphish Premium (free)
+APWG BlockList (through paid membership)
+
+ICANN 56 Helsinki
+
+June 2016
+
+8
+
+Plans and underlying tech
+• Anonymous ranking
+“You are #1 WORST for quality”
+
+• Support role splits within registrars
+Access controlled roles
+
+• Access to more registrant data
+2FA
+
+• Industry categorisation
+Using our machine learning tools
+
+ICANN 56 Helsinki
+
+June 2016
+
+9
+
+Possible future
+• Probabilistic modelling of cancellations
+Renewal intervention points
+
+• Extend model to domain ‘value’
+Historical lifetime value of domain names.
+Projected value of recently acquired
+domains/registrants (if we can build model)
+Historical lifetime value of registrants
+
+• Refine algorithm for detecting portfolios
+Understand portfolio customers
+Registrants with growing / falling portfolios
+
+ICANN 56 Helsinki
+
+June 2016
+
+10
+
+Thanks
+Any questions?
+Contact: jay@nzrs.net.nz
+www.nzrs.net.nz
+
+

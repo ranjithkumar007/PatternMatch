@@ -1,0 +1,1684 @@
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 1
+
+Transcript ICANN Helsinki
+GNSO – Universal Steering Group- Monday, 27 June 2016
+Note: The following is the output of transcribing from an audio. Although the transcription is largely
+accurate, in some cases it is incomplete or inaccurate due to inaudible passages or transcription errors. It
+is posted as an aid to understanding the proceedings at the meeting, but should not be treated as an
+authoritative record.
+
+Ram Mohan:
+
+Welcome, good afternoon, good day to wherever you are. We’re here in
+lovely Helsinki. And we’re at the workshop on universal acceptance. This is
+the UASG, the Universal Acceptance Steering Group. My name is Ram
+Mohan. I’m the chair of the steering group. And it’s wonderful to see not only
+a good group here, but a diverse group with representation from not only
+different parts of industry, but also from different parts of the world.
+The issue of universal acceptance itself is at straightforward issue. But the
+problem that is straightforward, the solution set seems to not be as
+straightforward, which is fairly common thing in technology, right?
+I wanted to start off with a little bit of a personal story myself and share with
+you, especially for those of you who haven’t heard this before, my own
+induction, if you will, into universal acceptance. In 2001 the company I work
+for, Afilias, was awarded the dotInfo top level domain. And we were very
+excited that we had the first new gTLD that we were going to bring out into
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 2
+
+the world. We had an excellent launch and we considered the fact that there
+were many people who registered domain names by itself, to be a success.
+And shortly thereafter, measured in the space of weeks, my phone started to
+ring with people who had registered domain names complaining that they
+were unable to use them. And, when I was asking, what do you mean unable
+to use? They were giving me some really interesting examples. There was
+one person who told me they were trying to register for an account on a
+Website, and the account asked for their email address to send a
+confirmation.
+They put in their email address as dotInfo and the Website said, we don’t
+recognize this; this is not a valid name. And there was nothing they could do.
+And they had to default to some other address that they had. I thought that
+was just a one-off. But soon my – not only did we end up getting phone calls
+but our customer support line started to get inundated. And it became more
+than just websites that were not accepting it. We also learned that emails that
+were being sent with that dotInfo address were simply disappearing. It was
+potentially reaching ISPs and then it just died. It dropped and it was just put
+into the bucket.
+A little bit of digging found that some ISPs had configured their systems to
+say what an acceptable top level domain was and it was just a clear
+definition. It had to be either three or two characters in length and it had to be
+only in ASCII.
+Now that as my own personal story getting into it. And the biggest problem
+that I had actually at that time was trying to get anybody on the other side to
+do anything about it. Reaching someone, being able to reach someone at
+Yahoo or trying to reach someone at a bank or trying to reach someone at an
+email provider was an incredibly difficult task, and I ended up eventually, we
+were a four-person company at that time, I ended up creating the office of the
+CTO. And I ended up writing letters on letterhead, we didn’t have a
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 3
+
+letterhead, I had to build one. Built a letterhead and put a letter in, signed it,
+put into a FedEx envelope and sent it to the office of the CTO of these big
+companies and then it got opened and then I did get calls back because it
+looked real, looked legitimate, right.
+Now it doesn’t really scale. And on a global basis that kind of a model doesn’t
+work. So that’s a personal story. But the real idea is this problem from 2000
+and that kind of got exposed in 2001, has become far more exacerbated with
+the growth of the Internet, with the growth of operating systems, and
+applications and mobile devices. And perhaps it has been brought to the
+greatest light with the expansion of new IDNs, with all of the thousand plus
+new TLDs that have come in.
+The world has changed. A valid domain name is no longer a domain name
+that is three characters or two characters long. A valid domain name is no
+longer a domain name that is in ASCII. And a valid email is no longer an
+email that has just something at something dot ASCII either. In fact, a valid
+email is now – it could be IDN, it could be internationalized all the way,
+including to the left of the “at” symbol. And how does that work? How does it
+get accepted? Is a part of the issue and a part of the problem set that we are
+– we’re looking to solve.
+So a year and a half ago a community effort developed. We spoke with
+several folks. And what became very clear very quickly was that this was a
+real problem, a real issue. And so we kind of self-gathered. We got together
+at a meeting and there was a groundswell of support to build kind of a group
+that would focus on universal acceptance, and focus especially on three
+things.
+First, to clearly define the nature of the problem, because that was not well
+defined before. So that was a very important thing. The second thing was to
+understand and define the targets to whom we had to go and approach.
+Because in some cases, this is a technical problem that should just be solved
+
+Author
+Deleted: internet
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 4
+
+by technologists. In other cases, this is really an advocacy and a
+management problem that has to reach the C levels of corporations and C
+levels of organizations everywhere, right? So that was the second big focus.
+The third was to look at where the current set of standards and protocols and
+where things stand. And to, at the very least, shine a light on where gaps
+exist and try to find a way to bridge those gaps. So if you look at the mission,
+if you will, of the UASG, that’s really the – what we’re looking to do. We have
+been fortunate that ICANN has provided the funding for this effort to take
+place and to get going.
+This is – UASG is not an ICANN body, it’s not an ICANN organization. This is
+a community that comes together and a community that is trying to move
+everything together. We also shifted our model. In the first nine months or so
+when we started up UASG, our idea was we had a lot of enthusiasm. And our
+idea was let’s get the volunteers to do all of the work. Let’s get the volunteers
+to do all of the definitions and all of the targeting and direction and things like
+that.
+And it soon transpired that our aspirations were far ahead of our available
+time for the volunteers. So we changed the model and the model for the
+UASG now is that the volunteers provide guidance and direction and provide
+the overall framework for what are the tasks, and what are the kind of
+timelines that we would like to see achieved.
+That is done in an open manner. There is a UASG email list and all of these
+decisions and all of these kinds of things are brought up on the mail list. And
+then the UASG really turns to the staff of the UASG to make sure that work
+gets done.
+And the prime mover of that is Don Hollander. Over to you, Don.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 5
+
+Don Hollander:
+
+Thanks very much, Ram. So we’ll just go through a slide deck. I’ve only got
+about 180 slides so we’ll be done in about 15 minutes. So this is a bit of what
+the program is supposed to look like and we’ll see how it comes out today.
+So we have an introduction from Ram. I’ll talk about activities since
+Marrakech. Andrew Robertson, who’s going to join us from London, is going
+to talk about our communications plans. That’s our current working activity
+that we’re hoping to get sorted soon. Tony is going to talk about an event that
+he was at Buenos Aires. Christian is going to talk about an event that he was
+at in Philadelphia. Ashwin is going to give what is now turning into a bit of a
+tradition, watching the progress of ICANN IT as a real-world exemplar of
+making UA happen.
+Then Frank Michlick will speak from Canada, you know, but fingers crossed
+about the current status of a review of browsers. So one of the things we
+wanted to look at over time was how core applications performed and
+morphed as they became more and more UA ready. And browsers is one of
+the categories that we’re working on.
+I’ll talk about the budget for next year as well as the financials for this year.
+And then we’ll have questions. And the second to the last item there is a new
+Website being launched; we’re not going to cut ribbons but there is chocolate
+to celebrate if you want to go to UASG.tech, that Website is now live.
+So next slide.
+Thanks. So one of the core issues is who are we trying to address? And Ram
+pointed out that we have of core bits, first of all, what does universal
+acceptance mean? And then who are we trying to address with our efforts?
+And this is my simple clear – I think clear view is we want to target the people
+who make these things happen. And that’s the system architects, developers,
+consultants and contracting firms.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 6
+
+Then we want to focus on the people who can direct that group to make it
+happen, generally CIOs. And then the people who can influence the CIOs to
+make these things happen and that’s their colleagues in the C-suite, board
+members, government officials, ministers, consultants, media, and industry
+influencers.
+Next. So what we’ve done recently, and what we’re doing fundamentally is
+we’ve got the foundation documents built. Those were in final draft, many of
+them were in final draft in Marrakech. Well they've been finished and
+published. We’re building industry-readiness. We’re building an EAI
+community. And for those who don’t know, EAI is email address
+internationalization which is effectively non-ASCII characters to the left or the
+right of the “at” sign. Harder than you think.
+We’re looking to build measures so we can see whether we’re making any
+progress, building an outreach strategy. And Andrew is going to talk about
+that in detail. And start building some pilots. So next slide. Thanks.
+So and next again.
+So what I’m hoping we’ll achieve out of this is everybody will get an
+understanding of what's happening in universal acceptance and what the
+UASG is going. And we would be keen for people to commit to local UA
+initiatives in your own hometown. And we’re seeing some of that already. And
+we’re keen to accelerate that some more. Next.
+Thanks. So this is our concise view of what universal acceptance is. It’s being
+able to accept, validate, store, process and display domain names and data
+that has domain names in it correctly and consistently by all Internet-enabled
+applications, devices and systems.
+
+Author
+Deleted: internet
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 7
+
+So what we're doing – next thanks – so we’re creating documentation, mostly
+technical, I’ll go through some of that, creating some test cases, fixing
+programming languages, establishing some baseline measures,
+(unintelligible) some cooperation and reaching out. Next.
+Thanks. So in terms of the organization structure Ram talked about that and
+we had a meeting in January and there was, to be fair, I think a reasonable
+amount of frustration around the table and we switched the way we did things
+on its head.
+And that’s possibly made a big difference to what’s been achieved in the past
+few months to what was achieved in the past year. But to be fair, the first year
+was a lot of trying to figure out where we were and what we needed to do and
+who might do things.
+Programming language, so talked about that already. Next.
+Thanks. So this is the universal acceptance steering group so Ram Mohan
+introduced himself already as the chair. WE have Christian Dawson in the
+room. Edmon is in the room. Raise your hand. Thank you, Edmon. And Rich
+Merdinger is in the room as well. So they were the folks who volunteered at
+the beginning to take these leadership roles to make – get things kicked off.
+And I’ve taken the role of emperor du jour, or secretary general. And we
+shifted, as I said, the way we're doing things.
+We started last year with four project groups and we’ve refined that to having
+two project groups. One is community outreach and the other is EAI. And we
+want to acknowledge very much the strong support that we get from ICANN.
+So we see ourselves as a community group supported by ICANN, not an
+ICANN group. But we are really grateful for the support we get from ICANN.
+And it’s not just money but the time and effort of the ICANN staff who are
+keenly interested in this and the use of the ICANN administrative
+infrastructure. So that’s very, very useful.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 8
+
+So I’d like to go now to the documentation that we’ve actually produced. And
+I’ll go through this fairly quickly because I hope most people in this room will
+know about it. If you don’t then you can go to UASG.tech and actually see the
+documents. So we have UASG 001, a knowledge base. And we’ll look to be a
+– expanding this. This is if you have a problem with your domain name or
+TLD or whatever, who do you go to sort out browser issues or who do you go
+to sort out LinkedIn issues or Skype issues or what’s that other thing, Twitter,
+or what have you. There’s lots of things. We know about the first bits, so
+Twitter is a little different.
+We have revised our webmaster engagement note so if you encounter a
+Website and you say it doesn’t accept, so we produced very simple two
+paragraph note for you to send to the webmaster of that Website suggesting
+that they might want to fix it. It’s very polite, very gentle. And it’s now in 14
+languages thanks to the resources of the community.
+We have a FAQ sheet, which is a one page look at what issues are from a
+non-technical point of view. That’s currently in review so we published that
+one in December last year and we’re looking at it again based on revised
+communication strategy. We have UASG 004, these are use cases,
+examples that people can use when they want to test their own systems and
+that we’re using when we’re testing browsers and email systems. And this is
+things like new.ascii short, new.ascii long, ascii.idn, IDN.ascii, IDN.idn,
+Arabic.arabic. that sort of thing.
+We have the quick guides, which are now available on a bunch of languages.
+And I handed out earlier for people who wanted them, they're available in –
+we have printed copies in English and in Spanish at the moment. And I think
+we have a commitment to make them available in Hindi for the next meeting,
+so I think that’ll be exciting. UASG 006 is a list of relevant RFCs. Next page.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 9
+
+And this is – I’m really delighted with this, not that I did any work, but Mark
+from Microsoft did a huge amount of the work here. And that’s our
+introduction to universal acceptance. This is aimed at the geeks, at the
+developers. This is Mark’s text. And it’s a 40-page document that goes from
+the assumption of no knowledge to a very clear and detailed explanation of
+how all these things work, and items to consider as you decide how you’re
+going to implement this within your community.
+So and I’m really delighted with the approach that we took to developing that.
+So we drafted it and then we had very – several very close readings with the
+community both online and in the face to face. We have a model for local
+engagement. We have a quick guide for contracts and tender documents.
+These are just clauses that you might want to include in your commercial
+agreements. And we’ve expanded this a little bit to include what (Leslie
+Dagel) used to call broccoli issues so it’s universal acceptance, DNS SEC
+and IPv6.
+And then we have USAG 010, which is a quick guide to (linkification). Next.
+Thanks. So going forward these are the – thanks – these are the projects that
+we’re working on. Next.
+Thanks. So programming languages, we’ve got four teams poised. They’ll be
+working in parallel to look at very common open-source programming
+languages, see what needs to be done to get there – to get the core
+language framework UA-ready and to make those changes and then publish
+them.
+So that when somebody says, oh, well, this is written in PHP and I don’t want
+to have to go and change these libraries, we’ll say, not a worry, we’ve got that
+done for you already. And we’re expecting the first results of those available
+by ICANN 57. Next.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 10
+
+Thanks. So EAI, for those who, you know, support email, is support for IDNs
+and Unicode at domain names, we’re looking for test environments, we’re
+looking to coordinate the large, very large email service and software
+providers and identify implementation decisions. So while the RFCs cover
+quite a lot of them, the necessary bits, there’s some decisions that the
+developers need to make and we’re looking to coordinate that activity. Next.
+So other stuff that we’re working on we’re preparing a white paper. This is
+aimed at the CIO and C-star suite and it’s looking at the financial, social and
+cultural benefits of making the investment in -making your systems universal
+acceptance ready. We think that there’s a compelling financial reason that
+people should make this decision because it’s not a costless exercise and so
+we’ve commissioned the report that we expect to have available in about two
+or two and a half months.
+We’re using the IDG Executive Council to reach CIOs so those of you who
+may not come from a CIO sort of space, IDG is one of the world’s most
+prestigious and well-regarded think spots – thinking groups for IT issues and
+a lot of CIOs will subscribe to their services of briefings and research
+capabilities. So we’re going to work with them.
+We’ve launched a dedicated Website and we’ve got great support, as I said,
+from ICANN which includes collaboration with IT so the ICANN IT group not
+just from Ashwin’s position of presenting things to us, he's also presenting
+things to the software development communities around the world. And the
+team -- his team -- is providing good contributions as well.
+We’ve got articles in ICANN meeting newsletters, social media interaction
+and there have been some brown bag lunches at the LA office on what
+universal acceptance is. Thanks. Next.
+So if we have Andrew on the line then he's going to talk through the next bits.
+Andrew, are you there?
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 11
+
+Andrew Robertson:
+Don Hollander:
+
+Yes, Don. I’m here.
+
+We can hear you fine. Thank you, Andrew from Edelman. Thanks.
+
+Andrew Robertson:
+
+Good afternoon everybody in Helsinki. Can we have the next slide,
+
+please? Hello. Hello, can you hear me?
+Don Hollander:
+
+Yes, we can hear you. Can you see the slides?
+
+((Crosstalk))
+Don Hollander:
+
+…the slide that says Communication Strategy.
+
+Andrew Robertson:
+Don Hollander:
+
+Okay.
+
+Is that the slide you wanted?
+
+Andrew Robertson:
+
+Yes, I can’t – sorry, (unintelligible). Just one second. Yes, okay so
+
+communication strategy, just to – so what we’ve done here, we’ve divided this
+into two phases. And Phase 1 takes us – well we started a couple months
+back and takes us to August. And Phase 2 will take us from September
+through to March and a bit beyond.
+And so Phase 1, what we’re aiming to do is educate on the issues,
+commence initial engagement, and I’ll go into that in a bit more – in
+subsequent slides. And this Phase 2 it’s broader engagement and engaging
+advocates to help us get the message out there to take action and to be
+prepared to take action on UA so, yeah, next slide please.
+Great, thank you. So going in a bit more detail on Phase 1, which I’d
+mentioned we’ve already kicked off, so working closely with the UASG,
+Edelman, the company I work for, global communications firm, has developed
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 12
+
+a strategic communications plan and messaging and narrative document,
+which I’ll go to in a bit more detail later in the presentation. And we’ve
+developed a framework for social media, how we engage through social
+media channels like Twitter and LinkedIn.
+We’ve developed materials including and challenging question out for
+documents, go into quite some detail. And we’ve developed materials for our
+four engagement like an introductory letter for – and for reaching associations
+– that’s technical associations. And we’ve prepared to engage via LinkedIn
+groups with one of our social media platforms.
+Specifically targeting CIO groups at present, as Don and Ram have both
+mentioned, CIOs are critical – a critical audience for us. So we’re looking to
+engage with LinkedIn groups to which CIOs belong.
+Developing blog posts and case studies and testimonials. Just a little point on
+that, just really quickly, we know that companies are in the very early stages
+of implementing their UA strategies and it may not be possible to have case –
+you know, fully developed case studies because people won’t have
+completed their UA projects. But we are kicking off with testimonials to show
+that – show that – demonstrate that large well-known companies and others
+have actually engaging with this issue and taking action.
+And again, another point of social media, we’re providing guidance on social
+media and how we engage via – how we create Wikipedia entries or have
+them created for us to inform on the issue.
+And then we’ll be studying initial briefings. We’ve got some key priority media
+that we’ve identified from the tech sector primarily at this point. And in other
+influences such – and those would include technology sector analysts, for
+example analysts that may work for firms like IDC or Gartner and industry
+groups as well.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 13
+
+So to the next slide please. Thank you. And this is going into more detail,
+again, Phase 2, which is – this is a broader engagement and advocacy
+element of the project estimated to start in September. So developing
+additional materials to support and provide tangible proof points on UA. And
+those will include a white paper and hopefully we plan to develop video,
+infographic material that will tell the story in a visual manner so it can be
+easily understood and shared. We want to make this content sharable.
+Blog posts, press releases, again, that refers back to our media engagement
+strategy. And, yes, that’s the main elements of that. And so the outreach
+we’re building on the main elements of the foundation that we establish in
+Phase 1, and then that we’re engaging with broader UA experts to amplify
+this message and drive awareness. So onto the next slide please.
+Going back this is repeat of the slide that Don introduced earlier, just
+reinforcing who we’re trying to reach here, the people that can make this
+happen. So it’s developer audiences, it’s, you know, CIOs and it’s people who
+can influence to make this happen at the C-suite, board level, government
+officials and consultants and others.
+So to the next slide please. Thank you. So part of – what we did as part of the
+initial engagement with the UASG is held a workshop and developed a set of
+really solid messaging. This was done collaboratively with the – quite a
+number of members of the group. And went through several iterations, and
+we ended up with a very concise – well a very detailed document that helps
+us reach all of our key target audiences.
+And we’ve just taken a couple of experts from this document to show how
+we’ve condensed our messaging and what – and what we want to be saying
+to this audience. So what we have here is an umbrella message. This is our
+key top line message. So I don’t intend to read it out, you have that in front of
+you. But it – that’s a concise take on one line – a one-liner on what we are
+saying to – about UA and its importance.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 14
+
+And on the next slide we had this backed up by supporting messages, and
+then in the full document we go into more detail from here. But to explain
+further what the purpose of this is, is to – it’s to help us – and help UASG
+members during media interaction, for example, or other key indications, to
+have a document that – one central document that we can use as a key
+communications resource so that we’ve got really clear messaging and we’re
+sticking with that messaging and that will hopefully translate into the resulting
+– through the resulting media interviews and coverage and through social
+media and other elements of the program.
+So this – just briefly I won’t read this out again because you have it in front of
+you. At the top key message there is all about UA and its role in being part of
+getting the next billion Internet users online.
+Author
+Deleted: internet
+
+The second message relates to why businesses have a responsibility to take
+– to play a key role in UA and making this happen. And the third key
+message is a rationale for UA designed to help CIOs in particular think about
+why this is important. And what we’re saying is that UA leads to a better user
+experience. So in the end it’s for the benefit of the end user which reflects,
+you know, which is positive for the Website operator as well, obviously.
+And to the next slide, please. Okay. So what you’re looking at here is the
+timeline of activities that we – that – from now – from the Helsinki meeting
+until the next ICANN meeting in India. And listed out there is, you know, what
+we plan to do. And I believe the Website is actually gone live today, if I’m
+correct there. I saw the message on that earlier. And these are the different
+materials that we will have developed and tactics that we will have deployed
+in Phase 1 and then leading into Phase 2 which we, as I said in one of the
+earlier slides, kicks off in September.
+Yeah, might be the next slide. Okay. What we want to really impress upon
+people is how they can get involved in UA now that we’ve given you some
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 15
+
+information on what’s happening with the communication program. And what
+we’ve broken this into three areas, we’d like you to think about in this way,
+educate your – the companies, the people you work with, the people in your
+professional circles on the importance of UA. And we’re providing the
+materials for that.
+So advocate with these same people and peers and find out how, you know,
+you can be a voice in your communities. And then amplifying it through your
+own social media networks and other channels, you know, via Twitter
+handles and so forth, via your LinkedIn groups, yeah, via, you know,
+Facebook professional groups that you may be a part of so that’s – I think
+that’s what we’re hoping to help you do there.
+So – and moving to the next slide, so a call to action here is to introduce UA
+to your organizations via – and social media manager and your organization
+social media manager to get your own organization UA ready particularly in
+relation at this point to brand TLDs. And reach out to your local IT
+organizations particularly regarding – in relation to geographical TLDs at this
+point. And moving to the next slide, okay sorry, that was the end of that.
+Ram Mohan:
+
+Go back to the prior slide.
+
+Andrew Robertson:
+Ram Mohan:
+
+Yes.
+
+And let’s open it up for questions into Andrew. Okay let me take a minute and
+speak just to the very first call to action. For those of you who work at larger
+companies, one of the things that we struggle with is, you know, when we put
+a tweet out or when we put a posting out or a video up on something to do
+with universal acceptance, one of the big challenges is how do we amplify
+that message, how do we get it out to a larger group?
+And typically we have a hard time, you know, getting someone’s attention
+from a larger organization to retweet it or to share a post that we have placed
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 16
+
+on LinkedIn or Facebook. So if we can get an introduction to who your social
+media manager is then the team from Edelman has a lot of skills in being
+able to speak with those social media manager to explain the mission of
+UASG and to schedule, along with the social media managers, perhaps they
+have an event that they are planning or perhaps they have something else
+that they are doing to integrate the UA messaging as part of that
+organization’s media messaging itself.
+And I must tell you that without that introduction from you from the inside it’s a
+pretty hard job to actually reach these social media managers because they
+are the most popular people inside of their companies. Everybody wants
+some of their time. Everybody wants them to retweet and share the posts.
+Tony, you were going to say something?
+Tony Harris:
+
+Yes, could we rewind a couple of the slides? There was one with three bullet
+points which were very important. That one. Referring to Bullet Point 2 there,
+
+Author
+Deleted: retweet
+
+I think that is extremely important because basically what we’re saying there
+is people should be aware that the Internet is being updated. I don’t think we
+get that message out. We should be speaking about the Internet being
+updated and everybody wants to be updated with the Internet. I would use
+that. I mean, it’s said there not in the same words but that’s what it’s saying
+there.
+
+Author
+Deleted: internet
+
+Author
+Deleted: internet
+
+Author
+Deleted: internet
+
+I’d even take that further and say, well, why don’t we look at the possibility of
+certification, certification of UA compliance, some sort of seal of certificate
+that can be – I mean, all the software organizations in the world would like to
+handle that but with their members, because it gives them something to offer
+their members and they can do a double check on whether this is a fact or
+not.
+I don’t think that should be too difficult or too expensive to organize. Just a
+couple of thoughts.
+
+Author
+Deleted: compliant
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 17
+
+Ram Mohan:
+
+Thank you, Tony. Andrew, did you want to respond?
+Author
+Deleted: t
+
+Andrew Robertson:
+
+No, I think that’s fantastic idea. It’s – and I really like the message that it’s
+
+something that we had thought about as well, it’s the Internet is being
+updated and that’s something that we need to be clearly communicating to
+
+Author
+Deleted: internet
+
+our – as part of this and I think it’s a very, very solid point.
+Ram Mohan:
+
+Other comments, observations, thoughts? I know this is a post-lunch session
+but. Please. Please introduce yourself as well.
+
+Man:
+
+(Unintelligible) the League of Arab States. I’m a member of the Arabic
+Generation Panel too. Okay. I would suggest maybe you can make –
+introduce a badge of UA readiness to be put on the sites which are UA ready.
+So we can encourage the site admins to (unintelligible) and make it ready
+more easily. You know.
+
+Ram Mohan:
+
+Thank you. I think that’s a great suggestion. Other comments? Cyrus.
+
+Cyrus Namazi:
+
+Thank you. Cyrus Namazi with ICANN staff. I guess to the same point that
+Tony raised in the second point on the slide. Just by the show of hand, how
+many of you run Websites that are UA ready or have active projects to make
+it UA ready?
+
+((Crosstalk))
+
+Small number of hands raised.
+Author
+Formatted: Font:Italic
+
+Cyrus Namazi:
+
+Thank you. I guess I’m trying to emphasize that, you know, the work really
+needs to begin in this room and then expand and amplify and go beyond.
+Just wanted to reemphasize that.
+
+Don Hollander:
+
+So it’s Don here. With respect to UA certification, one of the questions is what
+are the criteria for UA certification? And there’s a Chinese research institute
+that is looking at this to encourage Chinese government organizations to
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 18
+
+become UA ready. And they are currently working on what the criteria they’re
+going to use and some preliminary – some preliminary measures. So we’re
+hoping that we’ll get an update from them at the ICANN India meeting of the
+work that they are doing, the criteria that they’re coming up with. And we’ll
+work together with them as we can to expand it outside of the Chinese
+government.
+Edmon Chung:
+
+Edmon Chung here. Speaking on what Don said and the calls for action, I’ve
+repeated this many times, and kind of sounding like a broken record, but still
+it’s important, you know, as we call out a lot of times when companies look at
+the issue it seems very trivial at first. The – to actually make it UA ready. It’s
+not hard, it’s just very – it entails a lot more because every single piece of
+software almost uses domain names or email addresses one way or the
+other.
+And that’s the whole spectrum of systems and platforms. And when they tried
+– when they work together within your company that’s what creates the
+complexity. The changing, you know, making a particular browser, a
+particular system UA ready is usually not the main challenge, it’s making the
+entire suite of software that you use internally that makes it much more
+difficult. And I guess that’s what ICANN will share a lot more. And that’s also
+reason why the call for action is really to get people to start looking at it.
+I don’t think we can expect websites or companies to be UA ready
+immediately. In fact, it’s almost impossible as ICANN’s experience will show.
+But it’s time to, you know, get a roadmap and get a little bit of timetable out.
+And that’s really the call for action I think right now.
+
+Ram Mohan:
+
+Rich.
+
+Rich Merdinger:
+
+Thank you, Ram. Rich Merdinger with Go Daddy. And piling on with what
+Edmon was suggesting, as we do look to integrate universal acceptance
+concepts into our systems ourselves, those of you that haven’t done so yet,
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 19
+
+please take a look at the materials that are found on the Website and see if
+they are informative and informational and actually useful in doing so
+because if it isn’t making it easier to do it we need to do these materials
+differently. Thank you.
+Ram Mohan:
+
+Thank you. Could we bring us back to the call to action slide? I just want that
+to be there while we have the conversation. Other thoughts? Any thoughts
+from those who are working on brand TLDs or geo TLDs? Does this call to
+action sound relevant to you?
+
+Rich Merdinger:
+
+Rich Merdinger, Go Daddy again. Yes, we have dotGodaddy that’s coming
+towards delegation and definitely is.
+
+Ram Mohan:
+
+Thank you. Thank you, Andrew. Back to you, Don.
+
+Don Hollander:
+
+Thanks very much. Next slide. And the next slide. So Tony is going to talk
+about a recent event in Buenos Aires.
+
+Tony Harris:
+
+Yes, okay. Tony Harris here again. First of all, who are these people we did
+the event with. Their name is Sysarmy. That’s S-Y-S Army. That’s the way it’s
+written, believe it or not. Sysarmy is the Argentinian sys admin community
+who brings together all IT professionals for knowledge exchange and fun.
+This is how they define themselves.
+They have an annual event, which thanks to Don – Don’s cooperation and
+interest, we were able to sponsor. And I had a table there which was actually
+
+Author
+Deleted: corporation
+
+was a CABASE table, the organization I work for, but we gave out brochures.
+You’ve got the brochures I brought for you. The quick guide, I’m sorry, the
+quick guide for the universal acceptance. We had that printed in Spanish.
+And we were giving these out at a table.
+To give you an idea what this event consisted of, the hall where I had the
+table was surrounded by, I don’t know, maybe 30, 40 large tables where all
+
+Author
+Deleted: (unintelligible)
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 20
+
+these IT professionals or, you know, systems managers, they were all sitting
+around running – trying out new software and solving problems amongst
+themselves. It was hard to get their attention. But they were all there.
+And in another hall they were having technical talks, the people were giving
+them different talks about new technologies, new software, and thanks to the
+cooperation of Microsoft, Mark here was able to have one of his people in
+Argentina come over and give a brief talk on universal acceptance from a
+technical point of view. I’m not a technical person so it was great to have this
+guy there. Thank you very much for that. And of course the name of Microsoft
+also helps for people to pay attention.
+I think the main takeaway from this is these people are interested in
+continuing to work with ICANN. And, I mean, there were only probably 300 or
+400 people showed up there. But their networks consist of 6000. So they’re
+open to see how we can – how we would like to outreach through their
+system, through their regular getting together and discussing things, how we
+can continue this with their group. And they also have contact with other
+groups in other countries.
+So I think this is, let’s say, a small goldmine we found, which if we progress it,
+it’s very technical, you have to interest them technically. Otherwise they won’t
+even bother to listen. So I think this is just one good opportunity. I’d like to
+mention something else that happened, which didn’t happen in Argentina.
+Before this event, I was in Sao Paulo on an outreach event which (Rodrigo),
+who’s sitting here from ICANN, was kind enough to organize, and it was a
+booth in (unintelligible) event, which was an event of Brazilian ISPs. There
+were 3000 ISPs there. Believe me, they were all there. You couldn’t walk in
+the halls.
+And we had an ICANN booth, which was tailored to the ISPCP constituency,
+and I talked to a lot of people about universal acceptance, and I also gave a
+
+Author
+Deleted: corporation
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 21
+
+talk on ICANN to ISPs. And this was part of the presentation, which I did
+universal acceptance, again, not from a technical perspective because I’m a
+marketing guy, not a technician.
+But there was one very interesting comment from – which I think is important
+we should pay attention to from a Brazilian ISP who timidly raised his hand
+and said, this is extremely interesting, have you considered implementing a
+repository of problem instances for targeted remedial action? In other words,
+where you know of complaints, specific complaints that come up and are
+flagged perhaps the registry flags them or an ISP or whatever. Do they go
+anywhere? And does anybody look at them and then go after solving them?
+Because that’s telling you where you have a problem, right?
+I think we did mention this in previous events. But it was interesting that
+somebody from the audience came up with this. It wasn’t me sort of repeating
+myself. So that’s what I have to say right now about this. But I think this is
+sort of group is very interesting because there really – they’re all techies and
+this sort of thing they love to solve problems. That’s what they get together
+for.
+Don Hollander:
+
+So thanks, Tony. So this was our first go at sponsoring an event. Was it worth
+the effort do you think? We have another opportunity in Brazil shortly.
+
+Tony Harris:
+
+I think it was more than worth the effort. And as I say, I think it’s a door
+opener. The event themselves gets you into the organization, if you – you
+give them a hand, you sponsor them. They don’t have much money to do
+these things. Once you’re in there then you can follow through and you get to
+all these people. I mean, it’s a really good opportunity.
+
+Ram Mohan:
+
+This is Ram. It sounds to me that if we can – this is kind of a pilot model but if
+we can figure this out and do it in an effective way then we might have
+something that is replicable in multiple parts of the world, which is really
+eventually where we have to go because it seems like this would provide a
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 22
+
+feeder for the outreach and the materials and the technical documents and
+other things like that. It’d be a good feeder, right, for them.
+One question I had, Tony, is our focus primarily, especially the technical
+documents, has been to just write them and it stays in English. Is that an
+impediment or does it not matter?
+Tony Harris:
+
+All these people speak English. And I might also, well, since I have the mic I
+would make a final suggestion, I’d like to get the person who’s leading this
+and who coordinated this with us I’d like to put him in contact with whoever
+you decide so then you can follow through on a technical to technical basis.
+And I think that will be more productive and me get out of the way at this
+point.
+
+Ram Mohan:
+
+That’s a terrific idea. And I volunteer Don for it.
+
+Tony Harris:
+
+Who should – okay.
+
+Don Hollander:
+
+Thanks very much, Tony. Any other questions for Tony? Next slide then.
+Thanks. So Christian is going to talk about what happened at M3AAWG
+without pictures.
+
+Christian Dawson:
+
+Author
+Deleted: M3AAG
+
+Yes, I don’t think we need any pictures. In fact, you know why there are
+no pictures? Because you’re not allowed to take pictures at M3AAWG. It is a
+– everything there is a closed session. In fact, I need to be careful because
+
+Author
+Deleted: M3AAG
+
+you’re not really supposed to talk about any specifics that happen within the
+walls of M3AAWG. And I respect that.
+
+Author
+Deleted: M3AAG
+
+For those of you that are unfamiliar with M3AAWG. M3AAWG, which is up
+
+Author
+
+there M3AAWG, that stands for the Messaging Malware and Mobile Anti
+
+Author
+
+Abuse working group. I have actually been pushing for us to engage
+M3AAWG since we started this effort.
+
+Deleted: M3AAG
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 23
+
+And that is because M3AAWG is a group of network operators that are
+focused on anti-abuse. And the reason that I think it’s very important to
+
+Author
+Deleted: M3AAG
+
+engage those individuals is first of all, they have the ability to actually make
+things – make things move on universal acceptance. The issue at hand being
+that most of the messaging that I hear coming from that community is
+focused on abuse problems that are being seen out of new gTLDs.
+And what happens when you don’t – we don’t need to engage on those terms
+and have those conversations. But what happens when you don’t engage
+them on the terms of the kind of conversations we’re trying to have, that’s the
+only messaging that people end up hearing.
+And when that’s the case it ends up being sort of a – though it is not a direct
+counter-message to what it is we’re doing because they’re not going to
+actually come in and shake their finger and tell us that we’re wrong, when
+people go to prioritize, how they, again, upgrade the Internet, they’re going to
+take a look at the messaging coming out of places like M3AAWG and say
+well there are pros and there are cons to actually moving forward on this and
+they’ll decide to de-prioritize these efforts.
+
+Author
+Deleted: internet
+
+Author
+Deleted: M3AAG
+
+So I wanted to go in there and start having these conversations with
+M3AAWG from the very beginning. And I’m very excited about the
+conversation that we ended up having. My organization – I2 Coalition, was
+
+Author
+Deleted: M3AAG
+
+granted four sessions and three workshops that we got to program at
+M3AAWG. And we made one of them a universal acceptance-focused
+session.
+
+Author
+Deleted: M3AAG
+
+And I think we did it in a very interesting way that allowed us to workshop a
+couple of things that we’ve wanted to workshop. The first is that the focus of
+the – the focus of the engagement was “eat your vegetables”. It was focused
+not only UA though UA got the primary focus, but also on DNSSEC and IPv6.
+Author
+Deleted:
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 24
+
+And so we took a holistic view as to how people should upgrade the Internet.
+And we saw how that resonated. The other thing is the actual format was a
+
+Author
+Deleted: internet
+
+Q&A with our own Ram Mohan right next to me. And that’s great because
+Ram is great and he's a great presenter, but also because I think the way that
+we were approaching that it’s a good framework for how we intend to engage
+CIOs because it was basically peers talking to peers about the importance of
+what it is they should focus on.
+And so as we were talking about what Edelman has presented to us, about
+engaging CIOs, I think that you basically gave a good framework to do that
+kind of messaging there at M3AAWG. So I was extremely excited about how
+it went.
+
+Author
+Deleted: for
+
+Author
+Deleted: M3AAG
+
+We had about 750 participants at the M3AAWG conference. And I’d say we
+got about 1/5 of them in the room to see our presentation, which is, you
+
+Author
+Deleted: M3AAG
+
+know, it’s over 100 people of very targeted – in a very targeted audience. And
+so that was very useful.
+I’m going to end up at our next organizers meeting re-approaching the idea of
+this organization becoming a member of M3AAWG. The last time we brought
+it up what we saw was well, you know what, I2 Coalition is a member of
+
+Author
+Deleted: M3AAG
+
+M3AAWG, many of the companies that are at the table like Go Daddy are
+members of M3AAWG, (ECO) is a member of M3AAWG and ICANN is a
+member of M3AAWG, why do we need another M3AAWG membership when
+there are so many M3AAWG memberships already at the table?
+
+Author
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+Author
+Deleted: Echo
+
+But, I think that we have seen in this location, that in order to make it the – a
+
+Author
+
+continued primary focus of the conversations there there’s a bit of needing to
+
+Author
+
+ante up to make sure that our issues rise to the top. And I think that we’ve
+found, through that engagement, that it’s a worthy conversation to continue to
+have. Thanks. Questions?
+Ram Mohan:
+
+Rich.
+
+Deleted: M3AAG
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 25
+
+Rich Merdinger:
+
+Yes, I’d like to make a comment regarding UASG becoming a member of
+M3AAWG. And I’m not a M3AAWG fanatic by any means, but back when we
+decided early on to belay that idea for a while, that’s back when these people
+that are at the table whose organizations are members of M3AAWG, we’re
+attempting to do the work so we already had UASG active representation
+able to go to M3AAWG.
+
+Author
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+Author
+Deleted: M3AAG
+
+Now that we are in coordination role, I think it’s more important that the
+organization itself be a member so that it can be doing the work for itself that
+way. So I think there’s a difference in the way we’re structured and that has
+changed my approach to it, and I’m in favor of it for what it’s worth.
+Christian Dawson:
+
+I think that’s – I was for it then but I think that I was for it then. I think that
+you’re right, it does make more sense now in our current – thank you.
+
+Ram Mohan:
+
+Thanks.
+
+Barry Leiba:
+
+This is Barry Leiba. I’m the IETF liaison to M3AAWG. So – I couldn’t be in the
+session in Philadelphia because I had a conflict, I had to be somewhere else,
+but I’m happy. I just joined the universal acceptance mailing list and I’m
+happy to do I don’t know, whatever back and forth might help there too. So
+engage me.
+
+Christian Dawson:
+Ram Mohan:
+
+Thank you. Definitely will.
+Other comments? I wanted to share just a couple of observations from being
+at this event. Some of the questions that came there was – we were using the
+example of Citi Bank and we were using the example of, you know,
+dotCitibank and its acceptance. And it was unplanned but it turned out that in
+the audience there were two people from Citi Bank who came up to the
+microphone and said why are you talking about us this way? And we ended
+up saying, “Do you have a universal acceptance project underway?”
+
+Author
+Deleted: M3AAG
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 26
+
+And they were saying, well, we need more information. So I think to me,
+anyway, that was anecdotally some level of evidence that there is value in
+engaging with this group and being a part of this group.
+Okay. Back to you, Don.
+Don Hollander:
+
+And now back to Ashwin. So while we get his slides up, Ashwin has been
+very – first of all, phenomenally supportive of the project. But he agreed a
+long time ago, I think in Buenos Aires, that he would – he would give us a
+regular update. And probably the – apart from the last slide, it’s probably –
+everybody’s favorite part of the session because you give us a real world
+view as to what do you have to do be UA ready.
+So, Ashwin, thank you very much.
+
+Ashwin Rangan: Don, thank you. Appreciate it. This is the continuing saga of ICANN getting to
+UA compliance. So next slide please. I’m going to be touching on a few
+different agenda topics here. Not knowing exactly how much experience
+people have with what we are talking about at the definitional level, there are
+a few slides that I’ll go through quickly that talk to definitions and what it
+means to be UA compliant.
+Then we’ll talk about our own project and our experiences in modifying
+custom applications and trying to get UA compliance from those vendors who
+are partnering with us and providing us with package solutions. And then I’ll
+give you a status and some guidance on where you can find more
+information. Next slide, please.
+Overall definitions, for those that have been dealing with it, it’s a fairly long list
+that have gotten developed over time as the nuances have been further and
+further refined. Next slide please.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 27
+
+But fundamentally it comes down to five criteria that now have been codified
+in the form of the how to guide here. It’s accepting whatever comes toward
+you from whatever source it may be. It could be a user interface, it could be
+another application sending a parameter or it could be from a file validating
+and in the validation step is where things like IDN left or right, right to left,
+those nuances really become important, whether it’s at the TLD or the SLD
+state.
+GTLDs provide a whole bunch of those challenges. Storing, the length and
+direction and character set. Next slide please. Processing is an interesting
+challenge, we’re discovering more and more. We are able to retrieve what we
+have stored and then when we tell the processor to understand what it is that
+it’s processing, it can be quite challenging especially when it comes to
+directionality and IDNs.
+Special character requirements, the tilde at the top of the N was an
+interesting one. We found that whether it’s on top or whether it follows it’s
+treated the same way. And in different languages it has different
+connotations. So that’s an interesting kind of corner case that we’ve hit there.
+And displaying of course, displaying it in the proper character set, whatever
+that may be. Next slide, please.
+We took an approach of kick starting this by making it into a project. We
+talked quite a bit about coming to this particular meeting with possible code
+snippets so that we could have something to show. In fact, I think it was
+Edmon who challenged us to bring that back. And I said, yes, I can pick that
+gauntlet up and I’ll see what we can do. So we did that. And to do that in
+ICANN it means we do two things.
+One, we prioritize an effort as a project, very differently from just a low level
+low hum kind of a project, or an activity, if you will. And secondly, it means
+that there is a conscious redistribution of resources. We take stuff away from
+other things to put on these projects. But to get it kick started, we thought that
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 28
+
+this would be a good thing to do. So we defined the project charter, and
+assigned out roles and responsibilities, scheduled kick off meetings, assigned
+accountability to different people and said let’s get a few things going. Next
+slide please.
+And very deliberately, we selected one application per environment so that
+we would have different learnings. Potentially different approaches because
+we would be using different talent sets from different skill groups. Through
+that, there was the potential to discover smarter ways to approach this
+problem set and coming back together. So we hired it off into different – in
+different directions, and asked our teams to go figure out with the guidance
+that we provided them how to make their specific application in their specific
+environment UA compliant.
+We also decided that everything else that wasn’t in the first slew of projects or
+the first slew in the first project, would be, you know, we would prioritize a list
+but not by environment, more by the importance of the application itself. And
+work through the list updating estimates as we got to learn more from the first
+project.
+In the course of doing that, we obviously knew that we would get some
+intelligence built into our code libraries. One of the thoughts that we have is to
+update an open source library with code snippets that we find or we create to
+deal with UA compliance issues.
+Next slide please. So in modifying an application, it’s a three step tango. You
+find it, you fix it and you test it. You can’t fix it unless you know where to go fix
+it. So you got to find it first. So there has to be some means through which
+you find all the instances in a given application that need to be looked at,
+fixed and then tested.
+Obvious things link-checkers, etcetera you can find a lot of things. Some
+report all links; some report only the broken links so depends on what you’re
+
+Author
+Deleted:
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 29
+
+picking. One of the things that we learned early on is that in many
+applications the login name is an email ID. And it’s often time overlooked.
+You fix everything else but if you can’t get into the application then you’re not
+UA compliant.
+So that’s a sort of “oops, got you”. We saw that in one application early on
+and then we said, okay, add this to the checklist as one of the things that
+you’ve got to do right up front. Environment library is not all of them
+understand Unicode. So that was – oh, well, we have an issue here don’t we?
+Right? Next slide please.
+Fixing it, it’s all the five criteria that I talked about, the accept, validate, store,
+retrieve process and then display. In the accepting we now know the rules of
+how long these can be in the TLD and the SLDs. We know that, you know,
+we talked in prior meetings about Unicode, Punycode and ASCII. With
+validation, the UASG guide says don’t essentially don’t do the download and
+lookup validation or if you have to do that then download frequently because
+that’s a dynamic list at this point in time.
+So we’ve gone down both pathways. We’ve looked at a bunch of different
+variables in making this happen. Storing – we hit a cybersecurity kind of an
+issue when the element size was not checked. There is a size overflow and
+that could be – it could be an entry point if you’re not careful. So when we
+were going through our testing is when we discovered that. And said, okay,
+build that into our stories so that that’s a check that’s done up front.
+It’s a restore point that that that happens, it’s an overflow, and if it’s not
+looked at carefully then the overflow occurs, and you leave yourself a hole in
+the backend. Next slide please.
+Process, this is probably the area where the most thought and work and
+feedback has been for our teams and between our teams. Lots of different
+things were discovered. I’ve listed out the major things that we sort of came
+
+Author
+Deleted: has to be added
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 30
+
+together on, special character, I talked about the (unintelligible) on top of the
+N, that’s in different language sets that’s a different connotation. It’s
+something to be looked out for. I’m not sure how many of those particular
+(unintelligible) following the character will be used in the creation of TLDs as
+we go into the future but in certain language sets the tilde is a very important
+character so it needs special attention in that regard.
+Christian Dawson:
+
+To clarify that, you’re actually – are you actually talking about a regular
+tilde character, not a combining tilde.
+
+Ashwin Rangan: That is correct.
+Christian Dawson:
+
+Okay.
+
+Ashwin Rangan: That is correct, a regular tilde character, yes. Next slide please. So, Edwin,
+here we are. We’ve got a java example of what it was before and what it is
+after. These are example sets that are part of the presentation here and at
+some point we’ll be posting this up into (GitHub) so that it becomes available
+for anyone in the world to look at, pull down and reuse at it makes sense.
+
+Author
+Deleted: etup
+
+Next slide, please.
+Testing. We had a code tester be developed for us by a company that does
+software development on our behalf. So we’re able to use that very quickly
+now as we get to code compliance, run it through the checker and get back
+immediate results on what makes sense, what doesn’t make sense.
+
+Author
+Deleted: Casting
+
+Author
+Deleted: ,
+
+Author
+Deleted: w
+
+The UASG has also created test emails. We use those too. We essentially
+tried to use as many resources as possible in the test phase so that what we
+do is done once and done once and for all so that we don’t have to go back
+and revisit. Next slide please. Next slide.
+More examples - with packaged products and services our treatment for off
+the shelf products go through a series of questions as the questions of the
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 31
+
+counterparty and make sure that if there is a contractual obligation which
+there typically is, you do not only UA compliance but also look at IPv6 and
+DNS SEC at the same time. If you’re going to back to a contract, it’s a good
+time to combine all of those together. And as an example last time I shared
+the kind of T's and C's we have in our contracts with this team.
+We’ve included that in the presentation so if there is an interest you can pull
+that down and take it to your legal teams and modify it as necessary. Next
+slide please.
+So the good news from our viewpoint, we started out with our entire portfolio
+and divided that up into what’s off the shelf and which ones are custom. And
+then we parsed it to look at what needed to be worked and which ones were
+not requiring any UA compliance work at all. In the off the shelf area with one
+we now have UA compliance. And we’ve learned a great deal from getting
+that particular vendor to play nice with us, what are all the likely hurdles that
+we go through. It’s a simple application but it’s taught us a great deal
+disproportionately large in terms of lessons learned.
+With custom code, as I said, our first project was across multiple platforms
+with that we now have eight different services that re UA compliant so we’ve
+made, in my view, fairly dramatic progress in a short period of time. But as we
+move into the future, our next projects will be as and when we open code as
+opposed to a concerted thrust just to open code and learn more about UA
+compliance. Next slide please.
+And this is the last slide. This is a bunch of resources that anyone can look
+at. One of the things that my team and I are working on is a CIO’s guide to
+becoming UA compliant as we go through our lessons learned, we’re pulling
+that together in the form of lessons and it will be a guidebook that eventually
+will become part of the library of available resources for anybody who wants
+to set down this journey.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 32
+
+Thank you, I think that’s the last slide for me.
+Don Hollander:
+
+Thanks very much. I’m just very conscious of the time. I’m not blaming
+anybody but myself. But any quick questions? Edmon, you’re going to ask for
+something for next time? Go ahead.
+
+Edmon Chung:
+
+Edmon here. So you – it’s great that for the update and also it’s great that
+using the model of the five elements. I just want to get a sense of how well
+they fit so far? You know, what we have produced from the UASG you may
+have found additional things that need to be added to our documents and
+stuff. And maybe some of them is not relevant at all. And so I just want to get
+a sense of how accurate we have been so far. And, you know, because I
+view this as an interactive process rather than, you know, produce something
+and then put it – implementation down the road.
+
+Ashwin Rangan: Thank you, Edmon. I think for me the area that needed the most work on our
+own part was the fourth step in the five step process, which is the process
+step. We found all kinds of oddities in a fairly small sample size. So I think we
+theorized what may likely be needed to be done in processing. And I think as
+we’re getting into the nitty-gritty of doing it, we’re hitting fairly interesting
+corner cases. And we’re saying, now what? Now what do we do?
+It’s very interesting to go through that process. And I think as we discover
+more and as everybody discovers more, if we’re able to bring this – bring it all
+back to this forum and we include that in the package that gets created by the
+USAG, it’ll be helpful for everybody. I mean, there may be, I don’t know, we
+have 9 or 10 different use cases that we’ve now written up in that one step.
+The final library may be 20 use cases, I’m just speculating. But it’ll be helpful
+to see it from different angles and say here are all the watch-outs and
+gotchas so.
+Don Hollander:
+
+Thanks very much. One of the exercises that we have underway is reviewing
+criteria for programming language evaluation and that’ll be quite valuable
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 33
+
+input into that. So as I said, we’re – I’m just conscious of time and if we can
+just carry on with the next slide. There’s – we want to finish when the big
+hand’s on the 2. Thanks.
+Next. Next. So I want to just talk a little bit about measurement and just
+because of time we’re going to miss out on the browsers, but that’ll be – we’ll
+send some material out through the UA discuss list. But as I said at the
+beginning, we’re starting measurement based on browsers and Website
+activity. Next slide please.
+And this is our – after two quarters of detailed testing of the most popular
+Websites in the world, this is where we built on the work from Donuts and
+dotClub. And we found that for short TLDs, so these are four characters, we
+got reasonably high results. If we went to a five character TLD, it’s not so
+good. And then as you see, as you go further along the line, actually you
+probably can’t see, but the least accepted one was our tie at tie.tie domain
+names.
+Next slide. Next. So we’re going to skip the browser review. Next. And I just
+want to give you some idea as to where we’re at financially. So this is a one
+page. We had a budget of about $770,000 available to us at the beginning of
+this financial year. And we’re expecting, by the (unintelligible), which is next
+week, we will have been underspent by over half a million dollars which is, I
+guess, good. But also not so very good.
+And part of that was some administrative constraints over the past three
+months, and part of it was just figuring out what we’re going to do and how
+we’re going to do it. And we were able to leverage volunteer resources to get
+things done. So any questions about the current financial year? Christian?
+Christian Dawson:
+
+I just want to build on your comment about the reasoning behind the
+budget. The fact is that when your goal is to put your arms around the whole
+world and change the way it works you have to figure out how you are going
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 34
+
+to – where you’re going to start. And it takes – it took us longer to figure out
+where we were going to start than many of us hoped and it took a couple of
+organizational changes. Now we’ve got the right one and we’ve got the right
+focus. So now is the time where it is reasonable for us to spend money.
+Before it was unreasonable for us to spend money.
+And so I look at that as oh maybe not so bad but as long as we can continue
+to convince people that we’ve gotten to a point where it’s right to start firing
+missiles I’m happy.
+Ram Mohan:
+
+Don, this is Ram. This is actually a pretty good example of the focus of UASG
+and what we’re doing on behalf of the community. We’re focused not so
+much on effort but we’re focused much more on effect. And if you think that
+we don’t get enough effect then we’d rather withhold the effort until we are
+ready. And that’s kind of the evidence of that approach. We’ll continue to be
+in this mode. We’d rather not spend money that is in the budget than spend it
+just because it is in the budget.
+
+Don Hollander:
+
+Thanks very much. So in terms of what we want to do next year, this has
+been circulated to the UA discuss list but I’d like to go through it just a little bit
+just to verbalize what we’re planning on doing. So next slide please. So next
+slide.
+So this is some of the work that we’re doing. So EAI is a big focus for us and
+we’ve got about $130,000 principally to try to facilitate organization and
+gatherings of EAI folk. Next slide please.
+And if people have questions, Ram is paying attention to hands and will
+interrupt. So the work that I talked about before about, you know, modifying
+programing languages where had money in last year’s budget to do that so
+we have even more money in this year’s budget and that’s planned to kick off
+any time now.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 35
+
+So the plan is we’ve got these four groups, we’ll put them out to fix these
+things and there will be a cooperative effort. Next slide please. This is our
+monitoring and measuring activities. So we’re looking to fund somebody to go
+and review Websites as we’ve done over the past six weeks. And we’ve been
+doing it for most of this year but we just added some more resources towards
+the end of the financial year.
+We're going to look at automated evaluation so building on some of the work
+that ICANN IT has done, see if we can provide people a tool that can go
+through their application code and see where they have to look and whether
+they have to look.
+And one of the things that Tony raised was can we track complaints and then
+do something about it. So we do have money in the budget for next year to
+do that. Next slide please.
+So community outreach is where we’re going to put a lot of focus. And these
+are the activities that we’re looking to do. And you may or may not be able to
+read that but this is – shouldn’t be new to too many people. We’ll develop
+some case studies and we’ve already started that. We’ll monitor media and
+produce quarterly reports and so forth. And next slide please.
+And another part of the community outreach are UA ambassadors, which
+we’ve talked about over the course of the past year and a bit, so this is to
+provide some resources for them if that’s necessary. And then local initiatives
+so we heard that there may be a need for local communities to get some
+startup capital, for lack of a better term, I call it beer money, so to reach out to
+your local IT development community. And if that’s that it takes then we can
+make contribution. Next slide please.
+So we planned for next year to have a Website so we’ve decided to do that,
+accelerate that, and that is now in production as UASG.tech. Next slide. And
+
+Author
+Deleted: US –
+
+Author
+Deleted: so
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 36
+
+these are some administrative costs. That was very quick. I accept that. Any
+questions?
+Ram Mohan:
+
+Any questions or comments?
+
+(Radene):
+
+Hi. It’s (Radene) from CentralNIC. I’m just wondering whether you’re applying
+anything in the Middle Eastern region, any outreach or local community
+efforts there?
+
+Don Hollander:
+
+Have you got good ideas?
+
+(Radene):
+
+Well, I could look at leaning on some of our clients…
+
+Don Hollander:
+
+Fantastic.
+
+(Radene):
+
+…because we work with some of the…
+
+((Crosstalk))
+Don Hollander:
+
+So the answer is yes.
+
+(Radene):
+
+…groups there who have IDN TLDs. But they don’t really know – they need
+guidance. So like I say, I mean, I’m quite happy to try and bridge the gap but I
+don’t know if they would know how to tackle this issue.
+
+Ram Mohan:
+
+We’re absolutely delighted to hear that. And to engage with that. And this is
+exactly the kind of thing that we need. So please do provide, you know, those
+introductions. And please stay part of the conversation because your clients
+trust you for the advice that you give them. And it’s actually important that we
+don’t disintermediate you. So that will be part of our normal methodology is to
+make sure that we provide materials, provide information, provide training as
+well but, you know, ensure that the bridge remains. Thank you.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 37
+
+Tony Harris:
+
+Just two quick points on what’s been said. First of all, about the budget, this
+is a small budget. It’s okay for now but when this activity scales and really
+becomes – it requires a lot of push, let’s put it that way, it will require probably
+more funding. I’d just like to point out I’m involved in the drafting team for
+what to do with the auction funds, which is a lot of money.
+I mean, that money comes from people who pay for applications. It would
+seem to make sense that a portion of that should be perhaps earmarked, I’m
+not saying right now, but for the coming years, for the work that we have to
+do, I mean, it’s being paid by people who are suffering the consequences of
+universal acceptance. And the second point very quickly is I just looked at the
+ICANN homepage and there’s absolutely no reference to universal
+acceptance which is a shame.
+
+Ram Mohan:
+
+Thanks, Tony. Excellent comments. Let me get to the second one first. I think
+we should temper our own expectations on what is going to be on the ICANN
+page. I think ICANN itself is in the middle of revamping and thinking about
+navigation and things like that. And what we’ve been doing from UASG is
+make sure that our Website is up and we have all of our materials ready to go
+before we start engaging with the ICANN media side and, you know, get
+mentions there. So but that’s in the plans. We intend to work on that.
+As far as the budget itself for the future years, what you’re saying may well be
+true. We may need a much larger budget. It’s kind of – this year coming up is
+going to be a pretty seminal year because we have no materials and we have
+a plan of engagement and this is going to be our first year of kind of full scale
+execution all year on. And so you may well be right that that – there might be
+more funds needed.
+My own approach is that the – there are two kind of sets of activities that
+UASG is doing. One, the area that actually requires less money but a lot
+more work is in the area of not – is the area of getting to the protocols and the
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 38
+
+technology and all of those things. There’s a lot of work there but the value
+for money is pretty high and the ability to leverage money is very good there.
+The place where there is a lot more money needed probably is going to be in
+the outreach area because it’s a big world. And we have a large message to
+send out.
+Tony Harris:
+
+Just one very – other quick point, I’m sorry, I don’t want to take up the mic all
+the time. But the statement that was on Ashwin’s presentation right at the
+beginning which defines what universal acceptance is, when all Websites
+and, you know the statement I’m talking about. That would make a great
+footnote for every communication that ICANN puts out.
+I mean, we use footnotes in my association on everything we send out which
+says what (Cabasa) is. Okay, so we send a letter, we send a newsletter, we
+go to the press with any type of news, at the bottom we always have that
+message.
+
+Ram Mohan:
+
+That’s a great idea. You know, we have this session being transcribed and
+we’ll make sure to collect the actions out of it and come back and reflect that
+and follow up on it. Thank you for that.
+
+Don Hollander:
+
+Right, so I think I just have a couple more slides if I have time? So this is a
+Website launch, you guys have all seen it now. Next. And this is general
+discussion. So just one other comment that I didn’t raise is for those of you
+who are uber-geeks, and you know what IDNA 2003 theory and IDNA 2008
+and Unicode mean and how they relate, so not always very well. So we’ve
+got a little project that we’re going to fund to try to get both those groups to
+cooperate.
+
+Ram Mohan:
+
+So, Don, perhaps I can take just a minute for that. In terms of context, some
+of you may know that in the DNS side of the world, most registries, registrars,
+etcetera, follow two protocols, this IDNA 2003 and IDNA 2008, they’re both
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-27-16/8:01 am CT
+Confirmation #8995685
+Page 39
+
+RFCs from the IETF. Two thousand and eight effectively intended to replace
+2003 although there are 2003 – IDNA 2003 instances out in production.
+In the meanwhile and IDNA 2008 is kind of anchored in a particular version of
+Unicode. And the reality is that as time has passed, Unicode has moved on.
+And Unicode is now just put out Unicode-9. And if memory serves me right,
+IDNA 2008 is anchored in Unicode-6. And so as time has moved on there
+has been some divergence and there’s a need to find a way, if it possible, for
+some level of harmonization.
+It’s not certain whether that’s possible but the idea here is to perhaps build –
+get an Internet draft out for the IETF community to go and look at what are
+the issues and potentially generate some interest in bringing those who have
+expertise in IDNs and bring that – bring a group together in the IETF to work
+on a new – potentially a new version of the IDNA protocol that might actually
+not be as anchored to an individual version of Unicode as the current version
+does.
+Don Hollander:
+
+So with that and we now are spot on time for the next group to come in.
+Thank you very much. Any questions we’ll be in the hallway or online. Thank
+you.
+
+Ashwin Rangan: Thank you, Ram.
+
+END
+
+Author
+Deleted: internet
+
+

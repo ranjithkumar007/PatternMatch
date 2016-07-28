@@ -1,0 +1,142 @@
+                List of all files that have the pattern and total number of matches
+
+1.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Rev of All Rights Prot Mech in all gTLDs en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: Cross-Community Session: Review of All R...
+  Count of Matching words found  ---- 2
+
+2.Name of the File               ---- Transcript ISPCP 27 June Helsinki[1] 
+  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: Internet Service Providers and Connectiv...
+  Count of Matching words found  ---- 4
+
+3.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Outreach and Engagement Session PM en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: At-Large Outreach and Engagement Session_2
+  Count of Matching words found  ---- 6
+
+4.Name of the File               ---- Transcript GNSO Board 27 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: GNSO Meetings (Part 2)
+  Count of Matching words found  ---- 2
+
+5.Name of the File               ---- Transcript GNSO Update 2 27 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: GNSO Meetings (Part 3)
+  Count of Matching words found  ---- 4
+
+6.Name of the File               ---- ICANN56 HEL Sun26Jun2016 CCWG Accountability WS2 Session en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Sunday/ICANN56: CCWG Accountability WS2 Session
+  Count of Matching words found  ---- 129
+
+7.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 GAC Op Princ Rev WG Presentation to GAC Plenary en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GAC Operating Principles Review Working...
+  Count of Matching words found  ---- 3
+
+8.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 GAC Human Rights and International Law WG Meeting en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GAC Human Rights and International WG Me...
+  Count of Matching words found  ---- 3
+
+9.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ccNSO Members Meeting Day 2 Part 2 en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: ccNSO Members Meeting Day 2 (Part 2)
+  Count of Matching words found  ---- 2
+
+10.Name of the File               ---- Transcript NCUC 29 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GNSO Non Commercial Users Constituency N...
+  Count of Matching words found  ---- 10
+
+11.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ccNSO Members Meeting Day 2 Part 1 en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: ccNSO Members Meeting Day 2 (Part 1)
+  Count of Matching words found  ---- 3
+
+12.Name of the File               ---- Transcript RySG 29 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: gTLD Registries Stakeholder Group Sessio...
+  Count of Matching words found  ---- 2
+
+13.Name of the File               ---- Transcript CSG Open Meeting 29 June 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GNSO - COMMERCIAL STAKEHOLDERS GROUP (CS...
+  Count of Matching words found  ---- 24
+
+14.Name of the File               ---- Transcript Thick WHOIS Part 1 29 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: Thick Whois Policy Implementation - Meet...
+  Count of Matching words found  ---- 1
+
+15.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 GAC Public Safety Working Group Meeting en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GAC Public Safety Working Group Meeting
+  Count of Matching words found  ---- 10
+
+16.Name of the File               ---- Transcript GNSO RDS3 28 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Next-Generation Registration Direct..._4
+  Count of Matching words found  ---- 1
+
+17.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 GAC meeting with ccNSO en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GAC meeting with ccNSO
+  Count of Matching words found  ---- 3
+
+18.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 IANA Stew Trans and CCWG Acc WS 1 en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: IANA Stewardship Transition and CCWG Acc...
+  Count of Matching words found  ---- 1
+
+19.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 PDP New gTLD Subsequent Procedures en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: Cross-Community Session: New gTLD Subseq...
+  Count of Matching words found  ---- 2
+
+20.Name of the File               ---- Transcript GNSO RDS2 28 June Helsinki [1] 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Next-Generation Registration Direct...
+  Count of Matching words found  ---- 9
+
+21.Name of the File               ---- Transcript RDS 1 28 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Next-Generation Registration Direct...
+  Count of Matching words found  ---- 1
+
+22.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 ccNSO Members Meeting Day 1 Part 4 en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 4)
+  Count of Matching words found  ---- 1
+
+23.Name of the File               ---- Transcript NCSG PC 28 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO - NCSG Policy Committee Meeting
+  Count of Matching words found  ---- 1
+
+24.Name of the File               ---- Transcript IGO 28 June Helsinki  
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO IGO-INGO Access to Curative Rights...
+  Count of Matching words found  ---- 30
+
+25.Name of the File               ---- WG session slides   Helsinki 2016 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO IGO-INGO Access to Curative Rights...
+  Count of Matching words found  ---- 11
+
+26.Name of the File               ---- Transcript IPC RY 28 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Cross-Constituency meeting between...
+  Count of Matching words found  ---- 1
+
+27.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 At Large EURALO General Assembly Part 1 en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: At-Large EURALO General Assembly (Part 1...
+  Count of Matching words found  ---- 3
+
+28.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Privacy and Proxy Services Accreditation en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: Privacy and Proxy Services Accreditation...
+  Count of Matching words found  ---- 14
+
+29.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 GAC Communique Drafting Session en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GAC Communique Drafting Session
+  Count of Matching words found  ---- 3
+
+30.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 At Large Leadership WS en 
+  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: At-Large Leadership Work Session
+  Count of Matching words found  ---- 1
+
+31.Name of the File               ---- Transcript GNSO RPM 30 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GNSO Review of All Rights Protection Mec...
+  Count of Matching words found  ---- 6
+
+32.Name of the File               ---- 20160630 live scribe transcript   council 
+  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GNSO Council Public Meeting
+  Count of Matching words found  ---- 6
+
+33.Name of the File               ---- transcript Thick Whois IRT part 2 30 June 2016 
+  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: Thick Whois Policy Implementation - Meet...
+  Count of Matching words found  ---- 1
+
+34.Name of the File               ---- Transcript GNSO Council Wrap Up 30 June Helsinki 
+  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GNSO Wrap-Up Session
+  Count of Matching words found  ---- 12
+
+
+
+Total number of times the Word jurisdiction appeared in the entire Folder is 312
+

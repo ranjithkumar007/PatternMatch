@@ -1,0 +1,1261 @@
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+Segunda-feira, 27 de junho de 2016 – 15:00 às 16:30 EEST
+ICANN56 | Helsinque, Finlândia
+
+MARIKA KONINGS:
+
+Por favor, ocupem seus lugares, a sessão vai começar daqui a
+pouco.
+Por favor, ocupem seus lugares. Vamos começar. Se querem
+continuar falando, sugiro que saiam da sala. Por favor.
+Obrigado a todos por estarem presentes nessa sessão. Essa é a
+sessão intercomunitária da próxima geração de serviços de
+diretório de registro, vamos estar aqui com o grupo de trabalho,
+vou passar a palavra para os membros depois, mas antes quero
+fazer alguns anúncios. Levem em consideração que os
+microfones nas mesas não estão ativados, vamos ter microfones
+para a participação, há colegas na sala que estão com
+microfones na mão, então quando for a sessão de perguntas e
+respostas, devem levantar a mão, fazer uma fila, e quando
+pegarem o microfone, acessem a sessão da sala. Também
+teremos uma espécie de pesquisa de opinião para que os líderes
+da equipe de trabalho tenham noção do nível de conhecimento
+que vocês têm na sala com relação aos itens e à audiência,
+participando, para fazer uma avaliação e ver de que maneira
+
+Observação: O conteúdo deste documento é produto resultante da transcrição de um arquivo de áudio para
+um arquivo de texto. Ainda levando em conta que a transcrição é fiel ao áudio na sua maior proporção, em
+alguns casos pode estar incompleta ou inexata por falta de fidelidade do áudio, bem como pode ter sido
+corrigida gramaticalmente para melhorar a qualidade e compreensão do texto. Esta transcrição é
+proporcionada como material adicional ao arquivo de áudio, mas não deve ser considerada como registro
+official.
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+levar a cabo essa reunião no futuro. Por favor baixem o
+aplicativo da reunião para terem assessoria necessária sobre a
+sessão. Se a sala ficar lotada, há assentos ao lado, então
+ocupem esses lugares.
+Certamente haverá muita gente. Teremos também participação
+remota, que é uma ferramenta que permite pessoas formularem
+perguntas, aí acabaram os anúncios que eu deveria passar.
+Isto está sendo transcrito, gravado, certamente já começamos
+com a gravação. Começamos com a gravação? Estão dizendo
+que sim, então passo a palavra para Chuck Gomes.
+
+CHUCK GOMES:
+
+Muito obrigado a todos por estarem aqui, sou presidente do
+grupo de trabalho para PDP dos serviços de diretório de
+registro.
+
+Em
+
+realidade,
+
+essa
+
+é
+
+a
+
+primeira
+
+sessão
+
+intercomunitária celebrada com esse novo modelo, então é um
+grande prazer que seja isso assim, muitas pessoas estão
+questionando esse modelo e essa abordagem das reuniões, mas
+estou otimista porque o primordial que faz a ICANN é o
+desenvolvimento de políticas e o foco colocado nessa semana,
+então, essas pessoas que não participam de grupos de trabalho
+tem a oportunidade de participar de sessões com as sessões de
+amanhã, e isso é maravilhoso porque elas estão desenhadas
+
+Página 2 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+para ter a maior interação possível, então por favor se reúnam
+com a gente.
+Eu já me apresentei, vou passar à apresentação dos colegas. Ao
+meu lado está David Cake, que é um dos vice-presidentes.
+Depois, Susan Kawaguchi. Também tem outra das vicepresidentes, que não está presente porque tem outra reunião,
+Michele Neylon. Eles provêm de outras partes interessadas, o
+grupo de partes interessadas dentro do GNSO. Sou da parte
+constitutiva dos registradores e eles vêm de outra unidade.
+Então, agora, formamos uma equipe de liderança. É muito
+importante apresentar os outros 2 membros da nossa equipe de
+liderança, porque são incríveis e porque não podemos perdelos, estaríamos perdidos se eles não estivessem com a gente,
+são as pessoas que representam o pessoal da ICANN. Uma é Lisa
+Phifer, e Marika Konings, certamente já as viram. Lisa trabalhou
+no trabalho do CWG, e rapidamente queria que dissessem,
+levantado a mão, não é necessário falar, mas que digam,
+levantando a mão, quem é membro de grupo de trabalho. Os
+que são membros, levantem a mão. Quero agradecer então e
+dizer que essas pessoas estão trabalhando arduamente, muito
+obrigado.
+Agora, levantem a mão os que são observadores do grupo de
+trabalho. Obrigado, espero que a observação que estejam
+fazendo seja positiva e a cada vez que queiram ser grupos de
+
+Página 3 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+trabalho, poderão fazê-lo. Lembrem-se disso. Agora, temos uma
+equipe de liderança mas as vezes não funciona totalmente bem.
+Mais importante, quantos de vocês são apenas visitantes?
+Levantem a mão.
+Muito obrigado. Então, Tendo dito isso, vamos tentar dar uma
+breve introdução. Vou passar a palavra para David, para que ele
+faça a introdução do PDP. Vai ser muito breve, por favor sintamse livres de fazer todas as perguntas que quiserem, ou durante a
+semana.
+
+DAVID CAKE:
+
+Olá. Sou um dos vice-presidentes do grupo de trabalho, como
+disse Chuck. Eu represento o grupo de partes interessadas, não
+comerciais, e represento o Electronic Frontiers da Austrália.
+Estamos trabalhando, e vou passar uma breve introdução do
+que estamos fazendo no grupo de trabalho. Espero que levem
+em consideração o que significa RDS, significa serviços de
+diretório de registro. O WHOIS, sistema do WHOIS, é um exemplo
+de serviço de diretório de registro. Atualmente é o único, mas
+nos pediram que avaliássemos se era necessário substituir por
+uma próxima geração de serviço de diretório de serviço. Quando
+falamos de RDS ao específico, o que se estabeleceu no SSAC-51,
+que é um protocolo, a criação de protocolos do IETF, há um
+protocolo específico criado para substituir o do WHOIS, mas não
+
+Página 4 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+significa que haja diferentes características que não estamos
+utilizando, porque isso envolveria modificar os serviços de
+diretórios existentes, e isso também envolve dados que estão
+ali. Quando falamos em dados, nos referimos ao WHOIS mas
+também aos grandes bancos de dados e de bancos de dados de
+estrutura, informação.
+Vemos que informação, excesso é necessário, a informação é
+coletada, por quanto tempo é retiro, então o trabalho deste
+grupo de trabalho em particular tem a ver com a história, como
+disse Chuck, do EWG, que é o grupo de trabalho de especialistas,
+que foi um grupo criado para abordar ou trabalhar sobre o
+registro, serviço de diretório de registro.
+Esse era um grupo de especialistas, não era um grupo de
+trabalho, é um grupo que se convocou dentro da comunidade
+da ICANN com pessoas de trabalho do PDP da GNSO, foi
+constituído pelo Board com o objetivo de determinar ou criar
+em lugar do WHOIS. O WHOIS tem uma história muito longa, de
+alguns anos atrás, nos anos 70 aproximadamente, mas o que
+poderíamos criar agora seria o exemplo que poderíamos criar na
+sua substituição. Há muito trabalho implementado, muito
+esforço. Em realidade, esse é um processo ascendente criado
+pela comunidade com a participação da comunidade mas
+certamente foi provado que é possível substituir o WHOIS em
+teoria, e que isso teria vantagens possíveis ou potenciais. Então,
+
+Página 5 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+esse grupo de trabalho foi criado para examinar essa
+substituição como parte do mandato que temos. Isso se
+concretizou no relatório mas também avalia o serviço de
+diretórios de registro como por exemplo, ter os relatórios do
+RSAC,
+
+WHOIS,
+
+e
+
+muita
+
+informação
+
+relevante
+
+porque
+
+trabalhamos muito para poder coletar toda informação. É um
+grande trabalho, e atualmente estamos criando uma espécie de
+grupo de trabalho com a GNSO para determinar de que maneira
+vamos abordar essa tarefa importante, porque é uma tarefa
+grande, e devemos desenvolver um PDP e realmente é uma
+tarefa gigante.
+Estamos também levando a cabo uma transição, que é um
+trabalho muito importante. Devemos sentar e ver como vamos
+trabalhar e abordar essa situação, e vamos dividir nosso
+trabalho em etapas. Chuck vai contar depois em detalhe esse
+tema, mas o importante é que atualmente nos encontramos na
+fase 1. O propósito da fase 1 é, em essência, determinar se
+precisamos de um novo modelo de RDS. O EWG demonstrou que
+era possível desenhar um, que era possível, algumas vantagens
+ou desvantagens para implementar o WHOIS, mas não
+determinou se seria uma política ascendente, o processo de
+políticas ascendente levado a cabo pela comunidade. Essa é
+nossa fase 1 de trabalho, estamos considerando os requisitos
+para ter um novo RDS, se tivemos um novo, trabalhar ou
+
+Página 6 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+determinar com o WHOIS, ver qual o sistema atual, se seria
+possível fazer alguma espécie de modificação do que já existe
+ou se vamos dizer não, vamos ter um modelo de sistema que
+vamos implementar no futuro e que vai ter algumas implicações
+tecnológicas diferentes.
+Outros assuntos que ainda não debatemos, as mais obvias, acho
+que já tiveram seu debate dentro da comunidade, como por
+exemplo se existe um protocolo de acesso diferenciado ou se vai
+se permitir o acesso a algumas pessoas específicas, muitas
+pessoas que utilizam esse sistema, isso é uma característica
+especial que vai mudar muitas situações. Talvez podemos dizer
+que não é uma característica fundamental e vamos substituir,
+mas estamos no processo de determinar estas questões. Como
+resultado da coleta de dados. Há muita informação. Temos uma
+longa lista de requisitos, muitos são difíceis de comandar, não
+só porque estamos analisando muitos documentos, mas
+também porque estamos debatendo o WHOIS, se o RDS vai ser
+apresentado pelo AWG, se há documentos externos, temos que
+levar em conta leis de proteção, muitas questões. E também as
+contribuições das SG e AC e demais associações constitutivas.
+Então, basicamente aqui é onde estamos agora, este é o
+contexto de nosso trabalho, aqui apresentamos quais são
+nossas atividades, nosso alcance e também em que estamos
+trabalhando.
+
+Página 7 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+Alguma coisa que esqueci?
+
+CHUCK GOMES:
+
+Sobre a fase 2 e 3.
+
+DAVID CAKE:
+
+Muito bem. A fase 1 é para determinar se vamos precisar ou não
+de um novo RDS. Vamos apresentar um relatório no final do ano,
+esperamos cumprir, vamos também apresentar um relatório de
+questões
+
+apresentado
+
+à
+
+comunidade,
+
+vamos
+
+também
+
+apresentar ao conselho da GNSO, com uma PDP da GNSO, e
+esperamos que exista um debate depois de apresentado esse
+relatório, que exista o debate dentro da comunidade. Mas, isto,
+finalmente, com a decisão primordial, será determinar se vamos
+precisar de um novo RDS ou não. Parte deste relatório vai
+apresentar requisitos que supomos que vamos precisar para um
+novo RDS e também uma explicação de por que precisamos de
+um novo RDS.
+Então, queremos ser bem claros quanto aos requisitos, quais
+questões devem ser mudadas, o que vamos debater.
+Vamos passar à etapa 2. Esta etapa, vamos tratar os seguintes
+temas. Temos um novo RDS? Então o que vamos precisar? Qual
+será sua forma, talvez tenhamos que diagramar quanto trabalho
+vamos ter que fazer, quais as atividades a desenvolver, também
+
+Página 8 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+vamos ter que tratar muitos assuntos, muitas questões, e vamos
+precisar levar em conta assuntos técnicos, práticos, como se
+realizaria a troca ou mudança, temos que fazer uma avaliação
+de risco, e tudo isso faz parte da etapa 2.
+Na etapa 3 temos que ver de que forma vamos implementar
+essas ideias, concretizar esse sistema, então é um longo
+caminho para percorrer.
+
+CHUCK GOMES:
+
+Obrigado, David. Para aqueles que não estão na sala, e que
+estão conectados através do áudio, eu quero agora de forma
+breve voltar ao slide para que os senhores vejam as etapas nas
+quais estamos. Há a etapa número 1 na qual vamos identificar
+os requisitos possíveis para um novo RDS e se realmente
+precisamos de um novo, e temos que ser aqui com muito
+cuidado.
+Depois, na etapa 2 há um desenvolvimento específico da política
+na qual cumpriremos os requisitos, e a etapa 3, como falou
+David, é a etapa de implementação e vai existir uma
+coexistência com o sistema atual. A etapa 3 pode se desenvolver
+de forma simultânea, dependendo do que aconteça. Agora,
+vamos passar ao próximo slide. Isto está, tomamos a carta
+orgânica, não vamos ler em detalhe, mas há 11 áreas que são
+possíveis requisitos, e depois podem ver as mesmas áreas que
+
+Página 9 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+se aplicam à área de política e implementação. Vamos falar a de
+número de 7, rapidamente.
+Veremos o seguinte. Vamos chegar ao consenso, ao grupo de
+trabalho, e vamos tratar essas 11 áreas que vimos no slide
+anterior. O que estamos fazendo agora é o seguinte, estamos
+trabalhando nestes requisitos fundamentais e como disse David,
+criamos uma longa lista de possíveis requisitos, e o que vamos
+pedir aos senhores, hoje, é que surgiram outros requisitos.
+Temos alguns enumerados que vamos classificar depois, mas a
+ideia seria que os senhores possam comparar a nossa lista com
+aquela que os senhores estão pensando. Com certeza é uma
+lista muito longa, ainda estamos trabalhando de que forma
+podemos encurtar ela.
+David apresentou os requisitos fundamentais da etapa número
+1 com perguntas interdisciplinares, mas o que eu gostaria de
+fazer agora é o seguinte. Algumas pessoas vão apresentar
+exemplos de alguns requisitos mas antes de fazer isso, vamos
+passar ao seguinte ponto da agenda, que vai aparecer no
+próximo slide.
+
+DAVID CAKE:
+
+Há uma lista longa de requisitos. O que podemos fazer é enviar
+esse documento e tentar tratar alguns desses requisitos.
+
+Página 10 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+CHUCK GOMES:
+
+PT
+
+Obrigado, acho que vai ser mais claro conforme comecemos a
+trabalhar. Susan vai falar do plano de trabalho, e as
+oportunidades a curto prazo.
+
+SUSAN KAWAGUCHI:
+
+Como os senhores podem ver a partir deste slide, devo dizer que
+Chuck, Lisa, e Marika trabalharam muito para que este plano
+funcione. Estamos agora trabalhando de 9 a 11, os pontos de 9 a
+11 e por isso esta difusão externa vai ser conseguida depois de
+uma deliberação, depois chegaremos ao ponto 12 que tem a ver
+com a deliberação sobre todas as questões possíveis, e chegar a
+um acordo ou não acordo sobre o que deve ser redigido.
+Também podemos ver que estabelecemos para o que resta do
+ano o que vamos fazer e se podemos passar o próximo slide, não
+sei se vamos controlar daqui, obrigado.
+Temos então uma etapa de difusão externa precoce e formal,
+chegamos à comunidade, recebemos respostas, o grupo de
+trabalho está revisando todos esses temas junto com os outros
+trabalhos, e agora estamos num período de difusão externa que
+vai terminar amanhã, 28 de junho. Se os senhores têm alguma
+contribuição, queremos receber. Estamos também planejando
+outros períodos de difusão externa depois de recebermos o
+relatório preliminar para a etapa 1. Agora estamos na fase 1 da
+
+Página 11 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+etapa 1, vamos continuar esta etapa, precisamos da
+contribuição de todos para gerar este sistema, tomar decisões
+com base neste sistema.
+
+CHUCK GOMES:
+
+Obrigado, Susan. Quero comentar o que tem a ver com as datas
+e plano de trabalho. Acho que todo o grupo de trabalho e os
+observadores entendem este ponto, mas quando nós
+estabelecemos prazos, somos muito conscientes do fato de que
+não são prazos fixos, totalmente fixos. Há uma lista de requisitos
+nos sistemas de RDS, mas vamos descobrir outros requisitos
+passando esta data. Vai ser um processo bem dinâmico, porque
+vamos aprender à medida em que avancemos e que as coisas
+sejam resolvidas. Os senhores devem entender que estes prazos
+são importantes, porque ajudam a organizar o trabalho e a
+avançar, mas não são tão fixos como para não poder fazer
+mudanças caso consideremos necessário. Isto posto, vamos
+agora passar ao slide seguinte. Chegamos ao ponto 3 que é o
+ponto em que vamos tratar com mais detalhe hoje, pelo menos.
+Os senhores podem ver o primeiro ponto, aqui nos slides. Susan
+já falou disso, temos que estabelecer se podemos chegar a um
+consenso sobre todos esses requisitos que vamos gerar.
+Então, o segundo ponto indica uma área na qual estamos
+juntando há algumas semanas. Os nossos membros dos grupos
+
+Página 12 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+solicitaram requisitos adicionais e com certeza chegarão no dia
+de hoje estas contribuições dos diferentes grupos. Também
+queremos pedir aos senhores que nos ajudem com estes
+requisitos. Vamos abrir a porta para requisitos do sistema RDS,
+de outros requisitos a mais, e agora vamos então passar ao slide
+seguinte porque quero entrar aqui.
+Estas são as 5 áreas nas quais vamos trabalhar. Então, a partir
+daqui, vamos iniciar nas próximas semanas e meses a trabalhar
+em cima de 3 dessas áreas de forma conjunta, porque é difícil
+decidir qual vai ser em primeiro lugar, porque estão bem
+relacionadas. Então, vamos levar em conta os propósitos,
+depois a privacidade, e finalmente o acesso fechado.
+Desculpem, estamos falando de elementos de dados, então
+esses 3 são os que vamos trabalhar primeiro, e não sobram aqui
+em cima uma ordem especial, porque eles estão interrelacionados e interdependentes.
+Depois, vamos deliberar sobre os requisitos para o acesso
+fechado, e a precisão. E as últimas 6 perguntas que estão
+resumidas no quadro azul são as perguntas interdisciplinares.
+Vamos ver então quais são os requisitos possíveis. Próximo
+slide, por favor. Para que os senhores possam pensar um pouco,
+aqui há algumas ideias que podem ajudar. Quais são os
+requisitos possíveis que o novo marco de política dos dados de
+
+Página 13 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+registro de gTLDs e registro de diretório estão tratando. O que
+falta hoje no WHOIS, os senhores podem dizer, “O WHOIS não
+faz isso, poderia fazer isso outro.” E finalmente quais são as
+políticas de RDS que deveriam ser satisfeitas com os novos
+requisitos. Isso falamos para que os senhores possam se
+oferecer como voluntários, o que estamos procurando é um
+leque amplo refletido da vida real, e por isso esperamos receber
+suas contribuições, e que devem ser breves porque há muitas
+pessoas aqui, querem fazer seus comentários, então para
+começar, vamos falar com alguns membros de nosso grupo de
+trabalho, Lisa, e também Susan, vão compartilhar conosco
+alguns exemplos. Vamos então começar com o próximo slide.
+Vamos tratar daqui a pouco esses temas, agora quero pedir a
+Jim Galvin, se tem um microfone por aí, que venha aqui para a
+frente para que as pessoas te vejam.
+Jim vai contar um exemplo de uma dessas áreas, e se podemos
+passar ao slide seguinte, possamos talvez ver de qual área ele
+vai falar.
+
+JIM GALVIN:
+
+Sou vice-presidente do SSAC, mas quero me concentrar no
+ponto de cima, que está aqui no slide, que são os elementos de
+registro, e os possíveis para esse grupo de trabalho de PDP em
+
+Página 14 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+especial que são responder a pergunta de qual é o propósito dos
+dados de registro.
+Quero oferecer ao grupo, dizer ao grupo que faça uma distinção
+entre o fato de que os dados apresentados hoje e que existem
+hoje não são os mesmos que é responder a pergunta antiga do
+por que precisamos desses dados em primeiro lugar, e para que
+objetivo, quem vai utilizar, para que vai utilizar. E depois
+também quais são os dados que vamos colher para cumprir com
+esse requisito. O que é importante neste debate é que o grupo
+de especialistas que vimos no slide anterior, se os senhores
+leram o relatório que eles apresentaram, fizeram um trabalho
+excelente quando catalogaram todas as razoes pelas quais os
+propósitos, os objetivos pelos quais os dados do WHOIS que
+existem hoje estão sendo utilizados, mas quero marcar essa
+distinção. Não é isso o porquê colhemos em primeiro lugar. Esta
+pergunta em especial é a mais importante, talvez.
+Os dados dos nomes de domínio são reunidos, devem continuar
+sendo reunidos para cumprir todos esses objetivos para as quais
+se utilizam hoje, e isso é diferente de dar um passo para trás e
+fazer a pergunta específica do que é que deve ter a comunidade
+e o que a comunidade está pronta para apoiar, quais são os
+objetivos dos dados de registro, esse é um ponto que é uma
+pergunta de requisitos básicos que esse grupo deve fazer, e é
+
+Página 15 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+diferente da pergunta que respondeu o grupo de especialistas.
+Esse é meu comentário.
+
+CHUCK GOMES:
+
+Obrigado, Jim. Eu não posso ler todo o contexto que ele deu,
+mas eu posso falar quais são os requisitos. Eu queria que ele
+falasse para ver o panorama geral. Reparem que falamos de
+requisitos
+
+possíveis
+
+porque
+
+ainda
+
+não
+
+começamos
+
+a
+
+deliberação, não programamos o consenso sobre esses
+requisitos. Espero que alguns desses sejam fáceis, eu sei que
+outros são difíceis para chegar num consenso, e que vai exigir
+muito tempo para chegar neste consenso. Por isso, não
+podemos cumprir com os requisitos, ou termos alguns
+requisitos.
+Quero chamar Beth Allegretti.
+
+BETH ALLEGRETTI:
+
+Outro dos requisitos para o registro dos serviços de registro é o
+acesso. Quem e como pode ter acesso a esses dados, por
+exemplo, eu trabalho para o grupo Fox Entertainment Group. Eu
+trabalho com uma carteira de clientes de domínios, e queremos
+verificar nossa própria informação, por isso eu utilizo o tempo
+todo para garantir que nossa informação seja correta. Se
+adquirimos alguma nova unidade de negócio, talvez eu não
+
+Página 16 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+saiba quais são os domínios que eles têm, e utilize o WHOIS para
+chamar outros domínios da carteira corporativa. Outros
+requisitos possíveis é o acesso a esses dados e como podemos
+adotar quem tem esses domínios e como podemos receber.
+
+CHUCK GOMES:
+
+Obrigado Beth, e agora vai falar Susan.
+
+SUSAN KAWAGUCHI:
+
+Um dos requisitos de meu trabalho, já que também tenho uma
+carteira de domínios globais, é a precisão. A precisão nos nossos
+próprios dados, tenho acesso a esses dados para ter certeza de
+que são precisos, e também para ter certeza de que os terceiros
+não utilizem os mesmos dados. Os meus dados e os da empresa
+são precisos apenas para os nossos registros, e não para o de
+outros. Isso acontece com mais frequência que os senhores
+pensam. A precisão então é um requisito.
+
+CHUCK GOMES:
+
+Voltaremos um slide para trás, por favor. Lisa, por que não conta
+um pouco sobre o que aparece aqui?
+
+LISA PHIFER:
+
+Obrigada. Sou Lisa Phifer, e quero dar alguns exemplos a mais.
+Jim já falou no slide anterior sobre a necessidade de falar qual é
+
+Página 17 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+o propósito, o objetivo do registro, isso não só veio de um
+relatório SAC, esse seria um exemplo dos diferentes temas que
+todos os senhores podem pensar ou querer que o grupo de
+trabalho inclua como requisitos possíveis. Estes outros
+exemplos apresentam o que a pessoa gosta ou não gosta no
+sistema do WHOIS. Há pessoas que estão preocupadas que o
+sistema do WHOIS atualmente falta alguns mecanismos para
+acessar controle, integridade e confidencialidade. Para muitos,
+é percebido como uma falta no sistema do WHOIS, e os
+requisitos possíveis seriam tratar esses temas. Poderíamos ver
+como requisitos de privacidade, ou também como requisito
+para dar algum nível de controle de acesso que vai além do que
+o sistema atual estabelece. Outro exemplo tem a ver com as
+expectativas que os senhores possam ter, se vão desenhar novo
+sistema hoje, não devemos restringir e ver só o que está no
+WHOIS atualmente, se for assim, quais seriam os requisitos para
+aplicar num sistema atual. A partir do relatório do EWG, vemos
+que os dados de registro fornecidos através de um serviço de
+diretório seriam apenas fornecido por um conjunto de objetivos
+que determina por uma política e que através dos serviços de
+registro não justificariam na disposição para diferentes
+sistemas. Esse é um requisito que acabará sendo recomendado
+por esse grupo.
+
+Página 18 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+Esses exemplos todos vem de um documento, e esta maneira
+em que nós temos abordado a lista de requisitos. Começamos
+por todo o trabalho feito no passado, todas as posições dos
+diferentes grupos e tentamos tentar tirar um histórico de todos
+esses dados e trabalhar com base a isso.
+
+CHUCK GOMES:
+
+Obrigado, Lisa.
+Agora, é sua vez, e estou falando com os convidados que podem
+ser também observador, mas vou pedir aos membros do grupo
+de trabalho que não falem agora, eles vão ter muitas
+oportunidades de trabalhar com esses requisitos, então peço
+que sejam muito breves, comentem qual é o requisito, falem
+devagar, vamos tentar captar isso, e mostrar o comentário na
+tela.
+Então, por favor, quais são os microfones? São esses aqui, então
+vamos começar aqui com essa área. Temos alguém que tenha
+um requisito que vocês gostariam que fizesse parte do
+requisito?
+Vamos revezar as áreas na medida em que avançamos, então
+diga seu nome, afiliação, e qual é o requisito.
+
+Página 19 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+GEMA CAMPILLOS:
+
+PT
+
+Boa tarde, sou Gema Campillos, representante do GAC pela
+Espanha. Meus requisitos seriam termos uma apresentação
+uniforme de todos os dados, em todos os registros, e também
+acesso às autoridades de aplicação da lei.
+
+CHUCK GOMES:
+
+Você mencionou 2 requisitos, então. Só peço que digam se há
+mais de um requisito.
+
+GEMA CAMPILLOS:
+
+O segundo requisito é ter mais acesso, acesso mais fácil às
+autoridades policiais, e se possível, consultar o histórico de
+registro de nomes de domínio.
+
+CHUCK GOMES:
+
+Este é um terceiro requisito?
+
+GEMA CAMPILLOS:
+
+Sim, este é um terceiro requisito.
+
+CHUCK GOMES:
+
+Obrigado. Vou voltar à esta questão depois.
+
+Página 20 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+MALCOLM HUTTY:
+
+PT
+
+Malcolm Hutty da LYNX. Eu não vou recomendar isso, mas é uma
+questão que eu gostaria que o grupo de trabalho considerasse.
+Ninguém registra o nome de usuário sem dados que possam ser
+rastreados para que a pessoa seja considerada responsável.
+Essa deve ser considerada uma pergunta explicita, e considerar,
+se a resposta for sim, explicar o propósito disso.
+
+CHUCK GOMES:
+
+Agora, vamos ir para a área à direita, no fundo da sala. Acho que
+não temos nenhum comentário aqui sobre requisito, e aqui há
+outra área da sala, na direita. Alguém levantou a mão.
+
+THOMAS DE HAAN:
+
+Olá, sou o representante da Holanda pelo GAC. Eu não sei se o
+que vou mencionar é um requisito, talvez seja um requisito
+imposto juridicamente, mas seguindo o espirito de muitas
+legislações sobre dados no mundo, acho que um requisito
+básico seria que os usuários fornecessem seus dados e
+explicassem também os objetivos deles, o motivo de por que
+eles estão solicitando isso.
+
+CHUCK GOMES:
+
+Sim, é um possível e razoável requisito, que acho que vamos
+criar, e aprecio muito seu comentário. Aqui nesta outra área,
+temos mais uma pergunta.
+
+Página 21 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+SEBASTIEN BACHOLLET:
+
+PT
+
+Bom dia, muito obrigado.
+Vou falar em francês porque temos um sistema de interpretação
+da sala.
+Sou Sebastien Bachollet. Eu quero sugerir 2 coisas. Primeiro,
+como usuário individual que utiliza o nome de domínio pessoal,
+meu próprio nome de domínio, eu não quero, eu gostaria que
+meus dados não estivessem disponíveis à todas companhias de
+marketing do mundo, porque seriam muito invasivos então
+quando eu compro algo no site da internet, eu gostaria de poder
+acessar essas informações sobre esse site que estou utilizando.
+As pessoas responsáveis pelo site que estou procurando, se a
+companhia é real ou não.
+
+CHUCK GOMES:
+
+Muito obrigado. Vejo outra pergunta aqui no fundo da sala.
+
+DAVID HUGHES:
+
+Sou David Hughes, membro do IPC. Eu tenho um requisito que
+alguém mais aqui mencionou um pouco, a questão do acesso às
+autoridades policiais, mas também há muitas terceiras partes
+que tem motivos legítimos, se eles acham que seus direitos
+
+Página 22 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+poderiam ser infringidos, que também desejariam ter esse
+acesso, e é uma questão que deveria ser observada.
+
+CHUCK GOMES:
+
+Muito obrigado. Para divertir um pouco, quero perguntar que
+todos
+
+aqueles
+
+que
+
+aqui
+
+estão
+
+falando
+
+e
+
+fornecendo
+
+informações, todos vocês, vocês realmente apoiariam esses
+requisitos?
+Ok. Realmente são coisas legítimas, são pontos de vista de toda
+a comunidade do grupo de trabalho, muitos pontos de vista
+diferentes, e aqui como equipe de líderes, vamos tentar alcançar
+um certo consenso.
+
+WANAWIT AHKUPUTRA:
+
+Represento o GAC. Um dos requisitos que não estamos
+utilizando muitos caracteres latinos ou ASCII, então a questão
+da interação dos dados, exigiriam que o sistema NGRES fosse
+utilizado para fazer um PDP sobre traduções dessa interação,
+para as informações de contato, e ter informações nos
+endereços, porque tem muitos de nós que não utiliza o sistema
+ASCII na nossa língua local.
+
+Página 23 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+CHUCK GOMES:
+
+PT
+
+Muito bom, é um ponto interessante. Há vários outros grupos de
+trabalho que recentemente completaram uma lista política e
+muito tem a ver com a tradução e transliteração dos dados de
+registro.
+Vamos então trabalhar juntamente com esses grupos de
+trabalho sobre essa questão.
+
+ANNE AIKMAN-SCALESE:
+
+Oi, represento o IPC, e minha pergunta tem a ver com os avisos
+da central de marcas registradas e do tipo de processo de
+filtragem que devemos passar quando recebemos um aviso de
+IP sobre uma marca registrada, recebemos avisos do cliente, e
+uma das análises que fizemos é tentar ver quem é o registrante,
+e em muitos casos elimina muitos problemas, porque vemos de
+onde, quem é o registrante, o tipo de companhia, e verificamos
+para o cliente se essa é uma área de preocupação ou não, e na
+maioria dos avisos que recebemos, reclamações sobre IPs, vou
+mencionar que 67%, 70%, o problema, qualquer problema, na
+investigação, são eliminados. Se eu posso encontrar mais
+informação para os clientes, tomo o risco de perguntar e
+investigar mais, se não significar um risco de infração para o
+cliente. Então, se não fizesse isso, teríamos muito trabalhos e
+medidas desnecessários.
+Muito obrigada.
+
+Página 24 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+CHUCK GOMES:
+
+Muito obrigado. Temos mais uma pergunta aqui.
+
+NIGEL CASSIMIRE:
+
+Oi, sou Nigel Cassimire, da União de Telecomunicações do
+Caribe. Sou observador do GAC e acho que para todo domínio
+registrado, deveria haver um contato administrativo, um
+contato técnico, e que essa informação deveria poder ser
+acessada publicamente, a partir de uma data X para o contrato
+técnico, e outra data para o administrativo, etc. Também há
+outros requisitos mencionados pela pessoa, sobre investigar,
+que também pode ser válido, mas acho que esses dados da
+pessoa de contato administrativo e técnico devem ser
+publicamente acessíveis.
+
+CHUCK GOMES:
+
+Muito obrigado.
+
+STEFANIA MILAN:
+
+Stefania Milan do novo grupo de partes interessadas não
+comerciais. Eu quero dar outra perspectiva. Eu gostaria, ao invés
+de adicionar dados à lista, eu eliminaria dados para diminuir a
+quantidade, e como contribuição, eliminar alguns dados daqui,
+especialmente o endereço associado, porque pode ser daninho
+
+Página 25 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+para hackers, bloggers ou jornalistas potenciais. Então, acho
+que o GT deveria considerar esses aspectos para evitar riscos
+desnecessários.
+
+CHUCK GOMES:
+
+Muito bem, aprecio você mencionar isso, mas o que você aqui
+fez entra na fase da deliberação, que será o momento em que
+vamos decidir que tipos de dados, não é agora, mas mesmo
+assim agradeço muito. Não podemos neste momento conversar
+sobre essa questão, e respeito muito sua contribuição e já tenho
+feito isso, muitas vezes no GT, estamos adiantando aqui o
+negócio. Tenho feito isso, desculpe, sei que o trabalho vai ser
+muito duro, vamos ter muitas pessoas que não vão concordar,
+muitas diferenças, vamos tentar encontrar uma solução mas o
+ponto que a senhora levantou ainda não entraria nessa
+discussão aqui. Temos apenas 30 minutos para continuar, mas
+agradeço mesmo assim pelo comentário.
+Temos outra pergunta.
+
+JORDYN BUCHANAN:
+
+Jordyn Buchanan da Google. Eu vou abordar a questão como
+disse a senhora, mas de outra maneira. Realmente, vejo que são
+muitos os requisitos e devem ser coletados, acho que
+deveríamos ter menos. Não deveríamos incluir requisitos em
+
+Página 26 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+que haja mecanismos, outros mecanismos alternativos para
+alcançar o mesmo resultado da mesma maneira, e considero
+isso utilizar um filtro.
+
+CHUCK GOMES:
+
+Obrigado. Lisa e Susan são quem estão fazendo o trabalho
+pesado de tudo isso, e é a questão de fazer a lista com os
+menores requisitos possíveis, fazer um filtro, uma seleção, uma
+triagem. É isso mesmo. Temos, refinando a lista, e isso faz com
+que a questão seja mais fácil de digerir. Muito obrigado, Jordyn.
+
+JEAN-JACQUES SUBRENAT: Oi, Chuck. Não é bem um requisito que vou sugerir, vou pedir sim
+que prestem atenção ao que vou dizer, porque vai ter um
+impacto nos requisitos futuros. Sobre um plano para termos um
+novo acordo transatlântico de proteção de dados que está
+sendo negociado entre a Comissão Europeia e os Estados
+Unidos, que um escudo de privacidade. Então, acho que esse
+público aqui deveria ser consciente das razoes pela falha da
+segurança. Uma é a falta de transparência, e a segunda é que
+era muito parcial o acordo em princípio negociado entre os
+Estados Unidos e a Comissão Europeia, foi anulado, cancelado
+para a corte de justiça europeia, porque realmente era
+absolutamente parcial e à favor dos americanos. Então, é uma
+sugestão, e que isso seja um requisito para seu GT, que você e
+
+Página 27 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+sua equipe observasse o que está acontecendo, acompanhem o
+que está acontecendo nessas negociações, porque a União
+Europeia e os Estados Unidos são 2 dos principais atores do
+mundo para todas as questões comerciais em geral, e também
+na área da proteção de dados. Vocês deveriam acompanhar
+então essas conversas, e vou depois transmitir o link para esse
+documento.
+
+CHUCK GOMES:
+
+Obrigado. Eu garanto que temos vários membros do GT que
+estão fazendo isso, mas seus pontos são muito uteis, é muito
+bom enfatizar isso, e temos uma série de contribuições
+possíveis, muitos argumentos, e vou fazer com que essa questão
+levantada pelo senhor realmente certifique que esteja incluída.
+Aprecio muito seu comentário, e nessa parte temos outra
+pergunta.
+
+MATTHEW:
+
+Eu quero chamar a atenção sobre uma questão técnica
+relacionada ao RDS, e que isso, antes do sistema WHOIS
+tradicional, não havia um acesso claro e útil para os dados, por
+parte de aplicativo de terceiros, por isso eu acho que é
+necessário definir uma boa interface para acessar as
+informações para esse novo sistema RDS, e como acontece com
+muitos outros serviços, precisamos de um API que nos permita
+
+Página 28 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+acessar aplicativos e informações nesse novo sistema RDS
+facilmente.
+
+RUBENS KUHL:
+
+Rubens Kuhl, do grupo de partes interessadas do .BR, e do
+conselho GNSO, mas falo à título pessoal. O requisito seria
+sugerir que consideraram ter um mecanismo rápido de
+verificação para saber se um domínio está utilizando proteção
+de privacidade ou proxy. E eu digo rápido porque facilitaria
+muito na procura de resposta ou também quando houver
+preocupação sobre omissão de informações, e há pessoas que
+querem saber sobre isso. Algumas pessoas sugeriram que se
+fosse o DNS que fizesse isso, outras que fosse o RDAP, mas é um
+detalhe de implementação. O requisito seria ter um acesso em
+tempo real às informações.
+
+CHUCK GOMES:
+
+Muito obrigado, há um grupo de trabalho de privacidade e
+proxy. Não me lembro da sigla, mas tem trabalhado muito e
+houve uma série de recomendações que foram encaminhadas
+ao Board por parte do conselho GNSO, e o Board está
+considerando essas recomendações, e num futuro próximo, vão
+ter algum tipo de processo de comentário público também.
+
+Página 29 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+Temos mais alguma pergunta? Realmente, quero agradecer,
+essa participação é ótima, apreciamos muito.
+A contribuição feita, mas quero ter certeza de que se não
+incluímos algum requisito, que sejam incluídos. Então, vamos
+selecionar tudo que se falou aqui para analisar assim que
+possível, e chegar a uma lista de requisitos, e ao consenso em
+cada um destes requisitos, ver os pontos a favor ou contra, ver
+se precisa de verificação, mas é a única oportunidade que temos
+para receber contribuições. Temos apenas um fórum por ano
+para a questão de política e não é muito bom. Para o próximo
+fórum da reunião da ICANN, vai ser um pouco complicado.
+Vamos ficar em contato no grupo de trabalho para os que estão
+familiarizados com a GNSO e seus grupos de trabalho, devem
+saber que há um relatório inicial no final de todo trabalho que é
+expedido e se pedem contribuições, então decidimos que vamos
+fazer de uma forma diferente. Decidimos entrar em contato com
+a comunidade, com pedidos menores, e isso é um dado mais
+realista para os grupos de trabalho, então vão aparecer várias
+contribuições para este tema. Com certeza, vamos fazer um
+replanejamento depois do questionário e com certeza
+voltaremos a entrar em contato e contar o que conseguimos.
+Vamos dizer, “Olha, isso fez o grupo de trabalho, o que os
+senhores acham?” A ideia seria que isso seja relativamente
+breve, e esperamos contar também com o feedback a respeito
+
+Página 30 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+do processo do grupo de trabalho, sabemos que seja difícil
+chegar a um consenso porque são pontos de vista bem
+diferentes,
+
+mas
+
+apesar
+
+disso,
+
+muito
+
+obrigado
+
+pelas
+
+contribuições, talvez lembrem de outras contribuições ou
+requisitos e podem fazer isso, ou passar a algum membro do
+grupo de liderança e vamos incluir no nosso trabalho.
+Muito bem, avancemos e passemos ao ponto número 4 da
+agenda. Um minuto, por favor. Há uma reunião do grupo de
+trabalho amanhã. De manhã, até meio dia com o recesso no
+meio, esta reunião do grupo de trabalho é aberta para todos. É
+presencial, normalmente os membros do grupo de trabalho
+participam de forma ativa, mas numa reunião presencial, se
+permite que todo mundo participe, então é sua oportunidade
+para participar. Queremos sempre receber a contribuição de
+toda a comunidade, é pouco realista mas será uma reunião
+aberta, então se não tem qualquer conflito nas suas agendas, e
+querem ver grupos de trabalho em ação, amanhã vai haver uma
+reunião real do grupo de trabalho, e verão como estamos
+avançando em algumas áreas.
+Então, são bem-vindos para participarem amanhã de manhã, se
+tiverem tempo, e todas as reuniões são transcritas e gravadas
+também, podem fazer um acompanhamento das reuniões
+através destes meios.
+
+Página 31 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+Passemos agora ao próximo slide. Muito bem, aqui há alguns
+recursos, vou deixar este slide na tela para que os senhores
+possam olhar. Vejam a informação, esperávamos que Kelly
+pudesse aparecer aqui na parte final da reunião mas na reunião
+onde ela está se estendeu além do previsto, então vou ser eu
+que tratarei destes pontos.
+Sendo que temos alguns minutos, vou deixar o slide na tela caso
+queiram anotar a informação, esta seria a primeira sessão do
+grupo de trabalho, ou seja, a primeira sessão que este grupo de
+trabalho tem desta forma. Estou satisfeito de que seja assim,
+não sei se os senhores pensam da mesma forma, não sei se têm
+mais perguntas, não tivemos muito tempo. Inclusive, há 5 meses
+que estamos trabalhando como grupo de trabalho e não
+tivemos muito tempo para tratar de todas as questões. Mas, se
+alguém tem alguma pergunta, ou que não tenha entendido,
+algum comentário que queiram fazer ou compartilhar conosco?
+Se for assim, vamos dedicar esses minutos às contribuições ou
+opiniões. Alguma coisa que precisem que seja esclarecida? Aqui
+há uma pergunta na frente.
+
+KAVOUSS ARASTEH:
+
+Muito obrigado, senhor presidente. O senhor disse que é a
+primeira reunião presencial e que há uma por ano. Na verdade,
+
+Página 32 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+o que evita que os senhores tenham reuniões presenciais? Existe
+alguma dificuldade?
+
+CHUCK GOMES:
+
+Bom, talvez uma seria a sala, e outro empecilho seria que não
+haja suficientes dólares, mas dentro da GNSO existe a
+possibilidade de que grupos de trabalho solicitem reuniões
+presenciais. A questão é que estas reuniões apresentam um
+desafio, porque tem que pagar para participar, então aqui
+entram as questões de orçamento, de tempo porque as pessoas
+não podem participar, na verdade eu errei, essa é nossa
+segunda reunião presencial, tivemos a primeira em Marrakech,
+mas não foi como essa, não tinha esse tipo de participação
+porque as pessoas tinham muitos conflitos para participar da
+reunião.
+
+DAVID CAKE:
+
+Eu queria dizer que tivemos uma reunião presencial com grupo
+de trabalho e na verdade se disse que na reunião B,
+acompanharia a estrutura, se cumpriria a estrutura. E com
+certeza, na próxima reunião, vamos fazer uma reunião
+presencial. Entendemos que há muito trabalho para fazer e que
+temos muito pela frente.
+
+Página 33 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+GEMA CAMPILLOS:
+
+PT
+
+Eu sou do governo da Espanha. Não é uma pergunta porque já
+sei a resposta, mas gostaria de manifestar o seguinte. Para que
+possam tomar nota. Tem a ver com o alcance do grupo de
+trabalho.
+Apenas se ocupa de nomes de domínio, não é? Não se ocupa dos
+endereços IP. Seria fantástico se um exercício como esse se
+pudesse realizar também com respeito aos endereços IP,
+porque a internet não termina com os nomes de domínio, e cada
+vez há mais endereços IP que se utilizam para identificar
+aplicativos, dispositivos e tal.
+Não há qualquer conjunto de regras para os endereços de IP,
+consistência em apenas um processo para que haja acesso a
+esses processos IP, eu queria manifestar isso em voz alta para
+que fique constado nas atas.
+
+CHUCK GOMES:
+
+Obrigado, tenho certeza que a senhora sabe que os registros de
+endereços e a ASO dentro da ICANN se ocupam dos números de
+IP. Claro que os números de IP entram em jogo com os nomes
+também, mas a GNSO e esse grupo de trabalho da GNSO tem a
+função de desenvolver políticas para TLDs genéricos, por isso, e
+de fato os serviços de diretório também utilizam endereços.
+Com certeza os senhores sabem que isso já está sendo utilizado,
+
+Página 34 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+então estamos um passo à frente neste sentido. É um bom
+comentário, de todas as formas, para incluir na ASO, e agradeço.
+
+DAVID CAKE:
+
+Um comentário sobre o alcance. Especificamente, estamos
+falando dos novos gTLDs, nem sequer falamos de todos os TLDs.
+Somos um projeto da GNSO, estamos fazendo um trabalho onde
+queremos considerar o que está se fazendo, mas nosso alcance
+é bastante limitado e definitivamente esperamos que uma vez
+que nosso trabalho termine, uma parte dele seja utilizado pelas
+outras pessoas que pensem necessário fazer isso.
+
+CHUCK GOMES:
+
+Passemos às leis de número 18 e depois algumas perguntas para
+encerrar o trabalho.
+
+KAVOUSS ARASTEH:
+
+Tenho uma pergunta. Os senhores já responderam à pergunta
+de Gema, mas quero incrementar outro elemento. O trabalho é
+bastante complexo e por isso não quero acrescentar outra
+complexidade quanto aos endereços IP, é um trabalho muito
+complexo. E a respeito da reunião e o orçamento, eu acho muito
+importante, muito importante para o futuro do gTLD, e temos
+que fazer todos os esforços possíveis para dar todas as
+
+Página 35 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+possibilidades de qualquer comunicação pessoal e não pelo
+orçamento, esta reunião ou aquela.
+Eu acho que tem que existir uma possibilidade de acrescentar
+essa questão na reunião do GAC com o Board, isso é muito
+importante.
+
+CHUCK GOMES:
+
+Eu agradeço o que o senhor está sugerindo, acho que não deve
+existir qualquer desacordo nesse sentido. A questão é que
+quanto a uma reunião presencial, temos que capitalizar isso
+num momento específico. Agradeço esse apoio, acho que
+ninguém ai discutir a respeito.
+Então, quero que vejamos esse slide que está na tela. Os grupos
+de trabalho de PDP vão considerar perguntas fundamentais e
+deliberar sobre os requisitos possíveis sobre os que tem que
+responder, e tem que responder essa pergunta. É necessário
+RDS de nova geração para apoiar os requisitos de serviço de
+diretório de registro de dados para os gTLDs?
+Com base nos requisitos existentes, o que vocês pensam? É uma
+pergunta chave que vamos ter que responder. Agora, vou fazer
+uma pergunta rápida, não votamos no grupo de trabalho mas
+fazemos pesquisas. Quantos dos senhores acham que já existe
+uma resposta para essa pergunta, levantem a mão. Ninguém?
+
+Página 36 de 37
+
+HELSINQUE – Sessão Entre as Comunidades: Próxima Geração de Serviços de Diretório de Registro
+
+PT
+
+Talvez então o trabalho que fazemos vai ajudar a achar uma
+conclusão.
+Quantos dos senhores pensam que o sistema do WHOIS que
+existe agora é adequado? Levantem a mão. Algumas pessoas
+que levantam a mão. E quem pensa que não é adequado? Há
+muito trabalho, com certeza, pela frente.
+Vamos passar ao próximo slide. Quero saber se faltou alguma
+coisa. Ainda estamos a tempo para a resposta que temos que
+dar, e podemos gerar o processo, o próximo grupo também.
+Quero agradecer a todos por estarem sentados com paciência, e
+também àqueles que nos ajudaram, esperamos continuar
+recebendo suas contribuições. Quero pedir que sejam pacientes,
+num sistema de múltiplas partes interessadas ascendentes, com
+os temas complexos que estamos tratando agora, vão requerer
+tempo. Então, vai levar tempo para deliberar sobre esses
+assuntos.
+Agradecemos muito, e a reunião acaba aqui.
+
+Página 37 de 37
+
+

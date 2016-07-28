@@ -1,0 +1,2309 @@
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+Tuesday, June 28, 2016 – 15:15 to 16:45 EEST
+ICANN56 | Helsinki, Finland
+
+MARIKA KONINGS:
+
+Hello, everyone. We're getting started over here. So thank you
+all for joining the session on new gTLD auction proceeds and the
+draft charter.
+Can I please ask everyone to stop their conversations or take
+them outside? People there in the corner. Thank you.
+So this is the cross-community session on new gTLD auction
+proceeds. My name is Marika Konings. I'm a member of ICANN
+staff.
+Just some housekeeping items before we kick off the
+conversations. As you'll note, there are three people in the room
+here with microphones. They have numbers. So for -- so later
+on when the floor is open for comments and questions, please
+wave to one of these members of ICANN staff, and they will
+come over to you and hand you the microphone when it's your
+time. Please speak slowly and clearly and state your name for
+transcription purposes. I think that's all I had to share.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+We're looking for a lot of participation and engagement. So
+please prepare your comments and contributions. But, first of
+all --- the drafting team that has put together this draft charter.
+
+JONATHAN ROBINSON:
+
+Thanks, Marika.
+So as you said, the purpose of the session will be to review the
+draft charter and get some feedback from the community here
+in the cross-community session. Introducing you to who we
+have got up on the podium up here, Marika is leading the staff
+support of this effort together with David Tait on her right. Sam
+Eisner from ICANN legal who is assisting us with the legal and
+fiduciary constraints on how we might deal with this as we work
+through and develop the working group. Alan Greenberg who's
+the vice chair of the drafting team working with me and our
+other colleagues on the drafting team. Myself who is chairing
+the drafting team.
+And I think we've got quite a few members of the drafting team
+here. So it would be great if you could just raise your hands and
+let people know, anyone who is actually -- Thank you. So in this
+front row along here, Tony Holmes, Russ, Asha, and Erika.
+
+TONY HARRIS:
+
+Page 2 of 73
+
+Tony Harris.
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JONATHAN ROBINSON:
+
+EN
+
+Sorry. I have done it again. Apologies. It's not the first time I
+have done it. I don't think it's the first time anyone else has.
+Apologies, Tony.
+We have two Tony Hs in the ISPCP.
+
+UNKNOWN SPEAKER:
+
+(off microphone)
+
+JONATHAN ROBINSON:
+
+Hemaraja. Not a bad start.
+[ Laughter ]
+All right. Who has control of the slides? Is it you, David? Yes.
+Let's start with the first slide, and we can make our way through
+it.
+So we're here to talk about the charter which will lead, we hope
+to the development of a cross-community working group which
+will itself lead on to a process or mechanic for the ultimate
+disbursement of the auction funds. So it's -- in essence, there's - at a high level, there's -- or prior to -- or post-raising of the
+funds, there's three stages, three overarching stages to the
+process. The next slide talks about that in a little more detail, so
+let's go into that.
+
+Page 3 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+Clearly as many of you will be aware and know, the ICANNadministered auctions are the mechanism of last resort to
+resolve string contention within the new gTLD program. We
+readily use these terms, but essentially string contention is
+where one or more applicants has applied for exactly the same
+string and have passed all other hurdles and end up being in an
+equivalent position to run and operate that string and,
+therefore, need to resolve that because there's only space for
+one unique string in the root.
+Auctions have been run, and not all of them have been
+concluded. And notwithstanding that, significant funds have
+been raised to date. Currently in excess of 100 million U.S.
+dollars. So there's a sizable sum of money to be ultimately dealt
+with. And from ICANN's point of view, this is set aside in a
+unique bucket, if you want, for an informal term, set aside as a
+unique category of funding. And the work of this is really the
+community discussion and effort that started back at ICANN52
+and then led to a workshop and, in fact, another event at
+ICANN53 which ultimately led to the production of a discussion
+paper that was authored by staff which distilled the work of the
+workshop and the forum we held at ICANN53. And that was -that then went out for public comment. We took significant
+feedback on that. And we emphasized that the focus of this
+
+Page 4 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+effort would be on the development of a framework or a
+mechanism for ultimate disbursement of the funds.
+So it's really, really important to recognize -- I know we all
+obsess about processes to a lesser or greater extent within this,
+but there's a very systematic way in which we need to work
+through this.
+
+We are in no way talking here about -- and
+
+probably not for some time -- about the eventual allocation of
+the funds. This is about getting set up in the right way to deal
+with it.
+So following -- step four on the slide in front of you, following the
+review of the comments on the discussion paper, the GNSO
+reached out to the different ICANN supporting organizations and
+advisory committees to identify volunteers to participate in the
+drafting team, which is this effort now. And all of the SOs and
+ACs put forward someone to participate except for the ccNSO
+who offered to cooperate but not formally participate in the
+drafting team.
+I should say that one -- the one forum we held at the ICANN53
+meeting, we had participation from three ccTLDs who
+themselves had some form of excess funds not entirely similar to
+the auction funds but had experience with disbursement of
+funds.
+
+Page 5 of 73
+
+So we got early input from those three ccTLDs as
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+examples of ways of working. So we've had already some initial
+cooperation.
+I think quite significantly, we've also got active cooperation and
+collaboration with the ICANN board on this CCWG. And there's
+probably at least a couple of reasons for why we're doing that.
+I think in the recent CCWGs, it wasn't necessarily the case that
+the board was actively involved from the outset and there was
+some confusion as to whether or not it was appropriate for the
+board to participate.
+
+And so we took the step of actively
+
+reaching out to and working with the board to potentially
+participate from the outset.
+I think there's something unique and specific about this
+particular effort in that -- well, A, there's a significant amount of
+money by most, if not anyone's, measure. And, B, the board has
+a particular responsibility because this is money raised under
+ICANN's sort of overall responsibility. And, therefore, it's an area
+that the board needs to keep close engagement with.
+So we have two board liaisons, Asha and Erika, who I introduced
+at the beginning who are respectively chair of the Audit
+Committee and co-chair of the Board Finance Committee. So
+appropriately qualified and situated individuals to work with us
+on that.
+
+Page 6 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+So that's where we are. And, of course, Sam's input for similar
+reasons. And we'll come to a little bit more of that in a moment.
+Next slide, please.
+So this slide is a bit full and a little -- a lot to absorb at once, but
+what it seeks to do is take you through a process, starting in the
+top left, with the drafting team and the charter that's -- the input
+that was taken originally and the charter drafting process, which
+has got some key headlines in it: principles, issues around
+conflict of interest considerations, and the scope and limitations
+of the work of the CCWG that will be -- that will derive from this -you know, be scoped out by this charter.
+Our output is intended to be that charter, which will then define
+the work of the CCWG and, we hope, be adopted by the
+chartering organizations which will then lead to the formation of
+the CCWG.
+All of the work that that requires to set up the framework for
+dealing with the auction funds ultimately, of course, having to
+be sent via the ICANN board, who will give it their due
+consideration prior to an implementation of an eventual
+mechanism.
+What we really want now is your input into those key sections of
+the charter, the draft charter as it stands at this stage, the sort of
+
+Page 7 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+initial work of the drafting team, such that it's had some external
+input other than that of the drafting team.
+Notwithstanding the fact that the drafting team is made up of
+members or participants coming out of the various SOs and ACs
+and the board, it's still useful to get it out and talk about some of
+the key issues.
+So that's really our objective: To obtain input before finalizing
+the charter and submitting it to the supporting organizations
+and advisory committees.
+Next slide, please.
+In order to develop this charter, we engaged with ICANN legal in
+order to make sure that we understood what the legal and
+fiduciary constraints would be, and in fact, it's not only legal, it's
+ICANN finance as well.
+So let me hand over to Sam to talk through some of the key
+issues that arise when -- with that aspect of things.
+
+SAMANTHA EISNER:
+
+Thank you, Jonathan.
+I'm Samantha Eisner. I'm associate general counsel with ICANN,
+and I was -- I've been active with the drafting team in producing
+memoranda and helping to work with the team to identify some
+
+Page 8 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+of those legal and fiduciary constraints that we believe are
+important to have within the charter itself, so that we can help
+frame the charter from the outset to be driven towards
+producing recommendations that the board is ultimately able to
+accept, so that we can hopefully frame them from the outset,
+not on content but considering the specific limitations that need
+to be there, so that the board doesn't wind up with a legal or
+fiduciary issue at the end in considering the proposals.
+So my work with the drafting team included, working with Xavier
+Calvez, our CFO here at ICANN, we produced a note to the
+auction proceeds drafting team on these concerns. There's a
+link to that memo here for your view, if you'd like to see the full
+thing. And then working with the group to then identify those
+core considerations within that that we believed were
+appropriate to be included within the charter.
+So I'm not going to go into a great deal of detail about what each
+one of those things are, but first of all, because these were funds
+taken in under ICANN's work and they're funds that sit within
+ICANN, the funds must be used in a way that is consistent with
+ICANN's mission as set out in the bylaws.
+So that's a really fundamental primary concern.
+It goes not only to ICANN's need to main- -- to act in accordance
+with its bylaws and its articles of incorporation but it's also a key
+
+Page 9 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+consideration in ICANN's maintenance of its 501(c)(3) taxexempt status that it has under U.S. law.
+And so many of these other constraints that we've identified also
+come with a purpose of maintaining ICANN's 501(c)(3) tax status,
+if you take as a fundamental premise that we don't want to use
+this auction proceeds scenario as a way to put that tax status at
+risk.
+And so because of that, there are issues around private benefit.
+One of the primary things that a 501(c)(3) corporation must do is
+make sure that its funds and resources are not used to benefit
+private individuals. So it can't go -- that's why we don't issue
+stocks or stock options or anything, because that would line the
+pocketbooks of individual people.
+
+You're allowed to pay
+
+salaries, and of course we can support stipends for travelers, et
+cetera, but we can't just hand money to people without
+receiving consideration for that.
+And so these private benefit concerns draft, they lead to some of
+the guidance that you'll see in the charter and in the reference
+memo that there should be some consideration on limiting
+grants, potentially, to organizations and not allowing grants to
+individual -- or to individuals because that's what really raises
+concerns around private benefit concerns.
+
+Page 10 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+Of course we have been very careful in the language that we've
+presented and discussed with the drafting team that we want to
+make sure that we're not drafting in any exclusions that would
+present any sort of concern with ICANN being able to use these
+funds in a way that supports people wherever they happen to
+be.
+So we can't draft these requirements so that they would only go
+to other organizations that are U.S. 501(c)(3). That would not be
+a satisfactory outcome. And so we know and we've provided
+some guidance on ways that the grants can be used across the
+world.
+There are other limitations that come along with ICANN's
+501(c)(3) tax status, such as ICANN can't use its fund for political
+-- its funds directly for political activity. That is, supporting of
+individual candidates. And there's a very small amount of funds
+that can be used for lobbying activities. And so we have a
+recommendation that within -- the charter that as the group is
+considering the principles to move forward, that you wouldn't
+allow funds to be used to organizations that would then be
+participating in lobbying activities.
+Another really important concern is the conflict of interest
+considerations.
+
+When the board acts in alignment with its
+
+fiduciary duties, one of the key components of that is the board
+
+Page 11 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+acting without conflict of interest. And the board will have a
+heightened responsibility with overseeing recommendations
+that go to what is now equivalent to a full year's operating
+budget for ICANN, in reality, to make sure that those decisions
+are taken without conflict of interest as well. And that trickles
+down through others who might be involved in the process.
+Procedural concerns and financial fiduciary concerns, those go
+to thinking of what might need to happen on the back side, what
+types of requirements might need to be developed so that
+there's auditability of where the funds go, assurance that the
+funds have been used in consistent manners with ICANN's
+mission, et cetera.
+So we haven't prescribed what those need to be, but we have
+guidance in the charter that those are things that the crosscommunity working group, once it's formed, would need to
+consider.
+And then, again, there's a 7- or 8-page memo, I believe, that you
+can look at that has a lot more detail in there and if you have any
+questions, please let me know.
+
+JONATHAN ROBINSON:
+
+Page 12 of 73
+
+Thank you, Sam.
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+So before we go on to start to look at the specifics of the charter
+and talk about some of the detail, are there any questions or
+comments that anyone would like to make in respect of this
+preamble?
+So we're going to work our way across the room, I think, like this
+(indicating).
+So we'll start off with a question from Section 1 here. I saw
+Kristina's hand go up first.
+
+Or where -- has the mic been
+
+allocated?
+All right. So I've got -- that's Number 4, but it looks like -[ Laughter ]
+How do we -- let me just get the procedure sorted out here. How
+do we work this? I thought we were going to have -- we've got
+microphones in each section so we've got, at the moment -well, I --
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+JONATHAN ROBINSON:
+
+Okay. Well, we'll start with -- we'll start -- I would expect to start
+with Number 1. We'll start with Kristina and then if we can just
+
+Page 13 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+hand out the cards. Are we going to hand out the cards to
+people or how are we going to do it?
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+JONATHAN ROBINSON:
+
+Okay. Cue the mic. All right. So --
+
+KRISTINA ROSETTE:
+
+Kristina Rosette, Amazon Registry Services.
+One principle that seems to be, to me at least, a fairly significant
+omission is a prohibition on using the auction proceeds for
+governments, and I'm curious as to why that is. Because it still
+would be possible to make an allocation to a government that
+would meet the other criteria up here.
+But to me, it raises the broader question as to why there isn't
+any kind of prohibition on the recipient being a government,
+whether it's a national, local, state, regional, et cetera. And I'm
+just curious as to the rationale for that omission.
+
+SAMANTHA EISNER:
+
+Thanks, Kristina. This is a very high-level summary of -- of just
+the top-level points.
+
+Page 14 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+When you see "Consideration for Grants to Organizations," if you
+take a look in the memo, there's a further discussion of other
+types of organizations.
+There is not a preclusion that -- that necessarily has to come just
+at the base level on the grants to organizations, from what I
+understand, but there are -- there is some guidance in there, and
+so I -- I think that your concerns, you'll find that they're
+somewhat addressed within the memo.
+And then of course as the CCWG continues, we can get far more
+guidance on that. And the CCWG also would have the decision -or the opportunity to make some decisions like that in their
+deliberations.
+
+JONATHAN ROBINSON:
+
+So if you could just make sure that -- those with the
+microphones, if you can make sure you distribute the
+microphones in succession, and I'm just going to call out the
+number. So I'm going to go from 4 to 3 next and wherever -whoever has got the mic -- if you're in the different sections,
+make sure you know that the microphone distributors can get
+you the microphone. So I've got 3 coming up next. Please
+remember to introduce yourself before you make your
+statement or question.
+
+Page 15 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JOHN CARR:
+
+EN
+
+John Carr, from the European NGO Alliance for Child Safety
+Online. Despite my accent, I'm technically based in Italy, so still
+part of the international community today.
+My question is about the definition of "lobbying" and how
+broadly defined that is.
+For example, one of the reasons children's organizations have
+an interest in ICANN is to argue for particular policies or changes
+or developments.
+Would that be classified as lobbying or would it not be?
+
+SAMANTHA EISNER:
+
+This is Sam Eisner.
+Thank you.
+
+There are some sample definitions that we've
+
+included in the memo to -- to cover that, so I'd encourage you to
+go and look in there.
+I think that we wouldn't want to get into that level of granularity
+here, but there are some sample definitions, both for the
+political activity restriction and the lobbying guidelines that you
+might want to take a look at in the memo.
+
+Page 16 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JONATHAN ROBINSON:
+
+EN
+
+Just to make sure, if you -- if -- so for example, in that area,
+Edmun, I saw you had your hand up. If you can attract the
+attention of the person with the microphone in Area 3, and then
+I'll come back to you in a moment. So I'm going to Number 2
+next, please.
+
+JEAN-JACQUES SUBRENAT: Working. Thank you. Jean-Jacques Subrenat speaking in a
+private capacity as an Internet user.
+Sam, the paper you prepared with Xavier is very useful. I have a
+question, perhaps more specifically to you, Sam.
+Under "Considerations for Grants to Organizations," I think
+that's a very good point you make, if ICANN were directed to
+make grants, et cetera. However, reliance on 501(c)(3) status
+alone as a demonstration of eligibility would serve to exclude
+almost any foreign entity from being eligible, and that's a very
+important remark.
+So my question to you, Sam, is: In reverse, how can you ensure
+by using some contraption in U.S. law that the fiscal authorities
+in the United States will not be able to block the thing on the
+grounds that it doesn't enter into any definition of 501(c)(3)?
+
+Page 17 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+SAMANTHA EISNER:
+
+EN
+
+Thank you, Jean-Jacques.
+The note that you read out from the memo is -- we were acting
+very carefully to not exclude foreign entities. 501(c)(3) would -basis would be the easiest thing we could do but that is not what
+we would recommend doing.
+There -- and this is something that would need some further
+review, but there is the possibility to develop some sets of
+objective standards and due diligence tests that would allow us
+to move forward. I -- I don't know that this is the -- the place to
+go into all of that work, but that will be considered within the
+CCWG.
+But we have recommended, within the memo, that there can be
+some due diligence standards that are put in place that could
+help make some of those objective determinations.
+
+JONATHAN ROBINSON:
+
+Thanks. Number 1?
+
+STEVE CROCKER:
+
+Hi. This is Steve Crocker from the ICANN board.
+First of all, I want to applaud all of you for putting this together
+and for the enormous amount of work that's gone into the
+drafting process so far. Really quite excellent work.
+
+Page 18 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+A lot of the discussion, particularly that we've just had here
+focused around this, has been on the negatives, in a sense, of
+where are the limits of what to do and how to stay within those
+limits, and I think all of that is necessary and there will be much
+more of that and I don't want to dwell on that.
+I want to -- I want to ask a question about a question. So I'll tell
+you what the question is and then I'll tell you what the question
+of the question is.
+The question is: Okay. We have a lot of guidelines about what
+not to do. What do we want to do with this? Are there any big
+goals, objectives, that we seek to do with this?
+Now, let me ask you to flip back to Slide 4.
+And I'll frame the question about that question this way. It is a
+busy slide. I have cheated by having seen this before. So I'll go
+slowly. But, basically, there is a sequence, as I understand it,
+that seems to be the following. We're currently here in the
+drafting process. The output of that will be a charter for the
+CCWG. Then the CCWG will go into operation. And in reading
+through the sequence of this, the output of the CCWG is going to
+be a proposal sent to the board, up in the upper right. And that
+will lead to, assuming it's accepted, some mechanism, creation
+of a foundation or just some other distribution mechanism or
+
+Page 19 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+whatever, that is all focused on the process for distributing the
+funds, which is fine.
+And then there will be the actual distribution of funds,
+petitioners, people putting in proposals and grants and so forth.
+Where -- so here's the question about the question I asked.
+Where in this sequence is there any establishment of guidelines
+or objectives or strong assertions that say, This is what we want
+to accomplish and, by implication, it, therefore, limits and says
+we're not going to do other things?
+It would be easy to make up examples of goals or things do we
+want to -- I'll choose things that are completely off subject but
+just to make the point. Do we want to cure cancer? Or do we
+want to go to the moon? Or do we want to develop cheap
+energy? Totally different kinds of goals, and they shape very
+much how you structure a program prior to choosing specific
+projects, prior to choosing specific recipients. Do we want to do
+any of that?
+Or do we want to have some different kind of goal? We don't
+really care so much what's accomplished as long as the money is
+spread uniformly across the world or across various
+constituencies? And I know that sounds tongue in cheek, but it's
+-- you can come at any of these in a very positive and
+
+Page 20 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+constructive fashion. But if we don't choose what to do, it will -by implication, we have chosen something else and so forth.
+So my question about the question is: Where in this process -- is
+it within the drafting process? Probably not. Is it in the CCWG?
+Or is it downstream somewhere where the focus of attention
+about what we do want to accomplish, what are our objectives,
+how will we know at the end of the day after we spent $100
+million whether it has been satisfactory for what we had in
+mind? Thank you.
+
+JONATHAN ROBINSON:
+
+Thanks, Steve. I'll make an attempt to answer the question
+within the question and then see if others come in.
+I mean, first thing I would say is clearly as you have pointed out,
+we are at a stage in the process; and it's a question of where do
+we come in the process. We are also an early stage in the
+process of this discussion.
+I mean, if I could have slide 6, please, David.
+So here we're going to look in some detail at the charter, which
+is where we start to look forward and break down into the goals
+and objectives some guiding principles for the CCWG and so on.
+
+Page 21 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+But, in general, I would expect the heavy lifting, the principle
+work to be done in the CCWG. This -- arguably the purpose of
+the drafting team is to set out the constraints within which that
+CCWG should work.
+So my initial thought would be that the answer to your question
+within a question will be in the CCWG.
+That said, before we got into even talking about the drafting
+team and their work, we need to know what the boundaries -the legal and fiduciary boundaries are, which is why we set
+about with the negative, if you'd like, because that is the hard
+boxing of the problem which we've now done. And we can go on
+to say, right, let's look at the charter.
+So I would give that as my initial answer. But if that isn't
+satisfactorily answered once we've stepped through the charter
+and you don't feel that the charter is sufficiently -- it's not
+sufficiently clear that that work will be done adequately in the
+draft -- in the work in the CCW -- in the subsequent crosscommunity working group or working group, let's come back to
+it.
+Alan?
+
+ALAN GREENBERG:
+
+Page 22 of 73
+
+Thank you.
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+There were some words in a footnote in the applicant guidebook
+that described the use of auction funds. And it talked about -- it
+used a phrase that was something akin to "do good things for
+the Internet."
+Since then, apparently, you know, we are aware of the fact that
+because of the mission of ICANN, we may well have to limit it to
+something as a subset of that, that is closer to our mission as
+opposed to just "do good things."
+I think the drafting team at this point is of a -- the general feeling
+is that we don't want to restrict it. There are some people on the
+drafting team who would like to see it very, very tightly
+restricted to ICANN's mission and essentially say we can only do
+things that are pretty close to what ICANN could choose to do if
+it had the funds to do it.
+Others -- and I'm one of them -- would like to see it as widely
+defined as possible to be closer to the "do good things."
+I think it's going to be up to partly our legal advice and how the
+board sort of responds to these various variations and the CCWG
+itself to see whether -- you know, does it identify three different
+topics and put 300 million into each of them? Or does it give far
+more general instructions to whoever will be dispensing the
+money? That's not clear now. And I don't think we're likely to
+
+Page 23 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+make it completely clear. We may provide a little bit more
+guidance as we go closer to the charter.
+
+JONATHAN ROBINSON:
+
+Thanks, Alan.
+Just on a process of order, so I've got another response from one
+of the drafting team members, from Erika.
+
+And if I could
+
+encourage the cardholders to just take your microphone to the
+next person within your area each time they raise their hand so I
+can just call out the numbers in sequence.
+I'm going to go Erika because she's responding as a member of
+the drafting team, and then I'll go to the next question.
+
+ERIKA MANN:
+
+Thank you so much, Jonathan.
+I think there's something interesting to consider because when
+you look at this sequence, we are very early phrase drafting
+team. We practically framed the work for the charter, and we
+sent the charter to the CCWG which then will be built.
+And then we will have the phase much later at the end, the
+phase where the allocation of the funds will come into it, which
+is not a defined process yet at all.
+
+Page 24 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+So the interesting is what Jonathan, I think, is saying, and Alan,
+that we had a discussion about the topic Steven raised. And
+probably I would agree, it is good to do it in the CCWG, to do the
+scoping and to do the -- the more work on the objectives
+because we had a much clearer and we had probably a bigger
+team as well working in this group.
+
+And we have more
+
+transparent about what is going on.
+Plus, Alan, then, we had this discussion as well and I think we
+need to have the dialogue in CCWG about the interpretation of
+the mission statement because we don't have a coherent view.
+We know the mission statement will frame it, but there's still,
+you know, an understanding and a dialogue which we need
+what that means actually for the scoping then.
+So I would -- my tendency, Steve, would be as well to -- like both
+Jonathan and Alan as well, to put this closer to the CCWG phase.
+
+JONATHAN ROBINSON:
+
+Thanks, Erika.
+I think Steve was Number 1 in the microphone sequence. I think
+so. And so I'm going to go to Number 4. I just would like to
+highlight that -- did we not have two? We were going down. We
+went four, three, two, one. Okay. I'll take you. Apologies. Let's
+
+Page 25 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+go ahead. We'll go back up then. We'll go back up, one, two,
+three, four. Let's go two.
+
+DANIEL DARDAILLER:
+
+It's on? Okay. Daniel Dardailler from W3C. So I had a little bit of
+the same note that Steve said, that when I read the charter
+yesterday, I think, I found that it was sort of moving away from
+giving more detail -- or not detail but direction to what is
+considered good for the Internet. So I would expect the Internet
+being sort of the focus already.
+But when I see things changing from consistent with from not
+inconsistent with, it sounds like we are moving away from
+talking about not only the Internet.
+And, also, I would expect things like talking about the global
+effect of the funding or the scaling effect of the funding. So not
+just the Internet but also the result expected from the funding.
+So without going into the detail of whether or not we can fund
+Wikipedia or, you know, WiFi operation, not sort of going into
+the detail of which layer of the Internet is the focus of this
+funding. Just giving some criteria about the expected results,
+the globalness, the scaling effect would be good.
+
+Page 26 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JONATHAN ROBINSON:
+
+EN
+
+Okay. So thank you. That's good and that's helpful input, and
+it's appreciated that you have actually read the charter and
+giving some substance there.
+I'm very keen to move on to the sections the charter. So if you
+have questions or comments that really go into the detail on the
+charter that would be great. We have had legal and fiduciary
+constraints.
+And so I'm going to go now, as I said, I'm going to go two, three,
+four and then I'll come back down through the microphones.
+Let's try and stop it at that point. Go two, three, four, three, two,
+one. And then we'll try and cut it at that unless you feel there's
+an urgent point on these constraints here now.
+So let's go to three.
+
+EDMON CHUNG:
+
+Edmon Chung here. So just responding back to what Steve was
+saying and the discussion, I think I actually agree with the
+concern but I also agree very much with the drafting team, what
+you have right now in keeping it open and using ICANN's
+mission.
+I think the CCWG will need to work a lot on narrowing the scope
+a little bit. But shouldn't be too narrow because the focus might
+change over time. This year it may be solving cancer. Next year
+
+Page 27 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+it could be going to the moon.
+
+EN
+
+But that process may be
+
+discussed in the CCWG. I think that's -- and I think what you
+have here so far is fine.
+My question, though, goes back to, I think, John just mentioned
+earlier. Two things I'm pretty concerned about, the political
+activities and lobbying activities. I did take a quick look at the
+note. Is that only restricted to U.S.? Or is it any country political
+activity and lobbying? Because the U.S. definition of "lobbying,"
+which you quoted, is very narrow defined and that's probably
+okay.
+
+But political activity or lobbying activities in other
+
+countries, even net neutrality or getting WiFi, even access to
+rural villages, that could be political and, you know, lobbying in
+many -- effect.
+And, of course, John mentioned about child protection. That's
+definitely, you know, political in nature.
+If those are not, you know, completely taken out, then there
+should be reasons for concern.
+
+SAMANTHA EISNER:
+
+Thanks, Edmon. I agree. I think that we're going to have to do
+more work. This was a preliminary memo for the drafting team
+phase to set out some rules.
+
+And I think we've always
+
+anticipated that within the CCWG itself, there would be a
+
+Page 28 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+requirement to go a little bit deeper and to get some more
+specific advice, particularly around these issues. The drafting
+team itself has discussed the need for the political activity
+limitation as well as the lobbying limitation to not just be U.S -centric and to have a broader applicability. So that's something
+that we will be -- I think the CCWG will have to look at fairly
+quickly.
+
+JONATHAN ROBINSON:
+
+Thanks. I will go to Number 4 next.
+
+JODEE RICH:
+
+Hi. I'm Number 4. I'm the CEO of dotCEO, Jodee Rich. And
+maybe just to summarize Steve's comment, top of my mind is:
+What is the criteria that you're going to use to rank the grant
+requests?
+And as a gTLD owner, I'd like to congratulate the board of ICANN
+for an amazing job raising the 250 million U.S. dollars and the
+100 plus million dollars for the auction. That's over $350 million.
+That's a great success.
+On the other hand, I see an extraordinary failure which is the
+consumer awareness either measured by awareness or their
+velocity of resolving new TLD domain names, which we heard
+this morning was something less than 10% of the 23 million
+
+Page 29 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+domain names that had been sold. Over 90% of the 23 million
+new gTLD domain names have been sold for less than a dollar.
+And in my view, the program itself has been an extraordinary
+train crash.
+So what I would like to understand is: What criteria are you
+using to spend the money that you have raised from these
+stakeholders so that we can ensure that the gTLD program
+becomes a success?
+
+JONATHAN ROBINSON:
+
+Okay. So, Jodee, I will try to address that in some ways. I mean,
+first of all, this is a community initiative, right? This is coming -this is a bottom-up community initiative to deal -- to make a
+proposal to the ICANN board. That's really the overarching
+mechanism that's going on here.
+In terms of -- in terms of the -- Yeah. In terms of the partitioning
+of the -- in terms of the allocation of the funds in future, that will
+be -- the work that's got to be done, the heavy lifting on that
+work is down to the working group.
+This is not the working group. This is just setting out some
+parameters within which the working group should work.
+So we've got to be quite careful not to load too much into the
+drafting team. This is meant to be a lightweight structure that
+
+Page 30 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+commissions the work.
+
+EN
+
+The heavy work gets done in the
+
+working group, and there will be ample opportunity for your
+input in that.
+For example, if you believe that this -- that the right -- that the
+mechanism that gets set up should be sufficiently broad that
+someone who wanted to market new gTLDs should be able to
+apply for it, that's the place to make that case be known. But it's
+-- there's -- one of the other themes that will come through this
+work is that there's a very strong -- "feeling" is probably not even
+the right word -- view that conflict of interest principles must
+prevail throughout all of this, and it's very important that those
+involved in designing the process, at least -- and this is a subject
+we'd like to discuss with you now, is the extent to which those
+designing the processes are, in effect, conflicted out from being
+in any way applicants for those funds in future.
+But let's -- I mean, this -- this is -- we're at an early stage in the
+process and that's -- that's -- so that's probably enough said at
+the moment.
+
+UNKNOWN SPEAKER:
+
+Page 31 of 73
+
+(Off microphone.)
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JODEE RICH:
+
+EN
+
+The terrible risk with all of this is that by the time all of the
+different committees have finished their consideration, it will be
+years, years, since the new gTLD program was launched, and
+therefore, the benefit that these funds which were raised by the
+new gTLD owners will have passed.
+
+JONATHAN ROBINSON:
+
+I think I understand your point but it's not -- it's not something
+debated here. It's a fair point, but right now this is about the
+constrained amount of money, which is the auction funds, and
+it's about dealing with how those might eventually be
+partitioned.
+I understand your concern and I appreciate it, about (a) the time
+that this process takes which frustrates many of us, but it's a
+thorough process, and (b) perhaps the -- the amount of effort
+into marketing gTLDs, but that's not for here right now.
+So let me -- let me give others some microphone time.
+That was a Number 4, was it? So I -- so where are we starting
+now? I've lost my way. We'll start back at 1. All right.
+
+ELLIOT NOSS:
+
+Page 32 of 73
+
+Yeah. Hi. Elliot Noss from Tucows.
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+I think my question is similar as a -- as a -- similar to Steve's as a
+"where does it fit" question.
+You know, my biggest issue here is that this is not an evergreen
+process, that this is a one-off process.
+Would -- and that feels to me like a charter issue. I don't see it
+covered. I'm happy to talk about it. You know, you can push this
+comment down into a specific section of the charter. But I've
+read through it a couple times now and can't really see where it
+would fit.
+So it's kind of a, you know, "where can I put that" comment or
+"where" -- you know, "where's the right place to discuss it," and
+is it -- you know, is this a charter or CCWG question.
+
+JONATHAN ROBINSON:
+
+So just -- if you could just -- I don't think you stated your name
+for the record. Just --
+
+ELLIOT NOSS:
+
+I did. It's Elliot Noss from Tucows.
+
+JONATHAN ROBINSON:
+
+Sorry. Apologies.
+
+Page 33 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+ELLIOT NOSS:
+
+That's okay.
+
+JONATHAN ROBINSON:
+
+Okay. So I think we would like your help. If you think there's
+something fundamentally missing from the charter that needs to
+go in to constrain or appropriately constrain the working of the
+working group, tell us now because this is what we'd like to hear
+and understand. So that's what we'd like to get on record. Your
+feedback with respect to that.
+If -- but it may be that it's better to walk through now these
+sections. I mean, we -- 45 minutes, we're halfway through the
+session and we've sort of been -- we've got very involved in -you know, on the back of the legal and fiduciary constraints, so
+let's try and get into the substance of the charter in a couple of
+these sections, and if those points remain, please do help us
+know. And I have a feeling -- I wasn't sure at the beginning -that we're going to have more to say than can be said in this
+session, so I think we'll give you an email address at the end of
+the session to help us to give some -- some more -- some input
+that you don't feel was adequately provided in here, if indeed
+that is the case.
+So let me make -- again, make sure that the -- those holding the
+microphones get your attention, and if you -- and we'll -- and
+
+Page 34 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+then if we -- once we've dealt with each person, we'll come -- but
+I want to try and at least start to move through this.
+As I say, we're fully halfway through this session so I want to go
+into goals and objectives in a little more detail and so we start to
+deal with the substance, so let's look at the goals and objectives,
+which is the next slide.
+So clearly the purpose of this -- this charter is to -- of the working
+group -- what this charter sets out to do is set out the purpose of
+the working group, the goals and objectives of the working
+group.
+So to develop a proposal for a mechanism to allocate the funds,
+to consider the key scope and due diligence requirements, and
+in particular, to be aware of directly related matters like the
+conflict of interest constraints.
+And let me just say a word about this -- this -- the way in which
+these slides are constructed.
+Some of you have done the due diligence in looking through the
+charter in some detail, which is great. Thank you. And that's
+available to you.
+What we've tried to do is just bullet out the high-level points in
+each section here, but in each subsequent slide, the actual
+
+Page 35 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+relevant text from the -- the charter is covered, should you need
+to access it or should we need to go into it.
+And in particular, the cross-community working group -- "the
+working group," in short -- is not intended to make
+recommendations with regard to specific funding decisions. It's
+about setting up a mechanism or process to deal with the funds
+consistent with the other parameters, the legal and fiduciary
+constraints, the constraints from the applicant guidebook under
+which these funds were derived and so on.
+So that's really where we are.
+And so in each of these sections, we now ask: Are these goals -we want to keep this lightweight. We're a relatively small team.
+And we want to hand it back to the working group to do the real
+heavy lifting and hard work.
+So given that background, are the goals and objectives
+sufficiently clear and comprehensive?
+And just bear in mind again these bullets are not them. There is
+more substantial text in the charter, but that's the essence of
+them.
+So let's pause for a moment and see if those that either have the
+microphone would like to respond to that, and I was at -- was at
+4 previous- -- was at -- were we at 1 previously? Why don't you
+
+Page 36 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+keep track for me, Marika, because it's very difficult, if you can
+just -- to keep the content. If you can -- so 2 next.
+
+CARLOS AFONSO:
+
+Carlos Afonso here. I am from CGI.br speaking in my personal
+capacity. I find that the -- some of the recommendations are
+very crucial, like Steve Crocker's.
+The person from Amazon as well did a good recommendation
+not to channel money to governments, et cetera. But we have to
+understand that this is not the real nor the universe of funders.
+We have another expertise in the universe of ICANN. And there
+are other universes of funders with a lot of experience -decades, decades of experience -- on defining goals, on defining
+criteria for getting results, on multiplier effect of donations and
+so on and so forth. So many things. And I think that -- of course
+within ICANN, some of our organizations have some expertise in
+donations. We don't have to forget that. CGI.br is one of them.
+Nominet. auDA. CIRA have experiences as donors to a certain
+level, no?
+But out there, there are organizations with a lot of expertise
+dealing with that amount of money, that scale of resources.
+I think that one good idea would be to for CCWG go to them to
+discuss them, criteria, ways in which they have operated, dos
+
+Page 37 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+and don'ts, the bad and good experiences they have had, to
+bring that expertise to the work of CCWG. No? That is my
+observation. Thank you.
+
+ALAN GREENBERG:
+
+Yeah. Thank you.
+As Jonathan mentioned at the earlier meeting of the working
+group in Marrakech, we did have input from some of these same
+people you identified just as -- you know, essentially giving us a
+little bit of guidance. But the real decisions are going to be
+made by the working group and we would expect the working
+group to be consulting with experts at various levels.
+Maybe paid, maybe volunteer. Remains to be seen.
+But certainly we're not going to try to invent the concept of
+funding organizations. There's lots and lots of experience out
+there. Thank you.
+
+JONATHAN ROBINSON:
+
+Thanks, Alan.
+So we took preliminary input back then. We are simply working
+as a drafting team now. We'll have the working group, and into
+that working group -- and the Section 4 of this -- of the charter
+deals with membership, participation of observers, and there's
+
+Page 38 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+another section Alan refers to which talks about the prospect of
+bringing in external expertise. So there's lots of ways in which
+that both community and external expertise will be able to feed
+into the working group, and it's our job to essentially
+commission that working group and get it going on a -- on a
+good stable footing.
+Number 3.
+
+PHILIP SHEPHERD:
+
+Thank you very much. It's Philip Shepherd.
+Jonathan, because you asked the question, I'd like to give my
+quick response to the slide in front of us, and it actually looks
+quite good, so congratulations.
+But the substantive part I wanted to make now was to circle
+back a little bit to one of the exclusions about lobbying. I
+wanted to make two observations there.
+I've been a lobbyist for the last -- last 25 years or so, but also
+more importantly, I've participated in national organizations
+and national conferences about -- of lobbyists who talk simply
+about the process of lobbying, and the one thing that we have
+learned from that is the huge difference -- and this is from the
+European perspective -- the huge difference in the definitions
+
+Page 39 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+and understanding of the term "lobbying" across different
+countries, even across neighboring countries.
+So there's a great need for precision in the definition of that.
+And certainly great differences between the U.S. and the
+Washington lobbying-type laws and the registrations you have
+to do there compulsorily compared to the systems that exist
+elsewhere in the world. And secondly, though, is the need for
+precision in the sort of organizations we may be giving it to in
+terms of what level of lobbying are they going to be allowed to
+do. Because if we're talking about charities and NGOs as likely
+recipients, those organizations are likely to be fund-raising
+organizations in their own right. They, therefore, spend a good
+deal of their time lobbying somebody for someone all the time.
+So if you have a wide exclusion to anybody lobbying anything,
+you're narrowing it down to an absurdity. So I think there is
+great need for precision in your definitions there in order to
+comply just enough with the Californian law, but not shooting
+ourselves in the foot in terms of unnecessary exclusions. Thank
+you.
+
+SAMANTHA EISNER:
+
+Page 40 of 73
+
+Thank you. This is Sam Eisner.
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+First of all, I think that the working group would benefit greatly
+from your participation, given your history, and, you know, you
+raise really good points and it's things that we really need to be
+careful of because there -- this is not actually California law. This
+is U.S. federal law.
+
+This comes out of the U.S. 501(c)(3)
+
+obligations, and so we need to be very careful because they're -when any organization that ICANN would provide funds to goes
+and performs lobbying activities -- and I get the -- the crux of
+your question is we need to make sure we understand precisely
+what we mean by that.
+
+But when organizations go and
+
+performing lobbying activities, that full lobbying activity then
+gets imputed to ICANN and could put the 501(c)(3) status at risk.
+So I think you're really on the right track and we would look
+forward to your participation in the working group from that
+perspective.
+
+JONATHAN ROBINSON:
+
+That's a subtle warning from Sam to anyone else who wants to
+comment. Be careful how informed or -[ Laughter ]
+-- wise your comments are. You may be recruited into the group.
+So we're on to Number 4 now. Thanks, Marika.
+
+Page 41 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+MARILIA MACIEL:
+
+EN
+
+My question is actually on the scope, Jonathan. Do you prefer
+that I hold it for the next section? Or...
+As you wish.
+
+JONATHAN ROBINSON:
+
+Let's go to the scope. Let's flip over to the scope slide. I think
+it's -- that's probably useful to do that.
+
+MARILIA MACIEL:
+
+Okay.
+
+JONATHAN ROBINSON:
+
+So here we have -- just to introduce this, to make sure, this is the
+scope or guiding principles for the -- for the -- for the CWG as
+defined by the drafting team, the charter drafting team.
+
+MARILIA MACIEL:
+
+Okay.
+
+This is Marilia Maciel speaking.
+
+I'm from NCSG or
+
+representing NCSG in the GNSO.
+My first point is about how do we keep conflict of interest away.
+It seems that the provisions on the charter, they are based very
+much on statements of interest and being in working groups, we
+have seen how statements of interest can be inaccurate
+
+Page 42 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+information that is presented there without us having the
+possibility to countercheck this information and not going
+beyond that. For instance, we know what the person declares
+but we don't know where the money that these -- the
+organization that this person belongs to, where this money
+comes from, so it's very limited in terms of asserting conflict of
+interest. If we could maybe expand just a little bit more to make
+sure that we have clear standards for assessing conflict of
+interest, I think that this would be very important.
+The second thing on the scope is about the -- the recipients.
+I didn't see any standards to assess how these recipients are
+dealing with the money. Not only on financial terms, how are
+they going to report back, but also on narrative terms. The
+things that they perform, did they really attend what they -what they promised.
+
+Did they really deliver.
+
+I didn't see
+
+anything about that, and maybe it's something that we could
+include.
+In terms of who these recipients can be, someone mentioned the
+need to make sure that governments do not receive this money,
+but I just wanted to flag that in Brazil there is not a clear
+separation between private and -- it's not only private and
+public. We have a lot of different entities that sort of fall in
+between the two.
+
+Page 43 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+So it's -- we need to be careful in how we define that. If
+governments are part of the composition of the board, for
+instance, or if it's a public/private entity, I mean, we need to be -to be just clear about that.
+And in terms of recipients as well, I think that one important
+point is that this money does -- is not given to -- to a project or
+something that will distort competition inside ICANN itself. I
+don't know how to -- how this could be represented in the
+charter but I think that a guiding line for us should be that this
+should not distort competition inside the organization.
+So I take the point on -- on the market, the DNS market, but I
+think that we need to be very careful about that.
+And I think that my last comment is about the very good point in
+my opinion, which is related to something that we are looking
+for in the person that we would choose to be part of the working
+group, which is to understand the broader ecosystem or the
+Internet community that goes beyond ICANN.
+And I believe that the version of the charter that I have, it's check
+changed so I don't think I have the last version of it. But I think
+that it says that we should not give the money to issues that are
+not inconsistent with ICANN mission. And although there are
+several comments on this expression, I think that "not
+inconsistent" is the best expression to take here. It should not
+
+Page 44 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+contradict the bylaws but not necessarily follow exactly the
+mission that is in the four points of the bylaws.
+So we should expand a little bit, as Alan said before. And I think
+that there needs to be someone who understands the
+ecosystem, reinforces that. And it is really good to see this
+reflected in the charter. Thank you.
+
+JONATHAN ROBINSON:
+
+Okay, thanks. That was a lot of information and a lot of points. I
+think in terms of -- my thoughts on that were in terms of the
+recipients and the scope between -- the spectrum between
+public and private entities and so on, I think those kind of details
+are definitely the work of the working group. But you highlight
+another interesting point in the same way as Philip did that the
+scope of inputs into the working group is going to have to be
+significant because it may be that in certain areas, the bright line
+that we might have come into it thinking between government
+and non-government entities or public and private entities is not
+as clear as it might seem to be.
+I think you also highlighted two key things that we'd like to
+discuss now. And one of them is how -- we've clearly got a legal
+constraint with respect to ICANN's mission. The question is:
+How close? Does that mean it must be made not be inconsistent
+with, or it must be consistent with, or it must be in line with, or it
+
+Page 45 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+must be identical to? There's that whole thing of how closely
+the allocation of the funds and how tightly does this charter seek
+to restrict the work of the working group. That's a key point.
+And the other is on conflict of interest, and that's our kind of
+mini elephant in the room because as many of you will know -and as you pointed out, Marilia -- the way in which we tend to
+work in ICANN, we have open working groups in which anyone
+may participate and in which generally they should have a
+statement of interest. But those statement of interest
+declarations are not uniform across the different SOs and ACs.
+There's not necessarily checks on how validly they are filled in.
+And the content of those is not necessarily -- it's not standard
+what that content would be.
+So one of the discussions we've had in the drafting team is:
+Should there be certain mandatory disclosures? And I think the
+very recent board work that was done in the weekend, maybe
+you can talk -- I've had some discussions, but it would be good
+to hear from board members about their thinking on this as well
+because there's an issue here as to whether we have an open
+working group in which conflicts are simply declared. And the
+real tough lines on conflict of interest are in and around the
+allocation of funding, which I think were almost universal.
+
+Page 46 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+We believe at this stage in the drafting team, there's no doubt
+when it comes to the disbursement of funds, you can't be
+controlling the disbursement of funds and have it -- the conflict
+of interest principles will be very clear and very firm there.
+Where it's less obvious what should be done is at the working
+group stage is how tightly constrained any participation in the
+working group should be to stop eventual application of funds.
+So that's the key thing. So I'd love to hear -- and I think we
+would love to hear those inputs on any of those two areas.
+Erika or Asha, would either of you like to come in? And then
+please make sure you get the microphones.
+
+ERIKA MANN:
+
+We had in the board a longer discussion about this topic. And it
+is an issue where we really think it is important that we have
+clarity and that we understand that we are constrained in this.
+And we should be constrained by this by legal and judiciary
+responsibility. So this is the way we looked at it.
+And we came up with the thinking that it would be actually good
+to think about it. It's a recommendation. What we did is a
+recommendation to the drafting team to think about it if it
+wouldn't be good that the members already in the CCWG, so up
+front before the money is allocated, up front in the CCWG shall
+
+Page 47 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+not be related in any way to prospective applicants for
+proceeds.
+So this goes beyond just declaring a conflict of interest. It's a
+broader concept. And the idea is that it would help to avoid any
+kind of conflict of interest. We are aware it might look very
+radical, and we are aware that it might go quite far. But it's a
+recommendation.
+And we would appreciate if the drafting team would consider -would look into it and then later the CCWG would look into this
+as well.
+
+JONATHAN ROBINSON:
+
+Thanks, Erika.
+
+So that further poses the question.
+
+My
+
+microphone order, I think I have got number one next. I am
+going to go one, two, three, four. So Number 1 next.
+
+STEVE CROCKER:
+
+Thank you. This is a very helpful and useful discussion, and I
+completely support it.
+But I want to just take an opportunity to push back on -- or push
+forward on the point that I was making before.
+
+Page 48 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+Both this slide that's up here -- and if we can go back to the
+previous one that shows the -- so the one before that. There we
+go.
+So there are three bullet points there, all of which I agree with
+strongly but I think there's a missing point.
+So the first one says develop a mechanism. The second one says
+consider the scope, due diligence requirement, how to deal
+directly with matters such as conflict of interest. And then it
+says the CCWG will not make specific allocations, choose
+winners and losers so to speak out of this.
+In my mind, what's missing is a bullet that ought to come just
+before that, that is positively stated, that is -- that says the CCWG
+will choose specific objectives, will choose, will choose, put
+shape on this. That to me is the missing piece that is not explicit
+enough in the charter.
+And I liked very much that you're shaking your head yes.
+Flip forward two slides, and I will just make one comment about
+the -- so the last bullet point in the scope says "Ensure diversity,"
+which is a very nice and positive statement. I'm not sure exactly
+what that applies to. But it may say that the working group has
+to be diverse. It may say that the set of goals has to be diverse or
+whatever.
+
+Page 49 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+But if it says -- if it's intended to mean that the recipient base has
+to be diverse, then that has a strong impact that may be -counteract or interact with setting specific objectives. And I'll
+subside at this point on that.
+
+JONATHAN ROBINSON:
+
+Thank you, Steve.
+Somewhat perversely, that's the shortest bullet that probably
+represents the longest underlying point. But so I think I have got
+a member of the drafting team and a board liaison, Asha, who
+would like to speak next. And then I will go -- is that microphone
+2 in any event? Okay, then we will go to microphone 3.
+
+ASHA HEMRAJANI:
+
+This is two? Okay. All right. My name is Asha Hemrajani,
+member of the board and also a member of this esteemed
+drafting team.
+So I wanted to echo a little bit about the diversity because,
+Steve, we haven't come to the slide yet. We're kind of stuck still
+early on in the slide deck. But we do have another slide later on
+coming which talks about diversity, explaining it.
+And I think here I would just like to very quickly summarize that
+we would like -- from the board's perspective, we do believe in
+
+Page 50 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+diversity in terms of the membership or the composition of the
+CCWG.
+But when it comes to diversity in terms of the ultimate recipients
+of the proceeds, I think perhaps from our perspective, it's a bit
+early days now to speak about this in the charter drafting stage.
+We think this is something that the CCWG would be better
+equipped to handle.
+And I just wanted to quickly answer the gentleman from Tucows.
+You asked a question earlier about whether this is a one-off
+thing or not.
+
+UNKNOWN SPEAKER:
+
+(off microphone).
+
+ASHA HEMRAJANI:
+
+I can just quickly answer you now. This is definitely talking
+about a one-time thing.
+
+We're not -- this is -- and that's
+
+mentioned in the charter. We are all aware that this is not a
+never-ending source of funds. Okay. Thanks.
+
+JONATHAN ROBINSON:
+
+Okay. So let's make sure that we give air time to others who are
+patiently waiting.
+
+Page 51 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+Was there someone from the drafting team who wanted to
+speak?
+
+ALAN GREENBERG:
+
+I'd like to push back on what Steve said.
+
+JONATHAN ROBINSON:
+
+All right. I know I have got Microphone 3, four and then one -- I
+have got three, four, one. And I got a response from a member
+of the drafting team who hasn't spoken before. So let's go to
+Russ Mundy.
+
+RUSS MUNDY:
+
+Thank you. I will try to keep it very quick. First, the -- a number
+of the constraints and descriptions in words in the current
+charter reflect the inputs that the process received even prior to
+the drafting team itself being created. So a subset of us did go
+through all of those applicable comments and summarized and
+cranked them into the drafting team -- to the draft charter, as
+you see it now.
+And that's something that I think is important for everyone to
+keep in mind, that we've not in any way ignored previous input
+that's come in to talk about this issue.
+
+Page 52 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+The second point that I would like to raise is -- it is a follow-on to
+what Asha just said in terms of the focus of this effort -- is that it
+is, in fact, focused on the money that's in place.
+However, I think in our last drafting team meeting, we agreed
+that it would be structured so that if the process or the
+mechanism or the resulting output could be used for
+subsequent things or if others wanted to contribute money to
+that activity, that would not be, if you will, de facto ruled out to
+begin with. It could occur if it made sense at the time. But we
+don't know if it will at this point.
+
+JONATHAN ROBINSON:
+
+Thank you for both -- I'll attest to the fact that you and Erika did
+a substantial piece of work looking at prior comments. And,
+indeed, we did say that whilst we recognize that this is a finite
+pot of money, it would be a shame if we put together a
+mechanism that was satisfactory for future purposes. So we
+don't rule that out. But at the moment our, scope clearly looks
+at it as a finite pot.
+So I think we go to Number 3 now.
+
+MARILYN CADE:
+
+Thank you. My name is Marilyn Cade. I real quickly want to
+mention that a few years ago I spent quite an extensive amount
+
+Page 53 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+of time along with a few other people looking at the possible
+mechanisms for the possible distribution of funds that would be
+generated by auctions of single letters in the gTLDs.
+And a fair amount of thinking went into some of it consistent
+with what you've done here. And I'll say good things about what
+you've done. But I have a number of serious concerns about
+some of the directions.
+I'm not going to go into them all here. I think having an email
+will be important. But I have three points that I do think are
+important to make.
+I think that because this cross-community working group is
+about distribution of fiscal, that we should not use an SOI
+approach. We should develop a new and improved requirement
+for a declaration of conflict of interest and expertise specifically
+for this working group.
+And the second point I'm going to make is the number of seats
+allocated, five per chartering organization, is a stupid and
+narrow problem here. That is not even one representative per
+constituency in the GNSO.
+And I think we have somehow gotten stuck in thinking that we
+have to be very small in the number of members in order to be
+effective.
+
+Page 54 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+So would also ask you to really think about the fact that
+opinions are not going to be as important on this working group
+as expertise and knowledge is going to be. So really do think a
+little more flexibly about what the number of members is going
+to be. I think that's also important.
+Then finally I'm just going to say I need to better understand
+this.
+
+Are we clear about the self-dealing aspects?
+
+Does
+
+everybody really understand what that means and what the risk
+is?
+Because you've used -- Sam, you've used the term "501(c)(3)"
+and I believe you're referencing ICANN's 501(c)(3) status. There
+are multiple 501(c) laws in the United States. Not all -- not all
+not-for-profit organizations are (c)(3)s.
+
+Some are (c)(6)s.
+
+Lobbying is defined differently. I don't want to go -- spend a lot
+more time on that. But I think this issue of self-dealing is really
+important for people in the ICANN community to understand,
+because of the credibility of the organization globally.
+And so now I'll go to the -- when we talk about a mechanism to
+allocate the funds, are we suggesting that the cross-community
+working group would look also at the establishment of a
+separate arm's length NGO at which there could be no
+assertions of self-dealing? In which case what we would do is
+give principles.
+
+Page 55 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+Now, my final point is about outcome measurement. Every
+organization that qualifies for funding, from, for instance, the
+Norwegian Aid Organization or USAID or the World Bank or
+Corporate
+
+Social
+
+Responsibility
+
+organization
+
+submits
+
+a
+
+proposal, there's criteria for measurement, and they have to
+submit progress reports and they have to deliver on the
+outcome.
+Is that all assumed? Because that takes expertise and would
+mean that this CCWG would need to bring in additional experts
+to help to advise on what that criteria is.
+I'm not suggesting that expertise would have to be the
+appointees, but it would have to be available, just as legal
+support and advice may need to be available.
+
+JONATHAN ROBINSON:
+
+So some very good points and quite substantial. I don't think it's
+appropriate for me to attempt to respond to those in detail,
+Marilyn, because I think it's better to give air time to others on
+the mic.
+I will say that your first point, though, on the conflict of interest
+and the unique nature of this group is something which is -which is -- which is very much on the radar screen, it's very much
+
+Page 56 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+something we want to hear about here. I know it's something
+that the board has given thought to.
+Because clearly the -- the challenge from a sort of chairing-thegroup point of view and thinking about it is that we have certain
+standards within the ICANN community and the within broader
+community in which we've worked in the past, but typically it's
+not dealing with this kind of financial issue and so therefore
+that's exactly why we want that input.
+Next microphone, please. Number 4.
+
+ELLIOT NOSS:
+
+Yeah. Hi, Jonathan. I want to go back to the point that Asha was
+-- sorry. Elliot Noss, Tucows.
+I want to go back to the point that Asha was responding to in
+assuring me that, you know, this was seen as a one-off process,
+not an evergreen process, feels like, you know, much in the same
+way that Steve wanted to put a positive comment in there, that
+a comment in the scope that explicitly calls out that this is a oneoff process is very important.
+I think to not do so will inevitably lead to the CCWG ending up
+spinning on this point.
+
+Page 57 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+And I want to distinguish very clearly. There were a couple
+examples given in the document around -- around you didn't
+want to preclude specific awards. And examples were given like
+support for applicants from underserved regions.
+Those specific awards could certainly, in and of itself, be
+evergreen processes, but that is very substantively different
+from this work and the big body of work being seen as a one-off,
+and I think it's so central to not leave that as something that can
+be spun around later on.
+So I'd really urge you to put that into the scope very explicitly.
+
+JONATHAN ROBINSON:
+
+Elliot, I think we've got it --
+
+ELLIOT NOSS:
+
+Great.
+
+JONATHAN ROBINSON:
+
+-- in the sense that as you see, Item 4 on Slide 13 there is, "As the
+auction proceeds are a one-off source, one-time source of
+revenue," boom. So we clarify that it is a one-time source of
+revenue, but as Russ pointed out we'd like to develop an
+evergreen mechanism such that should it be required for
+something else in future, that's the case.
+
+Page 58 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+But from the point of view of this group -- and if we haven't been
+explicit or covered that, then help us with appropriate wording
+and --
+
+ELLIOT NOSS:
+
+If you want specifics, I'll do that off line. That's great.
+
+JONATHAN ROBINSON:
+
+Yeah. That would be -- yeah.
+
+ELLIOT NOSS:
+
+That's great. Thanks.
+
+JONATHAN ROBINSON:
+
+Next, please.
+
+JON NEVETT:
+
+Thanks, Jonathan. Jon Nevett from Donuts.
+If you could go back to the slide you had prior to this, Jonathan,
+with the conflict of interest issue, I wanted to talk about that.
+I think "avoid any conflict of interest" is too broad.
+I think -- I appreciate what Erika said, but I think we -- maybe the
+board recommendation goes a little too far, when you go back
+to "any conflict of interest."
+
+Page 59 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+Maybe there's a difference between direct and indirect conflicts
+of interest. For example, if this group gets together and says
+universal acceptance is something important that we might
+want to fund or universal awareness, as Jodee mentioned
+before, or something, and registries and registrars may have an
+indirect benefit of a successful product, successful and aware
+public, so then are we excluded from participating in this? I
+don't think that would be fair.
+Many of us are members of the Internet Society. Many of us are
+members of the IETF. There are other organizations where we
+may have some indirect benefit and that organization may have
+some indirect benefit.
+So I think I actually agree with Marilyn Cade -[ Laughter ]
+
+JON NEVETT:
+
+-- when she says that, you know, we should have a special notice
+and special process for disclosure, but we shouldn't exclude
+people from participating because there may be some indirect
+benefit at some point down the road to a participant. Thank
+you.
+
+Page 60 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JONATHAN ROBINSON:
+
+EN
+
+Thanks for that input. So there's -- there's really three things
+that potentially come out of that:
+
+special disclosures,
+
+mandatory disclosures, and whether or not those are such that
+they then go on to exclude participation.
+
+Those are the
+
+challenges, because it's all very well fleshing out the disclosures
+but what's the meaning of those disclosures?
+And so it is -- it's a challenge and it -- it -- it's something which
+we've started to grapple with.
+So I think you were Number 1, which means we'll go to Number
+2 next.
+
+UNKNOWN SPEAKER:
+
+Gee, I raised my hand 30 minutes ago, I think, so let's see.
+My first question is related to the -- the -- sort of the separation
+between having an external funding agency and an internal
+framework. Let's say the board managed the funding allocation.
+It will be done by the working group, I understand, but I'm
+worried that it shapes so much the -- sort of the result
+mechanism that it's a question that should have been not
+resolved but at least, you know, discussed a bit more than just
+pushing it to the CCWG and saying, "You guys will have to decide
+
+Page 61 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+if it's an internal or external thing." I think it's a very important
+thing. So that's the first comment.
+Second comment was on the conflict of interest, I want to
+approve what the gentleman just said. I mean, if we apply a very
+strict conflict of interest position, then, you know, no one from
+the Internet will participate in the CCWG.
+So you will have to fund, you know, chicken or (indiscernible)
+and things like that, people that have no, you know, knowledge
+of this working group going on.
+So I think we have to go through a -- I think specific criteria, we
+have to find consensus on those criteria, and then the CCWG and
+the framework will be based on the criteria transparently.
+So I mean, it -- there's a lot of grant-funding organizations that
+work through strategic plan. They decide on a consensus what
+is going to be the strategic objective for a year or two, and then
+there are calls for proposal within the strategic objectives.
+Everybody knows about the strategic objectives. They have
+been decided. So...
+
+JONATHAN ROBINSON:
+
+Thanks. Some good points and, I should note that the diversity
+criteria don't exclude chickens from participating, so...
+
+Page 62 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+[ Laughter ]
+
+JONATHAN ROBINSON:
+
+No. There are some serious points and thank you. Those are
+good points.
+So just mindful we're coming into the last five minutes so we go
+to Number 3 next.
+
+PATRIK FALTSTROM:
+
+Yes. It's down to your further left, Jonathan.
+Patrik Faltstrom, chair of SSAC.
+One thing that is not really clear in your charter and I would like
+that to be clear before the actual sort of -- before you start
+working is whether these funds can be used in any shape or form
+by activities within ICANN itself.
+For example, if you have a CCWG or something that is created
+that needs funding, today we have two sources: the -- the
+general sort of income or the reserve fund.
+And the question is then: Is it possible for, for example, the
+chartering organizations that want to charter a CCWG, to
+request funding from the auction proceeds or not? And likewise
+for other kind of activities.
+
+Page 63 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+Which means, the question is: Can the auction proceeds, any
+shape or form, be used by activities within the ICANN
+community, and if so, what is the process to do such -- to write
+such an application?
+
+JONATHAN ROBINSON:
+
+That's an interesting -- interesting point, and I just should say,
+probably for transparency, the one thing we did discuss in the
+drafting team -- and if you went back on the records, you'd see
+that -- we talked about the possibility of whether or not we
+should consider segmentation of the funds into different
+categories, and we felt that actually that wasn't a drafting team
+responsibility but that was potentially something that the
+working group could do.
+So in the event that that was in some way acceptable or part of
+it, you know, that could -- that could link into that segmentation
+point.
+So that was Microphone 3. We'll go to 4 next.
+
+MARK McFADDEN:
+
+Thanks, Jonathan. Mark McFadden from the ISPs. Three really
+quick points.
+
+Page 64 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+First of all, it's clear that there's a serious definitional problem
+here, that the definition of lobbying, the definition of conflict of
+interest are clearly things that are important to get right. I don't
+think the drafting team should do that.
+
+That should be
+
+something that the working group does.
+Second of all, if you believe that Steve is right that there should
+be a positive state- -- or the working group should emerge with a
+positive statement about its goals, then I hope that the drafting
+team will include in the scope the notion of recursion, because
+what's got to happen here is that the -- the working group itself
+has got to be able to be in a position to adjust its scope based on
+new information.
+We clearly know from the -- the legal information and the
+fiduciary information that you've got that we have a basic set of
+information and not -- not a definitive set of information, and I
+think what the drafting team should do is consider very carefully
+that if we want to achieve Steve's goal of having a positive
+statement about what the funds are used for in some positive
+way, that the WG is allowed to change that as time moves on.
+Finally, I want to talk about the evergreen question because I am
+sure I'm misunderstanding Elliot's point here, and he's making it
+so strongly that that means I'm sure I'm misunderstanding it.
+
+Page 65 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+The situation here is that we have a one-time source of revenue
+here, but what I'm hoping -- and I'm hoping Elliot will look at me
+and nod his head -- is that if one of the options that comes along
+is to simply take this money and put it into trust and only use the
+interest from that money, that that's consistent with his -- his
+idea that it's a one-time source of revenue and yet we as a
+community could marshal that money in a way that we could
+use it over a longer period of time so it's not simply a one-time
+disbursement. It's a one-time revenue but perhaps not a onetime disbursement.
+And he did not -- for the record, he did not nod his head.
+
+JONATHAN ROBINSON:
+
+Okay. So my next microphone will be 1. We've got three more
+minutes so I think we'll do -- we can do a maximum of one cycle
+through the microphones, so I'm afraid if you've got a
+microphone now, you're in. If not, we're going to ask you to
+make your submissions to us on line.
+So I'm on to Number 1 next and so Microphone 1 --
+
+MARILIA MACIEL:
+
+Page 66 of 73
+
+Hi. I'm Marilia Maciel --
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+JONATHAN ROBINSON:
+
+-- and then we'll go back and then we'll come to 2 here.
+
+MARILIA MACIEL:
+
+-- NCSG speaking. Just one quick comment.
+It occurred to me that when people are talking about conflict of
+interest, some of us are talking about conflict of the people that
+are going and to be part of the working group, some of us are
+talking about the people that are going to select the projects,
+and some talk about conflict of people that are going to receive
+the money.
+So maybe moving forward in this discussion, it would be nice to
+separate this because we're getting confused, in my view.
+A quick reaction on a point raised by Patrik.
+I think that this money has been completely separated from
+ICANN operational money so far, and there's a good reason for
+it.
+I think that the CWGs and things that we do on a day-to-day
+basis is operational. Of course it will be for the working group to
+decide, but I think there's a good reason that ICANN should
+continue to function with its own money and not this external
+and one-time money that is coming to us.
+
+Page 67 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JONATHAN ROBINSON:
+
+Thanks. Microphone 2.
+
+SIVASUBRAMANIAN:
+
+My name is Sivasubramanian. I'm from India.
+
+EN
+
+Apart from the auction proceeds, there is also a new gTLD
+application surplus that could be combined in the purview of the
+working group. If not, at least for the sake of this comment, I
+would make a comment considering it as a sum together.
+Even viewed together, the quantum of money might appear
+huge, but it's not, because ICANN as an organization, with a
+budget of over $60 million, might need a long-term reserve.
+I mean, I'm making a distinction between an operational reserve
+from a long-term reserve.
+So that kind of a reserve could be equal to two years of its total
+budget.
+I mean, if we separate that temporarily, this money in that
+reserve could eventually be released to the foundation or to this
+purpose as the reserves build up more and more.
+So I'm suggesting that let's not be in a hurry to spend this
+money. Let's not be in a hurry to allocate this money.
+And, secondly, the purpose of allocations, or the scope of
+allocations, could be broadened. It may not be within ICANN. It
+Page 68 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+may not be within DNS. It could even be broader than Internet
+because what affects the Internet, the challenges to the Internet,
+would eventually effect DNS and also ICANN participants. So
+these are the two comments.
+
+JONATHAN ROBINSON:
+
+And I would encourage you to bring some of those points up
+within the working group itself. Certainly, as far as the scope of
+the funding, currently, as we stand, it's tied to the auction funds
+only. But those are some interesting points, and they may be
+able to be fed into budgeting processes and so on.
+We will go to three and four, if you can keep it brief, and then the
+cue is closed at that point.
+Microphone 3, please.
+
+ROBERT GUERRA:
+
+It's Robert Guerra with the SSAC, speaking in a personal
+capacity. Just a couple of quick comments.
+I want to mention what Carlos Alfonso mentioned in regards to
+not reinventing the wheel and kind of seeing kind of the scope
+and focus. So let me make a specific suggestion.
+I think earlier we were talking about focus, and there was a line
+there that said ensure processes and procedures are lean and
+
+Page 69 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+effective. To that I would add "and build on best practices." And
+that could go to the group that's bringing it up.
+But I think if you are doing the scope now, building on best
+practices and also exploring opportunities to partner with other
+institutions that are doing the same, would be particularly
+important. Following this space very closely, if I have, in having
+been an intermediary donor in this space, there are multidonor
+pools, multiple foundations, government entities. And it would
+be far more efficient and far more value if ICANN were to explore
+and the group to explore how the value and the funding that
+they're putting in could be added to existing pools. So that's
+something that perhaps could be added.
+And on the aspect of conflict of interest, I would be a strong
+proponent of those who are participating in the group that's
+being set up that they as individuals could not apply for funding
+because they would be in after privileged position of having set
+it up. If they are part of larger institutions, perhaps other people
+could. But they should -- that would be a direct conflict which I
+would like to echo, and others.
+So those are my two suggestions, adding "building on best
+practices" and the issue of participants that are involved in this
+not being able to apply. Thank you.
+
+Page 70 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+JONATHAN ROBINSON:
+
+EN
+
+Thanks, Robert. We are very tight for time, so we will go straight
+to Microphone 4 and then try and wrap things up.
+
+ANDREW DWYER:
+
+Hi. I'm Andrew Dwyer. And I would just like to echo that precise
+point, especially with what Marilyn said of the reputational
+damage that could come from -- for ICANN especially where it's
+got from self-interest conflicts.
+
+So exactly what was said
+
+previously with potentially looking at exploring other donors,
+who may be able to follow a scope with the CCWG, could outline
+and that process could then be followed.
+
+JONATHAN ROBINSON:
+
+Thank you very much. That was actually -- we didn't go through
+things in quite the sort of sequential way that we might have
+imagined. But we've certainly received some high-quality input.
+And, significantly, I know some of you will inevitably have been
+left out. But we've got quite diverse input. We've had a lot of
+unique speakers on the microphone.
+
+So that's very much
+
+appreciated for those of you that have either attended and
+caught up now and/or done your diligence before.
+So we are -- as we bring this session to a close, we can talk to
+you about the expected next steps. We clearly had that blue box
+
+Page 71 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+EN
+
+in the top left-hand corner, the cross-community discussion,
+here.
+We will take all of that input. Most of us in the drafting team
+have been in this meeting. We'll have access to the audio and
+the transcript, and we will probably lean on staff to help us by
+trying to distill out some of the key points out of this. But one
+way or another, we will try and pull out the key suggestions and
+make them into some sort of themes and then sort them out and
+then update the charter on the back of that. So this has been
+very valuable.
+Now, some of you may feel that you haven't had the opportunity
+to either have your say or have enough of a say. And to that
+extent, we'll provide you with an email address to provide us
+with further input if you haven't had the opportunity to do so, so
+that we can weave that into the charter as well.
+And our intention, then, is to submit the charter based on all of
+that to the SOs and ACs for their consideration in due course,
+which will then allow them to potentially adopt the charter and
+commission really the meaty work, which is the work of the
+CCWG itself, the working group itself in which there will be
+ample opportunity to participate.
+So, Marika, are we going to use your address? If you could let
+people know what that address is to send any email input to.
+
+Page 72 of 73
+
+HELSINKI – Cross-Community Session: Charter for the CCWG on Auction Proceeds
+
+MARIKA KONINGS:
+
+EN
+
+Yes, this is Marika. I will also post that my address into the chat.
+But it's, basically, my name, marika.konings@icann.org. If you
+didn't catch that, feel free to come up to me after the session
+and I will give you my card or write it down.
+
+JONATHAN ROBINSON:
+
+And it's on the transcript. Thanks, Marika, and everyone who
+has been up on the podium here, everyone on the drafting team,
+and everyone who has attended and put the high-quality input
+into this session. Much appreciated. And with that, we will bring
+the session to a close.
+
+[END OF TRANSCRIPTION]
+
+Page 73 of 73
+
+

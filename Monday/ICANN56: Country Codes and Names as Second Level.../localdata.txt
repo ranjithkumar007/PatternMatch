@@ -1,0 +1,14 @@
+Folder Location (Path) - /home/ranjithkumar/hargup/Monday/ICANN56: Country Codes and Names as Second Level...
+
+Name of the Present Directory - ICANN56: Country Codes and Names as Second Level...
+
+word being checked is jurisdiction
+
+                  File Name   	                                            Number of Times jurisdiction appeared
+1. TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs zh                   Not Found in this file
+2. TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs es                   Not Found in this file
+3. TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs ar                   Not Found in this file
+4. TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs en                   Not Found in this file
+5. TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs pt                   Not Found in this file
+6. TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs ru                   Not Found in this file
+7. TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs fr                   Not Found in this file

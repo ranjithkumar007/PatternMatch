@@ -1,0 +1,52 @@
+TechDay
+Agenda
+
+ICANN 56
+Helsinki
+
+2016-06-27
+
+ICANN 56 (Helsinki)
+
+TechDay
+
+2016-06-22
+
+1/2
+
+Afternoon Session
+12:30
+14:00
+14:10
+14:30
+14:50
+15:10
+15:30
+15:50
+16:10
+16:30
+17:20
+17:50
+
+Lunch: DNSSEC Day
+Opening Remarks: Lisse
+Host Presentation: Juselius
+Zonemaster: Dufberg
+.SE/.NU AXFR: Wallström
+.NZ Registrar Portal: Daley
+DDoS .UG: Arends
+Luminous: Ritchie
+CoCCA SDF: Rifaee
+JAKU Report: Settle
+What3Words: Gale
+Closing Remarks: Latour
+
+ICANN 56 (Helsinki)
+
+TechDay
+
+2016-06-22
+
+2/2
+
+

@@ -1,0 +1,1083 @@
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las recomendaciones
+(BGRI)
+Lunes, 27 de junio de 2016 – 14:00 a 15:00 EEST
+ICANN56 | Helsinki, Finlandia
+
+THOMAS SCHNEIDER:
+
+Vamos inmediatamente a la siguiente porque nos están
+esperando muy pacientemente Markus y Manal. Vamos a pasar
+rápidamente a la sesión siguiente que es liderada por el grupo de
+trabajo de implementación y recomendaciones que es la
+resurrección de un zombi que tuvimos antes que es una forma de
+implementar las recomendaciones en cooperación con la junta y
+el GAC del ATRT. El equipo de transparencia y revisión que hizo
+revisiones hizo revisiones y nosotros estamos muy contentos de
+volver a tener a Manal aquí y también a Markus para que nos
+ayuden a tratar de implementar la recomendación que tuvimos
+para hacer que nuestro GAC sea más efectivo. Le voy a dar
+entonces ahora la palabra a cualquiera de ustedes que quiera
+comenzar.
+
+MARKUS KUMMER:
+
+Es un placer estar aquí con ustedes. Tenemos poco tiempo. Nos
+dijeron que nos tenemos que ir un poco antes porque va a haber
+un CCWG así que tenemos tres cuartos de hora. Por eso quiero
+pasar directamente al asunto a tratar. Hay un poco de historia.
+
+Nota: El contenido de este documento es producto resultante de la transcripción de un archivo de audio a un
+archivo de texto. Si bien la transcripción es fiel al audio en su mayor proporción, en algunos casos puede
+hallarse incompleta o inexacta por falta de fidelidad del audio, como también puede haber sido corregida
+gramaticalmente para mejorar la calidad y comprensión del texto. Esta transcripción es proporcionada como
+material adicional al archive, pero no debe ser considerada como registro autoritativo.
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+No vamos a entrar mucho en el tema de historia pero sí
+quisiéramos hacer un cierre de algunas de las recomendaciones.
+Esa es nuestra ambición. Este es un proceso, tenemos un
+programa y esperamos tener un poco más de claridad en algo
+que no siempre es tan claro y con esto le voy a dar la palabra a
+Manal que tiene una breve presentación.
+
+MANAL ISMAIL:
+
+Muchas gracias, Markus. Como usted dijo, tenemos poco tiempo
+así que vamos a tratar de hacer una introducción muy breve y
+luego entrar en la sustancia. Vamos a la siguiente diapositiva,
+por favor. Como se mencionó anteriormente, el grupo de trabajo
+de implementaciones de recomendaciones del GAC y la junta
+crearon el ATRT1 y el mandato fue extendido para implementar
+las recomendaciones del segundo grupo de revisión y
+transparencia y este grupo se reunió nuevamente para analizar
+la efectividad del asesoramiento del GAC. Actualmente, del lado
+del GAC tenemos al presidente del GAC, a Suiza, Estados Unidos,
+Irán, Reino Unido y quien les habla, de Egipto. De la junta
+directiva…
+
+Página 2 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+MARKUS KUMMER:
+
+Tenemos a los miembros de este grupo de trabajo, Chris
+Disspain, Erika Mann, Ram Mohan, Mike Silber y Lousewies Van
+der Laan.
+
+MANAL ISMAIL:
+
+Siguiente diapositiva. En Dublín el GAC presentó la necesidad de
+revisar periódicamente el asesoramiento del GAC y el ACIG
+analizó el tema y preparó un informe de revisión. El informe fue
+presentado junto con una carta a la junta y la junta remitió el
+tema al grupo de BGRI para analizar las recomendaciones.
+Vamos a la siguiente.
+Los hallazgos principales del informe fueron que en algunos
+casos es extremadamente difícil determinar si la ICANN aceptó el
+asesoramiento del GAC o no y si es que existe evidencia clara de
+que el asesoramiento ha sido aceptado, en qué medida ha sido
+implementado y si es que el GAC considera que la
+implementación cumple adecuadamente con la intención
+original del GAC. Vamos a la siguiente, por favor.
+Este es el plan de trabajo. Nosotros decidimos comenzar
+rápidamente con el plan para que ustedes puedan reconocer
+qué es lo que se necesita de parte de ustedes en esa sesión de
+trabajo cuando analicemos las recomendaciones específicas
+más en detalle. Markus, si quisieras hablar del plan de trabajo.
+
+Página 3 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+MARKUS KUMMER:
+
+Como pueden ver, hemos listado aquí tres temas pero tenemos
+que llegar a un cierre de esto en esta reunión. Luego tenemos un
+cuarto tema que son los mecanismos de logging y de rastreo.
+Vamos a tener una presentación creo que el miércoles con el
+personal de la ICANN y esperamos poder llegar a un cierre con
+dos recomendaciones más para el momento en que nos
+volvamos a reunir en Hyderabad. Lo más complicado es cómo
+implementar lo que va a suceder después de Hyderabad. Vamos
+a poder empezar con lo que resulta fácil y luego le voy a pasar de
+nuevo a ustedes la palabra.
+
+MANAL ISMAIL:
+
+Si vamos a la siguiente diapositiva, esta es la primera
+recomendación que proviene del informe del ACIG. Lo que vemos
+es cuáles son las formas de comunicación del GAC que incluyen
+el asesoramiento del GAC. Nos pareció que la discusión de las
+distintas recomendaciones deben decir que tenemos un
+entendimiento completo de la recomendación y cuál es el
+enfoque que se debe seguir, identificar los elementos de
+implementación o los entregables, cuál es el marco de tiempo,
+como ya dijo Markus, y también las responsabilidades.
+Finalmente, cómo poder lograr que estas recomendaciones se
+documenten y se institucionalicen dentro del proceso general.
+
+Página 4 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+Debo decir también aquí que este tema se planteó durante el
+equipo de revisión de responsabilidad y transparencia 1 y se
+puso una definición en el sitio web del GAC. Si podemos ver la
+definición en la pantalla, por favor. Quizá eso nos resulte útil
+para recordarles a los colegas este tema. La pregunta aquí es si
+esto no es satisfactorio o si es que era satisfactorio antes pero ya
+no lo es actualmente o si es que es satisfactorio pero no es
+conocido para la gente que esa definición ya exista.
+Creo que este tiene que ser nuestro punto de partida para esta
+recomendación. Podemos revisar la definición y ver cómo
+podemos hacer visible y conocido para las personas que esto ya
+existe. A medida que va pasando el tiempo y la gente va
+cambiando, todo parece estar más a mano y ser más accesible.
+¿Hay algún comentario sobre esta explicación existente de qué
+es lo que constituye el asesoramiento del GAC? Tiene la palabra
+el representante de Suiza.
+
+SUIZA:
+
+Muchas gracias, Manal. Esto viene a mi mente como algo de
+larga data, como una fruta ya madura. Quizá podríamos colocar
+esto como un descargo de responsabilidad en nuestros
+comunicados. Quizá como nota al final del documento. Me
+parece que sería muy útil colocar un enlace que nos lleve a esta
+definición.
+
+Página 5 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+MANAL ISMAIL:
+
+Muchas gracias. Me parece que es una sugerencia muy útil. Bien,
+¿algún otro comentario? ¿Alguna otra sugerencia? También
+quisiera pedirle al ACIG si quiere acotar algo o quiere mencionar
+algo sobre esta recomendación, por favor, háganlo con total
+libertad. Irán, por favor. Señor Arasteh.
+
+IRÁN:
+
+Creo que quizá todo el mundo sepa pero tenemos las actividades
+del CCWG que también fueron agregadas al asesoramiento del
+GAC para tomar en cuenta esto. Deberíamos tomar en cuenta
+cuáles son los elementos que debería tener en cuenta el
+asesoramiento del GAC, es decir, los fundamentos. Esto sería por
+un lado. También garantizar que esté en consonancia con los
+estatutos, que se comprenda pero que se tome en cuenta
+también. Gracias.
+
+MANAL ISMAIL:
+
+Muchas gracias. Esta es otra sugerencia de mucha utilidad.
+Necesitamos entonces agregar esta descripción y también
+determinar qué debería incorporarse en el asesoramiento del
+GAC. Por ejemplo, un fundamento que esté en consonancia con
+los estatutos de la ICANN y los otros puntos que podamos
+identificar.
+
+Página 6 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+IRÁN:
+
+Otro elemento más. Si el asesoramiento del GAC se toma por
+consenso, esto también se podría mencionar. Si no se toma por
+consenso, también lo podríamos mencionar o si se aprueba por
+consenso quiere decir que hay una diferencia con el
+asesoramiento. Es algo muy importante. Quizá no lo tengamos
+que hacer exactamente ahora pero conforme avancemos me
+parece que es importante tenerlo en cuenta porque cada tipo de
+asesoramiento recibe un tratamiento diferente. Gracias.
+
+MANAL ISMAIL:
+
+Muchas gracias, Irán. Yo ya tomé nota de esto pero si usted
+quisiera compartirlo mediante correo electrónico, también nos
+sería de mucha utilidad. Tiene la palabra Suecia.
+
+SUECIA:
+
+Muchas gracias, Manal. Yo me preguntaba lo siguiente. Si hay
+alguna forma de hacer una referencia al asesoramiento del GAC
+para que se pueda identificar de manera más sencilla.
+
+MANAL ISMAIL:
+
+Muchas gracias. A ver, usted quiere decir que también debería
+estar enumerado en alguna parte de la descripción, qué es el
+asesoramiento del GAC o se refiere en forma general, que cada
+
+Página 7 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+vez que hablemos del asesoramiento del GAC tengamos una
+referencia única.
+
+SUECIA:
+
+No sé si sería necesario incorporarlo o enumerarlo aquí o hacerlo
+parte de un método de trabajo. No lo sé realmente. Simplemente
+me preocupa que no sea fácilmente identificado.
+
+MANAL ISMAIL:
+
+Bien, es un punto interesante. Vamos a tratar de crear algo y lo
+vamos a compartir en la lista de correo electrónico para poder
+captar los aportes que recibamos al respecto. Como mencionó
+Markus, esto ya va a ser parte del sistema de rastreo, cómo
+nosotros mencionemos el asesoramiento del GAC y cómo
+hagamos una búsqueda de esto. Por eso pregunto si tenemos
+que poner esto por escrito o si no es necesario hacerlo. Bien,
+¿algún otro comentario? Adelante, por favor, Thomas.
+
+THOMAS SCHNEIDER:
+
+Creo que hay algunas cuestiones que tendríamos que tener en
+cuenta. En primer lugar, en los principios operativos tenemos
+una disposición que habla del asesoramiento a la junta directiva
+y que no da mucho detalle sobre qué es el asesoramiento.
+Tenemos a los estatutos que se van a cambiar, se van a modificar
+
+Página 8 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+en breve y también tenemos nuestros propios procesos para
+revisar los principios operativos y tenemos que tener una
+comprensión más clara de cuál es la vía correcta o adecuada
+para el tratamiento de este trabajo en particular. No tenemos
+que trabajar en paralelo e ir en direcciones diferentes sino que
+tenemos que tener algún entendimiento en común para saber
+quién hace qué cosa y qué documentos debemos tener en
+cuenta, como por ejemplo los estatutos. No necesariamente
+tenemos que tener esto como parte de los principios operativos
+o como una parte de la discusión sobre los principios operativos.
+Este grupo se va a ocupar de la definición pero esto es algo que
+todos tenemos que considerar.
+La pregunta clave ahora es si vale la pena trabajar en este tema
+teniendo en cuenta los estatutos antiguos o si tenemos que
+esperar hasta tener los nuevos estatutos, hasta que aparezcan y
+se implementen formalmente los nuevos estatutos. Me parece
+que estas son cuestiones que debemos considerar. Me gustaría
+saber qué opinan ustedes.
+
+MARKUS KUMMER:
+
+Yo creo que la sugerencia del representante de Irán ha sido muy
+útil. Esto tiene que estar en consonancia con los estatutos. Creo
+que sí que tenemos que tener consenso en cuanto a los
+principios y ver que este proceso sea exitoso. Tenemos que
+
+Página 9 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+debatir los ejemplos. Una palabra es muy importante y es
+importante el asesoramiento explícito. Quizá en el pasado en
+realidad el asesoramiento del GAC no era del todo explícito. No
+decíamos: “Esto es asesoramiento del GAC”. Veo que Kavouss
+tiene una pregunta.
+
+IRÁN:
+
+Quería confirmar lo que usted está diciendo. Tenemos que ser
+muy claros en cuanto a si vamos a dar asesoramiento o una
+comunicación a la junta directiva. La junta tiene que saber
+realmente lo que estamos haciendo porque tenemos que decir
+“Asesoramiento del GAC” con mayúscula. Esto implica
+recomendaciones específicas y tenemos que dejarle muy en
+claro a la junta directiva lo que estamos haciendo. Me parece
+que lo tenemos que tomar en cuenta. Simplemente quería
+confirmar su comentario. Muchas gracias por mencionarlo.
+
+MANAL ISMAIL:
+
+Bien. ¿Algún otro comentario sobre esta recomendación en
+particular? Si no, quizá podemos pasar a la siguiente diapositiva
+que es la recomendación número dos. Esta recomendación dice:
+Decidir y describir los resultados de política pública para cada
+asesoramiento del GAC e incluir esto en una declaración de
+asesoramiento. Bien. Aquí, una vez más, este es un elemento
+
+Página 10 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+que, como mencionó Kavouss, necesitamos fundamentar el
+asesoramiento y también esto tiene como objetivo el resultado
+de la política pública de cada asesoramiento del GAC. Me
+pregunto si necesitamos en este caso una especie de plantilla
+que podamos completar con facilidad sin dejar de lado los
+parámetros específicos que tenemos que considerar para cada
+asesoramiento en particular.
+También hubo una sugerencia. El GAC y la junta directiva pueden
+llegar a tener alguna especie de intercambio después del
+comunicado. Esto quiere decir que podemos tener una llamada
+en teleconferencia con la junta directiva o la junta directiva
+podría tener algún mecanismo de revisión del asesoramiento del
+GAC para el comunicado similar al que ya se está llevando a cabo
+en la GNSO. Quizá se puedan implementar ambas cosas. Este es
+un punto que tendríamos que debatir. Markus y luego le doy la
+palabra al representante de Irán.
+
+MARKUS KUMMER:
+
+Yo quería decir que esto está muy en línea con lo que hemos
+debatido anteriormente en cuanto a que hay que ser muy
+explícitos en el asesoramiento. Lo que usted mencionó en
+cuanto al contacto posterior, esto se menciona en la
+recomendación número tres y ya hemos agendado un proyecto
+con la junta directiva y el GAC y una llamada para que se
+
+Página 11 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+clarifique y se debata qué es lo que se quiere decir con esto y si
+hay algún asesoramiento al respecto, qué quisimos decir. Ya
+existe algo en lo que estamos trabajando pero, por supuesto, me
+gustaría escuchar a los miembros del GAC para que digan cómo
+ven esto. Es decir, la idea es ser explícitos.
+
+MANAL ISMAIL:
+
+Gracias, Markus. Tiene la palabra el representante de Irán.
+
+IRÁN:
+
+Gracias, Markus. Usted mencionó la palabra explícito y yo
+entiendo que el idioma claro también tiene que estar embebido
+en esto, al menos de parte de los gobiernos. Cuando hablamos
+de consenso, muchas veces la redacción es vaga y si la redacción
+es vaga es difícil comprender lo que se dice. De aquí en adelante
+tenemos que tratar de ser lo más claros posible y evitar cualquier
+vaguedad en nuestras redacciones. El elemento de debate entre
+la junta y el GAC es importante cuando la junta directiva no está
+de acuerdo con el preasesoramiento porque después se pasa a la
+fase de negociación. Esto es importante. Todavía no sabemos
+cómo se llevan a cabo las negociaciones. Estas negociaciones
+pueden ser cara a cara. Quizá se pueda abordar este tema.
+
+Página 12 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+THOMAS SCHNEIDER:
+
+Bueno, a ver. El primer punto es que hemos tenido debates con
+la junta directiva y el primer paso es que antes de saber si están
+de acuerdo o no tenemos que saber si comprenden lo que
+queremos decir o no. Lo primero a tener en cuenta es si estamos
+seguros de que comprenden lo que les queremos decir. Yo no
+quiero complicar las cosas demasiado pero no es algo trivial
+porque existe un porcentaje aquí que tiene que ver con la falta
+de comprensión. Seguir el asesoramiento tiene que tener una
+coherencia. Este es el caso más frecuente. Hay situaciones en las
+cuales
+
+la
+
+junta
+
+directiva
+
+explícitamente
+
+dice:
+
+“No
+
+implementamos un asesoramiento”. En realidad es algo raro
+pero no es blanco y negro, sino que más bien tiene que ver con la
+cuestión de comprender el asesoramiento.
+
+MANAL ISMAIL:
+
+Muchas gracias, Thomas. Usted ha abordado parcialmente mi
+punto. Yo quería decir que la intención aquí es garantizar que
+tengamos un entendimiento en común de las respuestas, ya
+sean negativas o positivas. En cuanto a la claridad de la
+redacción, recordemos que hubo un malentendido que surgió
+hace poco. Ya tenemos una estructura actual del comunicado.
+Tenemos una sección que se titula “Asesoramiento del GAC a la
+junta directiva”. El GAC implícitamente dio por sentado que aquí
+se iba a colocar todo el asesoramiento a la junta directiva pero
+
+Página 13 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+cuando hicimos la redacción decimos: “El GAC recomienda”.
+Esto se va a tomar como una recomendación y no como
+asesoramiento del GAC. Me parece que aquí es donde surgió el
+malentendido. Me parece que sería útil ahora que sabemos que
+recomendar resulta problemático, quizá debamos tener una
+redacción un poco más clara de nuestra parte y también me
+parece que tenemos que ser claros en cuanto a lo que vamos a
+pedir de la junta directiva.
+Yo recuerdo un ejemplo. Hace poco Chris Disspain mencionó en
+una de nuestras llamadas que cuando el GAC dice que
+necesitamos o queremos que la junta directiva considere algo,
+bueno, entonces ellos lo tienen que considerar y tomarlo o no.
+Quizá acepten el asesoramiento del GAC pero si nosotros le
+requerimos que hagan algo, entonces tenemos que especificarlo
+y no simplemente mencionar la palabra considerar. Este es un
+ejemplo concreto que quería mencionar. Tiene la palabra el
+representante de Irán.
+
+IRÁN:
+
+Sí, Manal. Usted mencionó que tenemos que ser cuidadosos en
+cuanto a lo que incluimos en esa sesión. El asesoramiento del
+GAC tiene que ser asesoramiento del GAC. Si hablamos de
+recomendación, esto no es asesoramiento, es algo más. No es un
+asesoramiento. No le decimos a la junta: “Por favor, considere
+
+Página 14 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+esto”. Una consideración tiene un significado muy específico. La
+consideración no debe tenerse en cuenta como asesoramiento
+del GAC. Considerar es tomar en cuenta. Por eso digo que
+tenemos que ser muy claros en cuanto a la redacción que vamos
+a utilizar en la sección de asesoramiento.
+
+MANAL ISMAIL:
+
+Bien. Veo que estamos todos de acuerdo. Veo que muchos
+asienten. Tiene la palabra el representante de Tailandia.
+
+TAILANDIA:
+
+En cuanto a los plazos que usted mencionó, quisiera que se
+aclarara algo. Cuando hablamos de los comentarios públicos o el
+plazo para el comentario público, ¿ese va a ser el plazo para que
+el GAC considere o va a ser el tiempo que ambas partes van a
+tener para negociar? A mí me interesa conocer un poco sobre
+esta sociedad o asociación que se va a formar entre nosotros y
+los miembros de la ICANN y ver cuál es el marco que se va a
+implementar porque quizá resulte un poco duro. Tres semanas
+puede ser un tiempo bastante problemático. Creo que quizá
+tenemos que tener una sociedad para trabajar entre nosotros y
+los miembros.
+
+Página 15 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+MANAL ISMAIL:
+
+Muchas gracias, Tailandia, por el comentario. Tiene la palabra el
+representante de Paraguay y luego Namibia.
+
+PARAGUAY:
+
+Gracias. Yo recuerdo que debatimos esto en Marrakech y en
+Dublín en cuanto a qué verbos íbamos a utilizar para hacer las
+distinciones que mencionó mi colega de Irán. Recuerdo que
+cuando decíamos que se requiere algo, es diferente a decir,
+como se mencionó anteriormente, que se considere algo. Uno
+puede considerar algo y decidir hacer una cosa u otra o sí o no.
+Esto es algo totalmente diferente. Por otro lado, sería ideal al
+menos tener un enfoque común, un entendimiento común sobre
+el
+
+enfoque,
+
+la
+
+implementación,
+
+los
+
+entregables,
+
+las
+
+responsabilidades, los marcos de tiempo, la documentación.
+Esta sería una situación ideal. ¿Qué sucedería en una situación
+de carácter negativo? Esto es lo que a mí me inquieta, me
+preocupa. Gracias.
+
+MANAL ISMAIL:
+
+Gracias, Paraguay. Perdón por confundirlos. Estos son puntos de
+debate para esta recomendación, no para el asesoramiento del
+GAC. Cuando debatimos esta recomendación tendríamos que
+comprender o tener un entendimiento común de cómo vamos a
+enfocarnos para poder implementar esta recomendación y esto
+
+Página 16 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+no tiene que ver con el asesoramiento del GAC. Perdón por la
+confusión. Tiene la palabra el representante de Namibia.
+
+NAMIBIA:
+
+Muchas gracias, Manal. Yo estaba escuchando los comentarios,
+las frases que se estaban diciendo, en cuanto a ser más
+específicos, a la necesidad de ser claros respecto del
+asesoramiento que estamos dando. Cuando yo leo la
+recomendación, dice: “Decidir y describir”. La parte que dice
+describir, aquí me parece que tenemos que tener cuidado
+porque hablamos de resultados de políticas públicas. Una cosa
+es decidir y otra es describir. Esto probablemente nos lleve a
+tener que definir qué es la política pública y qué es el interés
+público. A ver, para ser claros, cuando describimos políticas
+públicas y sus resultados, me parece que tendríamos que
+adentrarnos en la descripción del interés público. Esto todavía es
+algo cerrado. No sé qué fue primero. Estamos en esta disyuntiva
+de si fue primero el huevo o la gallina. Si vamos a hablar primero
+de política pública y de interés público luego o viceversa.
+Tenemos que decidir y describir el resultado. Quería mencionar
+esto.
+
+Página 17 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+MANAL ISMAIL:
+
+Creo que no quiere decir describir los resultados en sí sino
+describir cuál es el aspecto de la política pública en el
+asesoramiento y, por esta razón, nosotros brindamos este tipo
+de asesoramiento. Me parece que tiene que ver de alguna
+manera con los fundamentos. Es decir, los fundamentos
+subyacentes para abordar un determinado aspecto de la política
+pública. No es fácil decirlo en teoría pero quizá cuando
+comencemos a trabajar podamos comprenderlo con mayor
+facilidad. Tiene la palabra Suiza.
+
+SUIZA:
+
+Gracias, Manal. Usted acaba de decir más o menos lo que yo
+tenía la intención de sugerir. A fin de cuentas, nuestra intención
+tiene mucho que ver con la justificación del asesoramiento que
+damos. Yo espero que esto le pueda ayudar a la junta directiva a
+interpretar que a veces hay una redacción muy críptica del
+asesoramiento, si es que viene con la justificación, y que
+nosotros podamos entender adónde apuntamos. Quizá la
+redacción del asesoramiento como tal tenga un poco de
+vaguedad para poder encontrar un consenso pero también hay
+una vaguedad para que la junta y el personal puedan encontrar
+la mejor manera de implementar algo que está a nivel de
+principios. Por eso yo creo que la justificación realmente tiene
+que ver con esta recomendación.
+
+Página 18 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+MANAL ISMAIL:
+
+Gracias, Suiza. Antes de pasar a la siguiente, la pregunta es si
+estamos todos de acuerdo respecto de lo que se debe hacer en
+un asesoramiento del GAC. Es decir, cómo lograr que se cumpla
+cada vez que nosotros damos ese asesoramiento. ¿Deberíamos
+tener quizá algún tipo de comunicado de referencia o alguna
+plantilla o algún link a una descripción del asesoramiento del
+GAC en el pie de página donde se indiquen todos los distintos
+parámetros que se tienen que cumplir en cada asesoramiento
+como claridad, justificación, política pública, intencionada?
+¿Cómo podemos estar seguros de que nos ceñimos a lo que
+nosotros acordamos básicamente? Suiza.
+
+SUIZA:
+
+Quizá esto ya se mencionó pero yo recomendaría que esta
+estructura esté en la redacción de nuestra recomendación y que
+recomendemos esto a la secretaría.
+
+MANAL ISMAIL:
+
+Estoy totalmente de acuerdo pero yo me refería incluso a más
+largo plazo cuando nosotros cambiemos o cuando la secretaría
+cambie. Tiene que estar todo esto en algún lugar en el que todos
+lo puedan encontrar para saber a qué adherirse.
+
+Página 19 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+THOMAS SCHNEIDER:
+
+Algo que podemos hacer es desarrollar, y creo que ustedes ya lo
+dijeron, generar una plantilla para el asesoramiento del GAC con
+algunos elementos. Uno es la justificación, el otro es el
+asesoramiento
+
+en
+
+sí,
+
+el
+
+otro
+
+es
+
+las
+
+expectativas
+
+de
+
+implementación, quizá algún marco de tiempo esperado para
+que todo esto nos ayude a preparar asesoramientos para
+reuniones pero también si tenemos una carta por ejemplo que
+acompaña, que haya una plantilla que vaya junto con eso y, si
+eso funciona, permitir a quien esté del otro lado que se
+acostumbre a esa plantilla y a la lógica y al entendimiento. Como
+estamos generando un nuevo sitio web, quizá aquellos que están
+trabajando en el sitio web piensan en estas discusiones y a lo
+mejor podemos tener una plantilla en el sitio web. Es decir, una
+hoja donde se explique cómo se genera el asesoramiento con los
+distintos elementos.
+
+MANAL ISMAIL:
+
+Gracias, Thomas. Estoy totalmente de acuerdo.
+
+PARAGUAY:
+
+Gracias, Manal. Iba a mencionar que si ustedes tienen ese link a
+la página web del GAC, esta sería una forma muy fácil de que
+
+Página 20 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+todos los miembros del GAC tengamos acceso a la justificación, a
+la plantilla, etc. Creo que es una muy buena idea.
+
+MANAL ISMAIL:
+
+Gracias, Paraguay. Hasta ahora entonces vamos a refinar la
+descripción del asesoramiento del GAC con la ayuda de Irán y
+con quien quiera que nos ayude. Vamos luego a circular esta
+descripción revisada. Vamos a trabajar con la ayuda de la
+secretaría para poder generar una plantilla para el comunicado
+del GAC. Espero que les parezca bien. Luego también hay una
+propuesta de que tengamos un piloto para la llamada del GAC
+con la junta después del comunicado y así que estemos seguros
+de que todos tenemos un entendimiento común de que
+hayamos dado asesoramiento en el comunicado.
+Vamos a ir a la siguiente diapositiva que también tiene la
+recomendación número tres y la recomendación es si es que
+dentro de cada asesoramiento se expresan los distintos
+elementos implementables. Creo que esto ya surgió dentro de
+las primeras discusiones del equipo de revisión y transparencia y
+por eso nosotros decidimos poner en puntos las distintas partes
+del asesoramiento para estar seguros de que ninguna parte
+quede afuera. En la práctica, obviamente, cuando este
+asesoramiento se incluye en el registro, va a otro registro y así es
+como se hace mucho más difícil rastrear las distintas partes del
+
+Página 21 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+asesoramiento. Por eso el mérito en esta recomendación me
+parece a mí que es este y ahora sí, si quieren hacer preguntas,
+adelante, por favor.
+
+SUECIA:
+
+Gracias. Sería fantástico si pudiésemos hacer todo esto. Al hablar
+con experiencia, tendemos a estar satisfechos cuando
+escribimos el asesoramiento del GAC. Usamos el tiempo y la
+energía que tenemos disponible, a veces a las dos de la mañana.
+A veces tenemos que trabajar hasta las cuatro o hasta las seis.
+Cuanta más precisión tengamos en nuestro asesoramiento, que
+es lo que tenemos que tener, más tiempo me parece que nos va
+a tomar escribirlo, negociarlo. Esto genera nuevas áreas, hay
+nuevos temas para negociar. Por eso yo creo que tenemos que
+tener un nivel que resulta razonable, con el cual podamos
+cumplir y no poner la barra muy alta, que no sea una meta muy
+difícil de lograr porque si no, quizá no vamos a lograr ninguna.
+Sería deseable que esto se cumpla y también muchas otras
+cosas, ¿pero nosotros podemos razonablemente esperar que
+esto se va a cumplir?
+
+MANAL ISMAIL:
+
+Muchas gracias, Anders. Es un buen punto. Hay dos opciones
+aquí. Podemos no especificar los elementos implementables o a
+
+Página 22 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+los efectos de la plantilla podemos escribir estos elementos
+implementables si resulta aplicable. A veces uno no puede
+prever si la implementación va a ir en un camino específico y no
+se pueden identificar las distintas partes. Podemos poner un
+placeholder y ver cómo vamos a avanzar en este sentido.
+Thomas y luego Reino Unido.
+
+THOMAS SCHNEIDER:
+
+Creo que Anders está haciendo un punto muy importante. Quizá
+no tenemos que ser muy prescriptivos en cuanto a cómo llenar
+esta estructura. Esto no es nuevo. Si nosotros miramos los
+asesoramientos anteriores en comunicados y en cartas, muchas
+veces hay una justificación que no está en forma de viñetas, a
+pesar de que nosotros ya tenemos estas viñetas y todos estos
+son
+
+elementos
+
+implementables.
+
+La
+
+idea
+
+es
+
+ser
+
+más
+
+estructurados en la presentación de todo esto pero nunca va a
+ser un texto legal en el que figuren A, B, C, D, bis, [ter, quarter],
+etc. Esto no nos va a llevar a ninguna parte. Creo que tenemos
+que tener en cuenta que nosotros lo estamos haciendo con un
+comunicado que hay que redactar.
+A lo mejor tenemos que preguntar por el asesoramiento y
+empezarlo antes de la reunión. Esto es algo que es muy común
+en otras instituciones, en otros foros, que haya textos y
+resoluciones preliminares en borrador. Nosotros quizá tengamos
+Página 23 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+en el futuro que considerar que tengamos estos elementos con
+anterioridad para no tener que negociar la justificación porque si
+estamos de acuerdo en la justificación, va a haber casos en que
+no, obviamente, pero todo lo que podamos hacer en términos de
+preparación del texto antes de la reunión, más posibilidades
+vamos a tener de poder cumplir. Esa es mi respuesta para
+ustedes.
+
+MANAL ISMAIL:
+
+Tenemos a Reino Unido y luego Irán.
+
+REINO UNIDO:
+
+Gracias, Manal. Quizá corro el riesgo de hacer demasiada
+ingeniería en estas cosas, diseccionar los distintos temas que
+nos puede tomar demasiado tiempo para las minucias en estos
+debates pero esta recomendación me parece a mí que es muy
+importante. Podemos dar un asesoramiento como comité en
+temas que pueden tener cierta complejidad. Como usted dijo,
+Manal, en su introducción, ha habido instancias en el pasado en
+que perdimos de vista lo que sucedía con ciertos elementos de
+ese asesoramiento, quizá accidentalmente y agregaría también
+del lado del GAC.
+Hemos identificado elementos que podrían tener distintas líneas
+de tiempo para implementarlas. Creo que es importante
+
+Página 24 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+también hacer un rastreo de todo esto, poder ir haciéndole un
+seguimiento. Esto se aplicaría en algunas situaciones y no
+tenemos que ser muy rigurosos en la aplicación quizá de esta
+recomendación
+
+en
+
+particular
+
+pero
+
+creo
+
+que
+
+es
+
+una
+
+recomendación igual muy valiosa. Si tenemos algún sistema de
+referencia, como mencionó antes Suecia para estos elementos,
+esto nos ayudaría también en cuanto a cómo rastrear un
+asesoramiento complejo, posiblemente vinculado a los nuevos
+gTLD o la realización de una nueva ronda, etc. Este es el tipo de
+situaciones que yo estoy previendo. Gracias.
+
+MANAL ISMAIL:
+
+Gracias, Reino Unido. Irán. Mientras tanto, si podemos poner el
+trabajo en la pantalla, por favor.
+
+IRÁN:
+
+Gracias, Manal. Lo que usted dice junto con lo que dice Kumar es
+de muy alto nivel, por lo tanto es muy bueno. Nosotros podemos
+poner un calificador en algunas partes de esto. Esto es algo que
+podemos hacer pero quiero volver a lo que dijo Thomas que es
+muy,
+
+muy
+
+importante.
+
+Nosotros
+
+comenzamos
+
+con
+
+un
+
+asesoramiento en una sesión y después llegamos al problema de
+las dos de la mañana y estamos en la presión del consenso por
+estar exhaustos. Esto no es bueno. Quizá tenemos que llevarlo al
+
+Página 25 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+asesoramiento de la reunión siguiente como una especie de
+anticipación y preparar algo, pedirle a la gente que lo piense,
+trabajar durante la reunión y después podemos tener alguna
+estructura, algún documento preliminar pero no tratar de lograr
+esto en el segundo o tercer día, llegar hasta las dos de la mañana
+y que haya división y presión. Gracias.
+
+MANAL ISMAIL:
+
+Gracias, Irán. Si podemos ir a la última diapositiva, porque nos
+piden que terminemos un poquito más temprano para que la
+sala se organice para la sesión de los grupos intercomunitarios.
+Vamos entonces a proceder. Solo para confirmar, vamos a
+ajustar la definición actual de qué es un asesoramiento para el
+GAC. La vamos a circular por la lista de correo electrónico.
+Ustedes van a trabajar con una plantilla para los elementos que
+el asesoramiento del GAC debe completar, como el ACIG y el
+personal de apoyo. Creo que podemos empezar a trabajar con
+esta plantilla a partir de la reunión siguiente en Hyderabad y
+creo también que estamos de acuerdo en tener un intercambio
+posterior al comunicado entre el GAC y la junta para ver cómo se
+va a desarrollar esto. Esto sería un piloto. Quiero también
+decirles que después de todo esto vamos a revisar y consolidar
+los mecanismos de rastreo en un portal de fácil acceso donde
+vamos a poder tener el asesoramiento del GAC que va a ser
+
+Página 26 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+fácilmente encontrable, divisible, etc. Esto también nos va a
+llevar al nuevo sitio del GAC.
+Vamos a revisar las nuevas características de la plataforma para
+asegurar que todo se categoriza, que estas características de la
+plataforma se incluyen. Vamos a revisar si los detalles faltantes
+se pueden completar porque en algún punto en el tiempo no
+todo
+
+se
+
+completó
+
+en
+
+el
+
+registro
+
+actual
+
+porque
+
+las
+
+responsabilidades no estaban tan claras y debemos dejar en
+claro quiénes ingresan los datos. En Hyderabad seguramente
+vamos a tener un panorama más completo de esto.
+Las últimas tres actividades tienen que ver con el panorama
+general porque debemos documentar el proceso en un cuadro
+de flujo que ilustre los roles y responsabilidades y checkpoints.
+Esto se debe hacer después de acordar todo el proceso. También
+acordar cómo institucionalizar todos los elementos acordados y
+finalmente, como mencionó Thomas, tenemos que investigar la
+necesidad de revisar los principios operativos del GAC a la luz de
+los resultados generales. Esto es para ir cerrando rápidamente el
+plan de trabajo. Le doy ahora la palabra a Markus.
+
+MARKUS KUMMER:
+
+No tengo mucho más que agregar, más que agradecerle a Manal
+por su excelente trabajo y también decirles a los miembros de la
+
+Página 27 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+ES
+
+recomendaciones (BGRI)
+
+junta que no pudieron estar aquí, Mike Silber no pudo estar aquí,
+no pudo venir a Helsinki. Lousewies Van der Laan, que también
+tiene que estar en otra sesión y que está presidiendo la sesión de
+aceptación universal. Todos ellos han enviado sus disculpas.
+
+THOMAS SCHNEIDER:
+
+Este es un muy buen ejemplo de cómo unos 45 minutos bien
+organizados y bien estructurados pueden funcionar muy bien.
+Quiero agradecerles mucho por todo esto. Creo que siempre
+podemos aprender de otros y creo que todo ha estado muy
+preparado y muy bien estructurado. Sabemos que vamos a
+poder avanzar con esto pero quiero decir algo más. Vamos a
+tener una llamada telefónica con la junta de la ICANN, que está
+planificada. Estamos en la fase de encontrar una fecha y se
+supone que todo el GAC va a participar. Va a ser abierta para
+todo el GAC. La hicimos así porque no podemos tener una
+reunión aquí. Vamos a utilizarla para ver si funciona, si nos
+resulta útil, si a la junta le resulta útil. Nos tenemos que ir ahora
+para liberar la sala para la sesión intercomunitaria.
+Hay muchos de ustedes que se van a quedar seguramente en
+esta sesión. Los que no, y que tienen otras obligaciones, les
+decimos que mañana por la mañana, a las 8:15 de la mañana hay
+un grupo de trabajo que me olvido cuál es el nombre pero que es
+importante. Los esperamos mañana. Gracias.
+
+Página 28 de 29
+
+HELSINKI – Grupo de trabajo del GAC y la Junta Directiva para la implementación de las
+
+recomendaciones (BGRI)
+
+[FIN DE LA TRANSCRIPCIÓN]
+
+Página 29 de 29
+
+ES
+
+

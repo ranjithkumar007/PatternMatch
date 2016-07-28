@@ -1,0 +1,1596 @@
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+Monday, June 27, 2016 – 15:00 to 16:30 EEST
+ICANN56 | Helsinki, Finland
+
+MARIKA KONINGS:
+
+Hello, everyone. Can you please take your seats. We're getting
+started now.
+If you want to keep on talking, please do that outside of the
+room.
+So thank you all for joining us today.
+
+This is the cross-
+
+community session on next generation registration directory
+services. I'll hand it over in a minute to the chair of the PDP
+working group, but I'll just make some administrative
+announcements or housekeeping announcements. Please note
+that the microphones on the desks are not activated. We want
+to give everyone equal access to participate, so there are a
+number of colleagues in the room, you see them standing
+throughout, who have microphones and numbers with them, so
+when we start the discussion opening the floor, you just raise
+your hand and they will come up to you and get you in the
+queue.
+We would like to encourage you all to log into the Adobe
+Connect room for this session where you'll be able to see the
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+slides, but importantly as well, there are two survey questions
+that are in there that we would appreciate your feedback on. It's
+both for the leadership team here on the table to have an
+understanding of what the level of knowledge of people in the
+room is in relation to this topic but also for us to be able to see,
+after the session, what the audience that participated so we can
+also make an assessment of how to potentially do these kind of
+meetings in the future.
+Similarly, please download the meeting app if you haven't done
+so yet. There's also an ability there to provide your feedback on
+the sessions. And to note if the room gets full, there are still
+seats up here for those standing at the entrance and throughout,
+so please fill those up. But should we run out of space, there will
+be an overflow, I believe on minus 2, the Helsinki Hall, from
+which you can participate remotely, and we also will have the
+ability there for people to ask questions.
+I believe that was it for the housekeeping rules.
+Yes, and obviously this is being recorded and transcribed, and I
+am sure that has started. Looking in the back of the room. Are
+we recording?
+Yes. I'm seeing nods and hands up. So I think we're all good to
+go.
+
+Page 2 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Over to you, Chuck.
+
+CHUCK GOMES:
+
+Welcome to everyone. My name is Chuck Gomes. I'm the chair
+of the registry -- registration directory services PDP working
+group. And I want to again welcome all of you to this session.
+We're the first cross-community session of this new model, so
+this is exciting to look out here. I know a lot of people are
+questioning this new model and the new meeting approach. I'm
+one of those that is really optimistic about this new format
+because the primary thing that ICANN does is policy
+development. And the focus that's being put on that this week
+and to have an opportunity for people who don't normally
+participate in our working group join us in this session as well as
+those of you who can join us in our working group session
+tomorrow, is fantastic. And this session is going to be designed,
+as much as possible, to have interaction. So please join us in
+that.
+I want to introduce the members of the leadership team. I
+already introduced myself. On my left here is David Cake, one of
+our vice chairs. On my right is Susan Kawaguchi, one of our vice
+chairs. Another of our vice chairs is not able to be with us
+because of a conflicting meeting, and that's Michele Neylon.
+They come from each of the other three stakeholder groups in
+
+Page 3 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+the GNSO. I'm from the Registry Stakeholder Group, and they're
+from each of the other three groups, so we have a wellrepresented leadership team.
+Now, very, very important to introduce the other two members
+of our leadership team, because they are incredible, and we'd be
+lost without them. And that's our two ICANN staff people, and
+they're both on my right, aren't they? Okay. I can't see Lisa over
+there. Lisa Phifer on the end and Marika Konings, who I think
+people have known for quite a while. And Lisa, of course, has
+been involved in the EWG work that occurred previously.
+What I'd like to do very quickly, just by a raise of hands, nobody
+is going to be asked to speak, but would those of you who are
+working group members, not working group observers, I'll give
+the observers a chance in a minute, but those of you who are
+working group members, raise your hands, please. And leave
+them up a little bit so people can look around. Thank you. And
+let me tell you, these people are working really hard. So thank
+you very much.
+How about working group observers? Thank you. And we hope
+your observing is going okay. But at any time, at any time that
+you want to become a working group member, you can; okay?
+Just remember that.
+
+But let the leadership team know if
+
+something is not working right there.
+
+Page 4 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Now, and most important, how many of you are just visitors to
+this session today? Would you raise your hands. Fantastic!
+Okay. Yes. That's fine.
+[ Applause ]
+So with that said, we're going to try to give you a brief
+introduction, and I'm going to turn it over to David to do the
+introduction of our PDP. It's going to be brief. This is a very
+involved PDP, so it's going to be brief. But feel free to ask us
+questions later on and during the week, if you have other
+questions.
+David, it's all yours.
+
+DAVID CAKE:
+
+Hi. So my name is David Cake. I'm one of the vice chairs of this
+group. As Chuck mentioned, we have one vice chair from each
+of the GNSO stakeholder groups. I'm from the Noncommercial
+Stakeholder Group and I represent Electronic Frontiers Australia.
+So I'm just going to give you a brief introduction into what the
+group's work is and what we're doing. I'm hoping at an ICANN I
+don't really need to explain what, sort of, DNS or the WHOIS is,
+but you may wonder what an RDS is because it's an acronym we
+haven't used much before this group. It stands for a registration
+
+Page 5 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+directory service. And the WHOIS, the WHOIS system, is an
+example of a registration directory service.
+At the moment, it's sort of the only one, but it's the one that we
+have been tasked with looking at whether it needs to be
+replaced by a different one, a next generation registration
+service.
+So when we talk about the IDS, there are some things we
+specifically don't mean. There's some good terminology I think
+it's SAC51 if you're really keen, but the gist of it is we don't mean
+the protocol itself. Looking at the protocol, creating the new
+protocol was a job for the IETF, and they've done that. They've
+created a protocol called RDAP which is being slowly rolled out
+to replace the WHOIS protocol.
+But that doesn't mean -- there are several features of RDAP we
+are not using, and one of the reasons we are not is because they
+would imply changing the underlying directory service.
+Now, when we say RDS, we also don't mean the data that's
+already in there. The data that's in there, we talk about that's in
+WHOIS, but we're generally talking about the big database, not
+the database structure; the systems of how that data gets in and
+out, who can access it, and all of that sort of thing. So that's
+what we're talking about. That system of how the data gets
+there, what data is collected, who uses it, what we use it for,
+
+Page 6 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+how long we keep it for, all sorts of things, these are within the
+scope of an RDS.
+The work of this particular working group has a history, Chuck
+mentioned the EWG, the Expert Working Group, which was
+actually -- for short, which is actually the Expert Working Group
+on a new registration directory service, I think, was its full title.
+Now, that was a working group that most of you have probably
+heard of. It was not a working -- well, it was an expert group. It
+wasn't a working group. So it wasn't a group put together from
+the -- directly from the ICANN community the way most sort of
+GNSO PDP working groups and so on are. It was a group put
+together by the Board with experts from within and outside
+ICANN to look at what we could have instead of the current
+WHOIS. How would we -- If we -- WHOIS has a very long history.
+It goes right back to, like, the '70s. What would we do if we were
+to create it now? Or what would be an example of such a thing?
+They produced a very big report. That big report had a lot of
+hard work put into it by some very smart people, but there were
+some things about it that meant it was not going to be picked up
+and used as it is. It was not a community, you know, bottom-up
+driven process. It had some people dissenting with some parts
+of it. But it certainly proved that it was possible to, you know,
+replace WHOIS in theory, and that there would be some, you
+
+Page 7 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+know -- quite likely, some considerable advantages, potential
+advantages, in doing so.
+So this working group has been put together to look at -examine specifically that report as part of our -- it's in our
+charter that we have to look at the work that was in that report,
+but also, everything else to do with registration directory
+services, most of which in the form of WHOIS reviews and SSAC
+reports, and any other work which is relevant. So we've done an
+enormous amount of data gathering so far.
+
+Absolutely
+
+enormous. It's been a huge task. And we're currently -- The
+work is also so big that we had to put together a special Board,
+sort of, GNSO working group just to work out how big -- how
+we're going to deal with this huge task. Like this a bigger task in
+terms of being given to a PDP than practically anything ICANN
+has ever tackled. It's an enormous -- I mean, we have just done
+the IANA transition, and so on, which is an even bigger job, but
+this is still a pretty huge job, and so we had to sit down and work
+out how we're going to -- we had a special process to work out
+how we're going to tackle it. And they said, well, we'll split the
+work up into phases. So Chuck will give you a lot more detail.
+
+CHUCK GOMES:
+
+Page 8 of 49
+
+It's right there.
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+DAVID CAKE:
+
+EN
+
+But the important thing is we're currently in phase one. The
+purpose of phase one is, in essence, to determine if we need a
+new RDS at all.
+The EWG proved that it was possible to design one that looked,
+you know, as if it would have some advantages and
+disadvantages relevant to WHOIS, and it certainly would be a lot
+more modern. But it didn't determine it was not a community
+driven policy, bottom-up policy process that said we needed
+one. So that is phase one of our work. Do we need one?
+So we are carefully gathering requirements, looking at what the
+requirements would be for an RDS if we designed one now,
+working out if WHOIS, in some form of the current system, could
+be sort of dinged around, modified here and there, but basically
+suit all those existing requirements, or will we say, no, if we're
+going to have a working modern system that satisfies all the
+needs of ICANN going on into the future, will we need to base it
+on some different underlying technology and assumptions.
+Some of those may be things we haven't even discussed yet.
+Some of those are fairly obvious. One of the obvious ones to
+most of the I think -- that's already formed sort of discussion in
+parts of the community is the RDAP protocol allows for
+differential access. Instead of making all data public it can make
+some of it gated and some of it accessible to only certain people.
+
+Page 9 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Will we make a system that uses that feature? Is that essential -if that's an essential feature, we may need to change a lot of
+things about how we go on with an RDS. We may decide that's
+not an essential feature and we can proceed on a different basis.
+We're in the process of doing that now. We -- as a result of the
+data gathering we have an enormous list of requirements. Sort
+of almost unmanageably large. We're hoping not quite, but, you
+know, it's -- it's certainly huge. Which we've gathered not from -not just by, you know -- we've gathered by looking at an
+enormous number of documents that discuss WHOIS, the new
+RDSs as presented by the AWG.
+
+Lots of -- some external
+
+documents about things like data protection law. Huge number
+of things. And input from SGs and ACs and constituencies and so
+on. So that's more or less where we are now. That gives you
+some background of how we got here and this sort of size of the
+task. What things are in scope and what things are out. And
+there anything I've forgotten?
+
+CHUCK GOMES:
+
+About phase two and three.
+
+DAVID CAKE:
+
+Right. So phase one is to work out how -- whether or not we
+need a new RDS. We will present a report towards the end of the
+year that will -- hopefully, which will then go to -- you know,
+
+Page 10 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+there will be an issue report that's distributed to the whole
+community. It will be presented to GNSO Council in the normal
+manner of a GNSO PDP, and we expect that will -- there will be
+some discussion on the -- once we present that report there will
+be some discussion in that community. But it is only that one
+decision -- ultimately the primary decision of that is that do we
+need a new RDS or not. We will -- part of that report we will be
+presenting the requirements that we perceive for a new RDS
+which will form our explanation of why we need a new RDS.
+There will be certain -- you know if there are -- or not. So we will
+be clear on which particular requirements commit us to
+changing or we discussed and then we move on to phase two.
+Phase two we really start talking about well, okay, if we need a
+new RDS, what are we going to do about it? What form is it
+going to take? We're going to do design work on it, that is a -- we
+have a magnificently complicated and alarming looking diagram
+about how much work we have to do on that task. We need to
+consider a huge number of issues. We need to consider, you
+know, all the technical issues and practicality. We need to
+consider how -- how it would require changing, you know, ICANN
+business
+
+processes.
+
+We
+
+need
+
+to
+
+consider
+
+technical
+
+implementation. We need to do risk assessment. All of these
+sort of tasks that you would do as part of design.
+
+Page 11 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+And then, phase three, we need to think about how to make this
+actually happen. Which is a long way off but --
+
+CHUCK GOMES:
+
+Thanks, David. So this is Chuck speaking again for those that
+may be on audio only and not in the room. Go back to slide
+number five very quickly, please. And I want to make sure you
+see the phases that he was just talking about. We're in phase
+one, identifying possible requirements for a new RDS system, if
+we decide that one is needed. And I know that question may
+sound kind of funny to some of you. Bear with us, okay? This
+whole charter has been laid out very carefully. Phase two will be
+the actual policy development work to fulfill the requirements.
+And phase three, as David just said, implementation and coexistence with the existing WHOIS system. Phase two and three
+may happen concurrently, at least to some degree.
+
+That's
+
+where we're at now. Let's quickly go to slide six, and this is all
+from our charter and from the work that was prepared. I'm not
+going -- we're not going to go through that in detail. But there
+are 11 areas there that there are possible requirements for that
+we will identify and then you can see the same areas apply to
+policy development implementation.
+
+Going ahead to slide
+
+seven, very quickly, the one that was up there just a little bit ago.
+We're going to try to reach consensus in the working group when
+we deliberate on each of those 11 areas that you saw in the -- the
+
+Page 12 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+previous slide. So what we're doing right now is working on
+these fundamental requirements. Okay? And we have, as David
+said, created a huge list of possible requirements. And one of
+the things we're going to ask you to do today is to suggest
+requirements that you think we should have in there. Now, we
+may have those already, we may not. We'll sort that out later.
+But to ask you or expect you to be able to compare our list to the
+ones you're thinking of would be unreasonable because it is a
+very large list that we have come up with. And we're still
+working on ways to attack that list.
+David kind of covered these cross-cutting questions, the
+fundamental requirements that we have to do, in phase one.
+And you can see that in front of you right there. I won't read that
+for you. But the -- what I'd like to do right now is just -- and
+we're going to have some people share some examples of
+possible requirements and then we'll give you a chance to do
+that later.
+But first, before we do that, let's go to our second agenda item, if
+you can scroll the slides. And go ahead and scroll one more.
+
+DAVID CAKE:
+
+And Chuck did say we can't -- we can't, you know -- we have a
+huge list of requirements. We can't compare everything. But the
+other thing you can do is send us documents you think we may
+
+Page 13 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+not have considered for us to look and try to extract
+requirements from. We've done a lot of that.
+
+CHUCK GOMES:
+
+Thanks, David. And that may become a little more clear as we
+move forward. Susan, it's your turn to talk about the work plan
+and the near term opportunities.
+
+SUSAN KAWAGUCHI:
+
+Thank you, Chuck. So you can see from the slide the PDP work
+plan is fairly involved and I must say Chuck and Lisa and Marika
+put a lot of work into this. And we've moved our way down to
+we're currently working on 9-11. So it's the informal outreach,
+finalizing initial possible requirements and decide how to reach
+consensus during deliberation. Then we'll step into step 12
+which is actually deliberating all of these possible requirements
+and coming to agreement -- or disagreement -- on what should
+be required. So -- and then you can see we have it laid out for
+the rest of the year on what to -- you know, what our work
+involves. And if you could forward to the next slide, please. I'm
+not sure if we have control of the slides. Okay. Thank you.
+So we've already had one formal early outreach stage, and we
+reached out to the community and received responses. So the
+working group is reviewing those along with all the other work.
+
+Page 14 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+And currently we're in an informal outreach period that ends
+just tomorrow? June 28. I've lost track of the date this week.
+And so if you have input, we'd be happy to receive that, too. And
+then we'll -- we're planning on additional outreach and then a
+public comment period once we draft the initial report for phase
+one.
+The biggest thing to know is we are in phase one, and we will
+stick to that. And we need everyone's input to build this system
+or to make the decisions on this system.
+
+CHUCK GOMES:
+
+Thanks, Susan. Chuck again. And I want to comment on our
+deadlines or our target dates in our work plan. I think everybody
+-- hopefully everybody in the working group and even the
+observers understand this, but when we set deadlines, we're
+fully cognizant of the fact that they're not real firm deadlines.
+We have a target by tomorrow of finishing off this list of possible
+requirements for an RDS system. But we're fully aware of the
+fact that we're going to discover more requirements after that
+date. That's okay. This is going to be a very dynamic process
+because we will learn as we go as things begin to come together.
+So I want all of you to understand, these deadlines are
+important because they help us manage our work and make
+progress, but they're not so firm that we can't make changes as
+
+Page 15 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+we go and as we see fit. So with that said, let's go to the next
+slide and the one -- get into agenda item three which is where
+we want to spend most of our time today.
+You can see the first bullet there that we're supposed to -- and
+Susan talked about this, we're supposed to establish, if we can,
+reach consensus, on all these requirements that we're going to
+come up with. Okay? And so the second bullet there just
+indicates an area where we're -- we're collecting right now -we've been collecting for a couple of weeks. Our working group
+members have reached out to the groups they represent and
+asked for additional requirements, and hopefully those will
+come in by today, from any groups that have them. But we're
+going to ask you to help us do that today, and we're just going to
+open it up to possible requirements for an RDS system. And so
+we will do that. Let's go to the next slide because this will help
+you, and I want you to focus on this slide because these five
+areas are the first five areas we're going to focus on and really,
+we're going to start off in the next few weeks and months
+looking at three of those areas kind of together because it's hard
+-- it's difficult to decide which one to do first. They're very
+interrelated. So we're going to especially look at users and
+purposes, at privacy, and gated access -- excuse me, and -- I
+misspoke, data elements. So the top three up there are the
+three we're going to start deliberating on first. Not in any
+
+Page 16 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+particular order. We'll probably go back and forth because they
+are interrelated and interdependent. So -- and then we will later
+then also deliberate on requirements for gated access and
+accuracy, and then the last six questions, which are all
+summarized in the royal blue box there, cross-cutting
+questioning.
+So as you're thinking of questions -- and we'll put this back up a
+little bit later for you to see -- but we're going to ask for some
+possible requirements on those things. Next slide, please.
+To get your minds thinking, here's some bullets here that will
+hopefully do that. What possible requirements must a new
+policy framework for gTLD registration data and directory
+services address? Where does WHOIS -- where does WHOIS fall
+short today? So you may think of a requirement, oh, WHOIS
+doesn't do this, it needs to be this, this should be a requirement.
+What requirement should a new RDS policy satisfy? These are all
+just to get your minds thinking ahead here so that you can
+volunteer some of those.
+We are seeking really a broad spectrum of real-life examples, so
+please feel free to do that. We're going to have to ask you to be
+very brief and concise in what you share because we have so
+many people in the room and we have a limited time frame.
+
+Page 17 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Now to get it all started, we have some working group members
+and Lisa also, in fact, and Susan as well, who are going to share
+some examples. And so let's go to the -- the next slide, and don't
+focus on these yet. Lisa will cover these in a minute. I'm going
+to give Jim Galvin a chance right now and if -- you have a mic
+right to your right there, Jim, and you can come out front here so
+people can see you better. Okay. And he's going to share an
+example from one of these areas. And, in fact, scroll to the next
+slide so you can focus on the area that he's talking about and he
+can refer you to it. Go ahead, Jim.
+
+JIM GALVIN:
+
+Thank you, Chuck. Jim Galvin from Afilias. I also happen to be
+vice chair of the SSAC. But I want to focus on the top one up
+there, the registration of data elements and suggest that a
+possible requirement for this particular PDP working group is to
+answer the question, what is the purpose of registration data.
+And by way of discussion, I just want to offer to the group to
+think about that I want to carefully draw a distinction between
+the fact that data is displayed today and exists is not the same
+as answering the preceding question of why we need that data
+at all and for what purpose, you know, for who's going to use it
+and why they're going to use it, and then, of course, what data
+you need to collect in order to meet that need.
+
+What's
+
+important here in this discussion is that the Expert Working
+
+Page 18 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Group that we had that we saw in the slides earlier, if you read
+that report, when that expert working group director of services
+spoke before, they did an outstanding job of cataloging all of the
+reasons that -- or all of the purposes that WHOIS data, the data
+that is displayed today, is currently in use.
+But the distinction I want to draw is that's not the same thing as
+why we collect it in the first place, and I think that particular
+question is probably one of the most important questions. Is
+domain name data collected, should it be collected, should we
+continue to collect it, to meet all of those purposes for which it's
+being used today. And that's different than stepping back and
+asking the general question, the very specific question in some
+ways of what the community really should have and what is the
+community willing to support going down the road.
+So what is the purpose of registration data? I believe that's a
+foundational possible requirement question that the output of
+this group should clearly speak to. And that's different from the
+question the Expert Working Group answered.
+
+That's my
+
+comment.
+
+CHUCK GOMES:
+
+Thank you very much, Jim. And those of you out there who are
+going to volunteer some possible requirements aren't expected
+to give all the background like he gave, but to state the
+
+Page 19 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+requirement; okay? And we wanted him to give some of that just
+to see the whole picture.
+Now, notice we keep saying "possible requirements."
+
+It's
+
+because we haven't started our deliberation yet. We haven't
+started trying to reach consensus on requirements.
+I hope some of them are easy. I know some of them will be hard
+to reach consensus. And we'll have -- take a lot of time to do
+that, all the time we need to do that so that we really can reach
+some possible requirements.
+Next I'm going to call on Beth Allegretti. Where is Beth at?
+Go ahead. She's going to share another possible requirement.
+
+BETH ALLEGRETTI:
+
+One of the other requirements for a registration directory service
+is access, who you -- who and how you can have access to that
+data.
+For example, I work for Fox Entertainment Group. I manage a
+global domain portfolio, and I access WHOIS to actually verify
+our own information. So I use it all the time to ensure that other
+information is correct. If we acquire a new business unit, I will -and they may not know what domains they own, I will use
+
+Page 20 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+WHOIS to pull all their domains together and bring them into the
+corporate portfolio.
+So one of the possible requirements is access to that data, how
+you can get it, who has it, and when you can get it.
+
+CHUCK GOMES:
+
+Thanks, Beth. And then let's go to Susan to share a requirement.
+
+UNKNOWN SPEAKER:
+
+One of the requirements for my work as managing a global
+portfolio for Facebook is accuracy, accuracy in our own data. I
+access the data to make sure that our data is accurate, but also
+to ensure that third parties don't use our data. It's my data, our
+company's data is only accurate for our domain name
+registrations.
+
+Not for someone else's domain name
+
+registrations, which happens more often than you think. So
+accuracy is a requirement.
+
+CHUCK GOMES:
+
+Thanks, Susan. And then if you flip, go back one slide, please.
+And, Lisa, why don't you talk about this slide.
+
+LISA PHIFER:
+
+Page 21 of 49
+
+Thanks, Chuck. So this is Lisa Phifer, for the record.
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+And just to give a few more examples.
+I think that Jim actually already covered working from the
+bottom of the slide that there's a critical name for a policy that
+asserts what is the purpose of registration data, and that
+actually came from a SAC report. And that would be an example
+of the kinds of topics that you all might wish this working group
+to address as part of possible requirements examination.
+Some other examples, though, would be things that you either
+like or don't like about today's WHOIS system. I know many
+people have concerns about today's WHOIS system. In fact, the
+possible requirement given here that WHOIS lacks some
+mechanisms for access control integrity and confidentiality to
+many is perceived as a shortcoming of the existing WHOIS
+system and a possible requirement would be to address that.
+You could look at that as a privacy requirement or you could
+look at it as a requirement to provide some level of access
+control beyond the current system, which is all public access.
+Another example given there in the middle is expectations that
+you might have on a new system. If you were going to start
+designing a new system today, not constrain yourself to what's
+in WHOIS today, what would your requirements be on such a
+system.
+
+Page 22 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+An example of that from the EWG report is that possibly the
+registration data that is provided through a directory service
+would only be provided for a set of purposes that would actually
+be defined through policy and that we wouldn't, through the
+registration directory service, any longer just make all data
+available to all people for all reasons. So that's an example of a
+possible requirement. Whether it ends up being a requirement
+that's recommended by this working group of course is still to be
+discussed, but those are just a few examples.
+And you'll note that these examples all come from a document,
+and that's the way this working group has approached the list of
+possible requirements so far, is actually starting from all the
+work that's been done in the past on this subject, all the
+positions that were stated by various groups on this subject, and
+trying to draw from that history what possible requirements are
+already on the table, and then work from there.
+
+CHUCK GOMES:
+
+Thank you very much, Lisa.
+Now it's going to be your turn. And I'm really talking to the
+guests that are here today, or it can be working group observers
+since you don't normally get to participate either.
+
+Page 23 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+I'm going to ask the working group members to refrain because
+they're going to have lots of opportunities, and most of them
+have already contributed requirements.
+So again, let me ask you to be very brief. State the requirement,
+because we're -- and speak slowly enough because we're going
+to try to capture these and show them on the screen; okay?
+And then we have the mics around, and put the numbers up for
+the mics again. Okay. And let's start over here number four -this area over in here.
+
+Do we have someone who has a
+
+requirement you would like to suggest be a part of this system
+as a possible requirement? Anybody in area four? Right here,
+right up front. And we'll come back to this area. I'm going to
+rotate the areas as we go around.
+Go ahead. And would you please state your name and your
+affiliation, if there is an affiliation, and then state the
+requirement.
+
+GEMA CAMPILLOS:
+
+Good afternoon.
+
+My name is Gema Campillos.
+
+I'm a GAC
+
+representative with Spain.
+My requirement could be a (indiscernible) or uniform
+presentation of data across all registrars or registries, and
+access to law enforcement authorities, including --
+
+Page 24 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+CHUCK GOMES:
+
+Let me just interrupt. Did you just give two requirements?
+
+GEMA CAMPILLOS:
+
+Two requirements.
+
+CHUCK GOMES:
+
+Just let me know if you're doing more than one. That's okay, but
+so that they capture it correctly.
+
+GEMA CAMPILLOS:
+
+The second one is access for law enforcement authorities. If
+possible, to consult the history of registration of domain name.
+
+CHUCK GOMES:
+
+And is that a third requirement?
+
+GEMA CAMPILLOS:
+
+Well, yeah.
+
+CHUCK GOMES:
+
+Okay. I just want to make sure we capture it accurately.
+Thanks. Very much appreciated.
+
+Page 25 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Let's go -- And we'll come back to this region -- region or area of
+the audience. Let's go to area five back in the back part of this
+section. Is there anybody? Just raise your hand, please. And
+you guys -- okay. Good. Go ahead.
+
+MALCOLM HUTTY:
+
+Thank you. Malcolm Hutty from LINX. And I'm not going to
+recommend this as a requirement, but I would like the working
+group to consider whether it is part of the requirements to
+ensure that nobody can register and use a domain name without
+there being an available and traceable person who can be held
+accountable for the use that that domain has been put to.
+I think that that cuts across some of the requirements, but I
+hope that the working group will consider that question
+explicitly, and will also consider that if the answer to that is yes,
+is it actually part of ICANN's purpose and part of what ICANN
+should be doing to seek to achieve that outcome.
+Thank you.
+
+CHUCK GOMES:
+
+Thank you, Malcolm. Very much appreciated. Did we get all
+that?
+Okay. All right. Very good.
+
+Page 26 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Let's go now to area three in the back over here in this section.
+No. Oops. None in that section. I can't see real well. So area
+two, over in here? Here we have a hand. Great.
+
+THOMAS DE HAAN:
+
+Thank you.
+
+My name is Thomas de Haan from the Dutch
+
+government representing Netherlands in the GAC.
+I wonder if this is a requirement or possibly also a legal imposed
+requirement, but I would say translating, let's say, the spirit of
+many data protection laws around the world. I would say the
+basic requirement is that users who give data to third parties or
+whoever should know for exactly what purpose -- in anticipation
+of giving this should know exactly for what purposes, to whom it
+should -- it will be given.
+Thank you.
+
+CHUCK GOMES:
+
+Thank you very much.
+
+And I actually think that is a very
+
+reasonable possible requirement that we're going to need to
+deliberate on. So that's very much appreciated.
+And then I think we have area one. I'm not sure how it differs
+from the others, but we have a person here, so....
+
+Page 27 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+SEBASTIEN BACHOLLET:
+
+Thank you.
+
+EN
+
+I will speak in English because we have
+
+interpretation services.
+Again, I will speak in French because we have this in
+simultaneous interpretation system.
+Thank you very much. My name is Sebastien Bachollet. I would
+like to make two suggestions. First, as an individual user, when I
+am using a domain name from a personal perspective, I wish my
+data would not be available for all marketing companies around
+the world because they will populate my email with their emails.
+And when I buy something in a Web page, I would like to be able
+to access to that information regarding the Web page being
+used, the responsible people, if it is the company I am looking
+for, whether I am accessing the real company in that Web page.
+Thank you very much.
+
+CHUCK GOMES:
+
+Thank you, Sebastien. Much, much appreciated. And I see we
+have another hand back in area five, and I'll come back up here
+to four in just a second.
+
+DAVID HUGHES:
+
+Hello. My name is David Hughes. I'm a member of IPC. And a
+requirement I'd like to touch on is that earlier somebody had
+
+Page 28 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+talked about the access by law enforcement, but there are a lot
+of third parties who have legitimate reasons, especially if they
+feel their rights are being infringed upon, that they also need
+access to the data. And I think that's something that needs to be
+on the list as well, please.
+
+CHUCK GOMES:
+
+Thank you very much. That's appreciated. By the way, just to
+make this a little fun, okay, how many of you, if you were on the
+working group and were deliberating, would support all of these
+requirements? Raise your hands.
+We've got a few.
+Now you see the work that the working group has in front of it.
+Okay. These are all real legitimate things to consider, and we
+have, on the working group and in the whole community, lots of
+different viewpoints, competing viewpoints.
+
+And we as a
+
+leadership team, and me in particular as chair, gets to try and
+help us come to consensus.
+But thanks. Let's come to area four for the next one.
+
+WANAWIT AHKUPUTRA:
+
+Yes. Wanawit Ahkuputra, Thai, GAC. One of the requirements is
+that as we are not using a Latin base, or let's say ASCII, the issue
+
+Page 29 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+is the translation and transliteration of the data elements which
+each would require in the NGRES as we used to conduct the PDP
+on translation, transliteration, on contact information, and also
+on the address information inside which when you don't use the
+ASCII as a local language, the meanings of the information is not
+-- is not there.
+
+CHUCK GOMES:
+
+Very important requirement that we're going to have to
+consider.
+And, by the way, that brings up an interesting point. And that is
+that there are several other working groups on WHOIS that are
+going on or that have recently completed at least their policy
+work that we're going to have to coordinate very closely with,
+including one on translation or transliteration of registration
+data. So we will be working hand in hand with those other
+working groups.
+Next one. Three? Okay.
+
+ANNE AIKMAN-SCALESE:
+
+Hi, Chuck. It's Anne Aikman-Scalese with the IPC. And this
+relates to trademark clearinghouse notices and kind of a
+screening process that we go through when we receive a notice -
+
+Page 30 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+- an I.P. claims notice with respect to a registered trademark.
+And we receive that notice for our clients.
+One of the pieces of the analysis that we perform is we go to see
+who is the registrant. In many cases, this completely eliminates
+any problem, any need for further action because we can see
+where that registrant is, what their business is, and, therefore,
+we can advise the client this is not an area of concern.
+And I have to tell you in the vast majority of I.P. claims notices
+that we receive, I'm going to venture in our case maybe 60, 70%
+any further problem or investigation is eliminated. So if I cannot
+find out that information for clients, then, you know, I have to
+take a risk-averse position finding another way to investigate
+much further to make sure there is no infringement risk for the
+client.
+So if -- unless I can get an access based on a TMCH claims notice
+to the relevant information, it could just cause a lot of
+unnecessary measures. Thank you.
+
+CHUCK GOMES:
+
+Thank you, Anne. Much appreciated.
+And 2.
+
+Page 31 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+NIGEL CASSIMIRE:
+
+Good day, Chuck.
+
+EN
+
+My name is Nigel Cassimire from the
+
+Caribbean Telecommunications Union. We are a GAC observer. I
+think for any registered domain, there should be an
+administrative contact, a technical contact, and the information
+should be publicly accessible with -- and as -- and as of date.
+This is the technical contact as of this particular date, and this is
+the administrative contact as of this particular date.
+The other requirements that people mentioned about searching
+in the past and so on could also be valid. But I think for each
+valid existing Web site, that should be the minimum. Technical
+admin, publicly accessible as of a particular date for each one.
+Thank you.
+
+CHUCK GOMES:
+
+Thank you very much.
+Over here to one.
+
+STEFANIA MILAN:
+
+Thank you. My name is Stefania Milan from the Noncommercial
+Stakeholder Group. And I would like to offer a slightly different
+perspective.
+Instead of adding to the list, I would suggest to subtract
+something. So operate under the principle of minimizing the
+
+Page 32 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+data that we have in this database. And as a contribution, I
+would suggest to remove some of the data that's particularly
+there, and in particular the address associated with individual
+registrants because this is potentially harmful for dissidents,
+blogger, journalist as well as many civil society organizations
+exposing them to additional and real unnecessary risks. So I
+would like the working group to consider also these aspects.
+[ Applause ]
+
+CHUCK GOMES:
+
+Thank you. Now, let me add a little caution here, okay? I
+appreciate what you just did and what you shared. But actually
+what you're doing is you're getting into our deliberation phase,
+okay, when we're going to decide whether -- and we will
+probably eliminate some of the possible requirements.
+If I allow others to do that, this meeting will be lost, okay? So
+fully respect and appreciate your input. By the way, I've had to
+do this oftentimes already in the working group: Hey, guys, you
+are getting ahead of the game. We are going to deliberate on all
+these. And some of them are going to be hard, and there are
+going to be disagreements, and we're going to have to try to find
+a solution that most of us can support or we're going to have to
+say we can't support that requirement.
+
+Page 33 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+So -- so let's not go that direction, please, yet because we would
+need -- well, the working group is going to need months to do
+this deliberation. Imagine -- we've got about a half-hour more in
+this meeting. So you see why I'm doing that. But thank you,
+okay?
+Number 2, okay.
+
+JORDYN BUCHANAN:
+
+Hi, Chuck. It's Jordyn Buchanan with Google. So in that same
+vein, I was going to approach it a slightly different way. But I do
+think I was really daunted looking at the set of requirements
+you've already gathered. So I think having fewer requirements
+to work through might be helpful in eventually getting a result.
+One way to do that might be to say you shouldn't include any
+requirements where there's another alternative mechanism to
+achieve the same result in a better way. So that might just be a
+useful filter that you apply to cut down on the set of
+requirements as opposed to adding them.
+
+CHUCK GOMES:
+
+Thank you very much, Jordyn. Bear with me while I just make a
+brief comment on that because one of the things -- and actually
+Lisa and Susan are the ones doing the heavy lifting on this right
+now -- is we're taking this huge list of possible requirements that
+
+Page 34 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+we have and we're -- to use a term by one of our working group
+members, Greg Aaron, we're triaging it. We're trying to do what
+you just suggested and use things like. So let's capture that as a
+possible way of refining the list so it becomes more manageable.
+Thank you very much, Jordyn.
+
+JEAN-JACQUES SUBRENAT: Hello, Chuck. This is Jean-Jacques Subrenat. It's not really in
+the requirement that I'm going to suggest, but I would ask you to
+pay some attention to what I'm going to mention because it has
+some bearing on your future requirements.
+I'm referring to a plan to have a new transatlantic agreement on
+data protection. And this is being negotiated right now between
+the European Commission and the United States authorities.
+And it is called privacy -- or Privacy Shield.
+Now, I think that this public should be aware of the reasons
+which accounted for the failure of safe harbor. There were
+several reasons. One was a total lack of transparency. But the
+second, perhaps more important reason, was that it was very
+one-sided. And the agreement in principle which had been
+negotiated between the U.S. government and the European
+Commission many years ago was annulled, was cancelled by the
+European Court of Justice a few months ago on the grounds that
+
+Page 35 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+it was blatantly one sided to the advantage of American
+businesses.
+So my suggestion here, Chuck, is that without making it a
+requirement in your working group, may I venture to say that it
+would be a good idea if you and your team just kept track of
+what is happening in these negotiations because as you know,
+the E.U. and the United States of America are two of the major
+actors in the world for all-over general trade but also in the area
+of data protection.
+So I think that one of your team or several members should keep
+track of this. And I'm putting on the chat now the link to that
+document. Thanks.
+
+CHUCK GOMES:
+
+Thank you very much, Jean-Jacques.
+And I can assure you that we have several working group
+members that are already doing that. But your point's welltaken, and we will re-emphasize it. So we've had -- in our
+collection of possible inputs to our work a whole bunch of
+documents related to what you're talking about have been
+identified. And we'll make sure that that one is included in that.
+So that was actually our first outreach that we talked about.
+And so very good. Appreciated.
+
+Page 36 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Back to 3.
+
+UNKNOWN SPEAKER:
+
+Good afternoon. This is Matthew (saying name) for the record. I
+would like to bring attention to a technical issue of RDS. And
+this is that before this, before the traditional WHOIS system,
+there wasn't a clear and useful interface to access the data for
+the third-party applications, for example.
+So I think it is required to define a good interface to access the
+information for this new RDS system. For example, like any -many other services, we need to have a restful API to let other
+applications access the information of this RDS system easily.
+Thank you.
+
+CHUCK GOMES:
+
+Thank you. Very much appreciated.
+Did I see 5? Okay.
+
+RUBENS KUHL:
+
+Rubens Kuhl, with .BR, registry stakeholder group, and GNSO
+Council but not talking on behalf of any of those three
+organizations.
+
+One requirement I would like to suggest be
+
+considered is having a fast look-up mechanism to know whether
+a domain is using privacy or proxy. And by "fast," I mean
+
+Page 37 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+realtime fast so a computer browser can know -- say, hey, I'm
+looking at the domain but that domain is under privacy
+protection.
+That could ease up concerns about domains having its
+information omitted. But some people like to know whether
+that was not the case or not.
+Some people suggested DNS to do that. Some people said that
+RDAP could do that.
+
+That's an implementation detail.
+
+Requirement would be to have realtime access to the
+information whether a domain is under privacy protection or
+not.
+
+CHUCK GOMES:
+
+Thank you, Rubens. And as Rubens knows, and a lot of you
+know, there has been a working group, privacy and proxy -- what
+is it? The PPSI. I don't know if I have the acronyms right -- that
+has done a lot of work. And, in fact, recommendations have
+been approved by the GNSO Council and sent to the board. And
+so, hopefully, the board will be considering those. And that will
+probably be out for public comment from them in the near
+future. And that may address some of what you're concerning.
+And, again, we're going to have to coordinate with that effort as
+well.
+
+Page 38 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Do we have any more hands? I'm looking around to our number
+holders? It looks like we may -- I want to really thank -- you
+know, this is great participation. And not only do we appreciate
+the input because we're going to go back now and we're going
+to check and make sure if we haven't already included that
+requirement, we're going to add it for deliberation by the
+working group, okay?
+And we're going to triage all these things and come up with
+some manageable ways to go through this huge list of possible
+requirements. And we'll deliberate on all those and try to reach
+consensus on each one, pro or con or maybe some modification
+of it.
+Now, I want to let you know this isn't your only opportunity for
+input. We only have one of these policy forums every -- once a
+year. That would be really unfortunate if we had to wait until
+the next policy forum or even the next ICANN meeting to do that.
+But we will be reaching out. Now, typically in working groups,
+for those of you that are a little bit familiar with the GNSO,
+there's one initial report at the end of all the work that goes out
+and asks for input. We have decided in this working group to do
+it a different way. We've decided to reach out often with a
+smaller request that's more realistic for the various groups to
+respond to.
+
+Page 39 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+So you're going to see lots of requests for this. Certainly we're
+planning, after the first three require- -- or questions areas, the
+three at the top on the screen there, or -- we may be reaching
+out then.
+So we're going to share with you, "Here's what the working
+group's come up with. What do you think?" So watch for those
+outreaches. We'll try to keep them relatively small so that
+they're not a huge task, but we're going to want your feedback
+throughout this working group process, which will go on for
+quite a while.
+Hopefully, if nothing else today, you've realized that we have
+quite a huge task in front of us to reach consensus because there
+are differing points of view.
+So thank you very, very much for the -- for the input. You may
+think of other requirements. If you can channel it through
+someone that's on the working group that is in your area, do it.
+If you can't, just send it to one in the leader- -- of us on the
+leadership team and we will add it to our work.
+Okay. Let's go forward and go to Agenda Item 4 and the -excuse me a second while I catch up with myself here.
+So we have a working group meeting tomorrow. It is all morning
+from 8:00 to noon. There's a break in there.
+
+Page 40 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+[ Laughter ]
+
+CHUCK GOMES:
+
+And this working group meeting is open to everybody. It's a
+face-to-face meeting, and so normally just working group
+members can actively participate in our work, but in a face-toface meeting we'll allow anybody to participate. So this is your
+opportunity.
+Now, we always want input from everybody in the community.
+It's just unrealistic to -- to -- if we had a group this big all the time
+trying to reach consensus, it would be much harder.
+But tomorrow, it is open, so if you don't have a conflict and
+you'd like to see the working group in action, the meeting
+tomorrow is an actual working group meeting. We're going to
+try to make some progress on several areas tomorrow, okay?
+So you're welcome to join us tomorrow morning if you're -- if
+you're available.
+
+Certainly all the -- all our meetings are
+
+recorded and transcribed, and you can follow it that way as well.
+So I think I've covered that slide enough.
+Let's go to the next slide.
+One more.
+
+Page 41 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Okay. Here are some resources. We'll leave that up there a little
+bit for you to take a look at. And we were hoping that Michele
+would be able to join us at the end here, but he -- his meeting
+obviously went longer than he anticipated and so I'll just cover
+those areas.
+Let me, right now, since we have just a few minutes and while
+we're leaving that slide up there in case you want to write any of
+those down or click on them, whatever, this is the first session
+this working group has had like this. I really appreciate it, but I
+don't know if you do or if you have any questions. We didn't
+have a lot of time. Even in the past five months that we've been
+operating as a working group, we've already covered quite a bit
+of detail. Not as much as some of us -- some would like us to
+have covered.
+But does anybody have any questions, something you didn't
+understand today or any comments you want to share? Let's
+just take just a few minutes, and again, we have our number
+carriers around the room with microphones if anybody has a
+question.
+Are there any questions that we might be able to clarify?
+One up front here. Kavouss? She's coming with the mic.
+
+Page 42 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+KAVOUSS ARASTEH:
+
+EN
+
+Yeah. Thank you, Chuck.
+You said this is the first face-to-face meeting and it's only once a
+year. What prevents you to have another face-to-face meeting,
+even if maybe later the next ICANN meeting?
+
+Is there any
+
+difficulty to have? Thank you.
+
+CHUCK GOMES:
+
+Well, Xavier is probably not in the room, but -[ Laughter ]
+
+CHUCK GOMES:
+
+-- but one of them might be dollars, okay? But within the GNSO,
+there's an opportunity for the working group to request face-toface meetings, okay? They're challenging because people have
+to pay to get to those -- right? -- but you ask a very good
+question.
+
+There's -- it is a possibility.
+
+Obviously budget
+
+concerns come in, the reality of people being able to attend it
+and so forth. And I was a little bit wrong in what I said because
+this is actually our second face-to-face meeting. We had one in
+Marrakech.
+[ Laughter ]
+
+Page 43 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Okay? But not like this. It wasn't open like this and didn't have
+this kind of participation because people had too many
+conflicts, okay? Another question up front.
+
+DAVID CAKE:
+
+I'm sorry, I just wanted to briefly extend on that. We did actually
+-- there is a face-to-face working group meeting sort of trial
+program. We did sort of ask to be part of that. And then instead
+they said, "Oh, Meeting B, we'll fold it into the new structure."
+But we may well ask again and in the future they may well say,
+"Oh, you guys have an extra day to do face-to-face work." We'll
+see. We understand we've got a lot of work to do so we'll be
+taking every opportunity of -- we can to get some more of it
+done.
+
+GEMA CAMPILLOS:
+
+Thank you.
+
+I repeat my name, Gema Campillos from the
+
+government of Spain. It's not really a question because I do
+know the answer, but anyway, I'd like to say it aloud so that it -it can be noted.
+It's about the scope of the working group. It's -- it only deals
+with domain names, doesn't it?
+
+It doesn't deal with IP
+
+addresses. It would be fantastic if an exercise like this one can
+be carried out with regards to IP addresses because the Internet
+
+Page 44 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+doesn't end with domain names, and more and more IP
+addresses are being used to identify applications for mobile
+devices and so on.
+There is no single set of rules for IP addresses, no consistency in
+the data, no single procedures for access to those IP addresses. I
+just say it aloud for anyone to take care of this. Thank you.
+
+CHUCK GOMES:
+
+Thank you. And of course I'm sure you know this. The address
+registries and the ASO within ICANN deal with IP numbers. Now,
+obviously IP numbers come into play with names, too.
+Now, the GNSO -- and this is a GNSO PDP working group -- is
+tasked with developing policy for generic top-level domain
+names, okay?
+So what you might want to do -- and by the way, directory
+services are used by the address registries, too, as I think most of
+you know. In fact, most of them, I think, are probably already
+using RDAP, okay? So they're ahead of us in that regard.
+So that's a good comment, too, to feed into the ASO. But thank
+you for that. Appreciate that. David, go ahead.
+
+Page 45 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+DAVID CAKE:
+
+EN
+
+Just a comment on our scope. In fact, I think we are -- we are a
+new gTLD specifically. We're not even all domain names, right?
+So because we're a GNSO project, we can't -- the ccNSO, you
+know, we hope will look at our work and consider what they
+might do with it and so on, but we're -- you know, our scope is
+currently limited, so -- and definitely addresses are well outside
+of them but we are hoping once we've done our work, who
+knows, that some parts of it could be usable to some other
+people, considering --
+
+CHUCK GOMES:
+
+Could we go to Slide 18 and then we have another question up
+here and we're going to have to wrap it up here shortly.
+Question up here in the second row here.
+
+Kavouss has a
+
+question. Go ahead, Kavouss.
+
+KAVOUSS ARASTEH:
+
+Yes. You have replied already to Gema's questions but I would
+add another element. The work is sufficiently complex so let us
+not add another complexity to that going to the IP addresses
+and so on and so forth. Very, very complex. And now coming to
+the meeting and Xavier and budget, I have some difficulty to
+agree with that because it's very important work, very, very
+important for the future of gTLD, and I think we should make
+
+Page 46 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+every effort to provide any possibility of any communication
+face-to-face and enrich the meeting and not because of the
+budget here and they say we don't have meeting. I encourage
+you to proceed with that and contact and if it is a possibility, we
+will raise the issue in the board/GAC meeting to have some room
+for that issue. It's very important for us. Thank you.
+
+CHUCK GOMES:
+
+Hey, I personally appreciate what you're suggesting, so I don't
+think you'll get any disagreement from here.
+The key, though, is to -- when you have a face-to-face meeting,
+to make sure you're at a point where you can fully capitalize on
+that at a good timing, but I appreciate the support and I don't
+think we'll argue with you on that.
+So I want you to look at this slide. So the PDP working group is
+going to consider fundamental questions and deliberate on all
+these possible requirements it's been tasked with and then it's
+going to have to answer this question: Is a next generation RDS
+needed to support gTLD registration data and directory service
+requirements?
+Based on your requirements, what do you think?
+And you can just mull that over a little bit. That's a -- those are -that's a key question that we're going to have to answer.
+
+Page 47 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+Now, how many of you -- and I'm just going to do a quick poll.
+Remember, we don't vote in working groups, okay? But we do
+polls, if we -- if they're helpful.
+How many of you already think you have an answer to that
+question?
+Okay. Nobody.
+So probably the work we're doing will help us come to a
+conclusion on that. Okay?
+And should the -- how many of you think the existing WHOIS
+system is adequate?
+Got a couple people. Okay.
+How many think it's not? Okay. All right. So -- so we've got a lot
+of -- a lot of work cut out for us.
+Jumping ahead, then, in the slides -- and I think we've -- did I
+miss anything, team?
+Okay. Well, let me -- and we didn't go -- oh, we're actually on
+time for when we were supposed to end so we can let the other
+cross-community session set up.
+I want to thank every one of you for sitting here patiently and for
+all of those who contributed, and we hope that you will continue
+to provide us input as we do our work.
+Page 48 of 49
+
+HELSINKI – Cross-Community Session: Next Generation Registration Directory Services
+
+EN
+
+I do ask, though, that you be patient. In a multistakeholder
+bottom-up model, in issues as complex as we're dealing with,
+it's going to take us some time, so bear with us. We're going to
+try and keep it moving forward, but it's going to take some time
+to deliberate on all these things.
+Thank you very, very much and I will adjourn the meeting now
+and the recording can stop.
+
+[END OF TRANSCRIPTION]
+
+Page 49 of 49
+
+

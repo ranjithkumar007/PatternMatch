@@ -1,0 +1,106 @@
+A quick review of
+DNSSEC Validation
+in today’s Internet
+Geoff	Huston
+APNIC	
+June	2016
+
+What is being measured?
+• Clients	who	will	perform	DNSSEC	validation	of	
+a	domain	name
+– Using	RSA/SHA-1	as	the	crypto	algorithm
+– Who	will	not	resolve	a	badly-signed	domain	name
+
+• We	are	NOT	measuring:
+– Validating	resolvers
+– Signed	domains
+
+The Global Validation
+Picture
+
+0%
+
+50%
+
+100%
+
+http://stats.labs.apnic.net/dnssec
+
+The Global Validation
+Picture
+
+?
+Google’s	 PDNS
+0%
+
+50%
+
+100%
+
+http://stats.labs.apnic.net/dnssec
+
+The Global Picture
+
+The Global Picture
+
+2014
+
+2015
+
+2016
+
+Some have been Validating
+for many years
+
+Sweden	– 80	%
+
+Estonia	– 60	%
+
+Comcast	– 90%
+
+Romania	– 45	%
+
+Recent DNSSEC Validation
+Claro,	BR	– 90%
+
+Faroe	Islands	- 90%
+
+ICENET,	IS	– 90%
+
+New	Zealand	- 50%
+
+Finland
+
+Finland – Top 10 ISPs
+
+The Bigger Picture
+• Much	of	the	African	continent	and	parts	of	Asia	
+still	show	high	DNSSEC	validation	rates	due	to	
+their	use	of	Google’s	Public	DNS	service	(which	
+currently	receives	12%	of	the	Internet’s	query	
+load)
+• Comcast	resolvers	are	a	major	validation	system	
+in	North	America	and	this	resolver	collection	
+performs	the	second	highest	volume	of	validation
+• Recent	areas	of	switching	on	DNSSEC	validation	in	
+DNS	resolvers	are	in	Iceland,	Norway,	Brazil,	
+Nepal,	New	Zealand	and	Papua	New	Guinea
+
+But
+• Growth	of	validation	deployment	has	slowed
+– 80% of	all	current	queries	request	DNSSEC	
+credentials
+– 26% of	all	current	queries	perform	DNSSEC	
+validation
+– 11% of	current	queries	turn	to	a	non-validating	
+resolver	upon	SERVFAIL
+– 15% of	current	queries	will	perform	validation	and	
+live	with	the	outcome
+
+Thanks!
+
+DNSSEC Reports:
+
+http://stats.labs.apnic.net/dnssec
+
+

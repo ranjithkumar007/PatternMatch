@@ -1,0 +1,262 @@
+Text
+
+Thick WHOIS Policy Implementation
+Meeting with the IRT | 29 June 2016
+
+Agenda
+¤
+¤
+
+Background
+Text
+Milestones and Recent Activity
+
+¤
+
+Policy Implementation Timeline
+
+¤
+
+Consistent Labeling and Display – Status and Next Steps
+
+¤
+
+Transition from thin to thick (Focus)
+- Reminder of current objective
+- Taking stock of implementation timeline discussions
+- Discussion of open items on implementation path scorecard
+
+| 3
+
+Background
+¤
+
+Thick WHOIS Policy Development Process (Mar. 2012 – Oct. 2013)
+http://gnso.icann.org/en/group-activities/active/thick-WHOIS
+
+¤
+
+Policy recommendations adopted by the ICANN Board (Feb. 2014)
+http://www.icann.org/en/groups/board/documents/resolutions-07feb14-en.htm#2.c
+
+¤
+
+Two expected outcomes (policy recommendation #1)
+- Consistent labeling and display for all gTLDs per Spec 3 RAA 2013
+- Transition from thin to thick WHOIS for .COM, .NET and .JOBS
+
+¤
+
+Decoupling of implementation of the two outcomes in line with
+implementation considerations in PDP WG Final Report
+
+| 4
+
+Milestones and Recent Activities
+Consistent Labeling and Display of WHOIS Ouput for all gTLDs
+¤
+¤
+¤
+¤
+¤
+¤
+
+Nov. 2014: Impact assessment
+Feb. 2015: Revised impact assessment (incl. IRT feedback)
+Jun. 2015: Proposed reliance on RDAP for implementation of CL&D
+Oct. 2015: Release of draft consensus policy language for discussion
+Dec. 2015 – Mar. 2016: Public Comments period
+Apr.–May 2016: Discussion of community feedback with IRT
+
+Transition from Thin to Thick WHOIS for .COM, .NET, .JOBS
+¤
+¤
+¤
+
+Jun. 2015: Release of Legal Review Memo (Policy Rec. #3)
+Aug. 2015: Initial discussion of implementation details with IRT
+Oct. 2015 – Jun. 2016: Discussion of implementation path (scorecard)
+
+| 5
+
+Policy Implementation Timeline (29 June 2016)
+ICANN 54
+
+ICANN 55 (A) ICANN 56 (B)
+
+ICANN 57 (C)
+
+ICANN 58 (A) ICANN 59 (B)
+
+RDAP
+
+RDAP Operational Profile shared wtih contracted parties for input
+
+Text
+
+ICANN 60 (C)
+
+Public Comments
+Implementation by Contracted Parties
+
+Legal
+Notices
+
+Effective Date
+Thick Whois
+Consistent Labeling & Display
+
+Draft Policy Language
+Public Comments
+Announcement of Policy
+Effective Date
+
+CL&D Implementation
+Policy Effective Date
+Design of implementation Plan
+Public Comments
+Announcement of
+Policy Effective Date
+
+Thick Whois
+Transition from thin to thick
+for .COM, .NET & .JOBS
+
+Implementation of Transition by Affected Parties
+
+Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+2015
+
+2016
+
+2017
+
+Consistent Labeling & Display
+Reminder: Thick Whois PDP WG Recommendation #1
+¤
+
+The provision of thick Whois services, with a consistent labelling and display as per
+the model outlined in specification 3 of the 2013 RAA, should become a
+requirement for all gTLD registries, both existing and future
+
+Revisions to Policy language based on Public Comments and IRT discussion
+¤
+¤
+¤
+
+Display of Reseller and Registrar Expiration Date is optional (Registry vs. Registrar
+Expiration Date confusion to be refered to the GNSO)
+Reference to the specification 3 of 2013 RAA to be replaced by a specification of
+changes applicable to registries RDDS output
+‘Whois Clarifications” Advisory refered to as a complement to policy language
+
+Next	Steps
+¤
+¤
+¤
+
+Staff to share final Consensus Policy language for IRT review (early July)
+Announcement of Policy Effective Date: 31 July 2016
+Policy Effective Date: 1 February 2017
+
+| 7
+
+Transition from thin to thick – Objective
+¤
+
+Implementation path under discussion: 2 parallel tracks
+- New Registrations Track
+- Existing Registrations Track
+
+¤
+
+Release of Implementation Plan
+- Implementation Plan for Public Comment: Sept.-Oct. 2016
+- Policy Effective Date Anouncement: Jan. 2017
+
+¤
+
+Target: Transform implementation path into plan by August 2016
+- Finalization of discussion of Implementation Path by Helsinki
+- Drafting of implementation proposal by End of July
+- IRT Validation of Draft by End of August
+
+| 8
+
+Transition Implementation Path - Principles
+Agreed upon within the IRT (as of 21 June 2016):
+¤
+
+Transition of new and existing Registrations would happen in parallel,
+according to independent timelines
+
+¤
+
+A limited set of validation rules would be enforced by Registry Systems to
+ensure all available existing registration data is transitioned
+- Contact ID, Postal Info Type and Auth Info required for contacts
+- RDDS output before and after the transition contains the same amount of
+information
+
+¤
+
+2 options available to registrars for uploading existing registration data:
+- EPP
+- File-based bulk transfer
+
+¤
+
+Once exisiting registration data is transitioned, regular validation rules apply
+(same as those applicable to new registrations)
+
+| 9
+
+Transition Implementation Path - Timeline
+Announcement of Policy Effective Date by ICANN
+
+6 months
+Text
+
+Transition from thin to thick
+of New Registrations
+
+Registries update Registry Systems
+Optional thick (Registry Production systems)
+12 months
+
+Registrars transition New Registrations from thin to thick
+Required thick (Registry Production Systems)
+Policy Effective Date for New Registrations
+
+Transition from thin to thick
+of Existing Registrations
+
+6 months
+
+Registries and Registrars prepare for Transition of Existing Registrations
+
+Registrars transition Existing Registrations
+from thin to thick
+
+18 months
+
+Policy Effective Date for Existing Registrations
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun
+
+2017
+
+2018
+
+2019
+
+Text
+
+Tell us what you think of the Policy Meeting Format.
+Download the ICANN56 Mobile App and complete a
+short survey.
+
+meetingapp.icann.org
+
+

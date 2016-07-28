@@ -1,0 +1,163 @@
+IANA Functions Update
+Elise Gerich
+ICANN, VP IANA,| ICANN 56 | June 2016
+
+Agenda
+
+1
+
+2
+
+3
+
+Performance
+KPIs
+
+Monthly Root
+Zone Data
+Report
+
+Parallel
+Operations
+Results
+
+4
+
+5
+
+3rd Party Audits
+
+Staffing
+
+| 2
+
+Performance KPIs
+
+Root Zone File & WHOIS Database Change Request
+KPIs - Current
+
+Monthly reporting of these KPIs is posted on iana.org/performance.
+The example above is from the May 2016 report.
+| 4
+
+Delegation and Redelegation for ccTLDs KPIs
+
+Monthly reporting of these KPIs is posted on iana.org/performance.
+The example above is from the May 2016 report.
+
+| 5
+
+CWG Service Level Expectations ( SLEs)
+• CWG defined metrics to be collected
+• March 2016 ICANN completed
+instrumentation in RZMS to collect metrics
+defined by CWG
+• Development of real-time dashboard
+underway to present the data in a user
+friendly way
+| 6
+
+Monthly Root Zone Data Reports
+
+Monthly Root Zone Database Reports
+•
+
+Reports have been published monthly since
+September 2013
+
+•
+
+Identifies each root zone file and root zone
+WHOIS database change request
+completed within the month
+
+•
+
+As of April 2016 report includes pending
+delegation and redelegation requests
+
+| 8
+
+Sample of the Pending Delegation Report
+
+| 9
+
+Parallel Operations Results
+
+Background – Parallel Operations
+•
+
+Post-NTIA Stewardship proposal defines
+elimination of authorization of root zone
+changes by NTIA
+
+•
+
+ICANN and Verisign established a parallel
+root zone test environment to run in parallel
+with the production root zone management
+system
+
+•
+
+As of April 6, 2016, ICANN and Verisign began a
+90 day testing period to verify continuity of
+integrity of the data in the root zone file
+| 11
+
+Parallel Opertions Status
+•
+
+Webpage with details of the parallel testing
+and two monthly reports
+•
+
+•
+
+https://www.icann.org/en/stewardshipimplementation/root-zonemanagement-system-parallel-testing
+
+Daily comparison reports published by
+Verisign
+•
+
+http://www.verisign.com/rzms-parallel-ops/index.html
+
+| 12
+
+3rd Party Audits
+
+Third Party Systems Audit
+¤
+
+Successful completion of the Service Organization Control (SOC) 3 audit
+of the RZ	KSK	System.
+¤
+
+¤
+
+Completion	of	6th annual	SOC3	audit
+
+Completed the Service Organization Control (SOC) 2 audit of the IANA
+Registry Maintenance Systems with no exceptions.
+¤
+
+3rd year of SOC2 annual audit
+
+¤
+
+Audits are conducted annually and help us to constantly monitor and
+improve our systems
+
+¤
+
+https://www.iana.org/about/audits
+
+| 14
+
+Staffing
+
+| 16
+
+Thank You
+
+

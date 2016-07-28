@@ -1,0 +1,1400 @@
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+Tuesday, June 28, 2016 – 13:30 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+LISE FUHR:
+
+British member of the parliament. Talked to her before the
+Brexit, which was very interesting, and she actually gave me a
+reference to a poem that I'm going to read aloud for you. I think
+it's a good poem, and I think we need to recall us the objective of
+the poem, It's actually the British poet called Yeats who in 1990
+wrote this. He actually wrote it to describe the atmosphere of
+post-war Europe. I'm using this to describe the post-Brexit and
+to remind us to actually stick together. It's called The Second
+Coming. We have to be a little intellectual today. Sorry about
+that. It is unusual. It's called The Second Coming, and it reads
+like this:
+"Turning and turning in the whitening gyre, the falcon cannot
+hear the falconer. Things fall apart; the center cannot hold. Mere
+anarchy is loosened upon the world. The blood-dimmed tide is
+loosed, and everywhere, the ceremony of innocence is drowned.
+The best lack all the convictions, while the worst are full of
+passionate intensity."
+And I think we should use this poem to remind us to find
+compromises, not to become too ideological. I think that’s the
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+same within this community. Find compromises, guys, be
+constructive, and I'd actually like to end with a reminder to
+focus on another famous group of poems who are saying
+"Always look at the bright side of life." Those are also British.
+Sorry for this British lecture, but I couldn’t let the chance go.
+Inspired by Giovanni who just entered the group. Actually,
+Maarten is saying now he understands why we need one and a
+half hours. He has been complaining that this is too much time.
+I'm not responsible for the amount of time. I'm responsible for
+fulfilling the time, so that’s why it's going to be a long session,
+guys. No. I will go on with the slides, and as you can see, I will
+not be talking all the time. I will actually only be talking for a
+couple of more minutes.
+We should have had Trang here. I don't know where she is.
+
+UNIDENTIFIED FEMALE:
+
+We'll look for her.
+
+LISE FUHR:
+
+We'll look for her. Good. Then we have Katrina, who will actually
+–
+
+UNIDENTIFIED FEMALE:
+
+Page 2 of 43
+
+Oh, there she is.
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+LISE FUHR:
+
+EN
+
+Oh, that’s good. She's the Chair of GRC, which is not Secret
+Service. I don’t know what the acronym –
+
+UNIDENTIFIED FEMALE:
+
+Guidelines Review Committee.
+
+LISE FUHR:
+
+Yes.
+
+UNIDENTIFIED FEMALE:
+
+It's a Guidelines Review Committee. It works on our internal
+procedures.
+
+LISE FUHR:
+
+That’s good, and we actually have Maarten Simon who will give
+us a perspective on the PTI Bylaws and the contract and the
+service level expectations. Hi! Those guys will actually take us
+through those very interesting subjects.
+I'll just give you a brief overview of the timeline: as you can see,
+actually, we have been through most of it, and the key point is
+on the 9th of June, we actually had the proposal endorsed by
+NTIA. It was very important it was not approved, it was
+
+Page 3 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+endorsed. Then we have the next big deadline, is the ICANN
+implementation report that is to be sent to NTIA.
+So that’s actually why we're here today, to get some clarity on
+where we are, and as you might know, the purpose of the CWG
+was to make a proposal for the transition. We decided then to
+become the group that also was overseeing the actual
+implementation and worked with ICANN staff on this.
+On top of that, because in Marrakech we felt that things were
+moving really fast and we didn't want to slow things down, we
+created what we call IOTF, which is the Implementation Task
+Force. We had Design Teams within the CWG, and those Design
+Team leads, Jonathan Robinson and I are working closely
+together with Trang and [Yuko] on actually having quick
+feedback and quick turnarounds on how to implement the
+proposal as such. While we're meeting almost every week and
+things are moving really fast because as you can see the
+deadline is in August – Yes?
+
+UNIDENTIFIED FEMALE:
+
+May I ask a question? Is it 12th August or 15th August?
+
+UNIDENTIFIED MALE:
+
+15 August.
+
+Page 4 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+TRANG NGUYEN:
+
+EN
+
+It was 12 August. However, with the recent publication of the
+NTIA report, they have also moved up our due day for the
+implementation report to August 12. So what was previously
+August 15th is now an August 12 due date.
+
+LISE FUHR:
+
+Very good date. It's my birthday.
+
+UNIDENTIFIED FEMALE:
+
+It's Saturday. It's Saturday, isn't it?
+
+TRANG NGUYEN:
+
+I believe it's a Friday. I believe that’s a Friday, as opposed to
+what was a Monday.
+
+LISE FUHR:
+
+Okay, good. As you know, the proposal was set to meet the five
+criteria you see below. It has to support and enhance the
+multistakeholder model, maintain the security, meet the
+expectations of the customers, maintain the openness and not
+be replaced by any government-led solution. This was endorsed
+by the NTIA that the report met all these criteria, which was
+really nice and good for us. So why are we here today?
+
+Page 5 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+The report is endorsed. We have a couple of outstanding issues,
+and I was asked to actually highlight the main issues. Apart from
+the CSC, which Katrina is going to talk about, we have four big
+chunks that we're looking into, and one of them is PTI Bylaws.
+Those are almost finalized. We have the PTI and ICANN contract.
+That’s also in progress. It's not finalized yet. I guess Trang and
+[Yuko] will go through those.
+We have the staffing of PTI, which created a little fuss within the
+group because the first proposal was to only have a secondment
+of staff to PTI, and that created some tractions in the different
+communities. Now the solution is actually to do it in a two-step
+way. The first step is the secondment, and then we will, within
+three years, employ staff within PTI. I guess that will be
+explained, too.
+Then the last point is actually IANA IPR, which is slowly waiting
+on the naming community – that’s us – and the numbering and
+the protocols to agree on how to make the actual contract
+between the parties, how to have the legal thing sorted out. It's
+not something that's creating a big attention within this group,
+but it is taking some time for Johnson and me. With that, I will
+actually hand it over to you.
+
+Page 6 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+TRANG NGUYEN:
+
+EN
+
+Thank you, Lise. While the slides are getting loaded, thank you
+very much Lise and the ccNSO council for inviting us here today
+to provide you with an update on the work of the
+implementation and the transition. Could I perhaps have the …?
+Thank you. Where do I point? Yeah, maybe.
+
+UNIDENTIFIED MALE:
+
+I always [inaudible]
+
+UNIDENTIFIED FEMALE:
+
+No, you go to the [right here].
+
+TRANG NGUYEN:
+
+Oh, there we go. So for us today, I wanted to share with you
+some updates on a few key areas that’s going to be of most
+interest to this group.
+The first slide that we have here for you is a slide that we've used
+and have shared with the community for quite some time now.
+This is a summaries view of the 15 implementation projects that
+we have, mapped across three tracks. The first track has to do
+with the root zone management, the second track having to do
+with the various recommendations that were in the ICG proposal
+from the three operational communities, and then the third
+
+Page 7 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+track have to do with recommendations that were in the CCWG
+Accountability proposal.
+As you can see, what we've done there is show you the progress
+that we've made in terms of implementation planning since
+ICANN 55. As you can see, we have made progress in all of these
+projects during the time that has elapsed between ICANN 55 and
+today.
+Lise was alluding to the PTI earlier today, and this is one of the
+main areas of recommendation coming out of the CWG
+stewardship proposal, which is the creation of a new legal entity
+called PTI that would essentially perform not just the naming
+function, but we have agreed with the community that PTI
+would also perform the numbering and the protocol parameters
+functions as well.
+PTI will essentially be a separate legal entity from ICANN. ICANN
+would be the sole member of PTI, so in common commercial
+terms, PTI would be a wholly owned subsidiary of ICANN. It
+would be domiciled in California and would have a 501(c)(3)
+status, which in the state of California is the equivalent of a
+nonprofit. As you can see, being a separate legal entity, PTI
+would have its own board, and in accordance with the CWG
+Stewardship proposal, the board would be made up of five
+individuals.
+
+Page 8 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+UNIDENTIFIED FEMALE:
+
+EN
+
+Yes, I'm sorry, may I ask you to slow down, because most of our
+audience, they're not native speakers. Thank you.
+
+TRANG NGUYEN:
+
+Thank you for that reminder. The PTI board, as I mentioned, will
+have five individuals. Three will be appointed from either ICANN
+staff or PTI staff, and two will be appointed by the ICANN
+NomCom. Since the 2016 NomCom process is already well
+underway, we, the group within the IOTF as well as the CWG
+Stewardship have agreed that Jonathan and Lise would serve as
+the interim directors until the 2017 NomCom process could elect
+two independent directors for the PTI board. In terms of officers
+for PTI, there will be three officers. There will be a president of
+PTI, a treasurer and a secretary.
+The position of the president of PTI is contemplated to be a
+seconded individual from ICANN, whereas the treasurer and the
+secretary are board support positions, if you would, and they're
+not expected to be full time positions. They're currently
+contemplated to be direct share resources from ICANN. So in
+other words, ICANN would provide a resource to serve in those
+two roles for PTI.
+
+Page 9 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+Staffing of PTI, as Lise mentioned earlier, our initial proposal
+was to have all PTI staff be seconded from ICANN to perform the
+IANA functions, the services, and that secondment would apply
+on an ongoing basis. In other words, any new employees of PTI
+would be hired by ICANN and seconded to PTI. That proposal
+received some mixed feedback from the community. There were
+some in the community that were in support of that approach.
+However, there were some in the community that expressed
+certain concerns with that approach, mainly that that would not
+achieve the desired separation between ICANN and PTI as
+contemplated by the CWG Stewardship proposal.
+ICANN considered very carefully the feedback that we received
+from the community, both those in support of the proposal and
+those that raised concerns, and to really think through the
+rationale for why there was support and why there were
+concerns raised, and we proposed a revised approach which
+was intended to bridge the gap a bit.
+And the revised approach that we have is at the time of
+transition, which is on October 1st, we will second the IANA staff
+to PTI to perform their services. After the transition, ICANN
+would work to put in place benefits programs that will be either
+exactly the same, or as equivalent as possible to the benefits
+program that we currently have in place for ICANN staff. We
+would work to put in place a comparable benefits program for
+
+Page 10 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+PTI, and we would also work to put in place processes and
+systems to support things like payroll and HR and benefits
+administration and other processes.
+We'll work to put those in place, and once those are in place, but
+no later than three years, then we would require PTI to offer
+employment to all of the seconded employees. Once those
+systems and processes are in place, then PTI on a move forward
+basis can then hire its own employees as well. That’s the revised
+proposal that we have circulated just before the ICANN 56
+meeting, and from initial feedback that we have received, I think
+everyone that had previously raised a concern is in support of
+the proposal, so I think we potentially have a path forward there.
+I covered the legal status of PTI and the services of PTI as well.
+From an operations perspective, there's this concept of shared
+services. As a brand new legal entity, obviously there are a
+couple of options of how to structure that organization. It could
+have its own HR department, its own legal department, etc., but
+for the size of the organization that PTI is going to be, that’s not
+necessarily a very effective way of doing it. What we're
+proposing is a shared services approach where ICANN would
+continue to provide those critical shared services for PTI in order
+for it to carry out its work. Then of course, once the PTI board is
+in place post-transition, they can review the shared services
+
+Page 11 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+arrangement as well as the staffing arrangement and all of that,
+and decide what, if any, changes they want to make.
+So how do we make all of this work? It's contemplated that we
+would have, at minimum, four contracts between ICANN and
+PTI. There would be a contract between ICANN and PTI for the
+performance of the naming function, and then ICANN will also
+be subcontracting the protocol parameters and numbering
+services to PTI. Those will be two separate subcontracting
+agreements, and then there would be an intercompany services
+agreement between ICANN and PTI, and that’s the contract
+where the details of the secondment and the shared services
+arrangement would be detailed.
+At minimum, there will be those four contracts. There may be
+additional contracts. For example, as an outcome of the IANA
+IPR discussions, there may be an additional contract between
+the ICANN and PTI to allow PTI to use the IANA trademark in the
+performance in its work. This graphic gives you sort of a picture
+of what the post-transition landscape would look like. In the
+middle there, you would have ICANN, and then as you can see
+there, there would be various contracts between ICANN and PTI.
+PTI would perform the three IANA functions, and then ICANN via
+the ICANN Bylaws would have a customer service standing
+committee that would perform oversight of the performance of
+
+Page 12 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+the naming function. Basically, what that means is that the CSC
+will, on a monthly basis, review performance reports from PTI to
+make sure that it is performing in accordance to the service
+levels that is set out in the contract between ICANN and PTI, and
+then escalate any performance issues that it identifies to the
+ccNSO and GNSO.
+As you can see, the arrangements between ICANN and PTI will
+occur via a contract with both the IETF and with the RIRs. Then
+ICANN would in turn subcontract the performance of those
+services to PTI. Oversight of those performance for those two
+communities are specified in the contracts that we have with
+them.
+I mentioned briefly that the Customer Service Standing
+Committee or the CSC will perform oversight of PTI's
+performance of the naming function and determine whether or
+not PTI is delivering services in accordance with the service level
+agreements. Those service level agreements are something that
+we're working on.
+It's actually one of the things that we've been working on for the
+last several months. That project is the names SLE project as we
+called it, and there is a Design Team within the CWG that
+specifically is looking at this. What we had to do with this project
+is essentially ICANN had to make some code changes to our root
+
+Page 13 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+zone management system to be able to collect data the new way
+that the SLE Design Team has determined that we need to
+collect.
+Those code changes had been done and deployed back in
+March, so we had been collecting data in accordance to the new
+performance targets that the names SLE Design Team had
+defined for us. With now about three months of data that we've
+collected, we've started to aggregate them and analyze them in
+order to come up with a set of what we think are the appropriate
+service level agreements for the performance of the naming
+function. We're on track to do that and present that back to the
+names SLE Design Team in around mid-July.
+Then in addition to that, we'll also be building a real time
+dashboard, where we would, on a real time basis, report on the
+performance of the naming services against those performance
+targets that we would agree upon with the CWG. So the
+Customer Standing Committee – and I know Katrina is going to
+talk about this a little bit – but essentially, like I mentioned, it is
+going to be an oversight body and it's going to monitor PTI's
+performance against the service level agreement that’s in the
+contract between ICANN and PTI. The composition of the CSC, as
+you can see, is on the slide there. The members of the CSC will
+be selected by the Registries Stakeholder Group, and also by the
+
+Page 14 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+ccNSO. In addition to that, they will also have liaisons from other
+SOs and ACs.
+The other body that will be coming out of the CWG Stewardship
+proposal is what's called a root zone evolution review
+committee, and this committee's main purpose is to look at and
+evaluate any architectural or operational changes to the root
+zone and make recommendations essentially to the ICANN
+board on those matters. This is a replacement of a responsibility
+that’s currently under the NTIA, so currently, any major
+architectural changes to the root zone we have to obtain NTIA
+approval for. Post-transition, it will be this group, the RZERC that
+will consider those types of changes and then make
+recommendations to the ICANN board, and then the ICANN
+board would have ultimate responsibility for approval.
+Where we are with the RZERC is we’ve worked with the IOTF and
+the CWG on creating a charter for this committee. That is now
+currently posted for public comment, so after the public
+comment window closes, we will consider any comments
+received and then go present it to the ICANN board. Then after
+ICANN board's adoption, we would initiate the process to start
+forming this committee.
+IANA IPR, as Lise mentioned, this is the work that’s currently
+undertaken by the three operational communities, and there's
+
+Page 15 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+quite a bit of work and effort that’s been put into this. I think
+what's going to need to be done, as Lise said, is ultimately
+agreements and contracts will have to be drafted between the
+operational communities and the IETF Trust to define the
+arrangement there, and then that would have to be in place
+before the transfer of the IPR occur.
+We have a slide here that has some links for you in terms of how
+you can engage and contribute to the various implementation
+activities that are going on. There's public comment that’s
+currently open for the Root Zone Evolution Review Committee
+charter, as I mentioned. Under the CCWG Accountability track,
+we currently have the ICANN restated articles of incorporation
+that’s out of public comment, and then you can volunteer as
+well through the CSC, as Katrina will talk about in just a minute.
+You can also participate in these mailing lists and follow the
+various discussions that are going on.
+
+LISE FUHR:
+
+Thank you, Trang. I actually would like to highlight something
+because you showed very nicely how the contracts are going to
+be divided into four contracts, but we have an issue that we
+want to look into regarding the intercompany agreement and
+dividing it from the naming function contract. We're going to
+have [inaudible] look into this because the ICANN Bylaws covers
+
+Page 16 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+certain parts of the contract. We want to be sure that it covers
+both the naming function contract and the intercompany
+agreement because that’s very important in relation to how easy
+it can be changed. This is incorporated into the Bylaws that the
+contract needs hearing of the communities and that there needs
+to be a majority, etc. For us, it's important that we have the
+same protection for both contracts, but it's not solved yet, so we
+will look into that.
+Thank you, Trang, for a very comprehensive presentation. I don't
+know if we should take a few questions. I've been told that when
+Göran arrives, we would –
+Yes, I saw he's there, so after Trang and questions, we will – yes.
+Are there any questions for Trang now? Because I think we
+should finish that before we – okay. Okay, thank you. Thank you,
+Trang. Could you give us a tentative date when RZERC must be
+in place?
+
+TRANG NGUYEN:
+
+RZERC should be in place by September 30th.
+
+LISE FUHR:
+
+Any other questions for Trang while she's here? Very quiet. We
+had too much lunch or just too tired. Yes, that’s a question. Go
+ahead.
+
+Page 17 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+UNIDENTIFIED MALE:
+
+EN
+
+[inaudible] .an, ccTLD. So this organization, PTI, was created
+only to have a supervisor as ICANN, in face of ICANN? Why it was
+necessary to create additional organization?
+
+LISE FUHR:
+
+I don’t think we should ask Trang about that question because
+that’s the CWG who made the proposal. The idea behind having
+the legal separation was that if PTI or IANA didn't perform and
+there was repetitive misperformance, it would be easier to
+separate it. It was to actually ensure that if things really went
+wrong, it would take years to do the separation because it was
+all built into ICANN. This is an affiliate of ICANN, so it's still
+owned by ICANN as such, but it's a legal separation.
+Any other questions? If not, I'll actually make a pause in the
+session and hand it over to Katrina to do a short presentation of
+the new – I don't know if it's that new anymore. I can see you
+have a question before.
+
+PETER VERGOTE:
+
+Hi, good afternoon, Peter Vergote from .be. It's not so much a
+question, but I think it would be interesting for the group that we
+just zoom in a bit on what is understood behind proposed
+architectural, operational changes to the root zones, which is on
+
+Page 18 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+the plate of RZERC, and which might be other decisions that can
+be made by PTI on its own. Thanks.
+
+TRANG NGUYEN:
+
+Thank you for the question. I think if there are any members that
+were in the previous Design Team that came up with the RZERC
+concept here that could add to provide an explanation for that,
+please chime in. I think what we're trying to get to here is that
+this committee would consider essentially any issues or
+anything that would come up, that would have an impact on the
+root zone itself and the technical management of the root zone
+itself. I think they want to make sure that it's quite broad what
+could be brought to the group, and then the group itself would
+review and determine what issues it wants to take on.
+
+LISE FUHR:
+
+Thank you, Trang. I'd like to add that actually within the CSC, if
+you want to have other service level expectations, it's the CSC
+who actually review the SLE and is overseeing that PTI is
+performing according to that. You have to make the distinction
+between the more day-to-day operational part, and this is more
+the fundamental technical part of the PTI functions that we
+don’t want to be changed without any very thorough analysis.
+
+Page 19 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+SIMON MCCALLA:
+
+EN
+
+Hi there, Simon McCalla, .uk. I think this is really important and
+it's great. I think what we've got to be careful as a community,
+the root zone needs to be managed under service level
+agreements and managed like a contract. We need to make sure
+that we're not trying to manage this by feelings, and one of the
+dangers of setting up lots of supervisory committees is
+ultimately, we need to judge this arrangement by how IANA is
+managing to its service level agreements and its contracts. It's
+important to have oversight but not create yet another body
+that just spends a lot of time talking about issues that
+fundamentally are contract – either the contract is being acted
+out, or it's not, and I think that’s really important. This needs to
+be lightweight and it needs to be nimble, and not be another
+burdensome sort of bureaucracy, if that makes sense. Thank
+you.
+
+LISE FUHR:
+
+Well, point taken, and that’s also what we try to do in the
+charter.
+
+TRANG NGUYEN:
+
+Yes. I think some very smart people sort of thought this through,
+and I think in the charter, the CSC charter, there's requirement
+for the review of the CSC charter in a year's time after the
+transition. I think there is already built into it a mechanism to
+
+Page 20 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+review the effectiveness of the CSC itself shortly after the
+transition.
+
+LISE FUHR:
+
+Okay, any other issues, questions for Trang? I'm glad we got
+some questions. That’s good, you're still awake. Nice. Well, then
+I'll hand it over to Katrina to actually introduce – or to welcome,
+sorry – a guy who actually took the other way. He went from the
+telco business to the domain name world, I've gone the other
+way.
+
+KATRINA SATAKI:
+
+On behalf of the ccNSO, I'd like to welcome our new – or as Lise
+put, not so new – also, I won't use the word old – CEO of ICANN.
+So if you would like to say some words.
+
+GÖRAN MARBY:
+
+[inaudible]
+
+KATRINA SATAKI:
+
+Yes, of course.
+
+UNIDENTIFIED FEMALE:
+
+If you’re not shy.
+
+Page 21 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+UNIDENTIFIED MALE:
+
+EN
+
+Actually, I’m really shy.
+I didn't really plan to say anything because I'm here to learn. I
+have [inaudible] all the time, and I'm still trying to understand
+everything. The team that I have working with this is an amazing
+team, and there are a lot of things that have to be happening.
+The reason why I wanted to attend this session was really to
+hear your reactions, to listen. Because we have a very tight time
+schedule, there is many things to do, and all the yellow flags we
+have, we just have to address them. So this, for me, is like a way
+that you ask questions and we really make sure we have the
+right answers so we don’t miss anything. I was here just
+listening.
+
+KATRINA SATAKI:
+
+Thank you very much.
+
+GÖRAN MARBY:
+
+Thank you, have fun.
+
+KATRINA SATAKI:
+
+Thank you, so back to Lise.
+
+Page 22 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+LISE FUHR:
+
+EN
+
+Oh, thank you, Katrina. Trang, you're welcome to stay, you're
+welcome to leave. It's up to you what you want to do with your
+time, but we will continue. Yes, the ICANNExit. No. Sorry, no.
+Thank you, Trang, again, and I would actually like to underline
+that I think the cooperation on this is really good between the
+Implementation Team and CWG. I'd like you to know that we're
+very satisfied with the way it's working. Thank you, and we'll
+move over to Katrina, giving us a presentation on the CSC.
+
+KATRINA SATAKI:
+
+Yes, thank you very much, Lise. Thank you, Trang, again. I hope
+that you have received the information we've prepared for the
+community. I sent two e-mails trying to alert you and give some
+initial information on the Customer Standing Committee. Today,
+we'll try to answer all the questions you might have, and I'll give
+you a hopefully clearer picture. So as you understand now, as
+already mentioned by Trang, so what will change? We'll have
+some structural changes post-transition. As you can see, there is
+a Customer Standing Community in the lower right corner.
+The main purpose and the tasks of the Customer Standing
+Community will be to ensure that IANA naming function has
+been performed in satisfactory manner, and it works for the
+direct customers. That is us. We as ccTLDs are direct customers
+of IANA naming function. The other thing that the CSC is going to
+
+Page 23 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+do, they will perform regular monitoring of IANA naming
+function against the contract. In case they identify some existing
+or potential problems, they will work together with PTI to
+actually solve those issues.
+Again, the composition of the Customer Standing Committee
+will have members with the voting rights, and liaisons who will
+liaise, basically. On members, we have two members from gTLD
+registry operators. These members will be appointed by the
+Registries Stakeholder Group or from the GNSO, and two ccTLD
+registry operators and they will be appointed by the ccNSO.
+Together, members and liaisons make a full slate, so when we
+refer to full slate, it mean voting members and liaisons.
+
+UNIDENTIFIED MALE:
+
+[inaudible]
+
+KATRINA SATAKI:
+
+Sorry? Slate, not slave. They will be slaves to the community, but
+yes, slate. Here, as you now know, the deadline shifted a little
+bit, so the final deadline will be 10th of August. The ccNSO
+council did adopt the guideline explaining how we are going to
+select the members. At the end of this meeting, we will issue the
+call for expressions of interest, and those who are interested to
+
+Page 24 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+serve on this community will have two weeks' time to submit
+their expressions of interest.
+Then, the ccNSO councilors will evaluate the applications
+received, and in consultation with the Registries Stakeholder
+Group, we will come up with four members. These members
+have to be submitted by 22nd July. All other communities that
+will appoint their liaisons also have to submit the names by
+22nd July. Basically, ICANN secretary will collect all the names,
+and when all the names are collected, they will send them to
+ccNSO and GNSO councils. Again, in consultation between these
+two bodies, we will come up with a full slate and will adopt the
+full slate. So both councils will have to adopt the full slate of
+CSC.
+If we talk about the guidelines, if you go to the ccNSO website,
+you can find the actual text of the guideline. It explains the
+process and all the requirements, but I'll try to highlight some of
+them here. So this election process, first of all, requirements. It's
+good if you're committed and want to serve, but there are
+certain skills that you need to serve on this committee.
+First and utmost is you need experience and knowledge of the
+IANA naming function, and you of course need some analytical
+skills, experience in other committees, ability to be engaged in
+diplomatic discussions – so I for one cannot be on that
+
+Page 25 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+committee – consensus driven decision-making and things like
+that, and of course, excellent communication skills because you
+will need to communicate with the community, with others on
+this committee, and PTI and other bodies that will be involved in
+the process. It means that you also need to be able to
+communicate in written and spoken English, just to make things
+easier.
+Some additional requirements: again, you need to commit to
+active participation on this committee and you should be
+employed or have active backing by a ccTLD manager. Also, the
+council will have to apply some diversity criteria on the top of
+the skillset. Of course, again, the professional criteria are most
+important, and then we also consider diversity.
+Please note two things: if you want to join the committee just to
+receive travel funding, no, there's no travel funding, so it's just
+work and no fun of traveling. Just work, yes. Another thing is
+quite serious time commitment. Maybe not so much in terms of
+time, but there are monthly meetings, and you're supposed to
+attend at least nine meetings a year and do not miss more than
+two consecutive meetings.
+Then you also of course need to provide updates to
+constituencies, to groups whenever you're asked to provide
+updates and so on. Of course, I think we should normally expect
+
+Page 26 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+that in the beginning there will be much more work, because
+you need to set up all the procedures and decide how are you
+going to work. The most important thing: you do not have to be
+a ccNSO member to apply, so it's very important. Any ccTLD, if
+you feel confident, if you fulfill the requirements, if you commit
+to the work of the Customer Standing Committee, you're
+welcome to apply.
+Next steps, once more: We'll have a call for expression of interest
+from 30 June until 15 July, then ccNSO council selection until
+July 20, coordination with Registries Stakeholder Group
+approximately on 21st July, and the appointment of the CSC
+members on 22nd July. Then both councils will start working on
+the full slate.
+Again, I tried to be as brief as possible. If you have any questions,
+something is not clear, please ask now because in two days we'll
+have this call of expression out. It will be a PDF you can fill in
+easily. Now if you go to the guideline, you can see in appendix A
+the form you'll need to fill in. It will be made easier for you to fill
+in. Any questions?
+
+LISE FUHR:
+
+I actually have a comment. Jonathan and I talked to the GAC
+earlier today about exactly the CSC because they are to have a
+liaison if they want, it's voluntary, so it's not mandatory for GAC.
+
+Page 27 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+What we told them was that the first year is going to be very
+interesting in the sense that this is where the work of the CSC
+will be formed. This is where you actually fulfill the frame that
+the charter is giving the group. It's a very important year, so I
+really hope that some of you would put in the time. I think it's
+going to be time consuming, but it's also going to be very
+rewarding, I believe. Thank you.
+
+KATRINA SATAKI:
+
+So if you want to be rewarded...
+
+UNIDENTIFIED FEMALE:
+
+Rewarding.
+
+KATRINA SATAKI:
+
+Rewarding, yes. Are there any questions, or everything is so
+clear? Perfect, okay. [Irina].
+
+UNIDENTIFIED FEMALE:
+
+Sorry, probably I have missed some of your explanation, but
+when you mentioned a monthly meeting, is it anticipated that
+it's going to be in person meeting or online meeting or
+whatever?
+
+Page 28 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+KATRINA SATAKI:
+
+EN
+
+Teleconferences. Yes, calls, monthly calls, but you're supposed
+to be at least on nine calls a year and do not miss more than two
+calls in a row.
+
+LISE FUHR:
+
+I guess that during the ICANN meetings, there will be some face
+to face meetings for the group. I think most will be, as Katrina
+says, calls, but there will be a need for physical meetings too.
+But this is, again, up to the CSC as such to define in more details
+because we only wanted to give the direction and of course the
+objective of the group, but not the final procedure on how to
+deal with the meetings and other things.
+
+KATRINA SATAKI:
+
+And one more comment: the Guidelines Review Committee is
+currently working on a new guideline. It’s for RZERC. It will be
+much easier than the one for CSC because we do not need all
+this coordination work, but still, we need one person to point to
+RZERC.
+
+LISE FUHR:
+
+No other questions? Well, that’s proceeding very fast. We have
+Maarten, who will actually go through the PTI contract, the PTI
+Bylaws and also put in IPR. Great.
+
+Page 29 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+UNIDENTIFIED MALE:
+
+[inaudible]
+
+LISE FUHR:
+
+Okay, take it away, Maarten.
+
+MAARTEN SIMON:
+
+Yes, I will, and I see we have – or I have – more than an hour left.
+No, that’s not true. More than half an hour left, and I'll have to
+make it short, as I didn't foresee that Trang would present
+everything that I wanted to say about the Bylaws and the
+contract, so we better go, if possible, to slide number four, I
+think.
+
+UNIDENTIFIED FEMALE:
+
+[inaudible]
+
+MAARTEN SIMON:
+
+I didn't know that. Now I understand why it takes so much time.
+Yes, this is the one. I want to tell you something that is finished
+work and that is I think very positive for the [CSC] members, the
+ccTLDs. In the work of the CWG we in the end drafted an annex C
+that contains some details about how the relationship would be
+between PTI and the TLD operators, and it took a number of
+things from the original IANA contract. What is there now? If you
+
+Page 30 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+want to see it, and you want to see the details of it, you better
+use the link that I've put in. It’s [detailed]. There are a number of
+clauses that will go into two things: Into the Bylaws of PTI, and
+also in the contract between ICANN and PTI, so it's double. I can
+go through the details here.
+First of all, the first article says that all decisions and actions of
+PTI shall comply with local law of the ccTLD, except – of course,
+there is an except – if that would force PTI to violate its own
+laws. It's your own law that dominates. Second thing is that PTI
+cannot – and this is something that I think it's in the IANA
+contract now – cannot make changes to the ccTLD policies and
+procedures without the consent of the impacted registry.
+The next thing that’s also nice to have is that PTI will not
+discriminate between types of registries. Registries that have a
+contract, that don’t have a contract, that are gTLDs, ccTLDs, all
+are treated equal. The next thing is that PTI will not require now,
+or in the future, a contract in order to provide services to ccTLD
+registries. This is also directly from the contract that NTIA has
+now. PTI will not impose additional requirements unless directly
+and demonstrably – difficult word for me – linked to the global
+security, stability or resilience of the domain name system.
+So it's what it is, and nothing will change. We don’t have to get
+anything extra, unless the whole security, stability and
+
+Page 31 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+resilience, but that’s not something that will change very much
+now. These clauses are defined now, and I must compliment
+Paul Kane because he has helped us a lot in this. They will be, as
+I said, both in the contracts and in the Bylaws, so there to stay.
+That’s all I had to say about this, and all the other things I had to
+say were said already. Thank you for that. Any questions?
+
+UNIDENTIFIED MALE:
+
+Obviously, this is an overview of the exact language.
+
+MAARTEN SIMON:
+
+Yes, that’s why I had the link in this presentation because you
+have to go to the exact text. We could discuss it, we have time
+now, but I don’t have it in the presentation, so it's a bit difficult.
+
+UNIDENTIFIED MALE:
+
+I won't discuss this in detail, but I see two of those very serious
+problems. Obviously, as I haven't read the precise, literal
+language of what's in the PTI proposal, then I can't comment in
+detail about this, but let me tell you what your presentation is
+giving the perception of to me at this point. First of all, it says the
+local law of the ccTLD. There's a complete misunderstanding
+there of the fact that ccTLDs do not map to local law. My own
+country has something like four jurisdictions, so is it English law?
+
+Page 32 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+Is it Scottish law? Is it Ireland law? It could be any of those in
+different contexts.
+It could have been European law. Precisely. I hope it still is, but
+that’s looking increasingly unlikely. The other thing is I look at
+the possibility that you have – and I won't name any country in
+particular, but you have a country in which the rule of law does
+not really apply very well, and a directive is made by the dictator
+of that country that the ccTLD be redelegated. That doesn’t
+contravene Californian law, so therefore, according to this,
+ICANN must redelegate simply on receiving instruction from the
+government.
+This is something we have fought against for 15 years. This is
+unacceptable, if that can be construed in that way. So this is not
+going to happen. I hope that the language does not permit that
+interpretation. Finally, again, interpretation. It gives the
+implication that PTI can impose additional requirements when
+they are directly and demonstrably related to global security,
+stability and resilience of the domain name system. No, it can't.
+Only when there's been a PDP from the ccNSO.
+
+MAARTEN SIMON:
+
+I was already afraid for this. The point is that we don’t have the
+details here, and I don’t think it's a good idea to discuss the
+details now. I invite you, please, go through it and send me
+
+Page 33 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+everything that you think that is not correct currently because
+we can open a discussion again if necessary.
+
+LISE FUHR:
+
+I would like to add that there's going to be a public consultation
+on exactly the PTI Bylaws and the contract, and I would like to
+support Maarten in that it's not written like own laws. It's in a
+broader sense. It's more the rules or whatever is applicable to
+that specific registry. So I don’t think there is a problem
+regarding the law. The last one, I'm a little more uncertain
+about, and I think it would be important that we look into it, of
+course, and you will get a chance to do so.
+
+UNIDENTIFIED MALE:
+
+[inaudible]
+
+LISE FUHR:
+
+When? I actually think it's within a week or two, so it's going to
+be out for public comment very soon. Trang is still here, I see, so
+I can't remember the date.
+
+UNIDENTIFIED MALE:
+
+Page 34 of 43
+
+[inaudible] certainly [inaudible] as well.
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+LISE FUHR:
+
+Yes. Trang, can you – sorry, Jay, just...
+
+TRANG NGUYEN:
+
+Yes, Lise. The PTI Bylaws is expected to be posted for public
+comments either later this week or early next week.
+
+LISE FUHR:
+
+Thank you.
+
+UNIDENTIFIED MALE:
+
+What’s the duration?
+
+UNIDENTIFIED MALE:
+
+Can you [inaudible] the mics on? Please. I can’t hear you.
+
+TRANG NGUYEN:
+
+I think the question was what's the duration of the public
+comment period, and it will be posted for a 30-day public
+comment period.
+
+LISE FUHR:
+
+Thank you, Trang, but actually, they can be previewed now. I
+don't know if it's the final one, but one can get a sense of how
+they look.
+
+Page 35 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+TRANG NGUYEN:
+
+EN
+
+Yes, everything either via the IOTF mailing or the CWG mailing
+list. You can see a first draft of the PTI Bylaws, as well as the
+areas where [inaudible] had raised some questions to the CWG
+on. You can also see the discussed and agreed upon responses
+to [inaudible] questions, and essentially, the difference would be
+we would just be incorporating the CWG responses to [inaudible]
+questions into the next draft, which would then be posted. This
+document that Maarten is referring to is a document that was
+drafted by [inaudible] as well, working with some members of
+the CWG, so we'll be taking a look at that and incorporating that
+into the next draft of the Bylaws that we will post for public
+comments.
+
+LISE FUHR:
+
+Thank you, Trang, and I'd like to add that ICANN legal and
+[inaudible] are working very closely on this, so it's actually two
+parties working together on implementing the different
+questions. The next consultation will not include the contract,
+but we will have a consultation on the contract. Go ahead, Jay.
+
+JAY DALEY:
+
+Thanks. Jay Daley from .nz. My understanding of the answer to
+Nigel's two points was that first of all, the Bylaws or the rules
+would incorporate initially RFC 1591 of GAC principles. We've
+eliminated ICP 1 taking place and being part of it, and when FOI
+
+Page 36 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+is complete, FOI becomes part of it as well. The point there
+about not being able to violate its own laws means that it can't
+violate FOI, effectively is the interpretation of it.
+If I'm wrong, please explain that to me, but I thought that was
+the whole point about the timing of FOI, to have that into PTI for
+that particular purpose that Nigel is talking about.
+
+LISE FUHR:
+
+To be honest, actually where this is taken from is from the old
+contract with NTIA.
+
+JAY DALEY:
+
+Right. The old contract with the ICP 1 GAC and RFC 1591,
+probably. So I think, to Nigel's point, I don’t think that it would in
+any way allow a dictator to issue something that is then thought
+of as in charge of that. And the other one is it clearly says "will
+comply with local law." That doesn’t mean that you have to pick
+which of your four overlapping laws is the one. To me, it's a
+statement of the obvious, that it wouldn’t say you're allowed to
+break the law. It's a very fundamental statement along those
+lines that it must be lawful in its operation.
+So I really don’t see that we have those problems that Nigel has
+pointed out there. I think this is consistent and straight forward.
+We've just got some work to do about FOI, which is natural,
+
+Page 37 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+because FOI is a big piece of work to make sure that that’s into
+the policy sector.
+
+LISE FUHR:
+
+Thank you, Jay, and actually to add to that, the reason why this
+was raised by Paul Kane was actually to make it very clear, the
+distinction between ccTLDs and gTLDs, and you have certain
+situation where it's important to make that distinction. It's not
+done in all clauses, but we have those specific issues as ccTLDs
+that we wanted to ensure is still being taken care of.
+
+UNIDENTIFIED MALE:
+
+No other questions? Okay, thank you.
+
+LISE FUHR:
+
+Well, I have 25 minutes to sing you a very long song or whatever.
+That’s one more question, thank you.
+
+UNIDENTIFIED MALE:
+
+Yes, but I was waiting until all the questions about the specifics
+of all these many acronyms were discussed because my
+question is not so much about the post-transition scenario, but
+about the pre-transition one. I'm not completely clear about
+what's going on right now, and I would appreciate if somebody
+could shed some light on it.
+
+Page 38 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+On June 9, the proposal was accepted by NTIA. I wonder, what's
+the status now? Is that the final move by the US government that
+was needed? Should there be something else, like a presidential
+directive or something, or time is just ticking until he current
+contract finishes, and barring some move by Senator Cruz now
+that he's free from his other project, everything would go
+smoothly?
+
+LISE FUHR:
+
+That’s a very good question. Thank you. Actually, as we showed
+before, NTIA has endorsed the proposal as such, but this is the
+whole proposal with the Accountability proposal, the IANA
+transition, and everything has been tied into a nice package and
+sent to NTIA. Then, we look at the date, the 12th of August, and
+apart from being my birthday, it's also the day of where we have
+to show that the implementation is feasible, that it's actually
+well on track, the implementation is in line with the proposal. So
+that date is important too.
+They need to have it on the 12th of August in order to actually
+also sign off that yes, you sent us a proposal which we endorsed,
+yes you're doing it in the way you said in the proposal, so it's still
+in line with everything that’s been endorsed by NTIA. They have
+this committee. I forget what the acronyms are for, but I think
+it's called COSO, which is looking into both the accountability
+
+Page 39 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+proposal and the IANA transition. There are some green, yellow
+and red flags, and some of the IANA Stewardship transition has
+some yellow flags because we haven't finalized the PTI Bylaws.
+We haven't finalized the contract.
+Until all this has been done and sent to NTIA, they cannot fully
+endorse the actual proposal because they need to see that it's
+been done in a stable, secure and resilient way, and everything
+is in order.
+
+UNIDENTIFIED MALE:
+
+If it wasn’t for the fact that you said we're ahead of time, I
+wouldn’t have come back for second helpings, but just to follow
+up from a couple of the other questioners and the comments
+that were made, I'm not concerned about the intent of the
+people who’ve put this together. What I'm concerned with is the
+possibility that in the future, with different people involved, that
+these words may be construed and interpreted in a different way
+to that which they were intended, either intentionally or
+unintentionally. It's as simple as that, and until I've actually read
+the exact proposed words, we don’t know if there's a concern or
+not. I'm just saying that the perception that comes over from
+your slide was concerning. Thanks.
+
+Page 40 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+MAARTEN SIMON:
+
+EN
+
+Trying to write legal text simpler is not easy, and usually, in a
+good legal text, every word has a meaning, so if you try to make
+it shorter, then you always lose details that are important. I hope
+they're there, but otherwise, I'll hear from you.
+
+LISE FUHR:
+
+That’s why it's so wonderful that we have the whole community
+to review it. We are going to need your help, so guys, just read
+and review. Thank you.
+
+STEPHEN DEERHAKE:
+
+Stephen Deerhake, .as, American Samoa. Is there contingency
+planning ongoing in the eventuality that the constitutional
+questions that are being raised by Senator Cruz and others most
+recently overnight comes what I would characterize as "to the
+forefront" on the run-up to the proposed transition date, and if
+so, can you give us an outline of it? Does Work Stream 2 work
+simply come to a halt if something arises that prevents the
+transition from happening? Can you give us an overview of that?
+
+LISE FUHR:
+
+I can. We had the same question of the GAC this morning, and
+the short answer is no, there is no contingency plan from the
+CWG side. I don't know if ICANN has a contingency plan in
+relation to this. What I know is that we as CWG is formed to make
+
+Page 41 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+a proposal, formed to actually oversee the implementation of
+that proposal. As I see it, we're not doing anything that’s
+irreversible at the moment. We're creating the legal offset for
+PTI. We're looking into SLEs that would benefit ICANN as such if
+it stays as it is.
+I don’t see we're doing anything that would create a disaster if
+it's not happening, except that it would be very sad to tell the
+whole world that you're handing over the stewardship to the
+international Internet community and then not doing it, which I,
+for the record, would find very sad and bad and terrible. Any
+other questions or remarks? Feedback? We're 18 minutes before.
+Yes.
+
+UNIDENTIFIED FEMALE:
+
+Well, it's not the first time today.
+
+LISE FUHR:
+
+I know. It's fine? Thank you for listening and thank you for your
+questions.
+
+UNIDENTIFIED FEMALE:
+
+Thank you very much. So please, mind that next session starts
+3:15 and not in this room. This was going to be Hall A. You go up
+and then go all the way to Hall A. With GAC, and we're going to
+
+Page 42 of 43
+
+HELSINKI – ccNSO Members Meeting Day 1 (Part 4)
+
+EN
+
+discuss PDP just as we did earlier today, and going to talk about
+the survey. GAC Working Group on underserved regions came up
+with a survey on government relations with ccTLD managers, so
+I expect a very interesting discussion. It will be a one-hour
+session, and then we reconvene at 5:00 here, same room.
+
+[END OF TRANSCRIPTION]
+
+Page 43 of 43
+
+

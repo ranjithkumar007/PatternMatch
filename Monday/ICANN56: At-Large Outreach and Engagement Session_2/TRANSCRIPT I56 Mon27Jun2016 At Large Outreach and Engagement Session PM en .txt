@@ -1,0 +1,1860 @@
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+Monday, June 27, 2016 – 13:30 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+ALAN GREENBERG:
+
+…at the table, that would be nice. If there are any ICANN Fellows
+in the room – and we’re told there should be about four or five –
+it would be nice to have sit at the table. Here’s a seat.
+All right, thank you. I’m afraid we’re developing a pattern of
+starting ten minutes late. We’ll try not to continue doing this.
+This is an unusual session. It was originally billed as an outreach
+session, and we were expecting 25 or so ICANN Fellows to be
+here, and we were going to explain things, what we do. We’ve
+been told that we’ll only see four of five of those, who are
+particularly interested in what we’re doing and already know
+what we’re doing, or at least to some extent.
+So what I’d like to do is first go around the table and introduce
+the Fellows. I don’t think we have enough time, unfortunately, to
+do a full set of introductions. But around the table, we have the
+ALAC, which is 15 members, most of whom are at this meeting.
+And from each region, we typically have the Chair and the
+Secretariat, the two people responsible for the region.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+I’m Alan Greenberg, the Chair of ALAC. And I’d like to go around
+the table, or outside the table if applicable, and have any of the
+Fellows who are joining us introduce themselves. And then we’re
+going to move into a review of the fiscal year ’17. That is the
+fiscal year starting at the end of this month, going for a year, the
+requests that At-Large and ALAC has made – some of them, the
+ALAC itself; many of them, the RALOs – the requests we’ve made.
+And we’ll be reviewing what the results are.
+This may sound boring, but in fact, this captures an awful lot of
+what we spend our time doing, because the budgets are the
+mechanism by which we do a lot of the interesting things that
+we do. So we’re going to be reviewing the total requests,
+including those that were rejected, and the outcomes of some of
+those are more positive than you’d think, with the word
+“rejected.” And we welcome input or thoughts, questions from
+anybody around the table, Fellows or ALAC or regional leaders.
+So if we could start at the far end, I don’t know where the first
+Fellow is. I recognize all the faces on that whole – well, I was
+looking on that side. I don’t see any.
+
+AIDA MAHMUTOVIC:
+
+Okay. So good morning, good afternoon, everyone. I’m from
+Bosnia and Herzegovina. I come from civil society. I’m also
+involved with the national IGF of Bosnia and Herzegovina and
+
+Page 2 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+the executive committee for SEDIG, which stands for
+Southeastern European Dialogue on Internet Governance,
+basically sub-regional IGF. And I’m an ICANN alumni. Thank you.
+
+ALAN GREENBERG:
+
+Thank you.
+
+NARINE KHACHATRYAN:
+
+Good morning, everyone. I am a representative of Armenian AtLarge Structure. In our country, I am a coordinator of Safer
+Internet Armenia, which is a cyber-safety and Internet safety
+awareness raising. I participate in the work of At-Large, APRALO,
+EURALO. I am engaged in several working groups, and I have
+been actively participating in the European Dialogue on Internet
+Governance, EuroDIG. Thank you.
+
+ALAN GREENBERG:
+
+Thank you. Before we continue, I’ll remind people or tell people,
+we do have English, French, and Spanish interpretation. So if
+you speak all of those languages, you don’t need a headset. But
+otherwise, you might want to pick them up. But feel free to
+speak in any of those languages, if appropriate. Back to you. And
+we also have a roving microphone, for those who are not at the
+table.
+
+Page 3 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+Anymore fellows?
+
+SIRANUSH VARDANYAN:
+
+Always a Fellow.
+
+ALAN GREENBERG:
+
+You don’t count anymore as a Fellow.
+
+ISAAC MAPOSA:
+
+Fellow Alumni, I am a member of the ISOC Zimbabwe chapter,
+and I am also a mentee to Cheryl, within the At-Large.
+
+CHRISTIAN MULOLA:
+
+I come from Rwanda, second-time Fellow. And I am also ALS
+leader in Rwanda. I am also a national coordinator for IGF, and
+also East Africa coordinator for IGF. Thank you so much.
+
+CHRISTOPHER MOMANYI:
+
+From Kenya, I belong to the GNSO. I’m also in the Next
+Generation group in my country. Thank you. I’m a Fellow alumni.
+
+ISAQUE MANTEIGA JOAQUIM:
+
+Hello, everyone. From Mozambique, I’m from civil
+
+society, academia, Internet user. I’m here to start to be a part of
+At-Large community.
+
+Page 4 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+OLEG DEMIDOV:
+
+EN
+
+Hello, everyone. I’m a second-time Fellow, and I’m based in
+Moscow, Russia. I’m a member of the Russian chapter of ISOC,
+and I’m also a member of the Research Advisory Network, under
+the Global Commission on Internet Governance. I represent the
+academia center and PIR Center in Moscow. Have been
+cooperating with regional representatives of ICANN for the
+global stakeholder engagement in my region, which is Central
+Asia and Eastern Europe, and have been engaged in conducting
+a research study on security, stability, and resilience for ICANN
+as well. So I’m glad to be here.
+
+ANDREW ARKDON MOLIVURAE:
+
+Good afternoon, everyone. I am a second-time Fellow.
+
+Also, I also represent an organization in Vanuatu that’s called
+Vanuatu IT Users Society that is a new ALS that was created
+recently. And I’m happy to be here. Thank you.
+
+STANLEY OSAO:
+
+Hello, I’m from Papua New Guinea in the Pacific Islands. I’m
+involved in community groups, civil societies. I’m working on the
+Internet user group in my country to have it affiliated with ALS,
+APRALO. Thank you.
+
+Page 5 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+UNIDENTIFIED FEMALE:
+
+Anymore Fellows this side? Thank you.
+
+RAO NAVEED BIN RAIS:
+
+Good afternoon. I am from Pakistan. I am an ICANN Fellow. This
+is my sixth meeting. I am also president of ISOC Islamabad
+chapter, which is an ALS. Thank you.
+
+ISRAEL ROSAS:
+
+Hi, everyone. I am from Mexico. I am from the government. I am
+involved in the [Initiative Group] on Internet Governance that is
+the IGF national structure. I am also involved in the ISOC Mexico,
+and also [inaudible] Mexico and a couple of government
+organizations. And second-time Fellow.
+
+BIKRAM SHRESTHA:
+
+Hi everyone. From Nepal, Nepal chapter Internet Society, Nepal
+chapter. This time I am not a Fellow, but I am representing my
+own. Toronto 45 was my first Fellowship. I am involved in AtLarge, APRALO, ALAC, and NPOC. My interest area is in security
+also. Thank you.
+
+UNIDENTIFIED FEMALE:
+
+Page 6 of 56
+
+Just one more, please.
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+[ANDREAS ZODE]
+
+EN
+
+Hello. I am a UI/UX designer. Originally from Ethiopia, but I came
+from US, representing my company. I work for FDA, US
+government. So I’m an Internet user. Thank you.
+
+BEATRIZ RODRIGUEZ:
+
+Good morning. Sorry, good afternoon. It’s the change of the
+time. I will speak in Spanish then. I am from Uruguay. I am an
+alumni. I represent the Uruguay Internet Society chapter. Thank
+you very much.
+
+ANA KAKALASHVILI:
+
+Hello. I am from Georgia, Eastern European region. I am
+academia, lawyer, cyber-security. I’m a part of ISOC chapter
+Georgia and initiated recently Georgian IGF in my country. Thank
+you. And do I have to say that I’m also user? I’d be surprised, if
+not.
+
+GISELLA GRUBER:
+
+Sorry, seeing we have new faces here, can I please just remind
+you that we have French and Spanish interpretation. For that
+reason, and also for transcript purpose, please always say your
+name when you speak, each and every time you speak, so that
+the interpreters can also identify you on the various language
+channels and also for our remote participants, who are joining
+us via the Adobe Connect room.
+
+Page 7 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+And we have cameras in the middle of the room, which will be
+working with your microphone. So once you have spoken,
+please just put your microphones off. Thank you.
+
+ALAN GREENBERG:
+
+Thank you, Gisella. As I mentioned earlier, we were originally
+warned that we would probably only have four or five fellows
+here. We seem to have a few more. I hope whatever other
+meetings are going on are not feeling too lonely. But thank you
+all for attending.
+The bulk of this meeting, as I earlier said, will be a very fast
+review, because it’s a large one, of the fiscal year ’17 requests
+that were made through At-Large and the ALAC. Rob Hoggarth
+will be presenting them. And I’ll turn it over to Rob.
+
+ROBERT HOGGARTH:
+
+Thank you very much, Alan. Thank you all for allowing me to
+attend and taking some time out of your agenda. I think I have
+35 minutes. By my calculations, there are approximately 20
+separate requests that were submitted through the At-Large
+community, which leaves about a minute and a half for each
+one. That won’t do justice to any individual request. But
+recognizing that some come from the ALAC itself, some come
+from individual regional At-Large organizations, I’m delighted to
+
+Page 8 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+do follow-ups with any particular group. Sometimes I appreciate
+that the follow-up for a not-approval – we don’t use the term
+“rejection,” Alan – the term for a not-approval is probably a
+more important discussion than for an approval, in that there
+are lessons learned and opportunities to find ways to do a better
+job, from a staff perspective, as well as from a proposal
+perspective in the future. Maybe opportunities for additional
+dialogue with ICANN staff. So I just wanted to identify that as an
+overview.
+The second thing that I’d like to share is two overall points when
+it comes to the special budget request process. As many of you
+are aware, it was a process that ICANN staff started about 5 ½, 6
+years ago now that was designed to be an addendum, if you will,
+or a supplement to the overall ICANN operating plan and budget
+efforts. The idea was that there would be new concepts, new
+ideas, ways to improve or expand existing resources for the
+community, and to be able to do that in a way that was not tied
+to the overall budget process. Many of these requests are not to
+the level of taking a major percentage of the ICANN budget, but
+represent novel, experimental, or just very good ideas that are
+worth considering or looking into for the future. And so that’s
+one of the reasons why the process was started.
+Under the evolution of the work over time, what we’ve really
+focused on, from a staff perspective – and ultimately, the Board
+
+Page 9 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+approves these requests or does not approve these requests – it
+becomes a matter of providing the capability. While it’s called a
+budget process, this is not intended to be defined as you get $12,
+or you get 15 euros, or some other specific amount for a
+particular project. When a budget gets approved, there’s the
+recognition that it will take place, but a matter of trying to figure
+out how that will happen or how it can be managed. And staff
+has given guidance, in terms of how that can be done. But it’s
+important to note that, from many respects, from a staff
+perspective, there is a commitment to try to deliver a capability.
+In some cases, it’s a matter of – and you’ll see in some of the
+requests that we go through today, it’s a matter of future
+collaboration or opportunities to have further discussions with
+staff, to maybe further flesh out an idea, to explore whether it
+can work from a practical standpoint. Because one of the other
+considerations that we take into account when there is a review,
+and ultimate Board action, is not just the financial implications,
+but the overall resource implications. It’s really a recognition
+that very few projects are simply opening up a wallet and paying
+an invoice. There’s staff time. There’s organizational time. And a
+recognition that there’s not an ever-expanding pot or pie, if you
+will. And so that’s another aspect of this.
+And finally, just a recognition that the overall opportunity for
+special budget requests is not unlimited either. Every year, when
+
+Page 10 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+the draft budget comes out, there’s an envelope. It basically
+says, “Within this envelope, we hope to be able to provide some
+additional support, do some experiments, figure out ways to
+move forward.” And from that perspective as well, it’s a case
+where, unfortunately, not every request can be approved or
+accepted, simply because there are not enough resources to do
+it.
+So those are my overall caveats and perspectives, in terms of the
+context in which this work is considered. Now what I’d like to do
+is we’ll just go through each one individually. Again, I’ll be very
+brief. And I would ask that for the most part, if you have really
+detailed questions or there’s something that we should work
+out, we should schedule some time with the individual group or
+requestors who’ve made the request. We may have discussions,
+and I’m more than happy to answer any questions. But, Alan, I’m
+going to be very conscious of your time and your agenda.
+I believe Ariel has put together a really great list. It’s posted up
+on the screens, and I guess on the Adobe Connect pod. So I’ll just
+use that as my guide. And perhaps if you could just scroll down
+sort of as we go through each one, that would be great.
+Do you have numbers associated? Is it wide enough to show the
+numbers of the designated requests? That’s all I would ask. No?
+That’s okay. I’ve got my own separate list.
+
+Page 11 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+The first one is “Strategic Working Session for ALAC and RALO
+Leaders at ICANN 55.” That was a developmental session.
+Oh, I see. Thank you. Ariel, this is the first time I’m looking at it,
+so I’m just figuring out the layout here. Thanks for your
+indulgence. No, that’s good. If you just keep that main text, that
+would be good.
+We’ll call this, for right now, just the first request. And we’ll go
+through each of them. As you’ll see on this, the request for this
+strategic working session between ALAC and RALO leaders was
+approved. But the original request was for two meetings, and
+the approval came through for one meeting only. That would be
+ICANN 57, which is the Meeting C. So this request was approved.
+My sense, Heidi and Ariel and Alan, is that I’ll go through each
+one of these, just say approved or not approved, pause for a
+second, see if there are any hands for questions, and then just
+continue to move on. Will that work? Thank you.
+Ariel, if we can scroll the next?
+
+ALAN GREENBERG:
+
+I didn’t realize that was the pause. My only question on that one
+would be if it was useful in one, why would it not be useful in
+two? Or is that purely a budget decision?
+
+Page 12 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+ROBERT HOGGARTH:
+
+EN
+
+I’m hesitating and pausing simply because I didn’t make the
+decisions on all these. So I’m looking at it and trying to
+remember, in terms of the feedback that I received. On this one,
+my recollection was that Meeting C provided the time and the
+schedule to permit this activity to happen, whereas the next
+meeting, 58, which was Meeting A, would not do so. But I’ll look
+to clarify that for you, in terms of the specific reason.
+Sorry, I couldn’t hear what he said.
+
+SEBASTIEN BACHOLLET:
+
+I was saying that I am sure that he’s right, because it ways of
+meeting. A, B, and C were set up. The C meeting is one day more,
+on Friday, to allow each and every SO and AC to have one day to
+sit the new body after the end of the [IGM]. And I am sure that,
+hopefully, those requests for budget will not be needed in the
+future because it will be embedded in the organization of the C
+meeting. Thank you.
+
+ALAN GREENBERG:
+
+Heidi, this was the meeting at the beginning, was it not? Yeah,
+this in fact is not the seating meeting at the end, but extra
+facilities for the first day of our working session, just for the
+
+Page 13 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+record. Let’s go ahead. We’re not going to debate this right now.
+It makes little sense to us, but go ahead.
+
+ROBERT HOGGARTH:
+
+Thank you. Ariel, next on the list?
+The second is “ALAC Development Session at ICANN 57 Second
+Pilot Activity.” This request was also approved. As Alan noted,
+the previous request was for the meeting at the beginning of the
+sessions. This was for the meeting at the end of the meeting. And
+this is to cover Meeting C, which is the next meeting in
+Hyderabad, in FY17.
+
+ALAN GREENBERG:
+
+Just for the new people here, Meeting C is when we tend to have
+a large number of new ALAC members seated who many not
+have a history. And this is an integration meeting, to try to get
+everyone up to speed, to get the new group working together as
+a team. Because in many cases, there may be a significant
+number of new people in the group. Thank you.
+
+ROBERT HOGGARTH:
+
+Thank you. Next, Ariel.
+The next item is the request for real-time captioning of Adobe
+Connect meetings in English, Spanish, and French. This is the
+
+Page 14 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+continuation of an existing pilot effort in FY16 to test the
+capability to provide real-time captioning for a variety of
+reasons for people who have accessibility issues or the ability for
+certain languages. Ultimately, the idea is that it is more effective
+and efficient, from an ICANN perspective, to be able to provide
+transcripts through this different service provider.
+The hope and expectation – and I’ll let some of the requestors
+supplement my comments if necessary – to essentially give
+more opportunities so that we can more effectively manage the
+service. And this was a pilot that started in FY16, seemed to be
+going well. And so the capability was provided for the next fiscal
+year, basically to provide a nice six to seven months, in close to
+total of 15 telephone calls, for this pilot effort. I think at the end
+of the process, the expectation is that you all, as a community,
+will say, “This works and this is great,” or that paying less for a
+more real-time service might not be effective. But I think, based
+upon some of the initial feedback, it seemed to be working. And
+so this request was approved.
+
+ALAN GREENBERG:
+
+Page 15 of 56
+
+Tijani?
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+TIJANI BEN JEMAA:
+
+EN
+
+Thank you. So the captioning will be for the three languages?
+Because the pilot was only for English.
+
+ROBERT HOGGARTH:
+
+The pilot is continuing. So the pilot is remaining in English, to
+see if that works. Ultimately, again, if the decision is, or the
+assessment is that it is working, then it provides the road to be
+able to do it in other languages, as well.
+
+JUDITH HELLERSTEIN:
+
+Yes, so my question is, if we were not going to go to expand to
+French and Spanish, then my question is, why was only two
+additional months being granted? Because then we have the
+whole fiscal year to wait for another chance, because a decision
+is not going to be made during this year to extend it. It will be for
+the next fiscal year. But what about the rest of this fiscal year?
+And curious of why they chose two months and not three
+months or longer.
+
+ROBERT HOGGARTH:
+
+I believe the explanation does say three months. And if you take
+those three months, it takes you into the fall, which is the timing
+for the next fiscal year, for FY18.
+
+Page 16 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+JUDITH HELLERSTEIN:
+
+That’s only six calls.
+
+ROBERT HOGGARTH:
+
+I’m reading an additional three months, six conference calls.
+
+JUDITH HELLERSTEIN:
+
+Yeah, but the current pilot was three months, with three calls
+each month, for a total of nine calls. And this is basically six calls.
+So it’s the equivalent of two months for what we had three
+months.
+
+ROBERT HOGGARTH:
+
+I don’t know if in this fiscal year you utilized all of the nine.
+
+JUDITH HELLERSTEIN:
+
+We did. We did.
+
+ROBERT HOGGARTH:
+
+Okay. All right.
+
+ALAN GREENBERG:
+
+As Rob said, he wasn’t the one who necessarily made all the
+decisions. So we’re trying to give a quick overview. We didn’t get
+everything we wanted. We didn’t get a lot. So we’re just trying to
+
+Page 17 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+review it right now, not debate whether we were treated fairly or
+not.
+
+JUDITH HELLERSTEIN:
+
+I’m not saying that.
+
+ROBERT HOGGARTH:
+
+Thank you both. Let’s go to the next one, Ariel.
+This next request was more of a process request, I think, than a
+specific resource request. You all asked for discretion to use
+allocated travel slots to support your volunteer leaders. And the
+recognition was that you do have that discretion and can
+proceed in that regard.
+
+ALAN GREENBERG:
+
+I’m supposed to make a point that it was actually used already
+for this meeting, even though this was not the fiscal year. I will
+take the opportunity, without being prompted, to note that
+there were three requests in this budget request which weren’t
+really budget requests. They may have had dollars associated
+with them, but they were all issues that the ALAC had been
+asking for, demanding, begging, crying for and were ignored,
+some of them not requiring any money whatsoever. And the
+fiscal year budget process seemed to be a way to catch senior
+
+Page 18 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+management’s attention, and it did. That, to me, says we have
+something broken in our organizational structure, if we have to
+use a fiscal year budget to catch someone’s attention because
+no one is listening to us. But this was one of those. Thank you.
+By the way, the wording in the result is not quite what we asked
+for, at least what I read when it was announced. And we will talk
+about that further, but not right now.
+
+ROBERT HOGGARTH:
+
+Thank you, sir. You can go to the next one.
+This next item was a request from the RALOs to fund local
+engagement activities. And the specifics, from a process
+standpoint, I think made approval, as submitted, not possible.
+The request asked for the dollars to be made available without
+condition. At least that was the interpretation of the request.
+There was a recognition that expanding support to a local level
+was indeed a good thing, and certainly worth testing and trying
+to figure out, on a pilot basis, whether that could be managed
+effectively.
+Basically, the decision, as provided, basically said, “Let’s give
+some additional resources to the regional teams of ICANN and
+provide the opportunity for collaboration and interaction to
+take place at that level.” I think that this is a common theme
+
+Page 19 of 56
+
+EN
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+that we’ve seen through a number of requests over the years,
+where ICANN, or the advice that ICANN has received from our
+legal and financial teams, is that grants of dollars are simply not
+possible, because there’s not the process for being able to
+review them. That may change in the future, but that’s the
+current process that we’re operating under now.
+And so resources, on a nominal basis, were essentially provided
+for the availability of the regional teams. And I think that the
+practical impact of this decision is that individual groups,
+particularly on the RALO level who are interested in taking
+advantage of more localized activities, should reach out to their
+regional teams as part of their overall collaboration, to continue
+the good partnerships that have been developing and that we
+hope will continue to develop and mature, and use that as a
+base
+
+moving
+
+forward,
+
+opening
+
+up
+
+further
+
+lines
+
+of
+
+communication, understanding that there are now nominal
+funds that may be available for particular projects. So that’s
+something that we hope can be worked out over time. We’ve
+seen that in the past with a number of other activities and
+requests with other communities that seemed to have worked,
+with the idea of creating more dialogue. So that’s the resolution
+of that item.
+That’s my pause. We can go to the next one.
+
+Page 20 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+The next item is, I believe, one in the category that Alan just
+referred to of an item that didn’t reflect a specific dollar amount,
+but reflected a concern of your community about lack of
+movement in a particular area. This one had to do with bugs
+regarding ICANN’s machine translation tool. I think this request,
+from what I observed, immediately prompted dialogue with
+operational staff. I can’t comment, because I simply don’t know
+where the status of that is or what that prompted, in terms of
+success. But I understand that there is now dialogue and
+conversation about improving something that could be a really
+useful tool that apparently, to date, just hasn’t proven to be
+effective.
+
+ALAN GREENBERG:
+
+For context, for those who haven’t been involved in it, for our
+Latin America/Caribbean region, where the two predominant
+languages are English and Spanish, we have two mailing lists, an
+English and Spanish list. And any message to any one of the lists
+would be automatically translated to the other language and
+posted. The mechanism that was used resulted in close to
+unreadable messages, often misleading, and subject lines that
+were so filled with brackets and punctuation that they had no
+content whatsoever. And since many of us decide whether to
+read a message based on the subject, that was futile. And it’s
+gone up and down, but basically we’ve been using that since
+
+Page 21 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+2008. And we were just a bit frustrated, going into our eighth
+year. We considered waiting for our tenth birthday of the
+problem and decided not to wait.
+Dev, what’s the current status?
+
+DEV ANAND TEELUCKSINGH: Frustrated. Obviously, very frustrated, as someone from the
+region. So what has happened is that ICANN’s IT, there’s a new
+community services manager for IT Services. So that person,
+they have now gone out and tried to developer to help, to be
+hired, to actually fix the remaining bugs. To date, that developer
+has yet to be found. But the fact that it’s now been formally
+recognized and they need to now get a dedicated person to
+really work on the issue, thank goodness it’s happening.
+
+ALAN GREENBERG:
+
+Given the focus within ICANN of perhaps needing to work for
+other working groups in areas in multiple languages, I think the
+community might be served well. So we have hopes.
+Rob?
+
+ROBERT HOGGARTH:
+
+Page 22 of 56
+
+Thank you, sir. Ariel, next one, please. Oh, I’m sorry, Vanda.
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+ALAN GREENBERG:
+
+Vanda, please.
+
+VANDA SCARTEZINI:
+
+Yeah, the problem of this translation in LAC region, generates a
+lot of misunderstandings among people and generates a lot of
+problems for the community. And for instance, especially for
+Brazil, there is [not] both language, but they can read one or
+another. But some of them has more difficulties in English, so
+they try to get the Spanish. But the Spanish, it’s impossible to
+read when it comes from English, and it’s completely out of
+sense. So most of the time, I need to translate myself and send
+to my friends, because that’s the only way to make them
+participate, or they will never understand what is going on. So
+it’s something that needs to be fixed. Thank you.
+
+ROBERT HOGGARTH:
+
+Thank you. Ariel, can we move to the next one? I was having her
+slide it over. Thank you. For those note paying attention up here,
+I’m getting cues from my fellow staff, so I appreciate your
+patience with my pauses.
+This item, the next one is the RALO developmental session at
+ICANN 57, noted as a second pilot activity. This was also
+approved with a notation that, from a resource perspective, we
+needed to use staff facilitation capabilities. This is also going to
+
+Page 23 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+take place at Meeting C. And I hope there will be additional
+learning from this.
+I think a number of you will observe that a lot of the requests
+seem to be focused on the Meeting C. So that will be a real
+milestone or a set of benchmarks for learning, I think, for a
+number of these activities.
+
+ALAN GREENBERG:
+
+You’ll recall earlier, there was a similar session for ALAC, where I
+said that was a session to try to bring the group together,
+perhaps with many new members, to work as a single unit. This
+is a comparable session, but parallel to it, for the RALO leaders.
+
+ROBERT HOGGARTH:
+
+Thank you, Alan. And you all did a good job this year of being
+able to explain those and the differences between each one, as
+well as being very helpful in terms of sharing what day, what
+timing, and things like that. So that was very helpful. Thank you.
+Ariel, the next one, please?
+AFRALO General Assembly and capacity building, this is one of
+three. And I’d like to discuss them collectively, if I can. I believe,
+timing-wise, for this year, we received three General Assembly
+requests, from AFRALO, LACRALO, and NARALO. As in past years,
+
+Page 24 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+one of the concerns we have, from a staff perspective, was not
+only the ability to staff it – and of course, Heidi and her team are
+very confident in that capability – but also the challenges it
+presents from a budget perspective.
+I believe, when you read the grant requests, the staff and Board
+did something similar to you guys that we did in FY16. It was,
+“Well, there’s three requests. We can only do two. So you guys
+pick.” But I think what we’ve been able to do, through a number
+of staff discussions, between the Board approval or action on
+these requests at the end of April and today, is to work through
+the capabilities of being able to give you the option to address
+all three.
+This is something that Heidi may want to talk with you all in
+more detail with as you begin the planning. But it does appear
+that we’ll have the flexibility, through some novel work and
+some really hard conversations, to be able to give you all the
+option to do three Assemblies this year. I’ll leave you guys for
+further discussions, in terms of what the process and the details
+of that might be.
+Heidi, did I do an appropriate job of explaining that? For the
+record, I got a thumbs-up, so.
+
+Page 25 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+ALAN GREENBERG:
+
+EN
+
+I’ll point out, we did have a fallback if you had not managed to
+do that. And that was we happen to have a meeting in
+Johannesburg in June, correct, where we would like to hold the
+General Assembly. If the General Assembly had not been funded,
+we were then going to ask to, if you are likely to fund it in fiscal
+year ’18, can we use the money a month early? You won’t get the
+bills until July anyway. But luckily, it looks like we’re not going
+to have to ask that. Thank you.
+
+ROBERT HOGGARTH:
+
+That would be another uncomfortable conversation, I believe.
+
+ALAN GREENBERG:
+
+We really like pushing the envelope.
+
+ROBERT HOGGARTH:
+
+For the record, all I’m doing is smiling. I’m not responding to
+that.
+But in terms of just –
+
+ALAN GREENBERG:
+
+Page 26 of 56
+
+He’s a wise man.
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+ROBERT HOGGARTH:
+
+EN
+
+In terms of just a general observation, and I think it’s important
+to share this with all of you, from a Regional At-Large
+Organization perspective, there’s great appreciation, I think, on
+the staff and Board level, and I hope within your own
+communities, about how you are all being very creative in your
+approaches, in how you manage the resources that are made
+available, the novel ways that you approach these, and the spirit
+of “can do.” And so I just wanted to share that perspective.
+Ariel, can we go to the next one, please?
+The next one is entitled “AFRALO Workshop at the 2016 IGF.” And
+again, I’m going to group this request in with a number of
+others, noting that this one received a no/yes, and just share
+with you the overall approach on this item and a number of
+others, because I notice there are seven minutes left on my
+agenda and we’d never get through all. But I think this is an
+important overview, if you will, in terms of some of the
+considerations and feedback we were getting on a number of
+these requests.
+The number one, or first, aspect of this is that IGF is an
+important community event overall for the Internet community.
+From an ICANN perspective, there are many different pieces that
+go into participating in an IGF. The IGF represents perhaps an
+exception to something, if it has not been specifically noted, but
+
+Page 27 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+generally recognized and may be observed somewhat as a
+tradition within ICANN resources, is a general reluctance to fund
+participation in third-party meetings. The idea is that the
+resources are available in the ICANN budget to participate in
+ICANN events and not additional events within the general I-star
+community or Internet community.
+The IGF represents somewhat of an exception to that. And so I
+think our colleagues who are responsible for that area of the
+operations looks upon these requests with good spirit and
+goodwill, and looks to see where there are impacts that are
+being made, trying to get an assessment as to what works, what
+can work better in the future.
+Excuse me. And so in that realm, you’ll see a number of requests
+that were made this year that were for third-party meetings. And
+a number of those could not be granted within the bounds of
+this program. But a number of those, where those requests were
+not approved, were where it seemed as if there was some
+encouragement that was made, even though no funds or
+resources were made available. There was also the additional
+comment that says, “Please coordinate or reach out to,” I think
+the terms was, “GSE.” But you know them as the regional teams.
+Those are the people who are on the ground. Those are people
+who, from a staff perspective, are already collaborating with you
+all on some level, who are looking to increase that collaboration.
+
+Page 28 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+And so there is encouragement for all the requests, as a followup, to say, “Please reach out to your regional teams to see how
+some of these ideas might be accomplished.” Maybe not though
+the funds from the special budget request themselves, but
+through other, in kind contributions or help or work or
+partnerships. So I wanted to share that overall perspective on
+third-party meetings and the IGF.
+There’s a sub-component though, when we talk about some of
+the IGF grants. And this is again something that’s developed or
+evolved over time with respect to IGF requests. There are always
+a couple of conditions that go with ICANN approval for primarily
+these workshops at IGF meetings. The first is that ICANN staff
+can’t judge whether your session is something that’s going to be
+of value to the IGF. It’s a third-party meeting.
+And so, first off, those approvals, if you will, are conditioned
+upon approval by the MAG of those sessions. Generally, the
+support that’s provided by ICANN is in the form of travel support.
+And from a budget perspective – and this is hard sometimes for
+people to appreciate – essentially what happens every year is
+that the ICANN finance team, in partnership with the travel team
+– thanks very much – basically looks at what certain trips will
+cost, from a budgeting perspective. And so they’ll say, “What
+does a three-day trip in a local region cost? What does it look like
+a trip to an ICANN meeting will cost?” Because from a budget
+
+Page 29 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+perspective, you can’t sit down and just come up with multiple
+different numbers. And so it will just be a set number.
+For this year, there was a number set aside for travel to the IGF.
+And so some of you may see numbers associated with some of
+these requests. What you should know though is that again,
+from a capability perspective, where there has been approval for
+pursuing a workshop at the IGF, the number of travelers is
+identified and resources are provided to cover the travel for
+those individuals.
+I don’t want to pick on the AFRALO in particular, but as an
+example, in the case of this request, there was a recognition that
+the workshop would be a good idea and capability was granted.
+If you can scroll up, Ariel, I can see how many people were
+supported here too. Tijani and Aziz were already aware of that.
+And so that’s what was approve in this case.
+Now, this request included an additional component that was
+not approved, which was the outreach component. Now, this
+reflects another, I think, common theme, in terms of the
+consideration of these requests. And you’ll see this, if you’ve
+looked over the last couple of years, in terms of how they’ve
+been assessed. And in general, the recommendations that
+ultimately went to the board provided some capabilities where
+the IGF is in the region of the RALO that’s requesting it. And there
+
+Page 30 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+was reluctance or inability this fiscal year, again, to extend that
+support to provision of support outside of the region where the
+IGF is occurring.
+Now, you’ll see in some of the requests, there is some flexibility
+provided because there’s a recognition that some of this can be
+tested or should be looked at for the future. And an additional
+component this year that you all should be aware of is an
+expectation that anyone who is participating in the IGF for this
+particular activity for a workshop or the rest, a report is going to
+need to be filed within 30 days after you get back from the trip,
+which shares information about the trip.
+One of the things that we hope we’ll see in the future,
+particularly for a request like this, because I guess that there is
+some reluctance because of lack of evidence – there is a
+perception from some who say, “Well, AFRALO going to Mexico,
+you’re not going to have people there to reach out to. So why
+would you do an outreach event?” Well, what we hope, through
+some of these reports, to see is that some of you may come back
+and say, “Well, actually, the IGF is an international event, and we
+do have people from Africa who go there. And this last year, we
+had 20,” or, “We had 30 from the AP region.” And so over time, if
+we can build that record or evidence, if you will, then maybe
+that opens up the possibility for folks to be more open to that,
+from a resource perspective. So that’s the other aspect. And I
+
+Page 31 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+think that covers probably about five or six of these requests as
+well. So as we go down the list, we can probably skip.
+I’ll pause.
+
+ALAN GREENBERG:
+
+First of all, I’m sensitive that we’re just about out of time, and we
+do have a session on the CCWG Accountability that we do have
+to get to. But I’ll make one very quick comment.
+It wasn’t very many years ago that the only people who ICANN
+funded to go to these kind of meetings were ICANN staff and
+Board members. And ICANN staff and Board members are not all
+of ICANN, and it is really welcome to see the kind of funding
+we’re getting. We’re not getting enough, of course, but it’s really
+welcome to see that there’s a recognition that ICANN is not
+made up just of staff, Board members, and of course registries
+who can afford to go on their own money. So thank you.
+
+ROBERT HOGGARTH:
+
+Thank you. As I said before, I’m just the representative.
+
+ALAN GREENBERG:
+
+Pass it on.
+
+Page 32 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+ROBERT HOGGARTH:
+
+EN
+
+I will. I will do so. Thank you.
+I want to take a cue from you, Alan, in terms of time. If I only
+have a few limited minutes, what I’d like to do is touch on one
+other, and then perhaps we can have individual discussions if we
+haven’t gotten to a particular proposal that someone has
+questions about. What’s your preference?
+
+ALAN GREENBERG:
+
+As I said, we really have to get to the CCWG discussion. So I
+would take five more minutes and use it however you wish. And
+we may have some extra slots later in the week, and we can
+bring you back if indeed they stay open.
+
+ROBERT HOGGARTH:
+
+I always enjoy participating in joining all of you, so I’d welcome
+additional agenda time, if it ever becomes available.
+What I’d like to talk about just for a couple minutes then as a
+wrap up is to explain to you all another feature of the special
+budget request program again this year. And that is, in addition
+to the individual requests, what happens is many of them can be
+similar or they fall under a common them. They’re not just
+coming from the At-Large community. They’re coming from
+other communities within ICANN.
+
+Page 33 of 56
+
+EN
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+What staff tries to do, in developing recommendations and
+assessing the requests, is to see, is there a way, from a
+management perspective, resource perspective, to be able to
+provide resources that may not be as personalized, but in a
+program sort of way. Again, this year we’ve been able to do that.
+The largest piece of it, I think, is once again being able to share
+the capability of CROPP, the Community Regional Outreach
+Program, again.
+For budget reasons and planning reasons, there are still two Ps
+in CROPP, the first P being “Pilot,” because that is to reflect the
+flexible nature of this resource. It’s something that you all seem
+to have operationalized in a very effective way within the AtLarge community, particularly the ALAC and RALOs and your
+collaboration. But other communities still haven’t achieved that.
+So we’ve continued the pilot program, continued the capability
+for another year. I appreciate the patience of some of you as we
+get the new site up and operating so that we can do that
+effectively.
+The other big area is in the area of publication support and
+content support. The special budget request isn’t just solely for
+individual
+
+stakeholder
+
+groups
+
+or
+
+Regional
+
+At-Large
+
+Organizations. It’s for the Supporting Organizations and
+Advisory Committees as well. And once again, this year there will
+be fund available for your publications, for helping with different
+
+Page 34 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+content production and the rest. It’s something that people will
+continue to ask for.
+And then just in closing, just the one final theme I’d like to
+reinforce, we touched on it a little bit earlier. From a staff
+perspective, as Göran has come on board, we’ve received great
+comfort, in terms of being able to continue a number of the
+programs that we’ve been involved, and I think a renewed
+emphasis in collaboration between the ICANN staff and all of
+you, as community leaders and community members. And I’m
+hopeful that we can continue that.
+What I’d hope, Alan, is going forward, particularly as already
+we’re beginning to think about FY18 planning, is perhaps some
+opportunities for dialogue in the Hyderabad time frame so that
+we can be talking about some of the plans and expectations that
+many of you have. Again, as Alan noted, we’ve made some
+progress. We continue to make progress every year. But if there
+are ways to speed that up, move things a little bit more quickly,
+so you don’t have to wait a year and then another year for things
+to move incrementally, we’d definitely like to explore that with
+you. And collaborating in the budget process, collaborating with
+your regional teams, and deepening those relationship, I think,
+are ways that we’re going to be able to move more quickly and
+make more changes.
+
+Page 35 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+Thank you again very much for the time. I always appreciate the
+opportunity to be here, even if it’s just sitting in the back of the
+room. So thanks very much.
+
+ALAN GREENBERG:
+
+Thank you, Rob. This will be followed up by a Finance and
+Budget Subcommittee meeting, which will be going over some
+of these in somewhat more detail. Those meetings are, of
+course, open. And once they’re announced, anyone else who
+would like to attend is welcome to participate. So there will be
+follow-up via teleconference on that. And that’s a really
+important thing.
+The other thing to mention, which some of you may be aware of
+and some not, are that Rob earlier talked about the General
+Assemblies. As you may be aware, there were a number of
+General Assemblies held when RALOs were formed, in the 2006’08 time frame. In 2009, we held a summit in Mexico City, with
+representatives of all ALSes. In the next few years, we held
+General Assemblies for each of the regions, one by one when we
+were in the appropriate region. 2014, we held a summit in
+London. And we have held one General Assembly since. And you
+see we’re going to be funded for a number more.
+Every time we have done that, we have had to make the case
+about why it was important to have a General Assembly or a
+
+Page 36 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+summit. The General Assemblies, since we’ve had this program,
+which they started before this program, was done through the
+program. The summit was expensive enough that it would have
+used up the whole AC/SO budget, so clearly could not be done
+through this process. So each time we funded one of those, we
+funded it by going to the Board and said, “Surprise, we’d like a
+half a million dollars,” or something, and they were approved.
+We have now put together a proposal to plan for, and ultimately
+budget, these regular pattern of General Assemblies on a regular
+basis and a summit every five years. The Board has approved it.
+It is now part of the formal ICANN Operational Plan. So although
+we still have to make budget requests on a regular basis for
+these things, we don’t have to justify the existence of them. And
+that is a vote of support for ALAC and At-Large that is really
+important. And I just wanted to note it for the people here.
+I see, Tijani, you want to make a quick comment.
+
+TIJANI BEN JEMAA:
+
+Very quick. Speaking about the CROPP, Rob, you know that, we
+spoke about this several times, the CROPP is funding people to
+have one working day, only one, only one working day and two
+nights, because you have one day for traveling, one working day,
+and one day for traveling. So it is only one working day. This is
+something that, personally, I am always paying from my pocket
+
+Page 37 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+the remaining days. I think this has to be fixed. I don’t say that
+we have to increase the number of days. It must be dynamic,
+according to what you will do there. And it should be assessed
+so that we know if it is really a good thing to do or not. Thank
+you.
+
+ROBERT HOGGARTH:
+
+Thank you very much, Tijani. I spoke earlier about the evolution
+of the program. You may recall that from the first year to the
+second, the innovation, if you will, was to provide the
+conference fees that weren’t initially provided. Somewhere in
+there, whether it was between the second and third year, and
+midyear at one point, we expanded to include the fees for visas,
+up to the number consistent with the ICANN Travel Guidelines.
+I’m pleased to report that, going into this coming year, we’ve got
+the flexibility to be able to expand that three days, two nights to
+a longer period, to at least four days and three nights. So we’ve
+got more flexibility in FY17. And that was a direct result of the
+feedback from you and others about the challenges that it
+presented. It’s challenging to do that, but I think it’s a
+recognition that we are learning collectively, going forward, as
+to what works, what makes it most effective.
+
+Page 38 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+ALAN GREENBERG:
+
+EN
+
+The program was originally designed really for outreach, to go
+somewhere and tell them about what we’re doing. The reality is,
+in many cases, this kind of outreach is done at conferences, and
+it’s really, really foolish to send someone a relatively far
+distance, to a conference which will be useful to them and to us,
+and then say, “You can only be there for one day.” So thank you
+for the flexibility. Thank you for being here.
+Is Leon in the house?
+
+JUDITH HELLERSTEIN:
+
+Leon was in the house. He had to go.
+
+UNIDENTIFIED FEMALE:
+
+He will be back in one moment.
+
+ALAN GREENBERG:
+
+He will be back in one moment. All right. Let me introduce the
+subject before our expert gets here. The overall subject is the
+CCWG, the Cross Community Working Group, on Accountability.
+As any of you been following this at all for the last year or so, this
+group was created as an adjunct to the IANA transition. The
+concept of the IANA transition, where the NTIA may conceivably
+transfer the stewardship of the IANA functions to ICANN, the
+RIRs, and the IETF was that if the NTIA was not going to be
+
+Page 39 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+overseeing it and ICANN – there was some question about how
+accountable ICANN were to be, due to long history we won’t go
+into, that ICANN had to do some work on its own accountability.
+And this group was put together.
+The result was we have a new set of Bylaws that have been
+passed, conditional on the transition happening. We of course
+cannot predict whether the US government will actually do the
+transition this year or not. But if it does, then we have a new set
+of Bylaws which, among other things, make the Board
+answerable to the community in a whole bunch of ways.
+The CCWG Accountability did the work that was necessary for
+the transition, but there were other parts, other aspects of its
+work, which was deemed important but not necessary for the
+transition. And those were put into what was generically called
+Work Stream 2, the original work being Work Stream 1. There are
+a number of different topics that will be covered in Work Stream
+2, and we do have a slide of it somewhere, which will be put up
+very shortly, as we are speaking. Or not. Work Stream 2 topics, if
+we could? I know there’s a pretty slide with listing them. It will
+come up in a minute. The work is just about to kick off. And we
+are populating working groups to look at each of these topics.
+Sorry, is there some confusion?
+
+Page 40 of 56
+
+EN
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+The work is just about to kick off. There was a CCWG meeting on
+Sunday, which reviewed these topics. And we are convening
+small groups, with people who have an interest in each of the
+topics. We are still soliciting members and participants, the
+difference being – I’m sorry. Members and observers for these
+working groups. The members are the ones who are committing
+to do some work. Observers will simply be subscribed to the
+mailing list and can obviously listen in on the teleconferences,
+but are not committing to do work. You can sign up for any of
+them in either capacity. If, when we see the subjects in a
+moment, any of them are of interest, we strongly recommend
+that you sign up. You should also make sure you’re subscribed to
+the general CCWG list so that when – these subjects will all be
+discussed by the small groups, recommendations made, which
+will then go back to the CCWG for final decisions and
+recommendations to the ICANN Board.
+So the subjects include things like human rights and what is
+their implication within ICANN, staff accountability. We now
+have processes by which the Board can be held accountable.
+What about staff? What does that mean. Transparency, how well
+can you get information about what goes on within ICANN? And
+simply getting dumps of data does not mean information. How
+accurate is the information? How easy is it to find what you’re
+looking
+
+Page 41 of 56
+
+for?
+
+And
+
+this
+
+goes
+
+from
+
+the
+
+mundane
+
+to
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+john.smith@icann.org, what department do they work for? But it
+also goes on to the far more substantive than that.
+Does anyone else remember any of the other topics, which have
+slipped my mind right now?
+Leon. We have Leon here. Go ahead.
+
+LEON SANCHEZ:
+
+Well, the nine topics that are going to be subject for Work
+Stream 2 are diversity, human rights, jurisdiction, SO and AC
+accountability, the role of the ombudsman, transparency, staff
+accountability, the Guidelines for Standards of Conduct
+presumed to be in good faith, associated with exercising
+removal of individual ICANN Board directors, and reviewing the
+CEP. So those are the topics that are open for Work Stream 2.
+And as Alan was saying, we’re still open for those who want to
+volunteer, either as participants or as observers. There is not a
+deadline to sign up, but the sooner you sign up, the better
+because you’ll catch the work from the beginning and it’ll be
+easier for you to actually contribute to this effort.
+So yesterday we had a day-long meeting. I’m not sure if you
+have already said this.
+
+Page 42 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+ALAN GREENBERG:
+
+I said we had a day-long meeting. No more about it.
+
+LEON SANCHEZ:
+
+Okay. We had a day-long meeting. And basically, what we did
+yesterday was to brainstorm on some of these nine topics. As
+you can of course see, those topics with the most activity were
+diversity, human rights, jurisdiction, and transparency. So these
+are, I believe, issues that go deep into what the At-Large
+community’s mission is within ICANN. So as I said, the more
+volunteers we can get to sign up to help us in this process, the
+better.
+So I’ll turn back to you, Alan.
+
+ALAN GREENBERG:
+
+Thank you. The ALAC, in many ways, is very good at generating
+statements and comments when things go for public comment.
+We are not as good in actively participating in framing the
+outcomes of these discussions. We have been very, very active in
+the CWG IANA transition and in the Accountability CCWG. And as
+a result, both of those end products, I think I can say with some
+level of assurance, are very different than they might have been
+if At-Large was not present in those meetings. I think that’s a
+good thing. I think it’s something we need to continue, going
+forward.
+
+Page 43 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+The other activities, be it the Work Stream 2 activities or other
+things that are going on, may not have the same level of flash
+and excitement as these do. But it’s really important. We do
+provide a different perspective from many of the other parts of
+ICANN. We certainly provide a different perspective than many of
+the business community parts of ICANN. And we, quite
+noticeably, provide a very different perspective than many of the
+non-commercial parts of ICANN associated with the GNSO. When
+I say, “different,” often we are directly the opposite.
+So we have really had a major impact, and I want that to
+continue. And you should want that to continue. So look at the
+subject list. Does the previous slide have it in a way that we can
+look at it? I know there was something that was not quite as
+confusing as those spiders. That is the subjects, but broken
+down in excruciating detail such that you can’t actually read it.
+But it’s really cool. Yeah, it is really cool. It’s a mind map, but a
+mind map in a different format than they normally provide it.
+
+LEON SANCHEZ:
+
+Alan, if you want me, I can repeat the list of topics.
+
+ALAN GREENBERG:
+
+Why don’t you repeat them slowly, so people can absorb them?
+If any of them are of interest to you, we can give you the URL for
+
+Page 44 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+the Google Docs, where you can sign up yourself. You’re not
+making a commitment. But think about it. And if you put
+yourself down as a member, please do participate. Don’t just
+listen. Contribute. You will influence the outcome.
+Go ahead.
+
+LEON SANCHEZ:
+
+Cheryl?
+
+CHERYL LANGDON-ORR:
+
+Thank you. Just briefly on that, there is the opportunity to have
+the more active role and the more passive role. And it’s a good
+opportunity for you to do something you’re passionate about,
+something you might be interested in, and something you’ve
+never thought of. And certainly, that’s what the three mentees
+I’m working with have done. So we’ll have six of the nine topics
+covered just amongst those three people.
+
+LEON SANCHEZ:
+
+So the list of topics is the following: diversity, human rights. And
+when I say, “human rights,” from the CCWG perspective is how
+ICANN will respect human rights, within its mission and under
+day-to-day operations. That doesn’t mean that ICANN will be
+human rights police, of course. So if you’re trying to come into
+
+Page 45 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+the group to wave the flag on human rights and how we should
+enforce human rights, that’s not the place to do it. Just a
+warning. Jurisdiction, SO and AC accountability, ombudsman
+and the role of the ombudsman, transparency, the staff
+accountability, the Guidelines for Standards of Conduct
+presumed to be in good faith associated with exercising removal
+of individual ICANN Board of Directors, which will be one of the
+main [access] on the future way that we relate to the Board. As
+you aware, that we have now an empowered community. So the
+empowered community will have to look into these good faith
+standards when it comes to actually having to remove a Board
+member. Then reviewing the CEP, whatever the CEP means.
+What is the CEP? I’m sorry. Does anyone know what the CEP is? I
+don’t recall.
+
+CHERYL LANGDON-ORR:
+
+It’s the specific standards of behavior out of the customer
+system for the IANA customers.
+
+LEON SANCHEZ:
+
+Thank you, Cheryl.
+
+ALAN GREENBERG:
+
+Thank you. One comment. The concept of jurisdiction is a whole
+bunch of things rolled into one. It is, where is ICANN
+
+Page 46 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+incorporated? Where is it headquartered? What laws does it
+work under? What laws does its contracts work under? So
+there’s a whole bunch of different things that are all rolled
+together. It is a highly controversial subject for many people. It’s
+going to be interesting. I’m not sure how productive, but I want
+to watch it.
+I have a whole bunch of hands up, some of whom – you
+withdrew your hand, Vanda?
+
+VANDA SCARTEZINI:
+
+Yeah, because my question was [inaudible] explained.
+
+ALAN GREENBERG:
+
+Okay. Next we have Seun. And again, we are six minutes before.
+So two-minute timer, but please keep it to one minute if you
+can. Seun?
+
+SEUN OJEDEJI:
+
+I just hand up, but I had no idea we would be doing this one-byone. What is the meaning of CEP? Google is not opening.
+My main point which I wanted to make is in relation to going
+forward for At-Large. Just to be clear, are we going to discuss
+that after this? Thank you. That is the point of, how do we
+actually engage people in this WS2, in terms of At-Large level?
+
+Page 47 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+ALAN GREENBERG:
+
+EN
+
+The answer is we will be sending out additional e-mails, as we
+already have, encouraging people. Within your region, the RALO
+leaders and the ALAC members from the region can do
+additional things to the extent you wish. If there’s any demand,
+we will certainly put on webinars. We will put on tutorials. It’s up
+to you to decide what you think will be useful within your region.
+
+SEUN OJEDEJI:
+
+IANA issues, list continues. We are not creating any new lists?
+The same mode of communication or interaction continues. Is
+that the case?
+
+ALAN GREENBERG:
+
+I’m not sure –
+
+SEUN OJEDEJI:
+
+Is there any part of our [inaudible] that is going to be changing?
+Because we have multiple topics right now. Is it going to be
+mentioned in the IANA issue list? Are we going to [inaudible] list,
+etc., etc.?
+
+ALAN GREENBERG:
+
+How we will come to conclusions on keeping people alert, I
+don’t know. We haven’t discussed that yet. It’s certainly a
+
+Page 48 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+discussion that has to be had. It’s not going to happen in this
+session, obviously. And thank you. We’ll try to put that on the
+agenda, if we have a few minutes. Or we’ll carry it over to the
+next ALAC meeting. But in general, the standard methods will
+apply. Whether we use the IANA issues group or something else
+is not clear. I doubt we’re going to form six or eight new groups.
+So we will probably somehow group them together. Perhaps do
+one subject. It’s going to take a while for some of the subjects to
+become really current.
+Your first question was something about CEP.
+
+SEUN OJEDEJI:
+
+CEP.
+
+ALAN GREENBERG:
+
+Okay. We had an answer, and I didn’t quite get it. So let’s take it
+offline. We have it on.
+
+UNIDENTIFIED MALE:
+
+[inaudible]
+
+ALAN GREENBERG:
+
+Oh, sorry, I’m not looking at the Adobe Connect. Okay. Sorry.
+[Bastian]?
+
+Page 49 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+[BASTIAN HOEFLING]:
+
+EN
+
+Thank you, Alan. This is [Bastian Hoefling], from ISOC
+Netherlands. I’m here as part of the on-boarding program. And
+I’m indeed one of the mentees that Cheryl referred to. And I
+happily volunteered for a number of the topics. So maybe a
+question. And if the answer is negative, then maybe a suggestion
+to have a list available, if possible, of who else from the At-Large
+community is actually participating in the different topics.
+Because I’m a newcomer here. So on the expression of interest
+form, here are a lot of names there, but I cannot see exactly who
+is from which constituency or stakeholder group. But it might be
+good, people from ALAC also within the same topics of interest
+can liaise with each other and discuss stuff.
+And then something else, I think you touched upon that, Alan, so
+maybe it’s not a topic to discuss here. But I would also be
+curious to know if I would start work in several of the topics, how
+would I fit? What would I find there? The input I receive or
+feedback that I have, how would I fit that into the At-Large
+community? Thank you.
+
+ALAN GREENBERG:
+
+The last question is the one that Seun asked, and we need to
+come to closure on that. On who belongs to what, I guess a third
+column in that Google Doc would have been nice, but they didn’t
+
+Page 50 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+put one in. So we’re going to have to fake it and go through and
+find names we recognize.
+
+LEON SANCHEZ:
+
+We can fix it. One thing to take into account is that we’re trying
+to preserve the bandwidth and prevent volunteer fatigue. So if
+you want to sign up for different topics, of course you’re free to
+do so. We only ask you to consider that whichever group you
+sign up for, the expectation is that you will be actively
+contributing to it, if you sign up as a member, of course. If you
+sign up as an observer, well, that’s a different history. But just
+keep in mind that whatever you want to sign up to, there’s an
+expectation of contribution.
+
+[BASTIAN HOEFLING]:
+
+Thank you very much. Just to clarify, as a member, I only
+registered for one. I only subscribed to one. But I have to be also
+honest. The prospect of subscribing to the CCWG, the general
+list, it sounds a bit daunting, in terms of what I might receive in
+my inbox coming from that. But we’ll see.
+
+ALAN GREENBERG:
+
+Filter it all out. Sorry, I was being distracted by another query I
+had. Next we have Tim.
+
+Page 51 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+TIM:
+
+EN
+
+Does anyone in this room have a reasonably accurate estimate
+of the time it takes each week, on average, to participate in
+these kinds of committees? Anyone want to hazard a guess or
+relate their experience?
+
+ALAN GREENBERG:
+
+I don’t think the experience from the past ones is relevant. The
+level of work was just different than it’s going to be now. Leon, I
+think there was discussion of how often these work groups
+would meet.
+
+LEON SANCHEZ:
+
+I’m sorry, I didn’t quite get the question.
+
+ALAN GREENBERG:
+
+How many hours a week are we expecting for these various
+topics?
+
+LEON SANCHEZ:
+
+Well, that’s something that’s unforeseeable at this point. It
+depends on your involvement, of course. And it depends on how
+complex the discussion evolves. I would say that if you sign up,
+for example, for the human rights discussion, I anticipate that
+
+Page 52 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+will be a hot topic. So maybe ten to eight hours a week, a little
+bit more. I’m not sure.
+
+ALAN GREENBERG:
+
+Of teleconferences? I hope not.
+
+LEON SANCHEZ:
+
+Teleconferences, no. But if you want to follow, of course, the list
+and you want to actively contribute to it, you want to have
+background on the issue, then eight to ten hours a week might
+be a good number to consider.
+
+ALAN GREENBERG:
+
+Yeah, I suspect on most of them it’s going to be typically
+something like an hour of teleconference a week, maybe two,
+but probably not on most of the topics, and some background
+work. Depending on whether you end up being a rapporteur and
+drafting things, or you’re just participating in the call and then
+quickly do your homework before the next call. So I think it’s
+going to vary heavily, and it will probably vary heavily between
+the topics. So I don’t think we can make a real guarantee. The
+only caveat I can – not caveat. The only thing I can add is you
+can always drop out if it becomes overwhelming.
+
+Page 53 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+EN
+
+[BASTIAN HOEFLING]:
+
+Thank you.
+
+UNIDENTIFIED MALE:
+
+May I?
+
+ALAN GREENBERG:
+
+Sorry, we have Tijani and then Sebastien. I’m trying to triple
+program here.
+
+TIJANI BEN JEMAA:
+
+Thank you, Alan. For the jurisdiction, where ICANN is
+incorporated or where it is based will not be discussed. It is
+something already treated in Work Stream 1. In Work Stream 1,
+we said that the empowered community. It is according to the
+California jurisdiction, so it will stay there. The issue is about the
+jurisdiction that will be used for the contracts, etc., for the
+management, but not regarding the place where ICANN should
+be or the incorporation. Thank you.
+
+ALAN GREENBERG:
+
+That’s a good theory. We’ll see if that plays out or not.
+Sebastien?
+
+Page 54 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+SEBASTIEN BACHOLLET:
+
+EN
+
+Yeah, just to add about the answer the question about [times], if
+you look to the Google Docs, it’s written at the beginning the
+ways to volunteer. And for the active participants, it’s expected
+to spend at least three to five hour per week on sub-group work.
+Thank you.
+
+ALAN GREENBERG:
+
+Anyone else? I think we are done.
+The next session is we have the cross-community session on
+Next Generation registration services. That is at 3:00, now, in
+room Hall A. If staff can give directions as to where Hall A is, and
+Gisella has some other comments which she wants to make. Oh,
+she’s just going to tell us where Hall A is.
+
+GISELLA GRUBER:
+
+Your mic. Just for those attending the next session in Hall H, if
+you go all the way to the end of this corridor, right to the other
+side of the building, it will be two flights of stairs up. Or there is a
+lift just left of the stairs. Thank you.
+
+ALAN GREENBERG:
+
+Yes, I thought I effectively adjourned when I turned it over to
+you. We are adjourned.
+
+Page 55 of 56
+
+HELSINKI – At-Large Outreach and Engagement Session PM
+
+GISELLA GRUBER:
+
+EN
+
+Thank you. And just to remind, the cross-community sessions
+are now in Hall A, up on the second level. And for the next AtLarge session, we have the EURALO General Assembly here at
+8:00 AM tomorrow morning, running through to 10:30.
+
+[END OF TRANSCRIPTION]
+
+Page 56 of 56
+
+

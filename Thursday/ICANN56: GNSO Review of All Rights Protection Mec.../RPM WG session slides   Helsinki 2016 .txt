@@ -1,0 +1,623 @@
+GNSO Policy Development Process on Reviewing All
+Rights Protection Mechanisms in All gTLDs:
+Working Group Open Meeting
+ICANN56 | 28 June 2016
+
+Agenda 2 Slide
+1. Welcome and introductions; brief update on the PDP
+2. Review community feedback on scope of Phase One (on RPMs developed
+for the 2012 New gTLD Program):
+•
+
+Modify/delete/add to list of issues/topics on Trademark Clearinghouse (TMCH)
+
+•
+
+Modify/delete/add to list of issues/topics on Sunrise Registration Periods and
+Trademark Claims Notifications
+
+•
+
+Modify/delete/add to list of issues/topics on Uniform Rapid Suspension dispute
+resolution procedure (URS)
+
+•
+
+Next steps - refine and prioritize list of issues/topics?
+
+3. Break
+4. Discussion: Trademark Post-Delegation Dispute Resolution Procedure
+•
+
+Review Providers’ feedback to Working Group questions
+
+•
+
+Additional questions/follow up with Providers
+
+•
+
+Review/refine list of Charter issues/topics
+
+5. Next steps and closing
+
+| 3
+
+Introduction and Brief Update
+
+Snapshot of the RPMs to be reviewed in the two phases of this PDP
+Sunrise Registration Period
+and Trademark Claims
+Notification Services (Phase
+One)
+• Sunrise services provide TM
+holders with advance opportunity
+to register domain names
+corresponding to their marks
+before names are generally
+available to the public
+• The Trademark Claims period
+follows the Sunrise period and
+runs for at least the first 90 days
+in which domain names are
+generally made available
+• TM Claims Notice is sent to a
+potential registrant whose
+domain matches that of a TM
+record in the TMCH
+• TM owner is notified if registrant
+proceeds
+
+Trademark Clearinghouse (Phase
+One)
+• A global database of verified trademark
+information to support rights protection
+processes
+• Benefits of inclusion are access to Sunrise
+Period and Trademark Claims Service
+
+Trademark Post-Delegation
+Dispute Resolution Procedure
+(Phase One)
+• Allows a TM owner to act directly
+against a New gTLD Registry Operator
+whose affirmative conduct supports
+TM infringement at the top or second
+level of its gTLD
+
+Uniform Rapid Suspension
+Dispute Resolution
+Procedure (Phase One)
+• Designed as a complement to
+the UDRP, to provide TM owners
+with a quick and low-cost
+process to suspend domain
+names on the same substantive
+grounds as the UDRP
+• Burden of proof and remedies
+are not the same as UDRP
+
+Uniform Dispute Resolution Policy
+(UDRP) (Phase Two)
+• Created in 1999
+• Provides a uniform, standardized alternative
+dispute resolution procedure to resolve
+disputes concerning who is the rightful holder
+of a registered domain name
+• Applicable to all domains registered in all
+generic top-level domains (gTLDs) – Phase
+One RPMs apply only to gTLDs delegated
+under the 2012 New gTLD Program round
+| 5
+
+Estimated Timeline for Phase One (RPMs developed for 2012 New gTLD Program)
+
+Jun 2016
+
+ICANN56
+
+TMPDDRP
+
+Aug 2016
+
+ICANN57
+
+Jan 2017
+
+TMCH
+
+ICANN58
+Sunrise, TM
+Claims
+
+Apr 2017
+
+ICANN59
+URS
+
+Jul 2017
+
+Oct 2017
+ICANN60
+
+Jan 2018
+
+PREPARE &
+PUBLISH
+PHASE ONE
+REPORT
+
+BEGIN
+PHASE TWO
+(UDRP
+Review)
+
+Notes:
+•
+
+Each RPM is being reviewed consecutively, starting with the TM-PDDRP
+
+•
+
+Initial outreach to all SO/ACs, GNSO Stakeholder Groups & Constituencies began on 28 May 2016
+
+•
+
+Aim to complete Phase One by late/end-2017
+
+| 6
+
+Reviewing Community Feedback on the Scope
+of the PDP
+
+1. The Trademark Clearinghouse (TMCH) (1)
+Current Charter Questions
+1.
+2.
+
+3.
+
+4.
+
+5.
+
+Should further guidance on verification guidelines for
+different categories of marks be considered?
+Is the protection of the TMCH too broad? Is the TMCH
+providing too much protection for those with a trademark
+on a generic or descriptive dictionary word? Should TM+50
+be reversed?
+Are legitimate noncommercial, commercial and individual
+registrants losing legitimate opportunities to register
+domain names in New gTLDs?
+How should the TMCH scope be limited to apply to only
+the categories of goods and services in which the generic
+terms in a trademark are protected?
+Should the TMCH matching rules be expanded, e.g. to
+include plurals, ‘marks contained’ or ‘mark+keyword’,
+and/or common typos of a mark?
+
+Retain/Delete/Modify?
+
+1. The Trademark Clearinghouse (TMCH) (2)
+Current Charter Questions
+6.
+
+Should there be an additional or a different recourse
+mechanism to challenge rejected trademarks?
+7. How quickly can a cancelled trademark be removed from
+the TMCH?
+8. How can TMCH services be much more transparent in
+terms of what is offered pursuant to ICANN contracts and
+policies vs. what is offered to private New gTLD registries
+pursuant to private contracts?
+9. Should there be a review on accessibility to TMCH for
+individuals, private trademark holders and trademark
+agents in developing countries?
+10. How can the TMCH provide education services not only for
+trademark owners, but for the registrants and potential
+registrants who are equally impacted by their services?
+
+Retain/Delete/Modify?
+
+2. Sunrise Registration Periods
+Current Charter Questions
+1. Should the availability of Sunrise registrations only for
+“identical matches” (e.g. without extra generic text) be
+reviewed?
+2. Is the notion of ”premium names” relevant to a review of
+RPMs, and, if so, should it be defined across all gTLDs?
+Should there be a mechanism to challenge whether a
+domain is a ‘premium name’?
+3. Should there be a specific policy about the reservation and
+release of “reserved names” (e.g. modification of Section
+1.3.3 of Specification 1 of the current Registry Agreement)?
+4. Should there be a public, centralized list of all reserved
+trademarks for any given Sunrise period?
+5. Should holders of TMCH-verified trademarks be given first
+refusal once a reserved name is released?
+6. Should Sunrise periods continue to be mandatory? If so,
+should the current requirements apply or should they be
+more uniform, such as a 60-day end-date period?
+7. Whether and how to develop a mechanism by which
+trademark owners can challenge Sunrise pricing practices
+that flout the purpose of Sunrise
+8. Whether more can be done to improve transparency and
+communication about various Sunrise procedures
+
+Retain/Delete/Modify?
+
+3. Trademark Claims Notifications
+Current Charter Questions
+1. Should the Trademark Claims period be extended beyond
+ninety (90) days?
+2. Should the Trademark Claims period continue to apply to all
+new gTLDs?
+3. Should the Abused Domain Name Label service be
+continued?
+4. Does a Trademark Claims period create a potential “chilling
+effect” on genuine registrations, and, if so, how should this
+be addressed?
+5. Is the TMCH and the Sunrise Period allowing key domain
+names to be cherry picked and removed from New gTLDs
+unrelated to those of the categories of goods and services
+of the trademark owner?
+6. What is the effect of the 90-day Trademark Claims process?
+7. Should notices to the trademark owner be sent before the
+domain is registered?
+
+Retain/Delete/Modify?
+
+4. Uniform Rapid Suspension (URS) dispute resolution procedure (1)
+Current Charter Questions
+1. Should the ability for defaulting respondents to file a reply
+for an extended after the default notice, or even after a
+default determination is issued be changed?
+2. Is the URS’ ‘clear and convincing’ standard of proof
+appropriate?
+3. Is there a need to develop express provisions to deal with
+‘repeat offenders’ as well as a definition of what qualifies as
+‘repeat offences’?
+4. Should the URS allow for additional remedies such as a
+perpetual block or other remedy, e.g. transfer or a “right of
+first refusal” to register the domain name in question?
+5. Is the current length of suspension (to the balance of the
+registration period) sufficient?
+6. Is the cost allocation model for the URS appropriate and
+justifiable?
+7. Should there be a “loser pays” model? How can that be
+enforced if the respondent does not respond?
+8. Should the Response Fee applicable to complainants listing
+15 or more disputed domain names by the same registrant
+be eliminated?
+
+Retain/Delete/Modify?
+
+4. Uniform Rapid Suspension (URS) dispute resolution procedure (2)
+Current Charter Questions
+9.
+10.
+11.
+12.
+
+13.
+
+Has ICANN done its job in training registrants in the new
+rights and defenses of the URS?
+Are the expanded defenses of the URS being used and if
+so, how, when, and by whom?
+What sanctions should be allowed for misuse of the URS
+by the trademark owner?
+What evidence is there of problems with the use of the
+English-only requirement of the URS, especially given its
+application to IDN New gTLDs?
+How can the appeals process of the URS be expanded
+and improved?
+
+Retain/Delete/Modify?
+
+Scope of the Working Group Charter
+
+•
+
+What additional questions and/or modifications should be made to
+the list of issues/topics in the Working Group Charter?
+
+| 14
+
+*** COFFEE BREAK ***
+
+| 15
+
+Discussion – the Trademark Post-Delegation
+Dispute Resolution Procedure (TM-PDDRP)
+
+Working Group status update on reviewing the TM-PDDRP
+
+1
+
+Phase One review kicked off
+with TM-PDDRP
+
+4
+
+WG to review Provider
+responses and follow up if
+needed
+
+2
+
+WG sent list of questions
+to all three Providers
+
+5
+
+WG continues to refine and
+add to list of Charter
+questions to be reviewed
+
+3
+
+Providers are:
+• ADNDRC
+• The FORUM
+• WIPO
+
+6
+
+WG aims to complete TMPDDRP review by end-August
+
+| 17
+
+Introduction to the Dispute Resolution Providers
+
+The three current TM-PDDRP Providers:
+•
+Asian Domain Name Dispute Resolution Center (ADNDRC):
+http://www.adndrc.org/mten/index.php
+•
+
+The FORUM: http://www.adrforum.com/Home/HomePage
+
+•
+
+The World Intellectual Property Organization (WIPO):
+http://www.wipo.int/amc/en/index.html
+
+General information on the TM-PDDRP:
+•
+
+https://newgtlds.icann.org/en/program-status/pddrp
+
+| 18
+
+Working Group Questions and Provider Responses (1)
+Question to Provider
+
+Provider Responses
+
+WIPO:
+• High-level	DRP,	non-use	 doesn’t	 mean	it’s	 not	
+needed.	
+• Substantive	reasons	 and	many	procedural	layers:	
+Ø
+
+What are the possible reasons for the
+TM-PDDRP not having been used to
+date?
+
+no willful blindness standard, two-pronged
+affirmative conduct requirement, burden of
+proof, remedies, applicability to registrars,
+ICANN’s role in implementation, failure to
+expressly allow class/joined complaints.
+
+ADNDRC:
+• Burden	of	proof	may	be	difficult	 to	discharge,	
+especially	 for	second	 level	infringements
+• Top-level	infringements	 possibly	 minimized	by	
+existence	of	pre-delegation	objection	 processes,	
+TMCH	and	SDRP
+• Remedies	may	not	be	useful	 for	second	 level	
+infringements
+FORUM:
+• High	substantive	 standards,	particularly	at	the	
+second	 level
+• Procedure	may	not	be	well-known
+• Unspecific	 nature	of	the	remedies.
+
+| 19
+
+Working Group Questions and Provider Responses (2)
+Question to Provider
+
+Provider Responses
+
+WIPO:	Case	filing	fees	support	 case	administration.
+
+Is there an ongoing cost to retain the
+Procedure even if it is not used?
+
+ADNDRC:	Yes	- System	maintenance;	staff	training;	
+business	 development.	
+FORUM:	No.	
+
+| 20
+
+Working Group Questions and Provider Responses (3)
+Question to Provider
+
+Have you received feedback from any
+trademark owners or registry operators
+about potential problems or concerns
+with the Procedure?
+
+Provider Responses
+
+WIPO:	Some	(along	the	lines	 of	the	topics	outlined	 in	
+response	 to	Q1).
+ADNDRC:	No.
+FORUM:	No.
+
+| 21
+
+Working Group Questions and Provider Responses (4)
+Question to Provider
+
+Provider Responses
+
+WIPO:	See	response	 to	Q3.
+
+Have you received any enquiries from
+potential complainants who
+nevertheless did not proceed?
+
+ADNDRC:	Yes,	a	couple	of	enquiries	 regarding	the	
+proceedings	 flow,	case	filing	fee	and	available	
+remedies	but	did	not	hear	further	from	them.
+FORUM:	Very	few	enquiries	 about	the	general	purpose	
+of	the	TM-PDDRP	(what	does	it	do?).	On	a	couple	of	
+occasions,	 parties	who	were	facing	a	potential	loss	 in	a	
+pre-delegation	TMCH	proceeding	enquired	 about	a	
+potential	TM-PDDRP	filing	post-delegation.
+
+| 22
+
+Working Group Questions and Provider Responses (5)
+Question to Provider
+
+Provider Responses
+
+WIPO:	Yes.
+
+Are you operationally ready should a
+complaint be filed?
+
+ADNDRC:	Yes.
+FORUM:	Yes.
+
+| 23
+
+Working Group Questions and Provider Responses (6)
+Question to Provider
+
+Provider Responses
+
+WIPO:	Yes.
+
+Have you selected panelists?
+
+ADNDRC:	Yes.
+FORUM:	Yes.
+
+| 24
+
+Working Group Questions and Provider Responses (7)
+Question to Provider
+
+Should mediation be added to the
+Procedure?
+
+Provider Responses
+WIPO:
+• Difficult	to	positively	 answer	given	the	additional	
+layers	to	the	process	that	were	created.
+• Difficult	to	justify	 if	merely	an	additional	 layer	- but	
+a	mediation	component	 might	be	useful	 if	it	serves	
+to	assist	the	parties	in	considering	 tailored	
+settlement	options	 or	remedies	(or	e.g.,	to	
+supplant	 the	role	of	the	Threshold	 Review	Panel)
+ADNDRC:
+• Could	 be	an	effective	means	of	resolving	disputes	
+in	a	time	and	cost	efficient	manner
+• Note	possible	 adverse	effect	on	panelist’s	
+neutrality	after	having	obtained	confidential	
+information	from	a	party	during	a	fruitless	
+mediation.
+FORUM:
+• Not	recommended	 if	mandatory,	though	an	
+optional	 step	could	be	considered	 (but	note	
+additional	 fees	if	mediation	is	unsuccessful).	
+• Does	not	believe	that	adding	a	mediation	step	will	
+have	a	significant	influence	 on	triggering	filings.
+| 25
+
+Working Group Questions and Provider Responses (8)
+Question to Provider
+
+Provider Responses
+WIPO:
+See	generally	response	 to	Q3;	bear	in	mind	that	the	
+TM-PDDRP	is	part	of	the	“tapestry”	of	protections	
+created	for	the	New	gTLD Program.
+ADNDRC:
+More	concrete	wordings	for	available	remedies,	 e.g.:
+
+Do you have any additional feedback
+about the TM-PDDRP at this stage?
+
+• Amount	of	monetary	damages	or	sanctions	other	 than	
+the	cost	of	proceedings	
+• Actual	direct	actions	by	 the	registry	operator	contrary	
+to	those	required	under	 the	Registry	Agreement	
+
+FORUM:
+• ICANN	Compliance	 has	been	influential	 in	
+controlling	registrars	and	registries:	potential	filer	
+may	not	file	under	TM-PDDRP	- goes	directly	to	
+ICANN	Compliance
+• Although	it	has	not	been	used	so	far,	cannot	be	
+certain	that	it	is	unnecessary
+• Solidifying	 remedies	could	potentially	 trigger	
+filings
+• Example	cases	could	be	helpful	 to	indicate	why	it	
+hasn’t	been	used	 so	far
+
+| 26
+
+Additional Suggestions and Follow Up Questions
+SUGGESTIONS:
+• WG should also seek feedback from panelists/arbitrators, especially those
+who have been trained in the PDDRP or who have extensive experience
+with similar administrative proceedings or arbitration (from ADNDRC and
+WG members)
+• More promotional events can be hosted jointly by ICANN, providers and
+registry operators (from ADNDRC)
+QUESTIONS:
+• Do you have any knowledge of why the potential complainants who
+enquired did not proceed to filing?
+• Looking over the PDDRP, are there any requirements that present
+administrative challenges?
+• Do you believe that the lack of use of the PDDRP results from a lack of
+instances of the abuse it was designed to target, or are there cost or
+evidentiary elements that discourage potential complaints?
+
+| 27
+
+Policy questions for the Working Group in reviewing the TM-PDDRP
+1. Is there a policy-based need to address the goal of the TM-PDDRP?
+2. Is it broad enough to cover abuses that were not anticipated when it was developed?
+Alternatively, do we still need it?
+3. There is an overarching Charter question as to whether the RPMs collectively fulfill the
+objectives for which they were developed. In this context, are there some
+policies/procedures that should be carried across all mechanisms (assuming applicability)
+e.g. costs/fees for the prevailing party? Should the standards be changed to address the full
+range of conduct that may appropriately be sanctioned by this process?
+4. Even if we made no changes to the TM-PDDRP, is there any burden to it remaining available
+for use should an appropriate case arise? Or would changes make it more useful?
+5. Given how much it costs to be a registry operator, is it too easy to bring a TM-PDDRP
+action?
+6. Concerning TMCH/sunrise practices, certain registries charged fees that some considered
+disproportionately high for trademark owners. Is there any relation between the sunrise
+registration fees for trademark owners, in particular registries, to the conduct of the registry
+operator itself that would be relevant to think about in the post-delegation context?
+7. Would adding mediation to the PDDRP be advisable?
+| 28
+
+Next steps for the Working Group
+
+*** THANK YOU ***
+
+| 29
+
+

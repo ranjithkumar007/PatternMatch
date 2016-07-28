@@ -1,0 +1,1301 @@
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+Wednesday, June 29, 2016 – 13:45 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+HENRI KASSEN:
+
+Thank you, Mr. Chair, and good afternoon colleagues. My name
+is Henri Kassen.
+
+I'm co-chairing the operating principles
+
+working group, together with Rajiv Bansal from India.
+Two things. One is probably the effect of the "B" meeting. We
+have been promoted to a day earlier. Normally in the normal
+meetings, it's Thursday afternoons, and then the colleagues
+appear to be very tired of the whole week of meetings, so
+hopefully this one day that we want now will create some more
+discussion.
+And secondly, I have just been able to master all the acronyms in
+ICANN for the past two years, and to my surprise now, with the
+IANA transition, there's new acronyms that came up, one of
+which is like "PTI," which in the region where I come from, that
+stands for Pretoria in South Africa.
+Now, this one seems to be "post-IANA transition" or "posttransition of the IANA," so I am learning to get the hang of all the
+acronyms.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+Well, welcome back from lunch. We will, as the chair said, go
+through -- or deal with the -- with another important aspect or
+another important activity which has also been discussed in
+relation to certain previous presentations.
+I just wanted to check whether Mr. Rajiv has got some
+introductory notes.
+
+RAJIV BANSAL:
+
+No.
+
+HENRI KASSEN:
+
+All right. Thank you very much.
+Can we have the next slide?
+That's the agenda for our brief discussion.
+We have current status, where do we stand, which is a brief
+background or brief indication. Then next steps and the draft
+work plan. And as meetings normally go, there's AOB, but I will
+leave that to the substantive chair of our committee.
+Next slide, please.
+The current status is that at Marrakech, we were -- after the
+terms of reference were approved, we were just requesting the
+secretariat to make a summary for us, a summary report
+
+Page 2 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+outlining three main topics, and at this point I would like to
+wholeheartedly thank the secretariat, Michelle, and the team,
+Tom and Tracy and others, for their hard work in providing the
+up-to-date summaries and the -- and keeping the discussion
+going. Thank you very much. We appreciate that very much.
+The three points is mainly we identified that they are as is
+indicated, three main broad approaches that we need to take.
+Of course the terms of reference indicates or says that we must
+make a comprehensive review of the existing -- with the
+emphasis on "existing" -- operating principles.
+Then out of that, we looked at those three broad work streams.
+One is that there is administrative changes or admin- -- yeah,
+administrative changes required.
+Secondly, there are principle changes required, substantive
+changes required.
+And then thirdly, we noticed that there are operating principles
+that do not need much change or no -- that we do not need any
+change to.
+Can we have the second -- or the next slide, please?
+That is the workflow sort of setup that we want to discuss the
+flowchart.
+
+Page 3 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+While we were doing our groundwork, we were then made
+aware of the important issue of the new -- or the transition
+process. On the -- is it now the right? -- or the left-hand side
+there, we have basically two broad questions.
+One, of course, is that the working group was formed to review
+the existing principles, which does not include any of the
+stewardship transition arrangements.
+We have been -- so that remains a big question on the left-hand
+side.
+We determined that there is changes needed, because of the
+new ICANN bylaws that was adopted, and it impacts on the
+operating principles.
+
+The major impact, of course, is the
+
+empowered community decisional participant arrangements
+that comes out of the IANA transition process.
+We have these two broad work streams. One is that we have -we look at the operating principles for it to be reviewed as a
+source document.
+Then now we have now -- in terms of the progress of the process
+of the transition, we have now received a new set of ICANN
+bylaws that we also have to take account of, and the -- there is
+this -- there is now the question -- I think the big question that
+remains that has now come up is that what happens to the
+
+Page 4 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+incorporation of the ICANN bylaws into the operating principles.
+It will be incorporated -- it needs to be incorporated eventually,
+but the terms of the -- terms of reference of the current
+committee is to look at the existing operating principles, look at
+that and do a comprehensive review of that.
+With the transition arrangements now, we have the other work
+stream that was discussed earlier this morning concerning the
+empowered community, how do we go about that, do we -- do
+we keep it as a separate work stream.
+I noticed that Tom will be assisting us in making a sort of a
+writeup and assessment of what the requirements would be
+under the empowered community arrangements for GAC, and
+then he was asking for a small team that can work with him to
+assist him in doing the writeup or doing the analysis, and I was
+just keeping quiet because I thought maybe at this point I can
+now say that this committee should -- can be that team, but we
+didn't see any members highlighting or showing their
+availability, although I'm sure we are available because it is a
+concern for all of us.
+So this is the chart or the flow, workflow, that we are looking at,
+and I think one of the major questions that possibly the GAC
+needs to give us guideline on now is whether the transitional
+arrangements and the new ICANN bylaws will also form a basis
+
+Page 5 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+document that we will -- that we need to take into consideration
+and then filter into our work plan for the reviewing of the
+existing operating principles.
+I just also wanted to note that there has been some very active
+and extensive intersessional consultations by -- via the email list
+that exists.
+We have about 20 members that is listed as members of the
+working group, and eight of them were very active in the past
+few months.
+Many thanks to them for enhancing and enabling the secretariat
+and the committee to get a better understanding of the views of
+the member states -- or the members as far as certain issues that
+we need to look at.
+So in terms of the workflow chart, then, on the left-hand side,
+with the GAC as -- the GAC plenary would be -- feel that we
+should take the ICANN bylaws that basically provides for the
+empowered community, the decisional participant arrangement
+and so on, to be factored into the current existing review process
+that we have, that the committee have, because our terms of
+reference do not include that, the new arrangements. Or, does
+the GAC feel that maybe we will have to have a separate process
+for that?
+
+Page 6 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+That is possibly one issue that you members -- that the members
+can think about.
+Then in terms of the current review process, the current
+operating principles review arrangements, we have three subapproaches or three approaches.
+As was indicated earlier, there's the one of no change, which
+basically is operating principles that is -- as I say,
+straightforward, but not really, in our setting, but is operating
+principles like Principle 5 that deals with that we cannot act on
+behalf of ICANN, which stays; Principle 22, C/VC -- chair/vice
+chair -- election process; like 29, time limits in meetings and so
+on.
+So those are principles that on the first reading does not really
+need much revision and changes.
+Then you have the second category, which is working group to
+discuss procedural issues, which is -- which deals with principles
+that deals with procedural matters.
+Principle 6, the frequency of meetings once a year; or Principle 7,
+how to call a meeting; and the notice of meetings, Principle 9,
+and so on. So those are procedural issues.
+And our view is also that should we get the green light to factor
+in or filter in the ICANN bylaws changes or the new ICANN bylaws
+
+Page 7 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+provisions, then many of the changes made may be procedural,
+but that is to be seen still.
+Then the third category is where we discuss substantive issues,
+most notorious the operating Principle 15 and 16, voting rights,
+membership, and so on.
+So those are the three broad categories of approach or
+discussion that we will have under the working group action
+plan for the existing operating principles. Of course it goes into
+the working group will then agree, and because of the
+substantive and comprehensive processes and discussions that
+we will have about this, we are actually also thinking of -- apart
+from a -- from the mailing list, any decision on the mailing list
+discussion, we're also thinking of maybe an intersessional faceto-face meeting where we will -- where we can discuss face-toface in terms of the agreement or of the issues that we need to -which we can agree on for submission to GAC for endorsement
+or for further guidance.
+India has indicated advice as co-chair that they are available and
+willing to host such a face-to-face meeting for the group.
+Then, of course, after the agreement at the working level group,
+we will then submit to the -- to the GAC for endorsement and to
+forge consensus on the issues, which then will lead to final draft
+of the operating you principles for final approval by GAC.
+
+Page 8 of 40
+
+EN
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+That is the current process. Of course the parallel one that is
+indicated on the slide basically refers to the IANA transition or
+the stewardship transition or transition process where we have
+to
+
+incorporate
+
+the
+
+issues
+
+concerning
+
+the
+
+empowered
+
+community, issues concerning what GAC's role will be. My senior
+colleague, Mr. Covos (phonetic), has just indicated this
+conflicting situation that we have, being advisory and but also at
+that point take decisions. How will that work? The how and the
+what will have to be discussed, and we'll have to get consensus
+around that.
+Then it will also then lead eventually into sort of a final
+document, a final revision document of the principles for GAC to
+approve eventually.
+So that is the -- That's the flowchart that we have in terms of
+where we are going.
+Can we have the next slide.
+The possible next steps for decision. Yeah, thank you.
+First, the GAC to agree on new protocols, modalities of the
+operating working group in response to ICANN bylaw changes.
+And of course, will the working group continue with revision of
+the existing operating principles?
+
+Page 9 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+In the spirit of our democratic nature, we have a choice there,
+yes or no. Every question has got a yes or no. But I suppose that
+it will not be that (non-English word or phrase), as my colleague
+from Germany will say. But let's look at that.
+Of course the comment is always available, is there to and has
+been tasked to deal with some of the issues.
+So the first bullet is basically talks about, I think, as a relation to
+the empowered community arrangement and some other
+bylaws changes that came as a result of the transition.
+Bullet three, then we agree that the operating principle should
+review the process -- should review process substantive -- and
+substantive issues in parallel. Two slides earlier I showed that
+we have a three category -- approach in terms of three
+categories. The one in where there's no changes foreseen, like
+operating principle five where GAC cannot act on behalf of
+ICANN. So that's the one. Second one is the process or the
+procedural issues, like six, the frequency of meetings, and then
+the substantive issues like membership. That the working group
+develop a list, then, of substantive issues and decide in the order
+to address each one.
+The process issues and those that do not require changes, of
+course we will also -- we will also develop a list of those, agree in
+
+Page 10 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+the working group and then submit to the GAC for endorsement
+or for further guidance.
+Third last bullet, the working group co-chairs to prepare draft
+work plan, including clear process for reaching agreement,
+distribute to working group for agreement. That is now where
+we felt that a possible face to face would be -- would be not
+necessary but would be advisable to flesh out the final work
+plan.
+And then second last bullet, agree on the work plan, and then
+send to the GAC list for endorsement by 1st of September 2016.
+That's about two months before Hyderabad.
+So the -- Because of the need, and I've heard this morning and
+throughout the week that we -- and of course in terms of the
+comments made in the working -- in the mailing list, also, that
+we need to actively start doing and start planning and even, if
+possible, start implementing some of the issues not to be left
+behind. So that's why we are indicating that we can possibly go
+through the GAC list for the endorsement instead of waiting until
+Hyderabad, just to win some time, some more time there. So
+when we get to Hyderabad, we can substantively, then, report
+that we have implemented, you know, point one, two, three, or
+so, on the work plan.
+
+Page 11 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+And then the working group to proceed as agreed in the new
+work plan, yes or no.
+That is the questions that we would want to put in front of the -of the GAC plenary. And we can come back to that. It will
+provide a fruitful source of discussion.
+And then, of course, the last slide would just basically be
+suggestions and discussion and deadlines, one of which is the
+1st of September for the final work plan to be available and to
+be -- to have been circulated to the GAC on the GAC mailing list.
+I think at this point, I would want to ask the co-chair for any
+inputs. That's fine.
+Thank you very much. Should we leave the slide on for a brief
+discussion? And we will then open the floor for discussion.
+Thank you.
+I have just said that the normal GAC meetings, this -- this session
+normally comes after lunch on Thursdays.
+
+Then everybody
+
+thinks about tomorrow going home. Now we have progressed
+to a day before.
+
+We are now at Wednesday, at least, but
+
+theoretically we are a day earlier but practically, we may not be.
+So open for discussion, please.
+
+Page 12 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+Thank you. Any comments will be welcome. Any advice, any
+guidance. Especially as far as the first -- the first or the second
+slide is concerned, how -- the broad approaches in terms of how
+to factor in the transitional -- the ICANN bylaws and transitional
+arrangements concerning the empowered community.
+
+And
+
+then, secondly, the approach, I think, in terms of the deadline
+we have for the work plan, and then the approach that we want
+to use the GAC mailing list for endorsement, which may be a -that's only for the work plan, not for a draft -- for a draft of the -of any operating principle.
+Thank you. Any comments? Inputs?
+Thank you very much. It appears as if you have unwavering trust
+in the committee to continue and to further in the ICANN bylaws
+arrangements as well as the, you know, come with suggestions
+in terms of the work plan how we will deal with the empowered
+community. And then we have one process -- with Tom, of
+course -- one process. Bring both issues together, and then we'll
+produce a work plan and incorporate everything going forward.
+Thank you.
+Back to you, Chair. I don't know. Maybe you can open the
+discussion further.
+Thank you.
+
+Page 13 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+CHAIR SCHNEIDER:
+
+Thank you.
+
+So could you just repeat?
+
+EN
+
+I'm not sure what
+
+everybody has understood. Have we taken now a decision on
+what to do with the potential requirements for amendments
+with the accountability process? Or if you could clarify what you
+just said before.
+
+HENRI KASSEN:
+
+Thank you, Mr. Chair.
+The suggestion from the committee is that we propose one
+process, to continue with one process. If we have the ICANN
+bylaws and the empowered community, we will, of course, have
+to -- to take into account the work that is happening in the
+CCWG, and so on, and so on. But in terms of bringing the issues
+together, in terms of one -- one forum, like the working group,
+bringing the empowered community or the ICANN changes or
+the bylaw changes and the process as far as the -- as far as the
+transition is concerned into the committee -- Remember in the
+beginning, I said our terms of reference that we approved says
+existing operating principles. And the EU -- EC. Is it EC or EU? In
+the mailing list eloquently highlighted that this area is not
+included in the terms of reference.
+
+Page 14 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+But what is included is once we review the operating principles,
+we will have to take account of the ICANN bylaws at the time.
+Now the ICANN bylaws is updated and there's an empowered
+community and a new process which is not yet final, we have
+heard. It's still -- it's still -- The how and so on is still to be
+worked out in terms of the empowered community, the detailed
+processes. But the community itself, it is final, it is decided, it
+will be there. It's just how ICANN, how the GAC will interface.
+How, you know, the decisions in terms of decisional participant,
+what will we -- when there's decisions to be taken, what is the
+procedures that GAC will take concerning that. How -- In terms
+of what operating principles will we act so we can get guidelines
+and so on.
+So as far as that is concerned, Mr. Chairman, the idea of the
+committee is to bring everything together in the operating
+principles committee and proceed, factoring in the issues
+concerning the transition arrangement.
+There is, of course, the danger -- now I'm shooting myself in the
+foot, but there's, of course, the danger that we will be
+proceeding with the operating principles to a point. Then we
+see if one or two of the operating principles has got -- for us -- in
+order for us to complete it, we need direction from the CCWG
+arrangement. And then that one may take a year or may take six
+months, and then we have to park this one and then go to the
+
+Page 15 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+next one so that we can complete our review. But then we have
+to come back to this one, to the one that we have put in
+brackets, so to speak. And that may be a back and forth, back
+and forth, and eventually it will -- the principles -- the principles
+will not get final approval because of this outstanding issue. So - But in terms of the approach, it is our view that it's better to
+bring everything together since we have the Operating Principles
+Working Group, to bring that together in the committee and
+then, of course, I have to get the final approvals.
+And then, of course, the second thing was the issue of using the
+GAC mailing list for endorsement by the 1st of September of our
+action plan, our final agreed action plan by the committee.
+Thank you, Mr. Chair.
+
+CHAIR SCHNEIDER:
+
+I think there are some people who would like to take the floor.
+
+EUROPEAN COMMISSION:
+
+Cristina Monti.
+European Union.
+
+HENRI KASSEN:
+
+Page 16 of 40
+
+(Off microphone).
+
+European Commission, representing the
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EUROPEAN COMMISSION:
+
+EN
+
+Yes, right.
+Just to share some remarks. Yes, in general, I agree with what
+has just been said concerning the approach. It wouldn't make
+sense for the operating working group to look at operating
+principles that are not valid anymore. So, I mean, it wouldn't
+make sense or we need to take into account the new situation,
+the new institutional setup of ICANN. So -- Otherwise, our work
+would be wasted.
+How we do that, I think it's another difficult issue, but what you
+are proposing to go back and forth in the discussion in the sense
+that there are some items where we could make some progress.
+On the other hand, others where we need to have broader
+discussions at the GAC and see what is happened in the CCWG
+discussions. But I think that already the fact that the working
+group could highlight where these issues are and then maybe
+also bring to the attention the actual language where we have a
+problem and where this would need to be changed or modified
+could help also advance maybe the broader discussions.
+Because at least we would have some initial text to reflect on or
+we would highlight where we would need to include new
+language. So I think this could be a possible way forward.
+
+Page 17 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+And then yes, I agree also in terms of continuing to work on
+having a clear work plan ahead of the Hyderabad meeting.
+Thank you.
+
+IRAN:
+
+Thank you. Perhaps I misunderstood. You said that bylaw, new
+bylaw has not yet been finished. Which new bylaw has not yet
+been finished? Are you talking of the bylaw of the CWG, they
+have something they call the bylaw? Are you talking of article of
+incorporation? Yes, it has not yet been finished. Or are you
+talking of the bylaw which is called new bylaw? Which one has
+not yet been finished?
+And then I have a second point about whether we should engage
+in two process. First, modifying the existing and later on, six
+months after, come back again and modifying existing which
+may be affected by the new bylaw. And my question would be
+why we have two process? Why not we start something that
+cover both with sort of the table. So could you clarify which
+bylaw has not been finished in your view? Thank you, or the
+view of the committee.
+
+HENRI KASSEN:
+
+Thank you. And then Thailand. Or should I quickly respond?
+The -- to the pertinent questions. Firstly, the -- the bylaw --
+
+Page 18 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+maybe it was a slip of the tongue but the bylaws of ICANN has
+been approved so there's new bylaws. It's approved. I was
+referring to the processes involved in setting up and finalizing
+the empowered community.
+
+Those are there are still
+
+uncertainties how it would play out. So that is what I meant, it is
+not yet finally set up and cleared, as we heard this morning in
+the -- but I was talking about the empowered community entity
+or the group.
+And then secondly, I -- I do think that as we said the -- the
+European Commission also highlighted, it's better to have one
+process and that we proceed not as two processes parallel. So
+why two processes? As far as the -- the committee is concerned,
+it's better to have only one. I don't know I'm going to debate.
+Maybe -- yeah. Just to follow-up then, Mr. Kavouss, and then we
+go --
+
+IRAN:
+
+Not on the question but on the process. Go out with other
+people and come back and I suggest you something later on.
+
+HENRI KASSEN:
+
+Page 19 of 40
+
+Thank you.
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+THAILAND:
+
+EN
+
+Okay. What I understood the challenge we are faced, I tried to
+put the -- the transition aside. But the fact of PDP process that
+happened a lot, I think we facing two or three issues. I fully
+agree with Iran said, that the times, it's first challenge we faced.
+And the decision or the times that PDP work in the process may
+not in line with what the GAC operating principles. And we also
+need to separate two things. Either we are part of the member
+of PDP or is the PDP that we like to participate.
+
+I been
+
+experience three years ago when I start to work on PDP, one of
+the very early PDP, and then the problem is we can participate
+only as a -- the national that cannot even represent the GAC. I
+think that the time for making the decision, that one of the
+things we facing. And to be very concrete, the only way out from
+what I do see is at first if you recall in our area and we been
+appoint to work in CCWGs if you look into the GAC charters, term
+of reference, or whatever you like to call, we need to start by
+having us stop taking for what communique have been against
+that context matter.
+
+And that are the missing part in the
+
+working groups document. So that communique is empowered
+the member immediately at what scope and context they could
+engage in which direction because that are the things that GAC
+have a consensus already on how to working in that context.
+Secondly, I think the process of issue scoping and providing the
+alternative, I think if you look into the GNSO groups of people
+
+Page 20 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+when they work on issue scopings and the document on their
+charter, it's -- it's quite very clear that what is agreed and I think
+here we can reflect that in operating principle, that when the
+working group established if they can have this kind of -- if you
+like to call substantial issues or issue scopings that if you are
+engaged in these working groups what are the problems and
+what are the alternative, possible alternatives, that were coming
+out or need to make decision. And if that will be put in the GAC
+discussion and then we keep -- we empower the working group
+in that way I think it will be very helpful, rather than every time
+you make a report you have to wait until you're coming back to
+the all GAC member and seeking their opinion or some of the
+time you want to send the answer to the question that coming
+out from the other SO/AC, maybe the time is not allow us to do. I
+think that I expect to see from revising the operating principle
+and I don't think that we need to wait for bylaw anything. It's
+just an internal GAC matter that how the working group
+documentation should include and what is the process to
+propose that document in the GAC meetings.
+
+And so we
+
+empower them to work at a certain guideline, a principle that
+GAC advised them to do. In that way I think the member in the
+PDP working groups of the other SO/AC would have more -more power to work according to what the GAC advised them to
+do. Thank you.
+
+Page 21 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+HENRI KASSEN:
+
+EN
+
+Thank you, Thailand. Yeah, I -- I think it's valuable contributions.
+You have just highlighted an issue that we'll definitely -- we'll
+have to take into account in terms of our work plan. We said the
+basis documents for us would be the operating principles of
+GAC, the new ICANN bylaws, and you have just highlighted that
+it's -- it will be a worthwhile exercise also to do a stock taking
+review analysis of the GAC advices.
+
+That will also give us
+
+guidelines what, you know -- what we have decided on in the
+past. I also -- in terms of the new -- the transitional arrangement
+and the new ICANN bylaws, there is a need for additional -additional principles to be added and that will -- will also be
+indicated in terms of the lists that we will be developing of
+substantive or otherwise issues, one of which is, I think noticed - we have experienced that the -- I call it the empowerment of
+our nominees.
+
+We nominate colleagues to represent us in
+
+committees, and then it's a difficult issue to take decision there
+on behalf of GAC because you have to come back to the whole
+GAC to get the mandate, to get -- and so on. Whereas other SOs
+and ACs, they -- they sometimes have empowered nominees
+who just go there and then they can take a decision there,
+mandated to take a decision.
+So those are some of -- I think that's one of the new things that
+we have identified, or that is identified in the list, in the mailing
+
+Page 22 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+list already by some of our colleagues that is on the committee,
+that we have to have some additional operating principles that
+we will have to have. Thank you very much for highlighting -highlighting that in terms of giving us guidance going forward.
+Any further comments? Come back to Iran? Jorge.
+
+SWITZERLAND:
+
+Thank you so much, Henri. Just we're thinking about how to
+reconcile the plan we are discussing here with the discussion we
+had this morning on the empowered community. And I think
+that there is, to a certain extent, a complementarity between the
+two efforts.
+
+To elaborate a little bit, what I mean is, this
+
+morning, if I understood it correctly, we more or less concluded
+that our independent secretariat would try to -- with the help, of
+course, of -- of colleagues which may volunteer for this effort,
+would try to map what is in the new bylaws on the empowered
+community into what are the -- the needs for the GAC in order to
+be able to participate therein. And then we would need to -- on
+that basis, to reach agreements on the conditions of our
+participation. So that's more on a level of substance and on a
+level of general agreement between all the -- all the GAC
+members. And then if we reach that step we would need to
+implement these agreements. And that implementation may
+require, to a certain extent, operating principles changes, new
+operating principles in some cases, and in other cases we may
+
+Page 23 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+live with working guidelines or practices as we have been doing,
+for instance, for the participation of GAC members and CCWGs in
+general.
+So I -- I see there's a relation between the two efforts that first,
+for this issue specifically, first we would need to do that exercise
+of mapping, agreeing, and then seeing what are the -- the best
+instruments to implement that participation. And when we are
+clear about what are the operating principles that are needed to
+be changed or to be added that would go into the working group
+in order to implement that within the schedule of the working
+group. I guess it was -- it would be surely very useful if the cochairs of this working group, of the operating principles working
+group, would participate with Tom in this mapping exercise.
+Just so we would ensure that all our thinking is consistent and
+we don't create two separate -- two separate tracks. Thank you.
+Hope that's helpful.
+
+HENRI KASSEN:
+
+Thank you, Jorge. Yes, yes, thank you very much for the -- for
+the good advice.
+And, yes, we -- I did hinted -- I hinted in the beginning also that
+there was a call at the previous session that maybe, you know,
+some members indicated their availability to work with Tom to
+do the mapping and so on. But then, of course, the working
+
+Page 24 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+group or the co-chairs, as Jorge now indicated, as a matter of
+necessity will work with them so that we can then assist in that
+respect as far as the mapping of the issues are concerned
+because it will eventually then come back into the working
+group and it is a good suggestion. Thank you very much.
+Tom?
+
+TOM DALE:
+
+Thank you, Henri. Perhaps it might assist the GAC if I quickly go
+over a reaction from your secretariat to the broad conceptual
+approach that you're grappling with here as a GAC because
+these are complex issues.
+The first point is to bear in mind that the operating principles,
+while they're clearly important for the GAC, have no legal status.
+They're not enforceable in any way. They're important for the
+GAC. And, indeed, most ICANN supporting organizations and
+advisory committees have similar informal but important
+principles or rules of that type. But they don't have legal status.
+The bylaws that -- both the existing bylaws that actually
+establish the GAC, of course, and the new bylaws which will
+establish a new framework for GAC and others to operate in are
+quite different, of course. They do have, of course, the force of
+laws. I just want to make that point firstly.
+
+Page 25 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+And, secondly, looking back at the origins of this exercise which
+go back, I think, to at least the Los Angeles meeting in 2014, the - there are two broad sets of issues here. One is the operating
+principles that support now and will continue to support the
+GAC's work as an advisory committee to the board, as everybody
+has noted in the discussion this morning, that has not changed.
+Significantly, there have been some bylaw changes about what
+happens to the advice, as we know famously. But the GAC's core
+role of providing advice to the board continues.
+And the original purpose of this review of the operating
+principles, I'd suggest, is still valid in terms of supporting and
+making that role of the GAC as an advisory body to the board
+work efficiently and fairly and transparently so that you are all
+happy with it.
+The second set of work which may or may not require
+translation into operating principles, of course, was what you
+started to discuss this morning. And these are the things the
+GAC has to work through and which I've been asked to do some
+further mapping and drafting of relating to a new role for the
+GAC, which is not about advice to the board as such. It is about
+participation in the community in some new structures. And
+everybody's dealing with the same sets of issues.
+
+Page 26 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+And I think what you're saying is that new role may also need
+support through operating principles just as the GAC's current
+role has always had. But it's important to try to map the basic
+concepts first before delving into drafting operating principles.
+So I guess I'm saying that the comments from Switzerland and
+others concerning mapping, going down through the next level
+of mapping after the briefing that we provided to you for this
+meeting seems a sensible exercise. And I think the two issues
+are complementary; and they don't fall each other in any way as
+a matter of process from the secretariat, it seems to me. But
+also in a conceptual sense, I'm sure the GAC can understand the
+difference between the two sets of work that we're trying to do
+here.
+And all I can say is from our point of view, it's certainly possible
+to support both. Please bear in mind that some of the issues
+that triggered this review of the existing principles are still there
+to be considered. And there is quite a bit of work in those. For
+example, voting arrangements, who is entitled to be a member
+of the GAC, definitions of consensus, for example, and the use of
+consensus and other decision-making mechanisms and, indeed,
+the fact that GAC advice is not actually defined in the operating
+principles but consensus is. Those things are still important, and
+it seems to me they are core business for what the GAC has
+always done. But the new set of work, I think, can be dealt with
+
+Page 27 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+in a way that does not cause much confusion, I hope, with that
+existing task that the working group has. I hope that has helped
+to clarify, but I'll hand back to you.
+
+HENRI KASSEN:
+
+Thank you, Tom. You have mastered the ability to speak very
+eloquently about issues. We get lost in your calm voice of
+speaking, and then at the end we wonder have we understood
+you correctly. But I'm sure we did.
+In terms of the two processes, I've just been -- I've just been
+noted -- I've noted that in an email earlier, the GNSO, I think,
+also had -- also busy with a process of reviewing their principles.
+And they have a specific activity called -- they are analyzing the
+new ICANN bylaws as a specific activity so that they can then see
+how it impacts and where it impacts their current system.
+But our approach seems to be a meshed one where we're just
+included because bylaws are there. It's just been updated in
+terms of the new process. But it was initially intended to be a
+bouncing board for reviewing our principles. So we will use the
+bylaws, now the new bylaws, and still review our principles.
+But thank you. I think the -- it will be of tremendous help if we
+have, you know, an interim or a mini review analysis of the new
+
+Page 28 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+bylaws that will then feed into the operating principles
+arrangement.
+May I give to Iran for return comments. Thank you.
+
+IRAN:
+
+Thank you. Before I make my comment, I see that we are now
+delegating the responsibility of the entire GAC to the secretariat.
+The secretariat provide us guideline, and we are following the
+secretariat's guidelines. It should be reverse. We should give
+guidelines to secretariat just to prepare supporting documents.
+But ideas how to proceed should not come from the secretariat,
+should come from us collectively.
+
+They have their own
+
+impression, very good. But giving the guideline how to proceed,
+it is GAC. So we should quite clearly define responsibilities of
+which are which. We may be busy, but doesn't mean that we
+delegate the responsibility to others. Either the core -- the
+chair/management team, they provide us the guidelines, we
+proceed. Or the group. And secretariat only giving secretariat
+support but not ideas to proceed this way or proceed that way.
+But now I come back to my point.
+
+Chairman, we should
+
+concentrate our efforts to the areas which are urgent. You have
+heard that there are PDP, at least three main categories which
+are very, very important for us. And some of them will finish in
+2018, beginning of 2018. If you open so many (indiscernible), we
+
+Page 29 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+will not have any success. This is a strategic situation. The
+people are limited.
+If you ask five different area working, we cannot have five
+people. They are very limited, one or two. So concentrate on
+something which is urgent.
+In my personal view, the operating principle to take account of
+the changes of the bylaw at this stage is not urgent. Why? What
+is the empowerment community? The empowered community
+is if and only if the transition of stewardship is taken from United
+States giving to the community. If it doesn't happen, there is no
+empowered community at all. United States continue to have
+the stewardship. So why we just rush into that situation and
+does not wait until the issue comes that we are clear to this way
+and that way?
+The only thing, Chairman, I suggest we can do assuming that the
+transition would take place, trying to have a table which are the
+principles that we need, as you mentioned, not to change those
+editorial change and those substantive change because of the
+empowered community.
+The remaining operating principle is not urgent at this stage to
+change at all because we have so many important issues. We
+have Work Stream 2 human rights, diversity, jurisdictions,
+diversity, and so on and so forth, nine elements. We have all
+
+Page 30 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+these PDP. We have this early involvement of the GAC and so
+many things.
+And opening another (indiscernible) of the operating principles
+with the proviso that, yes, transition will take place which may
+not take place. We don't know yet. And the issue we are doing is
+exactly empowerment of community. If transition does not take
+place, there will be no empowerment community at all. So let
+us just take something very preliminary and very lightweight but
+not go into the details. Otherwise, we cannot go to the area.
+This is very important. Framework of interpretation of human
+rights, that everybody was (indiscernible); jurisdiction, the most
+important element if it take place.
+
+I'm not proposing any
+
+changes to jurisdiction. This is an important element to study.
+So my suggestion would be, first of all, thank you very much. We
+take a lightweight of what you propose, providing a table area
+that does not need to be changed at all, area that change
+editorial,
+
+area
+
+that
+
+change
+
+the
+
+substantive
+
+changes,
+
+modifications, and calling for some comments and completing
+that table and waiting for another three or four months to see
+what happens in October. Thank you.
+
+HENRI KASSEN:
+
+Page 31 of 40
+
+Thank you, Iran.
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+The comments are very helpful. I do -- I do -- and I think all of us
+are in general agreement that we have to focus on the urgent
+matters and try to streamline our work to get into -- into the
+urgent matters, as you say, the PDPs and so on.
+The bylaws as Thomas -- as Tom S. -- Thomas -- Tom indicated is
+a legal document. And being from the legal fraternity, you will
+understand that whatever changes is there makes it urgent for
+us to include it into the bylaws but in our operative part. Some
+of the aspects like the empowered community and so on may
+still be a work in progress. Then we should just get ourselves
+ready.
+But there are some, maybe one or two, when we do the list, we
+will be able to identify that the bylaws have been changed. This
+is what the ICANN bylaws is. This is a law that needs to be
+implemented yesterday when it was adopted. So we can't say
+it's not urgent, but some of the issues are urgent.
+But thank you for the advice and the guidance. I think it is
+important that we prioritize in order to move forward.
+Spain, please.
+
+SPAIN:
+
+Short comment. I want to support very strongly what Iran has
+said as regards the role of the GAC secretariat.
+
+Page 32 of 40
+
+And as a
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+consequence, I would urge that people involved in this working
+group really contribute to discussions.
+And that a second comment, I'd like -- I'd like also to second
+what Switzerland has said. It's a good approach to try to set our
+lead staff of issues and to prioritize them and to say which we
+are going to deal with in the first place.
+In that regard, I suggest we start with the easy ones, maybe
+electronic voting, and then go into more substantive issues.
+As regards the adjustment of operating principles to the new
+ICANN bylaws, the (indiscernible) has to be tackled, but I don't
+see it is so pressing. It is, however, important so we need to
+devote time to that issue.
+But it cannot be something that prevents us from making
+progress in this working group. Thank you.
+
+HENRI KASSEN:
+
+Thank you very much, Gema. Yes. Thank you for supporting
+what Switzerland and Iran say. The incorporation of all the
+bylaw changes or incorporation of all the issues in the new
+bylaws is not so pressing.
+
+I think focusing mainly on the
+
+empowered community arrangements and so on which is still
+under discussion, the final points of that.
+
+Page 33 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+So not so pressing because I see and I understand the rationale
+behind that because, well, if I put my legal mind on, then I will
+say, well, then the operating agree- -- bylaws are law, so that is
+the pinnacle, that is it.
+But looking at it in a broader sense and considering the
+rationale, if we take that mechanical approach like we lawyers
+used to do, then we will get into a -- at a point where that will
+hamper progress with the rest of the review process.
+So it's well taken note of, that the incorporation is not pressing,
+is not pressing, but it's important, but it should not hamper or
+stop us continuing to finalize our review.
+Thank you very much for that guidance.
+And of course the -- we also take note of the comments
+regarding the secretariat. We have been -- our experience is that
+they -- that the secretariat is extremely helpful and assists in
+terms of preparing position papers and so on, and then
+submitting it for our endorsement. So it's not entirely -- it's not
+their views. It is views endorsed by either the chair, the co-chair,
+or some of the GAC members that comment on the mailing list,
+but it is well taken note of in terms of those comments.
+Any further comments? If I'm an auctioneer, I will say "going
+once," but I'm not an auctioneer, so I have the U.K. Thank you.
+
+Page 34 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+UNITED KINGDOM:
+
+EN
+
+Thank you very much. On a slightly different angle to this, but
+related, I'd just like to thank Tom Dale for the comments that he
+made that I know the main focus and prioritization is around the
+OPs associated to the bylaw changes, but when we're
+considering how we prioritize -- and there are other things, other
+elements of the operating principles, that we should look at -- a
+comment that I made on the mailing list a little while ago was
+how I was keen to see the discussion include the practices of the
+working groups.
+For instance, the length of the working group mandates, the
+process for review, renewal, or closure of those working groups.
+I think that would be beneficial going forward long-term in our
+work.
+And also, clarity over how co-chairs or additional co-chairs for
+working groups are selected, replaced, or removed.
+So maybe it might not be an immediate priority, given the work
+that's going on with the transition, but it's something that
+certainly I would be keen to see and may help sort of facilitate
+our engagement in some of the PDPs, where the working -- the
+working groups play an active part in preparing GAC positions.
+So that was really just my thoughts on that.
+
+Page 35 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+And I'd also just like to raise an additional observation more
+broadly about the way the GAC works intersessionally.
+I'm afraid it -- I don't really know where else in the GAC schedule
+to make this comment, so I'll just say it here.
+I recall that during the preparatory work for the GAC submission
+on the DNS abuse report for the CCT review last month, we were
+circulating Word documents on the GAC mailing list to prepare
+the final comments for the GAC response. We inadvertently
+ended up with several versions of the same document going
+around, as people were simultaneously making amendments,
+and as a result, the final document accidentally missed off some
+contributions, some contributions for the U.K. I'm sure it wasn't
+on purpose. But we sorted it out. It was all fine. And thank you
+to the ICANN support and the secretariat teams for their help on
+that.
+But it made me realize that I think as the GAC, we can probably
+utilize technology much more effectively in the way we conduct
+our business, and as our workload is ever increasing and the
+pressure on our time in these meetings is becoming increasingly
+strained, that intersessional work becomes ever more
+important, so any steps that we can take such as, you know,
+using cloud-based apps for word processing, things like that,
+simple measures, might really help us to move forward with the
+
+Page 36 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+sort of -- with the pace and collaboration, you know, with which
+we're able to work in the GAC.
+So I'd just like to say I'd be happy to explore these ideas of how
+we can sort of bring ourselves into the 21st century a bit more
+with the way we utilize technology, so anyone interested, happy
+to have discussions and work with the secretariat on furthering
+some of those ideas. Thank you.
+
+HENRI KASSEN:
+
+Thank you very much, U.K., and I'm glad that the missing email
+that you sent, or the U.K. sent, was found and sorted out.
+And of course I -- coming from a region where I'm not quite sure
+what cloud-based -- those technology things are concerned, but
+I'll catch up. Don't worry. At least I'm so glad that --
+
+UNITED KINGDOM:
+
+It's this thing called Google.
+
+HENRI KASSEN:
+
+I'm glad that you are part of --
+
+UNITED KINGDOM:
+
+Do we know what it is?
+
+Page 37 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+HENRI KASSEN:
+
+EN
+
+Thank you. I am glad that you are part of the committee. You
+are registered, you are a member of my committee, so I'm in
+good company. Thank you very much.
+And then of course there are the practices of the working group.
+We have spoken about the empower -- to empower our
+nominees, and you have indicated -- you have now indicated
+that you would want to see procedures for co-chairs election,
+nominations, and further procedures of how the working groups
+are working, and that is one of the issues that in the brief that
+was circulated, at the end there are two additional proposals for
+new operating principles, including, I think, one of those that
+we'll deal with. Thank you very much.
+We have reached our time slot. The chairman is already folding
+his hands in -- I don't know whether he's praying that hopefully I
+will not go over time or not, but any final comments before we
+go up?
+I must say: Very helpful. I'm sure my co-chair will agree that we
+have -- we have received very helpful comments which will
+definitely set us on a path to be able to get our work plan
+finalized and get it to -- and circulate it to GAC for endorsement
+as soon as possible.
+With that, thank you very much for your participation and
+inputs. I appreciate it. It's much appreciated.
+
+Page 38 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+Thomas, thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. Maybe just to make sure that people know where we
+are and what the next steps are, I would just like to ask for a last
+round of questions or whether everything is clear.
+That seems to be the case, so thank you very much.
+Just one element that -- to warn you. As we will have elections
+in the next meeting, those who have been there two years ago
+remember there was some dissatisfaction with outdated
+elements in the election procedures. Unfortunately we have not
+used these two years to modify these, so for those, for instance,
+who will miss airplanes because of storms and other things,
+there's no electronic way to vote and there is no procedure for
+making sure that we have diversity among the vice chairs and
+other things. Just to give this with you over summertime, when
+you think about whether applying for one of the jobs or who to
+elect, have a look at the voting procedures and the things that
+ACIG will send out to us, and we have to do the best we can
+based on the principles that we have to make sure that the
+elections are fair and transparent and organized in a meaningful
+way.
+
+Page 39 of 40
+
+HELSINKI – GAC Operating Principles Review Working Group Presentation to GAC Plenary
+
+EN
+
+There are still some gaps and we will have to cope with them
+once more. I just wanted to highlight this because you will get
+annoyed or angry at some point in time when you look into this,
+why we have missed the opportunity to change it earlier. I just
+wanted to flag this to you.
+Okay. Thank you very much. So with this, then I think we have a
+coffee break, and then we can go to the cross-community
+sessions.
+I see U.K., you have your pin up.
+
+UNITED KINGDOM:
+
+Yes. Thank you. Just an announcement. The commonwealth
+meeting, the meeting for representatives of commonwealth
+states of the GAC, and also it's an open meeting so stakeholders
+from commonwealths can attend as well, that will start at 3:00,
+so that's like five minutes' time, roundabout that, in Veranda 4,
+which is on Level 0, so you have to go all the way down to find
+that. It's at the far end of Level 0, and that will be chaired by
+Shola
+
+Taylor,
+
+secretary-general
+
+of
+
+the
+
+commonwealth
+
+telecommunications organization. So at 3:00, in about five, 10
+minutes' time, we'll start. Thank you.
+
+[ Break ]
+
+Page 40 of 40
+
+

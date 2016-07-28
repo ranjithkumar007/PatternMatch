@@ -1,0 +1,1293 @@
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 1
+
+Transcription ICANN Helsinki
+GNSO-New gTLDSubsequent Procedures PDP Working Group Part 1
+Wednesday, 29 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Jeff Neuman:
+
+Okay, if everyone can come and sit down, please. I've got a nice little sheet
+here - this is pretty cool - put up in the front. It says what a working group
+chair should do.
+
+Woman:
+
+Really? A cheat sheet?
+
+Jeff Neuman:
+
+Yes, so it says please try to start on time. Oh, okay, sorry. Ask the technical
+team to start recording. Can we start the recording, please? All right, we got a
+thumbs up. Make sure there's eye contact and thumbs up. All right, we got
+that. Call the meeting to order. All right, it's called to order.
+And this meeting is being recorded. There is an Adobe Connect room for this
+meeting and so we will try to take some input from that Adobe room, so if
+there's someone that's keeping track - I don't know if it's (Steve) or (Julie)
+keeping track of any comments that come in remotely - so we'll try to make
+sure that they get in as well.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 2
+
+So we're going to have two sessions today. The first one is - and these are
+working sessions of the working group, but everyone is invited and should
+participate. So I know that we have some spots open at the table and
+everyone's welcome to come on in. My name is Jeff Neuman, I'm one of the
+co-chairs. Next to me is Avri Doria, who is a second co-chair. We do have a
+third co-chair, (Steven Coats). He is doing nominating committee duty I
+believe still today. So he's unable to join us.
+So the two sessions - the first session is until noon today. Then we take a
+break until 1:30 and then we meet for another hour and 15 minutes. But first
+session will be used to review some early input on the overarching issues as
+well as cover a couple of the items that we did not get to cover yesterday.
+And actually we'll start with that. And then the second session this afternoon
+will be to talk about the work going forward and ultimately the - breaking into
+the different tracks and some administrative items, as well as hopefully going
+through the items that will be in each work track.
+So with that, let me check the cheat sheet if there's anything else I have to nope, I guess we're good. So what we're going to do is kind of skip ahead to
+some slides of things we didn't get to cover yesterday. And when I say
+yesterday there was a session at 5 o’clock yesterday where we had a crosscommunity working session where we got some input on some of the issues
+that were of broad community interest. There were two issues that were not
+covered during yesterday's session. One was - and both happened to be - I
+guess one said I was supposed to cover. The first one - so we'll cover them
+now.
+The first one was how can implementation work proceed in parallel with
+policy development? And then the second one was streamlining the dot
+brand process. The first topic was really meant to discuss whether there was
+certain work that either was not - or did not necessarily involve policy but still
+involved issues that we thought - implementation issues we thought we had
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 3
+
+to resolve before going forward with a new process. Or it could be ones
+where we can come to agreement with fairly quickly from a policy perspective
+and where we can actually start some of the implementation work.
+An example of that could be - and again, I'm not pre-judging the outcome but an example could be something like an accreditation process for registry
+back end providers or data escrow providers - etcetera - if we come to a
+policy conclusion that an accreditation process would be advisable - or I
+should say preferable. Then there's no reason why we couldn't start a group
+looking at things like valuation criteria and other aspects where we could start
+that work immediately without necessarily waiting for this policy process to
+come to an end.
+Is there any - I guess I'll throw that out like we did yesterday. Any kinds of
+questions on - or any ideas of certain topics that we could actually start
+implementation work or ideas that people has on topics that could be covered
+without necessarily going through a policy process? So any other, you know again - ideas, accreditation process. Are there any other ideas that people
+have that we could proceed to some sort of implementation or technical work
+without necessarily going through this PDP? I see (Donna) is working to
+come to a mic, so that's great.
+Donna Austin:
+
+Thanks, Jeff. Donna Austin. One of the ideas that I had for this is the staff put
+together quite an extensive report on, you know, some issues that they face
+in terms of implementation and going through the process. And I just
+wondered if it's possible for us to have a look at that report and see what we
+can draw out of that and, you know, potentially go with some of the staff
+recommendations about the - you know, which way we should go on some of
+these things rather than us going into detail on, you know, some of those
+items.
+I think staff has done a pretty good analysis on some of this day challenges
+with implementation and they have made some recommendations or
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 4
+
+suggestions about how to move forward. And I think there might be some
+value in us reviewing that and see if there's anything that we can potentially
+take off our table because we're happy with the recommendations that
+they've made and perhaps - I don't know - hand it off to them to have a look
+at implementation. Was just an idea that I had. Because it is a significant
+body of work.
+Jeff Neuman:
+
+Thanks, (Donna). Are there any other thoughts on that particular proposal? I
+think it's a good proposal at least to kind of look at that staff report and see
+whether there are certain topics in there that we could take their
+recommendations on or at least take them up to discuss. (J. Scott)?
+
+(J. Scott Evans): Yes, I'm - for the record, this is (J. Scott Evans) from Adobe Systems. I'm
+also chair - one of the co-chairs of the Wrights Protection Mechanisms
+working group. And while I think that sounds like a great idea for a starting
+point, I think there were a lot of questions that were put to our group during
+our presentation on Monday regarding implementation of various RPMs, so I
+worry that taking the staff position may be taking a position where they think
+things need to be a certain way but the affected parties - like registrars and
+registries and maybe users as well - have a very different perspective on
+whether that is appropriate.
+So rather than taking their work as a fiat accompli, I think it is a data point that
+needs to be considered, but I think you need to look at the affected parties as
+well, because I was hearing that they felt like there were some real
+implementation issues that were causing driving costs for the parties,
+eventually harms consumers because costs are always passed down.
+Avri Doria:
+
+This is Avri speaking. One point I want to bring up in all of this is we've
+currently developed - and I'm not quite sure how we mix it in with the PDP the whole notion of implementation review teams. So in terms of taking a staff
+output - which has an implementation thing - I think we'd have to apply that
+kind of rigor to it somehow, whether it was a sub-group of this group or
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 5
+
+something to take each of these things and basically apply that kind of, you
+know, group pattern, group behavior to those in terms of review them, make
+sure that there were no policy considerations or ill effects, and then go
+through.
+And then either send them back to the group and say, “Nope,” the
+implementation group here looks and says, “We think there's an issue.” Or,
+you know, make a list of them and say, “We've looked at those things. We do
+not see a policy issue,” bring it to the whole group. Say, “Nope, we don't see
+a policy issue either.” But if we put that intermediate step in in terms of
+reviewing them, it may be something that would be helpful in terms of
+accelerating some of the work.
+Donna Austin:
+
+Yes, thanks Avri. I mean, I wasn't suggesting that we just adopt this as a fait
+accompli, but I think it is a significant body of work that we can benefit from if
+we have a look through it. Thanks.
+
+Jeff Neuman:
+
+Thanks, (Donna). I see Jordyn is next. Is there anyone else that wants in the
+queue on the subject? You want - okay, so let me go - is this on this subject this a follow up to (Donna) or…
+
+Man:
+
+(Unintelligible).
+
+Woman:
+
+A couple (unintelligible).
+
+Jeff Neuman:
+
+Okay, so…
+
+Man:
+
+Paul raised his hand and then…
+
+Jeff Neuman:
+
+All right, so I'll go with Paul, then Jordyn.
+
+Paul McGrady:
+
+I am, too. Paul McGrady. I'd like to go back to the initial question, which was
+is there a mechanism to stage implementation on things that we reach
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 6
+
+conclusion on early that might take a significant amount of time of
+implementation in order for them to be effective and ready. And I guess I'm
+trying to understand mechanically how we do that. Are we thinking about
+instead of one big report on everything are we talking about releasing
+individual reports on, say - for example - the back end provider accreditation?
+You know, are we going to be releasing our work in chunks like that?
+And if we are, then is the work plan going to reflect this staging of all of that? I
+- it's - to me it seems more complicated but also more efficient for the overall,
+you know, outcomes here. But I just don't know if that's how we're envisioning
+it and that's how we would do that. So it's - I'm not critiquing the idea, I just
+want to understand it mechanically. Thank you.
+Jeff Neuman:
+
+So - thanks Paul. I think that - I don't think we've thought through the answers
+to those questions, so I think that they're good questions. I think that if people
+think it's a good idea to break out into a group on the accreditation process
+and their findings and report are in a sufficient enough condition to put out for
+public comment, I see no issue with putting things out in staggered stages.
+And our work plan is a working document and that could always be changed
+to accommodate something like that. So let me go to Jordyn.
+
+Jordyn Buchanan: Thanks. I'm glad I went after Paul, because I think that actually set up my
+comment pretty well. It's going to be perhaps a little curmudgeonly again, but
+I hope maybe more constructive in that, you know, I look at the work that this
+PDP has taken - as I said yesterday - I think it's pretty staggering amount of
+policy work. And I think a lot of it - when I look back at the existing 2007
+policy - a lot of it sort of fits squarely within policy that's already been
+adopted.
+And even when there's areas of discussion like - I'll give a specific example like singulars versus plurals. There's already a policy statement that we
+cannot have confusingly similar TLDs. So really what we're talking about is
+like what does that mean, confusingly similar? Singulars and plurals
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 7
+
+inherently confusingly similar and should we adopt the policy? Or should we
+agree that that is inherently confusing and then therefore they should just
+automatically be disallowed.
+So one approach you could take is you could say, “Oh, we need to do some
+more policy work to re-state that policy statement.” Another approach you
+could take is to go through the implementation of that existing policy
+statement. And say, “Okay, maybe we're not going to say their inherently
+confusing, because that would be a policy statement.”
+And I would argue they're not. Like - for example - there was - someone
+applied for - lots of people applied for .web. - someone applied for .webs.
+I have no idea what a .webs is. Or - and I would argue no one's going to be
+confused between the two of those, because no one things that the plural of
+Web is Webs. I don't know what the Interweb or Web is, right?
+And so it might actually be a mistake to say that the plurals are inherently
+confusing. And so instead what we might want to do is just go back and sort
+of look at the reasons why we got inconsistent decisions in this area from an
+implementation perspective and say we want to refine the way that we handle
+the confusingly similar disputes. And so that would really just be a purely
+implementation discussion because you're just changing the way you're
+implementing an existing policy.
+And to that extent I would say I totally agree with the - with (Donna)’s, you
+know, mention of the IRT. And, you know, and the concerns around - we
+don't want to just take on staff's recommendations entirely - but (Donna)’s
+provided a really great starting point. Like, let's identify the places where
+implementation was the problem. Where we have a policy statement we
+roughly agree with already, but we saw implementation problems in the
+previous round. Convene an IRT now and start working through those issues.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 8
+
+And a first bit of triage that the PDP process could do would just be to look at
+the places where we think, “Oh, that policy looks right, but for some reason
+didn't work. So let's ship that to the IRT instead of trying to deal with it here.”
+Jeff Neuman:
+
+Okay, thanks Jordyn. Reactions to that - oh, (unintelligible) who's on? I
+haven't…
+
+Avri Doria:
+
+Yes, we have (Polly Risch).
+
+(Polly Risch):
+
+Thanks. I guess (unintelligible) of looking at the implementation, what can what's easily fixed. But there were more than a few - I think we had a - I've
+forgotten which meeting it was at - but when we looked at the end of the
+process there were things that were really significant issues like why were so
+many of the applicants from some particular areas? Who had problems? Who
+could afford things? Who could not? How was the applicant guidebook helpful
+or not helpful?
+I would - those are really big issues and I think we need to put them
+somewhere so that - yes, I - I think I agree with your position, which I think is
+let's look at the implementation. What can be done easily? But then I would
+hate to think that we then don't deal with a lot of those larger issues. And I
+would suspect probably most of those were raised I think it was either last
+session or the session before. Thanks. Last meeting or the meeting before.
+
+Avri Doria:
+
+And now we have Rubens Kuhl, please.
+
+Rubens Kuhl:
+
+Rubens Kuhl (unintelligible). I'd just like to point out that (unintelligible) is not
+only a new GTLD issue, because it all supplies to the current GTLDs. So
+while we could benefit in the TLD PDP to have (unintelligible) program, it can
+be done completely out of the new GTLD PDP, because it all supplies to
+current GTLDs. So it's more a GDD task then a policy task.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 9
+
+Avri Doria:
+
+Okay, thanks. And it would probably also be an implementation detail
+because it wasn't in the policy that it was stated that they would each be done
+individually, it was an implementation detail that made that effect. Do we have
+any other hands? We don't have any other hands at the moment. Oh, now
+you've got Jordyn. Okay.
+
+Jordyn Buchanan: Sorry, just wanted to react to the comment about, like, the - you know, I heard
+in yesterday's - I'm not on the PDP task force, I'm just an annoying person
+showing up at - person at ICANN and like complaining to you guys. But, you
+know, what I heard yesterday, at least, in the conversation - which maybe
+mirrors the experience on the previous call - was a lot of people concerned
+about participation from the developing world and a lot of people concerned
+about community. So I do think those are important issues that we want to
+make sure that we address going forward.
+It is not clear to me that you necessarily need policy fixes to those problems.
+And I agree we need to figure out a lot of - there's a lot we need to do. I also
+sit on the CCTRT and I'd say as a developing - the participation from the
+developing world is definitely an issue that we're looking at as well. And I
+think it's a critical one.
+But it may be that between recommendations from the CCTRT and then just
+further thought about, “Hey, we agree we want this to happen. It's not
+necessarily that we need to change the policy or that we previously adopted
+in order to do it. But let's convene.” That could be a special - I don't know - a
+cross community group - for example - might be a better solution there than a
+PDP necessarily.
+Avri Doria:
+
+I have another hand, but I wanted to add something. One of the things,
+though, that's changed is when we did policy at that last pass - the 2007 - we
+were pretty much just getting overarching principles, whereas the notion of
+doing policy at this point has become much more of a specific, I's dotted, T's
+crossed type of affair. So it may indeed be that the policy doesn't need to be
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 10
+
+changed in some sense, but it needs to be explained better and then that was
+what the implementation. And I have Rubens Kuhl’s again.
+Rubens Kuhl:
+
+(Unintelligible). Just like to point out that on the several regions and
+development issues there is some little we can do at the registry level,
+because every GTLD needs to be sold for registrar. The most underserved
+regions have issues with (unintelligible) having registrars having their regions.
+So we can flood the market with GTLD serving those underserved regions
+and that wouldn't do anything since there is no sales channel for that. This is
+what is currently 2002 round GTLDs are facing in those regions. So I don't
+think we need to address that only at (unintelligible) level.
+
+Avri Doria:
+
+Okay. At this point I now have Greg, please.
+
+Greg Shatan:
+
+Thanks Avri. Greg Shatan for the record. And I wanted to pick up on
+something that Avri just said with regard to kind of the difference in levels of
+policy making in terms of detail. And I think, you know, feeding back to the
+idea that not all of the implementation went as expected, was because there
+were bigger blanks to fill in from the 2007 exercise. And any time you allow
+for, you know, massive interpolation or even in many cases extrapolation
+from the very high level policy points, there's more chances for
+implementation to go awry.
+That doesn't mean that you turn that to a new implementation team. I think it
+means that, you know, we take the policy making down to the next level so
+there's less room for misinterpretation of - in the implementation phase. Even,
+you know, if we think the policy sounded right but the implementation
+sounded, you know, could have used some help, I think the onerous is on us
+at the policy level to express it in a way that the implementation the next time
+around is done more the way the policy makers intended and less as a
+celebration of the rule of unintended consequences.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 11
+
+Avri Doria:
+
+Thank you. We've got Jordyn - I saw (Jordan)’s first and then…
+
+Jordyn Buchanan: So thanks Greg. It's Jordyn Buchanan again. So I'm going to I guess
+respectfully but strongly disagree with that notion for two reasons. Number
+one is we have IRTs and we've just adopted - you know, we've adopted this
+mechanism of having a stronger community review with implementation
+precisely to avoid the problems that you're talking about. And it doesn't make
+any sense to front load the policy with even more work and then also do even
+more work on the implementation side.
+Because that just means that our time to go from inception to eventual adopt
+- like, implementation of any given policy stream is just going to become
+significantly longer. So if we adopted the notion that we want to use IRTs to
+get better implementation out of the policy guidance, we don't need to also
+front load the work making sure the policy is really crisp.
+Second - and I think more important reason - is because really precise policy
+often is really brittle and doesn't actually play out that well in the real world.
+So I'll give you an example of this. In the new IRTP standards, there's actually, here's an even better one. In some of our Who Is policy we basically
+now have the requirement that when you register a domain name, you have
+to send an e-mail - I guess, this isn't policy. It's under 2013 IREA. You have
+to send an e-mail to registrant to verify their e-mail.
+At Google Domains, we - in order to have a Google Domains account, you
+have to have a Google e-mail account. We know who you are the whole time
+that you're logged in and engaging in the system, but we still have to send
+you an e-mail at the end of that process. Even though you logged into your
+G-mail account to get to - register the domain name in the first place. So the
+end of that process we send you an e-mail saying, “Are you really the person
+that registered that domain?” Despite that you typed in your password in
+order to do so?
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 12
+
+That's because the language is really brittle. It doesn't say make sure that
+you verify the e-mail address. It says that the person has the same e-mail
+address that you're dealing with. It says you have to send them an e-mail to
+do it. And so when you make the policy really, really prescriptive, it makes it
+really hard to adapt to things like technology change in the future. And you
+want to allow the implementation to have some flexibility around general
+policy principles so that we don't have to come back and do PDPs on the
+same topic over and over again just because like a new technology's
+introduced to the market.
+Avri Doria:
+
+Greg, was that a new hand? Yes, it obviously was.
+
+Greg Shatan:
+
+Yes, it's a new hand. I guess first I think something that comes out of the
+2013 RAA is not policy but implementation, so maybe the implementation
+was too brittle. Again, maybe showing - I don't think that demonstrates
+anything about a level of policy. And clearly one can go too far into the weeds
+or into the minutiae in policy, but we're talking now I think about a policy or
+set of policies that were done in some ways at too high a level. And I think if
+we do a better job of expressing ourselves in policy level, then the
+implementation should go faster, rather than slower.
+So I think in the net it may be a wash, because less time is spent on
+interpreting broad policy swashes anyway the staff intends - you know, would
+like to do so. We do have of course implementation review teams and I'm
+sure we will have them coming out of this. We also have methodology that
+came out of the policy and implementation working group for kicking back
+policy decisions that appear during implementation that weren't evident
+during policy.
+So that, you know, does save us to some extent, but that doesn't mean that
+we should be, you know, hands off of policy that didn't turn out the way it was
+intended. Again, I think we need to avoid rather than celebrate the doctrine of
+unintended consequences.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 13
+
+Jeff Neuman:
+
+Thanks, this is Jeff Neuman. So - and everyone has taken just - even if we go
+back to the same speaker, let's just make sure we can announce our names.
+We can get down - I know this expression is - Avri doesn't like the rabbit hole
+or whatever.
+
+Avri Doria:
+
+Rabbit holes are not rat holes.
+
+Jeff Neuman:
+
+Oh, rat hole, okay. So we - you know, defining - distinguishing between
+what's policy and implementation can just - we could discuss that for hours
+and I think we shouldn't. I think there are some valid points that are raised. I
+also believe that one of the first tasks that when we do break out into these
+work teams is to go through the staff implementation report and look at things
+that may not have to go through a full policy process but can be broken up
+into - whether we call them IRTs or whatever we want to call them - that could
+be one of the first exercises that each of the work tracks does for their
+respective areas.
+I think to create one overall team to look at the entire staff implementation
+report or the entire process would be a little bit too much. So I do think that
+that's one of the first things that we can discuss in the afternoon session. One
+of the other topics that came up - just to kind of bridge to the next one - is
+whether there could be a process for introducing certain types of TLDs that
+were fairly comfortable; don't necessarily need the amount of policy work that
+may be needed for other types of topple domains. And that's very
+controversial in what those types would be. Obviously we'd have to get into
+the discussion of, you know, how to categorize the different types of topple
+domains.
+But something that certainly has been discussed has been whether, you
+know, dot brands - for example - could go into a - whether we call them a
+round or a window - sooner than some others. Maybe there are less or fewer
+policy issues. So I kind of wanted to throw that out there and just get some
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 14
+
+thoughts from the group as to whether that was something that was worth
+entertaining. If so, any thoughts on how we would go about doing that?
+Just again, this is just initial thoughts; we're not making any decisions here.
+But since we have a good cross section of the community here - in addition to
+the working group - this was something we wanted to throw out to the group
+yesterday. And - yes, Avri wants to add something.
+Avri Doria:
+
+Yes, and while looking at that notion in terms of whether there are things like
+dot brands - of course, this is already presupposing answers to definitions like
+working differently for different types of TLDs - we may also look because
+there's been discussions not only about brands going ahead, there's been
+discussions about doing something for developing economies going ahead.
+There've been various discussions.
+So if we get into a notion of is there something we can move to the front of
+the line because it doesn't need a lot more policy development or
+implementation development, it may rely on the type of TLD we're talking
+about.
+Assuming that we have passed through the threshold of, yes, more TLDs and
+yes, they are types. And yes, we treat them differently. Because in making
+that decision we've - we would be presupposing a positive answer to three of
+our overarching issues, which I think - and it's one of the questions I was
+going to ask when we get there - in this room - conversationally at least - we
+seem to be presupposing a positive answer to at least three of our
+overarching issues.
+
+Jeff Neuman:
+
+So going - yes, and we will touch the overarching issues. But on the issue of
+whether there are types of TLDs or the thoughts of trying to move at different
+paces or prioritization, are there just any thoughts on that overall topic? You
+can either raise your hand, you can do it through the Adobe. All right, Heather
+Forrest.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 15
+
+Avri Doria:
+
+Oh, I'm sorry. Go ahead. Heather Forrest, (Alexander), (Carlos).
+
+Heather Forrest: Thanks, Jeff, thanks Avri. Heather Forrest. I suppose one thought that comes
+to mind - it's not an answer, sadly, it's a question - but to the extent that we
+prioritize or we somehow do what you're suggesting, it seems to me that we
+need to think about different versions of a base RA, to the extent that we
+have different timings. We're going to be out of step, let's say, in terms of an
+RA and are we willing to do that? Thanks.
+Jeff Neuman:
+
+Okay, thanks Heather Forrest. And I'll put myself in the queue after the last
+person. So…
+
+Avri Doria:
+
+Okay, then we have (Alexander), (Carlos), and then Jeff.
+
+Alexander Schubert: Hello, my name is Alexander Schubert. The only thing I wanted to say is
+that we should be aware that in the next round people will try to game as
+much as possible. So if we are preferring anyone - like brand, for example people will try to be a brand to get their string in early. So whatever could be
+gamed, we should really look them. Try to foresee how it could be gamed,
+because people will try to game.
+Avri Doria:
+
+And (Carlos), please.
+
+(Carlos):
+
+Yes, thank you. This is Carlos for the record. My question would be if we
+decide to have different groups, what's next? And my warning would be we
+should not take this step based on preferences or the risk that happens but
+only after we have gone through the iteration of the application process and
+have some hard data why we should do it. I mean, if all the brands went
+through and everything was smooth, that would be an argument.
+Or if all the community applications got blocked and we got a miserable result
+out of the application process, then that might be a good argument to treat
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 16
+
+them separately, apart from the issues that were mentioned here. And I just
+want to mention that this is really an issue where we should make emphasis
+in the overlap or the corporation which is CCT review team. We should have
+a good argument in my view based on the results of the application process
+failure or success before we - or add that to the discussion, at least. Thank
+you.
+Jeff Neuman:
+
+Thanks, (Carlos). You know, I just wanted to respond to something - what's
+that? Yes, Jeff Neuman, I'm sorry. I didn't follow my own rule. Thank you,
+Avri. The - just to respond to something Heather Forrest said, it - one option
+could be have a new base agreement, but another option could say, “Hey, if
+any brands want to sign existing as is or whatever, that's fine, too.” So - but
+that's something that we'll - you know, that's an implementation issue that can
+be discussed later on after we - if we agreed on a concept.
+And to (Carlos), I would just also say that, yes, our mandate is to of course
+take into consideration any of the findings from the CCT review team as well
+as the other groups that are out there. And so to the extent that there are any
+findings or things like what you said on the application process, we would
+have to take that into consideration. So anyone else in the queue? There's no
+one with their hands raised. Martin.
+
+Martin Sutton:
+
+Martin Sutton, brand registry group. I was just going to add to the point that
+where there is a well-defined category - so with the spec (unintelligible)
+defined category - that does help to at least look at a type that could go
+through quite easily. And there we have sort of the less risk in terms of those
+registry providers. That could be an advantage to at least fast track through.
+So whether the starting point is the same, they could be options for those to
+get through the evaluation process quicker.
+
+Jeff Neuman:
+
+Thanks Martin.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 17
+
+Man:
+
+Just to come back to these categories, (unintelligible). Maybe we shouldn't
+look at this section 13 or the type of TLD but maybe just at the number of
+additions that will be allowed in the future. If it's a mono additions or if it's a
+multi-additions, TLD - maybe that's the only difference, because all these
+policies are made to protect the TLD space. When you have a lot of
+(unintelligible) these policies are made to protect from a (unintelligible) and
+cybersquatting and fishing and so on. (Unintelligible) from TLD. Maybe that's
+the only category you can decide move faster than the other, because it's
+easier to control and to manage.
+
+Jordyn Buchanan: This is Jordyn Buchanan again. This conversation strikes me as a little bit
+funny, because this is one area where I think that there's clearly not any
+existing policy about whether even types of TLDs exist. Spec 13 was created
+I think as a reasonable but expedient sort of stop gap as part of the previous
+round. But it certainly is the notion of a brand TLD isn't reflected in current
+policy. So it seems strange to - the idea of like fast tracking certain types of
+TLDs where those types aren't even reflected in the existing policy seems
+challenging to me.
+I'm all for fast tracking the process in general. I think there’s ways to do that.
+But it seems like you want to look for the places where you need the least
+change to current policy - to fast track - not the most.
+Jeff Neuman:
+
+Okay. Thanks Jordyn. Again, we’re throwing out topics that – you’ve know –
+we’ve heard people mention. And just trying to get input on it. I see Greg is…
+
+Woman:
+
+There’s also a question in the chat.
+
+Jeff Neuman:
+
+Okay. Well let’s just go to Greg and then we’ll take the chat question.
+
+Greg Shatan:
+
+I guess I would look at the point that Jordyn’s response to (Martin) a little bit
+different. This is Greg Shatan, for the record. Now that this is exactly what
+this (PDP) working group is intended to address. I don’t think – you know –
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 18
+
+we need to triage between things that are – you know – more or less, I think –
+clearly with the sort of the applications being dot brands and spec 11 or spec
+13, rather formula. You know reasonable working start on that. We don’t have
+a huge amount of work as compared to – you know – animal name and
+(TLD)’s being a categorized separately. So it seems to me to be – you know
+– a fairly clear one for us to work on. Thanks.
+Jeff Neuman:
+
+Thanks Greg. Let’s go to the remote question, then (Rob Renner).
+
+Steve Sheng:
+
+Thanks. This is Steve Sheng from staff and there is a question remote
+participant. Michael Fleming asked would such a streamlined process for dot
+brands allow for an objection process as in the 2012 round?
+
+Jeff Neuman:
+
+Thanks again. It think that’s a – I’ll take that more as a comment than a
+question. Because obviously we’re not here - as co-chairs - or to make any
+precept positions. But I take the comment in there is that what we look at is
+whether not just the application process, but also other things around the
+application process. Including dot objection, disputes, resolution and all that
+other stuff. So without providing an answer. So I’ll go to (Verner) and then to
+Paul.
+
+(Verner):
+
+Just about the fast track. Sorry (Gordon) from (unintelligible). About the fast
+track. I don’t think we should see this as privileged or anything like that. What
+we have is the experience with the 2012 round was that they wanted to be in,
+but not too quickly. But they still ended up clogging the process that – you
+know – held up – held back everyone. So if you have separate tracking and
+the brands can be in their track in a month or so. And that resources are
+devoted to that specific thing that is separate from the other ones.
+Then each track can advance in the – at the optimal speed for that track. I
+believe it will avoid the situation where we had the lottery to decide in a big
+pool, who was going to be served first with evaluation. And then you have
+people who are evaluated. They played the lottery.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 19
+
+And then three years later, we finally want to delegate the (COE). Even
+though they’ve had the – they were afraid they might be too late. So I think
+separate tracks have the advantage that everybody gets to a result more
+quickly. So it’s not my privilege.
+Woman:
+
+I’d like to ask you a question why you’re at the microphone. Is by putting them
+in separate tracks like that and turning silos in there. Do you somehow say
+that something can only be a brand? And that same word can’t be a general or a community name or something else - once its own silo as a brand. So is
+that a side effect that we would have to deal with?
+
+(Verner):
+
+I think that is a side effect you would want to try to avoid. So we indeed, if
+somebody said “I want it as a brand.” And somebody else said “okay. Actually
+this should be available for a community.” We might have processes similar
+to what we have with the public interest commitment, for co-generics. Let’s
+say we want the community that is not the brand in the interest to have at
+least – you know – the ability to do something.
+
+Woman:
+
+So another complex piece of work that we would need to prepare for. Thanks.
+
+Jeff Neuman:
+
+Okay. (Paul) is next. And then Heather Forrest.
+
+Paul McGrady:
+
+Paul McGrady. And without addressing the actual question, what about an
+accelerated that brand process. Because I’m still struggling with that as a
+question. I did want to respond. So I can and I apologize to (Jordyn). I
+disagree with you. The Specification 13 was a stopgap implementation
+measure. Principle C - of the policy adopted in 2007 - clearly indicated that
+one of the purposes - of this entire program - was to allow for a differentiated
+market, differentiated domain name spaces.
+Just because we failed to implement that adequately doesn’t mean that the
+framework around Specification 13 is somehow not based on policy. It was
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 20
+
+an implementation fix. It wasn’t anything special or new. And I do think that
+we should – I think – as a practical measure – if different categories of
+(GTLD)’s were not meant to come out to the new (GTLD) program, then we
+shouldn’t have said it in the principle C.
+We clearly state that “in addition the introduction of new topical domain
+application process has the potential to promote competition in the provision
+of registry services to add to consumer choice, market differentiation and
+geographic and service provider diversity.” So I don’t think that we’re doing
+anything radical by recognizing that there are – in fact – different categories
+of (TLD)’s. Thanks.
+Jeff Neuman:
+
+Thanks Paul. Heather Forrest is next and then Greg. Is there anyone else?
+Okay. I’ll put you in the queue after Heather Forrest.
+
+Heather Forrest: Thanks (Jeff). Heather Forrest. Just a dull administrative question, or
+administrative point, rather. To the extent that we talk - about fast tracking
+brand --, we need to keep an eye on the timeline of the (RPM) and (PDP). Of
+course acceleration might not mean leap frogging them. But their timeline is
+not exactly accelerated.
+Jeff Neuman:
+
+Okay. And then I’ll put myself in the queue after Avri. Greg, Avri, myself and
+Jordyn.
+
+Greg Shatan:
+
+Thanks. Greg Shatan for the record. And just picking up on something that
+(Verner) said. And maybe this is getting too much into the weeds. But in
+terms – if we are going to be doing a lottery for the order - in which
+applications are processed – perhaps applicants could be able to indicate
+where they would like to be in the order.
+You know, the wonderful company that wants to get to market quickly. Wants
+Number One. A brand that needs a lot of time to plan exactly how they would
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 21
+
+architect their dot brand eco system amongst all of their businesses and
+potential other users.
+Doesn’t want Number One. So the other logical alternative is to allow these
+things to be bought and sold. That could be a lot of fun. But probably not a
+very good idea unless you get Number One. But – you know – since a good
+part of this industry is based on speculation in receiving things you get cheap
+and sell high is another way for everyone to have some fun.
+Jeff Neuman:
+
+Thanks Greg. Avri is next.
+
+Avri Doria:
+
+Thank you. Avri Doria speaking. I actually wanted to sort of jump back to the
+program that we sort of were trying to work towards today. And one of the
+things – that I said earlier –is that we’re presupposing a lot of the answers to
+our (CC1). We – and I think Jordyn sort of said the same thing. But then Paul
+sort of said well, that isn’t new policy. That’s policy that was implicit in the
+politics.
+(Certainly was an expletive that I couldn’t (quote publicly). So it was policy
+that was implicit in the other. And what we’re doing – in some sense – is
+moving beyond the questions that we have yet to answer and presupposing
+answers which is fine with what we have to do as a group. And then modify
+those answers once we get the comments. But we’ve also jumped somewhat
+into the track work.
+And some of these issues that we’re approaching now are the things that
+we’ve talked about only beginning this afternoon. So - while I don’t want to
+suppress any of us in terms of having this initial conversation – I think we’re
+streaming way out of the track we had planned on for today.
+
+Jeff Neuman:
+
+Thanks Avri. I’m going to take myself out. So I have Jordyn, Phil and anyone
+else. And then I think we’ll close it. And then go back to the regularly
+scheduled program. So Jordyn…
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 22
+
+Jordyn Buchanan: Avri made the point I was going to make already. So I’m fine.
+Jeff Neuman:
+
+Okay. Phil.
+
+Phil Corwin:
+
+Yes. Thank you Jeff. And Phil Corwin for the record. I just want to take a little
+bit of friendly exception to a statement Heather Forrest just made regarding
+the timeline for the (RPM) review. Working group, our timeline is to complete
+review of the new (TLD) rights protection mechanisms by mid-2017. About a
+year from now.
+And to issue a final report and recommendations toward the end of 2017.
+While that is some considerable time. And while we’re not in the latest with
+this working group and are endeavoring to coordinate our activities. When
+you look at the multiplicity – and the complexity of the issues we have to
+address – that’s actually a pretty aggressive timeline to get all of that done
+that quickly. Thank you.
+
+Jeff Neuman:
+
+Thanks Phil. Anne and Jordyn actually wants back.
+
+Anne Aikman-Scalese: Anne Aikman Scalese with the (IPC). I apologize for not being more
+familiar with the work of this group and things like priority or scope. But – as I
+was looking at the comments about potentially prioritizing certain types of
+applications such as (dot Brown) community of lower income geographic
+regions – a lot of the comments that came up went to the fairness about
+doing that. And the possibility for gaming. And that led me to think about the
+objection process. And it makes me wonder if we should be prioritizing the
+review and fixing the objection process before you do anything else.
+Because it’s the objection process that keeps the application process fair.
+And there were a lot of comments that came in with respect to the objection
+process. And a lot of experience in the first round. That it almost seems as
+though you would have better checks and balances - on all the fairness
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 23
+
+issues involved with prioritizing rounds - if you were really solid on potential
+reforms to the objection process.
+Jeff Neuman:
+
+Thanks Anne. And we’ll come back to that when we talk about the tracks.
+And that is certainly a high priority item in the track of the (realistic). Jordyn.
+
+Jordyn Buchanan: Yes. Just to be clear. I realized that I also wanted to respond to Heather
+Forrest briefly. Just so you know, I don’t particularly see how you get to
+deciding that you need a (top) brand round. But – if you did – I just don’t see
+any reason why you would hold that on waiting on the (RPM)’s review to
+complete. If there’s any category of (TLD)’s doesn’t really implicate – I mean
+there are the brand sector (TLD)’s already don’t have to do (summarize). Like
+they’re really – I can’t imagine that we’ve seen any actual disputes on any of
+the dot brands. So it just seems like – of any category of (TLD)’s – we just
+wouldn’t worry about holding up for the (RPM) review to complete. It would
+certainly be the dot brands.
+Jeff Neuman:
+
+Thanks. One last comment from (Alexander). And then we’ll close it up and
+go to the regularly scheduled program.
+
+Alexander Schubert : Again, I’m Alexander Schubert , just ten seconds. Well this could be a
+good mission to prevent the gaming. So if someone claims to be a brand or if
+the generic term that is a brand. The community could object to it and say,
+“No, we don’t think that this would go as a brand. This has to wait.” Because
+maybe someone wants to use as a generic application.
+Jeff Neuman:
+
+Okay. This is Jeff Neuman and I’m going to turn it over to Avri.
+
+Avri Doria:
+
+Okay. I was – this is Avri Doria speaking again. I was sort of concerned how
+we were going to get through all the text in an hour and a half. So now I have
+absolutely no worries that we can do it in 20 minutes. So going back to the –
+can we go back to the beginning of the overarching issues? So okay. And
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 24
+
+we’ll go through each of these slides quite quickly. Because – as I say - there
+is only 20 minutes left in this session.
+But we sent out the community comment one. Because there’s going to be
+comments based on all the tracks that we’ve just sort of been alluding to and
+will talk about later. And – as I said – as we look, we’re talking, I’m hearing
+the answers are beginning to emerge in our conversations on these. And one
+of the results – at the end of this community comment period – will the group
+basically drafting its first responses to these. It’s first recommendations to
+these. So the six questions – to remind anyone that doesn’t remember them
+– is are we going to have additional new (GTLD)’s in the future? I’m
+beginning to get the impression that we think probably.
+Categorization or differentiation of (TLD)’s. For example, brands,
+geographical supported community in the ongoing new (GTLD) mechanisms.
+Again, a conversation is very much presupposing that. But we may need to
+discuss somewhat what they are and how we differentiate them. And how we
+define them. Future new (GTLD) (views) expected in separate rounds. And
+that’s in quotes. Although we’ve gotten much more comfortable using the
+word again. For a while we were punishing ourselves every time we said it.
+But now seem comfortable with it again.
+Predictability should be maintained or enhanced without sacrificing flexibility.
+Any event changes must be introduced in the new (GTLB) application
+process. The disruptive effect to parties should be minimized. Community
+engagement and new (GTLD) application process and the limitation of
+applications - either in total or per entity - applying during an application
+window. And there’s that second word that’s started appearing other than
+rounds.
+So what I want to do now is go to an individual page on each of these. And
+basically see if there’s any questions, any comments there. Also to basically
+see if anybody is willing to now state - kind of categorically that - the answer
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 25
+
+that I’m seeing emerge. That is some form of yes, is really wrong. And that
+there’s a position out there that actually does. Because I’m constantly hearing
+a – almost a conspiracy that there are a lot of people that don’t want new
+(GTLD)’s.
+Now, everyone I’m listening to at the moment - seems to be presupposing
+that there will be, there should be - there ought to be, there can be. But I’d
+really like to give an opportunity now not to those who have reasons for why.
+But for those that have reasons for why not. If there are those people. And –
+you know – so that it’s never been repressed. It’s never been presupposed
+without allowing a statement to be made that you don’t think so. I see a hand.
+Okay. Jordyn has a reason for why there shouldn’t be.
+Jordyn Buchanan: Probably not the person you expected to raise their hand. Lately my hand –
+it’s Jordyn Buchanan. So – I think – there’s really one important output from
+the (ccTRT) that ought to be a predicate to proceeding with the release of
+additional new (GTLD)’s or at least to doing it in a manner that we did it
+similarly to the last round. And that’s whether the cost benefit analysis is
+positive. One of the things the (ccTRT)'s trying to figure out is roughly – like
+we know that there’s benefits to choice.
+There’s benefits to competition and so own. But do those benefits outweigh
+any potential costs we’re capable of identifying. And it’s – I mean I personally
+– not speaking for anyone else in (ccTRT) I personally – think the answer to
+that is likely yes. But – if for some reason – it turned out to be no. Then I think
+you’d have to a big step back and say, “wait. We can’t do more of these until
+we figure out how to get that balance correct.”
+Avri Doria:
+
+This is Avri again. And that very much echoes – I think at least – one of the
+views we heard yesterday in the cross community conversation from Spain.
+In terms of asking that very specific question. Are there any other points
+though that needed to be considered - on sort of the “not” side of this
+particular ledger - while we’re thinking through things that we need to answer,
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 26
+
+things that we need to account for. Should I move on? I see no reason not to.
+Okay.
+So then going to the second one on categorization. Again – as I’ve been
+listening, you know – we’ve been talking about there being various types. And
+those being discreet in some sense. Meaning that they can be defined, that
+they can be – you know – carefully. It’s a careful box that you know what’s in
+the box. that you know what doesn’t fit in the box. Though we also had
+discussion of perhaps it’s an objection process that defines something as
+what it looks like in the box. But it’s not really in the box. And that kind of
+conversation.
+And then we’ve gone through a list of various kinds of these that might be.
+Now – I’ll be quite frank – in the last round, I was one who very much
+objected to the listing of different types. Because I didn’t think we really knew
+which ones would emerge and we could imagine many.
+Now we have a fairly good set of evidence of which types seems to have
+emerged. So I’d like to get some feedback on where we are on that. Is the
+supposition - I’m making – that there’s a general sentiment for there being
+types. There’s a general sentiment being made for those types can be
+carefully defined. And that perhaps there needs to be an objection type of
+methodology which has been very much a message that has been used in
+the new (GLD)’s all through. But there needs to be some kind of objection
+methodology for determining when something isn’t a type it’s claiming to be.
+What are the point need to be? And I don’t want an (exit) point necessarily go
+through the – yes that type exists. No, that type doesn’t. What I’d kind of like
+to see us do – if what I just said is generally acceptable and gets borne up in
+comments – is try to define how we actually define the (unintelligible) box.
+How we delineate a type? And then see which of those fix that kind of
+analysis. But I’d like to get comments from (unintelligible), please Jeff.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 27
+
+Jeff Neuman:
+
+Thanks. This is Jeff Neuman. The only thing I would add to that is I think you
+stopped at the application evaluation dispute. But I think also how that’s
+implemented going forward. Things like reserve names and register registrar
+separation.
+And all that other kind of stuff. I do think - that if you do come up with types –
+there may be implications on those subjects – other subjects going forward
+as well. So we need to keep that in mind as we go through the work tracks
+that certain things for certain types of (TLD)’s may or may not apply,
+depending on what that type is.
+
+Avri Doria:
+
+Okay. I see two hands. I see Heather Forrest and Paul. And I see no
+physical. And then (Alexander)’s a physical hand after those two virtual
+hands.
+
+Heather Forrest: Thanks Avri, Heather Forrest. I would – there have been some questions or
+comments - in the chat about 2007 and - predating 2007 the discussions on
+categorization. And obviously – at that point – we opted not to categorize. But
+for the – if you lack specific provisions in the guidebook on community. I think
+it would be helpful just to remind ourselves. Go back to that specific language
+and the rationale as to why categorization wasn’t chosen then.
+Please bear in mind I’m not leaning one way or the other. But I tend to find it
+helpful – in discussions like these – to go back as a starting point to where we
+were. And see if we agree or disagree with those points now. Thank you.
+Avri Doria:
+
+Thank you. After these comments, I can jump in and quickly give what I think
+it was. Paul.
+
+Paul McGrady:
+
+Paul McGrady. Heather Forrest said 70% of what I wanted to say which was
+we’ve already recognized a type, right, with the community based
+applications. So it’s not like there was no differentiation identified in the first
+round. We clearly differentiated those and saw them as being different in the
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 28
+
+marketplace. We then fixed the lack of differentiation for dot brands through
+Specification 13. So we’ve already done that. So – I do think that – we’ve
+already gone down that path.
+I think there are other categories as well. In terms of new geographic market
+places and things like that that – you know, for example – when you look at
+who applied where, there were not enough out of Africa, right. And so we
+made that might be its own kind of differentiation as well, in terms of how
+those are evaluated financially. And things like insurance provisions and stuff
+like that that get in the way.
+And so – you know – there are good reasons to differentiate. And not just to
+create new commercial categories. And so – I think – that going the path and
+differentiation this time consistent with policy, principle C. I think it makes
+sense. And – I think – there’s policy run way for us to do that. Thank you.
+Avri Doria:
+
+Thank you. (Alexander), and then the next…
+
+Alexander Schubert: Again, Alexander Schubert . And in the 2012 round, the categorization was
+self-identified. So self-identified as for example, a (GOTOD) or to the
+community. And there was no real sense of to a game or to self-identify the
+community if I am not a community. Okay. I think one or two brands that selfidentified with a community even if they weren’t.
+But – in the next round – if we have (junked) the self-identification as being
+one of those categories, we would need to (elevate to the depth of Rio). I
+mean if someone says, “oh, we are community” and they’re doing the stuff to
+be (passed) and then they don’t pass the community test, we have to do it
+before they can even be (passed). So just the self-identification as community
+or whatever, wouldn’t be enough.
+Avri Doria:
+
+Okay. I put myself in the queue. And I have Edmon and then Greg. And
+(Carlos) and then Jordyn. Okay. I’ll just quickly say why there was a
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 29
+
+comment. This is Avri Doria. Why a comment was made that we had one
+type. We talk about this kind of being the first round of new (GTLD)’s,
+forgetting that we had done a supported round before that.
+So essentially we went into this round with two existing types. The beauty
+contest, the kind that had been awarded in the first trial round. And the
+supported from the supported round. But that definition of supported migrated
+into the community notion.
+Beyond that --whenever we talked about categories and at the time it was not
+types – it was the category conversation. It was a very strong push from
+(GAC) and there were other pushes for categorizing. We could not come to
+closure on what the categories would be. Now it’s very obvious what
+categories we’ve got. We knew there would be categories. But we didn’t –
+you know – that sort of before the fact, these will be the categories was a
+very difficult issue to come to closure on. Because lots of people had really
+good reasons for why a category may or may not exist in the coming round.
+The only two - we knew for sure though - is standard and supported called
+communities. Okay so that was the bit I wanted to give about the history and
+why we limit it to just two. Okay. So I had (Edmon), Greg, - who’d I have
+after?
+(Edmon Chung): (Edmon) here. So I guess building right on what you said. I think going down
+the path of having categories is probably a good thing. Although a couple of
+things are important. As you actually mentioned, these categories emerge
+over this physical round, doesn’t mean that more categories can be created
+in the future. So – I guess – one point is yes, we can probably provide some
+listing of some sort. But we really shouldn’t be fully prescriptive to a point
+where additional categories can’t be added.
+The other point is – in terms of category – there’s one part that is nice to – I
+guess for – the public or for people to get – wrap their mind around what kind
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 30
+
+of (TLD) they are. There was another – more important – part which is the
+priority. Last time around, the community applications would provide a
+priority. If we go down with half of the categorization, it’s – the matter of
+priority is – I think it’s – bigger question than just listing the categories.
+Because – you know – we can certainly add more categories. But how are
+they prioritized. Are they prioritized? Are they treated differently? That
+particular part would be – I guess – more importantly discussed.
+Avri Doria:
+
+Thank you. I’d like to point out that we have five minutes left, I believe, in this
+session. But anyway, Greg.
+
+Greg Shatan:
+
+Thanks. Greg Shatan. Just briefly. I think there was – you know – high
+incentive for gaming on the one category we had in community. You know for
+the reasons that Edmon just pointed out. And – in fact you know– arguably,
+there was quite a bit of gaming since it did give you priority. So claiming you
+were a community – and not just a regular old (TLD) basically – was a trump I hate to use that word – over other applications.
+You know - one thing to consider is making it clear that if you are in a
+category - that means that you are ultimate implementation of the (TLD)’s has
+to be done in a way that reflects the category which goes to a much larger
+point which won’t go into in the five minutes or four minutes now left which is
+what is the – how binding is what’s said in an application.
+
+Avri Doria:
+
+Thank you. That is a big topic.
+
+(Carlos):
+
+Yes. Thank you, (Carlos). I just want to warn that if I’m interested in the
+discussion of categorization is not only for fast tracking. That might be one
+reason. But there might be other problems that we have seen that we want to
+fix. It’s not necessarily just for the speed of the process that I would like to be
+involved in the discussion. Thank you.
+
+Avri Doria:
+
+Thank you. Jordyn.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 31
+
+Jordyn Buchanan: It’s Jordyn Buchanan. So I think – and Avri, I think you’re absolutely correct.
+It’s the case that we can now look. And obviously we could make
+categorization determinations about various (TLD)’s and applications that
+exist. I think Edmon’s right to caution us that just because we’ve seen some
+already doesn’t mean that others are not going to emerge in the future. And
+so some of the caution – that was exhibited in the 2007 round – ought to
+apply here as well.
+I think – more importantly though – because I really want you guys to finish
+one day. And I think Jeff really touched on the concerns in opening this up
+which is this just like multiplies the amount of work that you have to do. You
+have to like now identify the categories and - for each of them - you need to
+see for all the things we’re looking at. How do these categories interact with
+the chunks of work. You’re like – you’re multiplying your work by probably –
+maybe not – per how many categories you get. Because there’s going to be
+some efficiency to this. But certainly it’s going to be a significant increase in
+the amount of work you do.
+I would certainly suggest you could get to a bunch of general principles and
+start allowing people to apply – under the existing framework – and then
+come back and - take a look and - see whether you want to do additional
+things to create, make it easier, or something under specific categories. As
+opposed to making just a blocker that is getting to initial completion of this
+process.
+Woman:
+
+So Jordyn actually captured one of the points I wanted to make which is I
+would rather see us focus on the categories that have already developed and
+emerged from previous rounds as the ones we spend time listing up criteria
+for. And then also have the option where other types of categories or
+business models or use cases could emerge in a more open kind of format
+for these. Because - I think - that also gets the goal of trying to foster
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-29-2016/2:20 am CT
+Confirmation # 8995670
+Page 32
+
+innovation in the space. I don’t want to see us like ruling out potential uses by
+over litigating the categories.
+Avri Doria:
+
+Thank you for that quick suggestion. We are pretty much at the end of this
+slot. What I’d like to do – for the next one if that’s okay with you Jeff and the
+rest – is when we come back – after lunch – quickly try to go through the rest
+of the six quickly in the same style that we’ve been going through now. And
+then move into the tracks which we’ve already started talking about at the
+beginning of this.
+So – at this point – I’d like to basically say that the first session – I don’t know
+if you have anything to add. Because I basically seem to have started
+chairing. But to basically wish everybody a happy lunch. And we start again
+at 1:30. Okay. Thank you.
+
+End
+
+

@@ -1,0 +1,1608 @@
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+Wednesday, June 29, 2016 – 13:30 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+[SPEAKER OFF MICROPHONE]
+
+PETER:
+
+All right. Good afternoon everyone. Sure there are still many
+more people on their way, but while they’re getting in, we’re
+going to get started. First session is an update from the regional
+organizations. And we hope to share some ideas and projects
+that can be applied across the regions, or at least provide you
+with some pointers that can help you and identify people within
+the relevant regional organization that is working on something
+that might be of interest to you.
+So, Kim, I don’t know which presentation is up first. Barrack?
+Barrack, the floor is yours. [AFTLD?].
+
+BARRACK OTIENO:
+
+Thank you Peter. Next slide please.
+Okay. So, I have very brief presentation on the African region.
+My name is Barrack Otieno, the General Manager for Africa Top
+Level Domains organization. We had our General Assembly in
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+Botswana, last month, as from 29th May to 3rd June, during what
+we refer to as the African Internet Summit.
+And during the meeting, a new team was elected to lead the
+AFTLD region. We’ve also seen a marked increase in the number
+of ccTLDs that are keen to join the regional organization.
+Secondly, I’ll give an update on some of the key projects in the
+Africa region, and then of course, I will make concluding
+remarks.
+So this is the new Board of Africa Top Level Domains
+Organization. We have Dr. Alex [inaudible] from Senegal, who is
+the new chairman, he is the administrative contact of dot SN.
+We have Ali [inaudible] from [inaudible], he’s a member of our
+security TLD ops committee from dot KM, who is the vicechairman or president. We have Mrs. [inaudible], from Tunisia,
+dot TN, who is our new treasurer.
+We retained, we still have [inaudible], who is on the ccNSO as
+one of the directors. Then we have Nicholas [inaudible] from
+Madagascar, and [inaudible] as well Malawi represented on the
+Board. So those are the new changes, I communicated the same
+on the ccNSO community list. We recently had our General
+Assembly in training for registry staff, attended by 30
+participants from 15 countries.
+
+Page 2 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+With the support of ICANN and the Internet Society. The next
+training is going to be in Senegal, we are working on a train the
+trainers program, with the support of ICANN, to build capacity
+within the African continent. We’ve been relying a lot on the
+network setup resource center, but we are in the process of
+building local capacity and we are seeing this trickling in the
+number of ccTLDs that are actually getting automated and
+supporting each other at regional level.
+Then at the end of the year, of course, we have a security course
+as well in Khartoum, Sudan in November. So some of our main
+activities of focus areas are listed on the presentation, to
+facilitate implementation of registry automation and improve
+operational sustainability of the registry services for at least 50%
+of the ccTLDs identified through needs assessment by 2020. So
+as we speak, at least 60% of our ccTLDs are automated and
+walking towards sustainability. We’ve had a massive challenge
+due to the nature of challenges across the different African
+countries, but we’ve learned a lot from our sister organizations,
+CENTR, APTLD, LACTLD.
+We’ve picked some of the ideas being implemented in the
+region, and we’ve implemented this. I’m also happy to report
+that some of the members of the other regions have been very
+helpful to us. During our last African domain name system
+
+Page 3 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+forum, we had our colleagues from CENTR, APTLD, and LACTLD
+come and share ideas on marketing and sustainability in ccTLDs.
+And this has gone a long way in helping in the way our ccTLDs
+operate. But more specifically, we are looking at having at least
+90% of all of our ccTLDs automated by 2020. We still have a
+couple of challenges that are beyond the remit of the regional
+organization, because some of them are political in nature, but
+we are finding ways of going around these challenges.
+We… Most of our ccTLDs are actively participating within the
+ICANN and ccNSO ecosystem. And we’ve been given a challenge
+by the ccNSO to ensure that more and more are involved, and I
+think it’s a welcome challenge to us. We do hope that by 2020,
+we’ll have 90% of them, at least, participating actively and
+substantially within the ccNSO.
+We still have a challenge with getting proper statistics and better
+in our region, but this is something that we are working on. And
+I know that CENTR is leading the way in this, and we are really
+going to count a lot on our partnership with them, so that we
+can [inaudible] better in statistics on ccTLDs in the African
+region, but the market is open. And the market is ready.
+And we invite, in particular, registrars to just come in and assist
+us in the area of business development. We are also working on
+governance. A lot of our ccTLDs are now being managed by
+
+Page 4 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+regulators, which is a new challenge for us. So, also, a lot of the
+regulators are in this particular ICANN meeting. They’ve been
+coming just to learn how we can be able to have a right balance
+between the regulators and the business communities in the
+running, the ccTLDs.
+Some of them, the regulators are, the administrative contact,
+then you find the private sector organization as the technical
+contact. So we are having very interesting models that are being
+tested, and we are happy to receive a lot of new ideas from
+ccTLDs that are practicing this here. So that’s it from our region.
+Thank you Peter.
+
+UNKNOWN SPEAKER:
+
+Any questions for Barrack?
+Okay. Thank you.
+Thanks, and the next one?
+[SPEAKER OFF MICROPHONE]
+All right.
+Can we go a couple of slides?
+Yeah, let’s start with this one. Okay, quick update from CENTR. I
+wanted to focus on three points. First of all, we have rebranded
+CENTR from the, I would say, very powerful but a bit annoying,
+
+Page 5 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+all read across every page, every [inaudible], every map, every
+picture, to slightly modern and up to date approach.
+The one to thank for that is Alex, she’s at the back of the room.
+Hey Alex. Alex is CENTR’s communication manager. I’m sure
+that you’ve already met her. Probably more important in a
+sense of usability for members, is that our new website is not
+just softer on the eye, but it’s a much better tool.
+We had a complex website in the past. It had been up and
+running for just under eight years, but it was getting very hard to
+find what you were looking for. The new website should change
+that. So, I invite you to test it and let us know what you think, let
+Alex in particular know what you think, Alex at CENTR dot ORG.
+But you should be able to find [inaudible] the things that, even
+as non-members, I hope you benefit from such as, the reports
+from ICANN such as the ICANN pre-guides, where we help you
+and some of your constituents to find your way across the ICANN
+meetings.
+There are reports from ITF that we do in collaboration with
+LACTLD, and plenty of other stuff that you might find helpful,
+including news and policy updates. So feel free to have a look
+and let us know what you think. Second thing I wanted to
+mentioned, I’m sorry, Kim, but the pointer doesn’t seem to work.
+Thanks.
+
+Page 6 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+Is we’re working on a registrar portal. A quick background to
+that is, CENTR has now had two meetings with registrars. We
+called them the CENTR Registrar Days. And they’re taking place
+the day before General Assembly. We’ve had one in 2014, one in
+2015, and the next one is planned for the meeting in Belgrade.
+That is the 5th of October, if I’m not mistaken. But our new
+website should tell you, because it’s on the calendar.
+During these registrar days, it was obviously good to exchange
+ideas, and views, and problems, but what we like most is that we
+ended day with very concrete action items. And one of these
+action items was that we kept on hearing from registrars, it was
+terribly difficult to figure out which ccTLD had which policy.
+There were across 28 different languages in Europe. Thank you.
+So they were across different languages in Europe, different
+sections on the website, anyways, hard to find for a registrar and
+to understand which ccTLD they were allowed to sell an under
+what conditions.
+In addition to that, we had a similar probably with EPP codes,
+registrars that were working with a wide range of ccTLDs, find it
+a nightmare to realize which EPP extension works for which
+ccTLD, and then there is the problem of the individual flavors
+that are added to EPP extensions.
+
+Page 7 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+And so what the registrar portal does is for the CENTR members,
+it provides to registrars a one-stop shop, an overview of both
+policies, can you register it, yes or no? And EPP codes. Do we
+have implemented the extension, yes or no? And if so, what
+flavor? Currently running in a beta test phase, getting really
+good responses from registrars, and I think it’s a perfect
+opportunity to export that across the other regions, and might
+find helpful for dealing with your registrars too.
+Next slide please, thank you. A last point I wanted to raise, and
+this is nothing innovative, and I’m sure it’s not new to most of
+you, but we keep running into a problem that basically prevents
+us from doing a good job in representing our industry and
+advocating some of the technologically neutral positions that
+we take in the policy debates, and that is a very simple thing.
+People have no clue what they’re talking about. And that is a
+scary thing because in Brussels, in particular, every week you
+have new policy people starting on their job at the European
+Commission, or as an advisory in the European Parliament, and
+they will be developing policies that can, and probably will have,
+a significant impact on our industry, from privacy, to security, to
+standardization.
+Standardization seems to be the answer to every single
+regulatory problem we have these days. But then when you talk
+
+Page 8 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+to them, and you ask them, or you come up with a couple of
+examples and you see a look on their face that makes you realize
+they have no idea what the DNS is. They have no idea of what an
+IP address is, or why walking doesn’t work.
+So we do have a fundamental problem that there is a lack of
+understanding on the most basic level of how the internet
+works. And so, one thing I just wanted to say to this room is that
+that is contrary to what I had been hoping, a couple of years ago,
+we’re actually intensifying our efforts to educate people, how
+this works and why that is important if you’re willing to write
+legislation.
+So, just as a type of benchmark for the last year, roughly, we
+train just over 200 people from European Commission and
+European Parliament. And we have currently only one module,
+which we’re hoping to develop, and that one module is internet
+basics. So it really starts from the plug in the wall, and two
+hours later, with an explanation of the root zone and role of IANA
+and how it all fits together.
+So we’re going to build more modules. We’re going to make
+sure that we can deep dive on a couple of issues. And I’ll keep
+you posted. The idea is that we have these modules as a kind of
+a wide-label training that CENTR members could then use for
+their own purposes. Before you think that it is scary that a
+
+Page 9 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+lawyer tells our people how the internet works, during that
+exercise, I’m supported very strongly by some of our tech
+experts, and one is in the room, Peter [inaudible] from
+[inaudible].
+Heartfelt thanks to Peter, and his colleague from DNS BE, Rolo
+[inaudible], and Peter [inaudible] from [inaudible], and a couple
+of others, that make sure that they allow me to cut a few
+corners, at least, everything is factually correct.
+
+So two
+
+questions to the room. Who else is doing training?
+I would say on a larger scale, through policy makers or
+governments. No one.
+[SPEAKER OFF MICROPHONE]
+One. All right, one, thank you. And my second question, I think
+we can take offline, can we cooperate…? But we’ll discuss that
+after this presentation. If anybody is interested to discuss this a
+bit more, or can think of partners across regions, because on a
+regional level, we have a couple of pretty good potential
+partners for fully-developed educational course, but crossregions, I would be very interested in that. Thank you. Any
+questions? No.
+
+UNKNOWN SPEAKER:
+
+Page 10 of 50
+
+Can I ask?
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+UNKNOWN SPEAKER:
+
+Yes, of course.
+
+UNKNOWN SPEAKER:
+
+I don’t know why we haven’t discussed this before. I was at the
+[inaudible] and I didn’t ask you for that, but this is something
+really interesting to develop in our region too. And I come from
+a place where we did that, and there is a lot of interest in and
+good results from building capacity…
+
+UNKNOWN SPEAKER:
+
+…all right. Andreas, you’re next.
+
+ANDREAS:
+
+…despite I have been with some places at the ICANN community
+in the last 10 years, let’s say, and most of your faces are familiar
+to me. I don’t know how long I will have this excuse being new,
+but this is my first meeting, and my presentation takes
+advantage of that, somehow excuse.
+
+I am really, at this
+
+moment, taken a process where I am having my learning curve,
+and I am learning a lot from all of you, and only my, the
+members of my organization that [inaudible] but also, as I told,
+colleagues of the different regional organizations.
+
+Page 11 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+So I’m really glad to be here.
+
+I am taking stock of what
+
+[Carolina] presented in March in Marrakech, some of our
+ongoing efforts, developments, were listed in that presentation.
+One of those was related to the creation of the working groups.
+This is something that LACTLD has developed since October last
+year, when a new strategy definition was adopted by the
+organization, which for me, at least, was really great news to
+jump into an organization with this clear regional, what is a
+strategical approach that differentiates from taking the future
+[inaudible] to be right here, right now.
+And the working groups was one of the main goals, or one of the
+main points in this strategy. So [Carolina] already told this
+forum about the terms of reference of these groups that have
+been re-adopted and the chairs and vice-chairs that have been
+already appointed.
+
+But earlier this year, the proposal for
+
+working groups, the project let’s say, is planned to last at least
+two years.
+So I list also this… I don’t know if this issue was already
+[inaudible], but I also listed that, so the news here is that our
+working groups are running, working. They have been in the
+involved in the creation and the development, or are being
+involved in the developing of the agendas for our workshops. It
+happened at… We have a structure that was tabled for some
+years now, for our workshops, as you may know, commercial,
+
+Page 12 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+technical, legal, and policy, and we have four working groups in
+the same topics.
+So each of these working groups are related and contributing in
+a bottom up way, to finding which topics are interesting, finding
+which approaches or which type of exchanges are the most
+useful to do in every workshop. So at the policy workshop in
+May, last May, in Cuba, in Havana, the policy working group,
+which is very active, met previous to the workshop, met also
+inside in Havana and after that, and was involved in the
+development of the agenda.
+And this was a really successful agenda it was a worship that had
+interesting results, that was the only meeting this year that has
+already done, but the policy worship is also involved in the
+LACTLD [inaudible] similar to EuroDIG, it’s our regional Latin
+American Caribbean initiative.
+
+LACTLD was involved in this
+
+process for many years, but part of the MAG, or the [inaudible]
+committee now, our community is trying to have a collective
+approach to that type of forum.
+The technical working groups and the commercial working
+groups…
+
+Page 13 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+ANDREAS:
+
+EN
+
+…in defining the agenda in, in a more individual way from our
+side, but for me, it’s really useful to interact with our colleagues
+in the development of this agenda, in these agendas. The legal
+working group is also taking shape more slowly, but they are
+also there. There is also a point regarding my transition, it has
+been really smooth. I need to stand out the role of the previous,
+my [inaudible] in this position was really dedicated to help me to
+jump into the task in the middle of the year, actually.
+I had something that was a luxury for me, a two-week period of
+adjustment. We were sharing roles with [Carolina] and that was
+really a helpful moment for me. So then I started trying to gain
+experience from our communities, and I participated in
+[inaudible] events, like the ITF in Argentina, I am based in
+Argentina actually. The [inaudible] last month, and the I-STAR
+meeting with I-STAR organizations, and also I have been
+continuing with [inaudible] the seats of LACTLD at the
+[inaudible].
+I have also taken part of this study that LACTLD is doing, the DNS
+marketplace in Latin America and the Caribbean, I am, let’s say I
+am member of that team also that other colleagues are leading.
+I am just trying to learn there more than contributing. But this
+will make my [inaudible] much better. Also I have been working
+with the [Any Cast?] cloud project.
+
+Page 14 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+This is something that, I put this item in the transition because
+it’s something that I need to understand which are our goals
+here, but it’s also noted in other parts of our this presentation
+actually. In Cuba, also we have our General Assembly. We had it
+two months ago, actually.
+
+This was the policy workshop
+
+together with the General Assembly, the main General Assembly,
+because it was the one that, new authority for our organization.
+We have two, but one is the more critical General Assembly. And
+the [inaudible] was together with LACNIC and [LAC IX], the three
+organizations coming and joining together. Our fiscal balances
+were approved, and this year we had a really, we a different
+approach because we had two independent audits, because the
+independent audit that was conducted this year for the three
+first months of this year, was concurrent with the pending of the
+term of the previous year, general manager.
+So our General Assembly approved all of the fiscal and financial
+aspects of the previous term, of [Carolina’s] term, and that was
+something really interesting to start in this situation, because
+the organization now is organized financially, but the history
+was not always that. So it’s important to [stand out?] that,
+LACTLD Board has had some renewal, also, for [inaudible], from
+Brazil, from dot BR, was reappointed for a three-year term, like
+every member of the Board has a three-year term.
+
+Page 15 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+So [Frederico] will come back for a few more years. We also
+have the challenge to cover the position of [inaudible] from dot
+AR, that ended his position at dot AR, so he had to step down
+from the Board and [inaudible] from Paraguay, from dot PY, was
+the one that was selected by the community.
+Also the fiscal commission was renewed for three years. The
+three members of the fiscal commission were appointed,
+[inaudible] from Costa Rica, [inaudible] from Uruguay, and
+[inaudible] from Puerto Rico, it [inaudible] that it’s North
+America, the region, we can say that it’s in the Caribbean from,
+for us, it’s the Caribbean region also. And they are members, not
+only members for LACTLD, but they are also in our leadership
+this time.
+Oscar [inaudible] is part of our fiscal commission, and this has a
+relationship [inaudible] on what you may have read or heard
+about some of the positions the LACTLD Board has taken
+regarding meetings in our region. When we say our region, for
+us, it’s Panama and Puerto Rico were both part of LACTLD
+region.
+So this is something that it’s not considered in this presentation,
+but I had to know that also. So now the leadership looks like
+that. This is not only the three, the two new members of the
+Board, but Eduardo, [Lisa], and Sylvia, Eduardo [inaudible] from
+
+Page 16 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+Columbia is the chair, [Lisa] and Silvia from Chile is the secretary
+of the Board, Clara [inaudible] from Dominican Republic, she’s
+the one that the treasurer of the Board and the two new
+members are [Frederico] and [inaudible] from Paraguay, and the
+three new members of the fiscal commission [inaudible].
+So that is how we look like now with the new, our renewed team.
+And also, some of the future developments, taking in account,
+not only our calendar, but some of the changes in the team, the
+staff we have. We don’t have a great staff, but, so [inaudible]
+staff we have at least three people, but this year, we would have
+three new people. So we would have not only a replacement of
+the general manager, but the two other positions are also new
+people.
+So it’s not that the staff is bigger, but we are bigger people
+adjusting ourselves to these positions. The calendar was similar
+to the one that [Carolina] shared. I need to ask that, add that
+Havana meeting already took place, that the August meeting will
+be together, the technical workshop, the technical workshop of
+LACTLD, the normal one, it’s together with the LAC DNS Forum,
+that it’s an event that has been taking place together with the
+ICANN meetings normally.
+And this time, we are doing that in Santo Domingo. Also I added
+here, the LAC [inaudible] project where the organization is
+
+Page 17 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+involved. It’s not a project of their organization, but we are
+involved there. Also the September meeting, which is not only
+our leader workshop, but we are having leader and regulatory
+joint meeting with CENTR and with public interest [inaudible] in
+Washington, D.C., in September.
+I believe the dates need to be corrected. It’s 14th and 15th of
+September. So that’s a mistake. Also in September, and this is
+news, the LAC [inaudible] meeting in San Jose, in Costa Rica, we
+have a DNS activity, a DNS workshop. That is something that
+will be organized by LAC TLD with the support of ISOC, so it’s
+something that is also in our calendar, and of course, the
+marketing workshop was planned for Puerto Rico and will
+remain in Puerto Rico this time.
+Despite of the ICANN… Yes, Eduardo. Eduardo is reminding me
+that, of course, this was planned to do back to back with the
+ICANN meeting, and we are now continuing a meeting in Puerto
+Rico. Regarding our challenges, we’re having an approach with
+a new website. We will develop a new website. This was
+something that was coming from the previous definition for this
+year, and we will try to incorporate with one of our members
+that will help us to develop our new website.
+Some of the websites, were already shared in the last
+presentation. We’re having interactive part of our website with
+
+Page 18 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+the Wiki, and the working groups are working through that Wiki.
+We are also taking note of the [Any Cast] Cloud project. It’s
+already taking shape.
+
+The managers of that are already
+
+confirmed. In some moment this year, we will have a collected
+signature host managers, and also the MOU is already there.
+Some of the other participants of the [inaudible] are being
+added, and are also signing their contracts. There has been, at
+least what I saw in this [inaudible] is [inaudible] interest for
+many members. So the goal is to have, for the end of next year,
+and I hope I can achieve this goal, and we can achieve this goal,
+to have nodes in 10 countries, or 10 ccTLDs. I hope we also go
+beyond the goal.
+This is something that I am sure that we can achieve. We will tell
+more about this project once we have more developments. So
+thank you very much, I am at your disposal, and this is my
+contact information.
+
+UNKNOWN SPEAKER:
+
+Thank you so much Andreas. Any questions for Andreas?
+Nope. Perfect. Almost right on time ends this session. Thank
+you for listening, and please be in touch if you have any followup questions or suggestions. Thanks.
+
+Page 19 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+UNKNOWN SPEAKER:
+
+Given that it’s the marketing session, I just want to take a
+moment, and I cleared it with the new chair, I did. I’m just… I
+just wanted to announce that [Denny?] and I are going to have a
+little celebration in the room next door, right next door, and
+we’d like to invite all of our friends there after the marketing
+session at 3:00.
+
+And we’ll provide some food and some
+
+celebratory cupcakes.
+So we’d love to have you join us, just for a couple of moments
+over there, at 3:00.
+[APPLAUSE]
+[SPEAKER OFF MICROPHONE]
+
+UNKNOWN SPEAKER:
+
+No, this is supposed to be a [inaudible], so if you want to know
+why a Dutchman is wearing a Canadian jersey in Helsinki, one
+hour from now, you’ll know it all.
+
+UNKNOWN SPEAKER:
+
+Is that [Lea?], please, your mic? It’s on.
+Thank you very much. So good afternoon. We are about to start
+the marketing session. We have a presentation from dot CN,
+taking the ccTLD stands towards the multilingual internet
+environment. Also a presentation from [dot DNA?], an update of
+
+Page 20 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+the Domain Name Association. And a presentation from dot CR,
+the local market. And we start with dot CN, thank you.
+
+UNKNOWN SPEAKER:
+
+Hello everyone. I’m [Ling?] from CN. I’m very glad to have this
+opportunity to share some information of CN, and actually this is
+my first time to make presentation on the marketing session.
+I’m a little excited.
+So, first, I will share some current status of our products and
+service, related with domain name. Next. So in this slide, you
+can see some numbers, but I think there is some problem that,
+on the right upside, there is a missing number, and it makes
+more secret. So this number, I will announce that now, dot CN
+has almost 20 million now. So that makes us become the
+number one ccTLD in the world.
+I think the reason that may be because we know that in last two
+years, Chinese domain name market become very, very hot. And
+a lot of domain name [Westerners?] want in West, dot CN, not
+only dot CN domain name, but also dot COM and some new
+gTLD domain name. So, I’m not quite sure the reason why there
+is a lot of domain name in West, but in China, when some people
+say that, I think it maybe make sense because Chinese dot
+market in the last two years, is not very good. So maybe is the
+
+Page 21 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+reason why Westerners choose the domain name as another
+good choice for investment.
+So, let’s look at the dot China. You know, we also have the IDN
+ccTLD for dot CN. So we call it dot [foreign language], and also
+the right number is missing. And now the current number for
+dot [foreign language] is about 50,000, I think. About 500, I’m
+sorry. 500,000. So also for IDN, I think the dot [foreign language]
+have a good rise for the registration number, and maybe also
+because of the investment.
+And… I’m sorry?
+[SPEAKER OFF MICROPHONE]
+Okay, I’m sorry. So in this slide here, you can see we have more
+than 80 domestic registrars in China.
+
+So most…
+
+A lot of
+
+domestic registrars come from Beijing, [foreign language],
+Shanghai, such kind of advanced city in China. And now we have
+about 2,000 resellers in China. Next please.
+Okay. For the overseas registrars, and dot CN opened oversee
+registration about in 2002, and now we have one gateway. The
+gateway is a new star. And now we have more than about 40
+registrars directly cooperate with C NIC.
+
+And now oversea
+
+registrars come mainly from the Asia-Pacific area, and North
+
+Page 22 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+America, and Europe. So now we are seeking some oversea
+registrars, partners in South America and Africa.
+So anyone can recommend some kind of partner for us, thank
+you very much. Next please. And you know in China, [MIT?] the
+Chinese government has some local policy for the domain name
+market. So C NIC also provides some kind of registry service and
+solutions for such kind of local policies.
+And you know in China, we need to do the real name verification
+service and domain name verification service. So C NIC provided
+such kind of verification service to any registries and registrars
+want to do business in China. So if anyone have interest for the
+Chinese market, please feel free to contact C NIC. We would like
+to provide such kind of free and good quality service to you guys.
+Next please.
+And for the [inaudible] production service, you know,
+[inaudible], he’s a very popular choice, and C NIC also have
+about 12 or 15 technical teams, and we keep on researching and
+developing for about eight years, and we have in our brand DNS
+software and hardware, we called it [inaudible] DNS.
+We name it Super DNS, we hope this software and hardware
+have a good performance. And now we’ve got performance like
+that, so we get more than 10 million QPS per server, if you use as
+DNS. So I think it’s much better than the open source DNS
+
+Page 23 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+solutions. So if anyone have interest, please contact me and we
+will make some detailed information.
+And also for the following IDF Berlin meeting, and there is
+another [byte and bytes?], and we will have some lively demo
+during this [inaudible]. So anyone interested, please join us.
+Next please.
+And for this kind of new gTLD service, C NIC is honored is that we
+got authorized from ICANN. So C NIC is one of three service
+provider in the world, and also C NIC is the [DA] and [RD TPP],
+and TMCH service provider in the world. Next please.
+Okay. In the [inaudible] section, make some brave introduction
+about our current status of domain name business. So in the
+next session, I will make a brief introduction about what kind of
+application and optimization we do. Next please. So, first we try
+to keep on educating the Chinese community, especially about
+the IDN and EAI, such kind of UA application. And we also do
+some promotion with our registrars partners, and we also do
+some publicity. Next please.
+In this slide, you can see we try to make the Chinese community,
+Chinese users, know the dot [foreign language] works, I mean,
+know the IDN works. So we operate with some very famous
+radio programs, and TV programs, and we try to, like them, to
+use Chinese character dot [inaudible], their website and to show
+
+Page 24 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+information about themselves. And we also try to cooperate
+with some applications to make some new applications in CDN
+and IDN.
+For example, we cooperate with the supermarket, and in the life
+bottle picture, you can see there is [foreign language] products,
+and we cooperate with this kind of producers, and they use dot
+[foreign language] domain names. And use this domain name,
+the customers can check the information of the ad products.
+Next please.
+
+And we keep on showing and sponsoring in
+
+different international meetings, not only ICANN meeting, but
+also [inaudible] meeting and hosting committee. Next please.
+So for the IDN, we all know that ICANN has an UASG, and also
+think that we need to make more effort on the UA works. So, C
+NIC try to optimize the UA applications in China. We cooperated
+with [other] providers to make some optimization of CDN. For
+example, you know the English dot and the Chinese dot, period,
+is different.
+But when we try to input Chinese characters, and if we type the
+Chinese characters by the input method, when we input the dot,
+people got the Chinese dot, but the browsers may be think the
+Chinese dot and the English dot are two different characters. So
+we try to cooperate with browsers, like the browsers to make the
+Chinese ones and the English ones be the same.
+
+Page 25 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+So it can make the Chinese users to very complete to you the
+CDN, in the browser by the Chinese input.
+
+And we also
+
+cooperate with the [inaudible] Chinese version, I think maybe
+Chinese version [inaudible], and the [inaudible] such kind of
+Chinese Twitter to, looks at Chinese domain name at the
+hyperlink. And we also cooperate with search engine service to
+include the Chinese domain name in themselves. Next please.
+And for the EAI C NIC do provide a lot of contribution on this
+technology and applications. And we apply for the APAC project
+budget to get a project to try to develop EAI in the AP area. And
+we also sponsor the post-fix to support the EAI. So now post-fix
+can support EAI. And it also works with a Chinese number one
+email software provider, Core Mail. And we worked with this
+company, and co-test with Microsoft and Google to make sure
+the EAI can be used. Next please.
+And in this slide, we want to make introduction about our new
+idea about the ITI, we call it IDN TRD initiative. We think that,
+especially for ccTLD, most services ccTLD registries are
+[inaudible] organization. So that means we have not only the
+duties to make contribution to the community, but also we have
+some resources to do this. So I think we can maybe co-work
+together for any TRD has IDN, and we can work together, we can
+make some capacity buildings, and education to different local
+communities.
+
+Page 26 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+Let the communities know what is the IDN, what is the EIN, and
+try to push more software and hardware providers can support
+IDN and EAII. So this picture was [inaudible] by, was took by,
+two weeks ago, and C NIC provide the internet resources
+capacity building program in Beijing. And this is the third time
+we had such kind of program.
+During the program, we wanted some ccTLD registries and new
+gTLD registries in AP area. And we make some share about the
+IDN DNSSEC EAI experience. Next please.
+And now, we’ve got some interest from different TLDs. You can
+see TLD from Taiwan, Thai, and Hong Kong, and Korea, and
+Russia, such kind of TLD registries think these ITI make sense
+[inaudible]. And now also we got some gTLD registries bot, for
+example [inaudible] and dot Asia. So we want… If anyone has
+an interest and maybe we can work together and make some
+more achievement on the IDN and EI.
+Next. So, that’s all. Thanks for your time.
+
+UNKNOWN SPEAKER:
+
+Thank you very much Doctor [inaudible]. Congratulations on
+your 20 million mark, and thank you for sharing all of your
+inclusive initiatives. What a wonderful job. Do we have any
+questions from the audience?
+
+Page 27 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+I see none. So please give a hand to our presenter. [APPLAUSE]
+Next is Roy [inaudible], is that correct? [Inaudible], okay, thank
+you, from the DNA.
+
+ROY:
+
+Okay, thank you. First of all let me just start by saying thank you
+for allowing me the opportunity to speak to you this afternoon.
+Some of you may know, but I’m actually brand new to the
+industry. I joined the DNA as the executive director in midMarch. My background is really in leading and helping to grow
+associations and business organizations. I’ve been in a number
+of industries over the course of my career.
+I will tell you that I am very excited about being in the domain
+name industry. It’s complex. It’s interesting as all heck, and I’m
+having a lot of fun so far. So let me get right into talking a little
+bit about the DNA. Next slide please. The DNA is a non-profit
+trade organization. We represent the interests of the entire
+domain name industry.
+Our members, next slide, no, it’s right there. I’m sorry. Our
+members include both ccTLD and gTLD registry operators,
+registrars,
+
+registry
+
+service
+
+providers,
+
+and
+
+an
+
+industry
+
+consultants. And as you can see, I’ve listed the ccTLDs that are
+
+Page 28 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+members currently of the DNA. And truly, our members come
+from almost all parts of the globe.
+Next slide. I’m sorry, I think I may have skipped one. Okay, no,
+that’s fine.
+So in terms of what we do and what we focus on, our focus is on
+helping the industry to grow through the use, adoption, and
+expansion of domain names.
+
+We provide a forum for our
+
+industry members to collaborate, to exchange ideas, to educate
+each other and themselves. And really, to raise awareness of
+issues that they all share across the industry.
+And we believe that we create value for our members with
+programs that are focused on helping to solve some significant
+marketing, technical, and policy issues that affect each of them
+and the industry as a whole. Next slide. There are three key
+areas of focus for us, and I’ll briefly walk you through them.
+Number one, content for us is really very important. We believe
+that it is for our members, and so we focus specifically on
+educational programs of various kinds.
+We have speakers at member only events. We put together
+webinars, round tables, and that sort of thing for our members.
+We believe that it’s important to build, to help build a stronger
+community and industry. And so one of the things that we think
+is important for our members is offering a forum where
+
+Page 29 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+competitors can come together in a reasonably safe
+environment, and talk about areas of mutual concern, and try to
+work through some of those issues together.
+User awareness, as I’ve come to learn in the course of my three
+months, is probably one of the key issues that everyone in the
+industry is concerned about and focused on. We believe that
+our… One area for us is to focus on what we call influencers,
+and by influencers I’m talking about people like a chief
+marketing
+
+officers,
+
+marketing
+
+organizations,
+
+advertising
+
+agencies. Those kinds of individuals and organizations that
+have the ability to make use of domain names as they build
+marketing and advertising campaigns, and branding campaigns,
+and that sort of thing.
+And so what we’re focused on is raising awareness of the
+benefits of domain names, and developing materials that our
+members can use when they’re out talking to their clients, to
+potential customers, and so on.
+
+We work with outside
+
+organizations to improve technical acceptance of TLDs, and we
+believe that a trusted online environment is really important for
+all of us, and so we have member led working groups that are
+focused on developing and promoting best practices for the
+industry.
+
+Page 30 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+And finally, the DNA, we believe, is in a position to take
+positions, to advocate for the interests of the industry,
+depending on the issue, of course, but those issues that really
+effect broad swaths of our member base. Next please. So what I
+wanted to do now is to sort of give you a sense of some of the
+activities that we have been and are focused on, so it gives you a
+sense of what the DNA is all about.
+For those of you who attended the GDD, the summit in
+Amsterdam last month, hopefully you saw firsthand how we’re
+taking a leadership position and leadership role in events of that
+kind. About a year and a half ago, this is before my time of
+course, we conducted a global survey to understand the public’s
+awareness of the new TLD environment.
+
+And we have
+
+established and continue to maintain, what I think, is a really
+interesting website.
+And I would encourage you, if you haven’t already seen it, to go
+and take a look at it. It’s called Domains in the Wild, and the
+website address, of course, is listed there. And what it does is,
+we’re constantly updating it with innovative uses of domains.
+So as we see, new and interesting ways of making use of
+domains in marketing campaigns and branding campaigns. We
+post those in that website, so that the public becomes more
+aware of that kind of thing.
+
+Page 31 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+Next slide please. I mentioned earlier how important we think
+content is for our members, and so one of the things that we’re
+now in the process is doing is preparing an entire new series of
+webinars that are focused on a combination of industry issues,
+and topics of interest for our members, and we’re going to be
+launching that starting next month.
+We’re also working on a series of marketing initiatives to help to
+raise domain name awareness in the market. And a piece of
+that, an important piece of that is, including putting some
+content together that we’re going to make available to
+influencer organizations. So for example, an organization that I
+happen to be familiar with is the American Marketing
+Association. It has thousands of members both in the United
+States as well as outside around the world.
+And they’re always looking for interesting content for their
+members. And so we think that we can put together some
+content about use of domain names, and provide that to them.
+And of course, that then helps to forward the agenda for our
+industry. We’re also going to take some of that content and
+we’re going to make that available for our members as well.
+An example of something that we’re actually just about finished
+putting together, if you would move to the next slide please, is
+this infographic that we see here, and we’re going to be sending
+
+Page 32 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+this out to our members actually, in the next week or two. We’re
+just doing some final tweaks on it.
+
+But essentially this
+
+infographic is aimed at marketing people and advertising folks,
+and it outlines 10 different ways that you can creatively use
+domain names in your marketing campaigns.
+And it gives examples and so on, and we think that it’s
+something that our members, number one, can use when they
+are talking to their customers. And again, the DNA itself can use
+it when we’re talking to influencer organizations. Next slide
+please. Now I would tell you, as someone who is coming from
+outside of the industry, one of the challenges that I absolutely
+see, that all of us are facing, is how to craft messages about
+domain names, that are easy for folks outside of the industry to
+understand, without getting bogged down by some of the
+acronyms that we are all comfortable, or you are, and I’m
+starting to become comfortable with: ccTLDs, gTLDs.
+No one outside of our industry necessarily understands those.
+And so, it’s really important that we craft straightforward and
+understandable messages about the use of domain names. And
+so one of the things that we did, if you move to the next slide, we
+made this available actually to our members some time ago,
+again, it’s an infographic, and here we outline for our members,
+suggestions for creating consistent and easy to understand
+
+Page 33 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+messages, that they can use when they’re talking to their
+customers, when they’re promoting the use of domain names.
+And it’s aimed at the outside world, as opposed to within this
+insular community here. Next slide please. This is something
+that I’m really excited about, it’s actually something that we just
+launched last week. it’s an online members’ community site.
+What it allows us to do is it allows our members to more easily
+engage with one another, to interact with one another, to share
+information. It allows our member groups and our committees
+to meet online and to conduct activities online, and it’s a terrific
+way to facilitate networking among our members.
+And so, this was just launched last week, and we’re just starting
+to, you know, get everyone signed up and building it. The next
+slide actually is a quick snapshot of the homepage of that
+community site. Next slide please. We are promoting best
+practices and volunteer efforts to combat abuse through
+something that we called the Healthy Domains Initiative.
+I believe actually there was a session earlier today talking about
+that. And we are also quite active on the UASG committee as
+well. Next slide. So I want to just conclude with a quick pitch
+about the DNA and about membership in the DNA. We do need
+you, we do need you to consider joining as members. ccTLDs
+currently represent about 16% of our member base.
+
+Page 34 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+If we’re able to add more of you as members, what this does is it
+really helps to broaden and diversify the DNA. And a diverse
+member base helps to strengthen the DNA’s influence within
+and outside of the industry, as well as adding value for all of our
+members, and it benefits the industry, we believe. The question,
+of course, is what’s in it for me? You know, why should you join
+the DNA? And I would like to suggest that given that we are in
+such a fast moving and complex industry, with you know, all
+sorts of challenges facing us, working together and combining
+our forces, our strengths, makes it just easier on everyone at the
+end of the day.
+And we think that we are in a position to be able to help you as
+business organizations, and in terms of helping you advance
+your agendas. And I’ll conclude with the last slide. This is a big
+top or a circus tent, somebody just the other day suggested to
+me, that this industry in some ways, is like a circus.
+There are a lot of folks running around, coming, going, back and
+forth. We’re facing significant competitive pressures. We’re
+facing significant issues. It’s only going to get busier, it’s only
+going to get more stressful. And what I would like to suggest is
+that the DNA offers a place where the entire domain industry can
+gather under one roof, can combine forces, work together, think
+through issues.
+
+Competitors can get together, and work
+
+together on common goals and common issues.
+
+Page 35 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+And so, I would certainly invite you to consider, you know,
+coming in under the tent and joining us. I have slip sheets that
+just describe the benefits of membership, you know, if you’re
+interested. I’d be happy to give you my card, if you’re interested
+in having a conversation at some point, and I thank you for your
+time.
+
+UNKNOWN SPEAKER:
+
+Thank you for your presentation.
+
+And do we have any
+
+questions?
+[SPEAKER OFF MICROPHONE]
+Microphone please in the center of the room.
+
+UNKNOWN SPEAKER:
+
+Yeah, okay, it’s working. Before I continue, I have to disclose
+that I am a member of the Board of the DNA. And what I’m going
+to say is not because I’m being paid for that, on the contrary, we
+joined the DNA as soon as it became possible to become a
+member. And we did so because we really believe in, especially
+the long-term [inaudible] the contributions of the DNA, it can
+bring, which is what you can say, the making our industry even
+more trusted than it is now, and making sure that domains are
+there to stay.
+
+Page 36 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+So I just want to say to my colleagues, think about this. We need
+more ccs in here to make sure that also our interests, most of us
+are different from the organizations that [inaudible] as a registry
+for gTLD, so let’s make sure that our interest are also adequately
+taken care of, and to ensure that we need more ccTLD members.
+
+ROY:
+
+Thank you sir.
+
+UNKNOWN SPEAKER:
+
+Thank you. Any other comment or question?
+If not, then let’s give a hand to our presenter. Thank you.
+[APPLAUSE]
+And for our final presentation, it’s [Rose Morales] from dot CR.
+
+[ROSE MORALES]:
+
+Well hi everyone. I’m [Rose Morales]. I’m the executive director
+of dot CR, Costa Rica, NIC Costa Rica. And today I’ll talk to you
+about our marketing strategies for 2015. My presentation will
+consist basically of three parts. First I’ll tell you a little bit about
+who we are, what is dot CR. What was the context and we
+launched this strategy, and finally, I’ll also show you a video that
+exemplifies what we did. So you’ll see the videos that we
+
+Page 37 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+promoted, some applications that came out, the materials that
+basically we use for that marketing strategy.
+And finally, what’s coming next, what we think we’re going to do
+this year. So, to give you some background as to what is NIC
+Costa Rica. We’re a ccTLD with 19,000 domains. So we’re
+relatively small, and I’m going to put that, make that very clear,
+especially after China’s presentation. So have, you know, put
+into context because their figures will definitely be smaller.
+But in a percentage way, it might be larger. So you’ll see what’s
+next. And our sales before this marketing campaign, were about
+900 domains, maybe 1,000 domains per year. So with this
+marketing campaign, we increased to 3,000 domains.
+
+So
+
+basically it was like a 300% increase for our size, it was very
+impressive. We’re a not for profit organization.
+We do not work with registrars at this point. We’re starting to,
+but during this campaign, it was basically, all efforts and all
+sales are managed by dot CR. So we’re the sole registry and
+registrar for the dot CR domain. We focused our sales on the
+second level domain, even though we have other categories. We
+just try to position the second level domain dot CR in the local
+market.
+Before we started this campaign, about 60% of our clients were
+international. We sell domains locally and internationally, and
+
+Page 38 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+only 40% was local. So we identified a big opportunity to grow.
+Costa Ricans are not known to be very nationalistic, or very
+identified with Costa Rican culture overall, and that effects our
+market. So the generics are very common. So we realize that
+with a big competition coming up with the new generics, it was
+time to make things differently and we created this campaign.
+So, next. So to give you some background on the… Next three
+times, three more times. So basically for the background as to
+what was going on in dot CR before we launched this. First of all,
+we had to create a communications department. There wasn’t
+any kind of marketing efforts ever done. NIC Costa Rica was
+created about 26 years ago, and there have never been any kind
+of marketing efforts. So there was a lot to be done.
+We hired someone in staff, and also found a third party that
+could advise us in creative ways to launch a strategy. We had to
+find budget allocation for this. So we had to eliminate some
+projects to focus on marketing, which was a struggle with the
+Board, as you can imagine.
+
+Then we had to, we had the
+
+challenge of making people aware that dot CR existed and they
+identified with it.
+And we use social networks as a way to do that. Costa Rica has a
+strong internet penetration. About 2 million of Costa Ricans are
+online, out of the 5 million, it’s a 5 million country population.
+
+Page 39 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+So, we had a lot of space to grow, but a limited budget. The
+good thing is that our market, being online users, were online,
+and social media was a way that was cost effective, and we
+could reach the market in a good way, in a fast and rapid way.
+Next please. Our general objective for this campaign was for
+Costa Ricans, we call ourselves [foreign language], it’s the slang
+or local way of calling a Costa Rican, so we wanted the [foreign
+language] to identify with our domains, to have a sense of
+belonging and pride, so to link some kind of nationalistic feeling
+to what we are.
+We’re very lucky to launch this right after the World Cup. So
+Costa Ricans, the football World Cup. Costa Ricans, at that
+point, we’re identifying a lot with their country, which was great
+for us, and went in line with that thought, because we, I don’t
+know if you watch football, but we did a pretty good job.
+And then so, just keep that in mind. So we wanted to use the
+sense of belonging and pride to increase our sales. Following,
+we had specific objectives. We wanted, as I said, to generate a
+bond between our product and the clients.
+
+We wanted to
+
+increase brand visibility. People did not know much about us or
+how to reach us. Want to promote the use of dot CR domains,
+encourage Costa Ricans to speak favorably about the brand.
+
+Page 40 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+Basically there was no noise around, either good or bad, so we
+wanted to fill that gap with people talking positively about our
+product and services and increase sales. Something that is
+particularly important, that went hand in hand with this, is that
+we completely changed our website, being that we do not work
+with registrars, our only way to register domains is through our
+website.
+So, this campaign needed a complete new website that was very
+user friendly and up to date. So we completely changed our
+interface, so that’s also key for the strategy. This was… Our
+clients, before we started, basically were between 35 and 50
+year olds, and they all are pretty much involved in the tech
+industry. Very knowledgeable about domains, about how the
+internet works, and that’s a very limited market.
+We wanted to increase and include people like entrepreneurs,
+people that were starting out their companies. So they started
+out immediately using the dot CR domain.
+
+We wanted to
+
+include people between 17, I’m sorry, can we go next? Next
+again.
+There we go. Can we have next? And next again. Thank you. So
+we wanted to include people between 17 to 34 years, the
+younger crowd, and also, well of course, always the domain
+name buying geeks, and the general public overall. So we
+
+Page 41 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+wanted people to know what NIC Costa Rica was all about, and
+recognize our logo and our brand so that we could increase
+sales. Next please.
+Now we’re going to watch the video. This video summarizes
+exactly what we did. It includes statistics. Again, please take
+into account, these are statistics based on a population of 5
+million, with about 1.8 million people online. So, oh, and there
+is a viral video that will come out. One of the viral videos that we
+used that lasts about 20 seconds. It’s in English, but probably
+you will not understand what they’re saying, and it’s because it’s
+a direct translation of our slang.
+So just to show you kind of communication campaign that we
+launched for people to identify with our product. So if you don’t
+understand, even though it’s in English, you’re not supposed to.
+It’s meant for Costa Ricans. So here we go.
+
+VIDEO:
+
+NIC Costa Rica set a new challenge, to develop a communication
+campaign with a limited budget, that would reach a scale large
+audience, taking into account that this is a small country, with
+less than 5 million people.
+The context to this strategy was a challenge to NIC Costa Rica.
+Not only did it have it to make the domain, dot CR, well-known,
+
+Page 42 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+but it also had to increase sales using only 3% of the
+organization’s total budget.
+Studies conducted by specialized entities in Costa Rica,
+regarding the behavior of the Costa Ricans, are also known as
+[foreign language] on the internet, showed an increase in use of
+social networks, and also identified the Costa Rican pride was
+more entrenched than ever.
+With this in mind, the creative concept of the 2015 campaign
+was to empower the [foreign language], a sense of belonging
+and pride. For these reasons, use social networks and other
+non-traditional media spaces, such as the main channels, were
+chosen to meet our set goals. The following strategies are
+noteworthy, as part of the communication campaign of 2015.
+Production of three viral videos that highlighted the [foreign
+language] unique characteristics.
+Hey boy. Can you tell me how to get to the box?
+[Inaudible]
+…strap on your batteries, [inaudible]… continue straight 100
+bars, say, [inaudible]. Then you’re going to grab 20 meters
+north, until you crash the fence. Then you continue straight,
+straight left, and you’re looking for a yellow house with the blue
+
+Page 43 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+dots out front. That’s where the box is. You can park there, but
+be careful because they’re after your [inaudible].
+For your life.
+[Music]
+Development of a model application available in the app store
+called, [foreign language], which questions how well of a
+[foreign language] is a person by asking culturally attuned
+questions such as, are you always late?
+Use of gorilla marketing strategies, set towards the different
+parts of the country, in order to create more brand new
+awareness, and more of a connection with the population.
+[Music]
+A series of lectures in public and private universities, with the
+objective of teaching students with different majors topics such
+as, DNS, dot CR domains, and new technologies. In addition to
+the university lectures given, students in different elementary
+school grades received education on the proper use of social
+media and internet.
+Creation of a below the line strategy, which consisted of
+attending various events to have our brand present. Such as the
+
+Page 44 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+participation in the first edition of [inaudible] Party Costa Rica,
+one of the most popular technology events of the year.
+The amount of news [inaudible] within the NIC Costa Rica
+website was increased, with articles and reports on different
+subjects, which helped the website position itself as a priority in
+search engines through SCO. The www dot NIC dot CR website
+was redesigned, and a responsive system was created so that
+anyone could register domains using a mobile device.
+Agreements and strategic alliances were signed, to promote
+joint ventures in technology projects.
+
+The cooperative
+
+[inaudible] Costa Rica was also renovated.
+Journalists and strategies were created between NIC Costa Rica
+in the mass media, which created a closer relationship and
+position in the organization as a key source for technology news
+and discussions.
+Campaign results.
+
+After a year of work embracing the
+
+objectives, the communication campaign of 2015 achieved
+positive results. Given that only 3% of the total budget of NIC
+Costa Rica was available, the average monthly subscription
+increased by 17% by September 2015, as compared to 2014.
+During the time of the campaign, domain sales increased by
+310% compared to the growth achieved during the previous
+
+Page 45 of 50
+
+EN
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+year. The acquisition cost for each customer was only 14 cents
+of a dollar. The viral videos were viewed a total 338,100 times,
+which means that 27% of all people with access to social
+networks in Costa Rica saw them.
+They were liked more than 10,500 times and shared 5300 times.
+The app was downloaded more than 1500 times.
+[Music]
+The guerilla marketing strategy allows us to contact more than
+3,000 people from five different areas of the country, and videos
+of the two were viewed more than 1500 times on social media.
+On the lectures given to the universities, the message came
+across to more than 700 people in the best universities of Costa
+Rica, to people with majors such as engineering, telematics, IT,
+computing, law and advertising design.
+More than 1500 students, 220 teachers, and 100 parents learned
+about the risks of social media, thanks to the lectures given in
+elementary schools and high schools. Just on Facebook, the
+main communication channel, followers went from 900 in
+February, to more than 6,000 in March 2015, representing an
+increase of 500% in just one month.
+On Twitter, followers went from 700 in February to 1100 in
+March, almost 60% more followers.
+
+Page 46 of 50
+
+During the guerilla
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+marketing strategy, ina Costa Rica, the team of NIC Costa Rica
+interacted with more than 3,000 technology enthusiasts, and
+trained more than 60 participants on DNS, and the use of dot CR
+domains when creating a webpage.
+With the journalists in the strategy, the organization was further
+strengthened and recognized as an expert in technology
+subjects on the national level, and achieve excellent publicity
+results.
+[Music]
+In relationship to these very satisfactory results, it should be
+noted that only $1200 was invested in social media advertising,
+and each new customer cost only 14 cents of a dollar. And this is
+just the beginning.
+[Music]
+[APPLAUSE]
+
+[ROSE MORALES]:
+
+Well, thank you. So that was basically the results. I don’t know
+if we can put back the last slide? So, what’s coming next after
+this? Because that was last year, now we’re going to try to talk
+more about what we do. NIC Costa Rica, we not only manage
+the dot CR domains, but we do a lot of national scale projects.
+
+Page 47 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+We manage the country’s ISP. We do infrastructure projects. We
+do cybersecurity events and training to all organizations in
+Costa Rica. So we also want to, want people to know what we’re
+doing, and we do a lot of internet policy. So now we’re going to
+focus on, next. This is the very beginning, can we go to the very
+last? Sorry.
+So our objective this time is… Could we keep going?
+So now we’re back, excellent. So then we want to inform people
+what we do, and of course, we want to keep increase in sales,
+which is basic for survival. Next. And we’re going to keep doing
+what worked, and we’re not going to do what didn’t work, and
+so basically focus on this viral campaigns, very low budget, great
+impact.
+We’re becoming very popular among the younger generation,
+which is exactly what we wanted to do. So we’re going to keep
+doing that. We’re organizing LACNIC in San Jose, Costa Rica, this
+year, in September, so that we’re also position, key positioning
+us as a leader in technology, locally. We are talking directly to
+ad agencies, which kind of reminded me of what we were doing
+a little bit, so we are going to decision makers that advise
+companies how they manage their marketing campaigns,
+because they keep advising to use generic domains to start
+using the dot CR and understand the benefits.
+
+Page 48 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+We’re going to start lowering rates, which is a big thing for us. It
+has been hard to lower rates because we haven’t had an
+increase in sales as dramatic as we had in the last two years. So
+now, being a not for profit, we can start doing that as our
+numbers increase.
+We’re also improving our webpage.
+
+As I said, that is
+
+fundamental for us. And we’re also going to start working with
+registrars. At this point, we’re going to start with one in the next
+couple of months, and we hope to increase as time goes along.
+So we’re taking this a step further, and finding allies to make this
+bigger and grow, and hopefully at some point, have a good
+registrar relationship where maybe they can help or continue
+doing the marketing on their own.
+At this point, we keep focusing on small and medium enterprises
+and entrepreneurs, and hope to make our brand very wellknown. Next. Next. So that would be it. Thank you so much.
+[APPLAUSE]
+
+UNKNOWN SPEAKER:
+
+Thank you very much for such a nice presentation.
+Congratulations on your campaign. Do we have any questions?
+I see none, but you have all of the contacts onscreen. So again,
+please give a hand. [APPLAUSE]
+
+Page 49 of 50
+
+HELSINKI – ccNSO Members Meeting Day 2 (Part 3)
+
+EN
+
+A small announcement, our next session is cross community
+session in Helsinki Hall. It’s Hall A? Okay, it’s in Hall A.
+[SPEAKER OFF MICROPHONE]
+
+UNKNOWN SPEAKER:
+
+It’s Hall A. It’s GAC room again.
+
+UNKNOWN SPEAKER:
+
+Okay, GAC room again. [CROSSTALK]
+
+UNKNOWN SPEAKER:
+
+…quarter past three, so we don’t have much… But now we
+have to go around the corner [inaudible]…
+
+UNKNOWN SPEAKER:
+
+[END OF TRANSCRIPTION]
+
+Page 50 of 50
+
+First, cupcakes then Hall A. See you there.
+
+

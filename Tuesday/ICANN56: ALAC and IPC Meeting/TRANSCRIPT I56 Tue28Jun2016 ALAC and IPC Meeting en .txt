@@ -1,0 +1,1429 @@
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+HELSINKI – ALAC and IPC Meeting
+Tuesday, June 28, 2016 – 13:30 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+CHERYL LANGDON-ORR:
+
+Hello, hello. Just while everyone’s settling in, just to remind
+everyone to please state their names when speaking for
+transcript purposes. It’s so much better being able to identify
+who actually said something as opposed to man, woman, man,
+woman. Thank you.
+
+ALAN GREENBERG:
+
+I’m Alan Greenberg, Chair of the ALAC, and I’d like to welcome
+you to one of our rooms I’m tempted to say let’s do a round
+robin [and have] everyone introduce each other and say what
+your interests are and that would easily use up the whole
+session. So what I’m going to suggest is as anyone speaks, if
+you’re speaking for the first time, you can add one sentence to
+your name to explain who you are or why you’re here or what
+your main interests are. And I’m now going to turn it over to Greg
+to introduce our first topic.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – ALAC and IPC Meeting
+
+GREG SHATAN:
+
+EN
+
+Greg Shatan. I’m the President of the Intellectual Property
+Constituency and also an end user. Yes, I am. I’m also a member
+of the ISOC New York Chapter which I think may make me a
+member of a structure as well. And the first time I actually tried
+to join ICANN was probably back in like 2001 when I think I
+joined the individual group when it was back in the old days, but
+that didn’t stick. So somehow I ended up in the IPC.
+In any case, given that we have a new format for these new
+meetings, we thought we’d try something new and have
+bilateral meetings. And I think that kind of fruitful discussions
+between ALAC and IPC members about what we can do together
+here in the ICANN framework will be very helpful. Batted around
+a number of topics and it’s always good to pick one to start
+because then you avoid spending several minutes talking about
+topics – which does not mean this is not the only or the best
+topic, but it is a topic about which to talk – is about compliance
+and the like.
+I will say, certainly from the point of view of the IPC, part of what
+we do, part of what we’re looking to protect, are the interests of
+consumers and avoiding fraud and deception. So in that case,
+we’re not so far apart at all. And so I’m just going to throw the
+floor open for that, or I’ll throw the floor to the other Chair.
+
+Page 2 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+ALAN GREENBERG:
+
+EN
+
+I’m going to take this opportunity to reveal a secret. A few
+people know the secret. Probably not many in this room. One or
+two may know it. I started in ICANN 10 years ago almost, and
+one of the first things I took up as a banner – because it was
+something that had been discussed within ALAC before I got
+there but no one [inaudible] anything – was a little thing called
+domain tasting.
+If you’re old enough you know about domain tasting. It was a
+concept by which you could buy a domain, monetize it, see if it
+worked, if it didn’t work, throw it back, and it would cost you
+nothing. And people did this by the tens of millions. And the
+ALAC ended up initiating a PDP which addressed domain tasting.
+That was a collaborative effort of the ALAC and the IPC.
+It was a secret. We weren’t allowed to tell anyone because of all
+sorts of reasons, but it was a very much a collaborative effort
+and a very successful one. So I wouldn’t mind having that
+happen again. That doesn’t mean we agree at all times. But
+every once in a while our interests intersect and we really should
+take advantage of that. So with that, I’ll open.
+
+GREG SHATAN:
+
+This should not be a dialog between Alan and I, although Alan
+and I have had many good dialogs including the fact that we
+share another thing which may be a secret to some, is that we’re
+
+Page 3 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+in a sense both Canadian Jews with roots in Montreal. Alan is out
+about it, out and proud. I’m kind of in the [inaudible] Outremont
+[Jon Monts de Lippe] Park, Schwartz’s, and most importantly,
+San Viateur, not Fairmount.
+
+ALAN GREENBERG:
+
+I think Leon wants to talk about the real subject we’re here for.
+Leon.
+
+LEON SANCHEZ:
+
+Thank you very much, Alan. Thank you, Greg. I’m Leon Sanchez.
+I’m a member of the ALAC and also a proud member of the IPC.
+Actually my first contact with ICANN was through the IPC and
+then I joined the ALAC.
+Based on the meeting that we held yesterday, I think that the
+outcome that I got from the meeting is that at least all the
+involved parties in the discussion on compliance are willing to
+actually sit on the table and with an open-minded mindset,
+willing to find a solution for the common problems that were
+discussed yesterday.
+And my experience in these years in ICANN is that the interests of
+both users and rights holders are not in conflict as we usually
+think. We have more coincidences and more common interests
+than differences between us. So I really applaud this initiative of
+
+Page 4 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+having both the ALAC and the IPC work collaboratively and
+openly again. And I think that I don’t want to put Garth on the
+spot but I see he’s got his tent card up anyway. He’s done a lot of
+work in analyzing how compliance has not complied to what
+they are supposed to comply with. So I think it’s an excellent
+opportunity for Garth to actually tell us a little bit more about
+the work you’ve done, Garth, because it’s the main issue that
+we’re trying to discuss here.
+
+GARTH BRUEN:
+
+Thank you, Leon. This is Garth Bruen from ALAC North America.
+And you did ask me to be here, so you’re not putting me on the
+spot. And Greg also discussed this with me last night a little bit.
+So, many of you know me. Some of you may not be aware that I
+teach Cybercrime at Fisher College in Boston, and this past
+semester I had my students collaborate on a research project.
+And their research project was to document how easy it is to
+purchase narcotics online, specifically opioids – a category of
+extremely powerful drugs which are usually supposed to be only
+under a doctor’s care. And many of the drugs that were used in
+the research are only to be administered in a hospital. But these
+were all easily available through various websites. Most of them
+were gTLDs. Very, very few of them were ccTLDs. And 65% of
+
+Page 5 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+them were actually through registrars in the United States where
+the law actually currently prohibits this type of activity.
+And the way that the law is structured in the United States – it’s
+not even about whether or not the site actually sells and delivers
+a narcotic product, it’s actually a violation for them to claim to
+be a pharmacy and offer narcotics without a prescription. That
+in and of itself, the representation of the website, is a violation of
+the law in the United States. So one would think that it should
+be relatively impossible for somebody to have a website in the
+United States, a domain name that is dealing in narcotics. But
+it’s obviously extremely easy.
+Something that’s of particular interest to the IPC is the number
+of trademark violating domain names which were found in our
+study. Specifically ones that imitated well-known pharmacy
+brands – Walgreens and CVS were among them.
+So, of course, there is a process for dealing with these trademark
+infringing domains. This process takes a long time, and during
+this period these sites continue to sell narcotics. The reason I
+picked narcotics is because it is probably the most obvious and
+egregious negative transaction that somebody can do on the
+Internet, the most harmful one. So one would think that
+enforcement would be readily available to deal with it. But the
+fact is that it isn’t.
+
+Page 6 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+We’ve been told many times that ICANN is not the content
+police. And complaints about these types of sites are readily
+rejected by ICANN out of hand. They’re not interested in dealing
+with them. I would say that this is not about content, this is
+about transactions. This is ultimately about transactions. This is
+a relationship that ICANN has with Internet users and consumers
+through its contracted parties where the transactions actually
+become harmful. And the fact that ICANN has not taken on a
+consumer-oriented agenda in terms of protecting consumers
+from certain harms is the real problem. And I think that we can
+work together to make this happen for real. Between IPC and
+between At-Large, we can make this truly happen and really
+protect people. Thank you.
+
+GREG SHATAN:
+
+I don’t have a tent card. I’ll respond briefly. I agree greatly and I
+think it points out how trademark infringement is often a
+gateway to other negative activity on the Internet because
+trademark represents a reputation and it represents – infringing
+a trademark hijacks a company’s reputation and simulates trust.
+Doesn’t stimulate, it simulates trust which is how you suck
+someone in. It’s a gateway drug so to speak to the pharming and
+the phishing and the malware and the like, especially simulating
+a commercial transaction. So that’s kind of how we’re on the tip
+of the spear.
+
+Page 7 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+And I would say that looking at two other words that have
+gotten tossed around a lot here for various reasons – security,
+stability, and resiliency, is supposed to be important and the
+security issue more importantly, and unfortunately I don’t think
+Jonathan Zuck is with us or David Taylor, two members of our
+group who are serving on the CCT Review. But the CCT – the T is
+there for consumer trust, and issues like the one that you’re
+bringing up go to the heart of trust in the Internet and the ability
+of people to go to the Internet and not leave it with a negative
+experience or losing their identity or enabling transactions that –
+I’m not sure which is worse, to be able to buy a controlled
+substance over the Internet or to be fooled into thinking that
+you can and then having something else happen to you. So just
+some thoughts.
+
+VANDA SCARTEZINI:
+
+Okay, my name is Vanda Scartezini. I’m from different from you.
+I used to be President of Patent Office in Brazil, but nowadays
+I’m a just user. But I’d like to raise one point that is concerning
+me from the south part of the world. It’s the possibility to
+domain names to lose importance because of the lack of trust of
+the users. And this will in the medium term allow users to get
+another way to get access to all these features that is the new
+[words].
+
+Page 8 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+This is not only a risk for ICANN business, is a risk for business for
+all of us. So we need to pay attention on the consumer trust
+much more than we are doing now, because we can lose all the
+users that we have as a business [and all] like ICANN or all
+lawyers around and all the registries and registrar issues
+because the domain because with the new gTLDs, they are
+feeling more uncomfortable. A lot of problems that is coming
+from the new gTLDs are impacting users more than used to do.
+And the trust they used to have maybe impact too much and
+maybe it’s not difficult technically to go through another ways
+and enter into e-commerce and other issues they normally use
+without a domain. So there is some concern to think about and
+think about how we can improve consumer trust to not lose our
+clients. Thank you.
+
+GREG SHATAN:
+
+Thanks. The floor is open. We have a roaming mic here, so we
+will roam to you. Or a standing mic which you can stand at.
+Which if taken out of its stand can become a roaming mic.
+
+ALEX DEACON:
+
+Thank you. My name is Alex Deacon with the Motion Picture
+Association. I just want to make a comment about something
+Garth mentioned earlier. You said it’s not about content, it’s
+about transaction.
+
+Page 9 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+The way I look about it that it’s not about content or so-called
+illegal content, it’s about conduct. It’s about illegal and unlawful
+conduct. That’s the things that we really care about. And when
+we talk about illegal content or being the content police, I think
+that kind of muddies the water and it distracts from the real
+issue which is protecting consumers from illegal conduct. And
+that’s where I think the focus should be.
+
+GREG SHATAN:
+
+Steve?
+
+STEVE METALITZ:
+
+Thank you. Steve Metalitz. I’m the Vice President of the IPC. Just
+to go back to some of the earlier comments starting with Alan’s,
+yes, we – IPC and ALAC – have worked together on a number of
+issues over the years. You mentioned one. Holly and I have
+worked together for a long time on WHOIS issues and others.
+I think it is good if we can identify another issue that we can
+work on together. And certainly the compliance issue could well
+be one of them.
+It might be worth just talking a little bit about how IPC has
+approached this so you get an understanding of where we’re
+coming from on it. I think compliance has probably been the one
+constant thread – well, it’s not the one – but it’s been a constant
+
+Page 10 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+thread through our IPC activities going back to the earliest days
+of ICANN. And so for example, during the regular meetings – not
+the Meeting B schedule here that we’re in, which by the way the
+advantage of this Meeting B schedule is just to make it possible
+to have meetings like this all the more easily. So we should do
+this again even after we go back into the other framework. But
+our norm has been to have a briefing from ICANN Compliance at
+every one of our IPC meetings at the ICANN meetings. And
+sometimes that’s a very short briefing and just kind of update of
+what’s happening and sometimes it gets into a little more detail
+to delve into current issues and so forth. We can also raise our
+concerns, and over the years we have done so in many, many, of
+these meetings.
+So we’re very familiar with the compliance system and we’ve
+had a number of ongoing issues to discuss there. And we’ve also
+been very actively involved, to the extent we can be, in the
+negotiation of the contracts that we’re talking about ICANN
+doing compliance activities around. I say to the extent we can
+because, of course, we’ve never been in the room when these
+contracts are negotiated but they have been put out for public
+comment, the Registrar Accreditation Agreement was, the Base
+Registry Agreement was. The Base Registry Agreement is out
+even now for some amendments.
+
+Page 11 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+So that’s another activity – and that obviously goes directly to
+compliance, it also goes to the issues that people have been
+talking about here with the kind of research that Garth and his
+colleagues have done and the illegal conduct that Alex
+mentioned – so at least it provides some framework for trying to
+deal with that.
+So again, I think this has been something that we’ve been pretty
+continually engaged in. So if there is general agreement that this
+an area of common interest – which at least these initial
+comments seem to indicate – then we should be thinking about
+how we can operationalize that or is there a particular aspect of
+this that we can best work on together.
+I’ll just mention one, and this may not be the best one to work
+on now, but it is timely. And that is that in the Base Registry
+Agreement proposed amendments, there is a provision about
+giving ICANN the unfettered discretion to reduce fees for
+registries in the new gTLD environment. But it’s at ICANN’s sole
+discretion, and I know some people have suggested that maybe
+this would be a way to give registries incentives to be more
+responsive, more proactive in dealing with the kinds of abuses
+that we’ve been talking about and that they could be rewarded
+for that with fee reductions. It’s an idea that’s worth exploring.
+
+Page 12 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+But the other point that I think it would be interesting to talk
+with ALAC about is the fact that, I mean, the new gTLDs are
+important and as Vanda said, they do present risks and so forth
+that we have to be very aware of. But right now I’m guessing –
+and Garth, correct me if I’m wrong – he pointed out that very
+little of this is in the ccTLDs in his research but I bet relatively
+little of it is in the new gTLDs either. And that the problems
+remain, as they have been throughout the history of the domain
+name system, primarily in the legacy gTLDs. These are problems
+in .com and .net and .org and to some extent in some of the
+gTLDs that were added by ICANN in its first two rounds.
+So the fact is that those agreements don’t have a lot of the
+provisions that are in the Base Registry Agreement for the new
+gTLDs that can be our hook for compliance activities. If you look
+at the .com agreement, there’s nothing in there about dealing
+with these issues effectively. So that might be an area that we
+could fruitfully discuss. There are a number of ways to approach
+this, but it seems if most of the problem is in .com, .net, .org, and
+the other legacy gTLDs, and if those are the areas where right
+now the compliance tools are weakest because there’s so little
+that could be done at least at the registry level under the
+contracts, maybe that’s an interesting area to look at and to see
+about what we could do together to try to change that situation
+
+Page 13 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+and put some real teeth into the registry agreements in the
+legacy environment.
+So I just throw out those two examples. One is a short term one
+because the Base Registry Agreement is out for comment right
+now – in fact, just for the next two weeks I think. But the other
+one is obviously a longer term project. But it might be worth
+considering. Thanks.
+
+GREG SHATAN:
+
+Thanks, Steve. Holly and then Paul.
+
+HOLLY RAICHE:
+
+Thanks. First of all, I agree with Vanda. I think new gTLDs do
+present a particular challenge because the name is going to
+suggest something it may or may not do. But I think Steve is
+probably right that there’s plenty of mischief in the existing. I
+know that Garth has spent a lot of time working – I’d like to say
+with compliance but I don’t think I will – I think we need to
+understand what else has to happen to stop the sort of obvious
+mischief and the harm. And I think that that’s probably the best
+place for this group to start, because actually this is what really
+does impact users. Thanks.
+
+Page 14 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+GREG SHATAN:
+
+Paul and then Alan.
+
+PAUL MCGRADY:
+
+Paul McGrady. I’m one of the Counselors for the IPC on the GNSO
+Council, but a Washington D.C. ISOC member and only because
+Chicago is apparently way too small to have its own chapter.
+Which is like super embarrassing, right? I know.
+
+UNIDENTIFIED MALE:
+
+Start one.
+
+PAUL MCGRADY:
+
+There you go. Yeah, on my spare time.
+We sort of have an on-ramp here between what Steve and Holly
+have both said, focusing on the legacy TLDs and Holly said
+something really important which is that we have to start
+thinking proactively, that all the mechanisms in this space are
+reactive, they’re not preventative. And I really think that we’re
+mature enough now as an organization to start thinking, “How
+do we prevent this?” not just how do we address it when it
+happens, right? And so I just wanted to capture that momentum.
+I think that that’s really important.
+And also to a certain extent I think if the new gTLD registries
+were here, they might say something like, “Yeah, that’s part of
+
+Page 15 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+an equal playing field, too.” So I’m going to put the equal
+playing field part of the on-ramp and hope to keep building that
+because I think that we’ve captured something really important
+here. Thank you.
+
+ALAN GREENBERG:
+
+A couple of things. There have been some efforts in ICANN to
+move some of the terms of the new gTLD contracts into the
+legacy ones. And they have focused on, among other things, the
+vertical integration which clearly some of the registries wanted
+to see there. And I’m a little bit perturbed that we’re talking
+about a new Base Registry Agreement that doesn’t consider
+some of these leveling the playing field. And I know some of
+them are rights protection ones which will be considered under
+the Rights Protection PDP, but there are other ones that fall
+under the categories that we’re talking about. So I’m a little bit
+perturbed. I’m not quite sure what we should do about it. That’s
+number one.
+Number two – and I’m a little bit out of date on it because the
+discussion I’m going to talk about happened a year plus ago –
+you’re no doubt aware that the ALAC has been pretty closely
+aligned with the GAC on the protection mechanisms on highly
+regulated TLD strings. And one of our issues that we have raised
+regularly is that on some of these TLDs and some of these
+
+Page 16 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+registries with virtually no protection whatsoever and strong
+motivations in the registry to get as many registrations that they
+can, that they are potential homes for a lot of problems.,
+whether it’s related to trademark abuse or spam or phishing or
+whatever. The answer that came back from the registry
+community at the time was, “We don’t see that problem
+happening.”
+And that’s not surprising. The statistics that the anti-phishing
+group and others have done on the incidence of malfeasance as
+it were on the traditional TLDs is things like one in 10,000 or
+whatever. I don’t remember the exact numbers. When you apply
+that to the number of registrations the new TLDs had had, it’s
+not particularly surprising we haven’t seen a problem. If it’s one
+in 10,000 and they’ve only had 9,000 registrations – those aren’t
+the exact numbers – but things like that, or one in a million and
+they’re nowhere near there, it’s not surprising it’s not a major
+problem. It’s not surprising that they’ve even can claim they – at
+that point anyway – they had never had a single complaint.
+But if any of these TLDs are successful – now we all know
+bunches of them won’t be, but some of them presumably will be
+– and therefore we will see incidents of these things going on.
+And I think what we’re seeing right now is just the fact that
+there’s an awful lot more .coms than anything else. And it’s not
+surprising that the problems are happening there. But if and
+
+Page 17 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+when any of the new TLDs are successful, chances are we’re
+going to see different rules, different results.
+
+GREG SHATAN:
+
+Thanks, Alan. Anybody else? Garth, I see your tent.
+
+GARTH BRUEN:
+
+Thanks. I don’t want to occupy the floor, but to respond to what
+Steve said or to confirm what Steve said, .com overshadows
+everything else in our research. But to Vanda’s point, there are
+specific new gTLDs that are problem spots and they’re actually
+easily identifiable. I mean, we can go down a list of 10 or 20
+where all these issues are happening. So it’s not like it’s an
+unsolvable or it’s a problem that we can’t find easily. We know
+where it’s happening. We have to talk about it and come up with
+a solution.
+To go into what Holly asked about, is what kind of action should
+we be taking? I think that there’s an overarching problem of –
+it’s a structural problem – of ICANN in that ICANN is conflicted
+internally in terms of the way that it would enforce the rules. I
+mean, compliance is basically part of a business. Their business
+is selling domain names. It’s very, very, difficult for a division to
+enforce its rules upon itself which end up reducing its own
+income. I think that this would be a problem anywhere.
+
+Page 18 of 45
+
+EN
+
+HELSINKI – ALAC and IPC Meeting
+
+Compliance really should be outside the organization. We have
+to figure out a way that it could be better structured, but this
+model is not really something which is responsive to the
+community in a meaningful way. They’re just too tethered to the
+business side of things. So that’s one suggestion.
+There are a number of problems which are not really – I don’t
+know if they’re considered contractual or not – but one thing
+that I see over and over again are suggestion engines on
+resellers and registrar sites where you enter a domain name that
+you want to buy and let’s say it contains a trademark string. This
+particular domain might not be available, but these suggestion
+engines will give you list of 50, 100, thousands of different
+possibilities containing that trademark string. Why are they even
+offering this as a service?
+One thing that I’ve noticed is that there is a price differentiation
+in the way that they’re offered. The ones that are more desirable
+are
+
+more
+
+expensive.
+
+And
+
+in
+
+our
+
+particular
+
+research,
+
+hydrocodonenoprescription.com was being offered for almost
+$10,000 because that engine has been coded in such a way that
+it knows what somebody is looking for. Somebody wants to buy
+a domain name that says to the consumer, “You can get
+Hydrocodone here with no prescription. And because we know
+you want that, it’s going to cost you.” This is the kind of area that
+we should be addressing as well.
+
+Page 19 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+ALAN GREENBERG:
+
+EN
+
+Just out of curiosity, Garth, couldn’t you go to another domain,
+another registrar, not ask for suggestions and just put that name
+in and get it for $10?
+
+GARTH BRUEN:
+
+Maybe. But it might be just as expensive there, and in some
+cases these were domain names that were already held.
+
+YOAV KEREN:
+
+Yoav Keren from BrandShield. I want to react actually to points
+that you’ve raised. So I’ve been wearing two different hats
+regionally. Most people know me from the registrar constituency
+and I’ve been GNSO Counselor for the registrars until last year.
+Today I’m part of the IPC. This is our other company, the brand
+protection company.
+And actually the two points you’ve raised are a little
+problematic. One, as much as I know ICANN – although I’ve been
+around this for 16 years in this organization – so I don’t see the
+compliance going out of the organization. I think if we want to
+do anything, we need just to ask for more. I can tell you that
+we’re not happy of how these things are working, by the way
+from both sides. I know registrars have problems which are legit
+and also from brand protection perspective. There’s a lot of
+
+Page 20 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+issues. So definitely there’s a need for pushing ICANN and
+making it better. I don’t see anyone in ICANN taking it outside of
+the organization.
+But on the other issue of the suggestions, I think legally and
+technically it’s just impossible to stop that. The fact that you
+have a trademark registered somewhere is not known to the
+registrar. These things are automatic. There’s just algorithms
+that suggest something. There’s hundreds of thousands of
+trademarks registered around the world, may be millions. It’s
+impossible to control that. So the registrar cannot know whether
+that is allowed or not. And more than that, the fact that you have
+a trademark in my home country Israel doesn’t mean that it’s
+protected in the U.S. So I might be able to register that domain
+name and operate from the U.S. and be totally legal.
+So I don’t think that’s a solution that you can really go after.
+Thanks.
+
+GARTH BRUEN:
+
+Thank you. I have to disagree with you on a technical point. I
+have observed intelligence built into these suggestion engines.
+As an example, if I were to look for a domain name that
+contained Viagra, it would suggest to me domain names that
+contain Cialis. It knows well enough to alternate similar product
+names. If I put in HBO, it’s going to offer me Cinemax. I know I’m
+
+Page 21 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+very old and that’s a very old reference, but many people will get
+it in this room. And just because ICANN would resist the idea that
+compliance be moved outside the organization doesn’t mean
+that we shouldn’t look for it.
+
+GREG SHATAN:
+
+Just a couple of thoughts, and then I’ll go to Paul and then Lori.
+I’ve definitely seen behavior that seems to be linked either to
+reverse engineered versions of the TMCH that have been used as
+the database in order to jack up domain name prices clearly. So
+that’s an issue. Also note, Hydrocodone is not a trademark, it’s a
+generic name for the drug so that’s not strictly speaking a
+trademark but it is still an example of how pricing is based on
+kind of in some ways on popularity of searches, but with no
+morality attached to it. So that’s an issue.
+In terms of compliance, I see compliance constantly evolving
+with the institution. In many ways it’s better than it was. In some
+ways, but there’s still room to grow. Maybe ICANN needs more of
+an Inspector General. Maybe it needs to be much more off to the
+side. Maybe not separate from the organization but kind of just
+like we have PTI being separated from ICANN but completely
+independent but given space and room. Maybe we need
+something, a model like that ultimately that takes it, that’s more
+independent because ICANN is traditionally conflicted as to
+
+Page 22 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+whether it’s in the business of supporting the sale of domain
+names or regulating the industry in a sense. I know it’s not a
+regulator but there’s obviously a lot of stuff going on that once
+you look past it is self-regulation because self-regulation is the
+barrier to greater regulation by states. And that’s generally
+speaking one of the reasons why we do what we do here.
+So in terms of thinking about where compliance could go, just
+like we made some more extreme suggestions in the CWG but
+ended up with something less extreme but accomplishing the
+idea of a level of independence, maybe we end up in the same
+way with a compliance function that cares less about whether
+the volume of domain name sales stays high. So I’ll stop talking.
+I’ve got Paul, I’ve got Lori, I’ve got Alan. And back to Garth.
+
+PAUL MCGRADY:
+
+So essentially, we all know ICANN has a policy function. It has a
+commercial function and I won’t use the M word, but I’ll just say
+it is the only entity from which you can sign a contract to
+become a registry, or be accredited to become a registrar. So I
+mean there’s a clear commercial function and that’s what we’re
+talking about in terms of its economic interest being baked into
+the model. There’s an IANA function. And then there’s a
+compliance function. It’s the only organization I know of its size
+that does not have a 360 compliance department that looks not
+
+Page 23 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+only externally at its contracts but internally at itself, which is a
+huge question mark that’s a separate issue maybe.
+But in a world where digital archery lived for a few months, I
+don’t think that Garth’s suggestion about looking about where
+that compliance function should sit is all that space age, right?
+We’ve seen far more unique things in this model than taking a
+look at where the compliance function should sit.
+So again, like the on-ramp that Steve and Holly were talking
+about, about making sure that we’re including legacy TLDs in
+this, I just want us to capture that idea because I think that it’s
+an important idea and I’d like for us to walk away with it today
+and really give it some thought. Thank you.
+
+LORI SCHULMAN:
+
+I want to echo what Paul said. I think this idea of an independent
+compliance function is actually really interesting and I think it
+would be worth talking about. I have a lot of random thoughts
+because there’s a lot of things that have been said in the room.
+But with regard to the suggestions, there’s a industry term for it
+– name spinning. And name spinning is something that
+trademark owners have really trying to be fighting within ICANN
+and when we have raised it with ICANN Compliance the
+response that we get – I’m not saying it’s an illegitimate
+response, I think in many ways it is legitimate, there is no precise
+
+Page 24 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+language in any of the agreements that say you can’t name spin.
+Right? So it is kind of hard if you’re going to look to the four
+corners of a document and it’s not there, what do you do?
+And so then some people suggest well then you go ahead and
+you look at the Public Interest Commitments. But then we were
+just in a meeting two meetings before where there’s differences
+of interpretation of the PICs, right? So to me the ideas – and I
+and Alan Grogan will attest to this, he and I have been in some
+intense conversations over the last year or so about this – and
+one of the things that I have suggested and I don’t see waiting is,
+if we have these issues about interpretation, why do we need to
+wait for a next round? Why do we need to wait for anything? Why
+can’t we get together as communities – and I think ALAC and IPC
+would be a great place to start some of this – is that if there are
+known ambiguities in current agreements then it’s up to the
+community to clarify them and then work within the process to
+amend the contracts the way they amended.
+Will it be easy? No. Will it be pushed back from registrars and
+registries? Yes. But that’s the process. And so what I just find in
+this world, particularly now that I’m advocating for brand
+owners in my current function, is why we wait. When we know
+the problems exist today, we have interested parties – like on
+the name spinning side, I have privately talked to registrars who
+are very sensitive to the issues of consumer protection and how
+
+Page 25 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+do we prevent confusion and still have a viable business,
+because name spinning is arguably legitimate marketing. “Okay,
+if this doesn’t work, try this.” I mean, you go into a shoe store,
+one pair of shoes doesn’t fit, they’re going to offer you another
+pair of shoes. It is that simple and that is how registrars look at
+it.
+On the other hand, because of the context issue, the name issue,
+the trademark issue, that falls into this, it’s not that simple. And I
+have had registrars suggest to me that there could be voluntary
+measures that registrars take their own lists, their own sort of
+trademark clearinghouses, for lack of a better word, where there
+could be agreements, particularly with the larger registrars to
+put some of these in place.
+I think it’s really important and I think Alex may have even
+coined a term, I don’t remember, but somebody – oh, no it
+wasn’t, it was someone else, Alex . But the idea is this –
+compliance is the stick – what we want to beat people up with
+more or less. Voluntary practices is the carrot, right? If you act a
+certain way and you’re a good community member, then you
+don’t have to worry about compliance because you’re in a safe
+harbor. You’ve done something that is constructive and helpful
+to the community.
+
+Page 26 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+So I think it’s really important when we talk about these issues
+of compliance that we talk about carrots as well as sticks, that
+we talk about this mesh between what can we get registrars on
+board with so they’re not confronted with the heavier burden of
+a contract compliance issue.
+
+ALAN GREENBERG:
+
+a couple of thoughts, and I’ll prefix it with I am not a lawyer,
+which is an unusual thing for many people in this room to be
+able to say. But I did earn my lawyer merit badge a long time
+ago, so I have just a little bit of idea.
+The concept of Compliance moving outside of ICANN, I don’t
+think is possible at all because Compliance is in the job of
+enforcing contracts that ICANN has signed. The concept of
+outsourcing somehow the investigation end, report end, and the
+place where you report problems to and the investigation, is
+something that’s exceedingly viable. But regardless of whether
+it’s inside or not, I think a large part of it comes down to
+reporting in such clear ways and so transparently that you can
+demonstrate that you are indeed doing a good job, and take
+really seriously when there are examples of not.
+So even without moving that part out of ICANN – which would
+not be a bad idea – I think that has a lot of merit – there can be
+things done depending on how seriously you take the problem.
+
+Page 27 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+I’m not sure you want to compare it to digital archery. Well, no,
+some of you may or may not know, that name was coined to
+make fun of it. It was then adopted as the name, which shows
+the attitude of the people it was coined as a joke to make fun of
+a really stupid idea and it was then adopted as the name of the
+stupid idea which was then pushed. So I’m not sure we want to
+take something that we like and relate it to digital archery.
+
+PAUL MCGRADY:
+
+My only point is that with this crowd, a seven horned, purple,
+polka dotted, whatever could walk in here and it wouldn’t faze
+us. That’s all. That’s all I’m saying.
+
+ALAN GREENBERG:
+
+It wouldn’t faze us, but we’d line up for rides.
+
+GREG SHATAN:
+
+We got Garth, a remote question, then Yoav.
+
+GARTH BRUEN:
+
+Thank you. I just wanted to tell everybody that the sort of origin
+of suggesting that Compliance be moved outside of ICANN
+actually comes from Compliance itself, from their own words.
+Because at various times when issues have been reported to
+Compliance, the response has often been, “We are not experts in
+
+Page 28 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+X.” It’s like, we have this problem with online pharmacies that
+are illegal – “We are not experts in online pharmacies. Go
+somewhere else.” And you could just replace that with whatever
+illicit or illegal activity is going on. The UDRP is the best example.
+Let’s go way outside the organization and have this independent
+arbiter decide who’s right and who’s wrong, and then come back
+to us.
+So the point at which you keep reporting things to an entity and
+they keep saying, “We’re not experts. We can’t deal with this.” At
+what point does that function become completely useless if
+they’re not experts? Then put it somewhere else and build it with
+experts.
+
+[SCHEIN]:
+
+[inaudible][Schein], ICANN staff. We have a remote question let
+me read out now. “I’d be interested in reading the results of
+Garth’s research referenced earlier in this session. Is a link
+available?” Okay, we just learned that there’s a link available.
+
+GREG SHATAN:
+
+Page 29 of 45
+
+Thanks. Yoav?
+
+HELSINKI – ALAC and IPC Meeting
+
+YOAV KEREN:
+
+EN
+
+I don’t want it to be misunderstood, I think it’s a great idea to
+have it outside of ICANN. I just think it’s going to be very hard to
+get there, or maybe impossible. And I don’t want us to fight the
+wrong war and the wrong battle. And I think that the best way
+forward would be first to maybe outline what are the
+requirements, the things that we would want Compliance to do
+better, or to do at all? And what are our problems?
+One of the offers could be, the option to resolve that is an
+outsider entity, maybe that’s actually probably more possible to
+do part of those things. And that would be something more
+practical forward. I think if we go now to the ICANN Board and
+say, “Okay, our demand is take out Compliance of ICANN,” I
+think that’s going to be a very hard battle to fight and we should
+start from more practical ideas.
+
+GREG SHATAN:
+
+Holly in one second, but harking back to the CWG we talked
+about the issues of functional versus structural independence
+for PTI, and I think a greater degree of functional independence
+for compliance would be all to the good because it’s not – unlike
+typical compliance functions – it’s not defending the interests
+merely of the party to the contract which is ICANN, or should not
+be, but rather the interests of all stakeholders for which it stands
+as a proxy. Holly?
+
+Page 30 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+HOLLY RAICHE:
+
+EN
+
+I like all the ideas, and I’m just thinking we could always do a
+good cop/bad cop, we want Compliance completely outsourced.
+However, the middle road is, and it would be functional
+independence, it would be moving the function out to the edge.
+It would also be the 360 review that doesn’t do and should do.
+I’m just thinking in terms of how do you actually structure where
+we want to go with this? And then getting everybody’s ideas
+together and saying, “This is what we want and this is why.” And
+maybe picking up some of Vanda’s point, but start with .com.
+
+GREG SHATAN:
+
+Thanks, Holly, and I think that also focuses on the idea that we
+should avoid this meeting becoming just a talk shop and
+actually have an action items/next steps. Not only will that –
+
+UNIDENTIFIED MALE:
+
+Greg, [inaudible].
+
+GREG SHATAN:
+
+Too late. Ted Cruz can run for President. This Canadian can, too.
+Now you made me lose my train of thought.
+But when we come up with action items, not only will that help
+in the short run have something come out of this but in the long
+
+Page 31 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+run, it will rekindle the fruitful coordination of IPC and ALAC
+where we sit and it’s clearly non-contracted parties and for
+many of us – some of us are also contracted, but not me – but in
+any case, I think there is a lot that can be said for that we sit
+closer than we sit.
+And I think ultimately, working on things where we do have a lot
+in common can also help bridge gaps or bring closer some gaps
+on things where we find ourselves more kind of diametrically
+opposed. But in the end, in a consensus driven system, you can’t
+be diametrically opposed in the result. You can be maybe
+initially but you never can be at the end. So the closer we can get
+on things we can get close on, the closer we can also get on
+things where we’re not so close. And maybe I’m just a fuzzythinking one worlder, but I think that can help us. So we’ll need
+to pivot relatively soon as we get through this to come to some
+action items and maybe some volunteers to move things
+forward.
+I’ve noted that in trying to serve the IPC as its President, one of
+the things I have to avoid is also becoming a lead of everything
+that we try to do, but rather to have others take specific items
+forward. So that’s an invitation to others to do that. As if this is
+worthwhile to talk about, it should be worthwhile to do, which is
+what made it worthwhile to talk about in the first place. So some
+
+Page 32 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+thoughts, and I’ll stop talking now. Anybody else want to start?
+Steve?
+
+STEVE METALITZ:
+
+Well, let’s talk about a couple of action items that are potential.
+First of all, again, I think it’s great that we are having this
+meeting and I think we should pledge to have a similar meeting
+at the next ICANN meeting if we can, even if we’re back in the old
+silos schedule. Let’s try to do that.
+If we identify one or two issues that we’ve talked about here,
+none of these are issues that can be moved really quickly. But
+maybe if we have people who are interested in pursuing them
+we could get a small group of volunteers together to work online
+to come up with more of an action plan that could then be
+brought back to both groups, something realistic and on a
+timeframe and so forth.
+The two I’ve heard here repeatedly, and [obviously] there have
+been others, too – one is finding what’s the best way of getting a
+more independent compliance function within ICANN and
+whether that’s structural or functional, I just think it needs more
+thought than certainly I’ve given it. There is also some history
+here, because as many of you recall a few years ago there was a
+brief and intense period of interest in the GAC in this question
+and the necessity of taking the compliance function out from
+
+Page 33 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+under what is now the Global Domains Division and making it
+report directly to the CEO. That I believe happened and then we
+just saw recently an announcement that the compliance
+function would continue to report to the GDD. So I don’t know
+quite where that stands, but that’s one issue. What would be a
+proposal and a strategy for gaining more independence for the
+ICANN compliance function?
+A second one is, what’s a proposal and a strategy for trying to
+bring some greater safeguards into the legacy gTLD. How do we
+approach the legacy gTLD issues? Obviously, we have the
+Registrar Accreditation Agreement. That’s one tool that applies
+to registrations in .com, .net, .org, etc. But the equivalent like
+what’s in the Base Registry Agreement with the Public Interest
+Commitments does not exist for the legacy gTLDs.
+So that might be another – those agreements come up for
+renewal periodically and we could think about a strategy for
+trying to highlight those issues and seeing what would be
+realistic to try to get into those agreements or at least to
+encourage maybe with carrots rather than the stick of what’s in
+the agreement, are there ways to encourage those registry
+operators to do more.
+So those would be my suggestions for two topics, and if there is
+sufficient interest in either or both, maybe we could get small
+
+Page 34 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+groups working on those with representation from both sides
+and see if we could come up with a reasonable plan. I’m sure
+we’re not going to come up with a reasonable plan in the next
+15-20 minutes, but maybe we could get that process in place.
+Thanks.
+
+GREG SHATAN:
+
+Thanks, Steve. Alan?
+
+ALAN GREENBERG:
+
+Thank you. The two topics that Steve raised were the same ones
+I had written down with slightly different words. And the
+uniformity of contracts I think I would like to have a briefing to
+start with from ICANN staff, the registries, some combination, on
+what the impediments are to doing that and what might be
+done to make sure. Now, as I said, part of it is going to be under
+review on the protections mechanisms and that’s a couple of
+years out. But protection mechanisms are not the only
+differences. So I think that’s worth investigating and at least
+asking a question for, if nothing else, a public or private briefing
+at the next meeting. So I think that’s a good start.
+On the issue of compliance, I don’t recall actually the GAC
+getting involved. I do recall, however, a WHOIS AoC
+recommendation that said it should report directly to a Board
+
+Page 35 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+committee. The Board chose to say it will report to the CEO, and
+now we have at least an interim change away from that and I
+have actually talked to the CEO several times on that one issue
+because I thought it was somewhat perturbing. He viewed it as
+simply a short-term expedient when he is heavily involved with
+the transition and doesn’t know much about our compliance.
+And Compliance did when Akram was an interim CEO did report
+to him. But he felt that this was expedient and made sense. My
+response was, “It may be expedient and it may make sense, the
+optics of it are horrible. And we’ll see if and when that changes.”
+I don’t think our object is the independence of Compliance or
+even the independence of the compliance investigation
+function, which is I think the only part you could physically move
+outside because of the ultimate aim is to enforce contracts and
+those are ICANN contracts. I think the ultimate aim is a good
+compliance function. And if it works really well, I don’t think
+many of us could care where it is if it works really well.
+So I would think the first thing that we want to do on that one is,
+what kind of reporting do we want to see from Compliance to
+convince us and satisfy us that it is doing a good job? And I
+suspect that we could specify the kinds of statistics, and perhaps
+more than just statistics, that will give us a warmer feeling.
+
+Page 36 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+The last time I looked at the output, it wasn’t enough to really
+convince me that things were going well. It was better than it
+had been a year before, but I would like to see an independent
+audit of it, for instance. I would like to see statistics that could
+really demonstrate that we have a compliance operation that is
+reacting to the things that we want them to react to.
+Now, for all I know, that’s happening today. I can’t tell because I
+haven’t personally submitted any requests recently. But I think
+we need a much higher… We talk a lot in ICANN about trust. And
+maybe this whole accountability thing wouldn’t have come up if
+we trusted the Board. I think we need a higher level of trust and
+belief that things are going well. And whether that comes from
+externalizing something or simply making it work well or simply
+proving to us that it is working well today, I think we need a
+much higher level of trust in the ultimate end product.
+Thank you.
+
+GREG SHATAN:
+
+We’ve got Steve and then Yoav.
+
+STEVE METALITZ:
+
+Just briefly, as usual Alan has really helped to crystallize some of
+these things and put them in a clear context. And I think the
+suggestion about getting a briefing on the impediments to
+
+Page 37 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+uniformity of contracts is a good one. I’m not quite sure who is
+best situated to do that, but let’s think about that.
+I said independence and we had this discussion of functional
+versus structural, it doesn’t necessarily have to be outside of
+ICANN. So I guess what I was talking about was shorthand and
+the lens you’re looking at it through is the reporting of what
+they’re doing. I support what you’re saying. I think we have to be
+thinking about not the quantity of reporting because, boy, do
+they report a lot. They generate a huge amount of reports. But
+there’s a quality question.
+And I’ll just give one example. It actually came up in the meeting
+that we had that Bruce Tonkin convened yesterday, and that
+was this question of contracted parties that repeatedly get
+called on something and then fix it within the five-day or sevenday period, so in the statistics it shows up as a great victory for
+Compliance is really working. But if this is happening repeatedly,
+especially in the environment that we’re talking about here,
+sometimes just a few days is enough to inflict a lot of damage.
+So yes, it’s certainly worth having more discussion about ways
+to get more meaningful reporting. But my suggestion really on
+the independence was, again, maybe there’s some experts that
+we can talk to about how this is done in other organizations.
+Again, there’s no organization quite like ICANN but there are
+
+Page 38 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+some similarities. And we’ve heard some suggestions about
+ways – an audit is a good idea, too. An Inspector General
+structure is a possibility. So maybe we just need to find some
+people who have greater expertise in this certainly than I do and
+perhaps than many of the rest of us do to give us some
+suggestions about ways. Because I think independence itself is
+an important factor. I agree with you, we want a good
+compliance function, but the chances of that are probably
+reduced so long as to the degree than Compliance is tied in with
+the behaviors of the companies who write the checks that make
+ICANN function.
+So I just think it’s kind of hard to… There is an independence
+issue that I think is pretty much bound up with quality of
+compliance activities.
+
+YOAV KEREN:
+
+Yes, I think reporting is important but there is more on the
+ongoing operations, and that would be probably more the sense
+of transparency on what they do. And maybe more with the
+communication with people that come from the IPC and others.
+I’ll give an example. WHOIS inaccuracy reporting, for example. I
+know it from both sides and I know how much they go after the
+registrar to give them evidence, which is a good thing.
+Sometimes they’re overdoing it. Like they get evidence and they
+
+Page 39 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+just don’t understand that not everywhere is like in the U.S.
+There’s places in the world that the address works in different
+ways. But I’ve explained that in different discussions that we had
+different places.
+But the other thing that we’ve had experiences is that we had a
+few cases where we reported WHOIS inaccuracy and we knew
+for sure these were counterfeit websites that had to be taken
+down. It was clear these are bogus names. And we get an
+answer, “It was confirmed by the registrar.” That’s it. “Okay, can
+we see the…okay…what’s…how?” There’s no way. “Okay, can
+we see that?” Nothing. No reply.
+So this is one of those things where it would probably be more
+helpful, okay maybe they did a mistake or maybe they’re just not
+going after those registrars that are not the good players as they
+should and they’re just leaving them up. I don’t know. And this is
+exactly where… But this is an ongoing thing. The reporting here
+has nothing to do with it. This is to really show that they’re doing
+their job.
+
+ALAN GREENBERG:
+
+My last real interaction with Compliance was now a year and a
+half ago or so, but it was a domain that Garth had tried to have
+taken down and it was rejected saying, “No problem there.” The
+WHOIS information pointed to a bakery in a small town in France
+
+Page 40 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+using a French postal code which could not exist based on the
+structure of French postal codes, and an e-mail address using a
+domain which didn’t exist. So there was no way that mail was
+going to get through. And to Compliance’s credit, when I put it
+under my name as a single submission and gave them fair
+warning it was coming – actually, I didn’t give them warning it
+was coming – they responded pretty quickly saying the registrar
+has taken the domain down. And I checked and it was. A week
+later, it was back. And of course Compliance only checked when
+they got the response. They now go back and check again later
+on to see if it stays down. At least I’m told they do. But clearly,
+reporting there was not going to solve the problem because in
+both cases, the reporting looked okay.
+When I say reporting, I’m not trying to prescribe what the form
+is, I’m just saying there are ways of being more transparent and
+open than we are and we certainly have been in the past. And
+even if we externalize all of the compliance functions, even if we
+figure out how to do the contractual part, it’s still going to be
+funded by ICANN and ICANN has control by how much money
+they’ve put into it. So there’s always going to be a linkage.
+What we really want is good trusted Compliance. And I’m not
+proposing the way, I always have a very strong suspicion of
+simple answers because there are often second and third order
+
+Page 41 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+effects that we never predict ahead of time that come and get
+us.
+So I’m not looking for a simple buzzword answer. I’m looking for
+something that can and will be trusted. You may not like it if it
+works against you, but we can demonstrate it’s trusted.
+
+GREG SHATAN:
+
+Thanks, Alan. Only about 15 minutes left. I think both Steve and
+Alan have, as I said, kind of identified the same points that we’ve
+discussed and what we need to do is kind of set up maybe an email list or some small groups from the people from each side to
+be on those two lists to take things forward and report back to
+respective organizations and then, while Hyderabad seems like
+a long ways away, it’s not that far off so it’ll give us some time to
+work. Cheryl?
+
+CHERYL LANGDON-ORR:
+
+Thanks. I like what I’ve heard and I think this is great that we’re
+starting to get some way forwards and looking at declared
+mutualism where it can exist and benefit from working smarter
+not harder. And it’s on that working smarter not harder that I
+just wanted to make another suggestion. And that is, we’re
+talking about having some very important briefings as well as
+some very important dialogs with key parts of ICANN and ICANN
+
+Page 42 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+staff. Can we make it that we do this as a group activity instead
+of them having to go to three different rooms to talk to several of
+us? It seems that there’s a certain cross interest here. There may
+even be wider cross community interest, but let’s see if we can
+say, “Come and talk to all of us,” and others may even join. It
+won’t be just a good use of everyone’s time, especially if we
+don’t have a B Meeting design at the time. I’d just like you to
+consider that as you move forward.
+
+GREG SHATAN:
+
+That’s a good idea and a good way to kind of get us out of the
+silos but at the same time not go all the way to the more one
+way, broad update meetings where the interests of those in the
+audience are so 360 that you can’t actually focus on anything. So
+I think that a meeting where we kind of focus a little bit more
+would be really good.
+
+ALAN GREENBERG:
+
+I’m afraid I’m going to have to run in a minute even though it’s
+not quite the end of the session. So I’d like to take the
+opportunity of saying thank you to Greg for initiating this
+because it was his idea. Thank you to the ALAC for when I
+presented the idea to them, I have rarely gotten so quick a
+response and universal saying yes. So I think it’s interesting that
+the only agenda items we’ve covered are Welcomes,
+
+Page 43 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+EN
+
+Introductions, and Next Steps, and the actual subject matter we
+ignored completely and had a good conversation. There’s
+probably a message there. I’m not going to try to interpret it.
+Maybe we don’t need to have a subject next time, although my
+staff insists that we have agenda items and subjects. But thank
+you all. You can certainly continue for the next 10 minutes. I’m
+afraid I have to run.
+
+GREG SHATAN:
+
+Thank you. I probably think we would all enjoy a little time so we
+don’t all have to run to the next place that we’re going, since we
+managed to schedule a zero space in between. And I think we’ve
+covered some good topics and we wouldn’t do justice to any
+further ones in the time we have remaining.
+
+UNIDENTIFIED FEMALE:
+
+Is there [inaudible] to be in the mailing list?
+
+GREG SHATAN:
+
+Sure. We could do that or we could just go out to our respective
+mailing lists for the mailing lists. And then bring together some
+mailing lists, a meta mailing list. I never met a mailing list I didn’t
+like.
+This meeting is adjourned.
+
+Page 44 of 45
+
+HELSINKI – ALAC and IPC Meeting
+
+[END OF TRANSCRIPTION]
+
+Page 45 of 45
+
+EN
+
+

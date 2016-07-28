@@ -1,0 +1,1028 @@
+ASO/NRO	Public	Session
+ICANN	56,	27	June	2016,	Helsinki
+
+ASO/NRO	Public	Session	- Agenda
+1. What is policy for Numbers Community and how it is developed? - Filiz Yilmaz
+2. Recent developments from Number Community
+2.1 ARIN - Jason Schiller
+2.2 AfriNIC - ASO AC Member
+2.3 APNIC - Tomohiro Fujisaki
+2.4 LACNIC - Ricardo Parata
+2.5 RIPE - Nurani Nimpuno
+3. Implementation Aspects and NRO Update – Oscar A. Robles-Garay
+4. Reflections from ICANN Board member on Numbers Community - Lousewies Van Der
+Laan
+5. Any Other Business
+
+What is policy for Numbers Community and
+how it is developed?
+Filiz Yilmaz, ASO AC Vice Chair, RIPE Representative to the AC
+
+Who is this Numbers Community?
+
+Regional Policy Development
+Allocation of Internet Protocol and Autonomous System Numbers and registration
+Stems from regional specific needs, grass-root practices
+
+Based on shared Principles
+
+Community discussions and decision-making processes are open for everyone
+to participate
+All community processes are transparent
+All community processes are driven in a bottom-up fashion, meaning that
+policy changes are the result of concerns or initiatives from members of the
+community
+Decision making is based on rough consensus
+
+So then what are Global Policies?
+
+https://aso.icann.org/global-policies/global-policies-2/
+
+Who is ASO Address Council
+15 people from 5 regions: 3 selected members from each region
+https://aso.icann.org/advisory-council/address-council-members/
+Coordination of the global policy development process
+Selection of individuals to serve on ICANN Board seats 9 and 10
+Advice to the ICANN Board on number resource allocation policy, in conjunction
+with the RIRs.
+
+Thank you.
+Questions/Comments/Feedback?
+
+AFRINIC Update
+ICANN 56|June 2016
+
+Membership Statistics
+• 48 new members so far in 2016.
+• 150 new members in 2015.
+• 1,342 total members to date.
+
+Year
+Alan Barrett | AFRINIC
+
+2
+
+Internet Number Resource Statistics
+2016:
+• 6.4 million IPv4 addresses allocated so far (0.38 /8).
+• 17 /32s and 8 /48s of IPv6 address space allocated.
+• 49 Autonomous System Numbers (ASNs) assigned.
+• 37% of the membership has an IPv6 allocation.
+2015:
+• 16 million IPv4 addresses (approx. 1 /8) allocated.
+• 4,416 /32s and 27 /48s of IPv6 address space allocated.
+The highest annual allocations since 2006!
+• 159 ASNs assigned.
+
+Alan Barrett | AFRINIC
+
+3
+
+Membership and Resource Statistics
+1,342 Resource Members:
+• Total IPv4 space held by members: 95,133,696 /32s
+(5.27 /8s).
+• Total IPv6 space held by members: 9,016 /32s.
+351 Legacy Space Holders:
+• Total IPv4 (legacy) space held by legacy space holders:
+8,458,752 /32s (0.5 /8).
+Legacy space holders are organisations that are not AFRINIC members.
+
+Alan Barrett | AFRINIC
+
+4
+
+IPv4 Exhaustion
+AFRINIC is now the only one of the five RIRs that can still
+allocate IPv4 address space according to traditional
+policies.
+• 1.7 /8s remaining in AFRINIC’s IPv4 inventory.
+• “Soft landing” policy will take effect when only 1 /8 remains.
+• Focus on getting IPv6 deployed throughout the region:
+
+
+
+
+Free training on IPv6 Deployment: www.learn.afrinic.net.
+Use of IPv6 test bed.
+Knowledge share and information exchange.
+
+Alan Barrett | AFRINIC
+
+5
+
+Policy Update 1
+AFPUB-2015-GEN-001-DRAFT-01: Number Resources Transfer
+Policy.
+
+This proposal calls for IPv4 address transfers to be
+facilitated in the AFRINIC region so that African network
+operators can benefit from an open IPv4 address market
+when AFRINIC’s IPv4 inventory is finally exhausted.
+• Discussions during AFRINIC (23 & 24) included:
+
+
+The feeling that the proposal stands to benefit regions other than
+Africa.
+
+• Status: Under Discussion.
+Alan Barrett | AFRINIC
+
+6
+
+Policy Update 2
+Two competing proposals to change IPv4 “Soft Landing” policy.
+Current policy is AFPUB-2010-v4-005:
+
+AFPUB-2016-V4-001-DRAFT-02: IPv4 Soft Landing BIS.
+
+AFPUB-2016-V4-002-DRAFT01: Soft Landing Overhaul.
+
+Alan Barrett | AFRINIC
+
+7
+
+Policy Update 3
+AFPUB-2016-V4-001-DRAFT-02: IPv4 Soft Landing BIS.
+
+• This proposal is an update to the current IPv4 Soft
+Landing Policy and describes how AFRINIC will manage
+allocations/assignments from the last IANA allocated /8
+by defining two distinct exhaustion phases:
+
+
+
+
+
+Phase 1: When only 1 /8 remains: Sets the maximum
+allocation/assignment at a /15 instead of a /10.
+Phase 2: When only 1 /10 remains: Sets the maximum to a /22
+and the minimum to a /24.
+Allocation period changes to 8 months.
+Reserves a /16 for critical Internet infrastructure and a /13 for
+unforeseen circumstances.
+
+• Status: Under Discussion.
+Alan Barrett | AFRINIC
+
+8
+
+Policy Update 4
+AFPUB-2016-V4-002-DRAFT01: Soft Landing Overhaul.
+• This proposal completely replaces the original and
+current IPv4 Soft Landing Policy, AFPUB-2010-v4-005.
+• New proposal:
+
+
+
+
+
+Abolishes existing Soft Landing policy.
+Intends to create a new category of resource requestors called
+"new entrants”.
+Proposes setting aside a /13 IPv4 block reserved for these "new
+entrants”.
+"New entrants" will get no more than a /22 of IPv4 space each.
+
+• Status: Under Discussion.
+Alan Barrett | AFRINIC
+
+9
+
+Policy Update 5
+AFPUB-2016-GEN-001-DRAFT01: Internet Number
+Resources Audit.
+• Proposal authorizes AFRINIC to do regular audits of
+resource utilisation in order to allow recovery of any type
+of resource where usage is not in compliance with RSA.
+
+
+
+
+Audits are based on compliance with terms outlined in RSA and
+Allocation/Assignment Policies.
+All resource types are affected by audits, not just IPv4.
+Audits can be “random”, “selected” (where audit is triggered by
+an internal non-compliance issue), or “reported” (say by a
+whistle-blower).
+
+• Status: Under Discussion.
+Alan Barrett | AFRINIC
+
+10
+
+Policy Update 6
+AFPUB-2016-v4-003-DRAFT01: Ipv4 Resource Transfers
+within the AFRINIC region
+• Proposal caters to those needing IPv4 space after
+exhaustion of IPv4 pool, or when IPv4 needs of such
+requester can no longer be satisfied by AFRINIC.
+
+
+
+
+
+Both source and recipient must be AFRINIC members.
+Source org not eligible to subsequent v4 block for a period of 12
+months after a transfer.
+Source must not have received a v4 transfer, allocation, or
+assignment 12 months prior to approval of a transfer request.
+Recipient must justify the need for the space.
+
+• Status: Under Discussion.
+Alan Barrett | AFRINIC
+
+11
+
+Policy Update 7
+AFPUB-2016-GEN-002-DRAFT01: Inbound Transfer Policy
+• Proposal caters to inbound transfer of all IP resources,
+including ASN, IPv4 space and IPv6 space from other
+RIRs to AFRINIC.
+
+
+
+Recipient of v4 or v6 must provide a plan to AfriNIC for the use
+of ~ 50% of the transferred resource within the next 5 years..
+Space received via transfers shall be included in any evaluation
+done for further resource allocation by AFRINIC.
+
+• Status: Under Discussion.
+
+Alan Barrett | AFRINIC
+
+12
+
+Training
+
+➢
+
+Courses so far in 2016: April: Nairobi, Kenya, May:
+Ethiopia, June: Botswana
+
+Alan Barrett | AFRINIC
+
+13
+
+certi::6 IPv6 Certification Platform
+• IPv6 Forum Certified (Gold & Silver).
+• 520 questions in the test bank (and growing).
+
+
+
+Covers all key IPv6 topics.
+Covers all 6 levels of Bloom’s Taxonomy: Knowledge,
+Comprehension, Application, Analysis, Synthesis and
+Evaluation.
+
+• Delivered online in an invigilated environment.
+• Seeking partners to administer the exam globally:
+
+
+
+
+NOGs.
+Local Internet Society Chapters.
+Local IT training organisations.
+
+More information: www.certi6.io | registrar@certi6.io | @IPv6Cert
+Alan Barrett | AFRINIC
+
+14
+
+AFRINIC Meeting 2016
+
+AFRINIC-25
+
+
+
+Mauritius: 25 – 30 November 2016.
+Main meeting 28 – 30 November 2016
+
+Alan Barrett | AFRINIC
+
+15
+
+Thank you 
+for your 
+Attention
+
+twitter.com/ afrinic
+flickr.com/ afrinic
+facebook.com/ afrinic
+linkedin.com/company/ afrinic
+youtube.com/ afrinic media
+
+Questions?
+
+www. afrinic .net
+
+Recent	developments	in	Number	
+Community:	APNIC
+Tomohiro	Fujisaki
+ASO/AC	from	APNIC	region
+
+Resource	policy	discussion
+• APNIC	has	two	meetings	in	a	year
+• Address	policies	are	discussed	in	policy	SIG
+• Policies	discussed	recently:
+– prop-115 - Registration	of	detailed	assignment	
+information	in	whois DB	(withdrawn	by	authors)
+– prop-114 - Modification	in	the	ASN	eligibility	criteria	
+(implemented)
+– prop-113 - Modification	in	the	IPv4	eligibility	criteria	
+(implemented)
+
+Policies	implemented
+• Two	policies	implemented	recently
+– prop-114 - Modification	in	the	ASN	eligibility	criteria
+• Modified	the	eligibility	criteria	for	Autonomous	System	
+Numbers
+– the	absolute	requirement	to	multihome is	removed.	
+» an	organization	is	eligible	 for	an	ASN	assignment	if	it	is	
+planning	to	use	it	within	next	6	months.
+
+– prop-113 - Modification	in	the	IPv4	eligibility	criteria
+• Extend	the	criteria	for	end-site	IPv4	delegation
+– currently	multi-homed,	or	inter-connected	with	provider	(ISP)based	addresses,	or	demonstrates	a	plan	to	advertise	the	prefixes	
+within	6	months.
+
+Policy	consultation
+• Not	concrete	policy	proposals	but	potential	
+policy	change	discussion
+– Improving	APNIC	Whois Data	Quality	
+(APNIC41)
+– IP-based	Geolocation	issues	(APNIC41)
+– IP	addressing	and	IoT/M2M	services	
+(APNIC40)
+
+Facilitating	participation	to	policy	
+discussion
+• Unfortunately,	policy	discussion	in	APNIC	
+region	is	not	so	active	now
+– Some	activates	to	increase	interest	are	ongoing
+• Policy	Champions	program
+– Policy	Champions	are	individuals	who	volunteer	to	engage	
+with	their	community	about	APNIC	Policy	Development	
+
+• Policy	development	process	&		current	policy	proposal	
+report	session	in	local	language
+
+All	presentation	slides,	recordings	can	be	
+referred	from:
+https://conference.apnic.net
+
+Recent Policy Developments
+in the ARIN Region
+
+Agenda
+1.
+2.
+
+What is policy for the numbers community and how it is developed?
+Recent developments from the numbers community
+a. ARIN
+b. AFRINIC
+c. APNIC
+d. LACNIC
+e. RIPE
+3. Implementation aspects and NRO update
+4. Reflections from ICANN Board member on the numbers community
+5. Any other business
+
+Recent Developments from the ARIN Region
+Two main topics of discussion in the ARIN region
+●
+●
+
+Justified need vs open market
+Policy simplification
+
+Justified Need Over Open Market: Various Arguments
+●
+
+The RIRs provide a stewardship role
+○
+○
+○
+
+●
+●
+
+Internet numbers are a shared resource
+Internet number resources should be conserved, and used efficiently
+Internet number resources should be equally available to those who need them
+
+Internet number resources have always been given out fairly on a justified
+needs basis
+Now that the ARIN free pool is depleted
+○
+○
+○
+
+Resources are scarce
+Stewardship is more critical than it has ever been
+An open market would concentrate IP addresses
+■ The companies with the deepest pockets
+■ The services that generate the most revenue per IP address
+■
+
+Competition for a given service in a given market could be stifled if one player has more
+IPv4 addresses than the rest and wide spread IPv6 adoption has not occurred
+
+Open Market Over Justified Need: Various Arguments
+●
+
+●
+●
+
+An open market will most efficiently distribute IP addresses
+○
+○
+
+Only those who need IP addresses will pay for them
+Supply / demand will set the price appropriately
+
+○
+
+Internet number resources will continue to be available for those who are willing to pay the
+market rate
+
+It is not possible to corner the market or manipulate pricing for gain
+Justified need only makes sense when ARIN was giving out addresses
+○
+
+●
+
+People are completing transfers outside of ARIN policy
+○
+○
+○
+
+●
+
+ARIN free pool is empty, ARIN allocations / assignments are virtually done
+IP futures
+IP leases
+IP transfer not recognized by ARIN
+
+ARIN provides value in ensuring uniqueness and an accurate registry
+○
+
+Removal of justified need will allow whois to be accurate
+
+Policy Simplification
+●
+
+Separation of transfer policy from ARIN allocation / assignment policy
+○
+
+●
+
+Simplify transfer policy
+○
+○
+○
+
+●
+
+Transfer policy references ARIN allocation / assignment policy rules
+Make the process easier to understand and navigate
+Make the process more predictable
+Loosen / remove justified need
+
+Remove ARIN allocation / assignment policy
+○
+○
+
+ARIN is virtually no longer provide IPv4 addresses
+Remove all the ARIN allocation and assignment policy
+
+ARIN Policy Developments
+Current policies under development
+https://www.arin.net/policy/proposals/
+ARIN 37 policy report
+https://www.arin.net/vault/participate/meetings/reports/ARIN_37/ppm.html
+
+Current ARIN Recommended Draft Policies
+●
+
+ARIN-2015-2: Modify 8.4 (Inter-RIR Transfers to Specified Recipients)
+○
+
+●
+
+Allow transfers with no restriction to hold addresses for one year if the source and receiving
+companies are under common control or one controls the other
+
+ARIN-2016-1: Reserved Pool Transfer Policy
+○
+
+IP addresses from reserved pools are not permitted to be transferred
+
+Current ARIN Draft Policies
+●
+
+ARIN-2015-7: Simplified requirements for demonstrated need for IPv4
+transfers
+○
+○
+
+●
+
+ARIN-2016-2: Change timeframes for IPv4 requests to 24 months
+○
+
+●
+
+Show 80% utilization of current holdings then double (up to a /12) for transfers
+
+ARIN-2016-4: Transfers for new entrants
+○
+○
+
+●
+
+Re-align time horizon for ARIN allocation / assignments to match transfer time horizon
+
+ARIN-2016-3: Alternative simplified criteria for justifying small IPv4 transfers
+○
+
+●
+
+Split ARIN allocation / assignment policy from transfer policy
+Show a plan for 50% utilization of current + requested resources within 2 years for transfers
+
+ISP with no IPs can get up to a /21 transfer
+End-users with no IPs can get a /24 transfer
+
+ARIN-2016-5: Post-IPv4-Free-Pool-Depletion Transfer Policy
+○
+○
+○
+○
+
+No utilization requirements for M&A transfers
+Show 50% utilization of current holdings for transfers
+Show a plan to use 50% of requested transfer within 2 years
+Organization with no IPv4 addresses can get a /24 transfer
+
+Recent ARIN Policy Developments (Pending Implementation)
+●
+●
+
+ARIN-2015-3: Remove 30 day utilization requirement in end-user IPv4 policy
+○ Remove 25% utilization in 30 days for end-users
+ARIN-2015-5: Out of region use
+○
+
+ARIN resources can be used outside the ARIN service region
+■ Requires a substantial connection to the region
+●
+
+■
+
+●
+
+ARIN-2015-11: Remove transfer language which only applied pre-exhaustion
+○
+
+●
+
+Conducts business / has customers / has staff / holds meetings / has investors in
+the ARIN service region
+Requires a minimum used in region
+● /22 IPv4, /44 IPv6, 1 ASN
+
+Remove requirement that a source entity cannot receive ARIN allocation or assignment for
+one year after being a source of a transfer
+
+Editorial Change for M&A Transfers
+○
+
+Clarify that return of underutilized address space that is voluntary
+
+Recent developments from LACNIC region
+
+Ricardo Patara
+ASO/AC from LACNIC region
+
+Policy Development process
+
+Policy discussions take place in the mailing list
+(open and public)
+Any proposal presented in the mailing list 4
+weeks befor public forum are considered for
+discussion in the forum
+LACNIC holds 2 Policy Public Forum per year
+● Next one to be holden in San José/CR Sept
+26 to 30
+
+Recent discussions
+
+Very much focused in IPv6 and IPv4 transfers
+and "termination phase"
+Showing mature IPv6 deployment in the region
+Concerns with IPv4 depletion
+● LACNIC free pool ended Jul 2014
+● Termination policies in place since then
+○ 2 reserved IPv4 pools
+■ /22 each 6 months
+■ /22 for new members only
+
+Recent approved policies
+
+LAC-2016-6 Remove maximum size for IPv6
+assignments to end users, which is currently
+set to /32.
+LAC-2016-4 Remove some of the
+documentation requirements in order to justify
+initial IPv6 allocation, like for instance detailed
+routing plan and subnet planning.
+
+Proposals in discussion
+
+LAC-2016-5 For IPv6 allocations to have
+additional organization category which would
+be governamental ISP. As per author view,
+currently they could not justify larger allocation.
+LAC-2016-3 To remove multi-homed
+verification when of initial allocation to ISPs.
+Regions with fewer or just one option for
+upstream provider would block ISPs to apply
+for the initial allocation.
+
+Proposals in discussion
+
+LAC-2016-2 To create a new and exclusive
+IPv4 for termination phase for Critical
+infrastructure operators.
+
+Other topics
+
+IPv4 reserved pool had it size incremented
+from original /11 to /10 ( new /11 added).
+This due to the large amount of recovered IPv4
+being received.
+IPv4 intra-RIR transfer implemented last
+March. Policy was already in the text but
+inactive.
+Also related to this, there was a policy proposal
+to limit the period a new IPv4 allocation could
+be then transferred to 3 years.
+
+Thank you.
+Questions?
+
+RIPE Policy update
+Nurani Nimpuno, ASO AC
+
+ICANN56, Helsinki, Finland
+
+Nurani Nimpuno, ASO AC
+
+What is the RIPE NCC?
+•
+
+Secretariat for the RIPE Community
+
+•
+
+One of five Regional Internet Registries (RIRs)
+– Serves
+
+•
+
+Europe, Middle East and parts of Central Asia
+
+Allocates IPv4, IPv6 and AS Numbers
+– Maintains
+
+•
+
+RIPE database
+
+Open, transparent, neutral, impartial
+
+Nurani Nimpuno, ASO AC
+
+2
+
+RIPE Policy
+•
+
+Policies guide the RIPE NCC and everyone in the
+service region on use of IPv4, IPv6 and ASNs
+– Policies
+
+constantly evolve
+
+•
+
+Policy development in RIPE is done via working
+groups — following an open, bottom-up,
+consensus-based approach
+
+•
+
+Anyone can participate
+
+Nurani Nimpuno, ASO AC
+
+3
+
+Current Policy Discussions (IPv4)
+•
+
+2015-04, “RIPE Resource Transfer Policies”
+–
+
+•
+
+2015-05, “Revision of Last /8 Allocation Criteria”
+–
+
+•
+
+Single transfer policy for all transfer of Internet number
+resources
+Allows LIRs to request an additional /22 IPv4 allocation
+from the RIPE NCC every 18 months (WITHDRAWN)
+
+2016-03, “Locking Down the Final /8 Policy”
+–
+
+Limits IPv4 from the remaining address pool to one /22
+allocation per LIR (regardless of how it was received)
+
+Nurani Nimpuno, ASO AC
+
+4
+
+Current Policy Discussions (Other)
+•
+
+2016-01, “Include Legacy Internet Resource
+Holders in the Abuse-c Policy”
+– Requires
+
+an abuse contact for legacy Internet resource
+holders in the RIPE Database
+
+•
+
+2016-02, “Resource Authentication Key
+( RAK ) code for third party authentication”
+–
+
+Allows all number resources to be authenticated via
+an API key
+
+Nurani Nimpuno, ASO AC
+
+5
+
+2015 PDP Participation by Country
+
+Nurani Nimpuno, ASO AC
+
+6
+
+RIPE Forum
+•
+
+Web-based interface to RIPE community mailing
+lists
+
+•
+
+Modern way to interact
+
+•
+
+A post creates an email and vice versa
+
+•
+
+Everything happens on your browser, no emails
+to your inbox (if you wish)
+
+•
+
+No impact for current mailing list subscribers 
+
+Nurani Nimpuno, ASO AC
+
+7
+
+RIPE Forum
+•
+
+Upcoming web-based interface to RIPE
+community mailing lists
+
+•
+
+Aims to attract more people to join discussions
+
+•
+
+No impact for current mailing list subscribers 
+
+Nurani Nimpuno, ASO AC
+
+8
+
+Useful Information
+•
+
+Current RIPE Policy Proposals:
+– http://ripe.net/pdp/proposals
+
+•
+
+Map Address Policy Engagement
+– http://bit.ly/APWGML15
+
+•
+
+RIPE Forum
+– https://www.ripe.net/participate/mail/forum/
+
+•
+
+Follow
+–
+
+@PDO_RIPE_NCC
+
+Nurani Nimpuno, ASO AC
+
+9
+
+Thank you
+Nurani Nimpuno
+
+Nurani Nimpuno, ASO AC
+
+NRO update
+To be the flagship and global leader
+for collaborative Internet number
+resource management as a central
+element of an open, stable and
+secure Internet
+
+Presentation Summary
+• NRO Introduction
+– What is the NRO
+– Key Focus Areas
+– NRO in 2015 & Finance
+• NRO Activities
+– NRO Global Information
+– RIR Accountability
+– IANA Stewardship Transition
+– NRO Participation
+
+What is the NRO?
+• Number Resource Organization
+– NRO MoU, 24 Oct 2003.
+– Lightweight, unincorporated association.
+
+• Mission
+– Provide and promote a coordinated Internet
+number registry system;
+– Promote the multi-stakeholder model and
+bottom-up policy development process in
+Internet governance;
+– Coordinate and support joint activities of the RIRs;
+– Act as a focal point for input into the RIR system;
+– Fulfill the role of the ICANN Address Supporting
+Organisation (ASO).
+
+NRO Key Focus Areas
+• Support RIR coordination.
+• Global collaboration and governance
+coordination.
+• Monitor an contribute to global Internet
+governance discussions.
+
+NRO in 2016
+• Executive committee
+–
+–
+–
+–
+–
+
+Oscar Robles(Chair) – LACNIC
+John Curran (Secretary) – ARIN
+Paul Wilson (Treasurer) – APNIC
+Alan Barrett- AFRINIC
+Axel Pawlik – RIPE NCC
+
+• Secretariat
+
+– Hosted by ARIN
+– Executive Secretary: German Valdez
+(since April 2013)
+
+• Coordination Groups
+– CCG, ECG, RSCG.
+
+NRO Finances
+• Expenses
+
+– Travel (ASO AC Chair and Executive Sec).
+– Communications (Webex), NRO CG coordination
+(Meeting room) and outreach.
+– IGF Contribution
+– Contribution to ICANN.
+• Remains at $823,000 per annum (SLA included)
+
+– Staff cost (Executive Secretary)
+• Budget
+
+– Shared proportionally based on registration services
+revenue.
+
+• Joint RIR Stability Fund
+
+– to help ensure reliable operation of the Internet’s IP
+address management system globally in case of
+disruptions or emergencies.
+– Pledges for over 2.1 million US Dollars
+– https://www.nro.net/joint-rir-stability-fund
+
+NRO Global Information
+• Internet Number Status Report
+– Updated quarterly.
+– Global stats on IPv4, IPv6, ASN
+– https://www.nro.net/statistics
+
+• Comparative Policy Overview
+– Updated quarterly
+– New information on RIRs membership
+policy (access to delegation and
+registration services)
+– https://www.nro.net/comparative-policy
+
+RIRs Accountability
+• Governance Matrix
+
+– Overview of the governance frameworks of the RIRs.
+– Information on Bylaws, Regional PDP, Dispute
+Resolutions, Use of Whois, Privacy issues, Budget,
+Activity planning etc.
+– https://www.nro.net/governance-matrix
+– Ongoing process to improve RIR accountability
+mechanisms
+
+• RIR Accountability Q&A
+
+– https://www.nro.net/rir-accountability
+
+• Joint RIR Independent Accountability Review
+– Independent review currently in process in all RIRs.
+– Results will be made public
+
+IANA Stewardship Transition
+• IANA Stewardship Transition – CRISP Proposal
+– Support of Consolidated RIR IANA Stewardship
+Proposal (CRISP) Team to drive Internet Number
+Community consultation process
+– Meetings records, charter, members
+• http://www.nro.net/crisp-team
+
+– Community Proposal submitted to ICG
+• http://www.nro.net/crisp-final-proposal
+
+– IANA Numbering Services ReviewCommittee Charter
+• https://www.nro.net/review-committee-charter-v1
+
+• RIR - IANA Service Level Agreement
+– Fully based and in compliance with CRISP proposal.
+– SLA final document to be signed during ICANN
+Meeting in Helsinki
+• http://www.nro.net/sla
+
+NRO Participation
+• Participation in the 10th IGF in Brazil.
+– NRO supports annually to the IGF - 100K
+USD.
+– NRO Booth
+– Two NRO Workshops (including IPv6
+deployment) and RIR Open Forum
+– Support of IPv6 Best Practice Forum
+
+• OECD Ministerial on Digital Economy
+2016 in Mexico
+– ITAC IPv6 session
+– Internet of Things Panel
+
+• Preparations for the 11th IGF in Mexico.
+
+Thank You
+
+• http://www.nro.net
+
+

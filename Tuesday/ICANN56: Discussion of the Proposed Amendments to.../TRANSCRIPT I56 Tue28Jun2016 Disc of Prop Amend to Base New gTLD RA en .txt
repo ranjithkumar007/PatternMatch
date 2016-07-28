@@ -1,0 +1,1149 @@
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+Tuesday, June 28, 2016 – 10:30 to 11:45 EEST
+ICANN56 | Helsinki, Finland
+
+DENNIS CHANG:
+
+So we’re going to get started about five minutes. Feel free to
+come up and sit at the table, please. There’s plenty of room at
+the table. Please come up and sit at the table and if you like to
+speak later and ask questions, please speak into the microphone
+for the recording.
+We’ll be getting started in about two minutes. Please feel free to
+come up and seat at the table. Everybody is welcome.
+It’s 10:30 now, so we’ll be getting started. Everybody, please
+have a seat.
+The recording had started. So let’s get this meeting started.
+This is the Amending the New gTLD Registry Agreement session
+at ICANN 56 in Helsinki. Welcome, everyone.
+My name is Dennis Chang, GDD Services and Engagement
+Program Director, and I will be moderating this session today.
+So please, for those people who are online and for the recording,
+when you speak, state your name and then talk into the
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+microphone. For those of you who are in the back, there’s a
+couple of roving microphones on both sides that you can use.
+Let me start by introducing the panels that we have. So I would
+like the panel members to introduce themselves starting at the
+top with Jon. Go ahead.
+
+JON NEVETT:
+
+Jon Nevett from Donuts, and I chaired the Working Group.
+
+SUSAN PAYNE:
+
+Hi, Susan Payne from Valideus. I was a member of the Working
+Group on behalf of the Brand Registry Group.
+
+RUBENS KUHL:
+
+Rubens Kuhl, NIC.br, Registries Stakeholder Group.
+
+CYRUS NAMAZI:
+
+Cyrus Namazi, ICANN Global Domains Division.
+
+KRISTA PAPAC:
+
+Hi, everybody. Krista Papac with the Global Domains Division as
+well.
+
+FRANCISCO ARIAS:
+
+Page 2 of 36
+
+Francisco Arias, [also] ICANN staff.
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+DENNIS CHANG:
+
+EN
+
+Thank you. We will review the agenda.
+So first, we’ll provide some background of this amendment
+process and present to you the proposed changes to the new
+gTLD agreement, and public comment period we’ll discuss, a
+few milestones that’s important, and provide some helpful links
+for you to follow-up later.
+And then, we’re going to open it up for a question and answer
+session with the panel. So what I would like to ask you is to hold
+your questions until the question and answer session because
+for the first few minutes here, I’ll be going through some general
+information for everyone.
+So how did this amendment process begin? The Section 7.7 of
+the Registry Agreement provides the mechanism where ICANN or
+the Working Group appointed by the Registry Services
+Stakeholder Group to periodically process or propose the
+amendments to the agreement.
+In July 2014, this process was initiated with RySG and then since
+then, the Working Group of the RySG and ICANN had been
+discussing a set of revisions to the Registry Agreement. And
+those discussions or bilateral negotiations after 18 months have
+
+Page 3 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+resulted in a set of proposed changes, which is presented to you
+today.
+What are the changes? Some of the changes are clarifying
+responsibilities and updating to the term more of the
+administrative type of changes.
+The proposed revisions were largely focused on technical
+corrections and clarifications. And the ICANN published a
+summary of these changes on our website, and I’m sure you
+have all seen that.
+The final revisions will be implemented using the global
+agreement rather than restating the existing registry, and this is
+an important point we’ll discuss further later. The newly
+contracted gTLDs will be signing the fully amended Registry
+Agreement is the plan.
+Specifically, section by section, we will talk about what the
+changes are. On the monthly reporting, we provide a change
+where registry operator with the flexibility to defer the first
+month’s report if the delegation has occurred during the second
+half of the month. You also clarify that registry operator will
+include domain names created during the pre-delegation testing
+in the monthly report if the names have not been deleted at the
+time of the delegation.
+
+Page 4 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+Section 2.9 for registrars, we propose a revision to clarify that
+under the formal Registry Agreement that ICANN does not
+approve pricing changes. Can you all see that? Okay.
+Section 5.2, Arbitration wise, we are specifying the manner in
+which the arbitrator will be selected for arbitration proceedings.
+Section 6.7, Fee Reduction Waiver, we’re proposing that ICANN
+may determine to reduce the fee payable by the registry
+operator under the Registry Agreement. Under this provision,
+ICANN will retain discretion to determine whether a reduction in
+fees is appropriate, including the terms of any such reduction.
+In 7.5 (f), Change of Control in Assignment and Subcontracting
+section, we proposed a revision creating a new defined term
+“affiliated assignee,” which has the effect of facilitating
+reorganization by registry operator without triggering a
+[consent] right of ICANN. Additionally, the revision also clarifies
+that the affiliated assignee’s assumptions of the obligation
+under the Registry Agreement must be made in writing.
+The Exhibit A of Approved Services proposed revisions are as
+follows: Item 1.1.1 to 1.1.5 to reflect the ICANN’s current practice
+of describing DNS services in existing Exhibit A in Item 1.1.6,
+1.1.7, and 1.2, we add clarification to the DNS classes
+permissible and added permission to use TXT and Type 65-534
+records in certain circumstances.
+
+Page 5 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+Spec 3, we proposed a revision clarified [fields] in transaction
+and activity report.
+Spec 4.2.1.5, Use of Data by User section, we’re proposing a
+revision that reflects harmonization of provisions with the CZDS
+terms of service.
+Specification 6.1.4 concerning IDN we proposed revision
+intending to capture a circumstances where the provision of the
+Exhibit A may conflict with IDN guidelines in the future and
+provide priority to the ICANN IDN guidelines.
+Spec 7 Section 1, Rights Protection Mechanisms, we’re
+proposing a revision clarifying that registry operator must enter
+into a Registry-Registrar Agreement with at least one ICANN
+accredited registrar and specify the timing related thereto.
+Spec 13, we’re proposing a revision in response to the request by
+.brand TLD operators and provides that global amendments,
+example amendment approved pursuant to Section 7.6 or 7.7 of
+the Registry Agreement, that we cannot amend the provision of
+Specification 13 unless such amendments are approved by
+.brand TLD registry operators.
+Those were the summary of revisions, and we’ll look at public
+comment period.
+
+Page 6 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+So 31st of May, ICANN notified all registry operator that the
+public comment period for the proposed amendment was open.
+And Section 7.7 of the Registry Agreement states that the
+proposed amendment will be published for a minimum of 30
+days. However, ICANN has extended that period to 43 days.
+Once the public comment period ends, ICANN and RySG Working
+Group will consider the comments submitted and then submit a
+final proposal to all registry operators and the ICANN Board for a
+vote. Now, please note that the comments received, which do
+not pertain to the proposed amendment will not be considered.
+If the amendment receives ICANN Board approval and the
+registry operator approval, it will become effective 60 days after
+ICANN sends legal notice to the registry operator. All members of
+the ICANN community are invited and encouraged to provide
+feedback. Public comment period ends 13 July 2016, so please
+go ahead and submit your comment to our public comment.
+Let’s look at the milestones.
+So the public comment period opened on 31 May, right? It ends
+on the 13 July, and we will be providing a report on 12 August.
+Following that, we will request registry operator for a
+vote/approval and approval request to the ICANN Board. Once
+that’s approved, then amendment will become effective upon 30
+days’ notice from ICANN.
+
+Page 7 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+Here is a list of helpful links, and these slides will be posted
+online as with all of our other ICANN presentation.
+Let’s get to your questions and answers so we’re ready.
+Anybody? Go ahead, please.
+
+REG LEVY:
+
+Reg Levy, Minds + Machines. Is a fax number still a requirement
+under this, just in general? There are a number of instances
+where I’ve been required to provide a fax number. Given the
+realities of current technology, that fax number just goes to an email address. I know ICANN also doesn’t have a physical fax
+number, so it strikes me it’s very odd that it’s a requirement. It is
+fine to have it as an option.
+
+KRISTA PAPAC:
+
+Thanks, Reg. Are you talking about when you’re providing
+contact information in the portal, or are you talking about
+something in the Registry Agreement or both?
+
+REG LEVY:
+
+Both. It’s my understanding that the requirement in the portal
+stems from the actual contract.
+
+Page 8 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+KRISTA PAPAC:
+
+EN
+
+So it doesn’t really tie to the contract the requirement for the
+portal and with fax numbers, my recollection (and I’m working a
+little bit from my memory here) there are certain types of
+contacts that we do ask for a fax number and, while I know it
+seems very outdated, there are certain parts of the world where
+fax tends to be our most successful way of getting in touch with
+them.
+It’s one of those things where you can’t make it required for
+some and not for others, so it’s more of an operational thing
+than a registry agreement thing. In cases like emergency contact
+or certain types of contacts, I plan to continue to still require a
+fax, but I’m happy to discuss that further with you if you’d like.
+
+DENNIS CHANG:
+
+Do you have a question, Edmond? Go ahead.
+
+EDMOND CHUNG:
+
+Just a comment on one of the points that was presented. On the
+Exhibit A and Specification 6 on the IDNs, just a slight
+clarification. Not necessarily any conflicts with the future IDN
+guidelines but also potential conflict with the current IDN
+guidelines, so I just want to make sure that that is covered.
+
+Page 9 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+Well, there have been cases where it has been identified that
+there are conflicts between Exhibit A and the current IDN
+guidelines, and this amendment addresses that issue as well.
+
+DENNIS CHANG:
+
+Thank you, Edmond. Next question. Go ahead.
+
+DENISE MICHEL:
+
+Denise Michel, Facebook. I’m here on behalf of the business
+constituency. Could you and/or the panel members give us
+some more background on the impetus for these particular
+amendments, how the group of amendments were arrived at,
+and if there were additional amendments that the group
+considered but did not include?
+
+CYRUS NAMAZI:
+
+Thank you, Denise. This has been a lengthy process, actually, as
+you saw from the presentation earlier. I think we’re coming up to
+two-year anniversary of when the Stakeholder Group noticed to
+ICANN with the intent to propose modifications to it.
+It started off with a fairly lengthy list of proposed revisions and,
+over the course of 18-20 months that we were engaged with the
+Stakeholder Group Working Group, the list was modified. I think
+
+Page 10 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+it was shortened considerably. I know that Jon and Susan
+comment on that as well.
+And, at least from my perspective, overall, it ended up being
+more of a clarification and clean up of language. This was sort of
+the Draft 1.0 that we all agreed to back in 2013. Not too much
+substantive issues ended up being a part of it.
+I’ll let the representatives from the Working Group also
+comment on it if you like.
+
+JON NEVETT:
+
+Sure. Great question, Denise. Yeah, we started this process in
+July of 2014, and now we’re almost at the end of June 2016, so
+it’s been literally two years. We each had a list of proposed
+changes that we wanted to discuss. And as per the terms of the
+Registry Agreement, that’s a process that we notify them that we
+want to discuss changes. They notify us that they want to
+discuss changes. We just did it together. They shared a list with
+us. We shared a list with them.
+I won’t say a lengthy list, but there were a number of items on
+those lists from two years ago. And they got whittled down
+because you need agreement of both parties. So if we didn’t
+agree, they dropped it; and if they didn’t agree, we have to drop
+it, and that’s why we got down to list of more clarifications.
+
+Page 11 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+There are some substantive changes in here that we think are
+helpful and clarifications that we think are helpful, but the list of
+issues that we didn’t deal with is larger than the list of issues
+that we dealt with.
+
+SUSAN PAYNE:
+
+Just to add, I suppose that in terms of the list of requirements
+from the registry side, we basically just discussed it within the
+Registry Stakeholder Group. So there was a sort of initial call to
+the list of, what do you think? Do you think we should set this in
+motion? And those who were interested then participated in a
+working group, all submitting their suggested issues for
+negotiation and we ended up with a fairly substantive
+spreadsheet of issues and amendments we wanted to talk
+about, which we then swapped with the ICANN staff and worked
+from there.
+
+CYRUS NAMAZI:
+
+One additional point and it goes to Reg’s question before. It’s
+been a while since we actually exchanged the list of items. New
+ones have come up and people have had some new ideas that
+we haven’t dealt with because we kind of closed the queue in a
+way probably about three or four months ago, probably even
+more, six months.
+
+Page 12 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+And so the question for the Stakeholder Group in the next few
+meetings is, should we kick this process off again and start
+dealing with the pent-up demand for other changes? That
+sounds like a little frightening, and I’m hearing internal screams
+from the folks over here.
+So that’s something we need to decide: are the changes that we
+haven’t dealt with that might go through this process with some
+success worth the pain of going through it again? Hopefully, it
+won’t be two years but maybe another year of negotiations in
+doing this public comment and changing all the agreements and
+publishing everything.
+So that’s something we need to consider.
+
+KATRIN OHLMER:
+
+One follow-up to Reg question about the fax number and CZDS.
+Is it still mandatory or voluntarily? I think there have been some
+confusion whether the fax number has to be provided and CZDS
+inquiries.
+
+KRISTA PAPAC:
+
+Thanks, Katrin. I know I think there’s already a comment in the
+public comment form about this as well, and that’s something
+we’ll take into consideration as we’re evaluating the comments
+and thinking through the earlier point I made about fax number
+
+Page 13 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+is sometimes the best way to get a hold of people, which could
+be useful to registries or maybe not.
+But I know there’s a public comment already about that. Please
+feel free to also submit your own comments on that, and we’ll
+definitely consider that when we’re reviewing comments. Thank
+you.
+
+DENNIS CHANG:
+
+Go ahead.
+
+UNIDENTIFIED FEMALE:
+
+Yeah. I’d appreciate hearing some more background on the
+changes to 2.10 and 6.7. Why were they done? What do they
+mean?
+
+JON NEVETT:
+
+I’m happy to take those. You asked about 2.10 and 6.7. I’ll go
+with 2.10 first. That’s pricing for registry services. The registry
+has to provide its customers, the registrars, notice of any kind of
+price change. The notice depends whether it’s going up, going
+down, so there are different notices.
+What we did in the original agreement back in 2013, is that
+ICANN would also get a copy of any notices. And we’ve been
+doing it, so if we change the price of one domain name, we have
+
+Page 14 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+to notify ICANN and there’s nothing that they do with it. They’re
+just – it goes into some holding pattern, I guess.
+And so they weren’t doing anything with it, and it was a pain for
+us to send it to them as well. The registrars get notice, so if
+there’s a problem on the registrar perspective, they’ll raise it to
+ICANN anyway. So it was just an administrative burden for both
+us as registries and ICANN, and it wasn’t providing any value, so
+we cut out the notice to ICANN.
+Again, the registrars get notice and, to the extent a registry is
+ever accused of not following the process or having some issue
+with the price change or an increase or something like that, they
+will notify ICANN immediately. That’s what the registrar would
+know to do. And having notices from a thousand registries of
+different price adjustments didn’t make sense from an ICANN
+perspective.
+So that’s the genesis to that one. Rubens, do you have
+something to add?
+
+RUBENS KUHL:
+
+Yes. Just on that, ICANN already doesn’t receive information on
+the initial pricing, so that only applies to prices that are being
+changed. So that was also an asymmetry that we wanted to fix.
+
+Page 15 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+UNIDENTIFIED FEMALE:
+
+EN
+
+Thanks. That’s a useful point. What’s the rationale in ICANN
+receiving price changes but not initial pricing? Does anyone
+know?
+
+RUBENS KUHL:
+
+No, that’s why we are proposing that.
+
+JON NEVETT:
+
+It was just a disjoint in the original drafting of the agreement, in
+my opinion. Okay, 6.7 is probably a longer story. The genesis of
+this one, this is a Fee Reduction Waiver. We had discussed actual
+reductions in fees when we first started, and we had other
+proposals in there from a registry perspective that all got
+whittled down.
+The issue for a Fee Reduction Waiver is to align the registries
+with the registrars. So for example, the Registrar Accreditation
+Agreement doesn’t have the $0.18 transaction fee in their
+agreement and because of that, it used to be $0.25 and went
+down to $0.22 if you did certain things, went down to $0.20.
+So the registrars were able to negotiate different price changes,
+depending on volume of names and other factors as part of the
+budget cycle. Because the $0.25 fee is in the Registry Agreement
+itself, any kind of reduction would have to go through a full
+contract amendment.
+
+Page 16 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+And so the proposed provision is in there to deal with that
+situation that if there’s an explosion of new top-level domain
+registrations and ICANN’s budget is exploded and they want to
+have a waiver, we don’t have to go through the two-year process
+of amending the contract. We could just do it as part of a budget
+process.
+We had asked for some more language in there related to
+transparency and discrimination so that it’s not – we didn’t want
+any perception that ICANN could just play favorites and say, “We
+like you, so we’re going to low your fees but no one else’s based
+on the provision.” I’ve heard some of those concerns in the
+registry-registrar call we had last week, and that’s not the intent.
+ICANN’s position was, “We have accountability and transparency
+requirements. We don’t need to spell it out in this provision even
+though we asked for it,” so they cut that out and so that was
+their position.
+We envision any use of this to be objective, public, and obviously
+transparent, so that was the goal and the genesis of this Fee
+Reduction Waiver.
+
+DENNIS CHANG:
+
+Any other questions, comments? Anybody behind that
+[inaudible] there?
+
+Page 17 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+UNIDENTIFIED MALE:
+
+Where’s the coffee?
+
+DENNIS CHANG:
+
+We did have a webinar on this earlier, and that may be why there
+is less questions at this forum and that’s okay. We do have the
+public comments period still open, another 15 days, so please go
+ahead and provide your feedback there.
+Unless there’s any – okay, we have one more.
+
+UNIDENTIFIED FEMALE:
+
+Two.
+
+DENNIS CHANG:
+
+Two?
+
+UNIDENTIFIED MALE:
+
+Hello. [inaudible] France. Maybe I didn’t understand all the
+details about the Specification 13 part about the votes. Are there
+any special completely detailed roles on the votes of how do you
+define it’s been accepted by the [branches’] registries?
+
+Page 18 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+SUSAN PAYNE:
+
+EN
+
+I’ll try. Actually, I’m going to call out the contract just to be sure I
+look at the right thing. Basically, what the current contract has is
+a provision that everyone who has clauses 7.6 and 7.7 in their
+contract, effectively every single registry votes on all changes.
+And what we were concerned about was that you could have a
+theoretical situation where you might be an open registry
+without Specification 13, but you would be voting on a change
+to Specification 13 that wasn’t in your contract.
+And this certainly seemed to us to be (certainly seemed to me to
+be) a not intended consequence of the way that Specification 13
+developed and was sort of inserted into the contracts 2 years
+ago, 18 months ago.
+The amendment is to address that so that there is a provision
+now, which says that if it’s an amendment proposed under this
+collective
+
+negotiation
+
+process
+
+for
+
+an
+
+amendment
+
+to
+
+Specification 13, then you need to be one of the registries that
+has it in your contract to vote through the change.
+And specifically, the voting is still – the same kind of criteria has
+been applied. So there’s a two-stage qualification for the voting.
+First of all, there’s a voting based on one vote per TLD, and then
+there’s a safeguard, which is related to the amount of fees paid
+to ICANN. And effectively, the amount of fees you pay to ICANN
+
+Page 19 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+depends on the number of domains you have under
+management.
+Now, personally, I don’t feel that that’s necessary to stage voting
+for a brand registry because the number of domains you have
+and the fees you pay to ICANN is not really the priority of the
+brand registry. And the value of the brand registry to you, you
+might have one name but it doesn’t mean it’s not valuable to
+you.
+But nonetheless, that is what’s been proposed. The idea, as I
+say, is that you vote if you’ve got the provision in your contract,
+so you are voting for an amendment that actually affects you.
+The other thing to just mention is that ICANN’s staff were very
+concerned that there shouldn’t be unfair treatment and,
+therefore, there is also a kind of veto from the open registries.
+Cyrus is smiling. This was the subject of a lot of negotiation and
+debates, and they felt that it was appropriate that open
+registries, even though they don’t have Specification 13, should
+be able to say, “I know all of you guys have voted yes, but we
+think this is inappropriate and so we are voting no.”
+There is a veto in there from all registries if they don’t agree with
+the change. Yeah, I hope – does that help?
+
+Page 20 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+FRANCISCO ARIAS:
+
+EN
+
+Yeah, that helps. So, just to summarize, if someone wants to
+make a change to Specification 13, it’s only the people who have
+that would vote. Am I too simple?
+
+SUSAN PAYNE:
+
+Effectively, yes.
+
+FRANCISCO ARIAS:
+
+Okay. Thank you.
+
+SUSAN PAYNE:
+
+So, just to make sure I get this correct, both vote, but it doesn’t
+pass for the Spec 13 provisions unless the second threshold for
+those with Spec 13 is also achieved.
+And then, just one clarification, which is probably obvious but I
+try not to assume, too often things are obvious. This is a
+proposed provision for these proposed amendments, this
+provision would not be incorporated, just be the single vote this
+time around and if it was included, if this amendment was inked
+for a lack of a better word, that would be in there for future votes
+or future amendments.
+
+[BRETT FOSTER]:
+
+I have a couple of mechanical questions about the process
+forward from here. At the end of the public comment period,
+
+Page 21 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+assuming that everyone agrees that changes should be made,
+when would those changes going to affect and then how would
+they go into effect? Will the base agreement just be deemed
+amended by this process? Will we have to re-sign an
+amendment? Just mechanically, will you send something out to
+us, or how will that take effect?
+
+KRISTA PAPAC:
+
+Thanks, [Brett]. Before that point, after public comments,
+summary and analysis report, we also work with the Working
+Group on looking at the public comments. This is all spelled out
+in the agreement but just for the benefit for everyone. I know
+Dennis covered this earlier.
+An amendment needs to be approved by the vote of the
+registries, which has two thresholds to cross. It has to be
+approved by the Board. And then, once all of that happens, the
+way we’re anticipating implementing this – and it’s in the public
+comment forum. I know there’s a lot of very dense documents
+there.
+But the way we’d like to implement it is with a global
+amendment, which basically summarizes what each of the
+changes are. That global amendment would be sent out to each
+affected party, contracted registry operator that’s affected by it,
+that has this amendment provision in their contract.
+
+Page 22 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+So that’s new 2012-round gTLDs, as well as some of the legacies
+who now have this provision. Nothing needs to be signed, which
+is really awesome because that’s pretty laborious definitely for
+ICANN and certainly for those that have portfolios of TLDs.
+I think that it’s a 60-day – you’d get a legal notification from us
+with the global amendment saying that it’s effective in 60 days,
+and then we go from there.
+
+JON NEVETT:
+
+If I could add one thing. I don’t know if you’re on the webinar on
+– when was it? A week or two ago when we discussed this one
+issue that is open and that Krista referred to as being discussed I
+guess is what will ICANN show on the website in the resource
+section for our Registry Agreements? Will it be the old Registry
+Agreement and then there’ll be a click to the amendment that
+changes that, or will we have essentially an amended and
+restated version up on the website so you have the current
+version? And that’s still an open issue.
+It’s an administrative hustle for these guys to go through all the
+contracts and put all the changes in to each one. But it would be
+great if that happened because then when you click on your
+contract, you actually see your contract. You don’t have to cross
+reference any additional amendment to say, “Oh, what does
+Provision 75 say?” and you pull up Provision 75 and you have
+
+Page 23 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+actually the wrong provision because it has been amended and
+you’re not cross referencing it.
+So that’s an open issue that’s being discussed certainly
+internally at ICANN.
+
+KRISTA PAPAC:
+
+And if I can just follow-up on that. Thanks, Jon. So the way that
+amendments are today, for anyone who’s amended their
+agreement, you might know this. They work very similar to this,
+only there are signatures required.
+The way that all of the agreements are set up if you go look at
+your Registry Agreement page 9or pages if you have multiple
+TLDs0, you have the base agreement that you signed, any
+subsequent amendments, two character authorizations. It
+shows the history of everything.
+I’m not a lawyer, but the way that I understand it from our legal
+counsel to the way that our contract is written, it’s meant to be
+amended and this process is meant to deliver an amendment
+rather than perform a restated agreement.
+And to Jon’s point, not just an administrative burden but the
+human error factor is also – all of your agreements are very, very
+different. These amendments – so you have different Spec 11
+provisions, you have different Exhibit As, you’ve made notice
+
+Page 24 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+changes to your 7.9 contact information. Just those are the
+things that come right off the top of my head right now. The
+human error factor of trying to restate those is a bit problematic
+as well.
+The other thing I wanted to make sure, I didn’t mention earlier,
+is the other thing that we would publish at the top of the
+Registry Agreement pages we have what’s the current base
+agreement, which is just the generic version of the base
+agreement. We would also add the global amendment there, as
+well as I believe we envision putting a redline of this new base
+agreement against the old base agreement so you could see
+what the standard base looks like in a redline form that might
+make it a little bit easier to decipher.
+But to Jon’s point, we are still discussing it.
+
+JON NEVETT:
+
+I wonder if there’s a way that if you pull the agreement up, any
+provision that’s been amended is highlighted or something like
+that. I wonder if there’s an easy way to put that in. So you know
+7.5 was amended. You pull up your contract, and you see it’s
+highlighted or something. You don’t see the new language but at
+least there’s, “Alert! Alert! Don’t rely on this provision because
+it’s been amended subsequently.”
+
+Page 25 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+Maybe there’s something we could look at it and do something
+like that or something. Krista doesn’t like it. You want to play
+poker with Krista.
+
+KRISTA PAPAC:
+
+And that’s what I want you to think. Success. I completely
+appreciate where you’re coming from. One of the reasons that I
+think we took this global amendment approach is to make that –
+it looks a little bit like the chart of changes so you can – if you
+look at the amendments you guys have today, it has
+wheretofores and whereas’s and a whole bunch of stuff that
+leads in it says, “We take this out and we replace this.” That’s
+actually much more difficult to follow than – it’s almost a chart.
+The global amendment itself is almost a chart of the changes.
+It’s not exactly what you’re talking – but we’re trying to get there
+is what I’m saying as we’re looking for the most useful but
+manageable solution. So, anyway, thank you, and we will keep
+talking with my poker face.
+
+DENNIS CHANG:
+
+Thank you, everyone. We have one more question.
+
+JIM PRENDERGAST:
+
+Sorry. We can’t get out of here that quick. Jim Prendergast, The
+Galway Strategy Group. This is a slightly different take on what
+
+Page 26 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+[Brett] said because I think you said, “Well, assuming everybody
+is okay with these changes.” If you look at the comment period
+right now, there are comments that are suggesting alternative
+paths to what’s in the amendment. Could you give a little more
+insight into what happens when you do have comments that are
+critical or suggesting something else? How is that going to be
+resolved? What’s the process there?
+
+KRISTA PAPAC:
+
+Thanks, Jim. Are you guys sick of my voice yet? This is the first
+time we’re doing this. But overall, the way the negotiation
+process is articulated in the contract is there basically has a to
+be agreement between the Working Group from Registry
+Stakeholder Group and from the registries and ICANN in order
+for the changes to be deemed okay or whatever. We have to
+have agreement.
+The way I believe we’re envisioning this is taking the public
+comments. And again, there’s a provision in there also that talks
+about working with the Working Group staff and the Working
+Group through the public comments.
+Our best current thinking is that through that conversation, we
+come to some place that we’re in agreement. And then again, it
+would go to a vote from the registry operators. So all registries
+
+Page 27 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+have to agree to it and approve it under the contract, and then
+again, the Board also has an approval step.
+
+JIM PRENDERGAST:
+
+So then, just to follow up, essentially, if somebody is
+recommending that where ICANN is dropped from the price
+notification and say somebody is advocating that that shouldn’t
+be dropped, then the negotiating team and ICANN will get
+together, discuss whether or not you accept that edit or not, and
+then it goes forward to a vote to the registry stakeholder or the
+registries.
+
+KRISTA PAPAC:
+
+Yeah, I believe so.
+
+JIM PRENDERGAST:
+
+Okay.
+
+KRISTA PAPAC:
+
+Thank you.
+
+JON NEVETT:
+
+There are four comments so far. There’s one in that 6.7 [and]
+[inaudible][.7]. That comment was more along the lines of it
+should be changed, not dropped. But yeah, I think the process-
+
+Page 28 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+wise that’s right, Jim. We’ll get together after and look at it. If
+there’s an overwhelming outcry about a provision, then
+obviously we’ll have to take that into account and decide what
+to do about that one.
+
+JIM PRENDERGAST:
+
+Yeah, I’m just trying to anticipate the flood of comments on July
+12th.
+
+DENNIS CHANG:
+
+Go ahead, Keith.
+
+KEITH DRAZEK:
+
+Thank you very much. Keith Drazek, Verisign and Registry
+Stakeholder Group. I apologize for asking this question here in
+this session and not previously in the various discussions, but in
+Exhibit A in I think it’s Section 1.2 of Exhibit A, there’s a reference
+to dotless domains. And while appropriately, I think it actually
+confirms that dotless domains are prohibited in the New gTLDs –
+something that the ICANN Board resolved back in 2013 – there’s
+some new language around the introduction of the use of an
+RSEP by a registry operator to seek I guess a waiver or
+permission to be able to use dotless domains. It seems that that
+might be a possible circumvention of the ICANN Board’s position
+on that.
+
+Page 29 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+And there is no explanation or rationale included as to why that
+language was included or added. I was just hoping that we could
+get a little bit more clarification about how that got in there,
+what the intent was, where it came from. That will be helpful.
+Thanks.
+
+FRANCISCO ARIAS:
+
+This is [an unfortunate] administrative way to present things I
+guess because this is not new language. What happened is, for
+reasons that escape my memory, the base agreement as it is
+published does not contain Section 1 of Exhibit A. I honestly
+can’t remember why. It was three years ago or two whatever it
+is.
+The point is Section 1 is that [inaudible] includes that specific
+language without change. It is in all the New TLD agreements
+and even in some of the legacy TLDs that have adopted this new
+form of agreement. There are indeed some changes related to
+Section 1 of Exhibit A, but they are not about dotless.
+So that language that you have there is indeed permitting
+dotless. It didn’t mention RSEP because, as far as I understand,
+even if we didn’t mention it, every registry, it’s as far as I
+understand, is entitled to request a change to their services. And
+whether that will pass an RSEP for example, that’s a different
+question.
+
+Page 30 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+JON NEVETT:
+
+EN
+
+Thank you. Just to follow-up then. Thank you, Francisco. I’ll
+have to go back and take a look at the previous language just to
+confirm my understanding. But it seems to me that if we’re
+looking at something like dotless domains specifically – and I’m
+not addressing some of the other records that were addressed in
+that session, but dotless domains was specifically prohibited by
+the ICANN Board – that the appropriate place to reference
+dotless domains in the New gTLD Registry Agreement would be
+in Section 2.2 or something similar to the prohibition on
+wildcarding.
+The idea that there might be a submission of an RSEP to seek
+approval of something that has been explicitly prohibited by the
+ICANN Board, it seems much more I guess comparable to
+Section 2.2, which is the prohibition on wildcarding. Not
+allowing for a registry to submit a proposal, an RSEP proposal,
+which would have I think a much lower threshold of community
+input and review and Board consideration potentially than
+something that might require a change to a Board resolution.
+Thanks.
+
+Page 31 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+CYRUS NAMAZI:
+
+EN
+
+Thank you, Keith. That’s a good input. I think we should go back
+and take a look at it to make sure that the intent here is reflected
+in what’s posted and ultimately adopted.
+I just want to make sure for the record that there is no
+implication here of ICANN and perhaps the Stakeholder Group
+wanting to provide a backdoor for dotless domain to come back.
+There’s no intention of that at all. I just wanted to state that for
+the record.
+How the redline is presented perhaps may have given rise to that
+perception. Now again, I also want to echo what Francisco said,
+which is in terms of any registries being able to submit an RSEP
+to ICANN for any type of service they want to, they can. There’s
+no way that we could tell them not to.
+How we end up processing it and ultimately approving or
+disapproving it then falls into that category.
+
+JON NEVETT:
+
+So the bottom line is this language is in the current agreements
+anyway, so it’s not a change.
+
+UNIDENTIFIED MALE:
+
+Page 32 of 36
+
+That’s right.
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+JON NEVETT:
+
+Okay. Thank you.
+
+DENNIS CHANG:
+
+Go ahead, Edmond.
+
+EDMOND CHUNG:
+
+Just a comment on that actually from Francisco. In terms of
+Exhibit A, I think one of the reasons why a few years back it
+wasn’t included is the intention or what was advertised at that
+time was that it would just reflect what was in the application
+and it should reference back the approved services based on the
+application and the PDT and those kind of things and, therefore,
+it was left blank. And then, subsequently, the language was
+produced and I guess that led to all this further discussion in this
+particular round.
+And then, a couple of comments. One on the kind of effective
+agreement, which Jon mentioned. I understand the difficulty
+that Krista mentioned about the human errors that may be
+produced if we create an integrated version of a contract. But I
+think some thinking towards that might be really useful because
+with the amendments piling up or as they increase over time, it
+would be useful to have a version – even if you say that version is
+not the definitive version and if there’s any error, go back to the
+amendments and the original one – that would be useful for
+
+Page 33 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+reference just to read through for registries and other people
+who are trying to read through the agreement. You can have a
+disclaimer that says, “This version is not the definitive version
+but just for reference.”
+And then, a third comment on Jon’s point about if we do the
+next round of amendments, we’re probably are looking at even
+more complications with the older TLDs coming back into this
+format. And so I wouldn’t expect a shorter time to go through. It
+would be very optimistic to think about it being shorter than
+what we did this time.
+
+KRISTA PAPAC:
+
+Thanks, Edmond. On your point about having an unofficial
+version of a pro forma agreement – and we have heard you guys
+on this going back even to the webinar and the discussion there
+– one of the things we’re looking into (and I cannot promise you
+this in any way, shape or form today, I cannot promise you this
+but we are looking into it) is to see with – you guys all know
+we’re working on sort of reconfiguring the GDD Portal. One of
+the things I’d love to get to is something like that either through
+the portal or through some other type of technology. It’s very
+preliminary stages because we just started talking about it
+based on the webinar.
+
+Page 34 of 36
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+EN
+
+The point is we’re trying to see if there’s some way that you
+could produce something like that through technology that is
+part of your portal or some other thing. If we get there, great.
+We’d like to get there, but we’re definitely looking into it, having
+heard your guys’ feedback and your concerns.
+
+DENNIS CHANG:
+
+All right, then. I think that’s the end of those questions, so we
+will go ahead and close this session. Thank you everyone for
+coming and participating, and we’ll see you again on another
+meeting.
+
+UNIDENTIFIED MALE:
+
+[Inaudible].
+
+KRISTA PAPAC:
+
+Sorry. Really quick, I just wanted to thank Susan, Rubens, and
+Jon, of course, the ICANN staff folks but especially you guys for
+participating in this. And again, we really appreciate the
+collaboration and teamwork, so thanks.
+
+JON NEVETT:
+
+Page 35 of 36
+
+Thank you.
+
+HELSINKI – Discussion of the Proposed Amendments to the Base New gTLD Registry Agreement
+
+[END OF TRANSCRIPTION]
+
+Page 36 of 36
+
+EN
+
+

@@ -1,0 +1,1174 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 1
+
+Transcription ICANN Helsinki
+Thick WHOIS Policy Implementation – Meeting with the IRT: Session 1 of 2
+Wednesday, 29 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Dennis Chang:
+
+Okay, it's 12:31 per my clock. And we're to start at 12:30, correct? Okay.
+Okay, thank you. Welcome, everyone. This is the Thick Whois Policy
+Implementation IRT Meeting on June 29, 2016 at ICANN 56 in Helsinki.
+Welcome. My name is Dennis Chang. I am GDD Services & Engagement
+Program Director, and I'll be moderating this session today.
+So before we get started, I would like to go around the table and introduce
+ourselves. There's not too many of us. So if you're in the back, please feel
+free to come and join us at the table, because you will need to use the
+microphone if you're going to ask questions or comment, for the people who
+are remotely participating. So please come up and let's fill out this table.
+So we'll start with introductions. So let's start from Kristine. Go ahead and
+introduce yourself and your role. And if you're an IRT member, please identify
+you as such.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 2
+
+Kristine Dorrain:
+
+Thank you. Kristine Dorrain, Amazon Registry Services. I am not an IRT
+member. I'm just observing.
+
+Joe Waldron:
+
+Joe Waldron from Verisign, and I am an IRT member.
+
+Erika Randall:
+
+Erika Randall, ICANN staff.
+
+Steve Chan:
+
+Steve Chan, ICANN staff.
+
+Tom Iacobucci:
+
+Tom Iacobucci, ICANN staff.
+
+Man:
+
+(Unintelligible), ICANN staff.
+
+Roger Carney:
+
+Roger Carney, GoDaddy, and I'm on the IRT.
+
+James Gannon:
+
+James Gannon. I'm a service and security consultant. I'm not an IRT
+member.
+
+Jordan Buchanan: Jordan Buchanan with Google, and I'm also not an IRT member.
+(Dale Hoods):
+
+(Dale Hoods), and I am an IRT member.
+
+(Nick Saselio):
+
+(Nick Saselio) with (DNS). Not an IRT member.
+
+Jeff Eckhaus:
+
+Jeff Eckhaus from Rightside, which is Enom and Name.com registrars, and
+not an IRT member.
+
+Dennis Chang:
+
+Let's see. Any other IRT members in the room who may be sitting in the
+back, please join us at the table and identify yourself. Otherwise, let's see. Is
+there any IRT members joining us in the remotely? Let's see. Okay, Jody is
+there, Kolker.
+
+Woman:
+
+And we have Mark Anderson and (unintelligible) on the phone.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 3
+
+Dennis Chang:
+
+Okay. I understand Mark Anderson is there, too. Thank you for checking in.
+All right then, let's get started. So let me cover the agenda, and a couple of
+the preceding slides. And Fabien is going to go ahead and take over, as he
+usually does on the IRT meetings.
+So for this session, we'll do some background and talk about the milestones
+and recent activities. And we will be looking at policy implementation timeline,
+and the consistent labeling and display that is the next step. And what we
+would like to do is focus today's session on the transition from thin to thick.
+So we want to remind you of the current objectives, and we'll go from there.
+Now we have two sessions at this ICANN 56 in Helsinki. So we have this
+session, and then tomorrow we will have another session. So think of it as a
+continuation of the IRT work. And what I'd like to do is, today we'll do the
+background, and we'll answer questions in an overview fashion if you have
+any questions about the program. And we'll cover our general approach to
+the implementation.
+And if we have - if at all possible, what we would like to do is really get to the
+working session of the timeline, and perhaps get a consensus of that timeline;
+and tomorrow maybe look over the whole timeline, and then the rest of the
+plan.
+So let's see. Some background. I think most of the IRT members know this.
+The Thick Whois Policy Development was done in March 2012 to October
+2013. And the Board adopted the recommendation in February 2014.
+And there's two expected outcomes of the policy recommendation. One is the
+consistent labeling and display, and the other is the transition from thin to
+thick for .com, .net and .jobs. So we'll be talking about the two different
+expected outcomes or tracks, however you want to think about it. But it was
+the IRT's decision to go about this as two separate projects, and we'll
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 4
+
+probably end up making the implementation, you know, two different
+timelines, too.
+So this is basically some details on the steps that we have taken, and some
+of the milestones that we have achieved, starting in November '14, 2014. And
+I won't go over the details here. These slides will be posted on the session
+calendar, so you can look them up later.
+So let's look at our policy implementation timeline. It's a busy slide, and it'll
+take some time to get used to. The IRT members have seen this several
+times before, but there are new participants, so I would like to take a little bit
+of more time and talk about this. Fabien, do you want to take over from here?
+Fabien Betremieux:
+
+Sure. Thank you, Dennis. So what you see on this slide - so hello,
+
+everyone. Sorry. I apologize for not being with you, and I hope that we can
+learn these slides this way in an effective way.
+So what you see on this slide is the implementation timeline, so that is the
+policy implementation work we're doing. So let's start at the bottom of the
+slide. So that piece is the transition from thin to thick. As you understand,
+we've coupled our work in those two areas, the transition for the
+(unintelligible) and the consistent labeling and display way for all gTLDs.
+If you look at the bottom part, as you can see we're still working through the
+design of the implementation plan, which we aim to publish for public
+comment in the fall, from September to October roughly, with the idea that by
+the end of the year, we would have a revised plan for input we'd received in
+the public comments, and announce the policy effective date, on that basis,
+early next year. So that's for the transition from thin to thick on .com, .net and
+.jobs.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 5
+
+For the second outcome, in the middle of the slide, that's thick Whois
+consistent labeling and display, as you may be aware, we have published a
+proposed policy language for public comment in December.
+That public comment period ended in March. And we are now working
+through revising this policy language based on the input we received, and we
+intend to announce the policy effective date later this month - I mean in July,
+end of July. And so we'll talk about the status and next steps of that piece in a
+minute.
+And we have on this slide the bottom part, which is the (unintelligible)
+timeline, because as you may be aware, we are synchronizing the
+implementation of consistent labeling and display of the Whois output for all
+gTLDs. And we have the rollout of the (unintelligible) profile.
+So this is why you can see that goes through - are synchronized. This was
+one of the objectives of our implementation, to minimize impact on affected
+parties. Dennis, let me stop here and see if there's any questions or
+comments at this point.
+Dennis Chang:
+
+Anyone have questions? I don't see any hands raised in the room or in the
+Adobe Connect, so let's proceed.
+
+Fabien Betremieux:
+
+Thank you. So let me move on to the next slide. So let's talk about
+
+consistent labeling and display, and provide some status there, and an
+indication of next steps.
+So as you can see the first bullet, that's a reminder of what was the text of the
+actual PDP working group Recommendation Number 1, from which stemmed
+those two outcomes we've talked about, consistent labeling and display of
+Whois output for all gTLDs, and the transition from thin to thick for .com, .net
+and .jobs.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 6
+
+So we're talking here about this specific outcome of the consistent labeling
+and display of Whois output for all gTLDs. We've heard - we've received
+substantial comments on our initial proposal. And so we've made a series of
+revisions which we've discussed.
+We've actually considered the comments we've received. We've discussed
+those comments with the IRT, and now we will release later today our revised
+proposed policy language which incorporates those three elements here in
+the middle of this slide.
+We've heard that there were substantial concerns with the potential confusion
+of displaying the registry expiration date and the registrar expiration date in
+the same Whois output. So we have decided that the display of the registrar
+expiration date, as well as the reselling permission, will be optional. And there
+will be no suggestions of mitigation mechanisms for those that would like to
+display those two expiration dates. So that's the first element.
+The second one, we've received succinct feedback around the notion that
+making a reference to Section 3 of the 2013 RAA in our policy would cause a
+problem for registries, because of consensus policies becoming requirements
+of the registries, there would be a linkage between the RA and the RAA that
+was problematic for registries.
+So what we are doing is that we will remove such a reference, and replace it
+by a specification, detailed specification, of the changes that would be
+applicable to registries (unintelligible).
+And finally, there were also some concerned - concerns, sorry, with the
+reference to the Whois clarification advisory in our draft policy, because it
+was perceived as making this advisory a contractual requirement, which was
+not the intent. So we have made specific reference to this being a
+complement, not an element constituting the policy.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 7
+
+And so as I mentioned, as far as next steps, we will share the language later
+today for review by the IRT. And hopefully this will fit what the IRT was
+expecting, and is in line with the comments we received, and we will move on
+to publish that policy language at the end of the month of July for
+implementation by affected parties by February 1, 2017. Let me stop here,
+Dennis, and see if there's any questions or comments.
+Dennis Chang:
+
+Go ahead, Joe.
+
+Joe Waldron:
+
+Yeah, Joe Waldron from Verisign. So thanks for the update, Fabien. I think
+that's helpful. I know there was a lot of discussion about the reseller and
+registrar expiration date, so I think that it might be helpful just to have a brief
+discussion about what that really means.
+So my understanding of that is that that's optional. Since these are - these
+apply to all gTLDs, right? So this is optional at the registry operator level. So
+is that a correct understanding?
+
+Fabien Betremieux:
+
+That's correct, Joe. Thank you. Because the policy does apply to
+
+(unintelligible).
+Joe Waldron:
+
+Thank you.
+
+Dennis Chang:
+
+Go ahead, Jordan.
+
+Jordan Buchanan: Thanks. Just a brief comment. I'd like to thank the staff for their
+responsiveness to the feedback you received. I think this roughly - this
+reflects certainly the feedback that Google provided in our most recent
+comment on this. And I think it's a much better solution than the previously
+one proposed. So I just wanted to thank the staff for its reactivity, and this
+implementation looks right to me based on my understanding of the policy.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 8
+
+Dennis Chang:
+
+We appreciate that. Thank you for that comment. No other comment. So as
+Fabien said, this is important for the IRT members. Please check your email
+today, tonight, because you will receive a document. And hopefully you can
+have a chance to look at it. And in our tomorrow's session, we can talk about
+this again, if you like. Move on, Fabien.
+
+Fabien Betremieux:
+
+Let me mention on this subject one thing. The format of the language will
+
+be different than what we have drafted and submitted for public comment.
+This is why we really need the IRT's attention. We believe the substance is
+no different. It's actually what we've explained here in line with the feedback
+we've received.
+But because we've changed the format of the way we've written the policy,
+this needs the attention of the IRT, and we can certainly take time tomorrow
+to walk everyone through it and discuss it.
+And one of the main changes in terms of format is that we have gone into
+more of the details, because as I mentioned, we specified the changes that
+would apply to registries' RDDS output, as opposed to making a reference
+(unintelligible). And we hope that by doing this, we've made a very clear
+policy language that will be helpful for everyone to implement.
+Okay. So, Dennis, unless there's any question or comments, I'm moving on to
+the next slide.
+Dennis Chang:
+
+Please do.
+
+Fabien Betremieux:
+
+So now on to the transition from thin to thick. Here is a reminder of what
+
+we're trying to do, and what we've been doing for the past six months at least,
+in particular.
+We've identified that there should be two parallel tracks in the implementation
+of the transition -- a track for the handling of the new registrations, and a track
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 9
+
+for the handling of existing registrations. I'm not going to speak to the
+implementation plan. We've discussed this already. Our target is to publish
+this in January 2017.
+In order to get there, we've agreed with the IRT that we will - we have been
+working - discussing an implementation path that we're trying to close this
+week. And on that basis, we would then, as staff, draft an implementation
+proposal by the end of the month of July, which would then be reviewed and
+validated by the IRT before going for public comment.
+So we are at this stage today where we're trying to close the discussion of
+the implementation path, and switch to a mode where we can draft a plan that
+would then become what we submit to the community, and eventually publish
+for implementation.
+So where are we today on the discussion of the implementation path? As of
+last week, the high level agreement that there is right now in the IRT is the
+following. And please, IRT members, stop me if you don't recognize the
+consensus here.
+First, we would approach the transition, as I mentioned, in two tracks that
+would have potentially independent timelines. And I think the assumption was
+discussed as to ensure that any delay or complication in one track would not
+affect the other one. That's the first principle.
+The second one is that with respect to existing registration data, the registry
+system would enforce a limited set of validation rules, and this would be to
+ensure that all the existing registration data is transitioned, and there's no
+data left out because of data formatting or data missing issues; the objective
+being that after the transition, the registries' RDDS output should contain as
+much information as was available in both the registry and the registrar's
+RDDS output before the transition.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 10
+
+And so in concrete terms, there will be three specific fields that would be
+required for contact, and that's the contact ID, postal info type, and
+(unintelligible). That's a bit of the details of the discussion right now.
+I believe it's important to note this principle, that we are aiming for the same
+amount of information before and after the transition, but making sure that all
+the transition - all the data can indeed transition. So that was the second
+principle.
+The third one is that there would be two options available to registrars for
+completing the transition of existing registration data. There would be an EPP
+channel and a file-based channel. There are still some elements in defining
+both of those channels, but I think the IRT agrees on these two channels.
+And finally, the fourth principle, and that speaks to the validation rules
+enforced by the registry systems. And the idea is that once existing
+registration data is transitioned, the transition is complete, or that the date for
+that transition has passed, then it's regular validation rules that would apply.
+So the same rules would apply for new registration and existing registration
+after that cut-off date of the transition of existing registration from thin to thick.
+Let me stop here, Dennis, and see if there is any question or comments.
+Theo Geurts:
+
+Good morning, good afternoon, everybody. This is Theo from (unintelligible)
+register. Just about to highlight something regarding Point 2 there, regarding
+the EPP. The IRT hasn't been able to actually come to a sort of consensus
+there on what EPP we are going to use in the terms of like - let me explain it
+a little bit.
+Currently Verisign has two EPP channels -- its so-called back channel, the
+back pool channel, and there is the shared registration system that they offer.
+And most registrars - well I don't likely know if most registrars use the SRS
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 11
+
+pool or the batch pool. So we still need to figure out where we are going to
+connect to, or if both will become available. Thanks.
+Fabien Betremieux:
+
+Yes, thank you to you. And we - you know, depending on the time we
+
+have today and certainly tomorrow, we can spend more time and go back into
+those open items we have, and try to close as much as we can - as many of
+them as we can.
+((Crosstalk))
+Dennis Chang:
+
+We have a comment from Joe.
+
+Joe Waldron:
+
+Yeah, thanks. This is Joe Waldron from Verisign. So just on that point, so the
+two bullets - just for clarification. The two bullets here is EPP which will be a
+transactional mechanism for registrars to be able to upload all of that data, as
+they do for any other transactions.
+The bulk file is one that I believe has been discussed quite a bit, but I'm not
+sure that we have any kind of consensus from the registrars on preference of
+having a bulk upload capability versus EPP. So I think that's still an open
+issue, but those are the two that have been discussed within the group.
+And then to the point about which of the EPP channels - I guess I don't look
+at them as different channels. But you're right. We have a standard pool of
+connections, and then we also have a batch pool that are typically used by
+registrars that are picking up deleting names.
+So those are available to the registrars, and I think that's an implementation
+detail that we can get to, but I don't think it's necessarily, you know, relevant
+to how we're going to do it, I think. The main question at this point is, do
+registrars want to individually upload the data, or do that through bulk files?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 12
+
+Jordan Buchanan: It's Jordan Buchanan with Google. This is a quick question based on reading
+this. If the notion of sort of doing new registrations and transitioning the prior
+registrations are happening in parallel, I'm trying to wrap my head a little bit
+around the validation rules.
+Are we saying that during the transition period, new registrations will be
+subject to the normal validation rules, while contact objects that are
+associated with older domains will have lighter validation rules? Or is the
+validation rules across the entire system going to be lighter-weight during the
+transition period?
+Joe Waldron:
+
+It's Joe. So I think we've circulated a document that has what validation is
+done. And I would say it's a fairly lightweight validation. This is not intended
+to satisfy the Whois accuracy requirements. Registrars do that. So the
+validation rules should be the same for both sets of data.
+
+Jordan Buchanan: Like, I guess, what's the point of this last bullet on this slide there? What's the
+difference between post-transition and during transition, in terms of validation
+rules?
+Joe Waldron:
+
+I guess the way I was reading that was that if you - once you backfill the data,
+then any modifications to that data just follow the normal validation rules that
+are in place. Maybe I'm not reading it the way it was intended. So, Fabien…
+
+Fabien Betremieux:
+Dennis Chang:
+
+No, that's right. That's right.
+
+Go ahead, Fabien.
+
+Fabien Betremieux:
+
+Yeah, no, I was going to say, Joe, this is correct. I think once the
+
+registration data - the existing registrations are transitioned, then those are
+subject to the same validation as the new registrations. But during the
+transition, Joe, I think, to clarify and make sure, the current discussion has
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 13
+
+been that the validation rules that are enforced on both of these types of data,
+new and existing registrations, are different in parallel.
+So each are operating in their own track. New registrations are subject to the
+full registry system validation rules, or to a given set of rules. And the existing
+registrations are subject to another set of rules where mandatory fields are
+different. Is that consistent with your understanding, Joe?
+Joe Waldron:
+
+This is Joe. So I'll have to go back and look at that. I don't - I guess I wasn't
+following that.
+
+Fabien Betremieux:
+Joe Waldron:
+
+Yeah, I'm trying to…
+
+There may be different - I was just going to say there may be different
+validation if you're doing bulk files. I can see that you'd have different
+validation of the files. But I think that if you're doing EPP transactions, they'd
+be the same. But I'll go back and double-check that.
+
+Fabien Betremieux:
+
+Yeah, I'm trying to get (unintelligible) the IRT to show - so let me see. I
+
+have the documents here. I'm going to - just give me one minute. I'm going to
+load it in the (unintelligible).
+Dennis Chang:
+
+So while you do that, Fabien, Mark Anderson, go ahead.
+
+Mark Anderson:
+
+Hi, this is Mark Anderson. Can you hear me okay?
+
+Dennis Chang:
+
+We hear you fine.
+
+Mark Anderson:
+
+Great. Just on that point, during the transition period, the reduced validation
+rules would apply to both new registrations and for the backfill of existing
+legacy registrations.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 14
+
+From a system perspective, we just wouldn't have a way of differentiating
+between the two. There's no practical way that we could differentiate the
+intent of registrars if it's a new registration or an existing registration. So, you
+know, those reduced validation rules that Fabien's pulling up right now would
+apply to both during this transition period. Thank you.
+Fabien Betremieux:
+
+Thank you, Mark. I think that's a useful clarification, because I don't
+
+believe we had (unintelligible) discussed this point, or maybe it was missed in
+our notes, in the scorecard.
+But so I guess then we need to make sure that that's well-understood from
+everybody on the IRT, that the minimum validation rules we talked about,
+which are reflected in the reference here, would then apply, as you just
+mentioned, to the new registrations and the existing registrations during the
+period of transitioning existing registrations.
+So let me stop here and see if any other IRT members have comments on
+this subject.
+Dennis Chang:
+
+Go ahead.
+
+Christian Muller: Christian Muller from STRATO, Berlin, Germany. We have a quite large
+number of .com domains would probably transfer (unintelligible) transfer.
+What do we do if systematically our data is - you know, has some
+shortcomings due to the new needs here? I mean when do we fix that? And
+how do we call 800,000 customers? Or how is that supposed to work?
+Dennis Chang:
+
+You want to address that, Theo?
+
+Theo Geurts:
+
+Yeah. Let me try to address it for Christian. So we are going for these relaxed
+validation rules because the IRT thinks, assumes, there is missing data. I
+mean we're talking about really old data here. So that's why we have some
+relaxed rules here.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 15
+
+So the idea is just to transfer the data that you have. If you are missing
+certain fields here, there is nothing going to happen. We think that over time,
+the missing fields or missing data will correct itself organically, so to speak. At
+least that's our thinking.
+Regardless, or nevertheless, your requirements with ICANN compliance
+regarding the RAA 2013 Whois specification will remain in place. So every
+time you get a complaint, you will have to fix it. And this is sort of like the
+organic process that we are thinking that data will correct itself.
+What we don't want to do is, in advance, to have like a massive data
+correction program started. I mean it will delay the Whois migration till
+forever, I think. So that's why we came up with this idea. Thank you.
+Jordan Buchanan: Hi. This is Jordan Buchanan again. So just to make sure I understand so in
+the post transition state then you'll be having sort of standard enforcement
+like other gTLD registries do. Does that mean that you can't associate a
+contact object with limited data with the new registration or does that just
+mean you can't update - create a contact object or update an object in a way
+that's invalid? Roger's saying it's the latter, not the former.
+Roger Carney:
+
+Yes that's right. And just to clarify for the transition there's only three required
+fields and it's, you know, basic cost code. I did the IDs and everything. So the
+data, everybody knows there's a lot of data that's not correct. But posttransition I think there's like 13 or 17 required fields that have to be formatted
+correctly -- things like that. So the data that gets put into the SRS until
+updated is going to be what it was. So on update on create after the transition
+the new rules would apply.
+
+Jordan Buchanan: Right but on create you could still create a domain name and associate it with
+a sort of old school contact object?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 16
+
+Roger Carney:
+
+Correct on a contact create or contract.
+
+Jordan Buchanan: Okay great.
+(Jenis):
+
+Go ahead. That's okay. I mean I was looking for that. I was hoping from that
+not that we think that we have really weird (unintelligible) missing data. But
+this time he thinks like the international format of the phone number is not
+correct or stuff, you know.
+
+Man:
+
+Very good. And go ahead.
+
+Jeff Eckhaus:
+
+Jeff Eckhaus here. So I think first I want to say I know when I - when we first
+saw this information in this deck I'd say most of the team was very happy to
+actually have something in place. So I want to say thanks to the team for that.
+I'm just reading some of the notes from some of the teams because some of
+the members are - who are not here are - were either observers or members.
+I think one of the questions they had is for somebody like us we have millions
+and millions of contacts that'll need to be created.
+What is - I haven't seen on something here and maybe it's - I don't want to
+steal your thunder. It's one of the next slides, but what's the timeline for this?
+You know, I know you said you'd be announcing the date but what's sort of
+the span you expect this to happen because it's not going to be an overnight
+process?
+
+(Jenis):
+
+You are correct. So the timeline slide is coming up and that is what we're
+wanting to focus this session on so you're right on stop. Any other questions
+before we get there?
+
+Roger Carney:
+
+It's Roger again. Just on the last bullet here I think we need to be a little more
+clear because I mean I think Jordan actually brought up this question here as
+what happens with those sayings? And I - the team never really came to a
+conclusion on what happens to transfers either because transfers we still
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 17
+
+have to create new contact ROIDs because they're registrar based. But we're
+going to have old data from a different registrar. So we never did as a team
+agree on what was going to happen with those contacts and what validation
+would apply to those going forward as well so…
+(Jenis):
+
+Fabien go ahead.
+
+Fabien Betremieux:
+
+Yes thank you Roger. That's right, I think this is one of the remaining of
+
+good items that we need to discuss. So, you know, I think we should also add
+a discussion of the case that Jordan just highlighted as well. Okay so we can
+probably now move on to discussing the timeline. So let me share - is this
+readable or not because I've prepared a slide with bigger fonts? Do you
+prefer that I switch or is it good enough?
+(Jenis):
+
+I think it's good enough. We have a really big screen here.
+
+Fabien Betremieux:
+
+Okay good, good. So with - so the IRT has discussed timelines on several
+
+occasions. And so we've tried to represent here what we understand would
+be the - it's - I don't know how that was. Okay.
+So we tried to represent here what is our understanding of the discussions
+and the shortest path possible for implementing this transition from thin to
+thick. So as you can see on this slide we divided the slide in two parts with
+transition new registration and the transitional (unintelligible) registration. So
+let me speak to the first part.
+So we're starting from our current you assumed announcement of policy
+sector base. And that - so that's end of January 2017. We understand that
+regarding new registration registries will need to update their systems and
+announce those changes for registrars so that we've - we understand that
+this would be - there were a three months' timeline discussed in the IRT. But
+so if we're adding registries needed to - you know, timing for registries to
+update their system so we're at six months here at a point at which optional
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 18
+
+thick would be available in a registry production system. So any registrars
+wanting to start transition their new registration would be able to do so then.
+And the registrars that the line in orange here we have had six months to
+prepare for doing that and would have six months after that date to complete
+their transition of a new registration to pick. And at the end of that 12 months
+for registrars we would prepare and complete the process. Thick Whois
+would be required in the production systems of the registries at which time
+would be the actual policy effective date for new registration. So this is for the
+transition of new registration.
+Regarding the existing registrations we've assumed the same amount of time
+for registries to prepare and announce changes. And the IRT has discussed
+in this area a need for at least 18 months to complete the transition of existing
+registration from thin to thick. And so that's why the minimum time here would
+be 18 months as for the IRT discussion so far at which time it would be the
+policy effective date for existing registration.
+So I understand that the conversation we just had on the relationship
+between validation rules for existing registrations and new registrations
+during a transition might effect this timeline. But let me stop here and see
+what IRT members think of this representation. I think we're trying to
+understand whether this is a fair representation of the discussion so far.
+(Joe Alber):
+
+Yes, this is (Joe Alber) from Verisign. So I know in the past we talked quite a
+bit about the legal analysis that was required as part of the task to the IRT.
+And ICANN delivered that and I know that many of us have reviewed that.
+But I think that, you know, even the RDS Working Group session that (Chuck)
+chaired yesterday brought up a number of issues that I think impact some of
+the considerations that we have to look at for both. We - and we were talking
+about this primarily from a backfill perspective of some of these old
+registrations that have been around for many, many years and the impact to
+registrants that had signed registration agreements under one set of
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 19
+
+conditions. So that's a distinction that we had drawn previously between new
+registrations and previously registered names.
+But as we were going through both the legal analysis some of the discussions
+that were going on yesterday in the RDS Working Group session there was a
+lot of discussion about jurisdictional issues. And I know that I think many of us
+are familiar with the EU privacy law changes. There was a comment made
+yesterday about some countries not allowing private PII to leave their country.
+So this I think does create a situation that we need to look at and understand,
+you know, what that impact is. And that impact really both registries and
+registrars and not just Verisign in the operation of COMNET or employ media
+for .jobs. But I think it's a broader question about privacy data. And that was a
+specific call out in the task to the IRT was if there were privacy issues that
+weren't addressed in the working group that came to light as a part of this
+work that we should, you know, provide that notification back to the GNSO.
+So I think that that's another area that we ought to consider because I don't
+know if waivers are going to be sufficient. I know Fabien at one point had
+talked about, you know, potentially having a system where we had, you know,
+where waivers became the rule and not the standard right? And we know
+some registries have received waives. But as some of these countries I think
+Russia has a privacy law going into effect on September 1 that requires PII to
+remain in Russia. At least that's not my non-legal read of what I've - I
+understand. So I think that some of these issues are just raising that question
+of is this the time now to go back to the GNSO and propose that as an issue
+that is outside of the mandate or the scope for the people that we have
+assemble for the IRT?
+Krista Papac:
+
+Thanks (Joe), Krista Papac, ICANN staff. Wait so just a reminder first of all of
+all what the recommendation on this particular requirement was. I think it was
+Recommendation 2. I was trying to find them but I've over-organized myself.
+It was three, okay.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 20
+
+But the - it's - the recommendation was for the legal review to look at whether
+there were other privacy concerns that the EWG did not identify and that
+there were that the IRT would go back to the GNSO. So that's the first thing.
+And then to your point it is correct that the IRT could go back to the GNSO if
+they did identify concerns that - excuse me, privacy issues, if the legal review
+did find that there were privacy issues that were not already identified by the
+Expert Working Group.
+The review did say that it didn't find any additional, you know, so the same
+set of privacy issues that we've been aware of from since the BWG work. But
+it is - it's your IRT so, you know, you guys can certainly discuss that. And I
+know that we even mentioned the - asked the IRT about this specifically
+based on some comments you made (Joe) at what meeting was it? I think it
+was maybe two meetings ago?
+(Joe Alber):
+
+It was in Dublin.
+
+Krista Papac:
+
+Dublin at the end of that meeting. So we have an IRT call following the Dublin
+meeting where we said, "This is kind of still an open item. You know, is this
+something that should go back to the GNSO or not, IRT?" And you guys
+came back and said, "No, we think we should proceed." So if there's going to
+be a different decision made or a different discussion that's one thing that just
+may be a little bit of a reminder or what we've been, you know, discussed so
+far and what the recommendations say and what the legal review said.
+
+(Joe Alber):
+
+Thanks and good memory, something memorable I guess.
+
+Krista Papac:
+
+That's right.
+
+(Joe Alber):
+
+So I've got the language here so I'll read it because I think that I'm not trying
+to make more of this than it needs to be but I think it's important. So it does
+refer to the applicable really to the transition of from a thin to thick model that
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 21
+
+has not already been considered by the EWG memo undertaken with due
+consideration and I'm going to skip to the what has to happen.
+So should any privacy issues emerge from the transition discussion that were
+not anticipated by the working group so in this case the working group I
+assumed, not the EWG but the PDP working group. So maybe that's my
+interpretation which would review - which would require additional policy
+consideration the Implementation Review Team's expected to notify the
+GNSO council of these so that appropriate actions could be taken. So that's
+all I'm saying is I think that we have learned things and we have had changes
+that potentially impact registries and registrars across the board in terms of,
+you know, laws that are changing, you know, with the EU privacy laws, other
+countries that have these - have implemented or now going to be enforcing
+these data restrictions.
+And I think that we have an obligation to raise these and refer these - at least
+notify the GNSO of these issues because I think that if we're going to build a
+system where registrars and registries have more exceptions than the rule
+then we've - then we're perhaps building the wrong system right? We're
+implementing this in a way that isn't sustainable or maintainable. And that's all - that's what I really want to make sure that, you know, that we comply with
+that task which is if we've identified privacy issues that haven't been
+considered in that working group that we notify the GNSO.
+(Jenis):
+
+Any comments on this from other members of the IRT? Go ahead.
+
+Theo Geurts:
+
+Okay this is Theo for the record. Those are pretty serious concerns you have,
+the IGO and I shared them with you. Currently what we did as an IRT
+because there are so many countries who have some kind of data privacy
+law in their country and maybe not as strict as the EU but nevertheless there
+are like 110 countries out there that have something in place there. We as the
+IRT sort of figured like this is not our problem. It's not within scope for us at
+the moment because we can't actually handle that at the IRT. We don’t have
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 22
+
+enough people, we don't have the expertise. So we could bring up here right
+now I think that's worth discussion.
+(Jenis):
+
+Any further discussion on this? Go ahead (Joe)?
+
+(Joe Alber):
+
+Yes so I would just say that I would recommend that we comply with that
+statement and provide that notification to the GNSO to raise our, you know,
+the points about the changes or the privacy issues that - even the ICANN
+memo deferred many of these decisions to registries and registrars to
+conduct their own analysis. So we've been conducting our analysis and I
+think that, you know, there's a question of when a registrar passes personal
+data to us as the registry in the United States are they able to do that in a
+lawful way? Are we lawfully receiving and storing and displaying that data in
+Whois? And I think that's an open question for us and I think that that's again
+being discussed in a number of other venues right now but I think that we
+have an obligation to provide that notification back to the GNSO so that would
+be my recommendation.
+
+Krista Papac:
+
+Thanks (Joe), Krista Papac again. So how - what's the best way to proceed
+with doing that? Do you guys want us - like would you want to draft
+something or how would you propose moving like making that happen?
+
+(Joe Alber):
+
+To be honest I don't mind drafting something. I don't know that it's - I don't
+know that anything has ever been referred back to the GNSO. We may be
+breaking new ground here. So maybe that's what we need to think of
+overnight and we'll, you know, we'll talk to our folks and we can - maybe
+that's something we can discuss in tomorrow's session.
+
+Krista Papac:
+
+That's a great suggestion by the way. And I'm so glad we have two sessions
+this week. And just and thank you for reading the recommendation. I did - I
+mean I assigned it to you and what the direction is is expected to notify the
+GNSO of these so that appropriate actions can be taken. So anyway but just
+to kind of refresh everybody of what the - what you just read a few minutes
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 23
+
+ago and while we think on it overnight and maybe take this up again
+tomorrow figure out. I’m not sure if this isn't done either so we'll get creative.
+Thank you.
+Alex Deacon:
+
+Hi. Alex Deacon with the MPAA. I'm just curious if we do refer this back to the
+GNSO what's the impact? Do things continue in parallel or do we have to wait
+for a response from GNSO to continue?
+
+Krista Papac:
+
+That's for the question. This is Krista again. It's sort of why I wanted to reread
+this. It says to notify the GNSO rather than refer back. I think that's an
+important distinction. So my thinking is because it says notify that we would
+continue our work here but still send that notification. And then it goes on to
+say so that appropriate action can be taken by the GNSO. So that - I see
+everybody else nodding their head so I think we have agreement there.
+Thank you.
+
+(Jenis):
+
+So that being said I'd like to bring your attention back to the schedule that
+we're looking at here. And notification being done in parallel to our activity.
+What does the IRT think about this schedule making the distinction between
+the new registration and existing registration first, right? Is this the right
+approach to take? Is this still rule from the registrar side as well as the
+registry side?
+We've been listening to the comments along the way in the previous
+meetings and we believe that this facilitates everyone's need or can we do
+better than this? Would you like to accelerate some parts of this to make this
+faster? Let me hear from you. Go ahead Jody.
+
+Jody Kolker:
+
+Hi this is Jody from GoDaddy. Can you hear me?
+
+(Jenis):
+
+Loud and clear.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 24
+
+Jody Kolker:
+
+Hi. My concerns are on the time table as long as you're asking. Is 18 months
+a timeline for the existing registration? I - we have a significant amount of
+domains at GoDaddy so 18 months what I was hoping for was to have 18
+months from the time that the registry has prepared, has offered the ECP to
+be updated so that we can start sending (unintelligible) registrations. So if the
+registry wasn't ready until six months into that timeline that would only give us
+12 months to complete the existing registration. I was hoping to get 18
+months from the time that the registry was ready.
+
+Jeff Eckhaus:
+
+It's Jeff Eckhaus here from Rightside and we're probably second behind Jody
+and GoDaddy in having to do this. And I'd like to echo his comments saying
+that I also thought it was also from once it was available to begin uploading
+then it would start the 18 month period. So want to make sure that that 18
+months remains sacred. Thanks.
+
+(Jenis):
+
+So the - from the prior conversation we were hearing 12 to 18 month range.
+So we start we'll start here. But let me hear from the registry side. So six
+month a good timeframe or can it be done quicker?
+
+(Joe Alber):
+
+This is (Joe). I wouldn’t think that we would be able to do it quicker unless we
+really get in and, you know, do a more detailed analysis but there's a lot of there are a lot of moving pieces to doing that and, you know, documentation
+and as well as development and testing and deployment so I think that that's
+a reasonable time right now to plan.
+
+(Jenis):
+
+Jody go ahead.
+
+(Joe Alber):
+
+Sorry that was an old hand.
+
+(Jenis):
+
+Any other comment? So what I'm hearing is 18 months from the point of
+where registry is ready to accept data.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 25
+
+Jeff Eckhaus:
+
+It's Jeff again, just one clarification that for people who are like, you know,
+may be freaking out because of that timeline just remember it doesn't mean
+that we're going to do everything in that last month. I mean we need that
+timeframe but, you know, because this hasn't been done and we would need
+to test everything out. But the goal is not to wait till the last possible minute
+but to have that flexibility and to try and maybe get it done at a sooner pace if
+possible.
+
+Pat Kane:
+
+Pat Kane, Verisign. This is a question for Jeff and for Jody. In that 18 month
+window what would be about the percentage of domain names that you
+would have a natural expiration date if you could update expire because it
+seems to me if you had to go update domain names that aren't going to
+renew that that'd a lot of work for no value.
+
+Jeff Eckhaus:
+
+Yes it's Jeff here. I mean I'd have to say if you looked at across all of our
+TLDs, you know, that we have managed on the registrars it would probably
+be an average life of about a 1.4, 1.5 would be my guess which I think is
+probably consistent with, you know, the Verisign registration data. There's
+going to be definitely some outliers because we do have some, you know,
+some very long-standing clients, some domain investors that have domains
+for, you know, that are - you know, that do register them and then maybe put
+on, you know, some registry lock and have it - they always keep them out for
+ten years. So there's going to be a large group of people that have that. But
+I'd say as an average it would probably be about a 1.4, 1.5.
+
+Jeff Eckhaus:
+
+Go ahead Jody.
+
+Jody Kolker:
+
+I don't have specific numbers on how many would be expired at that time or
+would be about to expire. But I would say that we would start on registrations
+that are definitely that are registered out ten years or two years or past the
+expiration or the timeline date start on those and then move back. And as we
+move back I would expect this to take, you know, a very long time for us to
+get all these existing registrations done. So we would work as Jeff said we
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 26
+
+would start on this to be able to transition this right away. So we'd be doing
+this very slowly to make sure we didn't override any systems at the registry or
+in our own systems ourselves. And so we would definitely start on the
+domains that would - that are set to expire after the end of the implementation
+date and work our way backwards.
+(Jenis):
+
+Yes that would be a helpful note that the implementation notes that we can
+remember to. Well good point. Any other comment? So this was our initial
+attempt at setting a timeline. And based on your feedback we'll work on this
+and come back to you.
+
+Krista Papac:
+
+Thanks (Jenis). It's Krista again. I have a naïve question. I'm not the technical
+person in this conversation. So from a registrar's perspective when you guys
+get notified, you know, the official notification that this thing is kicking off and
+here's your 18 months in that initial - in the first few months you wouldn't
+actually be ready to start transitioning data. You would be building it out
+project, designing your project plan and putting that together.
+Would you be able to do - work that in parallel with - that's part of your 18
+months that you need. And would you be able to work that in parallel with the
+development work that the registries are doing so meaning like maybe that
+you're not losing all of that six months because you still need some time to
+like ramp up to prepare to send to the registry system?
+
+Roger Carney:
+
+This is Roger with GoDaddy. We've talked about that in the group actually.
+And before the registrars can really start we need the specifications from the
+registry. So when we get the specifications from the registry we would begin.
+And I - where that happens I don't know but it won't be at the beginning of the
+six months. It'll be toward the end of the six months before they can give us a
+spec that actually says this is how you're going to have to do it so…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 27
+
+(Joe Alber):
+
+Yes I expect we'll be working very - this is (Joe). I expect we'll be working
+very closely with all of the registrars on, you know, getting all the
+documentation out, testing environments and everything so…
+
+(Jenis):
+
+Any other comments?
+
+Krista Papac:
+
+(unintelligible)?
+
+(Jenis):
+
+Jody is this a new hand?
+
+Jody Kolker:
+
+Yes it is. Thanks (Jenis). I just wanted to comment on the 18 months period
+from when the registry is completed and in production. We're talking about 47
+million domains that need to be pushed over there over to regular contacts or
+I'm sorry to thick contacts. Now we did this for .org I believe 12 years ago.
+(Joe) can correct me if I'm wrong here but at that time GoDaddy had 600,000
+domains. And this took quite a long time to complete. And in fact years after
+this was done we were still getting notices from the registry that we had bad
+contacts due to transfer in from other registrars.
+Well I just want to caution everyone that this is pretty massive. .Org at that
+time I think was only 1-1/2 million domains. And I think (Joe) has more
+confident numbers than what I have. And we're talking about something that's
+100 times as large and, you know, (unintelligible) 18 months is a big project.
+
+(Jenis):
+
+Thank you Jody. I've just been informed that we have another meeting
+starting in this room right now. So we will have to continue our discussion
+tomorrow. So come back tomorrow everyone and we'll continue. Fabien do
+you have any last remarks?
+
+Fabien Betremieux:
+(Jenis):
+
+It will be for tomorrow. Thank you all.
+
+Thank you all, see you tomorrow.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-29-16/4:03 am CT
+Confirmation # 8995675
+Page 28
+
+END
+
+

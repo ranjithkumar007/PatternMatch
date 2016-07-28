@@ -1,0 +1,653 @@
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+Segunda-feira, 27 de junho de 2016 – 13:30 às 14:00 EEST
+ICANN56 | Helsinque, Finlândia
+
+THOMAS SCHNEIDER:
+
+Olá, por favor, ocupem seus lugares, pois daqui a pouco vamos
+começar.
+Ok, obrigado a todos por ocuparem seus lugares, essa é a
+primeira sessão da tarde e vamos tratar do assunto da equipe
+de revisão do (CCT), que é concorrência, confiança em eleição
+dos consumidores, que foi formado ano passado, eu com prazer
+presido esta equipe, aqui está Jonathan, um dos membros, e
+vamos começar com a sessão, ele vai dar alguns pontos de vista
+desenvolvidos até agora. Chegamos à metade da revisão, e se
+não estou enganado, vamos acabar essa revisão no final do ano,
+não tenho certeza absoluta mas esperamos que assim seja.
+Passo a palavra à Jonathan.
+
+JONATHAN ZUCK:
+
+Muito obrigado, Thomas. Obrigado por me dar a oportunidade
+de falar com os senhores, obrigado ao GAC também por prestar
+atenção ao nosso trabalho, que é a revisão do CCT, aqui estou
+com Megan e Laureen, com quem os senhores já estão
+familiarizados, elas fazem parte da equipe da revisão, também
+
+Observação: O conteúdo deste documento é produto resultante da transcrição de um arquivo de áudio para
+um arquivo de texto. Ainda levando em conta que a transcrição é fiel ao áudio na sua maior proporção, em
+alguns casos pode estar incompleta ou inexata por falta de fidelidade do áudio, bem como pode ter sido
+corrigida gramaticalmente para melhorar a qualidade e compreensão do texto. Esta transcrição é
+proporcionada como material adicional ao arquivo de áudio, mas não deve ser considerada como registro
+official.
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+com Jordyn Buchanan e David Taylor, aqui na sala. Há muitas
+pessoas também que participam conforme vamos avançando
+com a revisão. Nesta revisão especial, e de alguma forma, a
+única, e começou com a resolução do Board em Cartagena, na
+Colômbia, há 5 anos, onde foi aprovada uma resolução do Board
+para desenvolver métricas que poderiam ser utilizadas para que
+a equipe de revisão começasse seu trabalho e reunisse
+informação. Se formou uma equipe de trabalho para
+implementar políticas para juntar métricas e fazer a revisão. Se
+reuniu muita informação importante para dar espaço a um
+processo de preparo onde se desenvolveram os estudos
+econômicos e pesquisas, e houve também muito interesse pelo
+trabalho no começo, e também fizemos uma análise quanto aos
+espaços dos novos GTLDs e a ideia era criar um estudo antes de
+começar o programa e aconteceu no começo do programa, 1
+ano depois fizemos uma espécie de inversão do que era aquele
+estudo e fizemos 2 pesquisas, uma a respeito dos registratários
+e usuários finais que se focavam na questão da confiança dos
+consumidores, e também trabalhamos nestas áreas 1 ano atrás.
+Vou tratar desses assuntos na apresentação. Depois, temos
+também uma primeira versão disso, e estamos na segunda
+versão dessa pesquisa sobre os usuários, e queremos que
+apareça a segunda versão do exame econômico.
+
+Página 2 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+Então, essas são as questões nas quais trabalhamos, inclusive
+antes de formar a equipe, como falou Thomas. Essa equipe se
+formou no mês de dezembro, e aí começa a história. Agora, vou
+apresentar os slides, não sei se estão prontos. Apareceu.
+A revisão se conhece como CCTRT, falamos dessa ideia ou
+conceito da concorrência, confiança e eleição dos consumidores
+no espaço do DNS, mas também há outros aspectos adicionais
+que devemos revisar e que tem a ver com a efetividade do
+processo de avaliação e solicitação, e como os senhores sabem,
+em muitos dos casos, a questão de efetividade é um assunto
+que devemos levar em conta, e a equipe deu sua definição deste
+termo. Também debatemos a questão das proteções. Então,
+esse assunto também foi revisado. Segundo slide.
+Uma das questões que são novas no mundo das revisões e
+talvez também dentro do mundo da ICANN, é o seguinte. Foi
+implementado uma coisa de rigor para encontrar evidencias
+quantitativas, então começamos a criar hipóteses a tratar de
+experimentar, levando em conta evidencias quantitativas que
+nem sempre foram provadas, mas isso é o que tentamos fazer.
+Uma
+
+coisa
+
+que
+
+facilitou
+
+nosso
+
+trabalho
+
+é
+
+termos
+
+recomendações com métricas mensuráveis. A seguinte revisão
+deste assunto, se levamos em conta as métricas que tínhamos e
+as mudanças feitas, podemos ver que também foram feitas
+mudanças nas recomendações, e este é o desafio central, reunir
+
+Página 3 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+a informação, e essa é a função que a equipe está tentando
+desenvolver. Outra questão nova é que a equipe vai se manter
+unida
+
+depois
+
+da
+
+implementação
+
+e
+
+apresentação
+
+das
+
+recomendações e vai ter uma função de revisão quanto as
+implementações.
+
+O
+
+período
+
+de
+
+implementação
+
+das
+
+recomendações de nossa equipe vai se realizar e depois voltará
+para o pessoal. A ideia seria que a equipe tivesse um papel de
+assessoramento em seu trabalho. Essas são as questões que
+nem sempre são possíveis, mas são os objetivos da equipe.
+Seguinte slide. Dividimos 3 subequipes para trabalhar de forma
+melhor para essa revisão. Uma dessas equipes é da
+concorrência, confiança e as eleições do consumidor. A outra é
+de confiança, salvaguarda e proteção, que está comandada por
+Laurie, e também a equipe de revisão e avaliação do processo, e
+dos formulários e que tem um papel importante. Essas são as 3
+subequipes que formam parte da revisão. O que fizemos foi nos
+reunir no começo do ano em Los Angeles e tentamos determinar
+o nosso alcance. A equipe de revisão não tem que tentar tratar
+de todos os temas, mas temos que ver os assuntos de mais
+importância e centrar esses trabalhos para concretizar a revisão.
+Seguinte slide. Por exemplo, a equipe de concorrência e eleição
+dos consumidores leva em consideração essas questões, por
+exemplo, promover a efetividade e a concorrência dos novos
+GTLDs para os operadores, qual é por exemplo também a
+
+Página 4 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+natureza da concorrência que existe entre os registradores e
+revendedores, se existe alguma segmentação, regulamentação
+relevante quanto aos consumidores, se há alguma coisa que
+tenha valor aos consumidores. Por exemplo, também trata
+assuntos como se os benefícios superam os custos, e também se
+se expandiram nas regiões a respeito dos idiomas. A subequipe
+de proteção e confiança também tem termos para tratar.
+Isso se centra mais nos novos GTLDs e a defesa quanto aos
+abusos dos novos TLDs, e vão levar em conta os novos GTLDs
+mais prevalecentes, se há assuntos importantes, políticas a
+respeito do uso indevido do DNS, questão de cumprimento, etc.
+Como, por exemplo, se deu em consideração dos mecanismos
+de proteção, como o uso do assessoramento do GAC, quão
+efetiva são as proteções. A subequipe de confiança de
+consumidores tem a ver com questões mais complexas. Este
+grupo de implementação de assessoria decidiu que deveriam
+existir métricas possíveis de medir para levar em conta a
+confiança dos consumidores, e os consumidores começaram a
+perguntar ou falar sobre as questões da confiança dos novos
+GTLDs com relação ao legado dos TLDs. Talvez alguns assuntos
+onde os senhores não estão na informação atual, mas existe um
+correio eletrônico que tem a ver com o .email com a confiança e
+tudo isso se torna uma questão que deve ser levado em
+consideração pelos consumidores.
+
+Página 5 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+Também há alguns achados interessantes que sugerem outro
+nível de confiança na indústria do DNS e outras questões que
+continuam sendo tratadas. Também há dúvidas positivas e
+negativas associadas à confiança do consumidor, o que estamos
+tentando fazer agora é procurar assuntos de confiança, e
+também criar essa confiança, como por exemplo, se o programa
+dos novos GTLDs realmente vale à pena, merece confiança dos
+consumidores, e se os consumidores deveriam realmente
+confiar mais ou menos nesse programa dos novos GTLDs então
+realizamos um debate a respeito destas questões e das
+proteções também.
+Outro assunto que tratamos, que tem a ver com a
+implementação eficiente, ou a efetividade desse procedimento
+para implementar as proteções. Isso é o que trata a última
+equipe.
+Próximo slide. No processo de avaliação e solicitação, e a equipe
+que trata esse assunto, a ideia é definir o alcance dos PDPs e
+procedimentos subsequentes com relação a isso, porque um
+monte de questões que não podem ser consideradas, e que
+deveriam ser consideradas com relação ao processo de
+avaliação e solicitação, e isso é muito amplo. O que tem a ver
+com PDPs, processo de PDP, leva em consideração a
+implementação mecânica, aprovação do guia, mas o que
+conseguimos fazer é dar prioridade aos diferentes pontos para
+
+Página 6 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+essa equipe e o processo de PDP vai ser considerado uma
+contribuição conforme se começa a trabalhar na política e
+procedimentos pertinentes, então como vemos aqui, há uma
+lista um pouco menor do que pode ser a lista dos pontos a tratar
+quanto ao processo de avaliação. Tivemos também um
+processo de geração de ideias para determinarmos quais seriam
+os assuntos a tratar dentro do processo de solicitação, por
+exemplo as áreas não atendidas, mercados, pessoas de fora da
+ICANN, que não entendem as políticas da ICANN e que precisam
+ser guiadas no processo. Tentamos localizar as pessoas fora
+desse processo. Outro assunto também tem a ver com evitar a
+delegação dos TLDs confusos. Isso também foi amplamente
+debatido. Outra área que surgiu graças aos seus representantes
+dentro da equipe de revisão, Laureen e Megan, debateram o
+assessoramento do GAC e como este pode ser incorporado, ou
+como é considerado e implementado durante o processo de
+solicitação. Também falamos dos IDNs e como afetam, o quão
+efetivo são, e também sobre a contenção das cadeias de
+caracteres, as diferentes rodadas, e o que aconteceu errado com
+a primeira rodada de GTLD e as seguintes, dos novos GTLDs.
+Esses são alguns pontos que foram tratados pela subequipe de
+procedimento de avaliação e solicitação. O que descobrimos é
+que de todas essas perguntas que analisamos, tratamos ou
+debatemos, e que tratamos também os solicitantes, há assuntos
+
+Página 7 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+que tem a ver com as fontes de dados, e temos que voltar essas
+fontes para realizarmos perguntas. Dividimos os solicitantes em
+3 categorias. Aqueles que foram bem sucedidos, que
+conseguiram a delegação dos TLDs, aqueles que não foram bem
+sucedidos, e são na verdade solicitantes que retiraram todas as
+solicitações que tinham e não tiveram sucesso em cumprir o
+processo. Finalmente, a categoria final, mais interessante, é a
+dos solicitantes faltantes, pessoas que não participaram de
+forma alguma nesse processo, então quanto aos solicitantes
+bem sucedidos, vamos falar quais são os desafios que eles tem,
+que ajuda a compreender o que é necessário para ter sucesso no
+processo de solicitação, e como impactaram, como foram
+impactados pelos alertas precoces do GAC.
+Quanto ao segundo grupo, vamos falar do que aconteceu, quais
+eram as razoes pelas quais não tiveram sucesso com o
+programa, e que ajuda receberam. Então, sabemos quem são, e
+vamos entrar em contato para fazer essas perguntas.
+A terceira categoria, com uma cilada, as pessoas que não
+apresentaram a solicitação, é importante levar em consideração
+para compreender por que não tiveram mais participações
+nessas regiões do mundo dentro do processo de solicitação de
+novos GTLD. Então, vamos fazer perguntas, como por que não
+apresentam solicitação, o que precisaria mudar para participar
+do processo. O que fizemos é contratar uma empresa externa
+
+Página 8 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+para um exercício interessante, que irá analisar por que as
+pessoas não apresentavam as solicitações, e dividimos em
+categorias, ou companhias e entidades, para analisar os
+motivos, razoes pelas quais não participaram no mundo em
+desenvolvimento. A ideia seria definir quem poderia apresentar
+uma solicitação se fizemos algumas mudanças no processo. Há
+teorias, que incluem aqueles que não sabiam do processo, ou
+que o processo era muito custoso, muito caro, ou que não
+tinham os 2 milhões de dólares necessários para ter um TLD, e
+uma teoria que não poderiam participar ou concorrer dentro do
+mercado.
+Então, quando recebamos essa lista de companhias e pessoas
+adequadas, vamos fazer isso e fazer essas perguntas para saber
+o porquê não apresentaram solicitação. E também estamos
+muito ansiosos em saber quais serão as respostas. Achamos que
+vai fazer uma grande diferença para a nossa recomendação,
+pelo menos porque agora não temos a menor ideia, temos uma
+teoria mas não temos ideia dos motivos.
+Seguinte slide, por favor. Como eu disse antes, esses são
+relatórios das pesquisas que fizemos, a pesquisa dos
+consumidores, resultados da etapa 1, estão prontos e
+publicados na wiki do CCT, também se vamos ao wiki do CCTLD,
+vão encontrar todo nosso trabalho e ver as pesquisas dos
+consumidores, e foi um delta muito importante com relação à
+
+Página 9 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+confiança e concorrência dos consumidores. Em alguns casos,
+há consumidores que não participaram do processo, alguns não
+foram impactados, mas por outra parte parecia que houve uma
+espécie de erosão entre os consumidores, então foi analisado o
+mercado do DNS, podem ver também os resultados da pesquisa
+aos registrantes, que vai ser realizada em setembro e também
+serão prontos no estudo econômico no mês de setembro. Como
+já falamos, a pesquisa sobre os solicitantes de novos GTLD vai se
+concretizar depois.
+Vamos ver os prazos. Como os senhores devem ter percebido, eu
+na verdade estou um pouco reticente a falar dos prazos, ou de
+prazos, porque quando trabalhamos com uma equipe de
+voluntários, a velocidade não é um dos elementos muito
+cumpridos, mas estamos fazendo o possível para ter um
+rascunho do relatório para o fim do ano, a ideia seria na reunião
+de Hyderabad falar sobre os tipos de recomendações, os
+achados conseguidos e que possamos também realizar o
+relatório, apresentar para janeiro ou dezembro.
+Seguinte slide. Há um processo que não é aberto no mesmo
+sentido dos outros grupos, mas há uma espécie de adobe
+connect, salas de adobe connect para que todos entrem em
+contato e participem das chamadas, e talvez tenha um
+representante, no caso temos o GAC, e aqui tem 2
+representantes muito qualificados, e dentro da sala podem
+
+Página 10 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+compartilhar suas contribuições com essas pessoas, para
+trabalhar dentro da equipe de revisão do CCT e também através
+do correio eletrônico, CCTRT ICANN.org. Então, com prazer,
+vamos receber suas contribuições e se vê que os pontos são
+interessantes para os senhores, ou se há algum assunto que não
+estamos tratando, por favor pedimos que entrem em contato
+para informar essas faltas. Vamos tentar fazer uma revisão e
+cumprir os objetivos da comunidade com relação ao programa
+dos novos GTLD e que isso seja o mais rápido possível.
+Vou passar a palavra para a Megan e Laureen, inclusive à David e
+Jordyn, e eles vão responder as perguntas dos senhores.
+
+THOMAS SCHNEIDER:
+
+Obrigado.
+
+MEGAN RICHARDS:
+
+Eu quero dizer, Jonathan nos deu uma visão geral muito
+profunda, mas nesse grupo, um par de coisas que acho que são
+uteis. Uma tem a ver com os estudos, pesquisas e dados que
+estamos coletando. Talvez não tenha ouvido totalmente o que
+disse Jonathan, mas uma das coisas importantes é que na
+medida do possível, estamos comparando também os
+resultados e o impacto dos novos GTLDs do mercado de legado
+de GTLDs e de CCTLDs, como sempre, isso não é completamente
+
+Página 11 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+possível. Outro aspecto para que vocês possam compreender
+melhor o que explicou Jonathan, é que para os países em
+desenvolvimento e grupos como ele diz, daquilo que não se
+aplica à rodada de CCTLD, outro dos aspectos que estão ali se
+relacionam com o custo da aplicação, ele se referiu ao custo de
+levar adiante o GTLD, e também o aspecto idiomático. É por isso
+que eu queria adicionar essas 2 questões, à isso que foi uma
+apresentação excelente, uma boa oportunidade que nos deu
+Jonathan.
+
+JONATHAN ZUCK:
+
+Eu queria adicionar que o processo para esses grupos é que
+apenas pedimos para eles que nos digam quais as perguntas
+que temos que fazer, de maneira como se fosse às cegas, temos
+grupos de foco para chegar aos grupos maiores, que vão ser
+mais ou menos 200 empresas, e vamos saber mais ou menos as
+perguntas a formular quando já estiverem prontas, ou
+formuladas.
+
+THOMAS SCHNEIDER:
+
+Acho que vamos fazer umas perguntas, Espanha, Dinamarca e
+depois Reino Unido.
+
+Página 12 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+ESPANHA:
+
+PT
+
+Obrigado pela apresentação. Eu queria fazer uma pergunta
+sobre essas pesquisas, recebi uma mensagem semana passada
+e posso utilizar mensagens de alerta sobre a publicação de um
+inquérito feito por Neilsen em representação do CCT. O
+resultado desse inquérito, dessa pesquisa, os achados
+consistem em que um conhecimento sobre os novos GTLDs, a
+maior confiança nos nomes de domínio, o que me surpreende, é
+um resultado muito surpreendente para mim, quando eu vou
+descendo, vendo que foram formuladas perguntas sobre a
+quantidade de horas que as pessoas dedicam à internet. Essa
+pergunta foi feita a pessoas muito familiarizadas com a internet,
+acho que a pesquisa deveria ser mais representativa, real, legal,
+sobre aquelas pessoas que estão num nível intermediário com a
+utilização da internet, não tão familiarizadas com a internet,
+pessoas com maior tendência a serem enganadas na internet,
+podem ser vítimas de fraude, apesar de ter uma conclusão aqui
+que diz que mais de 70% dos que responderam favorecem certo
+nível de restrição de registro. Tanto em TLDs delegados quanto
+em novos GTLDs, isso pertence a 2015, um resultado importante
+a considerar, apesar de que talvez o escopo da pesquisa poderia
+ter sido mais amplo.
+
+THOMAS SCHNEIDER:
+
+Vamos pegar mais uma pergunta e depois passar a palavra para
+Jonathan. Dinamarca tem a palavra.
+
+Página 13 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+DINAMARCA:
+
+PT
+
+Obrigado, Jonathan, por uma apresentação muito boa e
+abrangente. Não sei se vocês falaram disso antes, mas a
+pergunta é, num estudo econômico, há alguma indicação a
+respeito do que a rodada dos novos GTLDs custou para a outra
+parte da indústria na forma de registros defensivos? Essa vai ser
+parte da pesquisa e do relatório?
+
+THOMAS SCHNEIDER:
+
+Tem a palavra Reino Unido.
+
+REINO UNIDO:
+
+Obrigado presidente, e obrigado Jonathan por fazer um
+relatório tão abrangente. Tenho 2 perguntas, a primeira tem a
+ver com o que disse a Dinamarca quanto ao estudo econômico,
+acho que vai ter muito interesse nisso, e quero lembrar o que
+aconteceu em 2008 e 2009, onde houve uma verdadeira batalha
+por ter uma verdadeira análise econômica e o custo-benefício,
+por isso que espero que apareça esse estudo, esse trabalho,
+essa pesquisa.
+A pergunta é se a revisão vai analisar a oportunidade de que
+empresas pequenas e médias possam ser incluídas e se esse
+custo vai se reduzir, se vai custar menos de 185 mil dólares,
+estou pensando também em empresas de países em
+
+Página 14 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+desenvolvimento, para que possam ter seus próprios nomes de
+domínio. Esse é meu ponto de interesse em particular.
+
+JONATHAN ZUCK:
+
+Obrigado por todas as perguntas. A pergunta sobre quanto
+tempo dedicam as pessoas à internet não é uma pergunta filtro,
+mas pode ser utilizada para criar uma correlação do resultado, e
+uma tabulação cruzada. Não tem a ver com quanto tempo
+dedicam as pessoas. As outras observações estiveram muito
+bem com relação ao aumento da confiança. Ainda se deve fazer
+uma espécie de filtro, mas a diferença entre os 2 inquéritos em
+termos de achar uma conclusão sobre aumento da confiança
+em qualquer uma das indústrias sobre os novos GTLDs, como
+disse, houve uma espécie de 70% que falavam de uma restrição,
+que tem que ver, como .BANK, etc., que permite maior
+previsibilidade da segmentação de algum dos nomes de
+domínio, e acho que são resultados significativos apesar de não
+apresentarem delta necessariamente a partir da primeira
+pesquisa. A segunda pergunta, o custo-benefício, a análise vai
+ser parte de trabalho da equipe de competência e eleição, a
+parte de custo vai aparecer com frequência nos registros
+defensivos. A implementação do trabalho desses grupos tiveram
+que ver como aplicar os registros defensivos, perguntaram se os
+novos domínios tinham a ver com os anteriores, se há indicação
+de registro defensivo ou não, não é uma medida exata, por
+
+Página 15 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+outros motivos mencionados, mas uma coisa que vamos fazer é
+realizar um estudo sobre os proprietários das marcas, talvez
+através das organizações, para poder entender quais são os
+custos associados com o programa dos novos GTLDs. Parte
+disso é o que a estratégia anterior dos registros defensivos não é
+viável, porque há tantas e alguns dos TLDs ofereceram
+alternativas a essas defesas, bloqueando outras questões.
+Quer dizer que nós tentaremos fazer uma análise através dos
+Inter membros das pesquisas para tratar de ver qual é o dinheiro
+gasto para esses registros defensivos, e quanto à última
+pergunta sobre o custo das solicitações, uma das coisas que
+vamos pedir aos solicitantes é em que medida o custo foi uma
+barreira de entrada e se utilizaram o programa de apoio que
+está muito subutilizado, há muito poucos solicitantes, acho que
+apenas 1 recebeu apoio. A resposta vai ser no sentido de que o
+intimidante não é a solicitação, mas a ideia de poder ter um
+TLD, é isso que provoca mais apreensão entre os solicitantes,
+talvez não houvesse suficiente conhecimento e por isso o apoio
+ao solicitante chegou a certo detalhe com respeito a se teriam
+que utilizar certos anúncios em rádio, em lugar de fazê-lo online.
+Vamos fazer recomendações com base nos achados que
+tivermos depois de falar com os solicitantes.
+
+Página 16 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+THOMAS SCHNEIDER:
+
+PT
+
+Temos que passar para a próxima sessão, quero agradecer
+Jonathan, mas para que fique claro, o primeiro texto que vamos
+ver vai ser sobre o final desse ano e o resto será uma espécie de
+cozinha interna, por assim dizê-lo. O que é bom é que as pessoas
+podem ouvir suas reuniões, então peço que continuem como
+fizeram no início de junho, para dizer ao GAC quando vai ser
+feita a reunião seguinte, também para gerar relatórios depois
+das reuniões e o que parecer interessante que vocês pensem,
+que o GAC precise saber. Quer dizer que na medida do possível,
+façam, porque as reuniões não são confidenciais, e nós nos
+beneficiaríamos se tivéssemos mais um pouco de conhecimento
+até o final do ano porque algumas pessoas, algumas unidades
+constitutivas na ICANN estão se apressando para preparar a
+segunda rodada, e isso é fundamental para aprender as lições
+para a próxima rodada.
+
+JONATHAN ZUCK:
+
+Quero dizer mais uma coisa, vão surgir várias coisas no
+caminho, o segundo é o estudo econômico que vai nos ajudar e
+há bastante detalhes como a equipe de competência e eleição já
+viu cada uma das hipóteses que serão testadas, e se pode ter
+uma versão mais final das perguntas a serem apresentadas. A
+equipe em sua totalidade vai criar um documento chamado
+“Achados”, que vai estar disponível antes de serem emitidas as
+
+Página 17 de 19
+
+PT
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+recomendações. Vamos colocar em disposição, então, isto, em
+algum momento.
+THOMAS SCHNEIDER:
+
+Tem a palavra Suíça, 30 segundos, depois passamos para o
+seguinte tema.
+
+SUÍÇA:
+
+Obrigado pela apresentação. Brevemente, pergunto. Como
+estão
+
+coordenando
+
+com
+
+os
+
+PDP
+
+e
+
+procedimentos
+
+subsequentes?
+
+THOMAS SCHNEIDER:
+
+Primeiro, passo a palavra ao Paraguai.
+
+PARAGUAI:
+
+Quando vai estar à disposição o estudo econômico?
+
+JONATHAN ZUCK:
+
+Vai estar disponível no outono, muito cedo, temos discussões
+com eles já faz tempo e houve muitas dificuldades para
+encontrar datas, os registradores não nos deram muitos dados,
+e os registros por contrato tem que oferecer a data. Quanto ao
+PDP e procedimentos subsequentes, temos 2 membros que
+estão nas equipes de revisão, e estão agindo entre os 2 grupos.
+Temos ligações a cada 2 semanas, e a equipe de liderança, tem
+
+Página 18 de 19
+
+HELSINQUE – Equipe de Revisão de CCT (Concorrência, Confiança e Escolha do Consumidor)
+
+PT
+
+um grupo, como disse, temos um processo bem rigoroso de
+analisar o universo de temas, e vamos analisa-lo.
+Como vocês viram, há temas prioritários para a equipe de
+revisão, e o PDP está à espera para que demos resultados, há
+bastante coordenação entre os 2.
+
+THOMAS SCHNEIDER:
+
+Obrigado, Jonathan. Obrigado também à Laureen, é o final da
+sessão, e passamos para a seguinte porque estão nos esperando
+com muita paciência, Markus e Manal.
+
+Página 19 de 19
+
+

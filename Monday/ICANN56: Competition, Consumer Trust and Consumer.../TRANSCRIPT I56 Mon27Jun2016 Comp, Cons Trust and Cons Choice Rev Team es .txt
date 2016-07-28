@@ -1,0 +1,704 @@
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+Lunes, 27 de junio de 2016 – 13:30 a 14:00 EEST
+ICANN56 | Helsinki, Finlandia
+
+THOMAS SCHNEIDER:
+
+Por favor, tomen asiento. Gracias.
+Muchas gracias por tomar asiento. Esta es la primera sesión de la
+tarde. Vamos a abordar el tema del equipo de revisión CCT que
+es competencia, confianza y elección de los consumidores, que
+fue formado el año pasado. Yo con gusto presido este equipo. A
+mi lado tengo a Jonathan, quien es uno de los miembros. Vamos
+a comenzar con la sesión. Él nos va a dar algunos puntos de
+vista. Hasta el momento llegamos a la mitad de la revisión. Se
+supone que, si no me equivoco, vamos a finalizar esta revisión a
+final del año. No estoy 100% convencido. No quiero decir nada
+pero bueno, esperemos que sí. Le doy la palabra ahora a
+Jonathan.
+
+JONATHAN ZUCK:
+
+Muchas gracias, Thomas. Gracias por darme la oportunidad de
+hablar con ustedes. Gracias al GAC también por prestar atención
+a nuestro trabajo que es la revisión del CCT. Aquí estoy con
+Megan y Laureen, con quienes ustedes ya están muy
+familiarizados. Son parte del equipo de revisión. También con
+
+Nota: El contenido de este documento es producto resultante de la transcripción de un archivo de audio a un
+archivo de texto. Si bien la transcripción es fiel al audio en su mayor proporción, en algunos casos puede
+hallarse incompleta o inexacta por falta de fidelidad del audio, como también puede haber sido corregida
+gramaticalmente para mejorar la calidad y comprensión del texto. Esta transcripción es proporcionada como
+material adicional al archive, pero no debe ser considerada como registro autoritativo.
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+Jordyn y con David Taylor en la sala. Hay muchas personas
+también que participan conforme vamos avanzando sobre la
+revisión. Esta revisión en particular es de alguna manera única.
+Comenzó con la resolución de la junta directiva en Cartagena, en
+Colombia, hace unos cinco años aproximadamente donde se
+aprobó una resolución de la junta directiva para poder
+desarrollar métricas que se pudieran utilizar para que el equipo
+de revisión comenzara con su trabajo y recabara información. Se
+formó un grupo de trabajo, un grupo de implementación que
+instruyó al personal para que comenzara a recolectar métricas
+para comenzar con la revisión. Se recabó mucha información
+importante para dar lugar a un proceso de preparación donde se
+llevaron a cabo estudios económicos y encuestas.
+Hubo mucho interés por el trabajo al comienzo. También se hizo
+un análisis en cuanto a los precios en los nuevos gTLD, el espacio
+de los nuevos gTLD. La idea era crear un estudio que tuviese
+lugar antes de que comenzara el programa. Esto en realidad tuvo
+lugar a comienzos del programa. Un año después hubo una
+especie de delta entre las dos versiones del estudio. También
+hubo dos encuestas. Una en relación a los registratarios y otra a
+los usuarios finales que se enfocaban en la cuestión de la
+confianza de los consumidores. Trabajamos en esto también
+hace un año. Esto es lo que voy a mencionar en la presentación.
+Luego tenemos una primera versión de todo esto y ahora
+
+Página 2 de 21
+
+ES
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+estamos con una segunda versión de esta encuesta de los
+usuarios. Estamos esperando que también aparezca la segunda
+versión del estudio económico.
+Estas son las cuestiones en las que hemos estado trabajando,
+incluso antes de que se formara el equipo. Como mencionó
+Thomas, este equipo se formó en diciembre. Allí comienza la
+historia, por así decirlo. Voy a mostrarles algunas diapositivas.
+No sé si ya están listas. No tengo la posibilidad de pasarlas yo así
+que voy a esperar un poco. Bien, ahí estamos.
+Bien, entonces, la revisión se conoce como la CCTRT. Ya hemos
+hablado de este concepto de la competencia, confianza y
+elección de los consumidores en el espacio del DNS pero
+también hay otros aspectos adicionales a revisar. Uno tiene que
+ver con la efectividad del proceso de evaluación y solicitud y,
+como ustedes saben, en muchos casos la cuestión de efectividad
+es algo que hay que tener en cuenta y el equipo dio su propia
+definición de este término. También hemos hablado o debatido
+el tema de las salvaguardas o protecciones. Esto también fue
+sometido a revisión. Siguiente diapositiva, por favor.
+Bien, una de las cuestiones que son relativamente nuevas en el
+mundo de las revisiones y quizá dentro del mundo de la ICANN es
+lo siguiente. Se implementó algo de rigor, si se quiere, para
+poder
+
+Página 3 de 21
+
+encontrar
+
+evidencias
+
+que
+
+sean
+
+cuantitativas.
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+Comenzamos a crear hipótesis y a tratar de probarlas, teniendo
+en cuenta las evidencias cuantitativas que no siempre fueron
+probadas pero eso es lo que tratamos de hacer. Algo que facilitó
+nuestro trabajo es tener recomendaciones con métricas
+medibles o mensurables. La siguiente revisión de este tema, si
+tenemos en cuenta las métricas que teníamos y los cambios que
+se hicieron, bueno, podemos ver que también se hicieron
+algunos cambios a las recomendaciones y este es el desafío en
+sí. Es decir, obtener los datos. Esto es algo que el equipo está
+tratando de hacer.
+También algo que es nuevo es que el equipo se va a mantener
+unido después de la implementación y la presentación de las
+recomendaciones, y va a tener una especie de rol asesor en
+cuanto a las implementaciones. El periodo de implementación
+de las recomendaciones de este equipo va a llevarse a cabo y
+luego todo esto va a volver al personal y la idea es que el equipo
+tenga un rol asesor en toda esta tarea. Estas son las cuestiones
+que no siempre son posibles pero son los objetivos que persigue
+este equipo. Siguiente diapositiva, por favor.
+Nos hemos dividido en tres subequipos para trabajar de mejor
+manera en esta revisión. Uno es el subequipo de competencia,
+confianza y elección de los consumidores, otro es el equipo de
+salvaguardas y confianza que está presidido por Laureen y
+también tenemos el equipo del proceso de evaluación y solicitud
+
+Página 4 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+que tiene un rol importante. Estos son los tres subequipos que
+componen la revisión. Lo que hicimos fue reunirnos por primera
+vez presencialmente en Los Ángeles hace más de un año y
+tratamos de determinar nuestro alcance. El equipo de revisión
+no tiene que tratar de abordar todos los temas. En realidad,
+tiene que ver cuáles son los temas de mayor importancia y
+focalizarse en estas cuestiones para llevar a cabo la revisión.
+Siguiente diapositiva.
+Por ejemplo, el equipo de competencia y elección de los
+consumidores tiene en cuenta estas cuestiones: promover la
+efectividad y la competencia de los nuevos gTLD para los
+operadores, cuál es por ejemplo la naturaleza de la competencia
+que existe entre los registradores y los revendedores, si existe
+por ejemplo alguna segmentación o regulación que es
+importante o relevante en relación a los consumidores, si hay
+algo que en realidad tiene valor para los consumidores. Por
+ejemplo, también abordar temas como si los beneficios exceden
+los costos, si se han expandido en regiones o en relación a los
+idiomas. Estas son las cuestiones que va a abordar este
+subequipo. Siguiente diapositiva, por favor.
+El subequipo de protección y confianza también tiene temas a
+abordar. Esto está más focalizado a los nuevos gTLD y a la
+defensa en relación al abuso de los nuevos gTLD. Aquí va a tomar
+en cuenta cuáles son los nuevos gTLD más o menos prevalentes,
+
+Página 5 de 21
+
+ES
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+si hay algún tema importante, cuáles son las políticas en relación
+al uso indebido del DNS, cuestiones de cumplimiento, etc. Por
+ejemplo, se toman en cuenta los mecanismos de protección,
+cómo se incorpora el asesoramiento del GAC y cuán efectivas son
+estas protecciones. El comportamiento de los usuarios finales es
+una de las cuestiones más complicadas. Este grupo de
+implementación de asesoramiento decidió que había que tener
+métricas que puedan ser medidas para tomar en cuenta la
+confianza de los consumidores. Los consumidores comenzaron a
+hablar de esta cuestión de la confianza de los nuevos gTLD en
+relación al legado de los TLD.
+Quizá hay cuestiones de las que ustedes todavía no están al
+tanto pero en realidad hay un correo electrónico que tiene que
+ver con el .EMAIL con mayor confianza y todo esto resulta algo a
+tener en cuenta para los consumidores. Hay también hallazgos
+interesantes que sugieren que hay un alto nivel de confianza en
+la industria del DNS y hay otras cuestiones que se siguen
+abordando. También tenemos deltas positivos y negativos
+asociados con la confianza del consumidor. Lo que estamos
+tratando de hacer también es buscar cuestiones de confianza y
+también crear esta confianza. Por ejemplo, si el programa de los
+nuevos
+
+gTLD
+
+realmente
+
+merece
+
+la
+
+confianza
+
+de
+
+los
+
+consumidores y si los consumidores deberían realmente confiar
+más o menos en este programa de los nuevos gTLD.
+
+Página 6 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+Hemos debatido estas cuestiones y el tema de las protecciones.
+También hay otra cuestión que abordamos que tiene que ver con
+la implementación eficiente o la efectividad de estos
+procedimientos para implementar las protecciones. Esto es lo
+que abordar este último equipo. Siguiente diapositiva, por favor.
+En el proceso de evaluación y solicitud y el equipo que aborda
+estos temas, la idea es clarificar en su alcance los PDP y los
+procedimientos subsecuentes que tienen relación con esto
+porque hay un montón de cuestiones que no se pueden
+considerar y que se deberían considerar en relación al proceso
+de evaluación y solicitud, y esto es muy amplio. Los procesos de
+PDP toman en cuenta la implementación mecánica, la
+aprobación de la guía pero lo que pudimos hacer es dar
+prioridad a los diferentes tópicos para este equipo y el proceso
+de PDP se va a tomar como un aporte conforme se comience a
+trabajar en la política y en los procedimientos pertinentes. Como
+vemos aquí, es una lista un poco menor de lo que podría ser la
+lista de los tópicos a abordar en relación al proceso de
+evaluación. Tuvimos un proceso de generación de ideas para
+determinar cuáles serían las cuestiones a tratar dentro del
+proceso de solicitud. Por ejemplo, las áreas desatendidas, los
+mercados, personas que están fuera de la ICANN, personas que
+no entienden las políticas de la ICANN y que es necesario que
+
+Página 7 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+sean guiadas dentro del proceso. Tratamos de ubicar cuáles son
+las personas que se encuentran fuera de todo este proceso.
+Otra cuestión tiene que ver también con evitar la delegación de
+los TLD que son dañinos o que son confusos. Esto también ha
+sido ampliamente debatido. Otra área que surgió gracias a sus
+representantes dentro del equipo de revisión: Laureen y Megan,
+debatieron el asesoramiento del GAC y cómo este asesoramiento
+se puede incorporar, cómo es ingerido o tomado en cuenta e
+implementado durante el proceso de solicitud. También
+hablamos de los IDN y cuán efectivos son, y también de la
+contención de las cadenas de caracteres, las diferentes rondas y
+qué salió mal con la primera de los nuevos gTLD y las rondas
+continuas de los nuevos gTLD. Estas son algunas de las
+cuestiones que han sido abordadas por el subequipo de
+procedimientos de evaluación y solicitud.
+Lo que descubrimos fue lo siguiente. De todas estas preguntas
+que hemos debatido y que han debatido también los
+solicitantes, bueno, hay cuestiones que tienen que ver con la
+fuente de los datos y tenemos que volver a esas fuentes para
+realizar o para efectuar preguntas. Hemos dividido a los
+solicitantes en tres categorías: aquellos que han sido exitosos,
+que han conseguido la delegación de los TLD; los que no fueron
+exitosos, esto son en realidad solicitantes que han retirado todas
+las solicitudes que tenían y que no tuvieron éxito en el proceso; y
+
+Página 8 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+finalmente la categoría más interesante es la categoría de los
+solicitantes faltantes, es decir, personas que no participaron en
+absoluto en todo este proceso.
+En cuanto a los solicitantes exitosos, vamos a hablar de cuáles
+son los desafíos que tienen, qué ayuda recibieron para poder
+ingresar al proceso, para poder comprender qué es lo que se
+necesita para tener éxito en el proceso de aplicación o de
+solicitud y también cómo fueron impactados por el proceso de
+alertas tempranas del GAC. En cuanto a los solicitantes no
+exitosos vamos a hablar de qué sucedió, cuáles fueron las
+razones por las cuales no tuvieron éxito en el proceso o en el
+programa y qué ayuda recibieron. Tenemos a estas personas,
+sabemos quiénes son y vamos a participar, vamos a
+contactarnos con ellos para poder hacerles estas preguntas. La
+tercera categoría es un tanto tramposa. Estas son personas que
+no presentaron una solicitud y esto es importante a tener en
+cuenta, especialmente en el mundo en desarrollo para poder
+comprender por qué no tuvieron más participación en esas
+regiones del mundo dentro del proceso de solicitud de nuevos
+gTLD. Vamos a hacerles preguntas como por ejemplo: por qué no
+presentó una solicitud o qué necesitaría que fuese diferente para
+que usted pueda participar en el proceso.
+Lo que hicimos fue contratar a una firma externa en un ejercicio
+muy interesante que era analizar por qué las personas no
+
+Página 9 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+presentaron la solicitud y dividirlos en categorías, dividirlos en
+compañías y en entidades para poder analizar cuáles eran las
+razones por las cuales no participaron en el mundo en
+desarrollo. La idea es tratar de discernir quién podría presentar
+una solicitud si se hicieran algunos cambios en el sistema. Hay
+muchas teorías al respecto que incluyen por ejemplo que no
+sabían del programa, que el proceso de solicitud era demasiado
+costoso, que no contaban con los dos millones de dólares que en
+realidad se necesitan para poder administrar o tener un TLD,
+porque hay una teoría de que no podrían participar o competir
+dentro del mercado. Cuando tengamos esta lista de compañías y
+las personas adecuadas para que puedan contactarse, vamos a
+contactarlas y les vamos a hacer estas preguntas para saber por
+qué no presentaron una solicitud. Por supuesto, estamos muy
+ansiosos de saber cuáles van a ser las respuestas a todo esto. Yo
+creo que esto va a significar una gran diferencia en nuestras
+recomendaciones, al menos porque ahora no tenemos ideas.
+Tenemos una teoría pero en realidad no tenemos idea de cuáles
+son las razones. Siguiente diapositiva.
+Como dije anteriormente, estos son estudios y son las encuestas
+que se hicieron, las encuestas del consumidor y los resultados.
+La fase uno ya terminó. Esto está publicado en la wiki del CCT.
+También si vamos al wiki del ccTLD van a ver todo nuestro
+trabajo. Allí van a ver las encuestas de los consumidores y esto
+
+Página 10 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+también fue un delta muy importante en relación a la confianza y
+competencia de los consumidores. En algunos casos hay
+consumidores que no participaron del proceso, algunos no
+tuvieron impacto pero, al mismo tiempo, hubo una especie de
+erosión entre los consumidores. Se analizó el mercado del DNS.
+Pueden ver los resultados de la encuesta a los registrantes que
+se realizará en septiembre y también estarán listos los
+resultados del estudio económico también para el mes de
+septiembre. Como dijimos anteriormente, la encuesta sobre los
+solicitantes de los nuevos gTLD es algo que vamos a llevar a cabo
+con posterioridad.
+Veamos ahora los plazos. Como ustedes habrán notado, yo
+realmente estoy un tanto reticente a hablar de los plazos porque
+cuando uno trabaja con un grupo de voluntarios a veces la
+velocidad no es uno de los factores pero estamos haciendo lo
+posible para poder llegar a tener un borrador del informe para
+finales de año. La idea es que en la reunión de Hyderabad
+podamos hablar de los tipos de recomendaciones, los hallazgos
+que hemos tenido y que podamos realizar un informe para
+diciembre o enero. Siguiente diapositiva.
+Bien. Tenemos un proceso que es abierto. No es abierto en el
+mismo sentido de los otros grupos pero hay una especie de sala
+de Adobe Connect para que todos se conecten y puedan
+observar y participar de las llamadas. Quizá tengan algún
+
+Página 11 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+representante. En este caso tenemos al GAC. Aquí tienen ustedes
+dos representantes muy calificados y dentro de la sala pueden
+ustedes compartir sus aportes con ellos para que hagan sus
+aportes dentro del equipo de revisión de CCT o también a través
+del correo electrónico cctrc@icann.org. Con gusto vamos a
+recibir todos sus aportes. Si ustedes ven que los tópicos son
+interesantes para ustedes o si hay algún tema que no estamos
+cubriendo o abordando, bueno, por favor, escríbannos y
+hágannoslo saber. Vamos a tratar de hacer una revisión y
+cumplir con los objetivos de la comunidad en relación al
+programa de los nuevos gTLD y que esto sea lo más rápido
+posible. Con esto les voy a dar la palabra a Megan y a Laureen,
+incluso a David y Jordyn. Ellos con gusto van a responder toda
+pregunta que ustedes tengan.
+
+THOMAS SCHNEIDER:
+
+Gracias. Megan, ¿hay algo que quisiera agregar?
+
+MEGAN RICHARDS:
+
+Quiero decir una cosa. Jonathan nos dio una visión general muy
+profunda pero en este grupo hay un par de cosas que creo que
+son útiles. Una tiene que ver con los estudios y las encuestas y
+los datos que estamos recolectando. Quizá no lo escuché
+totalmente a Jonathan pero una de las cosas que creo yo que es
+importante mencionar para ustedes es que, en la medida en que
+
+Página 12 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+sea posible, y quiero subrayar en la medida de lo posible,
+estamos comparando también los resultados y el impacto de los
+nuevos gTLD con el mercado de gTLD delegados y de ccTLD.
+Como siempre, esto no es completamente posible. El otro
+aspecto para que ustedes puedan entender incluso mejor lo que
+explicó muy bien Jonathan es que para los países en desarrollo y
+para los grupos como él dice de aquello que no se aplica a la
+ronda de los ccTLD, otros dos aspectos que están ahí se
+relacionan con el costo de la aplicación. Él se refirió al costo de
+llevar adelante un nuevo gTLD y también al aspecto idiomático.
+Por eso quería agregar estas dos cuestiones a esto que ha sido
+una excelente presentación, muy en profundidad que nos dio
+Jonathan.
+
+JONATHAN ZUCK:
+
+Quisiera agregar que el proceso para estos grupos o cohortes es
+que nosotros solamente les pedimos a algunos de ellos que nos
+digan cuáles son las preguntas que nosotros tenemos que hacer
+de un modo como a ciegas. Es decir, tenemos grupos de foco
+para poder así llegar a los grupos más grandes que van a ser más
+o menos unas 200 empresas. Vamos a saber un poco más cuáles
+son las preguntas que vamos a tener que formular cuando las
+tengamos listas o cuando ya las hayamos formulado.
+
+Página 13 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+THOMAS SCHNEIDER:
+
+ES
+
+Vamos a hacer unas preguntas. Veo España, Dinamarca y luego
+Reino Unido.
+
+ESPAÑA:
+
+Muchas gracias por la presentación. Quería hacer una pregunta
+sobre esas encuestas. Yo recibí un mensaje la semana pasada, un
+mensaje de alerta de ICANN sobre la publicación de una
+encuesta que realizó Neilsen en representación del CCT. El
+resultado o los hallazgos de esta encuesta consisten en que hay
+un conocimiento sobre los nuevos gTLD, hay una mayor
+confianza en el sistema de los nombres de dominio, lo cual es
+muy sorprendente, es un resultado muy sorprendente para mí.
+Cuando bajo un poco más veo que se han hecho preguntas sobre
+la cantidad de horas que la gente dedica en Internet. También se
+ha preguntado esto a personas que están muy familiarizadas con
+Internet. Neilsen ha hecho esta pregunta. Creo que la encuesta
+sería un poco más leal de lo que piensa el usuario de Internet
+promedio del sistema de nombres de dominio si es que se ha
+hecho con usuarios que no están tan familiarizados con Internet
+y que son aquellos que tienen una mayor tendencia a ser
+engañados en Internet y que pueden ser víctimas del fraude.
+A pesar de que hay una conclusión aquí que dice que más del
+70% de quienes respondieron favorecen cierto nivel de
+restricciones de registración tanto en TLD delegados como en
+
+Página 14 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+nuevos gTLD, esto pertenece al año 2015. Es un resultado
+importante para tener en cuenta. A pesar de que quizá el alcance
+de la encuesta debería haber sido un poco más amplio.
+
+THOMAS SCHNEIDER:
+
+Vamos a tomar otra pregunta y después le vamos a dar la
+palabra a Jonathan. Tiene la palabra ahora Dinamarca.
+
+DINAMARCA:
+
+Muchas gracias, Jonathan, por una presentación muy buena y
+muy abarcativa. Yo no sé si ustedes hablaron de esto antes pero
+mi pregunta es si en el estudio económico hay alguna indicación
+respecto de lo que la ronda de los nuevos gTLD ha costado a otra
+parte de la industria en la forma de registraciones defensivas.
+¿Esto va a ser parte de la encuesta y del informe?
+
+THOMAS SCHNEIDER:
+
+Tiene la palabra el Reino Unido.
+
+REINO UNIDO:
+
+Gracias, presidente. Gracias, Jonathan, por darnos un informe
+tan completo. Tengo dos preguntas. La primera tiene mucho que
+ver con lo que dijo Dinamarca en cuanto al estudio económico.
+Creo que va a haber mucho interés en eso y quiero recordar lo
+que sucedió en 2008 y 2009 donde hubo una verdadera lucha por
+
+Página 15 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+tener un verdadero análisis económico y el costo-beneficio, etc.
+Por eso yo espero que aparezca ese estudio. Mi pregunta es si la
+revisión va a analizar las oportunidades de que empresas
+pequeñas y medianas puedan ser incluidas, si es que el costo se
+va a reducir, si es que va a costar menos de 185.000 dólares.
+Estoy pensando también en empresas en países en desarrollo,
+etc. para que puedan tener sus propios nombres de dominio.
+Este es mi punto de interés en particular.
+
+JONATHAN ZUCK:
+
+Gracias por todas las preguntas. La pregunta sobre cuánto
+tiempo dedica la gente en Internet no es una pregunta filtro sino
+una pregunta que se puede utilizar para crear una correlación de
+los resultados y una tabulación cruzada. No tiene que ver con
+cuánto tiempo dedica la gente a estar online. Las otras
+observaciones estuvieron muy bien respecto del aumento de la
+confianza pero todos van a tener que hacer su evaluación propia
+y todavía los equipos lo tienen que hacer pero mi primera
+impresión es que esto no tuvo una incidencia estadística
+importante, la diferencia entre las dos encuestas en términos de
+hacer una conclusión sobre el aumento de la confianza en
+cualquiera de las industrias o de los nuevos gTLD. Como dije,
+hubo algo así como un 70% que hablaban de una restricción que
+estaban de acuerdo con el .BANK que permiten mayor
+previsibilidad de la segmentación de algunos de los nombres de
+
+Página 16 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+dominio. Creo que estos son resultados significativos a pesar de
+que no representan delta necesariamente a partir de la primera
+encuesta.
+La segunda pregunta, ni siquiera a mí se me ocurrió mencionarlo
+pero nosotros hablamos sobre el análisis de costo-beneficio y
+esto va a ser parte del trabajo del equipo de competencia y
+elección. La parte del costo muy a menudo va a aparecer en
+forma de registraciones defensivas. Algo interesante es que el
+grupo de trabajo y la implementación del trabajo de estos
+grupos tuvieron que ver cómo aplicar las registraciones
+defensivas. Por ejemplo, se preguntaron si los nuevos dominios
+tienen que ver con los anteriores, si esto es una indicación de
+una registración defensiva o no. No se trata de una medida
+exacta por otras razones que ya se mencionaron pero una de las
+cosas que nosotros vamos a hacer también es realizar un estudio
+sobre los propietarios de las marcas probablemente a través de
+las organizaciones para poder entender cuáles son los costos
+asociados con el programa de los nuevos gTLD. Parte de esto es
+que la estrategia anterior de las registraciones defensivas no es
+muy viable porque hay tantas y algunos de los TLD ofrecieron
+alternativas a esas defensas bloqueando otras cuestiones, etc.
+Nosotros vamos a tratar de hacer un análisis a través de los
+intermiembros de las encuestas para tratar de ver cuál es el
+dinero que se gastó para esas registraciones defensivas.
+
+Página 17 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+En cuanto a la última pregunta sobre el costo de las solicitudes,
+una de las cosas que les vamos a pedir a los solicitantes es en
+qué medida el costo fue una barrera de entrada y si utilizaron el
+programa de apoyo que está muy, muy subutilizado. Hay muy
+pocos solicitantes y creo que uno solo recibió ese apoyo. Creo
+que la respuesta en el sentido de que lo intimidante no es la
+solicitud en sí sino la idea de poder tener un TLD. Eso es lo que
+causa más aprehensión entre los solicitantes potenciales.
+También podría ser que no hubiera suficiente conocimiento
+sobre el apoyo al solicitante y esta discusión llegó a cierto
+detalle respecto de si tendrían que utilizar avisos en radio en vez
+de online, por ejemplo. Este tipo de conversaciones son parte
+definitivamente de lo que vamos a ver. Vamos a hacer
+recomendaciones en base a los hallazgos que tengamos después
+de hablar con los solicitantes.
+
+THOMAS SCHNEIDER:
+
+Creo que tenemos que pasar a la sesión siguiente. Quiero
+agradecer a Jonathan. Para que quede claro, el primer texto que
+vamos a ver va a ser sobre finales de año y el resto va a ser una
+cocina interna, por decirlo así. Lo bueno es que la gente puede
+escuchar las reuniones de ustedes. Les pido que continúen por
+ejemplo como hicieron a principios de junio para alertarle al GAC
+de cuándo se va a hacer la reunión siguiente y también generar
+unos informes después de las reuniones y lo que les parezca a
+
+Página 18 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+ustedes que es interesante que el GAC tenga que saber o si
+puede haber algo controvertido o algún hallazgo nuevo que
+tengan. Es decir, en la medida de lo posible lo hagan porque
+estas
+
+reuniones
+
+no
+
+son
+
+confidenciales.
+
+Nosotros
+
+nos
+
+beneficiaríamos si tuviésemos un poco más de conocimiento
+antes de final de año porque algunas personas en otras unidades
+constitutivas en ICANN se están apurando para preparar la
+segunda ronda. Esto es un fundamental para aprender las
+lecciones para la ronda siguiente.
+
+JONATHAN ZUCK:
+
+Quiero decir algo más. Va a haber varias cosas que van a ir
+surgiendo en el camino. El segundo es el estudio económico que
+nos va a ayudar mucho y hay bastante detalle disponible ya. Por
+ejemplo, el equipo de competencia y elección ya miró cada una
+de las hipótesis que van a ser testeadas y se puede de hecho
+tener una versión más final de las preguntas que van a ser
+presentadas. El equipo en su totalidad va a crear un documento
+que se va a llamar hallazgos seguramente que va a estar
+disponible antes de que se emitan las recomendaciones.
+Nosotros los vamos a poner a disposición en algún momento
+también.
+
+Página 19 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+THOMAS SCHNEIDER:
+
+Tiene la palabra Suiza, 30 segundos y
+
+ES
+luego pasamos al
+
+siguiente.
+
+SUIZA:
+
+Muchas gracias por la presentación. Muy brevemente pregunto
+cómo están coordinando ustedes con los PDP y los
+procedimientos subsiguientes.
+
+THOMAS SCHNEIDER:
+
+Primero le doy la palabra a Paraguay.
+
+PARAGUAY:
+
+¿Cuándo va a estar a disposición el estudio económico?
+
+JONATHAN ZUCK:
+
+El estudio va a estar disponible en otoño, muy pronto. Nosotros
+tenemos discusiones con ellos desde hace tiempo y hubo
+muchas dificultades para encontrar fechas. Los registradores no
+nos dieron muchos datos. Tuvimos que buscar fechas externas.
+Los registros tienen por contrato que dar la fecha. En cuanto al
+PDP y a los procedimientos subsiguientes tenemos dos
+miembros que están en los equipos de revisión y ellos son Carlos
+y Carlton. Ellos están actuando entre los dos grupos. Tenemos
+llamadas cada dos semanas. El equipo de liderazgo tiene un
+grupo. Como dije, tenemos un proceso muy riguroso de analizar
+
+Página 20 de 21
+
+HELSINKI – Equipo de revisión de la competencia, confianza y elección del consumidor (CCT)
+
+ES
+
+todo el universo de temas y vamos a analizarlos. Como vieron
+ustedes hoy, hay temas prioritarios para el equipo de revisión y
+el PDP está esperando para que nosotros le demos unos
+resultados. Creo que hay bastante coordinación entre los dos.
+
+THOMAS SCHNEIDER:
+
+Muchas gracias, Jonathan. Gracias también a Laureen. Este es el
+final de la sesión.
+
+[FIN DE LA TRANSCRIPCIÓN]
+
+Página 21 de 21
+
+

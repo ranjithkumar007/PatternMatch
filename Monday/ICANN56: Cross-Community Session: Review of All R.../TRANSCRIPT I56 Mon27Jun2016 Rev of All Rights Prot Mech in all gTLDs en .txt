@@ -1,0 +1,1652 @@
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+Monday, June 27, 2016 – 16:30 to 18:00 EEST
+ICANN56 | Helsinki, Finland
+
+PHIL CORWIN:
+
+Okay. Good afternoon. Day one of meeting B is almost over, but
+we've saved the best for last, of course. This is the crosscommunity working group discussion to bring everyone in the
+community up to date on our new working group which is
+chartered to review all rights protection mechanisms and all
+Generic Top Level Domains, both the new TLDs and the legacy
+TLDs.
+
+With some overlap in the RPMs and some that are
+
+exclusive to the new TLDs. Let me mention before we get to the
+first slide and talk about the purpose and scope of this working
+group, after we do the presentation -- and I'm here -- let me
+mention, I'm Philip Corwin. I'm a GNSO councillor representing
+the business constituency. I'm joined at the table by J. Scott
+Evans who's a trademark counsel at Adobe and a long-time
+member of ICANN, immediately past president of the
+International Trademark Association and also a member of the
+business constituency. And by Kathy Kleiman. And both J. Scott
+and Kathy had a hand in designing the UDRP.
+
+They have
+
+experience going back further than mine. And Kathy is a private
+practitioner, practicing in Northern Virginia and the Washington,
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+DC area, and a member of the noncommercial users
+constituency. So we have hopefully -- and we've had very good
+cooperation and harmony within the co-chairs and this working
+group so far.
+After we do presentations there's five roaming microphones.
+We're going to take your input. This session is not for debating
+what the outcome of our PDP should be. This is to inform you on
+what we're doing, to get some -- if you think there are questions
+that aren't listed yet or data you want to present, bring that up.
+And we have another session of the actual working group on
+Thursday morning, starting bright and early at 8:00 a.m., and
+that session is our first topic that this working group is looking to
+which is the post delegation dispute resolution process the
+PDDRP, for those of you collecting ICANN acronyms. If you don't
+know that one, you can jot it down.
+So what is the purpose of the -- of this session? We're going to
+discuss the methodology and timelines for this PDP. We're going
+to obtain the community's input on the data that should be
+collected and the issues we're going to be analyzing and
+whether we've -- already have all the questions we should be
+asking. Are there others that are missing as of now. Why we're
+conducting this in two phases. The first phase is to review the
+RPMs created for the new TLD program, and the second phase,
+which will be starting, as you see, in early 2018, we have a multi-
+
+Page 2 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+year timeline here, will be the first-ever review of the UDRP. The
+only ICANN consensus policy that's never undergone review.
+And we'll give you timelines on that and we're going to take your
+view on the scope of topics and the data to be gathered. And
+phase one is our main focus today, and the topics in phase one
+are the trademark clearinghouse, sunrise registrations which
+trademark owners get if they have marks they've registered in
+the clearinghouse. Claims notices which are sent to potential
+registrants of domains that match marks in the trademark
+clearinghouse and the trademark owner is also notified if those
+registrations go to completion. The Uniform Rapid Suspension,
+the URS, and the PDDRP which I just mentioned. And now I'm -oh, I think I'm still going here. Next slide, please.
+Go to the next one. What is the PD -- yes, that's the one. Yeah.
+This is a relatively new working group. We just kicked off our
+activities in March of this year. And again, we're going to be two
+phases. New TLD RPMs phase one. UDRP phase two. In each
+phase we're going to gauge, based on the objective data that's
+available, the effectiveness of the rights protection mechanisms.
+We're ultimately also going to cover the interplay and the
+complimentary roles that these RPMs play too, and we're going
+to fully understand their functioning and effectiveness. And the
+overarching issue for this working group is whether or not the
+RPMs collectively fulfill the purposes for which they were
+
+Page 3 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+created or whether additional policy recommendations are
+needed, including to clarify and unify policy goals. Also, we're
+always going to be considering whether the processes provide
+adequate, substantive, and procedural due process to all the
+parties that are involved.
+So who's taking this next one? Handing off to my co-chair Kathy
+Kleiman who will continue the decision.
+
+KATHRYN KLEIMAN:
+
+Hi, everyone. I'm Kathy Kleiman, and I run the internet law and
+policy practice of Fletcher, Heald & Hildreth in the Washington,
+DC area.
+
+That's the oldest telecommunications firm in the
+
+United States.
+And I'm very pleased to be here with my co-chairs, J. Scott Evans
+and Phil Corwin, and we're beginning a long process. We're still
+at the very beginning of a long process with this working group,
+and we're glad you're here to help us with our first public input.
+I want to do something that we did in the last working group. I
+want to ask who's members, who's observers, who's guests. So
+if you're a member of the working group, could you raise your
+hand. Outstanding. If you're an observer of the working group,
+which I'll just let people know, if you don't know, a member
+actively participates, comes to the meetings. Observers follow
+
+Page 4 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+on the list what we're doing and have the opportunity to
+become active members if they'd like. So if you're an observer
+of the working group, could you raise your hand. Great. Thank
+you. And if you're a guest, coming and listening to us. Terrific.
+We really appreciate your being here. And I'm going to ask one
+more question which we certainly didn't ask in the last working
+group which was on a totally different subject. If you had a hand
+in creating any of the rights protection mechanisms that is we're
+going to discuss today, which include the trademark
+clearinghouse, the Uniform Rapid Suspension, the UDRP, the
+Uniform Dispute Resolution Policy, could you raise your hand.
+Great. Great. Big smiles as people take credit for having created
+things that are now -- that now exist in a lot of ways we created
+from whole cloth, sometimes 15 years ago with the UDRP.
+Okay. So it's my pleasure to take us through these slides which
+are the rights protection mechanisms that we're reviewing. And
+in a bit of a counterintuitive process, but one that's been
+thoroughly discussed and agreed to, we're going to do the
+oldest policy last. So we're going to do the Uniform Dispute
+Resolution Policy in phase two. So we're not dealing with the
+UDRP here.
+What we are dealing with is the new rights protection
+mechanisms created for the new gTLDs. There was a sense in
+the ICANN community that we were facing a new set of
+
+Page 5 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+challenges with the new gTLDs, especially rolling out many
+gTLDs at the same time, and that we needed a special set of
+mechanisms to work with that process. And so that's where the
+-- the boxes on the left come up. I'm going to start with the
+orange box, the trademark clearinghouse. And just as people
+know, but many people might not, that this is a global database
+of verified trademark information and it supports trademark
+rights and it's used for some of the other processes that we're
+going to discuss. So if you have a registered federal mark or
+court validated mark, you can put it in the trademark
+clearinghouse and it will be used for the new gTLDs, for different
+processes.
+I'm going to the blue box next because this is two of the
+processes that use the marks in the trademark clearinghouse.
+The first is the sunrise registration period. And sunrise services
+provide trademark holders whose trademarks are in the
+trademark clearinghouse with advanced opportunity to register
+their domain names corresponding to their marks before the
+domain names are available to the public. So that's the sunrise
+period.
+The second trademark claims use that we discuss is the
+trademark claims. You'll sometimes see it as TM claims. The
+trademark claims notification services.
+
+Page 6 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+So the trademark claims period follows the sunrise period and
+runs for at least the first 90 days in which domain names in the
+new gTLDs are available to the general public. A trademark
+claims notice is sent to a potential registrant whose domain
+matches that of the trademark record in the trademark
+clearinghouse. And the registrant then has the chance to decide
+whether, after reading the notice, they want to go forward with
+the registration of the domain name or whether they don't. And
+if the registrant goes forward and registers the domain name,
+then the trademark owner is notified at the address they've
+given to the trademark cleaning house at the email address.
+And I notice Paul McGrady is here, and he and I drafted the
+trademark claims notice a number of years ago.
+And so now moving to the yellow box. So let's say a domain
+name goes in and you feel it is an infringement of your
+trademark. Then you can use either the UDRP which, of course,
+exists, the Uniform Dispute Resolution Policy, or this new policy,
+the Uniform Rapid Suspension Dispute Resolution Procedure.
+This is and was designed as a complement to the UDRP and it
+provides trademark owners an even quicker and lower cost
+mechanism for suspending the domain name. On basically the
+same substantive grounds as the UDRP. The burden of proof
+and the remedies are not the same as the UDRP. You can't
+transfer domain name and the burden of proof is higher because
+
+Page 7 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+this was designed as a really -- a really fast abuse mechanism. If
+it's really, really clear-cut abuse, and that was the term we used
+when we were drafting it, clear-cut abuse, use the URS. If there
+are -- if it's more complicated than that, the UDRP is probably
+the place to go. Or at least that was the reasoning as we created
+these mechanisms.
+So moving on to the gray box, which is the trademark postdelegation dispute resolution procedure, this one is really
+interesting because it's never been used. This is a challenge to
+the top-level domain itself by a trademark owner who can -- who
+asserts that the registry operator is affirmatively engaged in
+trademark infringement at the top or second-level domain of the
+gTLD.
+We are currently exploring this. We invite you to join us on
+Thursday morning where we will be talking about this in greater
+detail.
+We're starting -- of all of these new gTLD RPMs, we're starting
+with the trademark PDDRP.
+And then Number 5 is the one we have lived with for so many
+years, uniform dispute resolution policy. I see Brian Beckham
+here with us from the World Intellectual Property Organization.
+Brian, do you want to wave?
+
+Page 8 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+He runs this dispute policy. This was created in 1999. It provides
+an
+
+uniform
+
+standardized
+
+alternative
+
+dispute
+
+resolution
+
+procedure to resolve disputes concerning to resolve disputes
+concerning who is the rightful owner of a registered domain
+name.
+This is applicable to all top-level domains. This is both legacy,
+.COM, .ORG, .NET, .JOBS as well as the new gTLDs. And, again,
+we will be getting to the UDRP in phase 2, but right now we're
+talking about phase 1.
+So let me hand this over to J. Scott to talk about this phase that
+we're in.
+
+J. SCOTT EVANS:
+
+So we decided to start with the PDDRP because it hadn't been
+used and we thought it was a good way for us warm into the
+work, is to start with this particular process.
+And so we have already begun this process during our
+conference calls. We've had several calls.
+One of the first things we did was we had a presentation by staff
+on what exactly the mechanism is and what the burdens of proof
+are and what you have to do to show to be successful. Since we
+have no cases, we just basically went through the policy and
+discussed it because we have a lot of people who are
+
+Page 9 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+participating. We have, like, I think, about 120 or so active
+participants. And some of them have never been involved in a
+working group, and some of them have never used or utilized
+any of these mechanisms. So we want to make sure that they
+understand what they are as we discuss them.
+We also then brought in some providers that actually have set
+up the infrastructure to run these mechanisms in the event
+anyone should ever bring a claim. So we had someone from, I
+believe it was, the National Arbitration Forum. We had someone
+from -- well, WIPO submitted written responses. And then, I
+think, the Asian dispute resolution folks out of Asia, Hong Kong,
+they also provided written responses which we went over with
+the group.
+And we had certain questions that were in our charter, but that's
+a non-exclusive list of questions.
+So if there's anyone on the working group or during this session
+today or during our session on Thursday that thinks we should
+be considering something else, if there's some sort of data that
+we should pay attention to or know about, we invite you to let us
+know because we want to be as inclusive as we can as we have
+these discussions.
+One of the things you need -- the issues that we're going to be
+grappling with, so you know what we're dealing with -- and this
+
+Page 10 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+is will be for the PDDRP, but it will also be for all the other
+mechanisms as well -- is, you know -- is this mechanism -- this
+applies to all of them. Is the mechanism we might be discussing
+serving the purpose for which it was designed?
+
+That's a
+
+question we're going to consider with all of them.
+If it is, fine. If it isn't, does it need to be changed in some way,
+either fundamentally on a substantive level or procedurally or
+some way that would make it more effective? And, if so, what
+those would be?
+
+And we would recommend that to the
+
+community. That would be an outcome.
+Or should it not apply at all? Should we just get rid of it because
+it's not serving its purpose?
+
+Should there be something
+
+different, totally different, that takes care of the purpose?
+And then lastly, should it also be applicable on some of these to
+legacy gTLDs as well, not just on the TLDs that were created in
+the first round?
+So those are the things and the issues that we're going to be
+looking at with regards to this policy.
+So we invite you to -- you know, let us hear from you so we
+know.
+We would love to hear from you, you know, during the sessions
+and our face-to-face meetings, but you will also have an
+
+Page 11 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+opportunity, once we make our decision, we will be presenting it
+to the public, our recommendations, and you have a chance to
+file comment on that and give us feedback on that and we will
+adjust accordingly, if we believe that we get input that needs to
+be adjusted to, and then our final report will have taken that in
+and will come out.
+So I -- you should know that we're going to have to -- because
+this group is handling various mechanisms, there are other
+groups that are currently looking at things within the ICANN
+community within the new gTLD process that are going on right
+now that we're coordinating with.
+We've created liaisons to work with those other working groups
+and you see up on the screen here we're working and
+coordinating with the new gTLD subsequent procedures group.
+We're also working with the competition, consumer choice, and
+consumer trust working group. And then there is a specific
+independent review going on specific to the trademark
+clearinghouse that we will be coordinating with as well.
+So we are trying to work with all of these groups. We've created
+liaisons that can let us know where they are in their work, they
+can stay abreast of where we are in our work, so that we can
+coordinate and make sure that we're all going forward in a
+coordinated fashion.
+
+Page 12 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+So now let me quickly take you through -- go up a couple of
+slides to our estimated time line, so you know.
+Welcome to ICANN! Nothing's going to happen quickly!
+It's going to be about a two-year process. We're going to take
+the first year to go through all the new gTLD mechanisms, and
+you can see up here a rough time line of where everything is
+going to fall.
+But you can see that we probably -- we don't at this point see
+ourselves getting to the UDRP until the beginning of 2018. And
+that's just because we have so many other mechanisms to go
+through.
+And of course this is like everyone -- everything else. This is our
+plan. So it could accelerate or it could decelerate. So far, we're
+making very good progress and things have been moving on at a
+pretty good clip. I don't think we've had any substantial waylays
+or delays that we think have derailed us at this point but we've
+only been rocking along since probably March. So -- but just to
+let you know, that's where we are.
+We have conference calls every week for an hour, and we've had
+very vibrant discussions, both in the chat and on line. They only
+last an hour. And we do rotate our calls in different time frames
+so that we can hopefully get those in Europe and those in Asia to
+
+Page 13 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+participate with us as well and not always have to be up in the
+middle of the night. We try to rotate that to be fundamentally
+fair to our committee members that are outside of the North
+American time zone.
+So there's our time line. I think it's pretty clear. I think these
+slides will be available, won't they, on the Web site?
+So I'm going to turn it over to Phil so he can talk about the
+community input.
+
+PHILIP CORWIN:
+
+Okay.
+
+J. SCOTT EVANS:
+
+Oh, I'm sorry. Kathy. I can't see the "K" at the top.
+
+KATHRYN KLEIMAN:
+
+Okay. So now we're going to talk about the type of community
+feedback, the type of input we're looking for, on the rights
+protection mechanisms that we're reviewing in Phase 1.
+Next slide, please.
+So I am not going to read all these questions, but the first thing
+that we're doing is reviewing the trademark clearinghouse, and
+so what we're looking for here, what we're looking for from our
+
+Page 14 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+members, what we're looking for from the public is: What are
+your questions about the trademark clearinghouse?
+And not only what are your questions, what are your issues,
+what are your concerns, what are your experiences, but also -and it's really a separate type of question -- what type of data
+would you like us to gather from the trademark clearinghouse?
+What should we be looking at? What should we be asking them
+in order to help us with the evaluation ahead?
+What should we be trying to collect?
+So I'll read a few of our questions and then we're actually going
+to open the microphones, and we'll talk about that process in a
+second.
+So I'll just read a few of them, not all of them, to kind of spark
+the thinking about the trademark clearinghouse.
+So, should further guidance on verification guidelines exist for
+different categories of marks? Should different categories of
+marks be considered?
+Right now, the trademark clearinghouse registers the category
+of goods and services, but the sunrise period protects it
+regardless of the category of goods and services in which a new
+gTLD may fall.
+
+Page 15 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+Is the protection of the trademark clearinghouse too broad? Is
+the trademark clearinghouse providing too much protection for
+those with a trademark on a generic or descriptive dictionary
+word? Should trademark plus 50 be reversed?
+And then the third one, are legitimate noncommercial,
+commercial, and individual registrants losing legitimate
+opportunities to register domain names in new gTLDs?
+This is some of the questions of the trademark clearinghouse. I
+know people have a lot more. So we're going to open up the
+microphones.
+Mary, are the individual mics shut off on the desks or are those
+on for this session?
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+KATHRYN KLEIMAN:
+
+Okay. We're just using the roving microphones, and what you do
+is you raise your hand.
+
+There are different zones that the
+
+microphones will be in. We'll start with Zone 1, which is over
+here (indicating), so if you're in Zone 1 and you have a question,
+raise your hand.
+
+Page 16 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+So again, questions for the trademark clearinghouse, data we
+might want to gather.
+Zone 2 is fine, too.
+
+VIDUSHI MARDA:
+
+Thank you. I'm Vidushi Marda from the Center for Internet and
+Society.
+I wanted to bring up the issue of looking at whether the
+trademark clearinghouse effectively balances the rights of rights
+holders versus normal Internet users and whether the trademark
+clearinghouse creates a tendency to perpetuate the status quo
+or does it give us avenues that are procedurally and
+substantively fair so as to balance the rights of rights holders
+and Internet users?
+We've begun looking at it through our work with the CCWP HR,
+which is the cross-community working party on human rights,
+where we created initial scoping on particular cases in which
+these issues have arisen, and I think it would be interesting to
+build on that work and maybe have a database of -- that -- a
+more exhaustive database to look into this issue. Thank you.
+
+Page 17 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+KATHRYN KLEIMAN:
+
+EN
+
+So before you give up the microphone, what would you need for
+that more exhaustive database? What type of data are you
+interested in or do you think we should be interested in?
+
+VIDUSHI MARDA:
+
+I think data, for example, looking at how many cases have
+helped existing rights holders, how many cases have helped
+Internet users that do not own the rights at the time that they
+come to the trademark clearinghouse.
+I also think questions of procedure. For example, has procedure
+been followed correctly in all cases. In the case of deviations,
+why were the deviations caused, who were the deviations
+helping.
+I think it would be interesting to look at that, because we found
+it hard to find that data and to actually map it out, so I think that
+would be interesting to look into. Thank you.
+
+KATHRYN KLEIMAN:
+
+Thank you. Number 5, please.
+
+LEON SANCHEZ:
+
+Hi. My name is Leon Sanchez and I'm particularly keen of -- of
+the question on reviewing accessibility for trademark agents in
+
+Page 18 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+developing countries. That's something that definitely should
+happen.
+But I also would like to question whether the trademark
+clearinghouse should remain a single provider or should we
+open it to different providers, of course with a central database
+that should be accessed by the different providers, because I
+think that opening to new players in the market would also, of
+course, foster competition and that would lower the barriers of
+access for different players, especially in developing countries.
+So my question would be: Should we consider opening the
+trademark clearinghouse to more players that could provide the
+service?
+
+KATHRYN KLEIMAN:
+
+That's a very good question. We'll definitely take that under
+advisement. Thank you.
+
+J. SCOTT EVANS:
+
+But I do want to point out that there is an independent review of
+the -- of the -- that is probably a better issue for them.
+I mean, it's certainly something we can note, but what we're -what we're trying to figure out is if the -- if -- if the -- if the
+mechanism itself works. We're not really going to delve in too
+
+Page 19 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+deeply into questions like that one, but I do think we can note it
+and in our coordination we can let that group know that this
+isn't the first time it's been brought up. It actually was brought
+up on our call in a chat. Like, one of the first two or three calls
+we had, that was one of the questions that was asked by one of
+the participants.
+
+KATHRYN KLEIMAN:
+
+So J. Scott, are you suggesting that maybe this comment be
+taken directly to the subsequent procedures working group?
+
+J. SCOTT EVANS:
+
+To the Trade- -- independent review on the trademark
+clearinghouse --
+
+KATHRYN KLEIMAN:
+
+Okay.
+
+J. SCOTT EVANS:
+
+-- which is happening and we'll take that forward.
+
+KATHRYN KLEIMAN:
+
+And I would suggest also the subsequent --
+
+Page 20 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+J. SCOTT EVANS:
+
+Yes.
+
+KATHRYN KLEIMAN:
+
+-- procedures working group --
+
+J. SCOTT EVANS:
+
+Yes.
+
+KATHRYN KLEIMAN:
+
+-- which may be looking at that as well.
+
+J. SCOTT EVANS:
+
+Okay.
+
+LEON SANCHEZ:
+
+Can I have a quick follow-up?
+
+EN
+
+The reason for this question to be raised is because I believe that
+the trademark clearinghouse has failed in its objective to
+address the needs of the developing countries and, therefore,
+the question.
+
+KATHRYN KLEIMAN:
+
+Page 21 of 50
+
+Thank you for the clarification.
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+J. SCOTT EVANS:
+
+Remote question?
+
+KATHRYN KLEIMAN:
+
+Number 2?
+
+J. SCOTT EVANS:
+
+We've got a remote question.
+
+REMOTE INTERVENTION:
+
+This is David Tait, the remote participation manager, and we've
+got some questions from the AC room.
+First of all, George Kirikos just wanted to point out that some of
+the data elements that were discussed in the first question have
+already been collected by the working group.
+We then had a question from Jody Kolker:
+
+Is there data
+
+available for the trademark holder who has recovered a domain
+that was registered by a user that did not win the trademark?
+And that's it at the moment.
+
+J. SCOTT EVANS:
+
+You know, I'm not -- I'm not sure I'm understanding the
+question, but I don't know if that's data that we know if it's
+available. I mean, I'm certain that there's data that can tell you
+how many sunrise registrations were sought and obtained and
+
+Page 22 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+how many trademark claims have issued, and there may even be
+data that tells us how many claims were issued and then how
+many proceeded on to registration after a claims notice was
+received, but I don't know if we have data of that nature because
+it's so specific to one case, and the trademark clearinghouse
+itself is not an adjudicatory body.
+
+It merely sends out
+
+notifications and then you qualify for certain protections that
+are run by the registries themselves, not by the trademark
+clearinghouse.
+So I'm not so sure where we would find that data, but we'll have
+that note in our transcript and we'll take a look and see if we can
+parse out -If you'd like to send a better formulation of your question to the
+list so we just make sure that we understood you correctly, that
+would be very helpful. I think it was Jody? Jody.
+
+KATHRYN KLEIMAN:
+
+Go ahead.
+
+MATHIEU WEILL:
+
+My name is Mathieu Weill. I'm at AfNIC, the ccTLD manager for
+.FR, and we're also a registry service provider for several gTLDs.
+
+Page 23 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+First of all, thank you to you all members, and especially the cochairs, for taking on this outstanding work. This is extremely
+helpful and I appreciate the approach based on facts and data
+that you're obviously promoting for that review.
+My question, the one I'm not seeing in this list on the trademark
+clearinghouse, is whether you are going to include in your scope
+the cost/benefit ratio of the trademark clearinghouse.
+Part of the efficiency analysis is to assess whether the benefits
+are consistent with the expected benefits of the policy for the
+various stakeholders, but also at some point I think it's essential
+that we raise the question whether the costs for rights holders,
+for ICANN, for the community are -- are proportionate to this
+benefit.
+And I think I would hope that this could be added in the scope of
+that review, because to me this is an absolutely essential
+question. Thank you.
+
+PHILIP CORWIN:
+
+Yeah. Mathieu, that's an excellent question and it's going to be a
+difficult one to get the data, I think, because -Well, in some cases, you know, the two principal benefits of the
+clearinghouse for the trademark owner is, one, the ability to do
+a sunrise registration to protect their mark, which the
+
+Page 24 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+prerequisite is that you've registered the mark in the
+clearinghouse, but we know that there are complaints about the
+pricing by some registries of those sunrise registrations and
+allegations that the clearinghouse registration is actually being
+used as a -- a very aggressive pricing mechanism by some
+registries.
+So there's that discontent.
+On the other hand, the other benefit is the claims notice, and the
+benefit there would be to -- to -- when the -- when the potential
+registrant gets the claims notice, if they intend to infringe, are
+they basically deterred by the receipt of the claims notice? But I
+know that at the last meeting in Marrakech, there was a
+presentation by the group conducting this independent study of
+the clearinghouse and I asked specifically, "Will you be able to
+generate any data relating to either the number of infringing
+attempts to register that were deterred by receipt of the claims
+notice versus the number of legitimate registration attempts
+that were deterred where they wouldn't have had a valid claim
+against them in a URS or UDRP but the registrant simply was
+scared off by receipt of the claims notice?"
+And the response in both cases from the people conducting the
+study was, no, we won't be able to generate that data. So in
+regard to the benefits, we know what the mechanisms are but
+
+Page 25 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+it's going to -- we're not going to evaluate whether the results
+are satisfactory for both trademark owners and registrants.
+
+J. SCOTT EVANS:
+
+I do want to say one thing, though. In our discussions, I think we
+have to do some mental parsing here and remember that the
+trademark clearinghouse is not a rights protection mechanism.
+It is a database that contains information that is then used in
+two rights protection mechanisms: The claims notice and the
+sunrise.
+So when we start talking about cost benefit, there are two costbenefit analyses. One is having a central repository of this
+information. Is it effective? Is it efficient? Should there be more
+than one provider that has the ability to do that?
+
+Is that
+
+affecting price? There's that.
+But then there's the question of once you use that information -and that's the reason we are also going to look at those
+mechanisms themselves separately, the claims notice and the
+sunrise position. But we -- they get sort of all subsumed into one
+when we have these discussions. But they are actually separate
+things. And when we look at them, we need to keep them
+separate in our minds because what we're dealing with are
+different in the problem we're trying to solve.
+
+Page 26 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+One is -- cuts off people, right, to get a domain name because
+you either get a sunrise and you block someone or you get a
+claims notice and you may deter someone from going forward.
+And the other is just -- in my office, saves a paralegal from
+having to put 15 registrations -- because everyone's going to
+offer a sunrise to all the separate registries separately because
+that's what we did in 2008 and that was a mess, right? Because
+everybody had different requirements.
+
+Some people you
+
+couldn't staple it. Some people you had to have a certified copy.
+And so I think we have to realize that when we talk about this,
+we have to talk about two things. One is the collection of the
+data and how that data is maintained and whether it should be
+more than one person. And is that effective and efficient?
+And the other is: Then when it's put to use, is that effective and
+efficient?
+
+And those mechanisms, those two separate
+
+mechanisms.
+I think we had a follow-up from our AFNIC.
+
+MATHIEU WEILL:
+
+Quick follow-up is assessing the costs for each of the parties is
+central. Of course, the benefits we can always discuss but the
+costs are available. They should be disclosed for each of the
+stakeholders because that is part of the evaluation of early
+mechanism. And I would hope this is brought forward on the
+
+Page 27 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+other topics. It is important that we evaluate whether -- we take
+that into account when we assess a policy, the cost of a policy.
+Thank you.
+
+KATHRYN KLEIMAN:
+
+Mathieu, just following up briefly, benefits and costs can be
+interpreted many different ways. And the costs can be both
+economic and different types of -- other types of costs as well.
+One we talked about was chilling effects.
+
+Through the
+
+trademark notice perhaps, somebody might be chilled.
+To the extent you can provide us some guidance based on being
+deeply involved in some of these processes on what the costs
+would be and how to define them, we'd appreciate that, what
+we should be looking for in terms of cost. Now or later.
+
+MATHIEU WEILL:
+
+Well, what I would be looking at -- first of all, by looking at the
+TMCH operator and how it's funded, by whom, what amount,
+what's the unit price, what's the volume. And that's the big -that's the number one step on the cost that, I think, needs to be
+part of the evaluation. Thank you.
+
+KATHRYN KLEIMAN:
+
+Page 28 of 50
+
+Thank you.
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+Further questions on TMCH? I see one from Paul McGrady. I'm
+sorry. You have been waiting a long time. Thank you.
+
+ANNE AIKMAN-SCALESE:
+
+Thank you. It's Anne Aikman-Scalese again from the IPC, and so
+I will add might bias as a trademark attorney. I actually wanted
+to make a positive comment regarding the I.P. claims notice. I
+think it's been very effective for our clients.
+And I believe that the trademark clearinghouse has operated in
+quite an efficient manner. I especially want to commend Vicky
+Folens. I don't know if she's at the meeting. But they're quite
+responsive.
+And I feel that with respect to the cost assessment that Mathieu
+was referring to, we also need to look at the cost to the
+community if, for example, the rights protection mechanism
+were not in place. I think J. Scott alluded to this a little bit in
+talking about what would happen if there were no I.P. claims
+notice, there would be a cost assessment to in particular the
+business community. And that should also be assessed in any
+sort of cost assessment, even if it's not a direct cost to
+contracted parties.
+And a question I also have is in terms of evaluating the
+trademark clearinghouse and its effectiveness and the rights
+
+Page 29 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+protection mechanisms that are associated with that, it's my
+recollection of the history of the development of these rights
+protection mechanisms is that they were developed as a basket
+and as a grouping and they were not developed independently
+so that in the consensus that was ultimately reached by the
+community, it was viewed that each of the elements had a part
+to play.
+So as you evaluate each piece independently, I'm curious as to
+whether the group has a mechanism for treating them again as a
+group of RPMs, as a unit. Thank you.
+
+J. SCOTT EVANS:
+
+I think that's certainly a question that we will ask ourselves.
+Because what -- our remit is to decide whether things need to
+exist, whether they don't need to exist. And I think what you're
+trying to say is that they were put together -- I think the term at
+the time was a tapestry of protections. And so they all fit
+together as this tapestry. If you removed one, then the tapestry
+wouldn't be complete.
+So we will probably -- I would assume, we will be asking
+ourselves that question if we should recommend that something
+should be removed or deleted as a protection.
+I think Paul had a question.
+
+Page 30 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+KATHRYN KLEIMAN:
+
+Right.
+
+EN
+
+Let's have one more question -- Are there multiple
+
+questions out there? So let's close the queue, and then we'll
+move to the sunrise registration period after Paul.
+
+PAUL McGRADY:
+
+I'm very disappointed because I wanted to say the word
+"tapestry" first. So that was a big disappointment today.
+I think one of the real -- and this -- I would like for everybody in
+this room to think about how we solve this problem, because I
+think this is a -- this is the thorniest problem because how do we
+parse out what was a bad chill and what was a good chill, right?
+Because it's not necessarily bad for somebody to see a brilliantly
+drafted claims notice, right, and say, "Oh, yeah, wow, I shouldn't
+do that," right? That's not a good idea. Versus somebody who
+feels like, well, maybe they -- maybe they just abandoned some
+really good idea that would have been distinguishable from the
+trademark land, right?
+Without actually going through and deducing as a group -because trying to put ourselves inside that person's head -- does
+that make sense? I think that's a real issue that we are going to
+have to struggle with. So if there are any macropsychologists in
+the room or whatever that have any thoughts, I think we would
+
+Page 31 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+love to hear about that because that to me is tricky, right?
+Thank you.
+
+KATHRYN KLEIMAN:
+
+Absolutely.
+
+It's very tricky.
+
+Although, based on some
+
+preliminary data we've seen, a lot of people are turning back. A
+lot of people aren't going through with registrations. It's in the
+millions, we think. We'll get the data. We'll evaluate it. But it's a
+really good question. And, of course, one of the problems we are
+trying to avoid was the chilling effect. That's why we drafted so
+carefully.
+So did we draft brilliantly? Should there be other things in the
+notice? Do people understand what their rights are versus what
+they're being shown? Do we need more languages? So I think
+we should be looking. It's a really good point that you're raising,
+and it's going to be complicated. And we hope people will help
+us with this, especially --
+
+PHILIP CORWIN:
+
+And just to add to that, obviously on the corporate side, the
+registrants who have marks in the clearinghouse generally have
+very good trademark counsel taking care of that or outside law
+firms, people who understand trademark law. Then there are
+professional domain investors who understand and don't want
+
+Page 32 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+to violate trademark and generally have good trademark
+counsel to advise them.
+But then there's a great mass of domain registrants, and there
+may be individuals who want to register a generic word at some
+new TLD that's trademark for something entirely different than
+what they're intending to use it for.
+But they get that claims notice and they go, "Well, I don't want
+to get in trouble. And I just wanted to do a $20 registration, not
+spend $500 to consult with a trademark lawyer." And they may
+abandon what might be a legitimate registration. We have to
+balance all of this somehow.
+
+J. SCOTT EVANS:
+
+All right. I am just going to -- need to go back one slide. I'm just
+going to show you the questions that we're considering with
+regards to the sunrise registration period. And for those of you
+that don't know what a sunrise registration is because I do see
+on our poll that we had some beginners in the room, that is a
+preregistration that is offered to a trademark owner who is -- has
+a mark that is registered in the trademark clearinghouse that
+they have shown that they are using, okay?
+
+And they get
+
+preferential. They get it before the registry goes live. So they get
+a preregistration. It's usually sold at a premium price.
+
+Page 33 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+And so these are some of the issues that we are considering. But
+as I've said before, these are non-exclusive. So I'd like now to
+open it up to the group because we're running on time. I'm not
+going to read through these. They are there for you.
+But does anyone have some information or things that they
+think we should consider with regards to the sunrise registration
+process?
+
+And we have the roving mics.
+
+opportunity.
+
+And this is your
+
+Again, we're going to meeting on Thursday
+
+morning. But on Thursday morning we will be focusing on the
+PDDRP. So this is the time for you to give us information with
+regards to the sunrise process.
+Anybody have any comment, concerns, things you think we
+need to pay attention to? We got that one right apparently.
+I'm now going to turn this to Kathy who's going to talk about the
+claims.
+
+KATHRYN KLEIMAN:
+
+Okay. So back to me. The trademark claims notification which
+we've already touched on under the trademark clearinghouse -if people want to keep talking about the trademark
+clearinghouse, raise your hand. We will continue on that as well.
+So this is the trademark claims period where a registrant for a
+new gTLD during general availability will be notified about the
+
+Page 34 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+mark in the trademark claims notice is now mandated at 90
+days.
+Should the trademark claims period be extended beyond 90
+days? Should the trademark claims period apply -- to continue
+to apply to all new gTLDs? Should we extend it to the next round
+or rounds of new gTLDs or propose it be extended?
+Should the abused domain name label service be continued?
+And then something we touched on earlier: Does a trademark
+claims period create a potential chilling effect on genuine
+registrations? And, if so, how should this be addressed?
+That's a sample of some of the questions. Perhaps you've got
+more or experience with the trademark claims, concerns about
+it, things you would like us to know about it.
+Anybody want to comment on the trademark claims period?
+Some of the registries here, anyone want to comment on your
+experiences with it?
+Good. Go ahead.
+
+RUBENS KUHL:
+
+Rubens Kuhl, .BR. I wish to convey one thing that was brought
+to us by registrars, which is not a policy issue.
+
+Page 35 of 50
+
+It's an
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+implementation issue of trademark claims. It currently has a
+very limited, very low validity period, so -- like a few days.
+So that actually prevents some of the marketing activities that
+usually are performed by registrars, like selling preregistrations
+which can't be done if the window -- validity of the claims period
+is just too low.
+
+So actually claims is currently a pain for
+
+contracted parties due to its implementation.
+There was nothing in the policy that would create this, and this
+was just created by ICANN staff, and it hurt us all.
+
+KATHRYN KLEIMAN:
+
+Thank you very much. That's an important comment. Thank
+you.
+Werner.
+
+WERNER STAUB:
+
+Thank you. Werner Staub from CORE. I would like to echo what
+Rubens just said. Actually, we have a whole list of things that
+need -- not just should, needs to be improved and generally
+simplified in the sunrise trademark claims and sunrise process.
+It is so difficult to use that people mostly just give up. And, you
+know, that's not a good -- that's not a good way of offering a
+solution if it's just too complicated.
+
+Page 36 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+The sunrise processes for the registries did -- the way it was
+done was too hard to do. People just tried to go a past it and
+then the real action is just after that.
+And the registries with respect to the trademark claims -- even
+though we would have liked to offer the solutions to the affected
+parties, we would like to make an effort for them, it's so difficult
+to use they just say, "Let's just give up." They'll say the details is
+probably -- it's not the discussion here, but that's just what
+Rubens suggests as one of those examples. There's many more.
+
+KATHRYN KLEIMAN:
+
+I hope you share some of the details with the working group so
+we can work on this further.
+
+J. SCOTT EVANS:
+
+Yeah, I mean, I think that demonstrates to us that we need to
+bring in some registrars and registries to our call and have a
+discussion with them, a frank discussion with them, about what
+they've seen in implementation of it and where they think it's
+been difficult for them.
+
+I think that we owe that to the
+
+community and to ourselves to do that.
+So, Werner, I want to thank you very much for bringing that
+forward because I certainly hadn't been thinking of the difficulty
+on an implemented registry or registrar. I'm more thinking
+
+Page 37 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+about the effects on either a trademark owner or a user who
+couldn't get a name rather than thinking on that. And I think it's
+good that if we explore those issues.
+So I would like us to be able to reach out to you and see if we
+could set up when we get to talking about that and have that as
+one of our data points that we bring in is to talk not just about
+the statistics with how things have been used but also look at
+the implementation and whether some changes should be made
+that would make it a more effective solution for everyone.
+
+KATHRYN KLEIMAN:
+
+Jordyn Buchanan.
+
+JORDYN BUCHANAN:
+
+Thanks. It's Jordyn Buchanan with Google. So I have two
+related comments. We'll see if they actually come together, or
+questions.
+The first one, just to build on the points that were just recently
+made about, actually, engaging registries and registrars, I think
+that's useful not only to understand the sort of costs and
+burdens on those entities but also in this discussion of chilling
+effects earlier, thing you could talk to registrars and maybe even
+like track down users who have been -- who have seen the
+notices and ask them what was their reaction to it. We don't
+
+Page 38 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+have to guess. We don't have to hire a psychologist to say what
+might a person think, because these notices have actually been
+displayed to actual people. So you can, ideally speaking, try to
+figure out who those people are and ask them their reaction to
+it.
+
+That seems like a much more valuable way to try to
+
+understand the reaction than to just sort of speculate about how
+to interpret other sorts of data other than just talking to -- like,
+other than getting that directly.
+And the related point I was going to make is I think in general
+what you're hearing from the previous speakers from the
+registry and registrar side, and this is reflected in some of the
+questions on both the sunrise as well as claims, is it seems like at
+times registries and registrars are trying to avoid implementing
+these mechanisms. You know, many registrars just decided not
+to offer claims. They would wait until 90 days into a registry's
+launch period and then they would start offering that particular
+TLD because it was too complicated to implement.
+Some of the questions in sunrise about, like, reserved lists and
+so on I think also reflect maybe not complexity but costs to the
+registries that they're trying to mitigate through the use of
+reserved lists.
+So I think one thing you may want to take into account, going
+back do Mathieu's comment about costs and benefits is are
+
+Page 39 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+these so burdensome at times to the people that are
+implementing it that they're looking for ways to sort of make
+their businesses still work by sort of working around them. And
+if so, then maybe there's a way to reform them to get at the
+same goals or the same results without necessarily carrying the
+same costs, and then you might actually find better sort of
+consistency across all operators with how they're actually
+implemented if there wasn't this incentive to sort of work
+around them.
+
+KATHRYN KLEIMAN:
+
+Thank you for your comments, Jordan. I'll echo J. Scott's earlier
+comment that it sounds like we should be reaching out to
+registrars and registries and potentially through you to
+registrants to be asking some of these questions about
+implementation and effect.
+Thank you.
+
+PHILIP CORWIN:
+
+Okay. And now we're going to move on to the final RPM that's
+going to be reviewed in phase one of our working's proceedings
+which is uniform rapid suspension.
+Why does uniform rapid suspension exist? It exists because at
+the time when the Applicant Guidebook was drafted and the
+
+Page 40 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+rights protection mechanisms were being considered and
+created within ICANN, there was, I would say, fear and
+trepidation in the trademark community that there might be as
+many as 500 applications for new TLDs. Of course the reality
+was that there were 1900 applications for 1300 unique TLDs.
+And there was a feeling that the cost and the response time of
+the UDRP was excessive for the amount of infringement that
+might be going on in these new TLDs, especially since the pricing
+models were not known at the time and since then, we've seen
+every possible pricing model from different registries for
+different TLDs.
+So uniform rapid suspension was created as a narrow
+supplement to the existing UDRP, and it was meant to address
+clear-cut black-and-white cases where, just by looking at the
+domain name, you would essentially know if infringement wag
+going on.
+So the three parts of the acronym. Uniform of course means
+uniform administration of this rights protection policy across the
+different providers.
+
+And the three providers for the URS
+
+accredited by ICANN so far are the National Arbitration Forum
+located in Minneapolis, Minnesota, U.S.A. And we have in the
+room the new director the arbitration for NAF.
+
+The Asian
+
+Domain Name Dispute Resolution Center based in Hong Kong. I
+don't know if there's anybody here at this meeting from that
+
+Page 41 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+group. And the newest one, just accredited recently, is the IP
+Dispute Resolution Center in Milan, Italy. And we have two
+representatives who we just met before the presentation started
+who are here with us.
+So we want to make sure that the policies are administrated
+uniformly across them.
+Rapid means really fast, faster than the UDRP that, from the
+time of filing to the time of decision, and if there is a decision
+that there is infringement going on to the remedy, which is
+suspension of the domain, happens quickly within a matter of
+just a few weeks, faster than the UDRP. And suspension is the
+remedy. The remedy is suspension of the domain for the life of
+the registration period for which it was registered. So if it was
+registered for one year, it's going to be suspended from the time
+that the decision is made until the end of that registration
+period, whatever it is.
+Some of the questions that have been raised, and we're not
+going to read all of them again because they're all here on the
+screen, and we want to hear from you whether we've -- they're
+all -- the ones you care about are listed. Is the clear and
+convincing standard of proof appropriate? There's a difference
+between the UDRP -- they both require a showing by the
+complainant of bad faith registration of the domain and use of
+
+Page 42 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+the domain, but the burden of proof is higher for the URS
+because it's supposed to be black and white, not a shades-ofgray case. So whereas in the UDRP, the complainant has to
+prove their case by a preponderance of the evidence, for the
+URS, it's a clear and convincing. It's a higher burden of proof.
+And is that still appropriate based on what we've seen?
+Should the URS allow for additional remedies such as a
+perpetual block beyond the registration period. Or transfer.
+Transfer is a very different remedy than suspension. And if
+there's going to be transfer, then I know on the domain side
+there's concern about attempted reverse domain hijacking, so
+we have to look at that if we're going to consider transfer as a
+remedy.
+Is the current length of the suspension for the registration period
+sufficient? Which is similar to the other question.
+There are explicit expanded defenses listed in the URS, which is
+not the case for the UDRP. While there is guidance from WIPO, in
+particular, based on usage of the UDRP, there are defenses
+written right into the URS, and we want to see if they're being
+used and if they're being used effectively.
+Should there be sanctions for abuse of the URS? Particularly
+repeated abuse by a particular trademark owner. And is the
+
+Page 43 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+existing appeals process for the URS appropriate or should it be
+expanded and improved in some way?
+So that's just a few of the questions we've received from the
+community to date. But again, these are all nonexclusive. And
+I'm going to stop at this point and open it up for comments from
+the audience whether there are additional questions concerning
+the URS or concerns that you have that are not displayed on this
+slide that you'd like to bring to our attention now. But again, if
+you don't bring them up now, we're going to be on each of these
+RPMs for several months when we reach them in our process,
+and there will be an opportunity at that time to explore anything
+you want to.
+So....
+Bret.
+
+BRET FAUSETT:
+
+Bret Fausett from Uniregistry.
+In the early days of the URS, we found that I don't think
+trademark owners understood it very well because we had some
+people who won the URS who contacted us and said, "Well, now
+we'd like to get the name." And we said, "Well, you can't get the
+name. It's suspended." "Well, then how do we get first in line to
+
+Page 44 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+get it when it comes off suspension?"
+
+EN
+
+"Well, you need to
+
+calendar that and you need to come back and register it."
+And sometimes it was actually their trademark. So you want the
+trademark owner to get it, but you can't give it to them because
+it's suspended and there's no mechanism to let them be first in
+the queue.
+So we might want to think about how to perhaps convert the
+URS to a UDRP or put the trademark owner first in line when the
+thing comes off of suspension or have some mechanism to get
+someone the name that they want after they've won the URS.
+
+PHILIP CORWIN:
+
+So, Bret, if I'm -- we've already brought up the possibility of
+transfer, which brings its own debates, but you're suggesting
+that we consider whether a winning -- a trademark owner that
+wins a URS should basically get first dibs on purchasing that
+domain when the registration period ends. I think that's a good
+suggestion for us to look at.
+Is someone -- I don't see hands raised or people --
+
+J. SCOTT EVANS:
+
+You need to raise your hands so we can bring you a mic. Is there
+anybody?
+
+Page 45 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+So it's your opinion in the room that we've asked all the
+questions already that should be addressed by our working
+group.
+Okay. We're still open to suggestions as we proceed.
+Yes, one from our new providers right here.
+
+IVETT PAULOVICS:
+
+Thank you. As mentioned by Philip --
+
+PHILIP CORWIN:
+
+Could you state your name and where you're from just for the
+record.
+
+IVETT PAULOVICS:
+
+Yes, sorry. I'm Ivett Paulovics from -- I'm the URS case manager
+of MFSD, the third URS service provider recently approved by
+ICANN.
+Obviously we have a natural role, so I can only report what
+trademark owners ask before filing a URS complaint.
+They would like to have -- to see clearly what does wordmark
+mean, because in URS, you can rely your complaint only on a
+wordmark.
+
+And there are some different interpretations in
+
+different jurisdictions what does a wordmark mean.
+
+Page 46 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+I mean, for example, in a composite mark where there is also
+verbal element, if it can be relied -- if a complaint can based
+upon such kind of trademarks or not, because we have seen
+different decisions from providers where exactly on the same
+mark, there were two different decisions. In one case, Xaman
+(phonetic) decided that it should be dismissed because it's a
+figurative mark, so the complainant cannot base its complaint
+on it. And in the other case, the domain name was suspended.
+
+PHILIP CORWIN:
+
+So what I hear you saying is that different providers for the same
+mark in a different way.
+
+IVETT PAULOVICS:
+
+Yes.
+
+PHILIP CORWIN:
+
+So that's a concern we have to look at.
+
+J. SCOTT EVANS:
+
+I want to clarify for the record. I didn't hear her say different
+providers. She said two different panelists handled the same
+mark differently.
+
+Page 47 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+IVETT PAULOVICS:
+
+Yes, yes.
+
+J. SCOTT EVANS:
+
+So I don't know if that came from the same provider or -- I don't
+want to impugn a provider here.
+
+PHILIP CORWIN:
+
+On a question like that on the validity of the mark, the panelists
+should I think have a uniform point of view and not be reaching
+different decisions, but we'll look forward to your input on that.
+
+IVETT PAULOVICS:
+
+Okay. Thanks.
+
+PHILIP CORWIN:
+
+Other questions or comments out there on URS?
+
+KATHRYN KLEIMAN:
+
+And, Phil, I might add, we're looking for input in general on
+design marks because there has been controversy on how that's
+been implemented both by the trademark clearinghouse and
+the URS. So that's an area open for input, and we hope people
+will provide it.
+
+Page 48 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+J. SCOTT EVANS:
+
+EN
+
+All right. Any more questions? I'm standing between you and a
+reception, so I'm just going to go to our last slide real quick and
+let you know that we're doing data gathering in the first phase,
+just on the new gTLD RPMs.
+
+And here are some links for
+
+information that we're seeking and taking in. And we would
+welcome you to provide us with anything you think we should
+consider. If you know of any studies yourself that have been
+done by academics or in your particular jurisdiction something
+that might be prevalent in your particular region or country that
+we would need to look at, we welcome you to bring that forward
+to us. You can contact Mary Wong, who is our staff liaison, or
+Lars Hoffman, who is another of our staff liaisons, and David
+Tait, the three. You can find their emails on the ICANN website
+and send them this information and they will make sure it gets
+disseminated to the list. Because only working group members
+can post to our list. So we can't -- you'll have to submit it
+through staff. So if you do have something you would like us to
+consider, we ask you to contact us and make us aware of, and it
+we will certainly consider it. But we are taking in information
+now and looking at things that we need to gather and we're
+looking to the community to assist us in any way possible.
+So I think with that we're going to be able to give you 10 minutes
+of your day back. I thank you, everyone, for your participation
+today and for attending. And remember, if you want to attend
+
+Page 49 of 50
+
+HELSINKI – Cross-Community Session: Review of All Rights Protection Mechanisms in All gTLDs
+
+EN
+
+our working group meeting, which will be an actual meeting of
+the working group, we'll be working through issues, that's 8:00
+here on Thursday morning. Thanks.
+[ Applause ]
+
+KATHY KLEIMAN:
+
+[END OF TRANSCRIPTION]
+
+Page 50 of 50
+
+Thank you.
+
+

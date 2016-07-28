@@ -1,0 +1,1588 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 1
+
+Transcription ICANN Helsinki
+Registry Stakeholder Meeting
+Wednesday, 29 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at:
+
+Man:
+
+It is June 29 at 8:00 am. This is the gTLD Registry Stakeholder Group
+session in Veranda 1.
+
+Paul Diaz:
+
+Okay everybody let's get this one underway.
+
+Cherie Stubbs:
+
+We can start the recording now please. And do we have anyone on the
+teleconference bridge? No? All right thank you.
+
+Paul Diaz:
+
+Thank you, Cherie. Morning everyone. It's bright and early. Thank you for
+joining us. This is Paul Diaz, Chair of the Registry Stakeholder Group, and
+this is our face-to-face in Helsinki. Today's the 29th of June. We put the
+agenda up on the screen. We circulated in advance a bunch of updates and
+discussions we'll have. Under any other business, anybody want to add
+something to the list you don't see there now? Once we get underway, if
+there are things that pop into mind by all means just raise your hand and we'll
+address them.
+
+Might as well get right into it. The first item you see up there related to the
+IANA transition it's a selection of the two customer standing committee reps.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 2
+
+I'm pleased to report that we had four candidates put their names forward
+from registries. Ultimately the stakeholder group will select two, and we have
+a process underway, a selection process underway. We'll be coming back to
+the group once we've worked through that. And the we in this is the ExCom.
+We're not doing a vote for the two members. I see you scowling over there,
+Jeff.
+
+Look folks, one of the challenges this group has, and let me insert it's not on
+the list, but, you know, the vote for our budget right now, good lord people
+this is embarrassing. We only have 26 votes. We have a membership of over
+90 right now, or high 80s for voting members. You know, we've got a problem
+as a group that there's very few who are regularly taking the various things
+responsibly and an awful lot who are just floating along.
+
+And, you know, for something like the budget it's your money and yet we
+can't get, after several weeks, anywhere near the simple majority minimum.
+So, you know, please a impassioned request to go back to the
+SurveyMonkey, it's a simple yes or no. And for something more complex like
+the selection of CSC candidates, we have a selection process, a tool that we
+built that the ExCom will walk folks through once we've made the decisions
+but this is one that we feel because we're on such a tight deadline, we're
+going to hold it to ourselves. Jeff?
+
+Jeff Neuman:
+
+Thanks. Jeff Neuman. I understand you're not, or we should all not be happy,
+with turnout for the budget, but I don't think that that's a reason to basically
+say that all decisions, or important decisions, should just be made by ExCom.
+I think if you don't get a quorum for a vote for the two representatives, I think
+the backup can be selection by the ExCom based on the people that did vote.
+
+But this is a pretty darn important decision and I mean I trust you guys, the
+ExCom, but we didn't elect you for that purpose. So I would not just go the
+default of having the ExCom vote on this. I would hold a vote in a short period
+of time. If you don't get the quorum, then have the backup be the ExCom
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 3
+
+select based on the votes that were already submitted, or taking that into
+consideration. But I don't agree with - I'd like to hear from everybody else, but
+I don't agree that it should just be a decision by the ExCom on this.
+
+Paul Diaz:
+
+Yes. Reg?
+
+Reg Levy:
+
+Would you suggest that we take the majority of the actual - the people who
+did vote, whether or not it's a quorum?
+
+Jeff Neuman:
+
+Sorry, I think I would like to hear from everybody else personally. I would say
+that if it's strong majority then yes. If it's pretty close, then I think there's some
+judgment that would need to be made.
+
+Paul Diaz:
+
+Chuck?
+
+Chuck Gomes:
+
+Thanks. Chuck speaking. You know, our charter doesn't allow that. So we're
+creating a problem for ourselves here. We introduced the ExCom in a not too
+long ago revision to the charter, but we didn't give the ExCom that kind of
+authority. And that was intentional because we wanted the whole
+membership involved. But if, like Paul said, if the membership doesn't
+participate we're going to have to revisit that.
+
+Paul Diaz:
+
+Donna?
+
+Donna Austin:
+
+Thanks, Paul. So, Jeff, this isn't the first time that we've said this is the way
+we were going to do the selection process. We did, you know, we've had a
+number of calls where we've discussed it and we've said that the ExCom, you
+know, would do the selection process. And I think our intention was that we
+would put the candidates to the, you know, tell the membership what our
+proposed selection is, and if we don't get any objection then we'd move
+forward.
+
+Paul Diaz:
+
+Jeff?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 4
+
+Jeff Neuman:
+
+Yes with all due respect, and I apologize for not catching it earlier, so, but
+there's always things that people don't catch. So that's my fault and I
+apologize for that. But then to select someone and then ask for objections.
+Look, most of us are pretty kind spirited and none of us want to go public and
+just say, "Oh you selected so and so, or you selected Jeff Neuman." There's maybe there a couple of people that would say, "I hate him." But for the most
+part, people are kind spirited and they're not going to want to go public and
+say, "No that person's terrible." So I don't agree with that approach of having
+to file objections on someone.
+
+Paul Diaz:
+
+Kristina?
+
+Kristina Rosette: Kristina Rosette, Amazon Registry. I think maybe one potential solution, if
+folks are willing to consider it, that might be a good middle ground would be
+to have the ExCom make recommendations based on its evaluation of the
+candidates but then still have the membership vote. And that to me I think
+would allow kind of the best of each scenario. Whereas the ExCom has had
+the time to really study the candidates, apply the criteria, and then
+simultaneously the membership would have the opportunity to vote. And I
+think it would just have to be made very clear to everyone you - there is no
+opportunity to extend this vote. It has to happen.
+
+Paul Diaz:
+
+We'll come back to that. Thanks, Kristina. Jon?
+
+Jon Nevett:
+
+I guess we have a short-term problem and a long-term problem. The shortterm problem is what to do about this selection and, you know, I think maybe
+part of the selection process is the ExCom takes input. You announce who
+the four applicants are and you give the opportunity for those of us in the
+stakeholder group to provide input to you. Maybe there's a form or something
+that we could fill out, so those of us who are interested or have concerns
+about an applicant or really think, you know, one applicant is great and you
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 5
+
+want to promote that person, then we have that opportunity and you can take
+that into account along with your own evaluations. One idea.
+
+Two, I'm not opposed to Kristina's idea of, you know, you guys propose a
+slate and set up a down vote on the slate. Again, that's a short-term issue.
+The long-term issue is I think we've got to lower the quorum requirement. We
+had a debate when we went through this last time, and Chuck won. So because of the size of the group, some of us proposed a lower quorum
+requirement of 25% instead of 50% for a vote.
+
+And, you know, yes we could try to energize people but in general there are
+people who are just going to be apathetic about it and are willing to draft
+behind those of us who are spending more time on it, understand it better.
+And that might not be a bad thing. And there's sometimes where, you know,
+as long as we get a critical mass we should be able to move forward. So I
+would suggest one of these short-terms solutions and that as a long-term
+solution. Thank you.
+
+Paul Diaz:
+
+Thanks, Jon. Reg?
+
+Reg Levy:
+
+So, Jon, I think that's a great idea that we revise the quorum but I'm
+wondering if instead of it just being a baseline membership percentage if we
+want to start tracking who's attending meetings regularly, including online,
+whether they're taking part in the e-mail discussions, that kind of thing,
+because it often ends up being the people who, quote, unquote, care. But
+there are a number of people who are here in this room and aren't
+necessarily speaking up, and I think that they should count towards that.
+
+Paul Diaz:
+
+Jordyn Buchanan?
+
+Jordyn Buchanan: So I was going to start adding my own ideas about how to fix the long-term
+voting problem but that's probably going to mess up the agenda for today. So
+can I suggest that we - that you convene a little task force to figure out what
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 6
+
+to do about the quorum problems and we move that discussion into the future
+as opposed to trying to fix that today as well. I'll happily participate.
+
+Paul Diaz:
+
+Thank you, Jordyn. Yes it looks like we're going to have an Evolution 4
+working group in our future. Very good point that Jon makes about the
+threshold. That was something that was actively debated when we last
+updated our charter. At the time, you know, there's a lot of logic about
+keeping it at 50 and that's what stayed in the charter. But the arguments,
+given what we're seeing for the lower threshold, need to be revisited. So we
+will do that.
+
+As far as the short term, the question of the vote, probably - excuse me for
+not being clearer, the ExCom had every intention of coming back to the group
+for some validation. We weren't just going to simply select. Please
+understand though the very tight timeline. We must identify, the Registry
+Stakeholder Group, who the candidates are no later than 15 July, actually the
+14.
+
+Jeff, the body language you're thinking like no problem. Okay we've got a
+major holiday coming in the U.S. We have one stakeholder group biweekly
+meeting the 13th. So there's good coincidence there. But the selection
+process that the ExCom set up we, because of scheduling and whatnot,
+could not ourselves get to it until 8th and 9th of July. So recommending
+putting forward, "Hey we feel these are the strongest two of the four" and
+some rationale, we need a little time do that.
+
+Long and short, if we want to do any kind of vote or at least a - as long as
+there's no opposition to the names put forward, it's going to be very tight. It's
+going to be like a 48-hour ballot. So just folks understand. That's not - we're
+not trying to railroad in any way, it's just a function of the calendar and what
+we can with the time we have. Jeff?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 7
+
+Jeff Neuman:
+
+Could you tell us the deadline and put it out there? Thinking now it's going to
+be hard is not a reason not to do it. So I may have missed it. I haven't seen
+the four names but they may be out there. Is it out on our list who are the four
+- no? So put it out there now. I mean we - it's the 29th. Put the names out
+there along with any supporting materials that they submitted and supported
+that candidacy. Give - you said the ExCom's meeting - well give some times,
+set up a schedule for a vote and let's do it.
+
+Paul Diaz:
+
+Okay. And I hear you. Let's do it people, because we do. We've
+communicated a lot. For the four who came forward, please understand, they
+never understood that their names were going to be publicized broadly, that
+we'd be voting. I don't think they'll have any problem with it but we didn't set it
+up this way. And so we moved this along on the agenda.
+
+The next item is very, very similar and is about to get underway so we can
+learn from the CSC and apply it to a selection of RZERC, the root zone
+candidates that we need, make it a more clear, transparent, easily
+understood process. But, you know, we're kind of starting to make things up
+on the fly now, and this is all too often the norm for us. Chuck?
+
+Chuck Gomes:
+
+Thanks. Chuck speaking again. And a couple things. First of all, isn't there a
+template of qualifications that the executive committee was going to use? Is
+that feasible to send that out to the group and anybody that wants could
+provide to the executive committee their input on that little template on the list
+of candidates? I'm not pushing for that but that would be one way to do it. I
+don't know if that's feasible or not because I haven't seen the template.
+
+The second thing, don't we need to have some - we need to have - there's
+two seats but we need to have some alternatives too because the ccNSO
+and the GNSO have to meet and try to deal with diversity, assuming equal
+comparable qualifications and so forth. So we're really selecting more than
+two. We may have two primary but two backups. Is that correct?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 8
+
+Paul Diaz:
+
+That is correct, Chuck, and again we're going to lay that out. We have Donna and I have been meeting with the ccNSO to make sure that we are in
+coordination. Again, the timelines are such that each of the first groups picks
+two, has alternates, that's correct, and there is a ratification process. In the
+case of the two names that we put forward that the GNSO Council, first
+through a selection subcommittee and then an affirmation vote by the full
+council, all that happens no later than mid-August. There is a timeline. I don't
+recall all the specific milestones on it, but there are all those steps still to
+come.
+
+The selection tool template that we had that we refer to, yes we can share so
+that folks understand how we will be evaluating and coming up with our
+recommendations. And folks have thoughts on the, you know, inputs would
+be welcome. Jonathan?
+
+Jonathan Robinson: Thanks, Paul. I just want to clarify. It sounds like we're heading towards
+publishing the names with the qualifications and taking a vote. Are we going
+down Kristina's route or something along those lines where the ExCom's
+going to in some way order that slate and make preferences? Is that where
+we're heading? Thanks.
+
+Paul Diaz:
+
+Donna?
+
+Donna Austin:
+
+Personally I think we have to because it's not just one criteria, there's a
+number of different criteria that the candidates responded to. And I think if we
+open it up to the group to do their own kind of, you know, evaluation, we're
+going to end up in a really difficult situation potentially. So I think the ExCom
+does the evaluation. We can take input from others that can, you know, help
+us with the discussion but I think really let's try to keep the evaluation to a
+small group and take input from the broader group would be my preference.
+
+Paul Diaz:
+
+Jeff?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 9
+
+Jeff Neuman:
+
+Thanks. Jeff Neuman. I'd be happy to be on that committee that looks at the
+criteria. I helped in the whole transition process on coming up with certain
+SLEs and other things that have to be looked at. And I know you guys are
+getting frustrated, but I think this is a bigger discussion we need to have later
+on as to the role of the ExCom. I don't think when any of us elected the
+ExCom officers we had this vision of leadership in mind in terms of the role of
+the ExCom. I think it's a bigger discussion.
+
+So I know you all are frustrated but this is not the reason - we did not go into
+the election of the ExCom with this thought in mind that it was going to be
+some group that hierarchical can make certain decisions that we didn't
+envision. This right here is the key tenant to the whole IANA transition and to
+the accountability that many of us have spent a lot of time on, years' worth of
+work to just say this is a decision for the ExCom. This is critical, these two
+items.
+
+Paul Diaz:
+
+Thanks, Jeff, and I hear you. In all fairness, we the ExCom, Donna and I have
+been talking about CSC for a good six weeks. So this is not news to the
+group. And I absolutely hear you. I do not believe the ExCom should be the
+star chamber, making decisions without the input, active input. The simple
+reality is the stakeholder group has consistently not shown the level of
+activism. So what you're asking for is theoretical, not practical.
+
+Jeff Neuman:
+
+I'm sorry. The voter turnout in the U.S. for example is 20% or even lower on
+certain elections. That's not a reason not to have an election. I'm sorry, that's
+not a good enough reason in my view. And I could be - if people disagree,
+please.
+
+Paul Diaz:
+
+Okay, we shouldn't spend too much time but to Jon Nevett's point, our charter
+right now to make it a valid vote it's a 50% quorum. That's 42 votes where we
+currently stand in terms of voting members in good standing. If we have a
+vote, we've got to meet that level. If you don't, it's a failed vote and you've got
+to go back to square one. And we never have enough time to go back to
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 10
+
+square one. So these are longer term challenges that we do have to address.
+Like I said, it looks like we have an Evolution 4 working group in our future
+and let's hash it out there.
+
+Donna, you first.
+
+Donna Austin:
+
+Yes, I think my frustration, Jeff, is that we've had this, you know, as Paul said,
+it's actually not been six weeks that we've had this agenda, it's a number of
+times that we've had the discussion and here we are, you know, at the last
+minute you're saying, you know, I don't like where you are. I mean I think you
+were on most of these calls. So, you know, that's my frustration. You know,
+it's not the first time we've raised it, and we're trying to get something done
+here. So, you know, apologies at being frustrated but it is pretty annoying.
+
+Paul Diaz:
+
+Jonathan?
+
+Jonathan Robinson: It seems to me like there's a pragmatic solution. I mean Jeff's got some
+valid sort of fundamental concerns that he's articulated well but that shouldn't
+stop us sorting out this issue. And it feels to me like we can navigate through
+it by the ExCom putting forward a sequence slate. Put it to the vote. And
+here's perhaps what is controversial. If the vote doesn't make the quorum, I
+mean we probably have to proceed with the top two anyway. So we say
+ideally we'll put it to the vote but out fallback position is that we agree to
+proceed with the top two on the slate in any event. So the vote could overrule
+the ExCom but it can't nullify the choice.
+
+Paul Diaz:
+
+Pam?
+
+Pam Little:
+
+Yes. Regardless of how we decide on selection, I really would like to know
+who those candidates are. I think our default position should always be
+transparency first.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 11
+
+Paul Diaz:
+
+Okay we hear you all. Let's move through this. I think Jonathan summed it
+up. It's Kristina's idea. That makes the most sense to us. We will get the
+template and the candidates' names out. The ExCom is going through the
+process. You're all welcome to do it on your own and share any inputs you
+have. We will come back with recommendations, who the top two we feel
+should be, and we'll set up a call for a vote, which will be, just so everybody's
+aware, in that week, week of the 11th. We'll have an opportunity if we need to
+on the 13th on our next biweekly call to discuss further.
+
+And I think to Jonathan's point, whether we can reach the threshold or not, in
+this case we have to put two names forward. So unless there's violent
+opposition to the recommended names, we'll stick to the timeline and get it
+down. Maxim?
+
+Maxim Alzoba:
+
+Could we just (unintelligible) name by those two with the words like the
+majority of the active participants or something?
+
+Paul Diaz:
+
+Let's just see how it goes when we get there. Chuck?
+
+Chuck Gomes:
+
+Real quick question. You're going to not only tell us the top two but who the
+alternates would be as well, right?
+
+Paul Diaz:
+
+Yes.
+
+Chuck Gomes:
+
+Okay thank you.
+
+Paul Diaz:
+
+Indeed. Okay folks. A lot of time, important issues, especially the longer term
+view about voting thresholds. We'll address them. The second point up there
+I won't go into so much detail but is a similar process coming out of the
+transition. We need to identify a Registry Stakeholder Group appointed
+member of the RZERC root zone. Sorry for all the acronyms; it's too early in
+the morning, but RZERC is very similar. This is an uber geek. This is
+somebody who's got very substantial tech background.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 12
+
+So like we - when we had the call for CSC colleagues names to be put
+forward, most likely there's nobody in this room right now who would be the
+qualified candidate for RZERC, but we certainly have colleagues back in our
+home organizations. We will set it up, we will use the same selection tool.
+And if people want to be - have this a more active group evaluation
+engagement from the start, we can look at that. We have a bit more time
+identifying the RZERC candidates so we can set it up that way. Or if we find,
+hey, warts and all the way we're moving forward on CSC with an ExCom
+evaluation and input and ratification by the membership, if that works, we'll go
+with that as well. Jeff?
+
+Jeff Neuman:
+
+Thanks, Paul. Do we have any -- I'm trying to remember now the role of the
+RZERC -- but do we have any conflicts rules in terms of candidates that may
+also operate a zone or, sorry I'm not speaking well either, do we have any
+conflicts rules? Have we established any? So if someone operates a root
+zone, having them as a candidate may not be a good idea.
+
+Paul Diaz:
+
+Understood. Let me come back to it. Chuck?
+
+Chuck Gomes:
+
+Sure. First of all it's Root Zone Evolution Review Committee, okay, is what it
+stands for. And that's replacing a role that NTIA plays right now if there are
+major architectural or technical changes to the root zone and the architecture
+that supports that. That's why Paul's right, we need a pretty technical person
+for this.
+
+With regard to the conflicts issue, let me be right up front, VeriSign as the root
+zone maintainer will have a member on that. So absolutely it shouldn't be
+someone from VeriSign, okay, because we have a seat on that as the root
+zone maintainer. Okay? So just - I wanted to make clear on that. And it does
+have to be somebody technical that understands the, very well, the root zone
+architecture and so forth that supports that.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 13
+
+Because what would - what this group will do is provide advice to the - to
+ICANN if they - if changes are proposed. Or they could even propose
+possible changes to the architecture or something like that. In the past, NTIA
+has kind of been the approver of that. That's what this committee is for.
+
+Paul Diaz:
+
+Thank you, Chuck. Jeff?
+
+Jeff Neuman:
+
+Thanks. And I didn't - Chuck, I wasn't just singling out VeriSign. There are a
+couple either -- I believe -- a couple other organizations that may have copies
+of a zone or have done other services or things that would also fit under
+those conflicts rules. Thanks.
+
+Paul Diaz:
+
+Yes understood. The rules - the tool that we have, we have a working
+template right now with the requirements that are there. More specificity
+about any conflicts, we will research that before we share it with everybody,
+make sure that we don't have any surprises. My sense right now, and I've not
+focused on this really specifically, but we have not received an awful lot of
+guidance, so maybe this is good that we're - we start discussing consulting at
+least amongst ourselves we can establish our own criteria if there's a strong
+sense about potential conflicts and whatnot, work that into our evaluation
+selection process. We do have some time. We'll come back to everyone on
+this one.
+
+All right, with that why don't we keep moving along? We don't have a lot of
+time today. The next issue that's up there is about ICANN accountability and
+specifically the Work Stream 2 issues and their request for volunteers. Keith
+has put into the chat what the key subgroups are. There's quite a few. Keith,
+do you want to add anything more?
+
+Keith Drazek:
+
+Sure, Paul. Is Becky in the room?
+
+Becky Burr:
+
+I am on the mic here.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 14
+
+Keith Drazek:
+
+I would defer to you if you have any comments on accountability or Work
+Stream 2, but just a note that the CCWG Accountability Group met on
+Sunday just prior to this - the official start of the meeting. It was focused
+almost entirely on initiating or kicking off the Work Stream 2 effort. So there
+are multiple subgroups. As Paul noted, I put into the Adobe chat and I'll
+forward to the list a reminder of the list of the Work Stream 2 issues.
+
+Anybody who wants to participate, anyone who has a particular interest in
+any of these categories, there is an opportunity for you to volunteer. The
+group is currently going through the identification process for the (rapators) or
+the leaders of these various sub teams. And, you know, some of these have
+potential impacts on us as contracted parties as we look forward.
+
+And I know that there's been some frustration, you know, expressed on
+previous calls and on the list about some of the costs associated with Work
+Stream 1 already and concerns about the expenses forecast for Work Stream
+2. So anybody that has concerns, you know, this is an opportunity for you to
+participate in the process. I'll stop there and see if (Becky) has anything else,
+or any questions.
+
+Becky Burr:
+
+Yes so just on the cost issue, we are creating a fairly detailed cost
+management and budgeting process for Work Stream 2. So I think the chairs
+of the GNSO will have received an invitation to participate in some
+discussions about that and I'll be reporting back. But there is a considerable
+effort focused on sort of reining in the costs, which is largely outside counsel.
+
+I think that for purposes of Work Stream 2 the need for outside counsel is
+largely going to actually be related to phase two of the IRP, which is actually
+not Work Stream 2 but Work Stream 1 continued, and that is the operating
+rules for the independent review process which obviously will need outside
+counsel and is fairly important to get it right.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 15
+
+One issue that I would just call to folks' attention, in terms of jurisdiction,
+Work Stream 1 did confirm ICANN as a California not-for-profit corporation.
+There are - it's in the articles of incorporation. So it would require a fairly
+elaborate community support to change that. But there is a jurisdictional work
+stream, and it largely relates to the issue of what kind of choice of law
+appears in agreements with contracted parties. So for those of you who are
+outside of the United States and think ICANN should be providing some
+alternatives to California law in terms of contract interpretation, that's where
+the discussion will be taking place.
+
+Paul Diaz:
+
+Thank you, Becky. Thank you, Keith. Again those subgroups have been
+noted in the chat. Keith had shared an e-mail. We can resend that to put it at
+the top of everybody's list. There's a whole range of issues. So some may be
+things that you want to just kind of keep tabs on. Others may be - have pretty
+strong views, actively participate.
+
+One thing that we would ask just from the ExCom level or the stakeholder
+group level, if you do volunteer, can you please let Cherie or I know just so
+we have a sense of who's involved. Sometimes getting the list of members of
+the various sub teams is unnecessarily difficult getting it from staff. So if you
+just tell us so we're aware, we'll have some sense of do we have gaps, do we
+have coverage across the various issues.
+
+All right. Moving - continuing to move through. We've got next on our list the
+new TLD Subsequent Procedures Working Group. What we're getting at here
+specifically there's a series of questions that that working group has shared
+with us seeking input, sort of initial public comments, if you will. We've posted
+that to the list. We've actually reached out directly to the folks in our group
+that are actively or volunteer to be part of that list. We started drafting
+responses to it. We will share that more broadly as soon as we have inputs.
+
+They'd asked for our input no later than the 25th of July. So we have time, but
+if you have thoughts, concerns, et cetera, please look because it's pretty
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 16
+
+substantial number - it's five questions but they all have subparts, so there's a
+lot of things, perspectives that the working group's looking for. And since
+they're fairly early in the process, it's an opportunity for us to help inform and
+potentially guide those discussions, those deliberations. So it's important.
+
+Let's do this. Take advantage of the opportunity we have to weigh in early
+and, you know, call to anybody, even if you're not actively involved. When
+you look at those questions, you probably have certain immediate reactions.
+Share your views.
+
+Okay. No other questions about that. And we have our RAA amendment
+process. Jon Nevett provided a - did another session here, if folks were
+aware. There still remain some questions from the community. It remains to
+be seen if they turn into public comments. We have - Freida has graciously
+offered to keep tabs on comments that are submitted so that we can be
+aware, be prepared if necessary to weigh in.
+
+The thought to date, as far as a stakeholder group comment on the process,
+was more high level, more, you know, thanking the participants for the
+process that we support and we want them to move forward. Of course we'll
+be prepared if we need to to respond to any substantive issues that were
+raised by a member of the community, something that we can see on the list.
+
+The way the process right now is envisioned working is that when that
+comment period ends in mid-July, I think it's the 13th, a summary report staff will produce a summary report. I think they've given themselves like four
+weeks to do that. So none of this is going to happen at Internet speed. But
+once it does, the negotiating team will get back together with the ICANN staff.
+
+We'll discuss issues raised. Any of them that are considered substantive,
+there'll be a decision made whether they can be incorporated into the
+agreement or not. And I guess we'll just have to wait. If it's like a typical
+comment period, most of the meatier issues will probably be raised right at
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 17
+
+the end. So we'll just keep tabs on it and keep everybody updated as we
+move forward, move towards that date in mid-July. Jon Nevett?
+
+Jon Nevett:
+
+Thanks, Paul. Yes one thing to add. One issue that we learned about in the
+webinar and ICANN talked about again yesterday is that they plan on
+publishing the amendment to the extent we reach agreement and it gets
+approved by both sides in an amendment form. So we would have all our
+agreements on our site and then there'll be an amendment amending certain
+provisions of those agreements. So the actual agreements that are published
+on our site won't be necessarily accurate because you'll have to crossreference to the amendment.
+
+So for example, there's an amendment to 7.5. They'll have the old language
+to 7.5 and then have an amendment that we'd all have to look at to see that.
+So we have pushed back on that. I think that it might be something that we
+want to put in our comments and say for the ease of everyone other than
+maybe ICANN staff because it's an administrative burden to do what's called
+an amended and restated agreement, we should encourage them to do that.
+
+Because it's just, if you click on the site where it says where your agreement
+is and it's not accurate, I think that's a problem. And so I think we should
+strongly encourage them to work towards -- it doesn't have to be done
+immediately -- but work towards having amended and restated agreements
+published on the ICANN site. Thank you.
+
+Paul Diaz:
+
+Thank you, Jon, a really important point. Agreed. Kristina Rosette.
+
+Kristina Rosette: Kristina Rosette, Amazon Registry. I completely support what Jon just said
+and I actually think this might be an opportunity to reach out to some of the
+other stakeholder groups and constituencies to identify for them the difficulty
+that they are going to have in making reference to those agreements. And I
+think the broader the support we can get from the community, the more likely
+we'll be successful.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 18
+
+Paul Diaz:
+
+Good thought, Kristina. Reg?
+
+Reg Levy:
+
+Thanks. I know that you're specifically talking about for like each TLD the one
+that's posted, but are they also going to do that for the standard one at the
+very top where they list, you know, PDF, HTML, redline, et cetera?
+
+Jon Nevett:
+
+Those will be in the correct version I'm sure. Yes. I think that (Krista)
+mentioned that yesterday.
+
+Paul Diaz:
+
+Sam?
+
+Samantha Demetriou: Thanks, Paul. I really agree with you on this one, Jon. And I didn't really
+accept the rationale when it was like oh it will be a lot of work. I mean we all
+do a lot of work every day. So I'm wondering if maybe a letter that we draft,
+as the Registry Stakeholder Group, and put that together and, to follow on
+Kristina's idea, seek some support, maybe co-signs from other stakeholder
+group and constituency chairs is one option.
+
+Paul Diaz:
+
+Jon what are your thoughts?
+
+Jon Nevett:
+
+Yes I think a letter or comments are fine. The only - as soon as Kristina
+mentioned it, I said yes that's a great idea. But I don't also want to encourage
+necessarily them to like, "Oh once we're filing comments on the registry
+agreement" - yes. So maybe we do it after the fact or something like that.
+
+Reg Levy:
+
+Yes I mean, I should have been clear. I was thinking more along the lines of
+something that (Samantha) was suggesting, kind of a letter from the
+stakeholder group with perhaps signatures from the co-chairs.
+
+Samantha Demetiou: Yes I mean - sorry to interrupt. It's more of like a post-comment
+implementation kind of thing. I don't think we should tie it to the comments.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 19
+
+Paul Diaz:
+
+Okay thanks for that clarification. Martin?
+
+Martin Sutton
+
+:
+
+Well
+
+I'm just thinking get a statement that everybody can use in their own
+comments so that everybody can submit it.
+
+Paul Diaz:
+
+Nodding heads, so yes maybe that's the way to go too. Anyone else? Okay.
+And as always, Jon Nevett, thank you for all the efforts on this long, long
+process. All right, then moving on, next issue from Monday and Tuesday's
+session, issues, actions, things that come out. While this policy forum, this
+meeting B schedule has tried to minimize scheduling conflicts, necessarily
+some things happen at the same time, can't be in two places at once. Just
+wanted to spend a little time here, offer opportunity, anybody who's been in
+sessions, heard things that they just want to make sure that everybody's
+aware of, any real surprises or important developments? Kristina, thanks.
+
+Kristina Rosette: Neither -- Kristina Rosette, Amazon Registry -- neither surprise nor a
+definitive development. I guess the question is really for Jonathan Robinson.
+When I was sitting in the CWG on Auction Proceeds Drafting Team charter
+meeting, I think I've characterized that correctly, I kept having flashbacks of
+our last Registry Stakeholder Group call and Ken Stubbs' concerns about the
+outside fees and costs associated so far with the CCWG accountability.
+
+And to me, the auction proceeds effort I think has the potential to end up
+costing a lot in terms of outside counsel fees, costs, et cetera. Is that
+something that you all have discussed at all? Has there been any kind of
+thought about something that could be put into the charter or something?
+Because it would be really unfortunate if those outside costs ended eating up
+25% of the available proceeds.
+
+Jonathan Robinson: Thanks, Kristina. It's ringing a bell that we have done something. I can't - I
+can come back to the group even on list and let you know if there is
+something, but I take your point. I'm - it's actually not something that's
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 20
+
+concerning me particularly, not that I'm not concerned about the cost, but I - it
+doesn't feel to me like it's going to be an issue but I take your point. It is, you
+know, there's a big chunk of money there and it could very easily be that the
+structures could be argued to be set up in such a way that could incur quite
+significant costs. So I can see the concern, and it's useful to flag it.
+
+It could be something that could be captured in the charter and try to contain
+it. I was more concerned in some ways about this - the conflict of interest
+provisions and I was tempted to raise my hand and introduce that because
+that's really the, in a sense, the elephant in the room as far as that group's
+concerned. But you - and that's not to say your point isn't valid and possibly
+of equal concern, but that certainly bothers me as well, just to flag it with the
+group.
+
+I mean in essence, in the sort of - from my experience, most if not all working
+groups have - allow free participation providing you disclose your interests.
+There's quite a strong lobby with respect to the - or set of views with respect
+to the auction funds work that the conflict of interest provision should be
+substantial. And it's not substantial at the point of allocation of funds, it's
+substantial at the point of earlier up in the process. Because essentially the
+process, you've got the drafting team, the working group, and the ultimate
+mechanism for allocation of funds.
+
+And the push, with some good reason, is to move that conflict of interest
+provision much further up the chain. The concern of course is by putting that
+in place you exclude potentially many participants. And Jon Nevett made a
+very good point in the meeting yesterday about focusing in on the difference
+between direct and indirect conflicts. But nevertheless that's - there's quite a
+sort of nexus of discussion in and around that.
+
+So if anyone's interested in that or indeed has experience of that, it could be
+useful to have input at some point on that. But thanks, Kristina. It's a good
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 21
+
+point and I'll - I've got something specific I'll forward it to you and/or the
+group, and it's useful to flag it anyway.
+
+Paul Diaz:
+
+Thank you, Jonathan and Kristina. Maxim?
+
+Maxim Alzoba:
+
+Just a stupid question. At this stage it looks like hiring permanently a few
+good lawyers could cost - be less, even with pensions provided like by the
+(unintelligible). Because having another 50 million bucks paid to some offsite
+company, were there (unintelligible) or something?
+
+Paul Diaz:
+
+I'm not sure I have the answer, Maxim. Keith?
+
+Keith Drazek:
+
+Thanks, Paul. And I agree with the concern about the expenses, but in this
+particular case I mean I sort of expect that ICANN Legal will provide, you
+know, guidance and advice or input to this particular process. You know, the
+outside counsel for the accountability process was needed - or deemed
+necessary because of the potential conflict or challenge, you know, and the
+community feeling like it needed its own independent council. I think for the
+auction proceeds process, I think that concern will probably be a little bit less,
+at least I would hope so, especially with the new accountability mechanisms.
+So thanks.
+
+Paul Diaz:
+
+Thanks, Keith. Becky?
+
+Becky Burr:
+
+So I also totally understand the concerns about the outside council. Just bear
+in mind that for the purposes of the accountability review, there were some
+very, very particular specialized requirements that couldn't be met by sort of
+ordinary staff and it would probably have been inefficient. And also the
+accountability CCWG felt pretty strongly that we needed a counsel that was
+actually independent from ICANN, so. The same is not going to be the case
+when it comes to the auction proceeds. There's just different issues at stake
+there.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 22
+
+Paul Diaz:
+
+Jonathan?
+
+Jonathan Robinson: I suppose two. One for the general point more or less in response to
+Becky and others on that point. I mean I think the issue is less, to my mind,
+about the specialism and the independent and more about management. And
+I think there's some - my opinion is there's been some lessons learned about
+more effective management, and in fact there are already some processes
+put in place, as (Becky) and others will note. So I think that, you know, it's
+clearly the quantum of the cost of a per-hour basis and how that's managed,
+as well as the expertise and independence.
+
+I don't know at this stage whether - what will be required, but just to Kristina's
+point, there are a few mentions already in the charter about costs and cost
+control. But they, on quick review with your point in mind and our experience
+in mind, we could look at strengthening some of those.
+
+Paul Diaz:
+
+Thank you all. Other issues you want to raise from -- or Maxim, further?
+
+Maxim Alzoba:
+
+Yes just a small clarification. As I understand, those companies they charge
+almost three prices. So this amount of money spent it could be some
+negotiations or something. Because in the United States they have
+thousands of more companies. Why this particular company?
+
+Paul Diaz:
+
+I'm not sure how the selection process for the outside counsel was made.
+Again, certain expertise is needed so certain firms (unintelligible). Jonathan?
+
+Jonathan Robinson: I mean I was around at the selection process to some extent, and there
+was a pretty thorough check of expertise and it was done in conjunction with
+ICANN. I suppose one of the other issues took place -- and I don't really want
+to open up a can of worms or a debate on that -- but there were two firms
+selected. It may be that it was, with hindsight that wasn't necessary. I can't
+really comment on that. But that certainly would have contributed to costs.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 23
+
+Paul Diaz:
+
+Becky and then I have Jian and Jeff.
+
+Becky Burr:
+
+So there was a need for a very, very particular kind of legal expertise, which
+was California non-for-profit law. We couldn't have done that work, and there
+was one law firm that was brought in to do that. Then there was more general
+work that that firm which really does essentially nothing but non-profit law
+wasn't equipped to do.
+
+I do think that the interplay between the two firms was not as well managed
+as it could have been, but there was a vetting process. There was a pretty
+elaborate vetting process. Several law firms were looked at. They were
+interviewed. ICANN vetted them. Then the CCWG team looked at it as well.
+So it wasn't just - I mean I think Jonathan's absolutely right. There are clear
+lessons learned and there are clear controls being put into place.
+
+But it's easy for us to say, you know, it's a really big number. I think, you
+know, you have to look at sort of what the specialized expertise that was
+needed. We really could not have done the work without that. But could it
+have been managed better? Absolutely.
+
+Paul Diaz:
+
+Thank you, Becky. Jian?
+
+Jian Zhang:
+
+Jian Zhang from Knet. I actually have a question for Jeff Neuman. Last yesterday afternoon I was in the GAC. You were talking about the new gTLD
+subsequent procedure. It seemed to me that there was a strong preference to
+the brand, new gTLD and the geographic and new gTLD, but it seemed they
+didn't like the sensitive string. Is that correct? Or is that some individual
+members' ideas or GAC as a whole?
+
+Jeff Neuman:
+
+This is Jeff Neuman. I think there was some opinions expressed but I don't
+think that any of the opinions were any kind of consensus. I think it was just
+thoughts that were expressed. I was going to say on that session, you know,
+Jordyn Buchanan raised a comment that he's raised here several times about
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 24
+
+trying to move ahead more quickly on subsequent - well I guess Jordyn
+Buchanan would say an ongoing process, the continual process.
+
+I do think that if we are serious about that, we will need to as a group come
+up with our own plan, not just make those kinds of statements, but come up
+with a plan, pick out the things that we think do not need a policy process to
+move forward, and then actually propose the way forward on some of the
+implementation fixes.
+
+One example could be, if we think -- and I know there were some differing
+views at the GDD Summit -- but if we think accreditation of backend providers
+is a good idea, then we can actually, being the most knowledgeable in that
+subject, could draft that criteria and all of that kind of stuff. So it's just an
+example, but I think if we're serious about it, we need to actually take the
+steps ourselves and draft what needs to be drafted and not rely on ICANN
+staff to do that kind of thing.
+
+Paul Diaz:
+
+Thank you, Jeff. Jordyn Buchanan?
+
+Jordyn Buchanan: Yes thanks for raising that, Jeff. I was trying to figure out the right place in the
+agenda to talk about this. You know, I - just looking at the presentations
+yesterday, which in an hour and a half we didn't even have time to get
+through all of the work streams that the PDP is working on, it's just - I mean I
+think 2020 is a really optimistic date for a next round, just looking at the
+amount of - I mean just, even if we get the PDP done at the end of 2017
+seems impossible to me.
+
+And, you know, the years of implementation that are going to need to come
+on top of the level of policy changes that are envisioned by the current work
+streams just strikes me as, you know, this is like a decade-long process or
+something like that. And, you know, I started off thinking that there, you know,
+there's some things that happened as part of the last round that probably
+made sense to clean up. But at this point I'm just like it was good enough.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 25
+
+Like there's - we weren't happy with some things, other folks from the
+community weren't happy with some things, but none of it's so broken that it
+needs the amount of time and effort that it's going to take to really tack to
+relatively small changes and outcomes if we think about it.
+
+I think there's some things that can be done totally independently of the policy
+process about like how do we get - especially if we were in a continuous
+mode on a first come, first serve basis, how do we get communities to apply.
+That's really about encouraging communities to come in at that point as
+opposed to giving them a specialty contention mechanism. How do we get
+underserved regions to come in. You know, it's really about encouraging
+them and giving them incentives and dealing with price issues and so on. It
+doesn't need to be part of a policy process.
+
+And so I think just getting back into like just saying like, "Hey we've got a
+policy. We even have an implementation of it, let's go" strikes me as a much
+more likely path forward and much more likely to actually serve - like people
+were talking yesterday about how the community process didn't work. I
+agree, the community process didn't work. The waiting eight years before
+there's new TLDs isn't going to help any communities. It just means that they
+don't get TLDs forever instead of sometime soon.
+
+And so I totally agree with you, Jeff. We should take proactive, constructive
+steps. But I just think the process has gotten totally away from us, and I know
+that you've been working really hard to try to make it go as quickly as
+possible. But I just don't think with the amount of content that you guys are
+dealing with that there's any way to make it go at a reasonable pace just
+based on how ICANN works.
+
+Paul Diaz:
+
+Jeff?
+
+Jeff Neuman:
+
+Yes it certainly is a lot to tackle, but again to the extent that we can actually
+put pen to paper and draft things and then present them to - some of the
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 26
+
+things that have to go through the PDP, to present it to them and say, "Here's
+the strawman, let's go. Let's spend a week, attack it, two weeks attack it, fix it
+up, put it out for comment or whatever we have to do." I think we can speed it
+up tremendously.
+
+But to the extent that we just complain about it and, you know, and I'm not
+saying you're doing that, I'm just saying a lot of people at the GDD Summit
+are upset about the timeline but then that's three months ago and nobody's
+taking any steps to actually do something about it, or maybe it was only a
+month ago. It seems like three months ago.
+
+So I think if we take the proactive steps, draft the strawman, come up with
+things that we think don't need to go through the policy process, present
+fixes, even go and do things like change the actual wording in the guidebook
+as to what we would recommend, putting that in front of people tends to
+speed things along and actually gives the group something to look at tangible
+as opposed to throwing out these questions, which today is going to be
+another session of throwing out these overarching questions at 10:45 and
+then the next session after that we'll be diving into the work streams. But it's
+going to be a lot more of the same until we take some responsibility ourselves
+and do it.
+
+Paul Diaz:
+
+Jordyn Buchanan?
+
+Jordyn Buchanan: Yes so thanks, Jeff. I know I - that was a small part of what I said, and I totally
+agree we need to do that. I totally agree with you. I actually think it would be
+helpful to the extent people have time to try to get people that are interested
+in this path forward to just spend some time thinking about what that would
+like while we're here all together. And so I'm happy to try to drive that.
+
+So I'll send a note out to the list or something like that and we can see if we
+can choose a time when people have a little bit of space available on
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 27
+
+calendars to maybe spend an hour or two just sort of working through what
+that framework might look like.
+
+Paul Diaz:
+
+Go ahead, Jeff.
+
+Jeff Neuman:
+
+I think that's actually great. Sorry, Jeff Neuman. But I also think what worries
+me too are the CCT Review Team worries me too in the sense that when
+Jonathan Zuck's up there and he says, "We need to find out not just, you
+know, the problems that people did apply, we need to find out why people
+didn't apply at all. And so we need to get out there." That kind of stuff seems
+to me to be so like how do you find people and we'll spend lots of money and
+time trying to do this.
+
+We need to rein that in as well and make sure that - anyone who talks to
+Jonathan Zuck about the timeline of the CCT Review Team he says he
+doesn't believe personally that there's any chance of meeting that. And I've
+heard some of the discussions and I was on - I think you were in one group
+and then (Larine) -- is that her name? -- was in another group and she's
+going on about things that she wants to look at, which I think are very
+valuable, but I think a lot of those could take a substantial amount longer than
+the timeline that's in there. So how can we help you on that?
+
+Jordyn Buchanan: Yes thanks, Jeff. I actually think Jonathan - like I know he's - he's pessimistic
+about the current, the official schedule of getting done by the end of this year,
+but I think the published schedule which has us sort of wrapping up by next
+April, I think he's pretty committed to. And I think essentially what the CCT is
+going to do is just triage work out that can't be - like we're just going to say,
+"We can't get to these things that we can't do within that timeline."
+
+I think we could still make the case - I think this will be a harder case for us to
+make, but I think we could still make the case we don't even need the CCT to
+complete before we move on to new allocations. But in reality, if we're going
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 28
+
+to touch the guidebook at all, it's going to take about that amount of time
+anyway. And it could certainly be done in parallel.
+
+I think the only thing we're really waiting for from the CCT that's fundamental
+to whether we proceed or not is the cost benefit analysis as to whether the
+benefits of the program exceeded the cost. And I think probably the
+community is waiting to at least see the answer to that question before
+anyone's going to be willing to say like, "Yes let's do more of them."
+
+Paul Diaz:
+
+Jeff, can you remind me the questions that you, as one of the vice chairs, put
+forward for the group? Does it - do the questions give us a clear opportunity
+to weigh in with any input that Jordyn Buchanan and other interested parties
+may want to know? Or they - I think they were a little different. So how do you
+guys recommend whatever we come up with to try and move things forward
+more expeditiously? How best procedurally do we get that done?
+
+Jeff Neuman:
+
+So I think there's one set of questions that asks about how TLDs should
+move in the future, whether it should be rounds or something else. That
+provides a little bit of an avenue to make the sort of statement we want. But I
+do think it might be a supplemental - I think at the end there's this overarching
+question is there anything we missed or anything you want to add, and I think
+that's really the area where we hit home on some of these other points and
+saying that we as a Registry Stakeholder Group will volunteer to lead
+implementation efforts and to ensure that we do not go through the same
+thing of, you know, taking years to finalize the policy and then, only then
+starting to draft a new guidebook or whatever we end up calling up.
+
+That we believe there should be an ongoing process and as issues are
+resolved, they should - implementation on those issues should start right
+away, or at least the drafting of the implementation measures should start
+right away. So I think that's more kind of at the end in that last miscellaneous
+question.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 29
+
+Paul Diaz:
+
+Okay. Thank you. Anymore on this issue? Statton?
+
+Statton Hammock:
+
+Statton Hammock with Rightside. No I was just going to mention one
+
+other item under issues and actions, and we can table it for some other time if
+you want to if we want to talk to ICANN staff. But at the IPC-Registry
+Stakeholder Group meet up, we decided - the action item was to come up
+with a small task force of representatives from each group to sit and talk
+about interpretation or understanding around some of our obligations,
+particularly Section 3.a. And there was an arbitrary cap of seven
+representatives from each put forward. So I don't know if we want to do that
+now but - or on the list at some point, but I just tag it and flag it for discussion.
+
+Paul Diaz:
+
+Thank you, Statton. And you beat me to it. I was going to insert that. I will
+push to the list a call for volunteers. For anybody who couldn't be in
+yesterday's session, honestly, sorry, you missed a good one. It was a good
+debate and - but just an opening round. And one of the things that came out
+and actually helped refine the thinking rather than just keep going on and on
+about that particular issue -- it's an important one but I think there are more -both groups agreed to have a call for volunteers.
+
+We chose the number seven arbitrarily. But it's just to craft or create the list,
+what are the various issues that we want to discuss. Spec 11, 3.a, sure that's
+the first, but there's plenty more that's in there. That's what this group will do.
+So put a call out. A couple have already raised their hands, but we'll post it on
+the list for anybody who missed or hasn't thought or isn't with us today. And
+we'll look to convene a conference call on the second half of July to keep the
+ball rolling.
+
+And as we identify issues and get agreement around it, there will be a call
+subsequently for folks who want to participate in whatever that particular
+issue area is. And, you know, we'll kind of always feedback into the full group
+updates on what's going on, what's being said. An opportunity to engage
+more directly with IPC is probably a very good thing for our stakeholder
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 30
+
+group, given the relative important or weight that they have within the ICANN
+community, and very importantly the nature of the issues that they're raising
+with us. Pam?
+
+Pam Little:
+
+Pam Little from Zodiac. Just a thought. I understand, or I know, the IPC also
+met with Registrar Stakeholder Group and I was just wondering whether that
+discussion should happen between registry, registrar and IPC rather than
+they also have a subgroup talking about maybe some common issue, for
+example anti-abuse measures and all that. I think that might be more
+effective or efficient way to do it. Thanks.
+
+Paul Diaz:
+
+Agreed. Some of the issues definitely overlap. So let's identify the issues. I
+wouldn't be surprised if they had their own seven-member working groups.
+And then we'll compare the lists. Those that clearly benefit from a combined
+contracted parties, we will do that combined. There's no point in duplicating
+effort. Reg?
+
+Reg Levy:
+
+Thanks. I was in the Registrar IPC meeting as well and it was surprising to
+me that the issues that they brought up were not the ones that they brought
+up with us in terms of things relating to content, things relating to - it was just
+- there seems to be a complete disconnect about what they think we're in
+charge of and what they think the registrars are in charge of. So I think it
+would be really helpful for the registries and registrars to, if there is such a
+task force, have sort of a united front on this. Because I think we are united
+and it definitely feels like the IPC is not certain what's going on.
+
+Paul Diaz:
+
+Thank you, Reg. Okay so we will be coming back. Look for that call and since
+we have seven heads, that's what we agreed to, if we get more than that we'll
+figure out some way -- maybe somebody, you know, agrees to step aside -however many we have. Yes. If we get less, we get less. I mean let's wait
+and see what we get. And we do - we will coordinate certainly with the
+registrars, and administratively they are in the process.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 31
+
+Something I want to add, just a quick reminder, as far as elections go, the
+registrars are currently - have their annual elections underway. Michele's
+stepping down. He's term limited. Graeme Bunton is the presumptive next
+chair. He's running unopposed. There will be a change in leadership there.
+We have excellent relations with all those folks, so the registries and
+registrars will continue to work very well together.
+
+For ourselves, just a sort of tickler for people, this is an election year for us as
+well. So this fall the Chair, Vice Chair of Policy and both Donna and Keith as
+Councilors we're all up for election. We're all eligible to run again. What we'll
+be doing is shortly after the Labor Day holiday we'll issue the call for
+volunteers and secondings and all of that. We usually have our elections in
+early October and then the election results are announced at the end of the
+annual general meeting. If there's any change or those newly elected folks
+take their office then in India.
+
+So it's coming. I'm not going to go into any detail right now. Just be aware.
+Anybody who may be interested in running, I'm happy to talk about any of the
+positions, the qualifications, requirements, things like that. There will be more
+to come, but just kind of a tickler for folks. Jonathan?
+
+Jonathan Robinson: Paul, before you run those elections, I suggest we run a referendum as to
+whether or not we break away from ICANN.
+
+Paul Diaz:
+
+Who's got a good acronym? Brexit or ICANN exit?
+
+Cyrus Namazi:
+
+I think we should have ICANN run away from you.
+
+Paul Diaz:
+
+Don't they already? Jeff?
+
+Jeff Neuman:
+
+Yes I think just as a tickler as well we should probably start talking about to
+avoid the whole GNSO Council chair thing that happened the last time, we
+should probably prepare ourselves in advance to figure out what our going in
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 32
+
+position is and what we're going to do or if there's any discussions. I don't
+know, Donna, at the council level I know it's early it would still be good to
+avoid what happened the last time.
+
+Paul Diaz:
+
+Yes it may be a little early for that but a good point, Jeff. Let's avoid it if we
+can. It kind of dovetails what we have on the agenda, jumping - we've already
+talked about the budget. Please those of you who haven't voted, you know
+who you are, cast your fricking vote. Cherie?
+
+Cherie Stubbs:
+
+We're up to 30.
+
+Paul Diaz:
+
+Woo-hoo. Thank you to four of you this morning. The other issue for our
+councilors who are here, I know council's already had their sessions, but
+anything to share with the group? Anything that's come up this week or in
+your near term you want to raise before our next call on the 13th? I don't
+know if there's any issues? Donna?
+
+Donna Austin:
+
+Yes thanks, Paul. Donna Austin. Mason's still here. We had an interesting
+discussion with the board about the resolution of the outstanding stuff with
+the temporary reservations for Red Cross associated names, whatever, and
+also IGO acronyms. And there's a little bit of a misunderstanding of process I
+think. I get the sense that the board is trying to not put themselves in a
+position of rejecting GAC advice or rejecting PDP recommendations. So
+they're trying to a do a workaround, and that workaround is going around and
+around.
+
+Mason and I have actually well kind of butted in to some extent. Chris
+Disspain has had a kind of working group with IGOs for some period of time. I
+think it's been going on for about two years, and they're going to make
+tomorrow -- and Mason and I are going to join that conversation. We've had
+no visibility into that for two years, so.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 33
+
+I understand that Chris is trying to come up with something that might work or
+be reasonable for the IGOs but we don't have a sense of what that is. So
+Mason and I will be part of that conversation. But it still doesn’t really address
+the potential problem that we think they either have to - the board has to
+reject the GAC advice or reject the PDP recommendations. I don't know
+where the workaround comes in. So I think that's still something that has to
+be sorted through. Chuck, you might have - I know you had some discussion
+about that with Whois yesterday. You might have some insight into that.
+Thanks.
+
+Paul Diaz:
+
+Please, Chuck. And then Jeff.
+
+Chuck Gomes:
+
+Yes I was disturbed listening to that session with the board, as you know. It's
+really pretty simple. The - except that the board's not taken advantage of the
+simplicity. And I think everybody on the GNSO Council recognizes this. The
+board's not a policy development body, neither is the GNSO Council. So the
+board has either to accept or reject or to send it back to the council. And the
+council can send it back to the working group. Now this is a really old working
+group. It's one that I was on in fact. But that's really the options if there are
+significant changes being made to the recommendations.
+
+And I think, and it's not my place to tell the board this, but the council may
+want to communicate this, it seems to me as long - that the GAC's
+expectations are that the board can overrule policy and accommodate their what they want. And if they would set the record straight on that that they
+don't develop policy, it'd be a lot easier for them. So anyway, I know you
+understand that so I'm talking to the choir. But until the GAC's expectations
+are changed, they're going to keep having this problem and will have it with
+the proxy privacy issues, which is coming up now as well.
+
+Paul Diaz:
+
+Thank you, Chuck. Jeff and we've got like two minutes folks.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 34
+
+Jeff Neuman:
+
+Sorry. So Jeff Neuman. We need to just tell the board to vote. I know that
+Chris Disspain basically his view is well you don't want us to reject the
+GNSO, and actually I do. Because then there are certain things that get
+triggered. I do think that in fact the bylaws do prescribe a timeframe in which
+they're supposed to vote, and they've totally ignored those. They have to vote
+both on the GAC advice and ours, and we should make a clear statement to
+the board that we are not afraid of how you come out of it.
+
+We have our own accountability measures to deal with that if you vote the
+GNSO down. But there is some view that the board keeps saying, and I've
+heard it from several, "Well you don't want us to vote it down." Actually I do. I
+want you to vote, and they don't want to vote. They don’t want to create the
+controversy.
+
+Donna Austin:
+
+Yes thanks, Jeff. I agree. I think what they're trying to do is make a nondecision and put it on somebody else. But that's just not an option. I would
+actually think in this case that if the GAC advice is inconsistent with the
+GNSO recommendations, the board is actually in a pretty solid position to
+reject that GAC advice and go with the PDP recommendations. But, you
+know, they don't want to trigger that process because it would take too long
+to get through it. But we're two years down the road now.
+
+Paul Diaz:
+
+Okay all.
+
+Jeff Neuman:
+
+Sorry, Jeff Neuman. Just to quote, the bylaws say, "The board will meet to
+discuss the recommendation as soon as feasible, preferably not later than the
+second meeting after receipt of the board report." And then it talks about the
+vote. So we're at how many years after now?
+
+Paul Diaz:
+
+Understood. Kristina, a quick thought?
+
+Kristina Rosette: Just following up on this, I realize we're way beyond the possibility of a
+GNSO Council motion on this, but it would seem to me that it might worth
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/11:33 pm CT
+Confirmation # 8995666
+Page 35
+
+teeing up for the next council meeting, you know, perhaps a motion by the
+council calling on the board to act expeditiously and referring both them and
+GAC to the relevant provision of the bylaw. I mean, you know, the other
+solution is you just make a copy of the PDP section of the bylaws and put it
+on the chair of every GAC member, but I don't think that's going to get your
+very far.
+
+Donna Austin:
+
+I think from a council perspective, we have some follow up as a result of the
+discussion we had with the board and we're - I think we're going to draft a
+letter to send it back and say, "These are your options." And this is our
+process. We can't do a workaround, so. I think that's the intent.
+
+Paul Diaz:
+
+Okay. Thank you all. There's another meeting that will be setting up so we
+have to end this session today. We had a very full agenda. You'll note GDD
+staff's with us. We didn't have a direct exchange because of our full agenda.
+We're on a regular schedule so our next biweekly call will be on the 13th, so
+two weeks from now. Issues that folks wanted to raise with staff, I'd ask
+please get them into us. We'd like provide staff a head's up of what those
+items may be a week in advance. So a week from today, anything you want
+to raise on the next call on the 13th.
+
+With that, thank you for coming out early and good session. We'll see you all
+around.
+
+Cherie Stubbs:
+
+For those who did come into the room late, there is - there's a fair amount of
+food left so if you want to grab a snack on the way out feel free. And we can
+stop the recording now, please. Thank you everyone.
+
+END
+
+

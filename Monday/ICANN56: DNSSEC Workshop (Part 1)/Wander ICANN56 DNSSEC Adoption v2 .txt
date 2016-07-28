@@ -1,0 +1,1328 @@
+Measurement Survey of
+
+Server-Side DNSSEC Adoption
+Matthäus Wander
+<matthaeus.wander@uni-due.de>
+
+ICANN 56
+
+Helsinki, June 27, 2016
+Version: 2016-06-22
+
+Outline
+1. DNSSEC signing at top-level domains
+2. Quantification of all signed second-level
+domains (5.1 million)
+3. Analysis of 3.4 million signed second-level
+domains
+∙ Datasets acquired in February/March 2015
+∘
+
+Partial update on signing algorithms from June 2016
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+2
+
+TOP-LEVEL DOMAINS
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+3
+
+Signed Top-Level Domains
+root.zone
+
+query
+
+∙ Method:
+
+Measurement Host
+
+TLD
+zone
+TLD Server
+
+∘ Download and parse IANA root zone file daily
+∘ Probe TLD servers daily for various records
+∘ 22-month observation from Apr 2013 to Feb 2015
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+4
+
+Timeline
+October 2013:
+IANA removes 11
+IDN test TLDs and
+begins new gTLD
+deployment
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+5
+
+Public Keys
+∙ 647 TLDs (100%) use RSA as signing algorithm
+∘ All with separate KSK/ZSK
+ZSK
+
+KSK
+Key Length
+Most frequent:
+2048-bit KSK
+
+Count
+
+1024
+
+1
+
+1280
+
+4
+
+2048
+
+772
+
+2056
+
+1
+
+4096
+
+5
+
+Feb 2015
+
+Key Length
+
+Count
+
+1024
+
+594
+
+1032
+
+1
+
+1048
+
+2
+
+1152
+
+3
+
+1280
+
+225
+
+2048
+Feb 2015
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+32
+
+Most frequent:
+1024-bit ZSK
+
+ARI Registry
+Services uses
+1280-bit ZSK
+for new gTLDs
+
+Matthäus Wander
+
+6
+
+Key Rollover Intervals
+94 TLDs signed for the whole period
+
+55% did not
+replace KSK
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+7
+
+Key Rollover Intervals
+94 TLDs signed for the whole period
+
+55% did not
+replace KSK
+
+553 newly signed TLDs
+
+55% did not
+replace ZSK
+92% did not
+replace KSK
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+8
+
+RSA Public Exponent
+∙ Choice of e determines verification performance
+∘ Guideline: small value, low hamming weight
+KSK
+Exponent
+
+e.g. by
+Verisign
+
+ZSK
+Count
+
+Exponent
+
+Count
+
+3
+
+15
+
+3
+
+15
+
+216 + 1
+
+762
+
+216 + 1
+
+834
+
+232 + 1
+
+6
+
+232 + 1
+
+8
+
+Feb 2015
+
+Most frequent:
+e=65,537
+
+Feb 2015
+
+∙ Above choices are fine (safe and fast)
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+9
+
+QUANTIFICATION OF
+SIGNED SECOND-LEVEL DOMAINS
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+10
+
+DNSSEC at Second-Level Domains
+query
+
+∙ Method:
+
+Measurement Host
+
+TLD
+zone
+
+TLD Server
+
+∘ Perform NSEC & NSEC3 zone enumeration on all TLDs
+
+∘ Includes 26 SLDs like com.br, co.kr, com.tw, co.uk
+∘ NSEC: ldns-walk [http://www.nlnetlabs.nl/projects/ldns/]
+∘ NSEC3: nsec3breaker [http://dnssec.vs.uni-due.de/nsec3]
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+11
+
+Zone Enumeration Results
+∙ Duration: about 3-4 days in March 2015
+∙ 107 TLDs with NSEC: 7.99 million names
+
+∙ 540 TLDs with NSEC3: 7.49 million hash values
+∘ Most TLDs use opt-out, thus fewer NSEC3 records
+
+∘ CPU fast enough to retrieve most NSEC3 hash values
+∘ Switched to GPU to close the last few gaps (~100) for
+large zones ⇨ yields complete NSEC3 chain
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+12
+
+TLDs with most Secure Delegations
+TLD
+
+NSEC(3)
+
+DS
+
+Address
+
+Empty
+
+Other
+
+1.
+
+nl
+
+NSEC3, opt-out, i=5
+
+2,279,702
+
+5
+
+1
+
+1
+
+2.
+
+br
+
+subject to subdomain
+
+566,694
+
+0
+
+0
+
+34,625
+
+3.
+
+cz
+
+NSEC3, i=10
+
+448,984
+
+0
+
+0
+
+717,267
+
+4.
+
+com
+
+NSEC3, opt-out, i=0
+
+426,182
+
+0
+
+0
+
+1
+
+5.
+
+se
+
+NSEC
+
+349,514
+
+9
+
+0
+
+940,946
+
+6.
+
+eu
+
+NSEC3, opt-out, i=1
+
+320,311
+
+7
+
+1
+
+1
+
+7.
+
+fr
+
+NSEC3, opt-out, i=1
+
+205,662
+
+0
+
+6
+
+3
+
+8.
+
+no
+
+NSEC3, opt-out, i=5
+
+119,759
+
+4
+
+2
+
+2
+
+9.
+
+be
+
+NSEC3, opt-out, i=5
+
+92,385
+
+0
+
+1
+
+2
+
+NSEC3, opt-out, i=0
+
+81,391
+
+0
+
+0
+
+1
+
+10. net
+
+[637 others omitted]
+Total:
+
+Universität 5,146,705
+Duisburg-Essen
+926,279 Matthäus
+131,610
+Wander9,272,94413
+Verteilte Systeme
+
+TLDs with most Secure Delegations
+TLD
+
+NSEC(3)
+
+DS
+
+Address
+
+Empty
+
+Other
+
+1.
+
+nl
+
+NSEC3, opt-out, i=5
+
+2,279,702
+
+5
+
+1
+
+1
+
+2.
+
+br
+
+subject to subdomain
+
+566,694
+
+0
+
+0
+
+34,625
+
+3.
+
+cz
+
+NSEC3, i=10
+
+448,984
+
+0
+
+0
+
+717,267
+
+4.
+
+com
+
+NSEC3, opt-out, i=0
+
+426,182
+
+0
+
+0
+
+1
+
+5.
+
+se
+
+NSEC
+
+349,514
+
+9
+
+0
+
+940,946
+
+6.
+
+eu
+
+NSEC3, opt-out, i=1
+
+320,311
+
+7
+
+1
+
+1
+
+7.
+
+fr
+
+0
+
+8.
+
+no
+
+NSEC3, opt-out,
+205,662(plus a
+A ori=1
+AAAA records
+few CNAME
+or119,759
+MX records)
+NSEC3, opt-out,
+i=5
+
+2
+
+2
+
+9.
+
+be
+
+NSEC3, opt-out, i=5
+
+0Empty non-1
+0 terminals 0
+
+2
+
+Total number
+of securely
+10. net
+NSEC3, opt-out,
+i=0
+
+delegated registered domains
+Total:
+
+92,385
+81,391
+
+4
+
+Insecure delegations or
+6
+3
+other records
+
+1
+
+[637 others omitted]
+
+Universität 5,146,705
+Duisburg-Essen
+926,279 Matthäus
+131,610
+Wander9,272,94414
+Verteilte Systeme
+
+Address Records
+TLD
+
+NSEC(3)
+
+DS
+
+Address
+
+Empty
+
+Other
+
+11. org
+
+NSEC3, opt-out, i=1
+
+46,382
+
+10,737
+
+4,976
+
+448
+
+12. ovh
+
+NSEC3, opt-out, i=1
+
+29,372
+
+0
+
+0
+
+1
+
+13. nu
+
+NSEC3, i=5
+
+21,126
+
+0
+
+0
+
+235,308
+
+14. de
+
+NSEC3, opt-out, i=15
+
+20,004
+
+185,107
+
+89,689
+
+2
+
+15. pl
+
+NSEC3, opt-out, i=12
+
+18,110
+
+7
+
+0
+
+1
+
+∙ Some TLDs allow to put addresses directly into
+the TLD zone instead of delegations
+∘ Causes empty non-terminals when e.g. record for
+www.example.de exists but example.de is empty
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+15
+
+Dangling Glue Records
+TLD
+
+NSEC(3)
+
+DS
+
+Address
+
+Empty
+
+Other
+
+11. org
+
+NSEC3, opt-out, i=1
+
+46,382
+
+10,737
+
+4,976
+
+448
+
+12. ovh
+
+NSEC3, opt-out, i=1
+
+29,372
+
+0
+
+0
+
+1
+
+13. nu
+
+NSEC3, i=5
+
+21,126
+
+0
+
+0
+
+235,308
+
+14. de
+
+NSEC3, opt-out, i=15
+
+20,004
+
+185,107
+
+89,689
+
+2
+
+15. pl
+
+NSEC3, opt-out, i=12
+
+18,110
+
+7
+
+0
+
+1
+
+∙ Some TLDs do not enforce removal of glue
+records after a delegation has been removed
+∘ Former glue record like ns1.example.org becomes
+authoritative and causes empty non-terminal
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+16
+
+ANALYSIS OF
+SIGNED SECOND-LEVEL DOMAINS
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+17
+
+Algorithms and Keys at Second-Level Domains
+SLD
+zone
+
+query
+
+GPU Worker
+
+Measurement Host
+
+SLD Server
+
+∙ Method:
+∘ Break NSEC3 hash values with nsec3breaker
+∘ Query for DS and DNSKEY records for known secondlevel domains
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+18
+
+NSEC3 Hash Breaking
+∙ NSEC3: 7.49 million hash values from 540 TLDs
+∘ 4.65 million (62%) broken after 3 weeks of computing
+
+∘ 4 graphic cards
+∘ 22 CPU cores
+
+(AMD HD 7970, AMD HD 6970, 2x NVIDIA GTX 690)
+
+(contribute 2% of total computing power)
+Method
+
+NSEC3 attack details: [https://www.vs.unidue.de/paper/2014_Wander_NSEC3.pdf]
+
+Names tested Names found
+
+Brute-force
+
+5.2  1014
+
+1,353,657
+
+Dictionary
+
+3.2  1014
+
+3,198,966
+
+Markov
+
+1.1  1013
+
+96,817
+
+Total
+
+8.4  1014
+
+4,649,424
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+19
+
+Signing Algorithms and Public Keys
+∙ 3.4 million domains with DS (67% out of 5.1M)
+∘ 89% of them appear to use a KSK/ZSK scheme
+Algorithm
+
+Zero RSA/MD5
+Few DSA keys
+
+RSA/MD5
+
+Key SEP=1 Key SEP=0
+0
+
+0
+
+DSA/SHA-1
+
+2,176
+
+2,279
+
+RSA/SHA-1
+
+1,550,859
+
+1,848,283
+
+RSA/SHA-256
+
+1,875,294
+
+2,785,784
+
+RSA/SHA-512
+
+1,220
+
+1,158
+
+GOST R 34.10-2001
+
+30
+
+30
+
+ECDSA P-256/SHA-256
+
+27
+
+25
+
+ECDSA P-384/SHA-384
+
+21
+
+17
+
+3,429,630
+
+4,637,576
+
+Total
+
+Most frequent:
+RSA (>99%)
+ECDSA rarely
+(in 2015)
+
+Universität Duisburg-Essen
+March 2015 Matthäus Wander
+Verteilte Systeme
+
+20
+
+Signing Algorithms and Public Keys (2016)
+∙ 2.6 out of the 3.4 million domains still there
+∘ Some domains have ceased to exist in the meantime
+Algorithm
+RSA/MD5
+
+Key SEP=1 Key SEP=0
+
+Key SEP=1 Key SEP=0
+
+0
+
+0
+
+0
+
+0
+
+DSA/SHA-1
+
+2,176
+
+2,279
+
+1,256
+
+1,289
+
+RSA/SHA-1
+
+1,550,859
+
+1,848,283
+
+1,057,868
+
+1,365,548
+
+RSA/SHA-256
+
+1,875,294
+
+2,785,784
+
+1,442,347
+
+2,131,923
+
+RSA/SHA-512
+
+1,220
+
+1,158
+
+26,285
+
+51,409
+
+GOST R 34.10-2001
+
+30
+
+30
+
+34
+
+34
+
+ECDSA P-256/SHA-256
+
+27
+
+25
+
+707
+
+551
+
+ECDSA P-384/SHA-384
+
+21
+
+17
+
+44
+
+36
+
+3,429,630
+
+4,637,576
+
+2,528,542
+
+3,550,790
+
+Total
+
+DSA declining
+Most frequent:
+RSA (>99%)
+
+Universität Duisburg-Essen
+Matthäus Wander
+June 2016
+March
+2015
+Verteilte
+Systeme
+
+ECDSA
+growing
+21
+
+RSA Key Lengths
+∙ 0.4% of domains have an insufficient key length
+Key Length
+
+Insecure
+
+Most frequent:
+2048-bit KSK
+
+Key SEP=1 Key SEP=0
+
+512
+
+8,704
+
+14,416
+
+1024
+
+724,324
+
+4,333,715
+
+1280
+
+878
+
+214,944
+
+1536
+
+154,748
+
+123
+
+2048
+
+2,454,645
+
+64,947
+
+4096
+
+83,602
+
+5,142
+
+Other
+
+472
+
+925
+
+Total
+
+3,427,373
+
+4,635,221
+
+March 2015
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Most frequent:
+1024-bit ZSK
+
+2016 shifts slightly to
+longer keys but no
+major change yet
+
+Matthäus Wander
+
+22
+
+RSA Public Exponent
+Exponent
+
+Most frequent:
+e=65,537
+
+Key SEP=1 Key SEP=0
+
+3
+
+202
+
+252
+
+65,337
+
+26
+
+60
+
+65,535
+
+124
+
+288
+
+216 + 1
+
+3,421,138
+
+4,629,425
+
+230 + 3
+
+38
+
+51
+
+232 + 1
+
+5,845
+
+5,145
+
+3,427,373
+
+4,635,221
+
+Total
+
+Not 216 + 1 
+
+March 2015
+
+∙ Some strange values for e occur: probably typos
+∘ Not a problem if basic RSA properties are met:
+e must be coprime with (n)
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+23
+
+DSA Key Lengths
+∙ DSA keys in DNSSEC are specified for group
+sizes up to 1024 bit
+∘ Note: a 1024-bit DSA key is about 3x larger in wire
+format than a 1024-bit RSA key
+Key Length
+
+Most frequent:
+1024-bit KSK
+
+Key SEP=1 Key SEP=0
+
+512
+
+3
+
+5
+
+768
+
+2
+
+3
+
+1024
+
+2,173
+
+2,271
+
+Total
+
+2,178
+
+2,279
+
+Most frequent:
+1024-bit ZSK
+
+March 2015
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+24
+
+Validation Result
+∙ All 3.4 million domains ought to be signed
+∘ 0.6% (2015) respectively 1.3% (2016) fail validation
+Validation Result
+
+Most frequent error:
+DNSKEY response
+contains no key
+
+No DNSKEY (dangling DS)
+No trusted DNSKEY (dangling DS)
+No RRSIG for trusted DNSKEY
+Signature expired
+Signature verify failure
+Validation failure
+Validation success
+
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Domains
+
+Domains
+
+17,751
+
+31,642
+
+1,066
+
+1,278
+
+238
+
+153
+
+2,138
+
+668
+
+5
+
+5
+
+21,198
+
+33,746
+
+3,416,700
+
+2,520,610
+
+March 2015
+
+June 2016
+
+Matthäus Wander
+
+25
+
+Recommendations
+∙ Deprecate DSA
+∘ Large DNSKEY records, insufficient key length
+
+∙ If using RSA, use keys with ≥2048 bits
+∘ If stuck with 1024 bit, replace them every few weeks
+
+∙ Consider using ECDSA with 256-bit keys
+∙ Consider using a combined signing key unless
+KSK/ZSK are stored at separate places
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+26
+
+Conclusions
+∙ More than 5 million domains use DNSSEC
+∘ Around 1% of signed domains show validation errors
+
+∙ RSA is the dominant signing algorithm
+∘ A few domains switched to ECDSA
+
+∙ Future work: how many newly signed domains
+use elliptic curve cryptosystems?
+Universität Duisburg-Essen
+Verteilte Systeme
+
+Matthäus Wander
+
+27
+
+

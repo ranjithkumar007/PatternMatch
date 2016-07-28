@@ -1,0 +1,1149 @@
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+HELSINKI – GAC Meeting with the SSAC
+Thursday, June 30, 2016 – 10:00 to 10:30 EEST
+ICANN56 | Helsinki, Finland
+
+CHAIR SCHNEIDER:
+
+Hi.
+Yeah. I think we can start right away. Please introduce yourself
+for a second because not everybody may know you. We have
+got a number of new members.
+
+PATRIK FALTSTROM:
+
+Thank you very much. I'm Patrik Faltstrom. I'm chair of the
+Security and Stability Advisory Committee here at ICANN. SSAC
+is just like GAC, an advisory committee, which gives
+recommendations to ICANN board, the community as a whole.
+And hopefully people listen to our advice.
+[ Laughter ]
+So to some degree we have similar discussions like you, like why
+do people not listen. Luckily enough, we have been able to write
+advice that has been of obviously such high quality and clarity
+so people actually have listened to us.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+EN
+
+HELSINKI – GAC Meeting with the SSAC
+
+We do have, though, a couple of occasions where, for example,
+ICANN board has chosen different directions. But we are one
+advisory committee just like you, so there's no difference there.
+I have with me, Jim Galvin, vice chair of SSAC, and then two
+other SSAC members here at the table, Danny McPherson and
+Merike Kaeo. There are also lots of other SSAC members here in
+the room to help answer questions when we go into the
+question-and-answer section.
+Regarding three different topics from you before this meeting
+that were topic areas that you asked to have some discussion
+about, but I do understand that there might be some other
+issues first that you would like to bring up, Thomas.
+
+CHAIR SCHNEIDER:
+
+Actually, there are some discussions in the corridors during this
+meeting where an issue came up. There has an issue some time
+ago which is the issue of dotless domains.
+
+These are the
+
+domains that don't have dots, if I get this technical detail right.
+That means they are dotless.
+[ Laughter ]
+
+PATRIK FALTSTROM:
+
+Page 2 of 35
+
+Close enough.
+
+HELSINKI – GAC Meeting with the SSAC
+
+CHAIR SCHNEIDER:
+
+EN
+
+I hope that was clear.
+[ Laughter ]
+Maybe we can put an example of a dotless domain on the screen
+so that you all see how this looks like when there are no dots.
+And there was previous advice from the SSAC about the risks
+related to using them and so on. And the GAC also had opinions
+expressed on this some years ago.
+And now it seems that there is a change in the place where this
+issue is mentioned in the RAA, and that causes some questions.
+And since we have the chance to actually have the experts here, I
+felt it may be good for the GAC to hear from you what you think
+is new now and what you could explain to us GAC members what
+do you think that this means or why this is okay or should not be
+done or what about dotless domains.
+
+PATRIK FALTSTROM:
+
+Okay. Purely mathematical view, of course, correct, a dotless
+domain is a domain that don't have any dots. That's how I
+understood the English language as well.
+But let me be a little bit more specific what this is about. If it is
+the case that you send email, for example, to me, you send the
+
+Page 3 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+email to paf -- which is the username -- @netnod.se. And
+between Netnod and Se, there is a dot. If you want to go to the
+Netnod home page, you go to http://www netnod.se/. There are
+two dots in that domain name.
+What we are here to talk about is a question whether it should
+be allowed, or possible, to use either a URL, which I just gave an
+example for Web page in http (indiscernible) or an email address
+where you don't have any dots. So, for example, whether it
+should be possible to send email to paf@se or go to the Web
+page, http://se/.
+This is something we investigated in SSAC. And we released a
+report, Number 53, that we released in 2012. And we went
+through both the current implementations of software which
+both involves the actual application software itself and the DNS
+software that is trying to resolve those domain names that do
+not have any dots.
+We also looked at the various protocol specifications from the
+Internet Engineering Task Force. And we came to the conclusion
+that any kind of use of dotless domains have unexpected
+consequences, everything from errors, the ability of phishing,
+stability issues, to end users just simply be confused. So our
+report quite strongly is saying that -- or very strongly say don't
+go there.
+
+Page 4 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+ICANN board in 2013, in August, resolved that based on security
+and stability risks identified in SAC053 and a few other things,
+the Internet Architecture Board also said don't go there.
+The NGPC affirms that the use of dotless domains is prohibited.
+So ICANN board in 2013 drawed that conclusion.
+What has happened -- that was then added in sort of an
+appendix to the RAA that -- sorry, it's in the RAA that dotless
+domains is not allowed for registries.
+It is, though, the case that any registry can ask for an RSEP
+process to have changes made in their agreement. And it is
+actually mentioned in an appendix to the old RAA that dotless
+domains is one of those restrictions that you might ask an RSEP
+process for. So there's some text there.
+What has happened lately which triggered the discussion is that
+in a new proposed RAA, which is up for open consultation, up
+until July 13, that text is moved into the main contract and the
+text that RSEP process can be confused now explicitly is within
+the box which says dotless domain is prohibited. And that made
+people scared because it's sort of more directly says this is
+something that is prohibited but, by the way, you can use an
+RSEP process to request this prohibition to be removed in this
+specific contractual agreement between these two specific
+parties.
+
+Page 5 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+That scared people quite loudly, including us at SSAC because
+the text was moot. It was red lined, so all alarm clocks went off,
+of course. But then we saw that the text was moot.
+That said, we went back in SSAC this week, investigated whether
+-- because it was a couple of years ago, is there any reason for
+SSAC to change our mind? Let me be 100% clear. There is
+absolutely no reason and there is in no way SSAC is changing
+their mind on the fact that dotless domains is something that
+should not be used at all. We will respond during the open
+comment period. We don't have our written response ready yet.
+Still -- well, you know how it is to produce text that is submitted.
+It takes a little while anyways to get the right wording there. But
+you will see a response end of next week I hope, and that's
+basically it. So we have revisited it, and we stand firm in our
+view of dotless domain not being something that should be
+used. Thank you. I hope that is clear enough. No!
+
+CHAIR SCHNEIDER:
+
+Is it clear?
+[ Laughter ]
+
+PATRIK FALTSTROM:
+
+Page 6 of 35
+
+Any questions?
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+CHAIR SCHNEIDER:
+
+Questions or comments, please. Yes, we have a request from --
+
+JOHN LEVINE:
+
+John Levine, another SSAC member. A few years ago Paul
+Hoffman and I did an investigation to see what dotless domains
+actually exist. And it turns out there is about -- there are about a
+dozen ccTLDs that, in fact, publish dotless data. And we did an
+investigation of that to see does it actually work. I mean, for
+example, the dot -- the DK top-level domain for Denmark
+publishes dotless records that, in principle, would allow you to
+find the DK registry. In fact, if you type http://dk/ into your
+browser, it doesn't work. You can usually make it work by
+putting a dot in but, of course, then it's not dotless anymore.
+So to emphasize what Patrik has said, in fact, we have in
+practice a live experiment for over a decade to see whether
+dotless domains work. And, in fact, practice shows they don't. I
+mean, even when the DNS records are present, it doesn't work in
+a browser and we did similar experiments with email. There's a
+variety of domain that is publish dotless records that in principle
+would make email work but, in practice, none of it does.
+So for both the reasons of principle that Patrik outlined and just
+in practice having seen what happened, we've had a decade for
+
+Page 7 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+software vendors and authors to make dotless domains work if
+they had any interest in them. They have not done so. There is
+no reason to believe they will ever do so in the future.
+So both for reasons of principle and reasons of practice, it -they're a bad idea. And whatever function they're supposed to
+provide, there's other ways -- other better ways to do it.
+
+PATRIK FALTSTROM:
+
+Okay. We got -- yes, please.
+
+IRAN:
+
+Just for some people like me, who has asked for that? And why
+has it been asked for? Thank you.
+
+PATRIK FALTSTROM:
+
+No one has, but there are -- there are, of course, various
+companies, entities, individuals. Of course, I think it would be
+kind of cool to have the top-level domain "Patrik" and be able to
+send mail to me at Patrik, that would be interesting. Or a Web
+page Patrik. So everyone who types in Patrik, if it worked, which
+it doesn't, in that case, and have advertisement on that or
+something. It's kind of cool to have a shorter domain name.
+Danny. Please.
+
+Page 8 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+DANNY McPHERSON:
+
+EN
+
+One correction actually. During the initial gTLD application
+phase, Charleston Road Registry did ask for dotless domain for
+.SEARCH. I'm not sure they withdrew it, but that's what led to a
+lot of the follow-on work where everyone said it was a terrible
+idea.
+And one of the reasons is because, in effect, it allows you to
+control a word on the Internet because all the applications are
+basic and not know what to do and they are going to have to
+default to the DNS.
+And then if they default to the DNS, then you would, in effect,
+have control of a word on the Internet. And that's a really bad
+idea, so... And -- along with a lot of other technical reasons that
+are in the documents that we published.
+
+PATRIK FALTSTROM:
+
+Thank you, Danny, for having better memory than myself. Okay.
+You see on the screen three different topics.
+
+CHAIR SCHNEIDER:
+
+One second. There is a question whether we as GAC would want
+to reflect something about this or concerns that we've heard
+and so on in the communique or not. So this is -- if you have
+further questions, I would just like to give them one more minute
+because it's -- as we care about security and stability of the
+
+Page 9 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+Internet, it's one of the main probably priorities for all our
+governments and all our citizens. I think this is something that
+we shouldn't underestimate.
+So I see Kavouss has another question or comment.
+
+IRAN:
+
+Not another question. On what you asked, you said is there a
+need that GAC reflect on that or not. Did you ask this question,
+Thomas, from us? That we also support this or not?
+
+CHAIR SCHNEIDER:
+
+The question is: Do we want to signal in our communication -i.e., in the communique -- that we've heard about this and then
+our position that we have? For instance, this is something that
+we could say, "Our position on dotless domains that we had in
+the past has not changed, i.e., that we still think that this is not
+something that should be allowed."
+So that is something that we could think about. Adding a
+sentence or two in the communique. Which is basically the
+same logic that the SSAC is applying. They refer to their past
+recommendations and say there's no reason to change their
+past recommendation and just to restate their position. This is
+something that we could do as well.
+
+Page 10 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+Yes, Iran.
+
+IRAN:
+
+Yes, I think it is necessary that we reaffirm or confirm or
+reconfirm our previous position and also saying it after hearing
+today's and we have this position.
+I think it is necessary, if colleagues agree with that. Thank you.
+
+CHAIR SCHNEIDER:
+
+Canada?
+
+NEW ZEALAND:
+
+Thank you. New Zealand, actually.
+[ Laughter ]
+
+NEW ZEALAND:
+
+I just want to check. Has the GAC issued advice on dotless
+domains before? This seems to be quite a technical area for us
+to be involved in. Thank you.
+
+CHAIR SCHNEIDER:
+
+Page 11 of 35
+
+We did, didn't we?
+
+HELSINKI – GAC Meeting with the SSAC
+
+DANNY McPHERSON:
+
+EN
+
+Yeah. In the Durban communique, you did provide some advice
+and you simply reaffirmed and reaffirmed -- to your point -- that
+it was a bad idea, and so if -- you know, if it may need to be
+enforced again, I certainly defer to the GAC on that, but you
+should check the Durban communique for that information.
+
+CHAIR SCHNEIDER:
+
+So Durban was June or July 2013, if I'm not mistaken, so we can
+actually have a look at -- or maybe Tom or somebody can find
+that section in the communique and we can have a look at what
+exactly we wrote there.
+Thank you, New Zealand.
+European Commission?
+
+EUROPEAN COMMISSION:
+
+Yeah. Thanks, and -- to Patrik and all the team.
+Just a clarification. If we put this in the communique, I'm
+presuming this is not in the advice section but in the information
+section, which says we had a report from SSAC and we reviewed
+this issue and we reiterated our previous position on it, rather
+than new advice.
+
+Page 12 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+CHAIR SCHNEIDER:
+
+EN
+
+Well, we can discuss where we put this while we work on the
+communique, but the question is not that we should have an
+agreement or whether or not we would like to have something.
+I see Sweden. Thank you.
+
+SWEDEN:
+
+Thank you, Chair. Hi, Patrik. I hate to be the one that goes
+against Patrik or goes against the GAC, but I'm just wondering:
+What would be the reason for us to include this in the
+communique? I mean, is there a particular reason that implores
+us to react or -- because if there isn't, there's a lot of old advice
+that we still stand by. Thanks.
+
+PATRIK FALTSTROM:
+
+Let me -- while Thomas is thinking about the answer, let me
+respond, answer.
+Let me explain why SSAC will say something, even though we
+said so before.
+We will respond and say we have not changed our mind because
+we have been explicitly asked. So that was the trigger for us. We
+were asked, "What is the SSAC's view? Has your view changed?"
+
+Page 13 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+CHAIR SCHNEIDER:
+
+EN
+
+Thank you. Well, you're right, we are not -- not always repeating
+advice. The thing is that since this issue has come up here on a
+quite an urgent -- in an urgent -- in a feeling of urgency, let's put
+it that way, we may just say that this is still referred to the
+Durban advice.
+Actually, Tom can -- his computer is faster than mine. He has a
+private sector computer, I have a government computer, so
+mine is not there yet, so please, Tom, if you can read out the
+short text of the Durban communique.
+Thank you.
+
+TOM DALE:
+
+Thank you, Thomas.
+The GAC's Durban communique advises the board to, as a
+matter of urgency, consider the recommendations contained in
+the SSAC report on dotless domains, SAC053, and internal name
+certificates, which is a separate matter, SAC057. So there was
+formal advice to the board to, as a matter of urgency, consider
+the recommendations in the SSAC advisory at that time.
+
+CHAIR SCHNEIDER:
+
+Page 14 of 35
+
+Thank you. I saw a few more hands up. Panama?
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+PARAGUAY:
+
+Paraguay, actually. Thank you, Mr. Chair.
+
+CHAIR SCHNEIDER:
+
+It's been a long week. I've been here since Friday, working
+through the weekend, not just like you.
+
+PARAGUAY:
+
+That's all right. It's all right.
+
+CHAIR SCHNEIDER:
+
+Thank you.
+
+PARAGUAY:
+
+Patrik, if it's so clear, if it's so crystal clear and evident for
+everyone, where -- is there any kind of pressure coming from any
+advisory committee or any country in particular or any company
+or corporation or -- I don't understand. I kind of, like, have the
+same question Sweden asked. You know, where does the whole
+thing come from, if it's so clear? Thank you.
+
+PATRIK FALTSTROM:
+
+To be honest, I don't know. I think it was the case that some
+people found the red-line. It might be the case of it being redlined. It might be the case that there are some parties that
+actually are thinking about issuing an RSTEP.
+
+Page 15 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+The parties that have asked me or SSAC to have a look at this,
+none of them that are -- have talked to me want to have dotless
+domains. All of them support the SSAC statement. They wanted
+us to revisit to make sure that we are still standing so they don't
+have to change their mind, if you see what I mean, just like GAC
+asked us.
+So it might very well be the case that even -- that just because
+we are reiterating our statement that we stand firm, that no one
+else have to say anything. That might be the current situation. I
+cannot really evaluate that.
+
+CHAIR SCHNEIDER:
+
+Okay. So I think we'll take two more, please be short, and then
+we will let this settle during the coffee break because we have
+two, three more items, so the Netherlands and Sweden. Thank
+you.
+
+NETHERLANDS:
+
+Yes. Thank you. Thomas De Haan from the Netherlands. Just a
+very short question.
+If this is very technical in the sense that you have to know how to
+implement this technically, is there also not an RFC which will
+support this, or a best practice in IETF?
+
+Page 16 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+Thank you.
+
+PATRIK FALTSTROM:
+
+We talked a little bit about that in our report, and in fact, it is the
+case that the -- the -- the protocol for electronic mail do require
+a dot in an email address. That is one example. Which means
+that in the cases that it might happen and might actually work in
+implementations, those implementations are violating the
+specification for electronic mail.
+So to some degree, it's the other way around.
+The Internet Architecture Board, on the other hand, have issued
+a report saying that dotless domain is problematic in the similar
+way that we in SSAC issued that report.
+So that's how it is specified. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. Sweden?
+
+SWEDEN:
+
+Thanks. I'll be brief. I'm just concerned that perhaps we're
+rather waking a sleeping bear, if the GAC acknowledges this
+issue as well, or perhaps rather let it be, because we don't want
+to see it rise.
+
+Page 17 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+But on the other hand, if we were to do that, perhaps then we
+should direct attention to the confusion that Patrik mentioned
+in the -- in the -- was it in the contract where you had
+contradicting information? Maybe that would be the problem to
+be -- to address in that case. I don't know.
+
+PATRIK FALTSTROM:
+
+To some degree -- to some degree -- and we in SSAC had the
+same discussion with ICANN board -- why is this coming up and
+what do we really have to say at the moment. And at least we
+have done our homework and we think that is the -- was the
+most important thing at this week, as most people's view behind
+the GAC statement, behind the ICANN board statement, was
+based on our findings.
+So we felt that we, at least, had to go back and look at what
+we're doing, what -- it's -- that we go back and validate and
+verify that we are not changing our mind. Now that is done.
+So to some degree, personally I agree with you. SSAC has done
+its homework. Don't change its mind. That implies that nothing
+else changed because everything else is based on things that
+have not changed. So to some degree, yes, we're done.
+
+CHAIR SCHNEIDER:
+
+Page 18 of 35
+
+Okay. Iran?
+
+HELSINKI – GAC Meeting with the SSAC
+
+IRAN:
+
+EN
+
+Thank you, Thomas.
+I come back to what was said about the communique in Durban.
+The text is very soft, and in fact, it say nothing. "As a matter of
+urgency, consider." What do you mean, "consider"? Okay. They
+consider. Thank you very much. I considered that.
+So -- but in previous text -- not -- in previous paragraph on other
+things here, the GAC reaffirmed its positions. So we have to
+really say something but not say "consider." "Consider" is a
+most -- the weakest word ever used legally. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. I think let's leave it at this for the time being. We
+have a little time to decide what to do with this, but it's -- I think
+it's important that we get the expertise directly from you, so I
+think that was very useful and let's now move to the other
+issues.
+Your proposal was to take the --
+
+PATRIK FALTSTROM:
+
+Page 19 of 35
+
+Last one first.
+
+HELSINKI – GAC Meeting with the SSAC
+
+CHAIR SCHNEIDER:
+
+EN
+
+-- DNS abuse report and the implications activity as next, so I'm
+fine with that. Please.
+
+PATRIK FALTSTROM:
+
+Yes. Because of the scarcity of time we have been discussing in
+SSAC in what order we would like to have these and we will start
+with the last one, so Merike, please.
+
+MERIKE KAEO:
+
+Okay. And so the wording that we got is what was listed, so, "Is
+there any further implication/activity arising out of the DNS
+abuse report?"
+We at SSAC see a number of different abuse -- DNS abuse
+reports, so one of the clarifying questions that I have, is this
+specifically due to the new GLT program safeguards to mitigate
+DNS abuse? Is that the report that was being asked about?
+
+CHAIR SCHNEIDER:
+
+I think so, yes.
+
+MERIKE KAEO:
+
+Okay. Just wanted to make sure.
+So I had taken a look at the report. We as SSAC have not yet
+been asked to review it or provide any kind of comments. We
+
+Page 20 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+have in the past had numerous work items that deal with
+different mitigation abuse issues, and so I would like to ask the
+GAC whether or not we're getting a formal request as SSAC to
+take a look and actually comment on this report, and so I'll leave
+it at that.
+
+CHAIR SCHNEIDER:
+
+Thank you for these -- for this question. Well, we haven't really
+discussed this. We just asked for input of things that we could
+discuss. I guess the -- for us the question is not -- is more
+whether you think that there are issues that have security and
+stability implications that made you think about doing
+something with this or whether you think it's not -- it's not
+necessary or not in your scope of work that you need to take
+care of this.
+But it's just because people in the GAC care about abuse and
+fighting abuse and mitigating abuse and like to hear whether
+this is an issue for you or you think this is something for law
+enforcement or other areas in ICANN, maybe.
+
+PATRIK FALTSTROM:
+
+Yeah. Maybe you should explain a little bit how we are following
+abuse and how we are watching and understanding and
+
+Page 21 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+drawing conclusion whether we should pick up anything new,
+our cooperation with other groups or something like that.
+
+MERIKE KAEO:
+
+Sure. So just to talk about some previous work that we had
+undertaken, so a few years ago we had actually done some work
+that was addressing what kind of different DNS abuse there
+would be, and then we had undertaken a survey to kind of see
+how people handle abuse.
+So we never published anything for that because we didn't quite
+have any specific statement to make or a request in terms of
+what we would do with this particular information. And of
+course now with some of the work that ICANN itself is
+undertaking to provide more transparency on some of these
+issues, you know, we're trying to figure out what is the relevancy
+in terms of some of the work that we undertook a couple of
+years ago.
+Also, as we find different methods of abuse that are being
+utilized, where we find that we have technical controls that
+people should be aware of, we have work items.
+For example, we just recently published SAC074, which dealt
+with credential management life cycle best practices, and that
+was also a way to help with authentication and credential issues
+
+Page 22 of 35
+
+EN
+
+HELSINKI – GAC Meeting with the SSAC
+
+where, you know, there was a lot of issues surrounding that
+where there's abuse.
+So that's some of the work that we've undertaken at the time.
+
+PATRIK FALTSTROM:
+
+Is there any specific questions regarding abuse?
+Okay. In that case, let's go to the first item, as we have another
+five minutes.
+Security implications raised by IPv4 scarcity and IPv6
+deployment such as issues in SAC79, do they raise any public
+policy considerations.
+Danny?
+
+DANNY McPHERSON:
+
+Yeah. Sure. Thank you, Patrik.
+So -- yeah. So SAC079 had a number of implications that this
+advisory
+
+pointed
+
+out
+
+and
+
+there
+
+were
+
+a
+
+couple
+
+of
+
+recommendations there related to IPv4 scarcity and IPv6
+deployment.
+The implications of IPv4 scarcity or that application designers
+need to consider, the fact that IPv4 addresses may no longer
+
+Page 23 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+necessarily identify a unique endpoint in a stable manner. So
+that was one of the implications of that.
+Another was that law enforcement forensic functions need to
+consider that an IPv4 address alone may not be sufficient to
+correlate Internet activity observations with an endpoint.
+Again, so that an IPv4 identifier is not necessarily a stable
+identifier like a phone number may be, for example, is the point
+we're making here.
+And then certainly another aspect of this, an implication that we
+point out is the data retention mechanisms and policies that
+record a reference in I.P. address need to refactor their actions
+and requirements to consider the increasingly potentially large
+volumes of ancillary data that are required to match an IP4
+address and endpoint.
+In other words, if there are no longer stable identifiers for and
+end system, they may be, for example, an identifier for a middle
+box. Then you need to make sure that you have the ability to
+correlate that middle-box activity with other aspects of
+transactions for those endpoints.
+Those were the three implications. I definitely recommend you
+read that.
+
+Page 24 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+There are also two fairly generic recommendations that are
+provided in this advisory.
+
+UNKNOWN SPEAKER:
+
+Slower, slower.
+
+DANNY McPHERSON:
+
+Okay. Thank you, Mark. I'm going to slow down.
+Network operators should deploy IPv6 which is something that
+certainly the Internet technical community and the number
+resource community, including all the RIRs, have said all along.
+That's something that we're very adamant about, is the only way
+you're going to get past these problems is for much broader IPv6
+deployment.
+And then, finally, the second recommendation in this advisory
+was that device manufacturers should accelerate plans to
+support IPv6 as well and ideally with parity in their IPv4
+capabilities.
+So in short, we recommend that, you know, you have a look at
+SAC079 and, I don't know, I think I may have a minute for
+specific questions. I'm -- I think I read fairly quickly there. I was
+just reading the text from the front of the document, mind you, if
+you want to go reference that.
+
+Page 25 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+But were there any specific questions related to this advisory
+that -- that folks may have had?
+
+PATRIK FALTSTROM:
+
+Yes, please.
+
+ANDREAS DLAMINI:
+
+Thank you. Yes. You were a bit too fast.
+[ Laughter ]
+My name is Andreas Dlamini from Swaziland.
+You were a little bit too fast, but I think from the little that I
+caught from your presentation -- yeah -- it raised some
+questions to me as to when you're talking about instability
+arising from IPv4 address use, so what's the future of IPv4
+addresses now? Seeing that Africa still has quite a lot in their
+reserves in IPv4 addresses, so what's your -- what would be your
+specific recommendation in terms of taking more IPv4
+addresses?
+
+DANNY McPHERSON:
+
+So, yeah, I'm not going to speak to that because I don't think the
+SSAC has an aligned opinion on that, necessarily. I think the
+technical community generally does.
+
+Page 26 of 35
+
+EN
+
+HELSINKI – GAC Meeting with the SSAC
+
+But I think the -- the implications we wanted to point out in
+SAC079 isn't that -- necessarily that it causes instability because
+of IPv4 address scarcity. It's that an IPv4 address as an identifier
+is not necessarily stable any longer, and so that's the -- that's the
+important implication.
+infrastructure
+
+Because, you know, for things like
+
+management
+
+or
+
+for
+
+forensics
+
+and
+
+law
+
+enforcement and so forth, it has a lot of implications on that,
+and that's what we wanted to hit on.
+We do believe that -- certainly that the number resource
+organization and the five RIRs have a lot of activity occurring
+now related to the aspects of Internet identifier management,
+you know, with numbers in particular with IPv4 and IPv6
+addresses and so forth.
+And there's a lot of discussion in those regions on that topic.
+The other point of this advisory was simply that if you're a
+network operator or an equipment manufacturer, you'd better
+be getting ready for parity in IPv6 deployment and capabilities
+because it's coming and it's inevitable is, I think, what we
+wanted to get at.
+
+PATRIK FALTSTROM:
+
+Patrik Faltstrom, Chair of SSAC. Let me add to that, just specific
+-- just because the IPv4 scarcity might have implications on
+
+Page 27 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+various policies use related to I.P. address management, let me - we in SSAC do a very strong view that it's important that
+discussions around all of that policy use meets use of I.P.
+addresses is managed in the RIRs. So if it is the case that you
+have issues with or questions related to I.P. address
+management and policies, you must participate in those PDPs
+that are not host in ICANN but at the various RIRs.
+
+CHAIR SCHNEIDER:
+
+Thank you. I actually have a question myself because so far I
+had not heard that IPv4 addresses are unstable in a technical
+sense because I think we've all been using them for the past
+years and years.
+If the difference is -- from what I understand is that it is possible
+to track down a particular device with an IPv6 address, which, of
+course, makes the life of our law enforcement colleagues easier,
+for instance, but at the same time is a concern for people that
+deal with privacy issues because it can be identified on which
+machine, which is your machine. So is stability related less to a
+technical issue but rather to a political issue in that case? Or is
+there technical instability that is new that we hadn't been aware
+of all the years that we are using -- we have been using IPv4
+addresses?
+
+Page 28 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+PATRIK FALTSTROM:
+
+EN
+
+Before I let Danny jump in here, let me explain that there's a
+difference between identifying what individual is using an
+address and stability which implies that the same user is using
+the same I.P. address and how often and whether you can -whether it is one or more users using the same I.P. address.
+When we talk about stability, it has nothing to do with the ability
+to identify. So these two things must be separated from each
+other. So when we talk about stability, has to do with the fact
+that if I use an IPv4 address and my application, for example,
+fetches email and stop fetching email, that same I.P. address the
+next second might be used by you. That is what we're talking
+about.
+But over to you, Danny.
+Thomas just whispered in my ear, that is not something new.
+That is true. But just because all IPv4 addresses today are in use,
+there is no free space, unused I.P. addresses, that are sort of
+laying there in waiting. You have -- all addresses are in use. So
+as soon as I stop using my I.P. address, it will be started to use by
+someone else for IPv4. So that's where the instability comes in.
+And another thing that is increased, which we wrote in our
+report, is that -- is that it's a higher likelihood today, as Danny
+explained, that there's some kind of middle box that reuses the
+same I.P. address for both you and me at the same time, which
+
+Page 29 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+means that if you see traffic from one I.P. address, it is less likely
+that all of that communication is from the same computer or
+same individual.
+
+CHAIR SCHNEIDER:
+
+Okay. Thanks for this explanation. I see Norway and United
+Kingdom.
+
+NORWAY:
+
+Yes, thank you, Chair. Just a quick comment. And thanks to
+SSAC to point us to this report. So my understanding based on
+the summary in the report based on the advisory points and
+related to the question regarding Africa, to my understanding,
+does this mean that this problem is not that relevant in Africa
+since they have quite a lot of addresses left on IPv4? But still
+that should not be used as a sort of argument not to have an
+high focus on implementing IPv6 also in Africa. So I think that
+sort of relates to that it is equally important for both -- for all
+continents to have focus on implementation of IPv6. But still the
+sort of rationales for to -- where this advice is based on is not
+that, well, present, as you can say, since they have more IPv4
+address space left in AfriNIC.
+But as you said, Patrik, I think it also important, as you said, that
+everyone must participate in the RIR policy development and
+
+Page 30 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+the operational advice they all give on using the address space,
+both v4 and v6. I think that's the also sort of important point to
+take out of this discussion, to pay attention to the advices from
+the RIR community as well. Thank you.
+
+CHAIR SCHNEIDER:
+
+You want a quick comment? So let's move to the U.K. and then
+we need to close down the meeting.
+
+UNITED KINGDOM:
+
+Thank you, Thomas. Yes, Nick from the U.K. Good morning. As I
+understand this issue sort of from my background, it's where
+network operators who are still operating IPv4 are employing
+carrier grade nat. So I think that's the sort of thing Patrik was
+talking about, where you can have sort of -- sort of a private I.P.
+space through that middle box at the network level so you can
+have multiple users. And they often seem to do this for mobile
+devices, as I understand.
+You sort of move that sort of space sort of up into the sort of the
+publicly visible sort of networking layer space, as it were. That's
+where the issue comes for the public safety organizations
+because it's the ability to sort of identify the single user becomes
+more difficult. And you have to sort of have further information
+such as sort of portage -- port numbers and that.
+
+Page 31 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+But a lot of the network operators don't have the technical
+capability, or so they told me in previous engagements. They
+don't have the technical ability themselves when they go into
+their -- sort of their data to be able to discern an individual user.
+So, yeah, it's definitely an issue for public safety. It's something I
+certainly found, and it's sort of bound up in the whole carrier
+grade nat thing.
+And I think I would say as well as the getting engaged in the PDP
+process at the RIRs, it's also a market issue. And it's about sort
+of, you know, if governments really think this is an issue, they
+should go -- they should go back to, you know -- sort of their
+countries and sort of look at the engagement they have with
+their telecom providers.
+So I've kind of got a question on the end of this. I was just
+wondering: Is it really so expensive to get sort of network
+operators to sort of upgrade their kit and stuff to deploy IPv6?
+
+PATRIK FALTSTROM:
+
+To answer the question directly, it's not that expensive in the
+form of software and hardware because IPv6 do actually exist in
+almost everything you buy.
+
+With an exception of all
+
+technologies like DSL and a few others, it might be a little bit
+more problematic.
+
+Page 32 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+EN
+
+The problem is more just like with DNSSEC, it is number four on
+the list of important things that the ISP is going to deploy. And
+they can only afford three. It could be manual labor. It could be,
+like, whatever.
+The big problem at the moment, I think -- specifically when I
+look at Sweden, which is one the countries that has the lowest
+IPv6 deployment in the world, believe it or not, is that -- is that
+you have to look at the access networks just like you did with
+mobile but you also have fiber to the home and other kind of
+access technologies that whoever has the access -- controls the
+access is quite often a monopoly which means that the end user
+cannot -- if they want IPv6, they cannot swap to a competitor.
+So to some degree, I agree with you that it is important if it is the
+case, which I hope -- most countries actually do have a policy
+that IPv6 employment is important. There are connections to
+issues which have to do with monopolies or not regarding local
+loop. There are some connections there. And let me just stop
+there.
+
+CHAIR SCHNEIDER:
+
+Talking about stopping, I think we have to stop this meeting as
+we are running a little late, although it's really interesting. And I
+think we have one issue which is about metrics in trying to find
+data. Health index is one example.
+
+Page 33 of 35
+
+EN
+
+HELSINKI – GAC Meeting with the SSAC
+
+PATRIK FALTSTROM:
+
+Can I make one statement?
+
+CHAIR SCHNEIDER:
+
+Yeah, okay. I just want to say, we will probably hopefully have
+another meeting not in 15 years' time but actually sooner so we
+can continue that discussion.
+
+PATRIK FALTSTROM:
+
+Regarding the metrics for new gTLDs, the take-away from the
+SSAC report is that correlation does not imply causation. Just
+because you have data, you cannot draw whatever conclusions
+you want. Start looking at what kind of conclusions you want to
+draw and then find the data you need to be able to use that as
+an evidence.
+We wrote the report because we see too many discussions here
+inside ICANN when things are done backwards, and we
+encourage everyone to start the correct way. Thank you.
+
+CHAIR SCHNEIDER:
+
+This is actually a lesson learned in many courses on statistics,
+that just because there are numbers, that doesn't mean that
+they are related to each other.
+
+Thank you very much for
+
+reminding this very fundamental principle.
+
+Thank you very
+
+much. It was a pleasure. This is the coffee break.
+
+Page 34 of 35
+
+HELSINKI – GAC Meeting with the SSAC
+
+[ Break ]
+
+Page 35 of 35
+
+EN
+
+

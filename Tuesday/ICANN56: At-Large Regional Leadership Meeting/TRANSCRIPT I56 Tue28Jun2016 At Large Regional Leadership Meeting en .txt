@@ -1,0 +1,2098 @@
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+HELSINKI – At-Large and Regional Leadership Meeting
+Tuesday, June 28, 2016 – 13:30 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+OLIVIER CREPIN-LEBLOND: Ladies and gentlemen, we’re waiting for someone from AFRALO.
+We need to have at least one person from each RALO leadership,
+so as soon as they come in, we can start.
+Good afternoon, everybody. I hope you've all managed to grab
+some lunch. Welcome to the At-Large regional leadership
+meeting. Some people are still having their lunch. We did have a
+very short break at lunch time, and there were some queues
+around the convention center to grab sandwiches and so on.
+Welcome, everybody, to this afternoon meeting. We have quite a
+busy agenda. The first thing that we’re probably going to do is to
+quickly go around the table to [inaudible].
+
+UNIDENTIFIED FEMALE:
+
+Working? Working?
+
+OLIVIER CREPIN-LEBLOND: Back to work. Apologies for this. For those people following us
+remotely, one of the mics was plugged out, so it was not
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+censorship. It’s fine. It’s just a technical problem. You don’t need
+to start a revolution or do a Brexit or whatever it is.
+Let’s get back to our agenda today. Welcome back, everyone.
+We’re going to go around the table to see who is represented at
+the table. Let’s start from my far left. Yes, you're the person.
+Don’t look behind you. Could you please quickly introduce
+yourself and from what RALO you are from or what
+organization? Thank you.
+
+DANIEL NANGHAKA:
+
+I’m Daniel Nanghaka from AFRALO.
+
+HUMBERTO CARRASCO:
+
+Humberto Carrasco, LACRALO Chair.
+
+MARITZA AGUERO:
+
+Maritza Aguero, LACRALO Secretariat.
+
+MIKHAIL MEDRISH:
+
+Mikhail Medrish, EURALO Board member.
+
+MICHEL TCHONANG:
+
+Michel Tchonang, member from AFRALO. I come from Africa.
+
+Page 2 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+AZIZ HILALI:
+
+Aziz Hilali, AFRALO Chair.
+
+JUDITH HELLERSTEIN:
+
+Judith Hellerstein, NARALO Secretary.
+
+WOLF LUDWIG:
+
+Wolf Ludwig, EURALO Secretariat.
+
+OLIVIER CREPIN-LEBLOND: Olivier Crepin-Leblond, EURALO Chair.
+
+SILVIA VIVANCO:
+
+Silvia Vivanco, ICANN staff.
+
+DAN O’NEILL:
+
+Dan O’Neill, WBC Global.
+
+ROB HOGGARTH:
+
+Rob Hoggarth, ICANN policy staff.
+
+YESIM NAZLAR:
+
+Yesim Nazlar, ICANN staff.
+
+ARIEL LIANG:
+
+Ariel Liang, ICANN staff.
+
+Page 3 of 66
+
+EN
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+MAUREEN HILYARD:
+
+Maureen Hilyard. I think I’m in the wrong meeting. ALAC.
+
+SIRANUSH VARDANYAN:
+
+Siranush Vardanyan, APRALO Chair.
+
+SATISH BABU:
+
+Satish Babu, APRALO Vice Chair.
+
+BASTIAAN GOSLINGS:
+
+Bastiaan Goslings here on behalf of Internet Society,
+Netherlands chapter, an At-Large Structure from the EURALO
+region.
+
+KAILI KAN:
+
+Kaili Kan, ALAC.
+
+GLENN MCKNIGHT:
+
+Glenn McKnight, NARALO Chair.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, everyone. Today, the few rules in the
+game: usually, if you want to speak, you can put your card up, or
+if you don’t have a card, just wave at me and you'll be put in the
+queue. We have people also following us remotely, and we have
+
+Page 4 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+interpretation, so please say your name before you speak for the
+transcript and for the interpretation. Don’t speak too fast. I have
+to be reminded of that from time to time. Due to the
+interpretation, one is able to speak in English, in French, and in
+Spanish. That’s the thing. I don’t think I’ve missed anything.
+The first thing we need to do is to approve the agenda today. We
+will start speaking to Dan O’Neill and to Rob Hoggarth about the
+document development pilot program. Then we’ll be looking at
+some of the ATLAS II, At-Large Summit II recommendations.
+After that, we’ll look at the multi-year planning of At-Large faceto-face meetings, the Fiscal Year 17 special requests for the
+regional At-Large organizations, the At-Large review and the
+impact on the regional At-Large organizations. Hopefully by
+then, Holly will be able to make it here, and Cheryl Langdon-Orr
+also should be joining us. We will have any other business, if we
+still have time, speaking about the metrics. We have to do all of
+this in – is it 90 minutes? Yeah, 90 minutes, so no pressure.
+Is the agenda adopted, or are there any modifications to be
+done? Seeing no hands being put up and nobody objecting, the
+agenda is adopted. We have regional representation from all of
+the RALOs present in the room. We can swiftly move on to
+number two, the document development pilot program with
+Dan O’Neill and with Rob Hoggarth.
+
+Page 5 of 66
+
+EN
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+I invite you to have a look at the ATLAS II recommendation
+number 30. The ATLAS was the At-Large Summit. I know that
+many of you here did not attend the At-Large Summit, since you
+are more recently accredited At-Large Structures, but this was a
+meeting that took place in London. I would say it’s two years ago
+already, two years ago where all of the At-Large Structures met
+face-to-face. They worked an enormous amount to come up
+with a set of recommendations to be implemented, not only by
+the Board, but also by the At-Large community, by the different
+regional At-Large organizations.
+One of these recommendations is number 30. We will be
+speaking about some of the other recommendations afterwards.
+Once the document was produced, passed on to the Board after
+full ratification by the ALAC, the community continued its work
+with
+
+an
+
+implementation
+
+taskforce
+
+and
+
+sent
+
+these
+
+recommendations to the various At-Large working groups to
+further the implementation to try and see what we make of
+them.
+This one that we have in front of us mentioned the following
+thing. It says, “For each public comment process, SOs and ACs” –
+which by now you would have hopefully understood to be
+supporting organizations and advisory committees – “should be
+adequately resourced to produce impact statements.”
+
+Page 6 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+That’s one of the problems of our community. There’s a whole
+amount of notes underneath that. One of the problems is the
+fact that a lot of ICANN work is filled with acronyms, might not
+be seen as something that really relates to end users, and is
+quite complex, as well.
+Impact statements. How does it impact on our users? And
+explanatory notes as to why we should care about this are
+something that was found to be really needed. Thankfully,
+ICANN have listened to us. We were quite shocked, I would say,
+to hear from Rob Hoggarth, who is the Senior Director for Policy
+and Community Engagement, that something was in the works
+in his department to be able to perhaps go some step along the
+way to help our community in being able to understand those
+issues.
+Without any further ado, I’ll hand you over to Rob Hoggarth.
+
+ROB HOGGARTH:
+
+Thank you very much, Olivier. Good afternoon, everyone. Very
+good to see everyone again. The last time that a number of us
+got together, I think it was a smaller group. We spoke in
+Marrakech. The purpose of the conversation was to share with
+you some advancements, as Olivier mentioned, that we had
+been able to make with respect to recommendation 30,
+although it was introduced in a different context.
+
+Page 7 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+It was a conversation about producing a capability on a pilot
+basis of being able to assist members of the ICANN community,
+different community groups, in being able to prepare comments
+or statements, primarily in the context of the public comment
+arena, but potentially in other ways, as well. We spent a good
+period of time with a number of the leaders and the secretariats
+at a special meeting in Marrakech, exploring with you some of
+your insights, perspectives, backgrounds as to what types of
+resources would be of value to you in the production of
+documentation.
+We took some of the information that we got from you and from
+others, basically went back to the drawing board and are
+reporting to you our progress today, including I think some news
+that will be welcome in terms of the initiation of this effort.
+Essentially, we’ve proceeded in two channels of work. One
+channel of work, which is to focus primarily on developing this
+concept of issue primers, issue introductions if you will, to
+enable all of you, as regional At-Large Structures, to be able to
+explain to members of your community the importance of a
+particular public comment effort, be able to potentially use that
+documentation for recruiting purposes, for educational
+purposes, and for research purposes.
+
+Page 8 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+There’s a second channel of the pilot program which features
+more direct facilitation from identified individuals who would be
+directly connected with a community that was interested in
+working together to develop responses to certain public
+comment proceedings.
+The overall theme that I heard from you all in the Marrakech
+discussions were you wanted to focus primarily on the research
+and information side first. The facilitation side is great, but it
+requires a certain infrastructure on the community’s part, and
+with the emphasis that you all had on outreach, bringing new
+participants into the process, it was probably better to focus on
+the documentation side. Dan and I are going to spend the bulk
+of the time today talking about that piece of the program.
+Essentially, what we’ve worked through in planning with Dan is
+to set aside 20 public comment opportunities over the course of
+the next many months in collaboration with all of you to find out
+which are the most important proceedings to focus on and begin
+over the course of these 20 opportunities to develop a template,
+a template that you can use that provides what you need for
+research, development, and outreach within your communities.
+We’re starting out with the concept of one size fits all. That may
+end up not proving to be successful, but we need to start
+somewhere. As Olivier regularly comments to me when the topic
+
+Page 9 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+of a pilot comes up, it’s an opportunity to experiment, to be
+educated, to learn, to fail fast, and then be able to improve
+things.
+I’m going to turn over the microphone to Dan to explain a little
+bit about the planning process that he’s engaged in, the
+outreach that he’s done to identify individuals who are educated
+about ICANN, who can work with ICANN staff as well as with
+members of your community to start drafting these types of
+documents, to get your feedback, to adjust them, fine tune
+them, blow them up and start over, but over the course of 20 or
+so proceedings, to be able to ultimately focus and provide you
+with something that will be of value and achieve many of your
+goals.
+With that overall introduction, I’ll turn things over to Dan O’Neill
+and let him describe in a little bit more detail the work he’s done
+and the next steps that we’re going to be engaging in, in
+cooperation with all of you. Dan may talk a little bit about how
+he’ll collaborate with us on staff, including members of the AtLarge support team. We’ll just then entertain any questions or
+any feedback from all of you. Dan, please proceed. Thanks.
+
+DAN O’NEILL:
+
+Thank you very much, Rob, and thank you to all of you for giving
+me the opportunity to spend a few minutes introducing the
+
+Page 10 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+document development and drafting pilot program that we have
+been working on, as Rob said, very much in response to the
+input from the community that this was an area that the
+communities were looking for assistance. ICANN staff heard that
+message, and we have been working diligently over the last
+many months to develop a program that we think is going to be
+responsive to your needs and the needs of other communities to
+assist in the development of your interaction with drafting
+comments for ICANN procedures.
+At this point, I would like to identify that I do have one of the
+people involved in the program, Emily Taylor, who is actually
+going to be doing some of the writing of these primers that Rob
+described. She is actually online with us, so when we get to the
+question and answer period, I would also welcome any
+interaction that you would have with Emily. We have already
+had an opportunity with the ALAC support staff with ICANN to
+have some discussion, so there’s been an introduction and
+exchange of ideas, as well as an understanding of the program.
+Just to back up and give a bit of context for the program, as Rob
+said, it will involve two pillars, which is the primer activity, which
+will be the production of 20 primer documents focused on
+requests for comments issued by ICANN. We very much welcome
+your input in helping us develop exactly which 20 those are. We
+are working currently with ICANN staff again to ensure that the
+
+Page 11 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+online list of upcoming opportunities is up to date. We will be
+circulating that out and trying to understand from all of you
+exactly what your priorities are because we do wish to identify
+amongst those 20 the key opportunities that are of greatest
+interest to all of the communities.
+That’s where we would like to start with this interaction. Beyond
+that, once we identify that, we will certainly be working with all
+of the communities to circulate out exactly which ones we have
+started on. The more input that we can get from each of your
+communities, I think the more valuable it will be in the
+document that we’re able to produce.
+Again, what we are looking to do is be able to help you utilize
+this document however it best suits you to give you a better
+understanding of what that opportunity is, what that means,
+being able to share that out with your communities in any way
+that is most useful to you. At the end of the day, what we are
+looking for is greater engagement in the ICANN process with a
+better understanding of those opportunities amongst all of your
+communities, a heightened level of interest and willingness to
+engage more in that entire process.
+As Rob said, we have identified 20. We would love to have that
+first one be perfect. Again, it is a pilot. I think we understand well
+that we are going to develop this as we go along. It’s really a
+
+Page 12 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+pilot on both sides in that you as communities have not engaged
+in this process, so it is going to be new on your side. It’s also
+going to be new on our side, but I can assure you that Emily and
+others that I’ve brought along have been involved in these kind
+of pilots before in the Internet governance space. There’s a
+willingness and understanding that we want to be flexible. We
+want to understand. As Rob says, fail fast, understand what
+went wrong, and pick up the pieces and go from there.
+What we’re really looking to do over these first five primers is
+develop something that can be very, very useful, understand
+what is most useful to have included there, what is not,
+understand that. As Rob said, we’re looking at something right
+now where the analysis is going to be very broad-based. Your
+community will be one of many that are going to receive this
+same document. It’s going to go out to all of the stakeholder
+communities. Whether the analysis and the impact statements
+that we focus on are able to cover all of those communities, that
+is something that the pilot is going to test. If we find that it’s not,
+then we’ll change course and see how best to proceed.
+I do want to emphasize that we’ve spoken with your support
+team. We are ready to be engaged at all levels of this process.
+The more input that you can provide for us, the more feedback
+that you can provide for us throughout this process, I think the
+
+Page 13 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+better the outcome is going to be, the more valuable the
+outcome is going to be at the end of this process for all of us.
+With that, I think I will stop. Again, I do have Emily Taylor, who is
+one of our writers for these primers, on the line so that if there
+are specific questions that you might have for Emily, please feel
+free to direct it towards Emily. Other than that, I think Rob and I
+are available to discuss any points in the program that you
+might have questions on.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much for this introduction. It sounds like a pretty
+interesting resource. I note that Emily is indeed online. I don't
+know whether she has the ability to speak. She has been called,
+as well.
+
+EMILY TAYLOR:
+
+Hi, Olivier.
+
+OLIVIER CREPIN-LEBLOND: Oh, you are there. Excellent.
+
+EMILY TAYLOR:
+
+Page 14 of 66
+
+Hi.
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+OLIVIER CREPIN-LEBLOND: We can hear you.
+
+EMILY TAYLOR:
+
+I just wanted to confirm that I am on the line. I’m ready to work
+with you all. I’m looking forward to the pilot. Just to emphasize
+some of the points that have been made by Rob and also by Dan,
+this is an experiment and it will be all the better to have full
+engagement and input from the community, which I’m really
+looking forward to being part of. I note that there are a couple of
+questions and recommendations that have come up from the
+chat room, that I could just kick off with, I think both from Glenn
+McKnight.
+It says, “Very helpful.” Pointed to some resources and good
+practices from [Aaron]. Thank you for that. I will definitely check
+that out with Dan, and also a question. “What are the 20 policy
+primer documents?”
+I think that this is one of the works in progress. One of the early
+tasks will be to identify with the community suitable projects to
+experiment on and to produce these template documents. The
+early stage of that is to coordinate with ICANN staff, to make
+sure that the list of upcoming public comments is actually
+accurate and up to date and then to identify suitable projects to
+work on.
+
+Page 15 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+“How does it work and what are the steps?” asks Satish Babu
+from the list. I think we’re all going to find that out, learning by
+doing, but the first thing to do is to identify at least five initial
+projects to kick off from. My personal input in choosing these
+would be to try to find ones that have a range of different
+audiences or different types so that we can really flex the model
+and see whether it’s actually proving useful. We can also see
+whether this project of working as a one size fits all really is the
+way to go or whether we need to adapt.
+With that, I will just conclude these early remarks. I look forward
+to your questions and comments. Thank you very much.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Emily. Rob Hoggarth, did you wish to
+respond directly to this, or shall we start with the questions?
+
+ROB HOGGARTH:
+
+Let’s go in the queue.
+
+OLIVIER CREPIN-LEBLOND: We’ll go in the queue. Let’s start with Glenn McKnight, please.
+
+GLENN MCKNIGHT:
+
+Great. Thank you so much. This is a great concept, and the devil
+is in the details, so can you guys elaborate? How did you select
+
+Page 16 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+the five to start with, and what are the five? I guess it’s a
+question of expectations. What do you expect out of this? I
+assume it’s a one-year pilot for a timeline. What are your
+expectations?
+
+ROB HOGGARTH:
+
+Thank you. You anticipated some of the statements that I
+wanted to make, Glenn, so we’ve coordinated very effectively.
+The first five have not been chosen yet. Essentially, Emily and
+Dan’s focus here is to work with all of you and with us on the
+staff to begin to identify what the numbers would look like.
+We’re governed pretty much in the mold that we have to rely on
+public comments that are coming out from ICANN. We can’t
+make up proceedings. That is one of the limitations on this work.
+We’re very interested in input from all of you, and a number of
+you did work with Silvia to produce questionnaires and answers
+to those that flagged for the list of public comment
+opportunities at the time ones that you were interested in.
+What’s great about working with you from the regional At-Large
+organization perspective is that members of your communities
+come from all walks of life within the multistakeholder
+community. One of the values of having you a part of this pilot
+program is that you will reinforce, I hope, some of the desires of
+other communities within ICANN who happen to members of
+
+Page 17 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+your regional organizations or folks that you want to reach out
+to.
+We’re first somewhat governed within this funnel, Glenn, of the
+universe of ICANN public comment opportunities. Then it’s a
+matter of saying, “NARALO checked these two boxes. LACRALO
+checked those three boxes. AFRALO checked those five boxes,
+and if we’re in luck, there’s overlap of some of those.”
+Again, this is a pilot program, and Dan and I have had long
+conversations about this. The interest is in testing a number of
+different options. There may be a couple of these that come out
+that only impact a small percentage of people within your
+particular region. There may be others that only the registries or
+registrars are interested in. It will really depend upon what
+comes out.
+One of the very critical aspects of this program – and this would
+be our ask from all of you – is please identify at least one person
+from your regional At-Large organization who is willing to own
+this concept within your own community because working with
+Silvia and Ariel, our hope is that with Silvia’s leadership, we’ll be
+able to have regular calls. When I say we, I mean Dan and Emily
+and their colleagues, to get feedback from you, to have
+conversations about these types of activities. The pilot will have
+much more benefit if we have your input, and your regular input.
+
+Page 18 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+This is not going to be something where we just come back and
+report to you at every ICANN meeting. The hope is that you’ll
+have monthly conversations.
+The specific ask we made of Dan and Emily was, “Give us some
+suggestions for what those first five might be.” That will largely,
+again, be driven by timing. What’s coming out in the next three
+months? We don’t want to wait to start this until December, so
+they’re going to pick from some limited options.
+I would ask that even if a particular topic isn’t of great interest to
+any of you individually, that you still be willing to participate in
+the conversations because we’re also looking at what these
+documents, or what I say to Dan, documentation looks like. Is it
+a one- to three-page document, which is our goal, that touches
+on every specific potential community? If so, do we have just
+one-paragraph impact statement, or do we have a threeparagraph impact statement? What works best?
+As Glenn noted, the devil truly is in the details. The ultimate
+goal, to answer your question directly, Glenn, is at the end of this
+process, we have a template that everybody is very comfortable
+with and a process that on the day a public comment comes out,
+you also have to accompany it a plainly written document in one
+of the six UN languages that you can immediately take and ship
+off with whatever bow and pretty wrapping paper you have to
+
+Page 19 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+those groups that you’re looking to reach out to or to people in
+your community who will help determine what statement you
+want to write.
+At worst, you’ll have a more educated group of members who
+will be able to contribute to the ALAC statement writing process.
+At best, you may develop a set of expertise within your regional
+At-Large organization where you can have more detailed
+discussions within your community. The excitement about this
+project is we don’t know what it will look like. That’s also the
+scary part about it.
+Now in terms of timing, Glenn, you said, “Is it about a year?” It
+really is going to be until we burn out the 20. I don’t anticipate
+more than one or two in the first couple of months because
+Emily and Dan really have to begin to think about, “How do we
+set up all the stages of the process?” There will be much more
+interaction with you all. You’re going to say, “I don’t like that
+format at all, but I like this small impact.” You’re going to be part
+of a team of other communities who are also interested in this. I
+hope over time, we’ll be able to develop something. I’m very
+optimistic about it, but many of you know I’m more of a glass
+half full person.
+In terms of selecting, Dan and Emily will share with us their
+recommendations. We will then share those recommendations
+
+Page 20 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+with your designated reps, and we’ll come to some
+understanding about what to pick. What I would just ask for is
+patience. We’re going to have 20 of these. We’ll learn over time.
+Please help us fail fast and succeed long-term. Thanks.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Rob. One question I had when you
+mentioned the dedicated reps, you mentioned monthly calls
+with them or a mailing list with them and you on there? How do
+you want to formalize this?
+
+ROB HOGGARTH:
+
+We are open to your suggestions because Dan, Emily, and their
+colleagues will set that up in partnership primarily with Silvia. In
+fairness to the other communities, we really view your group as
+the key parts of the experimentation here because of the
+breadth of your leadership, because of the breadth of the
+communities that you’re engaged with. I think we’re interested,
+particularly because you’ll be the largest number as well, in
+getting that feedback.
+For many years, you've demonstrated great organizational
+ability as a community that others don’t really have, in other
+words, to be able to quickly bring groups together, set up
+schedules, get committed volunteers. If we can get that baseline
+
+Page 21 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+established and then invite others to join that, I think we’ll be in
+very good shape. That’s the plan. It will be in partnership with
+Silvia, Heidi, and the rest of your group in terms of setting that
+up.
+Another person who has an important role in this is Ariel in that
+she’s also going to be working with Dan and Emily on more of
+the drafting side because she’s much more familiar with the
+statements that you all generate, with some of the background
+information that you may need to assist in educating people
+about that. We’re really excited about having their participation
+in this effort, as well. I don't know if there’s anything you’d like
+to add, Dan.
+
+DAN O’NEILL:
+
+Again, Rob, I just want to touch back with Glenn’s comment, if I
+could for just a minute. Two aspects that I wanted to touch on
+that we saw as critical as well in terms of being able to do the
+kind of outreach and to touch the different communities as
+much as we can are both the timing as well as the translation of
+the update documents.
+First of all, what we would like to do. Our target is to have these
+primers produced and distributed on the day in which those
+requests for comments go out to the community. The notion
+there is that with the usual timing of 40 days for an ICANN
+
+Page 22 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+request for comment response period, as soon as you start
+eating into that 40 days, it becomes very challenging. The idea is
+to be able to have this document as Rob described it, something
+that we see is going to be much easier to read than some of the
+background material, very useful, talking about impact of the
+particular opportunity.
+The second would be the translation service. What we wanted to
+do, initially we had talked about with the pilot, launching this in
+English only. In conversations with Silvia, Ariel, Heidi, and
+others, it became very clear to us that as we talk about the
+RALOs and your engagement in this process, the ability to at
+least be able to get this out in English, French, and Spanish at
+the start would be very valuable. What we have taken on as just
+another management challenge is we would like to be able to,
+on that day in which the public comment is released, be able to
+get this document out to you in English, Spanish, and French.
+Again, looking to be able to reach into your communities as
+deeply and quickly as we can to give you the understanding and
+the value of the document. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Satish Babu?
+
+Page 23 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+SATISH BABU:
+
+EN
+
+Just a clarification or a couple of clarifications. One is
+presumably this will be taken in five different groups because we
+are five RALOs and we speak different languages. I just want to
+check if it’s going to be done in one group or in five separate
+groups.
+The second is what kind of preparation do you expect us to start
+with? When the pilot starts, what do you expect us to do? There’s
+a rep, of course, but what else? Are there any other expectations
+that you have from these reps or from the RALOs? Thank you.
+
+ROB HOGGARTH:
+
+I’ll take the first, Dan will take the second, and then we’ll clarify
+each other if we’re not comfortable with either of our answers.
+In terms of one group or five, the pilot is being set up where they
+are writing one document. It’s not going to be a separate one for
+each RALO and then separate ones for the others. The initial goal
+is one document that is released when the public comment
+period comes out. That’s the focus.
+What we hope to have, though, is feedback from all of you, and
+direct feedback on whether it works just for your specific
+community. It would be great if you think much more broadly
+about how it might help people in other regions of the world, but
+we’re much more interested in the expertise from your group.
+
+Page 24 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+The expectation there would be a draft gets generated and it
+gets circulated to you because right now, the goal isn’t we’re
+picking this public comment period and we’re going to hit the
+mark exactly. The first couple might not hit the timing at all, but
+the value of the learning is going to be the format and the
+content. According to your rep – and we have your rep will work
+with your leadership, as well – does it have the segments that
+are needed? Does it have an executive summary? Does it need
+one? Does it have a module on businesses or registries or civil
+society? What does it say, and how in-depth does it go?
+The hope is to get that feedback very directly and very candidly.
+You all never have had a problem with me on that, and I’m
+hopeful and I’ve told Dan and Emily they should expect the
+same. It works or it doesn’t. “This one didn’t work. Let’s try
+again.” We’re going to give a good shot to each one that comes
+out.
+I hope that answered that one of your questions. Did you want
+to talk about more collaboration?
+
+DAN O’NEILL:
+
+Sure. In terms of your second question, in terms of the ask from
+us to you, again, our initial challenge is going to be identifying
+and choosing what these initial three, four, five opportunities
+are going to be. Again, what we had done initially and some of
+
+Page 25 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+the communities had responded back was to ask if you could
+help us prioritize these opportunities. Again, I’m working with
+Carlos and others on the policy team to update that document
+and understand exactly what opportunities we have over the
+next two to three months to circulate that back so that we can
+get that feedback back from all of your communities again so
+that we have a very clear understanding of what those priorities
+are and which ones we want to focus on.
+Once we identify what those are, I think that’s where the
+collaboration really starts. Working with staff, obviously we were
+going to get these opportunities. This is where we are going to
+start developing a mechanism to encourage that input back
+from your communities into the drafting process initially, being
+able to share that draft out, work through questions that you
+have, issues that you have with format, content, everything else
+so that we’re developing something that is very useful.
+Again, the ask would be your continued engagement here. We’re
+going to try to put those mechanisms in place to allow that to
+happen, whether that be a monthly call or outreach through email or other vehicles to communicate and get that feedback.
+That’s the most important at this point.
+
+OLIVIER CREPIN-LEBLOND: Silvia Vivanco?
+
+Page 26 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+SILVIA VIVANCO:
+
+EN
+
+Thank you, Olivier. Just to summarize and to organize ourselves,
+I think a proposal, an idea for all the RALO leaders, if you wish to
+consider perhaps to designate one or two persons per RALO to
+work with us, with staff, with me and Ariel and to work with Dan
+and Rob on the details so we can start organizing conference
+calls, looking at the primer, brainstorming ideas and kick off the
+project. My suggestion would be to have one or two persons per
+RALO, and then those designated representatives can go back to
+their RALOs and start the conversation. That’s the way I think
+that we can kick off the project. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Thank you, Silvia. Any thoughts? Glenn McKnight?
+
+GLENN MCKNIGHT:
+
+NARALO has a newsletter, and I was just chatting with Judith
+because we’re the only two people here from NARALO. We can’t
+really speak for the rest. We have a meeting this week. We’ll ask
+our community, and we’ll send out to the newsletter a request
+for people to participate. One or two is reasonable from each
+organization, but what would be helpful is an infographic of
+some kind showing the flowchart on what the expectations are.
+
+Page 27 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+I’ve just done a cut-and-paste from the description. The
+expectation is once a month calls. What other expectations? I
+want to make sure it’s very clear. I don’t want somebody to sign
+up saying, “All it is is once a month call, one hour a month.
+That’s it.” Are there more expectations from the process?
+
+OLIVIER CREPIN-LEBLOND: Thanks, Glenn. Rob Hoggarth?
+
+ROB HOGGARTH:
+
+Thank you. I don’t think you should look at this as a monthly or a
+weekly exercise. Again, this will be part of the pilot. The input
+that goes into the fifth one will be different from the input that
+goes into the first one. We’ll get advice from Dan and Emily on
+this. I think you should be looking at different stages of the
+writing of each of the documents. In other words, you might say,
+“We’re going to produce an outline. We’ll want to have a call
+after the outline. Then we’ll do a draft, and we’ll just expect email edits back.” Approach it from that perspective, as opposed
+to, “We’re meeting every third Tuesday.” I don't think that’s the
+right approach for this specific effort. It’s much more projectdriven, not, “This is going to be an ongoing now new obligation
+that we have as the community.” It is a pilot and it’s a much
+more limited duration.
+
+Page 28 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+The only other thing I’d like to throw into that is – this would be
+very helpful to have from all of you – these documents are
+ultimately going to be translated into at least the six UN
+languages. You may individually, within your own region, say,
+“Yeah, we’re going to have to, on the side, translate it into
+another language or so,” but I think as part of the drafting
+process, it would be interesting – maybe not on the first one or
+two, Dan – but to generate some of the drafts in the languages in
+which they’re ultimately going to be produced so that we’re not
+just translating the final version, but that you have input at every
+stage of the process in other languages.
+Just something to think about, but again, this is not a time
+effort. It’s much more project-driven. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Thanks for this, Rob. I think we need to move on. I was going to
+just add more thing to this. Did you wish to respond quickly,
+Glenn McKnight?
+
+GLENN MCKNIGHT:
+
+Yeah. I do understand it’s a project-based and results-based
+approach to this, but asking for volunteer, I need to have some
+kind of concept. What are they obligated to do? How much time
+commitment? These are busy people, and I don’t want to suck
+
+Page 29 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+them into something thinking that the impression, it’s just a
+monthly thing. You’re saying you can’t really put a time to it. It’s
+a project-based approach. It may take longer. It may take
+shorter. It’s a process more than anything else.
+
+ROB HOGGARTH:
+
+That’s correct. I think what we’ll look for is feedback from Dan
+and Emily, new assignment. He was taking notes here to look at
+what that process might look like because you’re right, Glenn.
+It’s not realistic to ask somebody, particularly when right now,
+we don’t know. Then again, there are folks in your communities
+who have talked about this before, who’ve expressed interest.
+You may have people who are really good writers or folks who
+have a particular interest in a particular area. You might have a
+different person for a different topic. I don't know.
+I think what Silvia’s point was, though, please, just as a start,
+maybe it’s you. Then you turn it over, delegate it at a certain
+point in time. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Emily Taylor?
+
+Page 30 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EMILY TAYLOR:
+
+EN
+
+Thank you very much. Thanks, Glenn, for that question. It really
+raises a very practical issue about how you call on members of
+your communities to volunteer for something that is
+experimental and could be open-ended.
+I do also see as part of the pilot, is for us jointly to understand
+the inputs that are needed and the rate of work that’s really
+required with us and the community working together for it to
+be a success. I would imagine that a starting point would be to
+have quite a lot of e-mail exchanges on the mailing list,
+supplemented with regular calls. I think that Rob has been very
+realistic in outlining the experimental nature. It will probably
+take a while to crank up. Probably the first couple of attempts
+might well highlight areas that we can improve on.
+I know this doesn’t really help in getting a crisp call to action
+from your own communities. I think that Rob’s suggestion is very
+helpful, that perhaps a way to start might be to add an extra
+burden to those who are already highly, highly committed to the
+At-Large process and ask for their help. Then once we all
+understand it, once it’s part of the template – we’re all seeking
+to get a templated approach, and part of that template will be
+understanding the expectations of community involvement.
+Sorry not to be able to be a bit crisper or more precise, but it was
+really to back up that statement. Thank you.
+
+Page 31 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Emily. We do have to move on, but I was
+going to close this off with an action item on all the RALOs. I
+don't know who’s taking the action items, but I will say it exactly
+as it should be recorded. All the RALOs to provide the details of
+one or two representatives to take part in this project.
+I was going to add one more thing that’s not an action item, but
+perhaps it would be. The next face-to-face meeting of the
+regional leaderships is going to be in Hyderabad. That’s in
+November. It’s quite a few months away. I would suggest
+perhaps to Siranush that we might wish to have more than just
+one call in between now and Hyderabad, maybe a monthly call
+of the regional leaders or every six or seven weeks or something,
+so that we could also keep track of this and not only have this
+small group of people working with you but also all of the
+regional leaders being able to be coordinated with this.
+Siranush?
+
+SIRANUSH VARDANYAN:
+
+Noted. I think that this is a good situation. Just related to the
+last action item, Satish volunteered to be a member of this
+group from APRALO. Thank you.
+
+Page 32 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Siranush. That’s what I love about Asia.
+They have answers before you ask the question. It’s so quick like
+this. Europe, come on. Catch up.
+You do have this advantage. You’re further east, so you’re always
+ahead of us. That’s what it is.
+Let’s move on, then. Thanks very much.
+
+[SIRANUSH VARDANYAN]:
+
+Actually, this is the only opportunity to see these people in
+person.
+
+OLIVIER CREPIN-LEBLOND: Just last words from Dan.
+
+DAN O’NEILL:
+
+I would like to add we have had the opportunity to have Emily
+Taylor on the phone, who is actually one of those that is going to
+be working on producing the primer document. I just wanted to
+identify a second individual who we’ve had the opportunity to
+speak with, have an onboarding call with. That is Samantha
+Dickinson, who has also done some work on other ICANN
+projects. Samantha has also agreed to help us with the writing
+of these primer documents. I feel very, very strongly about the
+
+Page 33 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+team that we’ve put together and the ability to deliver a very
+useful product to you and your colleagues.
+
+OLIVIER CREPIN-LEBLOND: That’s great. Thank you very much, Dan. It’s good to hear some
+names that we actually know and who have been following this
+community for a long time. Thanks to Dan O’Neill and to Rob
+Hoggarth.
+We have to move swiftly on with more At-Large Summit
+recommendations. The review of ATLAS II, I’ve already given the
+introduction. We can move straight to recommendation number
+28, but there is one more thing I do need to tell you about, which
+is the follow up that Ariel and Heidi and I have been dealing with,
+which is nearing the completion of those recommendations. We
+have to have a final report at some point. It’s been two years
+since they’ve been recommended.
+There’s been a lot of work done by the community. There’s even
+more work done, and we’re starting to close some of these off.
+Many of them are still in progress, but slowly, we’re reaching the
+point when we can then say, “What has been done? It’s enough.
+Is it something that's been passed on, that's been responded to,
+that has been implemented indeed?” and then see if there are
+any next steps.
+
+Page 34 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+I don't know how you wish to do this, Ariel, because I know that
+you have the control of all the electronics and all this thing.
+You’re the number two in line, then, for this, but let’s ask Ariel
+first. How do you wish to do this?
+
+ARIEL LIANG:
+
+I think probably we shouldn’t spoil the report for now. I actually
+put the text for the implementation details and next step to each
+of the recommendations in the Wiki, so let’s just take a look at
+the Wiki page and the summary box with the text.
+
+OLIVIER CREPIN-LEBLOND: Fantastic. Thank you, Ariel. Recommendation 28 has indeed the
+summary. The recommendation itself asks that “the ALAC
+should work with all RALOs and At-Large Structures to map the
+current expertise and interests in their membership, to identify
+its subject matter experts and facilitate policy communication.”
+You’ve all heard that before, haven’t you? It’s become a weekly
+mantra.
+The Implementation Details, as you can see on the screen and
+that you can also click on from the agenda, says that “in the fall
+2015, each RALO created, distributed, and analyzed a general
+survey to understand the subject matter expertise and interests
+
+Page 35 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+of At-Large Structures. The response rate is inconsistent across
+RALOs.
+“At present, a centralized ALS information database is being
+constructed and every ALS will be contacted to check the
+accuracy OF their contact, communication, and membership
+information. As part of this effort, ALS expertise and interest will
+be included in the database, and ALSEs will be asked to provide
+that information.”
+As Next Steps, there’s just a single line. “At-Large community
+leaders will work with ICANN staff to develop a specific
+question” – questionnaire perhaps would be the right thing
+because we’re not going to ask just one question – “a specific
+questionnaire regarding ALS expertise and interest to ask each
+ALS; information gathered will be included in the ALS database.”
+I’m sorry. My eyes are slowly going to go after a long day like
+this.
+Are there any comments about this? Humberto Carrasco, you’re
+about to bring your flag up. You have the floor. I’m going to have
+to put my headphones on.
+
+HUMBERTO CARRASCO:
+
+Thank you very much. I’m going to talk in Spanish. I’d like to tell
+you a brief story about this point because, although we did the
+
+Page 36 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+first part of the survey, we realized that it might be possible to
+move forward and get some additional information about all the
+members of the ALSes. For several reasons, between Marrakech
+and today, I haven’t been able to participate in the leaders’
+meeting.
+I have been able to talk to [Siranush]. I had committed to her to
+do this, but I have tried to develop a draft survey because, as you
+know, we asked the staff whether there was expert staff that
+could help us to create a more professional survey as this. They
+said there wasn’t. I took up the challenge of drafting a more
+professional survey. Being a good researcher, I actually reviewed
+several documents in order to create a survey which was more
+accurate.
+This has taken more time than I thought it would take me, but I
+believe that in the next two or three weeks, I might be able to
+submit a draft survey. I will send it to Siranush so that we can
+circulate it later on and move forward in this area. Thank you
+very much.
+
+OLIVIER CREPIN-LEBLOND: [Thank you very much], Humberto. That’s really great news,
+which therefore means we can move on to the next
+recommendation. This is firmly in progress. Of course, we’re not
+going to provide a final report at this meeting. The aim is to
+
+Page 37 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+make enough progress to have a final report of our
+recommendations by Hyderabad, but if in the next three weeks,
+we can move on this, that would be very welcome.
+The next recommendation is number 42, I believe. This one is as
+follows. “ICANN should enable annual face-to-face RALO
+assemblies, either at ICANN regional offices or in concert with
+regional events.”
+I’m not going to read through the full Implementation Details
+because I think that you all know what the answer is on this one.
+Effectively, what it speaks about is the multi-year proposal for
+general assemblies and for At-Large Summits. That, as you know
+or might not know, has been now agreed in principle by the
+Board for it to go into the overall ICANN budget, so we’ve made
+good progress on this. The finance department has adopted the
+recommendation.
+The Next Step is for “the ALAC Chair, the ALAC subcommittee on
+finance and budget, and the ALAC selected ICANN Board director
+to maintain a watching brief on the integration of the At-Large
+multi-year schedule of general assemblies and summits into
+ICANN’s five year operating plan.” That’s the next steps with this.
+I don’t really think we can ask for more than this. We’ve
+presented it, and it’s been agreed. That looks like we’re set to
+actually be able to have those regular general assemblies and
+
+Page 38 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+regular At-Large summits, which means we can move to the next
+one, recommendation number 43.
+I hadn’t seen. Sorry. Yes, Ron da Silva?
+
+RON DA SILVA:
+
+Thank you. Just thought I’d comment since Rinalia’s not here.
+She’s certainly been advocating for these and communicating
+with the rest of the Board that that’s the plan and integrating
+that into the five-year plan and the budgeting and everything
+else. Just wanted to put in a kudos to her since she’s not here to
+do so herself.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Ron. It’s great that now when we have a
+Board member missing, they send someone else, as well. That’s
+really good to see you here, so thank you.
+Next recommendation is…
+
+UNIDENTIFIED FEMALE:
+
+[inaudible]
+
+OLIVIER CREPIN-LEBLOND: What other end? That’s because you’re not putting your flag up. I
+thought you were just waving your hand around.
+
+Page 39 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+GLENN MCKNIGHT:
+
+EN
+
+I can give you my glasses if you want.
+
+OLIVIER CREPIN-LEBLOND: No, that’s fine. Go ahead, Glenn.
+
+GLENN MCKNIGHT:
+
+You skipped 31?
+
+OLIVIER CREPIN-LEBLOND: Yes, I will go back to 31, sorry. It’s just that I think I opened one
+window after another and I missed that one. It’s a good point.
+Let’s go to recommendation 31, where Glenn McKnight is going
+to provide us with an update after I read the recommendation,
+which is that “ICANN and the ALAC should investigate the use of
+simple tools and methods to facilitate participation in public
+comments and the use of crowdsourcing.” Glenn McKnight?
+
+GLENN MCKNIGHT:
+
+This has not only fallen on myself, but it actually went back to
+the TTF, so Dev and I will talk about two products: eXo, and in
+our next TTF meeting, we’re actually going to be demonstrating
+a product that’s being used by NCUC. Dev, did you want to talk
+about the two?
+
+Page 40 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+UNIDENTIFIED MALE:
+
+EN
+
+Just as an acronym, the acronym police would call it the
+Technology Taskforce.
+
+DEV ANAND TEELUCKSINGH: Thank you. Yes, the Technology Taskforce has been looking at
+this recommendation. We have three possible tools in play,
+actually, and we’ll be discussing it fully at our Thursday 8:00 AM
+session.
+Briefly, the eXo platform has possible potential for solving the
+recommendation 26, which is the policy management process
+system, in terms of being able to track a person’s comments.
+They appear in an activity stream. You can then search by those
+streams and even create spaces for likeminded persons to then
+be grouped together and then start commenting on things.
+That’s one thing. We’ll be discussing with ICANN’s IT staff as to
+how we can best test this tool.
+The second tool was something similar to a product that we
+identified, LiquidFeedback, something called Kialo. Jimmy
+Schulz knows the developer of that product, and he will be
+arranging to have that person on our next Technology Taskforce
+call after Helsinki.
+The third one was … Oh, dear. Now my mind’s gone blank.
+
+Page 41 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+OLIVIER CREPIN-LEBLOND: The early afternoon blank, which affects us all after lunch.
+
+DEV ANAND TEELUCKSINGH: That’s what happens with no lunch and no coffee.
+
+OLIVIER CREPIN-LEBLOND: Was it SLACK?
+
+DEV ANAND TEELUCKSINGH: Yes. I’m going back to group chat applications. Thanks for that
+trigger. It was a group chat application, such as SLACK, and
+NCUC is using a trial chat application similar to that. They will be
+demoing it on the Tuesday session. Thanks.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Dev Anand Teelucksingh. It certainly is
+one of these recommendations where an enormous amount of
+work has taken place, so we’re very thankful that the
+Technology Taskforce has taken this not with just one hand, but
+with both hands, their teeth, and everything else. The weekly
+calls have been very productive. This whole technology thing is
+particularly important because of the fact that we are so
+distributed around the world. In some parts of the world, it
+might be difficult to use some of these tools, so being able to
+Page 42 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+actually do hands-on testing. I know that it’s a vibrant working
+group. It’s really good to have that.
+Seeing no other hands around the table, let’s go on then to
+recommendation number 42. That’s not right. Number 43. There
+we are. “RALOs should encourage their inactive ALS
+representatives to comply with ALAC minimum participation
+requirements.”
+Earlier this week, there was a discussion – I think it was
+yesterday. Yes, it was yesterday – on ALS engagement and
+metrics, since that is a component part of the overall discussion.
+The North American At-Large Organization, so NARALO and
+APRALO, have both made great efforts in contacting inactive AtLarge Structures and informing them of minimal participation
+requirements. I don't know what it is like with the other RALOs,
+but it’s certainly something that we can’t say is just an ALAC
+thing. This is our own ALS representatives that have been asking
+for this because obviously they’re the ones spending the time in
+the rooms and thinking, “Why should we drag along all of the
+ones that are not doing this?”
+Maybe Siranush Vardanyan can provide us with some thoughts
+on this, and Judith afterwards, yes. Siranush Vardanyan?
+
+Page 43 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+SIRANUSH VARDANYAN:
+
+EN
+
+Actually, I would like to tell you about one initiative which
+APRALO decided to start, and we’re already in the process of
+discussion among leadership team. This is APRALO mentoring
+project, which we have an intention to put as part of our strategy
+for Fiscal Year 17. We intend to start the actual process from
+Hyderabad until Copenhagen to develop the capacity of the next
+generation for APRALO. That’s some kind of [the stuff].
+We already put this idea into our mailing list, and we already
+have nine or ten people express their willingness to be a mentee
+in this process. We will be doing pre- and post-survey among
+those people to find out more about their interest to match
+mentees and mentors among APRALO leadership team, as well. I
+hope that this will be a very good process for ourselves, as well,
+to learn and encourage ALSes to become more active in policy
+discussions, in discussions of any type within the RALO, as well.
+That’s just as an update from our part on this.
+
+OLIVIER CREPIN-LEBLOND: Thanks very much for this, Siranush. It’s good to see that there’s
+of course not only the threat of minimum participation
+requirements with the metrics, but there is also this enticing,
+this pulling forward and saying, “Let us help you be a better
+participant or a more active participant in this.” It’s great to see
+that, and I think we can all learn from this. Judith Hellerstein?
+
+Page 44 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+JUDITH HELLERSTEIN:
+
+EN
+
+This is Judith Hellerstein for the record, NARALO Secretary.
+Glenn and I have done a lot of work on outreach, as you
+mentioned, in trying to reengage our ALSes. One of the things
+that we found that we needed to correct as we’re doing it is that
+we found out that according to NARALO’s rules and procedures,
+we don’t have any minimum requirements. We’re looking at
+APRALO’s and some other ones of modifying our rules and
+procedures so that we can have some type of minimum
+requirements, whether it be attendance at a NARALO meeting,
+participation in the working group, comments. We just want
+some kind of engagement and have some basic metrics so that if
+people are not doing that, we would want to get at them
+possibly. Also looking at having more than one contact person,
+so maybe two or three because sometimes some people are very
+busy and they can’t get to it. They always intend to, but if you
+have a second contact or a third, we can get them involved.
+We’ve been doing also, not official mentor programs, but we’ve
+been asking at our monthly meetings what different ALSes are
+up to and figuring out what are their interests and how can we
+address them. Also, found out a lot of them are not very
+knowledgeable about what the RALO is doing and what ICANN is
+offering. We’re also putting together a series of discussions with
+members on what are the different tools that are out there. Last
+
+Page 45 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+year, for our recent elections, we did a get to know your
+candidates. We rolled out to the different ALSes, saying, “Please
+send us your questions, either advance or afterwards,” and
+trying to get them to come to the get to know your candidates.
+It’s our effort to reach out to different groups within our area.
+
+OLIVIER CREPIN-LEBLOND: Thanks very much, Judith. I note that in EURALO, we had a
+general assembly earlier. We touched on this, as well. Maritza
+Aguero? Then did you wish to speak as well, Aziz? Then we’ll
+close the queue after Aziz because we really need to move on
+with this. Maritza?
+
+MARITZA AGUERO:
+
+Thank you very much. I’m going to speak in Spanish, so please,
+your headphones.
+As regards recommendation 43, we have a document. The
+corresponding working group has a draft project to implement a
+series of metrics. That document, due to the [inaudible]
+situation through which LACRALO is going through, is still in
+standby mode. Latest draft dates back to the beginning of the
+first quarter this year. This was reported to the RALO secretariat
+mailing list in May 16. We trust that very soon, we will be able to
+go back to this issue and continue with the proposal that was
+
+Page 46 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+initially submitted so as to provide our feedback and move
+forward. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Maritza. Aziz Hilali?
+
+AZIZ HILALI:
+
+Thank you, Olivier. I’m going to speak in French. I just wanted to
+add a comment. It’s very good to work on capacity building for
+ALSes. It’s very good, but we need to think a little bit to go
+farther at the local level. We need to work with young people,
+with students. I want to remind you the experience we made in
+Marrakech in which we were during the ICANN meeting with
+students. Also, after the capacity building we made with these
+students in Marrakech at the university level that was near the
+meeting venue in Marrakech, afterward, we have received
+around 100 applications for our ALSes because after this
+meeting, they were really interested. They wanted to know more
+about ICANN, about Internet at the local level. That is very
+positive.
+I also wanted to say that at the AFRALO level, we have realized
+some webinars on the IANA transition and we are also trying to
+recreate the working group on the new rules of AFRALO. I’m
+finished.
+
+Page 47 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Aziz. [We’ll move] on to the next
+recommendation. I believe it is number 29. This one says that
+“the ALAC should implement an automated system for tracking
+topics of interest currently being discussed among the various
+RALOs and accessible by everyone.”
+Dev had alluded a little bit to some of these tools. I think maybe
+what you gave as an answer earlier would probably qualify with
+that, as well. Did you have anything else to add, Dev Anand
+Teelucksingh?
+
+DEV ANAND TEELUCKSINGH: No, not at this moment. Like I said, we’ll be discussing with
+ICANN’s IT staff on how to do the testing of these tools.
+Hopefully, we’ll get some answers next month.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Dev. I think we’ve gone through the
+recommendations at quite a good pace, but as I said, there is
+going to be some more work soon with Ariel to finalize some of
+these over the summer and over the next few months, and of
+course, with the additional input that will be received from the
+different working groups.
+
+Page 48 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+Have I missed anything? I have missed something.
+Correct. The way the process will work is that we’ll have a first
+draft ready at some point. Let’s not put a deadline. Let’s not do
+it like everything in ICANN. You put a deadline and then you
+come back afterwards and say, “We can’t hold that deadline.”
+We’ll have a first draft ready. That will go back to the ATLAS II
+recommendation taskforce. They will be able to review it, refine
+it, change it, and so on. Their aim is to be able to have it before
+the ALAC itself for, again, ratification, etc., by the Hyderabad
+meeting, which is in November.
+Heidi Ullrich?
+
+HEIDI ULLRICH:
+
+Thank you. Two comments. I believe that the plan then, after the
+ALAC looks at it one more time, is that it’s then going to go to the
+Board via perhaps the ALAC speaking to the Board in Hyderabad.
+Also just to note that when Rinalia speaks to all of us as well as
+the ALAC on Thursday, that draft report, she’s going to be
+looking at it. You’re going to be presenting it, I believe, Olivier,
+this Thursday. Then just getting some feedback, her initial
+feedback on the approach to the draft. That’s what we discussed
+earlier.
+
+Page 49 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+OLIVIER CREPIN-LEBLOND: Thanks very much, Heidi. I’m glad I got told about it now. Did I
+get told about it?
+
+HEIDI ULLRICH:
+
+I’m reminding you.
+
+OLIVIER CREPIN-LEBLOND: You’re reminding me. Okay. I wasn’t even aware of the original
+request. Fine, your people will get with my people and we’ll
+make things happen. No, that’s the wrong place.
+Let’s go to agenda item 4. We only have 15 minutes. In fact, 11
+minutes until the end of this meeting, and we still have 35
+minutes’ worth of things to go through. That’s going to be hard.
+The next one is really going to be easy because it’s the planning
+of At-Large face-to-face meetings. That, we’ve already gone
+through. As I said, this is the statement which was submitted
+and which was agreed on by ICANN finance.
+We can swiftly move on to number five, the FY17 special requests
+for RALOs. What do we do as next steps? I’m not quite sure. It
+does put my name next to it, but I wasn’t quite sure whether we
+would have to actually review what was done or what was
+granted. I know that there was a meeting of the finance
+
+Page 50 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+yesterday, so it sounds to me like we’re redoing what we did
+yesterday. Heidi Ullrich?
+
+HEIDI ULLRICH:
+
+Yes, thank you, Olivier. Yes. I think most of us were there
+yesterday when each of the requests were reviewed. The next
+step, as set up by [Alan], is that the finance and budget
+subcommittee will be convening shortly to go over the details of
+the implementation, including who’s going to be [leading] that
+from the community, as well as any materials that might be
+needed. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Heidi. It takes me to the agenda item
+which I’ve been waiting for. I’m a bit concerned because neither
+Holly Raiche nor Cheryl Langdon-Orr are here. I’ve been
+watching the room ever since being there.
+
+UNIDENTIFIED FEMALE:
+
+Heidi’s going to [get her].
+
+OLIVIER CREPIN-LEBLOND: Someone might be following us remotely. Might they be in
+Aurora next door, thinking that they could just jump in? I do
+know that Cheryl is following us remotely. She’s always follow us
+
+Page 51 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+remotely. She’s actually following most of the meetings in this
+building remotely.
+
+UNIDENTIFIED FEMALE:
+
+Heidi went to get her.
+
+OLIVIER CREPIN-LEBLOND: Heidi went to get her. Holly is not online, but that means we’ve
+got 15 minutes. In the meantime, what we can do is to go for the
+any other business discussion so we don’t waste any time. Are
+there any points that anybody would like to bring up or
+questions, comments, cooking recipes? Judith Hellerstein?
+
+JUDITH HELLERSTEIN:
+
+I very much liked the description that Ariel was talking about
+yesterday about the online databases. I think that’s going to be
+very useful for us, especially as we are trying to do our work in
+reengaging our ALSes. I look forward to having access to that
+database and being able to use it.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much for this, Judith. Indeed, another step
+forward. In the meantime, we’ve got Ariel Liang first and then
+we’ll go over to Holly Raiche, who has just stepped into the
+room. Ariel, you have the floor.
+
+Page 52 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+ARIEL LIANG:
+
+EN
+
+Thanks, Olivier. Just to respond to Judith, the database, only
+staff can have admin access at this point, but we will collaborate
+with RALO leaders to get all the data points accurate and [then]
+we will have an interim database to share with you. Then we will
+put that into the online database that we’re in process
+constructing. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Ariel. Now we have Holly Raiche and
+Cheryl Langdon-Orr joining us to speak to us about the At-Large
+review and its impact on the RALOs. For those people that were
+in the room during the EURALO general assembly, we had one of
+the people from ITEMS, the company that is doing the review.
+I’m not going to say what Holly and Cheryl have to say, so I think
+I can pass the floor over to Holly and Cheryl. Holly, you have the
+floor.
+
+HOLLY RAICHE:
+
+Cheryl will follow me, brilliantly.
+
+CHERYL LANGDON-ORR:
+
+I’m not following you.
+
+Page 53 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+HOLLY RAICHE:
+
+EN
+
+I think all of you have probably followed the progress. We
+started off several months ago in terms of realizing that the
+review was scheduled, working with the structural – I’ve
+forgotten – [inaudible] structural committee.
+
+CHERYL LANGDON-ORR:
+
+Structural improvements committee.
+
+HOLLY RAICHE:
+
+Structural improvements committee, working with them in
+terms of finalizing the sorts of qualifications we wanted, the sort
+of questions we wanted. In terms of getting the information
+together to select the kind of independent examiner that would
+actually try to understand what we do. To back up, we’ve had a
+review of ALAC. It started off in 2008. At the time, the RALOs were
+barely in existence. ALSes were probably existent, but not within
+the structure very well. The first and only review of ALAC
+concentrated just on ALAC. This review – and this review is part
+of the constant review process that is written into ICANN’s
+Constitution – will therefore focus very much on RALOs and
+ALSes and how they actually contribute to the ICANN process.
+Where we’re up to now: the independent examiner, based on
+criteria that is standard to ICANN but also with input from all of
+you, has been selected. The team is here. There are four people.
+
+Page 54 of 66
+
+EN
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+There’s Tim, Tom, Nick, and Rosa. They’ve been assigned to
+various regions. We’re all meeting them and talking to them. In
+fact, in about ten minutes, members of APRALO will be talking to
+our examiner.
+Where we are up to, based on all of the interviews that they will
+have done with all of you, they will then develop a survey
+following on the sorts of input that they’ve had. Based on that
+survey and on the interviews and discussions they’ve had, they
+will then come up with a draft report, which will be given back to
+the working party, particularly to Cheryl and myself, for input,
+for comment, for whatever. If my schedule is right, by the end of
+the year there will be a final report. I have to say, at that time,
+that's
+
+when
+
+the
+
+fun
+
+begins
+
+because
+
+there
+
+will
+
+be
+
+recommendations. Presumably how to improve, although I
+recognize none of you think we need improvement, but just in
+case, how to improve the structures, how to actually make the
+structures that we have more a part of the achievements of
+ICANN’s mission.
+Where we’re up to now is really the four team ITEMS are going to
+be talking to all of us. What they’ve done is offer various ways of
+communicating with them. What APRALO has done is say, “We’re
+just going to have” – I was going to say “group think,” but that’s
+Orwellian – “We’re going to have a group meeting with them,
+talking through our own vision of our particular RALO and how it
+
+Page 55 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+works.” You can do the thinking and the meeting that way. You
+can do it individually, or you can do both. It will be your call as to
+how that’s done, but they certainly are looking forward to
+talking with all of you on input into how you’ve input into the
+ICANN process, what you think works, and what you think
+doesn’t work.
+I would urge all of you to make whatever effort you can to talk to
+the team leader that has been assigned to your area, and then
+when it comes time for the survey, to actually participate in the
+survey. Then you will be hearing from us again. Cheryl?
+
+CHERYL LANGDON-ORR:
+
+Thank you, Holly. One of the things I wanted to take a couple of
+minutes today to talk specifically to you as regional leadership is
+a little bit about what you can expect and what you should plan
+for for this process. We have Wikis. You know how to use them.
+We have resource material. You know how to look it up, but
+what can you expect?
+This is very much an opportunity to have an externally managed
+and unbiased view by people who are looking at us, and in this
+case, particularly you and your parts of ICANN in context of AtLarge – and keep thinking At-Large. It would be nice if we kept
+saying At-Large more in this next 12 months, as opposed to the
+RALOs and then have to say this one, this one, this one. Let’s
+
+Page 56 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+think from an At-Large and then RALO and, of course, ALAC as
+well – as a fitness for purpose test. That’s pretty much what’s
+going to be happening. We will be looked at and an analysis will
+be made and an outcome will indicate how fit we are as entities
+for the purpose we are in this organization to do.
+If you think about it as organizational RALO or At-Large Structure
+fitness for purpose, it will help you take a journey that is
+designed really to improve us all and to find perhaps novel or
+new ways of doing what we do well even better. If you come into
+this exercise and treat it as a threat or as critical to your
+professionalism and skills, it will be a very uncomfortable
+situation that you’ll be putting yourselves in. I’d like to
+particularly encourage you because the At-Large Structures will
+be looking to you for explanation as to why is this happening
+and what’s going on and does this mean everything’s going to
+change and does change mean risk. You’re the first point to give
+a degree of confidence and understanding as to why all of this is
+a good thing, and it is.
+You also should remember to reassure everyone involved,
+including yourselves from time to time, that as a result of very
+good, deep thought-out advice on how we might do some things
+better, achieve our aims more effectively, make a better model
+for us all to benefit from, it will be up to us to implement. There
+may very well be then an opportunity for you to increase
+
+Page 57 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+engagement in your areas by getting more people that have just
+had their appetite whetted by doing a survey or being
+interviewed to get more deeply engaged in your region by
+getting them on board in parallel implementation.
+I’m looking to Dev because he knows how much we all got to get
+to know each other and how we grew as a broader leadership
+team, not just the 15-person ALAC, but the 15-person ALAC and
+the key people in the region when we did the implementation of
+what the suggestions were as a result of our first review.
+Take it as positive. Take it as an opportunity, and take it that you
+can ask veterans like Olivier and like me at any time to come and
+talk to your At-Large Structures. The ITEMS people will be there
+to help and make it as positive and as gentle as possible, but we
+can also do things to help, as well. You are a partner in this
+process. Don’t be passive. Make it the best you can make it, and
+you will reward and our organizations will, as well. Thank you.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Cheryl. That was eloquently said and
+quite robust, I would say, as well.
+
+CHERYL LANGDON-ORR:
+
+Page 58 of 66
+
+Moi?
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+OLIVIER CREPIN-LEBLOND: Heidi Ullrich?
+
+HEIDI ULLRICH:
+
+Thank you, Olivier. Thank you, Holly and Cheryl. [inaudible]
+
+CHERYL LANGDON-ORR:
+
+I do apologize. I have to know where my next meeting was going
+to be, which is starting now. They’re all leaving for it.
+
+HEIDI ULLRICH:
+
+Actually, the next one is 3:15 is you’re looking for the auction
+proceeds.
+
+CHERYL LANGDON-ORR:
+
+How little you know of my diary. Go on.
+
+HEIDI ULLRICH:
+
+Your point about how the RALO leadership could communicate
+with their At-Large Structures, very good point. Do you have any
+particular suggestions on how best they might wish to do that?
+
+CHERYL LANGDON-ORR:
+
+One of the things I’d like to suggest – Holly, I’ll just hold the fort
+here. You go do the more needful and give my apologies in
+
+Page 59 of 66
+
+EN
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+advance. I’ll get there eventually, or not. The fact that you’ve all
+had briefings and have a set of information and knowledge, that
+now needs to be shared. That needs to be shared in a way that’s
+most effective for your communities. Your communities may
+benefit more from having a PDF attachment that you can send
+out off a mailing list. It may benefit by also, or instead of having
+an active Wiki within your regional space, it could of course
+benefit
+
+by
+
+holding
+
+a
+
+regional
+
+webinar.
+
+In the case of some regions, this can be done in different
+languages and in different time zones. All of those opportunities
+allow you to build a body of work that when an At-Large
+Structure or an individual member, which many of our regions
+have now, and they’ve just not been available at 13:00 UTC that
+day, they know that they can pick up that information and pick
+up, “Why am I getting asked to do more than one type of review
+survey?” We may end up doing different things at different
+times.
+We also should probably, in my very biased view as someone
+who’s run a few meetings in their time, including some regional
+ones, have, if not at every meeting, at regular meetings, a fixed
+agenda item whereby the update on what’s happening with the
+ALAC and At-Large review is looked at.
+
+Page 60 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+It may be one of those meetings, it will be a two-minute section,
+and at other meetings, it will be a ten-minute discussion with
+pre-provided support information and links that people have
+had to look at. I’d go for diverse.
+I would also suggest that while we go through this process, you
+will also warn your At-Large Structures, and particularly those
+that are likely to be engaging with other activities in the Internet
+ecosystem in their area, that it is quite possible that you will run
+into some of the review team, the independent examiners, who
+will be attending a non-ICANN meeting and approaching them in
+that context for sharing of information and perhaps even follow
+up on something they may have seen earlier. Forewarned is
+forearmed. Not everyone can just respond to questions at the
+drop of a hat, so share information in as many ways as you think
+is practical. Any other questions?
+
+OLIVIER CREPIN-LEBLOND: Tijani Ben Jamaa?
+
+TIJANI BEN JAMAA:
+
+Thank you very much, Olivier. Very relevant point, Heidi. I think
+that this review without the ALSes will not be really a real review
+of the At-Large. We need this involvement of the ALSes, and it
+cannot be one size fits all. Each region should have its own way
+
+Page 61 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+to do it. It must be for each call a section about it. Second, we
+have to have something for such as Wiki, as you said. Very good.
+Also, I would like the team, the four people of the review, to have
+the contact of our ALSes and to interview them, also. This is the
+way we will have a real review of the At-Large. Thank you.
+
+CHERYL LANGDON-ORR:
+
+Thank you very much, Tijani. [inaudible] came over to make the
+foolish mistake of talking to me while I am concentrating on
+someone who’s speaking to me, so he got the usually polite
+“Wait,” as anyone, including the CEO, would get if they did
+exactly the same thing. He then got partway through his
+sentence, which says, “I’d be happy to provide progress updates
+to At-Large at a -” I believe the rest of it would be regional
+meeting.
+
+UNIDENTIFIED MALE:
+
+[And on a] regular basis, actually.
+
+CHERYL LANGDON-ORR:
+
+And on a regular basis. That’s good, but that it’s not just a oneway update. It’s an opportunity for questions, what’s happening
+next, why is it happening, etc. Yes, one size is not going to fit all,
+but you certainly need to all make sure you look at what each
+other’s doing and say, “Are the regional leadership team in that
+
+Page 62 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+region doing something my region could benefit from?” Cheat
+sheet off each other and just all make it better.
+
+OLIVIER CREPIN-LEBLOND: Thank you. Tijani, if you could please turn your mic off, as well.
+I think that we’ve gone through each way of all of the ALS
+metrics. What am I saying? Not the metrics. The At-Large review.
+I was going to say, “We still have one AOB which says metrics on
+there, and I was just wondering.” It’s not even a five-minute
+thing because we’ve already done all of our AOB.
+I was just going to mention two words on the metrics. How is the
+ALS metrics working group doing?
+
+CHERYL LANGDON-ORR:
+
+Let me take a dollar each way. The term metrics may be
+interpreted to belong in a number of places these days. If that
+reference was in fact for the At-Large Structure expectations and
+criterion, then that is an active group which you have recently
+seen an update of. There is a lot of opportunity for more input,
+especially as we move to our next phase of work because we’re
+starting to put our draft documents. Our draft documents need
+feedback from you and your regions and your At-Large
+Structures.
+
+Page 63 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+EN
+
+If that is what that refers to, then it’s live. It’s important that part
+of our time is spent on that, and it actually dovetails with the
+review process because criterion expectations is a natural fit
+when we’re looking at something that says how fit for purpose
+are At-Large Structures. Are we recruiting right, for the right
+reasons, giving the right information, enabling in the right way?
+All of those questions will be helped by exploring that work, as
+well.
+If you mean the dim, dark, distance past on the not yet bereaved
+but still sitting on a life support system metrics working group,
+when we have far too few committed people volunteering for
+key roles, a consequence of just human bandwidth is when they
+are taken elsewhere for more time-critical activities – and
+apparently there’s an IANA transition thing that hopefully by the
+end of the year something might have happened about – if that
+happened, then a lot of work that's being done will have been
+validated, but we simply put that work on the back burner for
+now. It is absolutely flick a switch and it’s ready to go, but ladies
+and gentlemen, I will not let an opportunity go past for a quick
+ad while I have the microphone.
+It would be marvelous if each of your regions could now look at
+even that metrics working group and say when that gets turned
+back on and they call for a refresh of people because many of
+the people who are currently listed as working group members
+
+Page 64 of 66
+
+EN
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+are no longer in the roles and positions that they had when they
+were put on that work in the first place. You can start looking
+now for enthusiasm, for talent, for skillsets, for people who just
+want to do something and they’re not sure what yet, and get
+them to join us when we start that up fresh and get that going
+again.
+Anybody who has any concerns or questions about the metrics
+working group should see Maureen Hilyard or myself.
+
+OLIVIER CREPIN-LEBLOND: Thank you, Cheryl. Tijani, 30 second question or comment.
+
+TIJANI BEN JAMAA:
+
+Thank you. Thank you very much, Cheryl. Our RALO has its
+operating principle and a review. One of the points that are
+reviewed
+
+are
+
+the
+
+performances
+
+and
+
+the
+
+metrics
+
+for
+
+performances. Unfortunately, we were supposed to finish it in
+the end of 2015. You know. We resume now, and by the end of
+this year, it will be for sure finished. Please don’t finish your
+work before we give you our input because I think that,
+especially for the performance [and metrics], it must be each
+region has its own way to do. As you know, the cultural
+difference, etc. Thank you.
+
+Page 65 of 66
+
+HELSINKI – At-Large and Regional Leadership Meeting
+
+CHERYL LANGDON-ORR:
+
+EN
+
+Thank you for that, Tijani. Just briefly in closing on that, what
+you said is vital because what the metrics working group has
+done is said, “Here are some overarching principles and some
+methodologies we can use. The specifics are, of course,
+culturally sensitive and going to be best managed within that
+larger framework by specifics within region.” I’m delighted to
+hear you’ve made that particular commitment because as I’ve
+seen now, all but – Has LACRALO finished their review yet? No,
+they’ve not finished their rules of procedure. No. As I’ve seen
+NARALO has done theirs. I believe EURALO is or hasn’t yet, is
+about to. APRALO has done theirs, and now AFRALO is doing
+theirs. Metrics component has become a new, in some cases, but
+a very important part of the outcome document, so looking
+forward to that.
+There’s not a hope in Hades that we will be finished before
+you’re finished. I can assure you.
+
+OLIVIER CREPIN-LEBLOND: Thank you very much, Cheryl. With a big thanks to the
+interpreters for staying another extra 15 minutes, I’d like to close
+the meeting. Thank you and goodbye.
+
+[END OF TRANSCRIPTION]
+
+Page 66 of 66
+
+

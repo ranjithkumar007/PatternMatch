@@ -1,0 +1,170 @@
+DNSSEC Encryption Algorithm Agility
+
+ICANN 56 DNSSEC Workshop
+June 27, 2016
+Helsinki, Finland
+Dan York, Internet Society
+
+www.internetsociety.org/deploy360
+
+DNSSEC Algorithms
+•  Used to generate keys for signing
+•  DNSKEY
+
+•  Used in DNSSEC signatures
+•  RRSIG
+
+•  Used for DS record for chain of trust
+•  DS
+
+•  Used in validation of DNSSEC records
+
+www.internetsociety.org/deploy360
+
+IANA Registry of DNSSEC Algorithm Numbers
+• 
+
+http://www.iana.org/assignments/dns-sec-alg-numbers/dns-sec-alg-numbers.xhtml
+Number
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15-122
+123-251
+252
+253
+254
+255
+
+Description
+Reserved
+RSA/MD5 (deprecated )
+Diffie-Hellman
+DSA/SHA1
+Reserved
+RSA/SHA-1
+DSA-NSEC3-SHA1
+RSASHA1-NSEC3-SHA1
+RSA/SHA-256
+Reserved
+RSA/SHA-512
+Reserved
+GOST R 34.10-2001
+ECDSA Curve P-256 wSHA-256
+ECDSA Curve P-384 wSHA-384
+Unassigned
+Reserved
+Reserved for Indirect Keys
+private algorithm
+private algorithm OID
+Reserved
+
+www.internetsociety.org/deploy360
+
+Mnemonic
+RSAMD5
+DH
+DSA
+RSASHA1
+DSA-NSEC3-SHA1
+RSASHA1-NSEC3-SHA1
+RSASHA256
+RSASHA512
+ECC-GOST
+ECDSAP256SHA256
+ECDSAP384SHA384
+INDIRECT
+PRIVATEDNS
+PRIVATEOID
+
+Elliptic Curve DNSSEC Algorithms
+•  ECDSA – RFC 6605 – April 2012
+
+Under development:
+•  Ed25519:
+•  draft-ietf-curdle-dnskey-ed25519
+
+•  Ed448
+•  draft-sury-dnskey-ed448
+
+(See “New Curves in DNSSEC” from ICANN 55)
+www.internetsociety.org/deploy360
+
+Why Do We Care About Newer Algorithms?
+•  Faster!
+•  Signing
+•  Validation
+
+•  Smaller keys and signatures
+•  Packet size (and avoiding fragmentation)
+•  Minimizing potential reflection/DDoS attacks
+
+•  Better cryptography
+•  Move away from 1024-bit RSA
+
+www.internetsociety.org/deploy360
+
+Aspects of Deploying New Algorithms
+•  Validation
+•  Signing / DNS Hosting Operators
+•  Registries
+•  Registrars
+•  Developers
+
+(See ICANN 55 Marrakech DNSSEC Workshop archives
+for more information.)
+
+www.internetsociety.org/deploy360
+
+Discussions To Date
+•  Mar 2016 - ICANN 55 DNSSEC Workshop, Marrakech
+•  Apr 2016 – DNS-OARC Workshop, Buenos Aires
+•  Apr 2016 – IETF 95, Buenos Aires – Discussion in
+CURDLE and DNSOP working groups
+•  May 2016 – RIPE 72 session, Copenhagen
+•  Jun 2016 – ICANN 56 DNSSEC Workshop, Helsinki
+
+•  Internet-Draft
+•  draft-york-dnsop-deploying-dnssec-crypto-algs
+www.internetsociety.org/deploy360
+
+What Have We Learned?
+
+•  A conversation with Ondřej Surý
+
+www.internetsociety.org/deploy360
+
+Next Steps
+•  Help people understand value and need to support
+new algorithms
+•  Document these steps in a form that can be
+distributed (ex. Internet-draft)
+•  ?
+
+•  Need to start NOW as it will take several years to
+deploy...
+
+www.internetsociety.org/deploy360
+
+Dan York
+Senior Content Strategist
+Internet Society
+york@isoc.org
+
+Thank You!
+
+www.internetsociety.org/deploy360
+
+

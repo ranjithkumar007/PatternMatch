@@ -1,0 +1,849 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 1
+
+Transcription ICANN Helsinki
+Cross Constituency Meeting between the IPC RrSG
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Gregory Shatan: Everyone thank you for coming to this meeting between the Intellectual
+Property Constituency and the Registrar Stakeholder Group or between the
+Intellectual property folks and the Registrars.
+Since the policy forum is a new kind of meeting we thought we’d try new
+kinds of meetings at this new kind of meeting, hence this bilateral meeting.
+And the thought overall is to try to find areas of common understanding,
+areas of fruitful coordination.
+That may mean emphasizing points there or touching on points where we
+don’t yet have a common understanding, but that’s to be understood. In terms
+of the topics we could be discussing we developed a short list but no
+surprises of, you know, this being the policy meeting the initial thought was to
+look at the kind of top policy issues that are being, you know, discussed and
+that are part of the working group.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 2
+
+So the review of RPMs and next generation registry data services are areas
+we thought that were, you know, Registrars and IPC could have fruitful
+discussions.
+But also as with any ICANN meeting, you know, things come up in the - in
+front of the car that make you change you change your course. And as many
+of you know, there was a meeting yesterday called by Bruce Tonkin bringing
+together leaders if you will or representatives of a number of constituencies,
+stakeholders groups, ACs, SOs and the members of law enforcement and
+Board and Staff and the discussion of - basically of, you know, abuse
+reporting issues, compliance issues, violations of law by Registrants primarily
+and the like so there is that to discuss as well.
+With the Registries that kind of became - and then also discussions of PICs
+compliance or noncompliance and the like so that - we only have 45 minutes
+so any one of those topics could take all our time. So is there any particular
+thoughts on where to start?
+Michele Neylon:
+
+This is Michele. Just before we get into any kind of substance, I mean, first off
+I think we should be thankful that we’re actually having this kind of meeting
+because I think this could be useful and hopefully not the last one that we
+have.
+One of the issues I think in - a lot of the time within ICANN is that there’s lots
+of different groups and we don’t actually talk to each other in this kind of
+setting.
+We tend to talk at each other in other settings, which probably isn’t that
+productive. Now that doesn’t mean of course that we’re going to agree with
+you or disagree with you or anything else, but at least we’re actually having a
+conversation, which I think is a positive move so thanks for reaching out to
+us.
+
+Author
+Deleted: PIX
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 3
+
+Gregory Shatan: Absolutely and I think that is, you know, one of my goals is - as Chair of the
+IPC has been to try to reset some of those relations so that we’re not kind of
+playing, you know, tennis over a brick wall or we’re just kind of lobbing things
+back and forth and not seeing eye to eye so, you know, to try to tear down
+the wall and at least find a way to meet at the net and have a, you know,
+fruitful discussion.
+I think that as with any conversation there are moderates/extremists. There
+are, you know, good actors/bad actors. The point is to try to get a large center
+that can hold that includes, you know, the best interest of IPC and Registrars
+and best practices of IPC members and those in our community and
+Registrars and try to arrive at that.
+That’s - there’s, you know, we are kind of all in this together so in the end,
+you know, we’re all here because we see, you know, the Internet and gTLDs
+and all of that as being, you know, extremely important.
+Obviously it’s important to Registrars. Otherwise you’d be doing something
+completely different but that’s true for us as well. So I think we’re here to try
+to create a, you know, ground for, you know, future fruitful discussions but
+certainly in the time we have to take some time and discuss, you know, the
+issues that are right in front of us.
+So it’s not just going to be a dialog between me and Michele, although those
+are particularly amusing.
+Michele Neylon:
+
+Well I think if we’re going to have a dialog between the two of us there should
+be alcohol involved so that would be much more entertaining.
+
+Gregory Shatan: Absolutely.
+Michele Neylon:
+
+Anybody have any preferences either - from either side, just a particular topic
+that’s burning that you want to discuss? Don’t force the two of us to beg
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 4
+
+because we might pick the one you don’t want to talk about. Should we like
+kind of toss a coin or something?
+Gregory Shatan: Maybe we would toss a saber? Oh that’s Scots. That’s not Irish. Becky Burr.
+Author
+Deleted: c
+
+Becky Burr:
+
+I’m not supposed to be sitting at the table since I am neither a Registrar nor a
+member of the IPC. But I’m going to do this anyway and just suggest that we
+pick up some of the things that we were talking about in the previous group
+with the Registries, and the notion about forging common understandings
+about what the contractual requirements are, which is what - in the previous
+group they talked about Spec 11 and what the meaning of that were, and
+then sort of providing for ongoing discussions about the issues to try to find
+common ground outside of the big C compliance space.
+
+Gregory Shatan: I think that’s a fair suggestion and, you know, picking out of a list of three we
+might as well, you know, it’s not a long list. Might as well pick that one. I think
+that in many ways, you know, there have been discussions but it’s, you know,
+clear that Registrars field a lot of abuse complaints and a lot of those
+complaints, you know, have deficiencies and a lot of them don’t and there are
+concerns about, you know, what’s required and what’s not.
+And I think that we might as well, you know, pick up with that because that
+also picks up on yesterday’s meeting with Bruce Tonkin. And so I think that,
+you know, the - from my point of view, you know, that is, you know, as good a
+place to start as any.
+And again I see a scenario where there’s been a lot of misunderstanding,
+more light than heat, it’s finger pointing and yet I find in there a kernel of the
+ability to have a common understanding and I think, you know, generally
+speaking a lot of interest in having a common understanding because
+otherwise, you know, there’s a lot of time that’s seen kind of wasted on both
+sides - ultimately wasted in terms of establishing, you know, to be - to kind of
+focus it further on what those who think they have an abuse complaint or
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 5
+
+infringement complaint should do with it and what it should say and those
+who receive it what they should do with it, what it should - what it needs to
+look like so - for them to have something to do with it and what’s satisfactory
+in terms of having it done with and what’s, you know, what misplaced
+expectations do - does each side have of the other? So I’ll take a - talk - take
+a queue. I see Kiran and Steve.
+Kiran Malancharuvil: Hi. Kiran Malancharuvil from MarkMonitor. Just to put a little structure
+around this topic I think which could very easily be too big of a topic to
+discuss in the time that we have here, I recall that at the meeting in Dublin
+there was an attempt at some fruitful discussion around abuse reporting
+practices with Registrars, and that out of Dublin came an action item about
+potentially developing best practices or at least, you know, guidelines about
+abuse reporting or suggestions about abuse reporting.
+And so I was wondering if we could hear from the Registrars whether that
+was a true action item and maybe what the statuses of those discussions
+within the Registrars are as maybe a starting point to this topic. Thank you.
+Michele Neylon:
+
+Thanks Kiran. Is Graeme in the room or has he deserted us? No I don’t think
+he’s here. Yes we have been drafting a document within the Registrar
+Stakeholder Group, which covered a wide range of topics around different
+types of complaints that come to Registrars not just - well, I mean, some of
+the complaints that are going to Registrars are completely unrelated to
+anything that we do but we still end up getting the complaints.
+We actually get a lot of complaints about their - people’s Google ranking,
+which I find quite amusing. So the - we’ve drafted a document. I believe a
+draft of it was shared with some of you.
+And since that draft it was - there were multiple edits then somebody
+redrafted it and I think at this stage we’re going to have to go back and
+reiterate over it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 6
+
+It’s one of these things where it kind of - it started off in a nice little place. It
+grew and grew and grew and grew. Then it became a - kind of a complete
+and utter beast.
+Then it got hacked to pieces and now we think we have to restructure it again
+but it’s - it is something that we are still working on. However in the interim I
+think if anybody is unclear about, you know, why certain types of reports are
+more problematic for us, I mean, if you give us a clear example of a report
+that you’re having difficulty understanding why it’s been treated in a particular
+fashion we’re - I think most of us would be more than happy to address that.
+Kiran Malancharuvil: And this is just as a quick follow up to that because I think that that begs
+for a little bit of clarification as well. So when we have a confusion about an
+abuse report is it best to bring that to the attention of us?
+You’re saying us, like us the individual Registrar or us, the Registrar
+Stakeholder Group. Is that an open dialog between the two, the constituency
+- our constituency and your stakeholder group or is it something that you
+wanted to deal with on a one-to-one basis with individual Registrars?
+Michele Neylon:
+
+I’m not going to be the one to kind of give a definitive answer to that
+immediately, even though as outgoing Chair I - they can’t really, you know,
+fire me since I’m automatically fired by nature of the fact that I’m term limited.
+I don’t know. Does anybody want to speak to that? I mean, must speaking
+personally I think if there’s an ongoing issue around something which, you
+know, if the IPC can engage this with the Registrar Stakeholder Group that
+would make sense to me at one level.
+And obviously if you never actually talk to the Registrar that you’re sending
+the report to that’s, you know, that’s a slightly different kind of issue. I’m, I
+mean, I’m…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 7
+
+Kiran Malancharuvil: I would assume that if you’ve gotten to the point that it’s problematic that
+means you’ve attempted an initial conversation, right. So I’m talking about
+when - at the point when things become a little stuck, that we don’t
+understand why it’s not going anywhere.
+But I think my main point rather than the specifics of the questions is actually
+just a larger question about whether or not abuse reporting is going to
+become a dialog between the IPC and the Registrar Stakeholder Group, or if
+we’re waiting from a deliverable from you.
+And I think that’s probably the gist of both of my questions rolled into one. I
+would like to see it obviously become a dialog at some point but I do
+understand that you need to structure your position before you even fight, you
+know, our input into any sort of document or whatever your goal is.
+But I do think that we are anxiously awaiting an opportunity to discuss it with
+you as opposed to just entrenching ourselves in our own positions internally.
+Michele Neylon:
+
+Okay thanks. Christian and then Steve.
+
+Christian Müller: Hey Christian Müller from Cronan in Germany. I’d say I hear two questions
+actually. One is how do we approach the company who’s actually registered
+the domain and what if we have problems here, and the other one is how do
+we structure that?
+And the last thing could be discussed with the group but other than that if you
+approach me for example the main problems I see is you - abuse complaints,
+intellectual property complaints are sent to just some email address to some
+person.
+We are a 500-person company so you would probably say there is a problem.
+They are not responding. And if we are looking into that then usually you just
+
+Author
+Deleted: Muller
+Author
+Deleted: Muller
+Author
+Deleted: Strato
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 8
+
+send it out to, you know, somebody instead of for example the abuse
+department.
+So how can the stakeholder group help you there? I would personally say yes
+go ahead. Try to sort that out one-to-one first because in the majority of
+cases my opinion is that’s a problem with - you did it the wrong way or we set
+it up the wrong way in the means of - that we don’t have a clear abuse
+department or contact or whatever.
+And the stakeholder group can’t - you - can’t help you with that. I - my
+personal opinion.
+Michele Neylon:
+
+Steve?
+
+Steve Metalitz:
+
+Thank you. Steve Metalitz. I kind of want to get back to this best practices
+issue. I think the document that you were - that you and Kiran were
+discussing was not really the document we ought to be looking for, first
+because it was so broad it covered everything.
+And since we’re the IPC, you know, we’re focused on complaints about
+intellectual property issues for the most part. And second, I think it’s fair to
+say at least in the first - the draft that I saw which was the one released in
+Dublin - it was kind of a descriptive rather than necessarily getting to best
+practices.
+Maybe that was farther down the line. I wonder if - I think it could be useful
+because as I know you’ve pointed out frequently Michele you - there’s a lot of
+complaints that come in that are really unintelligible and you can’t - you don’t
+even know what’s - and, you know, there’s a lot of deficient complaints.
+And on the other side I think we generally feel that we give you high quality
+complaints - you the Registrars in general high quality complaints and maybe
+we do. Maybe we don’t.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 9
+
+But there could be some room for dialog there about what - if we could reach
+agreement on what constitutes and actionable complaint, and then obviously
+we would also want to talk about what are the best practices for responding
+to actionable complaints in the IP area.
+Let me just mention that since Dublin we have concluded work on something
+that may provide something of a template here, not by any means a rubber
+stamp.
+But, you know, as you know within the Privacy and Proxy Services
+Accreditation Working Group we did come out with a illustrative disclosure
+framework to kind of spell out in great detail, maybe too much detail what
+needed to be in the complaint.
+And it was really a commitment by, you know, and that service providers who
+wanted to be accredited as privacy or proxy service providers - if they receive
+such a complaint they would act upon it and then there were option for how
+they could act.
+So I think that that suggests - since we reached consensus on that that at
+least suggested it wouldn’t necessarily be a totally quixotic effort to try to see
+if we can develop some best practices in this area both in terms of what a
+complaint should have in it and in terms of what - of how a Registrar should
+respond to it.
+And I think if we focused on the intellectual property area - which has its
+subparts too but if we focused on that rather than trying to address, you
+know, the entire universe of complaints that might come in about a - different
+types of abuse that maybe we would get somewhere.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 10
+
+So I think it’s worth considering whether, you know, if they are interested - if
+there’s interest on both sides that we would try to start working on that type of
+best practice. Thank you.
+Michele Neylon:
+
+Thanks Steve. Just to clarify, I mean, the reason why anything we’ve been
+working on was much broader is because, you know, the obligations we have
+contractually and practically is - was to - is to deal with a much broader range
+of abuse, which we would agree is abuse plus trying to handle the crazy stuff
+that, you know, I can’t find my Web sites and it ends up in our abuse
+department desk. I still don’t know why but it does. Okay thanks.
+
+Gregory Shatan: It’s - just to kind of maybe bring together the comments heard so far, you
+know, clearly the Registrars need to address a broad variety of issues that all
+funder (sic) - fall under things that should or shouldn’t be sent to the abuse
+department but are empty anyway.
+May we can now look at that as having a series of chapters and one chapter
+is the IP chapter. And if - since - for purposes of thumping - of trying to find
+something practical rather than kind of waiting for the entire book we just
+focus on the IP chapter between our groups.
+And then the other things you’re working out which are equally legitimate
+concerns, you know, for the multi-stakeholder community, Internet community
+and especially for the Registrars who are, you know, at the hub of all of this that can be dealt with elsewhere.
+But, you know, just amongst ourselves we can try to develop the IP chapter
+together because sometimes the - when you - when products become too big
+they become too slow.
+So if we can be, you know, you and I can together be small, nimble and
+agile…
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 11
+
+Michele Neylon:
+
+You and I can’t be small, nimble and agile because I won’t be me as of the
+end of the week.
+
+((Crosstalk))
+Michele Neylon:
+
+I will be Graeme.
+
+Gregory Shatan: Graeme has a big head start on me at least in being small, nimble and agile
+so…
+Michele Neylon:
+
+He’s - and on me. Alex and then we’ll move further down.
+
+Alex Deacon:
+
+Thanks. Alex Deacon for the record. You know, another discussion interesting and useful discussion we had in Dublin that I don’t think has been
+mentioned yet is this abuse reporting best practices.
+And I think there was an action from Christian Dawson to kind of create a list
+and that - and put that out. Has that…?
+
+((Crosstalk))
+Michele Neylon:
+
+The list is active. I posted to it and nobody replied. Now maybe you’re not on
+the list and if you’re - if you didn’t get the email which I posted to the list we
+can fix that.
+
+Alex Deacon:
+
+But is that work ongoing or is it - has it kind of - is it hibernating because I
+thought that would be useful also? And it was separate from the work that…
+
+Michele Neylon:
+
+Okay so…
+
+Alex Deacon:
+
+…Graeme had done if I understood things correctly.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 12
+
+Michele Neylon:
+
+Right. Okay so - all right the - under the umbrella of the Internet Infrastructure
+Coalition - so I’m now speaking as Internet Infrastructure Coalition and not
+Registrar Stakeholder Group just to confuse matters.
+We have a number of working groups. One of them is what we’re calling the
+Public Safety Working Group within the Internet Infrastructure Coalition. And
+one of the projects we took on there was dealing with - was around abuse
+reporting and everything else, which kind of made sense because a lot of the
+actors involved - they’re neither Registrars nor Registries and don’t kind of
+neatly fit into the ICANN structures.
+I know you know this but it’s just for other people who may not. So we have we set up a mailing list for - to continue the discussions on that. Hopefully
+everybody who attended that session in Dublin was added to the list.
+I sent an email to the list. I didn’t get back any replies and I may like the
+sound of my own voice but I don’t like sending emails into a void all day long.
+So I - nothing’s gone any further on that particular list. Happy to continue
+doing that. I mean, on the Public Safety - on the work we’re continuing - doing
+there we’re running like a session on abuse reporting at HostingCon.
+We’re doing stuff for M3AAWG. We’re still continuing on that so that actual
+list itself has been I’d say beyond quiet. It’s like the grave.
+
+Paul McGrady:
+
+Paul McGrady for the record. I want to go back to Steve’s suggestion, which I
+thought was very helpful that we have already in the privacy/proxy context
+essentially a mechanism that after it all got balanced out seemed to be
+acceptable to most everybody.
+Is there a way for us to - a mechanism for this group to bring that forward to
+see if it fits some of the concerns on the Registrar side? I just - I would hate
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 13
+
+to see that good work not be used as a good starting point rather than having
+to go back to the drawing board entirely. Thank you.
+Gregory Shatan: Well it seems - this is Greg Shatan again. Seems to me that, you know, there
+are a number of kind of overlapping efforts and lists and maybe you’ve - I
+hate to suggest having yet another one.
+But since they’re - each of them are set up for kind of slightly different
+purposes than in IPC Registry - Registrars rather bilateral that we should set
+up either a mailing list or a smallish group that can kind of take that
+document, take the IP chapter of what’s been coming, you know, what the
+Registrars have been working through and kind of, you know, work them
+together and being a - kind of a limited number of people.
+Well it doesn’t have to be limited but, you know, it could be a reasonable
+number of people and a list set up for that purpose. And then we’re not, you
+know, worried about what the Infranet Internet Structure Coalition is doing.
+Clearly I’m in Finland so that’s just an idea. Any thoughts on that?
+Paul McGrady:
+
+I guess - well I guess I should’ve been more pinpointed in my question. Is it Michele and crowd is there…
+
+Michele Neylon:
+
+Is that like Michele and his homies? Sorry.
+
+Paul McGrady:
+
+Is there, I mean, can we have reaction to this suggestion that Steve made
+and is that a potential way forward?
+
+Michele Neylon:
+
+I’d love to hear a voice other than my own from the Registrar side. Sorry I’m I - this, I mean, I can give my personal reactions but then they will want to
+kind of gut me afterwards. So Registrars please speak up. Darcy go ahead.
+
+Darcy Southwell: Darcy Southwell from Domain.com. I think that the work is in progress on this
+best practices document and maybe it’s a good idea for us to take that PPSAI
+
+Author
+Deleted: domain
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 14
+
+framework and kind of, I mean, we’re still working on it so to take it and
+maybe put it in conjunction with that and consider how it would work.
+I’m not saying it would work but definitely like if we could marry those two
+together and start working on that - Graeme isn’t here but I know he and I
+have talked about how we get this kind of rolling again.
+It’s tough. We have been through a lot of iterations so - but it’s definitely
+probably a good idea to take a look at that and see if it works. Yes.
+Michele Neylon:
+
+Thanks Darcy. Just speaking personally, I mean, I think you - look ultimately I
+don’t personally like duplicating or - and rewriting things. So, I mean, if there
+is something like the PPSAI framework which maybe - it might not be perfect
+but it’s something we spent a hell of a lot of time on within that working group.
+So it would make sense to reuse that if we could in some form at least as a
+starting point.
+
+Gregory Shatan: So I think that maybe a - kind of, you know, we’re kind of ten minutes before
+time to stop or so. It might make sense to get the PPSAI framework over to
+the best practices group that’s working within the Registrars, plug that into the
+IP piece and then take it understanding it’s going to be imperfect and send
+that to just, you know, to me and/or - and the IPC and we can set up a list or
+a group of people.
+And maybe by the time that time we’ll set up a bilateral list with a number of
+Registry - Registrar Stakeholder Group and a number of IPC members on it
+where we can make that the kind of abuse reporting best practices list.
+And we’ll have a conversation but I think if we have that document and, you
+know, one of the things, you know, being a perfectionist I sometimes have
+trouble sending things out and long ago one of my mentors told me, “Don’t let
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 15
+
+the perfect be the enemy of the good,” or in this industry you can take Sheryl Sandberg’s done is better than perfect.
+And just get that to us because whatever we get it’s not going to be final so
+as long as it’s intelligible, you know, we’ll work with it understanding that it’s a
+- it’s an iterative process and we’ll kind of work from there.
+So I think that kind of maybe sets a level forward. We can talk to Chantelle
+about having ICANN set up a list that we can subscribe to.
+((Crosstalk))
+Michele Neylon:
+
+Okay I’ll just go to Elliot in just like two seconds. Just to kind of close this off
+before going to Elliot, you know, if you want to follow up with us after this
+week, I mean, yes you can still email me Greg. It’s okay. I will actually accept
+your email. So Elliot and then James.
+
+Elliot Noss:
+
+Two things. One is just a little bit of form that I think is still important in the
+Registrar agreements and somebody can correct me if I’m wrong. We really
+avoid the term best practices because it has particular implications, so we like
+to use the term current practices just as a matter of form and, you know, we
+can take offline what those implications are.
+
+Author
+Deleted: (
+Author
+Deleted: )
+Author
+Deleted: (
+Author
+Deleted: )
+Author
+Deleted: (
+
+Author
+Deleted: )
+
+Author
+Deleted: (
+
+The second thing Greg and I think this is really important - it’s really important
+
+Author
+Deleted: ):
+
+in this room is that we don’t - sorry do you have a question about that or…?
+Man:
+
+Not at this moment.
+
+Elliot Noss:
+
+Oh okay. The second thing is, you know, we really didn’t from the onset and
+still don’t think that this should be a bilateral process. We think it should be
+more open community so certainly it’s likely that Registrars and IPC will be
+the most active in the process.
+
+Author
+Deleted: (
+Author
+Deleted: ):
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 16
+
+But, you know, in our original distributions and what we would contemplate in
+future distributions, you know, we would include other members of the
+community, you know, certainly Non-Commercials, GAC, LEA wherever
+possible because we think this should be as transparent and broad and - a
+process as possible.
+Michele Neylon:
+
+James and then Steve.
+
+James Bladel:
+
+Hi. Thanks. James speaking and just a thought as we were getting towards
+the end or it seemed to be. Aside from this small group that seems to be
+picking up this effort of establishing some best practices or some common
+frameworks for reporting, how can we take what’s happening here and
+maybe expand upon that and increase the dialog and exchange between our
+two groups?
+I feel like most of these conversations outside of the policy forum are
+occurring through other groups. They’re occurring on Council. They’re
+occurring through interactions with the Board.
+And I’m wondering if there’s a way to short circuit those and get more direct
+bilateral - it’s pretty much the opposite of what Elliot was just talking about
+here is as opposed to having these broader community discussion are there
+
+Author
+Deleted: (Eliot)
+
+better ways to establish more direct channels between the two groups?
+Elliot Noss:
+
+James I just want to modify. What I - when you say it’s the opposite I was
+only talking about that in the context of…
+
+Author
+Deleted: (
+
+Author
+
+James Bladel:
+
+Right.
+
+Elliot Noss:
+
+…that particular document.
+
+Deleted: ):
+
+Author
+Deleted: (
+
+((Crosstalk))
+
+Author
+Deleted: ):
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 17
+
+James Bladel:
+
+Right. And then…
+
+((Crosstalk))
+Elliot Noss:
+
+I hear what you’re saying.
+Author
+Deleted: (Eliot)
+
+((Crosstalk))
+James Bladel:
+
+A lot of times…
+
+Elliot Noss:
+
+Great.
+Author
+Deleted: (Eliot)
+
+James Bladel:
+
+Okay. Yes. So is that - is there stomach for that Greg?
+
+Gregory Shatan: I think first yes absolutely and stomach is not even the way I’d approach that.
+I think there’s…
+James Bladel:
+
+Is there bandwidth for that?
+
+Gregory Shatan: There’s - well don’t even ask about bandwidth because then the answer is
+always no but we’ll find it anyway. And - but in terms of stomach I think there
+is hunger for it rather than stomach.
+I think there’s a positive desire for more kind of sustained engagement, more
+just, you know, work toward common understanding and not only doing it
+through as you say other - kind of more formalized structures, you know, play
+dates that have been set up by ICANN so to speak.
+We can - we’re old enough to set up our own play dates now so I think that
+definitely - and to respond to Elliot I think ultimately sure whatever we come
+up with it’s not the end of the story and it should, you know, be dealt with, you
+know, in a larger framework.
+
+Author
+Deleted: (Eliot)
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 18
+
+But I think there is a validity to a discussion between what I’ll call senders and
+receivers, and I think that’s not intended to exclude others. But I think that as
+soon as it becomes a 360 discussion of all potential things you lose
+something.
+So I think there is a validity and a need really to have a discussion among
+senders and receivers of what we think we can send, what you’re looking to
+receive, what we think you should - how you - we think you should respond,
+how you think you should respond.
+And it’s a - it’s great to have that dialog with the entire community but then we
+lose a dialog between our - between the senders and receivers. We’re always
+- we’re going to end up with a bigger discussion somehow someway but
+saying we should trash the idea of or, you know, put to one side to use, you
+know, less colorful language the idea of a bilateral discussion I think is doesn’t actually serve us well.
+In the long run, you know, we’re not going to get something past the rest of
+the community and saying that, you know, that, “The IP community and the
+Registrars agree so this is the way it’s going to go and, you know, the rest of
+you can suck an egg if you disagree.”
+That’s not what’s going to happen but some more common understanding as
+opposed to kind of the whole - dealing with everything in the open sandbox all
+the time with all comers, you know, you lose a chance to focus on kind of
+what’s happening when the sender has thoughts and the receiver has
+different thoughts.
+Michele Neylon:
+
+Okay Steve and I’m removing Greg from the queue.
+
+Steve Metalitz:
+
+Thank you. Steve Metalitz. Just in response to Elliot we had talked about that
+document a little bit before you came in, and I guess we were talking about
+
+Author
+Deleted: (Eliot)
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 19
+
+something a little different here because it’s more focused just on the IP
+abuse issues and, you know, it’s - and it’s not intended to be descriptive.
+It - ultimately we hope it would be some type of, I mean, I would use the
+phrase best practices. If there’s a better label fine but that’s kind of what
+we’re hoping to see anyway.
+And - but I think James’ point is a very good one. And one reason that we
+reached out to set up this meeting is that we thought that this meeting format
+that we’re experiencing now in Helsinki was an attempt to break up the silos
+that we keep getting stuck in during Constituency Day.
+I’m assuming we’re going back to the old silo. I mean, we don’t have to go
+back to the old silos for the next ICANN meeting and maybe we could think
+about both of our groups building in some time for this type of dialog.
+And I don’t know again exactly what the meeting format is going to be but
+let’s not be confined in the silo. We obviously all have our own business that
+we need to deal with and we should.
+But let’s try to schedule in at the next meeting and maybe we’ll have a, you
+know, it might be focused on this issue we’ve been talking about. Maybe
+there’s some other issues that’d be more fruitful to discuss depending on
+what happens in the interim.
+But let’s plan to build in some time to actually get together on a bilateral basis
+at the next meeting. Thanks.
+Michele Neylon:
+
+Thanks Steve and it’s Michele. I think that’s a fantastic idea. I mean, the
+reality is that we as a group have met - had kind of ongoing dialogs
+backwards and forwards but not at every single meeting with certain other
+groups.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 20
+
+And if people are - have - are interested in doing that personally I think it’s a
+good idea though I don’t always agree on the format of them. Personally I’m
+always into involving alcohol in the mix somewhere because it always kind of
+makes things so much easier.
+But that - that’s something that we definitely could do and I think we should
+do because I think it’s a lot healthier for you guys to come to us and say,
+“Look this is what’s driving us nuts. Can we please discuss it?” rather than
+you kind of taking that, getting upset and you’re all, you know, it builds up this
+kind of tension and then by the time we hear about it it’s already been
+escalated somewhere else.
+So there’s - and, you know, maybe we can resolve it earlier on or maybe we
+can’t but, you know, if we’re actually talking to each other there’s a better
+chance of that. At least that’s my view on it anyway.
+I think we’re kind of running close on time. Do you have any closing words or
+thoughts?
+Gregory Shatan: I think I pretty much said what I had to say but I think that this gives us I think
+the basis for what I started with, the idea of fruitful coordination and, you
+know, having a dialog about, you know, this specific document that we’re
+talking about and having an ongoing dialog between our groups.
+And I guess my last word is that I would second your motion that if we can
+include alcohol so much the better.
+Michele Neylon:
+
+And thanks. That’s my - this is my last time as Chair of the Registrars
+addressing you so bye.
+
+Becky Burr:
+
+Thank you. You were actually a very great Chair from my perspective anyway
+and I appreciate you hard work on that.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/4:02 am CT
+Confirmation # 8995805
+Page 21
+
+Gregory Shatan: IPC members we have a meeting with the ALAC in the Aurora Room in a few
+minutes. Aurora is back up on Level 1 to the - behind registration so to speak
+so as far as possible from the Hall A and B where we’ve been meeting and
+where the GAC meets.
+Michele Neylon:
+
+Registrars you are lucky. We don’t need to move as far as I know I think. Yes
+we - this is Veranda 1.
+
+((Crosstalk))
+Michele Neylon:
+
+Okay so Registrars we’re meeting here in Veranda 1 so if you want to get up,
+stretch your legs for a minute that’s fine but come back as soon as you can
+please.
+
+END
+
+

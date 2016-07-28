@@ -1,0 +1,1562 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 1
+
+Transcription ICANN Helsinki
+GNSO Meeting Board
+Monday, 27 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+James Bladel:
+
+Anything? There we go. Hey. Thank you. Man, this is a lot of people in a
+small room; thank you.
+Chris Disspain has arrived. Yes. Thank you. If we could have councilors and
+our guests from the Board, if they could make their way to the table, if
+everyone else could please top up your coffee or other refreshments and
+make your way to your seat.
+And again, if we could ensure that the table space is conserved for councilors
+and visitors, that would be fantastic -- thank you -- as we're slowly starting to
+accumulate.
+I see Bruce. This is the Australian section over here, and then - Heather,
+you're on the wrong side. So thank you.
+And then I think we had Göran in the room as well.
+
+Woman:
+
+He's coming.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 2
+
+James Bladel:
+
+He's coming? Okay, great. We've got a spot for him here.
+
+Bruce Tonkin:
+
+I think at this point, John, you're in the wrong spot. You're the odd man.
+
+James Bladel:
+
+I'm in the wrong spot? I'm - you know what, Bruce? I'm always in the wrong
+spot; I made a career out of it. So, okay.
+But I think - thank you everyone. I know it's a very - it's kind of a small room
+and kind of a big group, so if we can - there you are -- the man of the hour.
+How are you?
+So we'll let everyone get seated while the staff begins the recording, and I'll
+wait to get the thumbs up from them. That's when we know we've begun for
+real.
+Okay, thank you. Welcome. This is the next session of the GNSO Council.
+You have various members of the ICANN Board of Directors.
+I think we should probably go around the table here for introductions just
+because I think we have enough visitors and we've had some change out
+here, so at least we can get the names. But if we can go through that fairly
+quickly, we can get to our topics.
+So let's start down at this far end here. I can see someone sitting behind
+David but I can't see who it is. Oh, there; it's Stefania. Let's start with
+Stefania.
+
+Stefania Milan:
+
+Stefania Milan; Non-Commercial Stakeholder.
+
+David Cake:
+
+David Cake; Non-Commercial Stakeholder Group from Electronic Frontiers
+Australia.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 3
+
+Volker Greimann: Volker Greimann; Key-Systems GNSO Councilor for the Registrars.
+Jennifer Gore:
+
+Jennifer Gore with Web.com; GNCO Council for the Registrars.
+
+Jonne Soininen:
+
+Jonne Soininen; IETF Liaison unto the ICANN Board.
+
+Chris Disspain:
+
+Chris Disspain; ICANN Board.
+
+Avri Doria:
+
+Avri Doria; NCSG Alternate from the Council.
+
+Marilia Maciel:
+
+Marilia Maciel; NCSG Representative to the Council.
+
+Julf Helsingius:
+
+Julf Helsingius; NomCom Appointee to GNSO Council.
+
+Carlos Raul Gutierrez:
+
+Carlos Gutierrez; NomCom houseless member of the Council.
+
+Stephanie Perrin: Stephanie Perrin; NSCG Council Member.
+(Hector Alicano): (Hector Alicano); ISPCP Constituency.
+Tony Harris:
+
+Tony Harris; I'm ISPCP. I'm a Councilor in the GNSO Council and also a
+member of the Executive Committee on the ISPCP. And I'm also Registry.
+
+Keith Drazek:
+
+Keith Drazek; Registry Stakeholder Group.
+
+Philip Corwin:
+
+Philip Corwin; Councilor for the Business Constituency and the Commercial
+Stakeholder Group.
+
+Heather Forrest: Heather Forrest; Intellectual Property Constituency and Vice-Chair of the
+GNSO Council on behalf of the Non-Contracted Parties House.
+(Marvin Cel):
+
+Yes, (Marvin Cel); ICANN Support (unintelligible).
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 4
+
+James Bladel:
+
+I'm James Bladel and I'm a councilor from Registrars - North America.
+
+Steve Crocker:
+
+Steve Crocker; ICANN Board.
+
+Bruce Tonkin:
+
+Bruce Tonkin: ICANN Board.
+
+Donna Austin:
+
+Donna Austin for the Registry Stakeholder Group.
+
+George Sadowsky:
+
+George Sadowsky; ICANN Board.
+
+Rinalia Abdul Rahim: Rinalia Abdul Rahim; ICANN Board.
+Lito Ibarra:
+
+Lito Ibarra; ICANN Board.
+
+Mason Cole:
+
+Mason Cole; GNSO Liaison to the GAC.
+
+Cherine Chalaby: Cherine Chalaby; ICANN Board.
+Rubens Kuhl:
+
+Rubens Kuhl; Registry Stakeholder Group.
+
+Greg Shatan:
+
+Greg Shatan; IPC President.
+
+Paul McGrady:
+
+Paul McGrady; IPC GNSO Councilor.
+
+Susan Kawaguchi:
+
+Susan Kawaguchi; Business Constituency Councilor.
+
+Markus Kummer: Markus Kummer; ICANN Board.
+Man:
+
+(Unintelligible); Board Member Elect.
+
+Ram Mohan:
+
+Ram Mohan; SSAC Liaison to the ICANN Board.
+
+Brian Scarpelli:
+
+Brian Scarpelli; Private Stakeholder.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 5
+
+James Bladel:
+
+Okay, David.
+
+David Tait:
+
+David Tait; ICANN Staff.
+
+James Bladel:
+
+Perfect, thank you. Thanks everyone and welcome to our Guests from the
+ICANN Board, and of course (unintelligible) which is also ICANN Board -- and
+Steve.
+We had a couple of topics that we had circulated in advance for discussion,
+but of course -- given that this is a sort of a lighter approach to the way we've
+conducted meetings in the past -- we are open to new topics as well; we're
+not going to stand on ceremony here. We do have a couple of folks who have
+volunteered from the Council to raise our topics.
+But first, I just wanted to open the floor to Goren or Steve -- if you had any
+opening remarks -- otherwise we can dive right in to the topics. It's really your
+discretion at this point.
+
+Goren Marby:
+
+Steve.
+
+Steve Crocker:
+
+Goren and I are still trying to work out our signals here.
+As I - I don't know how many were around first thing this morning, but as I
+remarked, our posture this week -- the Board's posture -- is that we're here to
+be helpful. And I think we're all trying to understand how best to use the time
+and the new format.
+Want to recognize that the man to my right -- Bruce Tonkin who is as much
+one of you as he is one of us -- is rotating off of the Board -- not for a few
+months. But it feels like it's imminent and we're already beginning to miss
+him.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 6
+
+Let me put you in the featured seat here and take control and say what kind
+of things we should be talking about now and anything you want to say about
+what kind of things we should be talking about in the future. And then you get
+to escape cleanly at the next meeting.
+Bruce Tonkin:
+
+Well, I think, you know, fundamentally, we're here to listen than to draw the
+agenda of this session.
+But one thing, I think, that would be helpful in terms of how we work as an
+organization is getting a sense of priorities and where results should be
+focused on because I have a sense that we're doing too much and none of
+them particularly well.
+So I think, you know, it would be interesting to hear from the GNSO is what is
+your top three priorities. You know, where do you want the organization to
+support in your policy work? You know, that would be helpful.
+
+James Bladel:
+
+Thanks gentlemen. We did have a couple of topics -- at least we could call
+them conversation starters -- and that we could table those discussions and
+then see where the conversation leads.
+The first one would be - our spokesperson will be Heather Forrest who is a
+Councilor for the IPC and also a Vice-Chair. Heather?
+
+Heather Forrest: Thanks, James, very much; Heather Forrest. And to respond to Bruce, I don't
+know if this is one of our top three priorities as much as it is one of our top
+three bushfires at the moment that we're having to put out.
+And indeed it seems that there's an impression that the GNSO or the GNSO
+Council needs to do something about this one, and we feel as if we're waiting
+for instruction from the Board. So our response to the community at this stage
+is we need some guidance before we can do anything.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 7
+
+The topic is the matter of the protection of the names and acronyms
+belonging to the Red Cross -- the International Red Cross. This is an issue
+that returned to our plate after perhaps even as much as a two-year hiatus.
+At the Marrakech meeting, James and Donna and I were approached by
+representatives of the International Red Cross, and James and I met with
+those folks on the side in Marrakech. And they expressed to us some
+significant concerns and hopes that we would ameliorate those concerns and
+do so in a very rapid fashion.
+And we said we weren't really in a position to do so given that we had
+completed a PDP - or not we, but our predecessors on the GNSO Council
+had completed a PDP some time ago and those recommendations were still
+standing. Those recommendations diverged significantly from advice
+received from the GAC, and that the matter really had been referred to the
+Board.
+We sent a letter -- most recently on the 31st of May to the Board -summarizing this situation and essentially asking for guidance as to what we
+should do next.
+And it would be very helpful to us. It's, of course, a very substantive matter.
+We've taken some time as a council since Marrakech to get ourselves across
+the issue more fully. Many of us -- most of us I think -- were not on the
+Council on the time that this was first being discussed. And so we've had a
+fair bit of work to do ourselves to get across these issues, and we're in a
+better position now to talk about these things certainly than we were in
+Marrakech.
+Given that it is such a substantive topic, we, perhaps, don't anticipate that
+you have all of the answers for us at this stage. But any sort of guidance as to
+where you are in your thinking -- and how soon we might expect some input - would be very helpful.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 8
+
+Steve Crocker:
+
+Thank you. Let me ask Chris to speak to this. I have a couple thoughts of my
+own, but I suspect that Chris is much further on this than I am.
+
+Chris Disspain:
+
+Thank you Steve and thank you Heather. Okay, let me see if we can sort of
+like level set, so they're split into two issues really.
+In respect to the Red Cross, that came to us with GAC Advice saying, "This is
+a unique organization." I think it was combined with the Olympics at the time,
+but this is a unique organization and they need to be treated in a particular
+way.
+So what we did was we agreed to reserve -- I'll use the term reserve. I know
+that some people say it's not reserving, but we reserved the Red Cross
+names. The acronyms we put into the same bucket as the IGO acronyms
+because we were concerned about acronyms as a principle, so I'm going to
+come back to those.
+Subsequently, the Red Cross came back and said, "Actually, what we would
+like to reserve is all of the society names for the countries." So I guess it's
+Australian Society Red Cross or something -- whatever those names are.
+And I think it's that plus the acronyms which I'll treat separately but we're
+actually talking about.
+And that, I think, has slightly dropped through the cracks; that particularly one
+has slightly dropped through the cracks. I don't think the Board -- to my
+recollection -- had much of a discussion about it.
+I think from memory -- but you'd be better to guide me on this -- that the
+request to reserve those names is - there is GNSO policy that those names
+should be treated differently to that and those should get protection for 90
+days like the Trademark Clearinghouse. Is that right? Okay.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 9
+
+And I don't - the Board has not put its mind to figuring out what to do about
+that, but will. So that's that piece, and apologies for that.
+The second piece is the acronyms -- which goes into the IGOs as well as the
+Red Cross, right. And with the IGOs, their names are reserved; it's the
+acronyms that are temporarily reserved.
+There is - you have a policy recommendation in respect to the notification
+piece. So I've got an IGO; I've got an acronym. I want to be notified if
+somebody registers that acronym. You've done some policy work on that.
+The GAC Advice - well, the GAC Advice is to reserve them. We told the GAC
+we won't do that, but we haven't formally triggered the refusal to follow GAC
+Advice process; we're trying to not do that if we can avoid it.
+You have understood that you might need to look at changing slightly the
+recommendations you've already made. If we can reach a compromise with
+the GAC and the IGOs as to how to deal with registration of those acronyms - even the equivalent of the Trademark Clearinghouse -- it wouldn't actually
+be the Trademark Clearinghouse because they're not trademarks.
+And if we can come to a sort of consensus on that with the IGOs, then we
+would be coming back to you formally and asking you to trigger your process
+that you have to reconsider a policy.
+Or, if you prefer, we could reject your policy recommendation; it would be a
+matter for us to talk about. I understand for some of you, you might prefer us
+to reject it rather than ask you to use the process of reconsidering, but that's
+something we can talk about.
+And then the next piece down -- and I'm nearly finished now -- is that there is
+the remedies that the IGOs want, so rapid takedown and dispute resolution.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 10
+
+And there is a GNSO working group -- which I think Phil Corwin is -- yes,
+doing that. And we are currently talking to the IGOs.
+Now I would very much like to lift this out of having separate discussions and
+see if we can't just get everybody together and knock it out.
+But bluntly, feedback from the past has been that once the IGO
+representatives and the GNSO representatives come together, that's not
+necessarily the most constructive and collegial environment in which to get
+these things down. And that's kind of we sort of stepped in in the first place.
+We are close, I think, to having a proposal with the IGOs that it is likely to be
+acceptable to the GAC and to the IGOs, and then we need to come to you
+and see if it's acceptable to you.
+Steve Crocker:
+
+Let me - thank you very much for that Chris. Let me offer up that I want to
+engage in a little bit of collegially with Chris that may expose a few gaps in
+various views about how things work -- some within the Board and some
+between us, and you and the GAC and others.
+The Board is not the place where substantive decisions should be made
+about a policy. The Board is a place where we really oversee and monitor the
+process that's been followed, and that the results that are offered up for us to
+approve meet a -- and I don't want to be too specific about it -- but basically
+are consistent and sensible and will work.
+And so, we - and this is a case and there are plenty of other cases where
+different parts of the community have different views about what should
+happen. And we get into this kind of endless cycle of we wish that everybody
+would get together and come up with an answer.
+We get presented with what you make a decision, and I have to confess that
+we exasperate the situation some because we accept the language of "the
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 11
+
+Board will make a decision." Or this gets handed up the Board or - and
+people talk about it in those terms.
+And it really is not what anybody should want that the Board is sitting as a
+kind of court of determination of the substance of matters. We have plenty of
+expertise; we could do that. Sometimes in the past, I think we've fallen into
+that. But that's not the role that the Board should have; that's not the role that
+you want the Board to have.
+So the maximum that I would say that the Board is going to get involved in is
+on the order of the kinds of things that Chris talked about where we will try to
+facilitate bringing the parties together as opposed to stepping in and saying,
+"Well, we've listened to both sides and we've decided that it's like this or it's
+like that." Because if we fall into that mode, then the question is how do you
+appeal, where is the escalation if you don't like the decisions we've made
+because we're just -- at best -- no better than everybody else at making these
+decisions.
+We might be pretty good, but we're not perfect. And that's not the mechanism
+that you want for the Board. So that's - I said it collegially and I haven't taken
+a breath yet.
+Do you want to respond to that Chris?
+Chris Disspain:
+
+James, is that okay?
+
+James Bladel:
+
+Yes.
+
+Chris Disspain:
+
+Steve, I agree with everything you said. The only recall, if you will, is that in
+this case, we actually have - it is our decision -- in innocence. We have GAC
+Advice that says to do one thing; we have GNSO Advice that says recommendation that says to do another.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 12
+
+So in parts of it, we are actually at that stage where we could -- if we chose to
+-- say, "Thank you very much, thank you very much. Bang, this is what we're
+doing." We have not done that. We've said, "Let's see if we can bring the
+parties together."
+But ultimately, if there isn't an agreement, we will have to make a decision
+because it's mandated in the bylaws, right, that we have to do that.
+So that's the only thing I would add to you. As a general principle, I agree
+100%.
+Steve Crocker:
+
+I would - just before. Yes, and in the event that that happens, we need to
+have a very clear documentation that you guys made us that -- that we were
+forced into it -- so that there's no complaint afterwards about us taking control
+of it or being preempting the process.
+
+James Bladel:
+
+Thanks. Okay, I have a queue forming now. Heather, Donna and Phil. So
+Heather, you're up.
+
+Heather Forrest: Thanks. Thanks very much James; Heather Forrest. I thank you, Steve, for
+your intervention then and Chris as well.
+I was a bit disappointed to hear what you said that the feedback that you had
+received was that the working relationship between IGOs and the GNSO
+wasn't all that positive.
+I think one of the things maybe that could help that situation -- I'll say -- we've
+had the impression in being approached by the folks involved in this issue
+that maybe there's a misconception as to what we're able to do; we as GNSO
+leadership and what we as this Council can do. This Council being not the
+council that decided on this issue some time ago.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 13
+
+And it would be very helpful if the Board could help us to communicate that
+while the GNSO understands that this issue is within the GNSO's remit -given its inherent relationship to generic top-level name policy -- under the
+bylaws, there are processes that we have to follow, and those processes
+have been followed in this instance.
+The Board has intervened -- as you've said. But the specifics in terms of what
+the council -- this council -- needs to do following that intervention are not
+really clear. And some clarity would help us very much.
+So on the first point being help us communicate that we're not being difficult,
+we're not being obstructionists, and help us to understand what it is that we
+need to do. Thank you.
+James Bladel:
+
+Thanks Heather; excellent points. Donna, you're up next.
+
+Donna Austin:
+
+Thanks James; Donna Austin. Fully agree with Heather. We had a little bit of
+a discussion, you know, prep discussion before the Board comes in here.
+And I think one of the observations from my perspective is we don't
+necessarily - one of the frustrations with this if we're to use down the road, we
+don't have a resolution. The Red Cross has come to us, and to some extent
+tried to lobby us to get some action; we couldn't do that.
+We know that the GAC is also frustrated that this hasn't kind of moved on
+because the Red Cross is coming in to lobby them as well.
+So I think sometimes we get hamstrung because of the processes that we
+have, and we try to find a workaround that will give us a result. But that
+workaround at the moment isn't happening.
+Now we understand that, Chris, you've had discussions with the IGOs, but we
+haven't had any visibility into that, so that's part of our frustration as well.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 14
+
+So maybe if we can find a way - let's not talk about the substance, but let's
+understand what the process is for us to get to an end result and that might
+clear some of the way forward. Thanks.
+James Bladel:
+
+So we'll go Phil and then Chris. Phil?
+
+Phil Corwin:
+
+Thank you; Phil Corwin. And I just wanted to since Chris mentioned me.
+In the working group, I co-Chair along with Petter Rindforth -- former
+councilor from the IPC. I just wanted to get a bit into that and to relationship
+to what the Board is considering.
+Our working group is the working group on curative rights processes for
+IGOs. We have two basic questions before us -- to make it simple. One is do
+IGOs -- even if they have not trademarked their names or acronyms -- have
+standing to bring either UDRP or URS action?
+And while we haven't made our final recommendations, we've pretty much
+resolved that issue that in almost every conceivable case they would have
+standing.
+The other issue is whether under the accepted views of the scope of
+sovereign immunity of IGOs, whether the mutual jurisdiction clause in the
+UDRP and URS would offend that. And that would occur only in the very rare
+instance that an IGO brought an action under either the UDRP or URS won
+the action, and the registrant of the domain having lost - exercised their right
+to bring an appeal in a court -- a mutual jurisdiction -- which of course the
+court is in a nation determined by the UDRP rules -- and whether that would
+offend.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 15
+
+And we've approached this with the view that -- being very careful -- with the
+view that ICANN must recognize and be respectful of existing legal rights but
+have no remit to create rights that don't exist.
+And our working group made very rapid progress through June of last year up
+to the Buenos Aires meeting last year, and then kind of hit a stop because
+none of the members of the working group had any expertise in this very
+esoteric area of sovereign immunity and the subset of sovereign immunity -not for nation states but for international and inter-governmental
+organizations.
+And we sought ICANN's modest financial assistance to hire a recognized
+legal expert, and late last year found one -- Professor Edward Swaine at the
+George Washington University Law School.
+And we've just received a final - about a 30 page legal memo from him on
+this issue, and we'll be discussing that at our working group meeting
+tomorrow -- which is one thirty to three.
+And if you'll read the legal memo, you'll find -- not surprisingly -- that the
+question of what is the scope of IGO immunity, that the answer is it depends.
+And there's multiple different ways that different national courts would
+analyze this, and some might find sovereign immunity to this while others
+would not, and it's complicated is the answer.
+But at least we have a very solid legal opinion which is not, you know, people
+can look at it and disagree.
+The other thing I wanted to say is throughout the existence of our working
+group, we have proactively reached out to both the GAC and the IGO small
+group and urged them to participate in our group because we wanted their
+input. And I have to say, quite frankly, we've been greatly disappointed in that
+regard.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 16
+
+We did have a meeting with the Chair and co-Chair of the GAC; that we being
+Petter and I had a meeting with them in Buenos Aires last June -- an early
+morning meeting -- which I remember quite well because there was no coffee
+in the room which made the meeting a challenge at 8:00am.
+But we've really - I don't want to say that the IGOs have boycotted our
+meeting, but they've been conspicuous in their absence raising some
+concerns that they thought they could achieve something with the Board that
+- I don't want to mention names but I've been told to my face that they
+thought we were prejudiced against their position where, in fact, we've tried to
+be completely objective and very careful about how we've proceeded.
+But there's still time for both the GAC and the IGO to engage to comment on
+this legal memo and to participate in the final stage of our working group.
+We'll be making the final decisions on our findings and our recommendations.
+But we do expect to bring this working group to a close before the end of
+2016 now that we have the legal opinion. And so we're in the latter stages
+now. And we have been, you know, we've been aware of the Board activities,
+but we're hoping for more definite information on where they stood.
+So I hope that - I'd be happy to answer any questions, but I just wanted to
+bring people up to speed to understand exactly what our working group is
+doing which there's some overlap of what the Board is considering; they're
+related. But they're also quite different.
+And I'd be happy to answer any questions, and we have our 90-minute
+session tomorrow -- which if you're interested in this issue we hope you'll
+attend and participate. Thank you.
+James Bladel:
+
+Thanks. So what time is that session tomorrow?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 17
+
+Phil Corwin:
+
+It's 1:30 to 3:00 pm.
+
+James Bladel:
+
+Okay, Chris and then Bruce. Chris?
+
+Chris Disspain:
+
+Thanks James. Phil, just to acknowledge what you said, yes; you have in fact
+been extremely willing to step forward and ask for, you know, input. So I
+completely acknowledge that.
+May I suggest that what might be a good idea is if whoever the right person is
+-- whether it's you or someone -- actually writes to the Chair of the GAC
+enclosing the legal advice letter, and requesting the GAC to look at it and
+consider it. You might not want to do that but it's just a thought.
+
+Phil Corwin:
+
+I'll defer to Mary Wong, but I believe we've already conveyed that letter to the
+GAC and the IGO -- a small group -- and asked for their input. And we sent
+them the preliminary draft, and of course now we have the final draft received
+about a week ago.
+
+Chris Disspain:
+
+Thanks. And I just wanted to respond to Donna on two things.
+One, Donna, yes; visibility. There has been some visibility. We did have a
+couple of meetings where members of the GNSO and the IGOs were
+together with me and Jaime, Heather and a few others and a couple of Board
+members, and the Chair of the GAC. So there have been a couple of those.
+But I think we should, you know, it's time to bring everybody around to the
+table.
+And the second thing I wanted to say is really just by the way of an apology, I
+think we really do need to peel off the Red Cross country names and just get
+that off of the table. It's nothing to do with - it's not the same argument as the
+acronym is, so I think we just need to get that out as quickly as we can.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 18
+
+So let's agree that the Board will do that and deal with that, and that will then
+mean that we're only dealing with the acronyms and that's a discreet piece
+that we can deal with separately.
+James Bladel:
+
+Thanks Chris. So Bruce and then Donna.
+
+Bruce Tonkin:
+
+Yes, thanks James. I think it's asking the question, you know, what can the
+GNSO do?
+One of the things I think is really helpful perhaps is to -- maybe in a really
+simple diagram on one page -- explain the processes that have been
+developed around trademarks as a starting point.
+And the processes that are being developed there is that there is trademark
+law. We've come up with a lightweight dispute mechanism -- which is the
+UDRP which is experts in that area of trademark law; make a decision
+between two parties.
+Then there's a very defined appeal process where if either of the parties
+disagrees with that decision, then they can then take it to a court of law. That
+has been a system that's been in place for many years and has been quite
+effective.
+In recent years, we've made an enhancement to that which is the Trademark
+Clearinghouse. And principally, what that does is it's giving notice to the
+trademark holder. So now we have notice to the trademark holder, we have a
+dispute process that they can use, and now we have an additional dispute
+process -- which is the Rapid Suspension Process but there's three dispute
+processes available -- and then there's a court of law behind it. So it's a very
+clear, simple framework actually.
+And then the question is if we start looking at some of these new things is to
+follow exactly the same path. So the first path is what's the law that defines
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 19
+
+the matter, and I think in Red Cross there is quite well defined laws available
+so you can start with that point.
+But then the question is, is there some sort of dispute process that could be
+put in place to deal with the dispute where that law impacts the particular
+registration? And then the appeal process should be pretty well defined as
+well -- which presumably it could then go to a court of law if either party is
+unhappy with that dispute process.
+I think we should try and map both cases out in exactly the same way, so
+that's at least an education piece that's clear and it's a very clear framework
+that can apply to any use of law at ICANN because really, we don't make
+laws. We basically abide by the national laws that exist.
+And then secondly, I think the frustration I'm hearing is it sounds like that
+some of the parties that want protection aren't actually engaging with the
+policy body that makes that decision. And, you know, I guess to the extent
+that we can perhaps encourage -- either through the GAC chair or, you know,
+in any meetings that we have with the IGOs -- to encourage and to actually
+engage in your policy development process.
+So I don't think it's the Board's role to come up with a policy solution. What
+we can do is (unintelligible) frame the discussion. I'm sure we would be
+happy to - if people were worried that they may be treated unfairly or in a
+biased way, then, you know, we're more than happy to help appoint a neutral
+facilitator to the extent that it's necessary.
+But the key thing is the effected parties need to talk to the groups that are
+trying to come up with a solution.
+James Bladel:
+
+Thanks Bruce. And we're going to go to Donna for the last word on this.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 20
+
+But before we move to Donna, just want to note that although it's not exactly
+what you're looking for, we've been also attempting to produce some
+materials that put all of these issues into a one page. And what you see in the
+- I think this is actually a two-page document although I don't see Mary. I
+think it's a two-page document.
+But what you see in the Adobe Room is a side-by-side comparison of the
+different - where we landed between GAC Advice, the GNSO
+recommendations, the temporary protections and then the permanent
+protections that are being sought -- or the delta.
+So we can certainly share this with you if you feel that that would be a helpful
+resource. It's not exactly what you were asking for, but I think it is a handy
+reference guide.
+So we'll go with Donna and then Cherine, and then we'll move on because
+we have one more topic we want to cover.
+Donna Austin:
+
+Thanks James; Donna Austin. Just to respond to something that Chris
+suggested that we should couple the Red Cross from the rest of this issue.
+So we had some discussion around this one when we were doing the drafting
+of the letter. And we do recognize that the Red Cross is a different situation,
+but we are concerned that if we couple the IGO acronyms for this as well,
+then we'll just have longer delays in resolving the IGO acronym issue.
+And I just want to explain that some of the challenge that registry operators
+currently have with the temporary reservations of IGOs is that there's no
+mechanism to release them.
+So with, you know, in the Registry agreement, they are reserved. You cannot,
+you know, if you - there is actually a situation where the International Olympic
+Committee wanted to use IOC in a number of top-level domains.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 21
+
+An RSEP was submitted to ICANN to see if that could be done and it - it’s just
+kind of in a holding pattern because nobody knows what to do with it. So
+would - there actually isn’t a mechanism at the moment available for Registry
+operators even if they have agreement of the IGO in question to actually
+release that and have the - have it available for their use.
+So that’s - some of the concern from a Registry operator perspective is that if
+we decouple we are concerned that that delays it even further. And also
+we’re, you know, we had that added problem that we don’t have a
+mechanism to release the IGO acronyms at the moment. Thanks.
+James Bladel:
+
+Thanks Donna. Cherine has the last word.
+
+Cherine Chalaby: Just an observation from the discussion is that I’m not clear how the gap
+between the GAC advice and the GNSO policy because there are
+inconsistency there.
+I’m not clear on the actual step of actually either reconciling those or not and
+what is the timeframe for that, because this has been going on for such a
+long time and it can go on for another long time.
+So it’s not clear to me how this reconciliation is going to happen or not at all,
+and face the fact that it’s not going to happen and then we’ll have - someone
+has to arbitrate in the middle of that.
+So I’m not leaving this meeting with a clear direction frankly on exactly the
+time scales of when we’re going to do this and how - what is the process with
+a bigger chance of success?
+James Bladel:
+
+Thanks Cherine. I think that’s something we’re struggling with as well. I think
+right now what the Council is saying -- and I’m just going to try and
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 22
+
+paraphrase this -- that we’re not clear and we’re looking for guidance from the
+Board on whether or not we should pursue efforts to close that gap.
+But I think that where we are for some of us is that we’d like to see some
+formal indication from the Board that that gap exists. And I think some of, you
+know, I think just speaking personally I think a formal rejection of the
+recommendations that don’t meet the GAC advice is probably going to go a
+long way to upholding the integrity of the PDP process.
+I’m more concerned that if we take some sort of an informal approach where
+we start amending the PDP based on, you know, a request or lobbying efforts
+or whatever you want to call it that I think that that’s probably the road we
+don’t want to go down.
+We want to see something that actually follows the script as it’s outlined in
+the bylaws.
+Bruce Tonkin:
+
+Just to be clear…
+
+James Bladel:
+
+Yes.
+
+Chris Disspain:
+
+…there is - so a couple of things. So yes fine, we could do one of several
+things. We could reject the GAC advice. We could reject your thing. The your - there are two points.
+First of all your current recommendations that we could formally reject only go
+to a part of the problem, right, so that’s not the whole problem. And secondly,
+there is actually - it’s not the - sorry, the process to ask you to look at your
+policy is a formal process.
+They’re both formal processes; at least my understanding is they’re both
+formal processes. They both exist so we could reject or we can trigger or ask
+you - trigger the process of asking you to reconsider.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 23
+
+Either of those things are available and I’m happy to do whichever one you
+prefer but if we - but all - what we would - if you want to bring this to a head
+the quickest way of bringing it to a head is for the Board to take an action
+which - whatever that action may be.
+What we have - up until now we’ve been trying to, you know, bring the parties
+together.
+James Bladel:
+
+Chris are you asking us what we want?
+
+Chris Disspain:
+
+Well I’m not. I’m suggesting you - I will think about that. I don’t - I think that
+part of the issue with this is incredibly complicated because we’ve got several
+different pieces.
+So if we take the Red Cross out for a second and just talk about the IGOs, we
+have a GAC advice on the table that says, “Reserve them.” That’s the advice.
+We have not formally rejected that yet.
+We told them we won’t accept it but we have not formally rejected it. We’ve
+got your policy that says, “Put them in the thing for 90 days and then that’s it.”
+And then we’ve got the ongoing policymaking on the curative rights, so those
+are three things going on right now.
+
+James Bladel:
+
+Yes and I think that the - if we can possibly take the curative rights thing and
+set that aside because it’s not - it’s peripheral but it’s not on the collision
+course with the other two points.
+I think what we’re saying is we are open to pursuing those other processes
+and initiating them. We don’t want that to become the default response to
+these questions.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 24
+
+However we also don’t want to pursue that blindly. I think we need some
+guidance from the Board on which direction, you know, where they fall short
+versus GAC advice.
+((Crosstalk))
+James Bladel:
+
+Are there elements of GAC advice that you think are more important than
+others? What’s the priority? I mean, otherwise you’re just telling us, you
+know, “Make your recommendations look like this.” I guess we’re not clear
+where…
+
+Chris Disspain:
+
+Completely agree. So is this - are we - is it okay to carry this on? I mean, it’s
+up to you guys. I’m happy to do it.
+
+James Bladel:
+
+Yes I think we’ve got a couple more minutes.
+
+Chris Disspain:
+
+Okay.
+
+James Bladel:
+
+But we do need to…
+
+Chris Disspain:
+
+So…
+
+James Bladel:
+
+I know a lot of people are jumping to get in the queue now so…
+
+((Crosstalk))
+Chris Disspain:
+
+Two things arise. So first of all you could carve off the curative rights aspects
+of this. The challenge there is that it’s the coming to an agreement on the
+curative rights that gets them to step away from the, “We need reservation.”
+So the starting point is we want these reserved. We’ve said not formally but
+effectively no. They then said, “What?” We said basically, “What’s your fear?”
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 25
+
+And their fear is that if somebody registers them they have no way of dealing
+with it. Now whether you think they’re right or not doesn’t much matter. That’s
+what they think.
+So the first question is they want to be notified that they’ve - someone’s
+registered the acronym. Then the second piece they want is that they want
+the Registrant to get a notification.
+We’re pushing back on that and saying, “That’s not appropriate.” And then
+the next thing they want is they want a rapid takedown of some description,
+and then they want a DRP of some description.
+It’s the curative rights - the - they’re saying to them, “We’ll find a way of giving
+you the curative rights.” That gets them to step away from the demand that
+the names - that the acronyms are reserved.
+That’s - so it - so they are connected in the sense of trying to bring this to a
+head. The only formal thing we can do is either reject their advice in which
+case we then go into a - what effectively is a six month formal process - we
+think normally about six months of rejecting the advice, which is effectively
+going to mean acting in good faith and carry on negotiating, right. Or we can
+formally - I guess it’s reject your policy recommendation.
+Bruce Tonkin:
+
+But essentially Chris it’s not an or, it’s an and/or.
+
+Chris Disspain:
+
+Sorry. And we could reject both.
+
+Bruce Tonkin:
+
+That’s an and/or.
+
+Chris Disspain:
+
+We could reject both.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 26
+
+Bruce Tonkin:
+
+You can reject both but let’s take it offline because I think we - what will come
+back to you I guess is a bit of a decision tree so you actually understand what
+the decision options are.
+But yes in simple terms we have two groups at ICANN that have a conflicting
+position. The Board’s option is to accept neither of them/accept one of them.
+It doesn’t look like we can accept both of them because they conflict. But in
+either case I think what we’re then trying to do is to say if we reject either one
+of the positions is then saying, “What’s the next step?”
+And as Chris says, you know, for example if we accepted your middle
+Column 2 here which is the notice piece that doesn’t necessarily solve the
+problem if there’s no process for what happens after you get that notice.
+You know, so I found out about it but now I don’t know what to do. So that to
+me would seem that there’s a missing piece but let’s map out the decision
+tree for you and we’ll come back.
+But I do agree that what I’m hearing is you want the Board to make some
+decisions one way or another so that you’ve got clarity. But I think the
+direction that Chris is heading - ultimately what we’re trying to find is a
+consensus position that meets the requirements of the law in this topic area
+between the two areas/two groups if you like.
+
+James Bladel:
+
+Okay thank you Bruce. Thank you Chris. Thank you Cherine and Donna and
+Heather and everyone who weighed in on that and Phil as well. I think we’re
+going to pivot to our next topic.
+That was the easy one by the way just so you’re properly prepared. Oh our
+next topic - and I’ll turn it over to Susan Kawaguchi who’s volunteered to take
+the lead on this.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 27
+
+But we want to tee up a discussion regarding our recommendations of
+Privacy/Proxy Accreditation Services. Susan?
+Susan Kawaguchi:
+
+So thank you for that discussion. I actually found that very enlightening
+
+and fascinating and have lots more questions but offline. All right. So as you
+all know we - there was a PDP for the Privacy/Proxy issues and the working
+group did a great job in my opinion.
+I happened to be on it but there was a lot of people that spent a lot of time
+developing positions and recommendations, and we provided the final report
+to the community and to the Board with those recommendations.
+The GAC did not find these recommendations acceptable, so what we’re
+asking of the Board is what’s your viewpoint on this and how do we move
+forward?
+James Bladel:
+
+Do we have any takers from the Board? Anyone wish to speak to this?
+Everyone went shy all of a sudden.
+
+Chris Disspain:
+
+Don’t look at me. I can say some…
+
+James Bladel:
+
+Chris we would never…
+
+Chris Disspain:
+
+Oh no, no. Of course…
+
+((Crosstalk))
+James Bladel:
+
+…get in the way between you and the microphone.
+
+Chris Disspain:
+
+Thank you James.
+
+James Bladel:
+
+Yes.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 28
+
+Chris Disspain:
+
+Thank you so much. My own level of self-awareness has now been enhanced
+by your feedback. Thank you. My personal view -- this is my personal view -is that the GAC were involved as they should be in your policy development
+process.
+That’s pursuant to the bylaws. I understand that there were representatives
+for want of a better way of putting it who were supposed to be there. I think
+they - I suspect that they weren’t there anything like as much as they
+should’ve been or could’ve been, and that once again we find ourselves in a
+situation where - after the event of reaching a recommendation and all of the
+effort that’s gone into something that I know is contentious within the GNSO
+because of the contention between the Contracted Party side and Intellectual
+Property side, we find ourselves now once again having what is in effect law
+enforcement I suspect wandering into the room and saying, “This is not
+enough.”
+And I think my - again my personal view is that that’s - we should really say
+no to that. It’s enough. That said maybe the answer is to - my understanding
+is that if we maintain the status quo then that’s even worse for them in the
+sense that the steps are being taken that they would consider to make things
+better.
+So therefore it seems to me that one way of thinking about it is to say, “Let’s
+just do what we recommended and work on the rest of it another time or later
+or tomorrow or whatever.” But that’s just my personal view.
+
+James Bladel:
+
+Any other thoughts from the table, Council, Board? I think there’s some
+commonality between this topic and the one we just discussed, which is that,
+you know, there’s gaps or daylight or deltas between recommendations
+coming out.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 29
+
+I don’t think we’ve - we have formal GAC advice on this or are necessarily
+expecting it, but I think it is one possible avenue that’s been hinted at coming
+out of Marrakech.
+And I think that, you know, from our perspective the GNSO - we’ve, you
+know, as you mentioned we’ve - we worked for a number of years. We had a
+number of very spirited debates.
+We’ve reached a number of let’s say very constructive but perhaps tenuous
+compromises, so to reopen those issues after the fact I think starts to call into
+question the integrity of our processes that we use to develop processes, and
+to make decisions as a GNSO community and then to ratify those decisions
+at the Council.
+So it’s, you know, it’s something where we - we’re not trying to put you in a
+difficult position but we also want to find a clearer path forward for these
+things.
+And I think that, you know, we have a number of processes in place to try to
+encourage earlier and more substantive coordination and participation by the
+GAC and by individual GAC members or the GAC as an organization and to
+try to get - to head these things off earlier on in the process.
+And that’s always been the goal but I think that, you know, it - look if we’re
+being candid and this is the policy forum and it’s time to put the cards on the
+table I just - I don’t think we can point to any huge success in that area yet.
+We’re trying but I, you know, I don’t think that we could - we have anything to
+hang our hats on there. I don’t know. Heather.
+Steve Crocker:
+
+You’re touching on a general problem of the pace and rhythm and processes
+of the GNSO on the one hand and the GAC on the other hand, and they’re
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 30
+
+almost as if they’re not only two different organisms but from two different
+planets.
+And there is a slight piece of good news - I think not going to satisfy anybody
+at the moment. But I think that in general there’s been movement in the
+direction of being more responsive and getting engaged at an earlier time.
+But that still leaves us with problems like the ones we’re discussing here of as queued up from all that. So I don’t have any magic bullets here to offer
+except empathy that it’s not okay for these kinds of problems to fester and
+fester and fester, and that is something that does concern us.
+I want to make a comment that I hope is not going to be misconstrued. The this syndrome has been of concern for a period of time and should have
+gotten more vigorous attention than it has, so in that sense a slight apology.
+However I’ll observe and this observation is really one of - a collegial one of
+all of us that the past two years have been extraordinarily expensive in terms
+of the amount of attention to the transition process, accountability process
+and so forth all - which is fine.
+But as a consequence a number of things that we would have pushed harder
+on have not - have been starved for attention and as I said that’s not a
+negative comment.
+It’s just an observation about where we are. So just speaking for myself my
+hope is that we come out of this transition process and we’re not going to
+come out of it like a thunderclap.
+There’s a lot of implementation. There’s a lot of things to be sorted out so
+even assuming the transition goes through smoothly there’s still going to be a
+long tail on it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 31
+
+But nonetheless I hope that we’re able as a community as well as the Staff
+and the Board to start to turn our attention back to some of these issues that
+have persisted over a period of time and we start to bring the processes
+together.
+So I’m sorry for that speech but that’s the kind of thing that - and feel has
+been a source of frustration over a period of time. You want to…?
+James Bladel:
+
+Well I have Heather and then Bruce…
+
+Bruce Tonkin:
+
+Okay.
+
+James Bladel:
+
+…join us. And Heather go ahead.
+
+Heather Forrest: Thanks James. Heather Forrest. In the spirit of frankness and James has
+been frank and Steve has just been frank, I’m not convinced that this is an only an issue of pace.
+I’m not convinced that early intervention is the silver bullet. I really think that
+getting involved earlier might just mean we reach deadlock earlier. We’re all
+affected by PDP recommendations and the decisions of Council on those
+recommendations and the decisions of the Board on those recommendations.
+And when one of us is affected in a way - let’s say affected by Council’s
+decision in relation to PDP recommendations - when one of us is affected in a
+way that personally or in terms of our organization isn’t an outcome that we
+desired or hoped for and then we go to another SO or AC and say, “This is
+not the outcome that we desired. Can you help us get the outcome that we
+desire?” that’s a broken process.
+That’s a systemic organizational broken process. It’s going to one part who
+says no and the other part who says yes or hoping, you know, lobbying the
+other part to say yes and that bothers me.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 32
+
+This is not - we have two issues on the agenda that as James just said are
+really two peas in a pod, and I think this is an opportunity to try and nip this in
+the bud rather than let it continue. Thank you.
+James Bladel:
+
+Thanks Heather. Bruce and then Stephanie and then, you know, we want to
+give first crack to Board members but the floor is - well Jonathan.
+
+Bruce Tonkin:
+
+Yes. I think the goal of our organization is to create policies that have
+consensus support within the community and the GAC is definitely part of that
+community.
+I think one of the challenges that I’m noticing actually is really a problem of
+resource limitations and different priorities and I think that’s what’s affecting and there’s a lot of light coming sort of responses.
+So one is if you look at the GAC you might look at it at face value and say,
+“You know, it’s got over 100 members.” So obviously they’ve got lots of
+people to get stuff done.
+If you actually look at that and say, “Well who’s actually doing the work - the
+hard work of, you know, directly participating in a working group or a policy?”
+it’s probably five of those - five people - well five equivalent people that are
+available from that particular organization.
+Then if you look at the GNSO I can see this room. There’s, you know,
+probably 100 people in this room. I bet there’s 20 of people in this room that
+really do the heavy lifting.
+And what you get there is that you then - you might look at the GAC side and
+not have their - for their five people that really do the heavy lifting probably all
+five of those have been on the - one of the CCWGs would be my guess.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 33
+
+And therefore - but they’re - maybe they’ve got one person that’s available to
+look at NGOs because that’s something that’s important to their constituents.
+On this side you might say, “Okay you’ve got - obviously you put a lot of this and into privacy and proxy because that’s something that’s of interest to this
+particular community.”
+And so your - of your 20 people you probably had 15 on the CCWG and
+maybe you’ve got one or two heavy lifters on privacy/proxy. The GAC’s got
+no heavy lifter on privacy/proxy so they kind of go, “I’m just going to wait until
+I get to the end result.
+I haven’t got time to participate. I’ll wait till you’ve done all the hard yards and
+you’ve worked and you spent a year working on it and now I finally got the
+document.
+Well I’ve got time to read the document now that’s it in final form and hey I
+don’t like it and now I’ll put my advice in.” So I think it’s - that’s actually
+aligning the fact that you need to identify early who are the stakeholders and
+you’ve got to try and find a way for them to be - to agree to the priorities
+because otherwise I think you’ll always end up with this problem, because I
+think it’s not bad faith.
+I think it’s just to - each group is trying to use their resources and prioritize
+those for what they think are the important topics.
+James Bladel:
+
+Thanks Bruce. Next up I have Stephanie, Jonathan, Greg and if anyone else
+wants to get in the queue that’ll probably take us right up into the end of this
+session.
+So we’ll just go David last and then we’ll close off with those and Susan.
+Okay so David and Susan and then that’s it so if we could ask folks to keep
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 34
+
+your interventions succinct that’d be great. Thanks. We’ll get everyone in that
+way.
+Stephanie Perrin: Thanks. Stephanie Perrin for the record and I totally agree with what Heather
+said. I think that the deadlock will move forward. That might be useful and it
+might not.
+I totally understand that Bruce gets it. There is some frustration here but there
+is basically - it’s first among equal so there’s a trump card being played.
+And the point I wanted to raise - and I’m painfully aware - painfully, painfully
+aware that there are people around the table who would cheer resoundingly if
+I said, “Okay I’m quitting.”
+But I - this impacts the multi-stakeholder model rather profoundly because
+we’re not that stupid. If we’re going to work for five years on something
+bringing missing expertise - at least I think I bring missing expertise and
+representing civil society, and then it’s to no good anyway because none of
+our arguments will ever be heard.
+And the careful calibration that takes place during a PDP where there’s give
+and take - there’s genuine give and take and then that gets trumped. Well
+eventually you’re going to leave and that eventually could be quite precipitous
+if this happens in a number of PDP areas.
+And that impacts whether ICANN has any credibility and then this gets us
+back into the Workstream 2 discussions about accountability so I think it’s a
+very important topic.
+I’m glad that Steve said what he did because it’s time we address this for
+good or ill. Thanks.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 35
+
+James Bladel:
+
+Yes Stephanie thanks and it’s a good point. And I’d also throw onto the pile
+that the next time we put out a call for volunteers to PDPs and folks see what
+happened to their work the last time around, the enthusiasm let’s say is…
+
+Greg Shatan:
+
+Yes.
+
+James Bladel:
+
+…tempered quite a bit. So Jonathan.
+
+Jonathan Robinson: Thanks James. My - good discussion. I mean, I really appreciated hearing
+it and, you know, Bruce’s point about resource, Steve about distraction,
+Heather about, you know, whether or not the problem is so sort of structural
+or systemic that bringing it forward wouldn’t help.
+But what no one’s mentioned is of course that these two examples that we’ve
+discussed do predate the work of the GNSO-GAC consultation group, which
+has done some very good work in the background during the course of all of
+this - distractions that Steve talked about, all of the other overarching issues
+that we’ve got involved in.
+And quietly in the background there has been some very good progress. I’m
+not saying it is a silver bullet to quote Heather on this point but it’s - there has
+been some very good work about early involvement of the GAC in the PDP
+process, some mechanisms put in place to achieve that and of course that is
+on the back of the ATRT recommendations to do so.
+And Mason’s worked in his capacity as the first GNSO liaison to the GAC
+very specifically in that direction, an opportunity to engage and provide that
+kind of input to the GAC early on.
+So I’m not saying we would’ve found these really intractable or challenging
+problems any more easy to resolve, but we have made some steps in the
+right direction to dealing with this kind of thing earlier in the process and
+making sure we are better equipped to do it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 36
+
+So let’s keep it up but let’s not forget that some work has been done and it’s
+rather supported that kind of initiative, and feels to me like that was a long
+way forward from if I roll back to the Toronto meeting say in 2012 where the
+GNSO didn’t even meet with the GAC.
+So, you know, we may well have some structural and other challenging
+issues but we have made some progress as well. Thanks.
+James Bladel:
+
+Thanks Jonathan. And just for clarity, because if I need to apologize to you or
+to Mason if it felt like I was throwing your efforts under the bus, it is possible
+that we’re not just seeing the fruits of those efforts yet and that we are kind of
+chasing a trailing indicator from the - that work and I understand that.
+I wasn’t - certainly wasn’t trying to call you out for those efforts. I think they
+are good efforts/good programs. They just haven’t…
+
+Jonathan Robinson: Thanks James and I wasn’t taking it as that but I think…
+James Bladel:
+
+Okay.
+
+Jonathan Robinson: …you’re - that’s a very elegant expression - trailing indicator. I mean, to
+some extent these predate that work so - and again on the flipside I don’t
+think we’ve got it all resolved but we have made some progress.
+So I wouldn’t like us to think that we just simply ignored the structural issues.
+We did some good work on that and are doing some good work and…
+James Bladel:
+
+Thank you. Greg?
+
+Greg Shatan:
+
+Thanks. Greg Shatan for the record. I’ll point out that I was a member of the
+IGO-INGO PDP that was the subject of the first topic under discussion. And I
+think that what I see is the two topics that were discussed today with the
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 37
+
+Board are really the same topic just with slightly different facts - specific facts
+so it’s really the same story.
+And that, you know, we’ve come to a certain set of policy recommendations
+using our process and then it all got gummed up. So if that’s the process
+that’s, you know, that’s in our bylaws that’s a problem.
+Clearly there needs to be a way out of this dead end - this policy collision.
+And I remember noting that we were heading into a policy collision when we
+were issuing our policy recommendation from the IGO-INGO Working Group
+- not the current one but the prior one.
+So this is the, you know, the world’s slowest train wreck and now we have
+two train wrecks that are essentially, you know, mimicking each other. Maybe
+like Jonathan says we have a way out or it’s not a silver bullet.
+I don’t know but just to point out that we’ve really just had the same
+conversation twice, which means that there is a systemic problem.
+James Bladel:
+
+Yes thanks. What did he - what’s the saying? Once is an anomaly, twice is a
+coincidence and what, three times is a pattern or something. It’s - I think if
+you start to feel like you’re going down the same tracks and every time you
+go down the tracks you end up with the same result. Yes absolutely.
+Okay we’ve got David and then Susan and then I think we’ll saw it off and
+that’ll probably take us to the top of the hour. David?
+
+David Tait:
+
+Well yes Jonathan said I think a lot of the things that I was going to say. The
+GNSO-GAC consultation group which - was essentially I think partly formed
+in response to some of these problems.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 38
+
+We - the - obviously the Red Cross issue has been dragging on for a very
+long time, showed a lot of how bad this sort of can be when the GAC and
+GNSO come into collision.
+We’ve tried very hard to get early input. The only thing in which I’d - and, you
+know, I think a lot has been achieved and a lot of good work on both sides by
+everyone involved in that group and especially by Mason who’s done, you
+know, done a great deal of good work in that role.
+But I think one way I’m going to differ is that - and in the PPSAI largely does
+not predate that work. That’s work that happened post - mostly post all those
+processes coming in and it really showed that, you know, we’re still not there,
+that the work we’ve done there and trying to get GAC early engagement has
+still not been fully taken up and is still causing us some problems.
+So maybe this is just a, you know, a call to arms to get back into work at that
+and see what we can do in terms of dealing with the, I mean, those issues
+that Bruce talked about the way the GAC works and does not have the, you
+know, use - has different sets of resources to the GNSO and different
+processes are very true but we’ve - well, you know, they remain problems.
+We still need to work on them and even just getting that same level of, “Oh I
+better read - I’ve got time to read one thing and respond,” you know, if that and if that was the initial issues report as well, you know, we could get that on
+the initial issues report as well as the end or something.
+You know, even that sort of modest level of early input would hopefully make
+a real difference and let’s keep working at it.
+James Bladel:
+
+Thanks David. Last word goes to Susan.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 39
+
+Susan Kawaguchi:
+
+Okay. Thank you. So this has been really interesting and some of this
+
+may be my lack of understanding on how the thing - this would work with the
+Board in general.
+But I guess my, you know, and being a member of the many working groups
+over the years I’ve always thought, “Okay we’ve finalized this. We give
+recommendations to the Board. The Board takes action.”
+But I’m disturbed with the Red Cross IGO acronyms, all of that, that now the
+Board is coming back and saying, “What do you want to do GNSO Council?”
+There - some of that’s fine because I think working together and compromise
+and discussing things are good but we still need the Board to take an action.
+The Board has its own processes to follow. GNSO and especially in the
+PPSAI Working Group followed those processes to a tee. Now we’re looking
+for your advice and input and maybe it’s - maybe we haven’t seen GAC
+advice yet on the PPSI - AI.
+Maybe we’re, you know, jumping the gun here but I really would urge the
+Board to think about this and sort of weigh the community and the multistakeholder aspects of our community, and the fact that we followed the
+process and now we need to move forward in one way or the other.
+James Bladel:
+
+Thank you Susan and thanks to all who contributed to that conversation. And
+I think your last point is probably a good as place as any to land on this topic
+is that we don’t have any GAC advice on this yet.
+It’s a potential but this is just a - an acknowledgement that that could be one
+of the potential outcomes of the Helsinki meeting. And we want to essentially
+get your thoughts on the Board as to, you know, where you see this going.
+
+Steve Crocker:
+
+Yes. Let me - it wouldn’t be appropriate for us to say we hereby make a
+decision or we’re going to make a promise to the GAC. But I can say not only
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 40
+
+on my own behalf but on behalf of the entire Board we have - definitely have
+heard you and we agree with you that this is not a satisfactory process.
+Stephanie suggested that -- what I said before or what someone said -- will
+only have the effect of speeding up the train wrecks. I’m not sure that that’s a
+terrible thing.
+It’s - if we’re going to have train wrecks let’s get them done and then we can
+deal with them faster. But I think that we not only have to deal with these
+specific issues and agreed and we have to deal with the systemic process.
+And as I said earlier my fervent hope is that we can - all of us, not just the
+Board but the whole community can start to turn our attention to getting that
+kind of work done as opposed to the overlay of how we’re fixing up our
+accountability process.
+And not that that’s unimportant but there’s a limited bandwidth that we all
+have, and I would like to see going forward that a year or two years from now
+we’re not still dealing with those issues but we are dealing with the kind of
+issues that we’re talking about here.
+James Bladel:
+
+Thanks Steve and thanks to our visitors from the Board. We can leave this
+session a couple of minutes early. I think we’re breaking for lunch now. Is that
+correct?
+So let’s - thanks again to everyone who contributed on those two topics. I
+know they’re challenging and we’ll give you at least 48 hours to solve them.
+
+((Crosstalk))
+James Bladel:
+
+If we can stop the recording I think we’re going to break for lunch. We’ll
+reconvene - so I’m checking the schedule here. I believe we reconvene at
+1:30 and there’s going to be a little bit of a shift around the topics.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-27-16/8:00 am CT
+Confirmation # 8995676
+Page 41
+
+We’re going to move the GNSO review first. Where’s Marika? Am I saying
+this wrong? The GNSO review first. Just to accommodate some of the guests
+that are going to come in and some of the subject matter experts that are
+going to visit with us for those topics, we’re going to shift some things around
+and I’m looking at you Rinalia.
+And then we’ll also have a discussion that involves the Co-Chairs of the
+Accountability and (Davey) will be coming a little bit later so enjoy your lunch.
+We’ll see you at 1:30. Thank you.
+((Crosstalk))
+
+END
+
+

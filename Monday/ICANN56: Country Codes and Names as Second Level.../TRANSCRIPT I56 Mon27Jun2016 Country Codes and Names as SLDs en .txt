@@ -1,0 +1,870 @@
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+Monday, June 27, 2016 – 10:45 to 11:30 EEST
+ICANN56 | Helsinki, Finland
+
+OLOF NORDLING:
+
+Bang, bang, bang. That's the improvised clock.
+
+CHAIRMAN SCHNEIDER:
+
+Okay. Yeah. We know that this coffee break has been very short
+but please, we will continue any moment, so please take your
+seats. Thank you.
+
+OLOF NORDLING:
+
+Ladies and gentlemen, would you please take your seats. We'll
+start this session in a couple of seconds.
+
+CHAIRMAN SCHNEIDER:
+
+So please take your seats. Dear colleagues, we will start very
+soon. Right now, actually.
+Okay. Thank you for taking your seats.
+We have next on our agenda an issue that is not a new one. It's
+something that we've been discussing for quite some time. And
+Gema from Spain is one of the persons that has been
+concentrating quite a lot of time and energy on this, so she will
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+be the lead for this issue, so let me give the floor to Gema to talk
+about country codes and names as second-level domain names.
+This is Session Number 3. These numbers of the sessions also
+equal to the briefings that you have in your documentation, so
+this is linked to documentation with the number 3. Thank you.
+Gema, the floor is yours.
+
+GEMA CAMPILLOS:
+
+Thank you, Chair, and good morning to everyone.
+We have a brief presentation. The session we have now was
+going to run for 45 minutes. Now it is less than 45, so we need to
+make the best of our available time.
+We are going to discuss two issues in this session. One is country
+codes as second-level domains, and the second one is country
+names as second-level domains.
+If we can go to the next slide, please. Yeah.
+The first thing that I want to do is to make you see the difference
+between the issues in this session and the issue on country
+name -- or country codes as top-level domains. That is a session
+that we will have tomorrow.
+We are going to start now to discuss two-letter codes as secondlevel domains. You can see the format on the right-hand side of
+
+Page 2 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+the slide.
+
+EN
+
+It would be country code dot new gTLD, while
+
+tomorrow we will see whatever domain name dot three-letter
+code. But this is going to be tomorrow.
+Next slide, please.
+Okay.
+
+So going into the substance of two-letter codes as
+
+second-level domain names, the policy now in place comes from
+the registry agreement for new gTLDs that establishes a
+reservation of two-letter names as second-level domains. That
+reservation can be lifted if the registry reaches an agreement
+with the government or if it follows a procedure for their release
+approved by ICANN.
+The registry agreement establishes a condition for that release
+by ICANN. That is, that measures to avoid confusion with the
+country code are taken.
+So ICANN decided to set up a procedure to release country codes
+as second-level domains, and that procedure consisted of
+requesting governments or anyone else to submit comments on
+concerns that two-letter codes could cause as second-level
+domains.
+Then ICANN put up a Web form to submit comments.
+Governments have 60 days from the publication of the request
+to submit their comments.
+
+Page 3 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+At one point in the moment -- at one point in time ICANN set that
+only comments pertaining to confusion between two-letter
+codes and country names were going to be considered. That
+was in keeping with the Specification 5 of the registry agreement
+that, as I said, conditioned approval of ICANN of this release to
+the adoption of measures about confusion.
+Then ICANN asked registries to propose mitigation plans to
+avoid that confusion between second-level domains made of
+two-letter codes with country codes.
+Those mitigation plans have been submitted. The deadline
+ended on April.
+Now ICANN is studying those mitigation plans, as well as
+comments made by governments.
+We are right now in this moment -- that's why I wrote it in blue
+because ICANN has not yet published the criteria that they will
+use to assess the mitigation plans and concerns made by
+governments.
+So we have the opportunity now to weigh in in that thinking -that ICANN thinking of the criteria, and try to have an impact on
+the criteria ICANN can use.
+We can go to the next slide, please.
+
+Page 4 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+Now we are going to see the different mitigation plans that the
+registries have submitted because they are published.
+Brand TLDs -- that is, the ones made of trademarks -- said that as
+they have to follow very strict criteria for registration, basically
+they have to use their TLD just to promote the image of the
+company, there is no need to adopt any other mitigation
+measure because the very use they will put the TLD to would
+avoid confusion.
+And there are other registries which are not brand TLDs but who
+pledged to adopt restricted policies for registration that say that
+because of their restrictive policy registrations, there is no need
+to take additional mitigation measures.
+This is the case, for instance, with geographic names because,
+for instance, they say that they would only accept registrations
+for individuals or companies having a linkage with the city or the
+region or with some Category 1 TLDs because they say that they
+could only accept registrations that have demonstrated
+relationship with their string.
+If you see the pie here, brand TLDs are 30% of the requesters,
+and the ones with restricted registration policies are 4%.
+The large chunk of the pie are open registries who promise to
+investigate complaints about the confusion the use of the two-
+
+Page 5 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+letter name can cause with the country code and then address
+the concerns raised and take measures that can be, at the very
+last resort, their suspension or cancellation of the domain name.
+This is 55%.
+Some TLDs, even open registries, have offered the possibility of
+conducting phased allocation programs -- this is something
+similar to sunrise period -- in which they could give priority to
+ccTLDs to register the objected country code.
+They say that this measure was used in the past with some
+legacy TLDs and some pre-2012 new gTLDs like info, Bates,
+travel, and so on. And I don't see the -- yeah. I see it's 7% in the
+pie. 7% of the requesters offered this measure.
+And then some registrars -- registries say that they could ban
+third-party registrations, to avoid confusion between the ccTLD
+and the two-letter code.
+For instance, in my -- .ES, which is the country code for Spain,
+and .ES.XYZ, which is one of the new gTLDs, if ES.XYZ accepted
+third-party registrations, users could be misled into thinking
+that that has something to do with the ES top-level domain.
+This is not here in the pie, but we have to note that some
+registries have proposed several measures. Phased allocation
+combined with investigation of abuse reports. Prohibiting resale
+
+Page 6 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+mixed with investigation. Maybe that's the reason why it is not
+in the pie.
+Then next slide, please.
+Why should the GAC seize the opportunity to issue advice at this
+stage?
+Precisely because ICANN has not released the criteria they will
+use to examine mitigation plans and governments' concerns
+concerned.
+
+So we have the opportunity to influence that
+
+decision-making process.
+I have distributed some days ago draft advice for this purpose.
+And the goal of the language that I put is to provide the
+distinctive character of two-letter codes as country identifiers in
+the DNS and to prevent confusion, which is the ultimate
+rationale of the registry agreement.
+I'm going to do an assessment of the measures that have been
+presented by registries for -- to feed the discussion.
+The much popular -- or the measure that has been proposed by
+both registries is to investigate abuse reports and address those
+concerns. And I put a line: Do you like this? Maybe that's a
+minimum. It's the minimum they should do. But I have some
+doubts about what would happen if the registry is free to
+
+Page 7 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+determine whether there is confusion or not. I mean, if there is
+no standard criteria to determine what causes confusion or
+what does not cause confusion, there is not going to be
+consistent measures throughout the registries.
+Maybe one standard criteria that was used in the past in .IRO
+was to force registrant -- registrants to clearly state on their
+websites that they don't have any relationship with the
+constitutional authorities of a country if they don't have that
+relationship.
+Another thought for you to think on, category 12 -- category 1
+TLDs. Do you think that these measures should by all means
+taken by registries have category 1 TLDs? Category 1 are the
+strings that relate to highly regulated sectors; that they have
+entry requirements into the market, like the ones in financial
+sector, health sector, et cetera.
+The second measure concerns brand TLDs. I think this is a good
+measure. I don't think there is risk of confusion with brand TLDs.
+I'm going to put Google as an example, just as an example.
+Imagine Google has a website for Spain which is called
+GOOGLE.ES. What they plan to -- or what they could do, if ICANN
+allows them to use .ES, would be to say .ES.GOOGLE. Everyone
+would know that .ES.GOOGLE is for the Spanish website of
+
+Page 8 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+Google. So I don't think it's going to cause confusion among
+users.
+The next measure is those registries with restrictive registration
+policies, like the ones in the financial sector who have adopted
+public interest commitments, if they have requirements like
+verification of credentials, being an entity that is working in that
+sector, and that is going to be checked prior to registration. And
+the name is going to match the name of the company,
+(indiscernible) a company called .ES or ES, the risk of confusion
+goes down. So that would be a possible measure, too.
+But not all registries with restrictive registration policies check
+the requirements before registering. They do it afterwards. But
+that can be effective, too, if they finally adopt measures to
+eradicate that confusion, to cancel the name or suspend the
+name.
+I have added other criteria that have not been mentioned by
+registries, and that is there are very sensible names, like .ARMY,
+.NAVY, .AIRFORCE. They have very clear linkage with strictly
+governmental functions, and maybe the visual impact of a
+country code and those names triggers an association with the
+country immediately. And we may want to avoid that visual
+confusion.
+
+Page 9 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+Other additional measure that I propose is that those registries
+that have proposed to reserve two-letter names, to accept
+registrations based on the plans for future use of those names or
+who have pledged to check the relationship with the
+government or something like that. These are very demanding
+measures. They should be allowed to carry them out. Even if
+ICANN adopts a standard measure, they are not as demanding
+as these ones.
+Next slide, please.
+One of the measures that I have mentioned that the registries
+have proposed is to conduct phased allocation periods. And I
+like this measure. Obviously it would not be necessary for brand
+TLDs, because I said that I think that the risk of confusion is
+none.
+Maybe TLDs with restricted registration policies shouldn't need
+it either, because their registration policies already prevent that
+confusion from happening, but I could add some qualifications
+for those phased allocation periods.
+The registries that have proposed to use phased allocation
+periods say that the ccTLDs could be entitled to register names
+in the first place, but what happens if a government doesn't
+have good relationship with the ccTLD?
+
+Or it has good
+
+relationship with it, but the ccTLD is not interested in registering
+
+Page 10 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+a hundred names. There are countries who have objected to 600
+names. Maybe that is not business for ccTLD.
+That's why I think that governments should be allowed to
+participate in this phased allocation period.
+Of course GAC members should help the registry to identify the
+right authority within the country to register the name.
+I think this is a good measure because countries could use this
+name for purposes related to the country so there won't be any
+confusion, and they may decide not to use that name once that
+it's registry. That would put the name off the market, and that is
+also effective to avoid confusion because you won't have that
+name on the DNS.
+If this measure is taken, of course governments and ccTLDs
+shouldn't pay prohibitive prices for these names. They should
+pay the ordinary price for these names during phased allocation
+periods.
+And what I propose is that after the period for governments and
+ccTLDs, trademark owners have the opportunity to register the
+names. Imagine there is a trademark named ES. If they register
+the name, I guess that they will use the name to promote the
+image of the company. So the use of the name could not cause
+
+Page 11 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+confusion to Spanish users or whoever about the relationship
+with the country.
+But I have two questions for these phased allocation periods to
+be good measures for the global domain (indiscernible). Maybe
+after the presentation you can address them.
+Someone told me that there are rules forcing registrants who
+register names in phased allocation periods to effectively use
+the name afterwards. That could mean that they could not
+simply decide not to use the name.
+If that's the case, that it's important for GAC members to know
+and to make up their minds.
+Another question is if registries charge renewal fees for these
+kind of premium names -- premium because they have a very
+high value in the market; you can see them on domain nameselling platforms -- if they charge renewal fees that are above
+the ordinary price for any other domain name, because, okay, a
+government can register a name for, say, $8 during phased
+allocation periods, but if the year after he has to pay $20,000,
+maybe you have to think twice. And we all need to know this
+data before going forward.
+
+Page 12 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+And the last measure that some raisers have proposed is to
+prohibit third-party registration on the second-level domain for
+the reason that I said before. So I like, also, this measure.
+Next slide, please.
+Now we go on briefly to the issue of country names as secondlevel domains. You see now the example. The situation here is
+that the registry agreement reserves those names, so they
+cannot be used unless the registry operator reaches an
+agreement with relevant country, the relevant government, or
+with ICANN.
+ICANN should, in that case, set up a procedure subject to the
+review by the GAC. This is what the specification 5 says.
+Up to now, only 12 requests have been made by the registries.
+Very few, then, but ICANN has not granted any of them yet. Why
+not? Because it has not developed any process yet for the
+release of country names.
+But the GAC, back in the year 2015, thought that ICANN was
+immediately going to set up that process, and we thought that
+ICANN could follow the same procedure that it adopted for twoletter names; that is, notification of requests to governments,
+governments have the opportunity to comment, and so on.
+
+Page 13 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+So we decided -- we took the decision to create a database
+where countries could say whether they would accept those
+requests or not.
+In the end, we ended up with a database in which countries
+simply stated whether they wanted to be notified of requests or
+not. It turned out that 80-something countries said that they
+wanted to be notified, and only nine countries said they didn't
+want to be notified.
+So what we -- I propose now is to get ahead of ICANN in the
+sense of trying to be proactive, trying to guide them, give them
+some ideas as to how to develop that process. Why? Because
+we were not completely satisfied with the process for the release
+of two-letter names so there is an opportunity to improve the
+way we have done things and because country names, I think,
+are more sensitive than two-letter names. So we have to be
+more careful in this case. Next slide, please.
+So what we said before in the past about country names, it's just
+underlining the importance on sensitivity countries attached to
+those country names.
+
+The need for actual consent.
+
+For
+
+instance, in the database it is stated that if a country has not
+filled in the database ICANN cannot take for granted that the
+country agrees to the release of the country name. So silence
+doesn't mean approval. And we all -- we have said as well that
+
+Page 14 of 27
+
+EN
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+we ask ICANN to consider the process very thoughtfully and that
+we involve ICANN at the early stage. So next slide, please.
+In the draft advice that I've distributed I included some
+elements. Basically that it could be good for this process to
+conduct an analysis of past experiences. What were the rules in
+the past for the use of country names, for instance on the .INFO,
+.BIZ, and pre-2000 -- and other pre-2012 new gTLDs because
+there were rules about the use of country names. It would be
+good to go through that experience to know how many of those
+country names were registered. Of those country names that
+were registered, what is the use of country names? What are the
+cases of misuse of country names, whether they're having
+conflicts with them? And it would be good also to ask at least
+(indiscernible) Registries and registrars holding category one
+TLDs, what's their plans for the release of country names are,
+what measures they plan to take, whether they think of phased
+allocation periods or auctions or whatever.
+
+And there are
+
+maybe some other elements that I did not include in the draft
+advice but I included them now. And it could be good for ICANN
+to know what are the particular concerns GAC members have
+about country names? Why are they so important for them?
+Because
+
+of
+
+political
+
+reasons?
+
+Any
+
+related
+
+reasons?
+
+Jurisdictional reasons? Or other? It will also be important to
+note again that most countries have capacity limitations to deal
+
+Page 15 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+with complex processes like the one implemented for two-letter
+names that maybe countries could need to conduct entire
+consultations among the different ministries and that can take
+time. Although the GAC has already more than 160 countries
+there are yet countries that are not GAC members and how to
+protect their country names. It's an important consideration.
+And we can also ask ourselves and ICANN what the review by the
+GAC means. That it's a condition that ICANN has to respect to
+release country names. And it could be good also to think if
+there should be different measures depending on the kind of
+TLD, brand TLDs. Do they need to have restrictive policies as
+regards to the use of country names? Category one names -- or
+you know that the countries are reserved in six different
+languages. Is it equally relevant to reserve all names in all these
+languages under whichever TLD? And this is the kind of things
+that I put forward to you to think about it. Next slide, please.
+It's more or less this is what I've told you already. Next slide. It's
+finish. Do you want to issue advice on this? What do you think
+about the GAC advice? Do you think that different TLDs merit
+different measures? And I think I've used up all the time. I'm
+sorry.
+
+We have very little time left.
+
+Maybe we can start
+
+discussion. You can also use the email list to express your views,
+and throughout the week we will try to get to something. Thank
+you. I'm sorry about running out of time.
+
+Page 16 of 27
+
+EN
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+[ Applause ]
+Yes, very briefly, if ICANN GDD can answer the questions I bet.
+Thank you.
+
+KRISTA PAPAC:
+
+Thank you, Gema. And thank you for having me here. My name
+is Krista Papac, and I'm with ICANN staff. I'm a member of the
+global domain divisions team. So I think your first question,
+Gema, was about whether a registry -- whether they're required
+to use the domain names if they're registered. So if a twocharacter label becomes registered, is there a requirement that
+the registrant uses -- actually uses the domain name, is that -that was the first question, correct?
+
+So there are no
+
+requirements under the contract for them to use or not use
+them. Registry operators have registration policies. They're
+required to publish them in a place that is easy to find and that
+anyone can go look at them and review them.
+
+And their
+
+registration policies are at the -- they are the choice of the
+registry operator, as long as they don't conflict with any other
+terms of their contract. So the ICANN contract doesn't require
+them -- does not require registered names to be used or not
+used but a registry could have its own registration policy that
+they set that would be published and that you could see what
+their requirements are.
+
+Page 17 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+Second question.
+
+UNKNOWN SPEAKER:
+
+(Off microphone).
+
+UNKNOWN SPEAKER:
+
+Yes. So I think your question is, basically can they -- can a
+registry or a registrar charge a higher price for one of these two
+character labels. So pricing is set by the registries and then the
+registrar follows after that with their own pricing. ICANN -- we
+don't regulate pricing or oversee pricing whatsoever so it's not -it's not within the contract what the price can or cannot be. The
+contract does offer -- or does have -- the Registry Agreement has
+a requirement that if pricing is going to be changed at any time
+there's a -- or renewal pricing will be affected, that there's a
+notice period to registrars about the changes in the pricing
+that's coming up. But there's -- other than that, there's not any
+specific requirement around what a price can or can't be at any
+given time.
+And then I just want to -- something to point out is, registrations
+can be for anywhere from one to ten years.
+
+So if you're
+
+purchasing one of these domain names you could register it for
+one year or any number of years up to ten.
+
+Page 18 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+SPAIN:
+
+EN
+
+I don't know if we have time to discuss, otherwise I encourage
+people to express their views on the mailing list.
+
+CHAIR SCHNEIDER:
+
+I think we can run a few minutes over, so you can ask for some
+questions or comments.
+
+SPAIN:
+
+I don't know who was first.
+
+I see Iran, Denmark, and the
+
+Netherlands. Maybe Iran, Denmark, and then Netherlands.
+
+IRAN:
+
+Anyone that you wish, if you have the time to express. It's up to
+you. Can I proceed?
+
+SPAIN:
+
+Sorry, Kavouss. I wasn't paying attention. Can you repeat?
+
+IRAN:
+
+Okay. Let's make it short. First of all, thank you very much for
+your very, very comprehensive presentation which requires a lot
+of work that you have done. We are very grateful to you. It is
+highly appreciated.
+You raise one question that's very important inside your
+presentation. Do we have an advice to make. In our view, we
+
+Page 19 of 27
+
+EN
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+should consider a general advice to ICANN. Don't go ahead until
+we totally finish this study. It is very, very sensitive issues. I'll
+give you one example. There was a thread of TLD which GAC
+does not agree to be delegated. I don't want to say what was
+that. But it was given. And suppose that that uses the second
+level name of the country? Was the TLD of the country. So what
+was the situation? So we have not studied it yet. There are
+many questions.
+
+Sale is something.
+
+Resale is something.
+
+Sensitive is something. There are so many questions not yet
+answered. And you have raised many of them. So I think
+perhaps we consider the appropriateness to give a general
+advice that please don't delegate or don't proceed with a
+request until we finish the study. Thank you.
+
+SPAIN:
+
+Denmark.
+
+UNKNOWN SPEAKER:
+
+Netherlands.
+
+SPAIN:
+
+Finn and then you, Thomas.
+
+Page 20 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+DENMARK:
+
+EN
+
+Thank you, and thank you for your presentation which was very
+good and down in the details. From our point of view we have
+.DK and we have allowed for all those years country and twoletter codes to be registered before .DK, and to my knowledge,
+we have had no problem, no user confusion, any problems. So
+that's also why we have no problem with making DK or Denmark
+on the second level.
+So my observation is that I have -- we have difficulties to see the
+problem. We know that certain countries can foresee there
+might be a problem but our experience is that there haven't
+been any problems. Looking at the advice, I must admit that it is
+very, very detailed. And even though I think I was listening
+carefully, I don't know whether I fully understand the detailed
+steps here trying to regulate prices, trying to do face things. If
+we're going in those kind of details, we ought to consult with
+others, other stakeholders before and have their view so we can
+have a good ground to discuss this.
+So we will be reluctant to have those kind of advice. And if there
+is going to be an advice it will also be important that this is
+advice from some countries or many countries but not all the
+GAC. Thank you.
+
+SPAIN:
+
+Page 21 of 27
+
+Thank you, Finn.
+
+EN
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+[ Applause ]
+Next, Thomas de Haan from Netherlands.
+
+NETHERLANDS:
+
+Thank you, Gema. I think it's very comprehensive. I think you
+really narrowed down the problem and gave some options to
+solve. The only thing is that we -- we have a couple of concerns
+with your proposal. Basically three, I think. First, we also
+requested the confusability issue.
+
+We have not seen any
+
+problems. As Denmark said, we have already a legacy with NL
+being used in many, many TLDs. We have not noticed any
+problem. And then, of course, we have to reckon that a ccTLD is
+in the first level very representative. On a second level, it may
+not have a significance in other strings like car or wash or
+whatever. It has a significance as a top-level domain. We have
+in Netherlands a lot of examples in which second level domains,
+short ones, have perfectly lived together. We have, for example,
+DE.NL which is a coffee company, Douwe Egberts.
+
+It's the
+
+country code of Germany under the country code of
+Netherlands. So I mean, this is -- this could potentially be, in
+your theory, very confusing, but it's not really.
+Second, we have to, let's say, give the good significance to what
+is confusability, not as -- let's say a general line, avoid any
+
+Page 22 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+country code on the second level.
+
+EN
+I think this is not
+
+proportionate.
+The second point is that we -- in the proposal, you propose to
+have a kind of phasing: First, government ccTLDs and then
+trademark owners. Again, as I said in force, we have trademarks
+with two digits, DE. But, I mean, we have BT, Volkswagen, VA;
+Hewlett-Packard, HP.
+
+So I question what -- why should
+
+governments and ccTLDs have priority over trademark owners.
+That's the second concern.
+The third concern is that we are -- with this methodology, we are
+introducing a new concept, is that governments and ccTLDs
+have to be there in a certain time frame to register name. It
+means that they should be -- it gives administrative burden also
+for governments who don't want to have this, let's say, burden.
+And it means that you have to react as a government on a
+certain time frame, very short. I don't know if all governments
+are aware of it. But it would be a tremendous -- it could be a
+tremendous administrative burden.
+Secondly, there are no -- we are not all countries in the world. I
+mean, if the GAC representatives are being notified, others will
+not. So they will miss the opportunity, basically. I don't think
+this would be fair.
+
+Page 23 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+I think I'll stop with this. But as Denmark said, there are a lot of
+things if you go in detail in advice, you bring in a lot of
+complexity which we cannot overview on this moment. Thank
+you.
+
+SPAIN:
+
+Thank you, Thomas. Next I have India.
+
+INDIA:
+
+So thank you for a very informative presentation. Very briefly,
+while we appreciate that the mitigation strategy could be a way
+forward, but what happens if -- while doing the mitigation, it is
+possible that we could find a solution. But what happens if no
+solution is found? How does one proceed forward if conflicting
+viewpoints are not, you know, amicably resolved? So we do feel
+that the governments should have the final word on this.
+And to illustrate, I would just mention that for India, we have -the top-level domain is .IN. And we have domain .ln, which is
+small letter L which is deceptively similar to .IN. So we have
+been raising this issue, and we have not been able to get a
+satisfactory resolution to this. So we feel that the governments
+should have the last word on this.
+
+Page 24 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+SPAIN:
+
+EN
+
+I can only take two more interventions. So you have to decide
+which of you. Australia, United Kingdom, and I think no more.
+Thank you.
+
+AUSTRALIA:
+
+Thank you. I think it's important to remember that there are
+other uses for the letters that make up our country codes. You
+know, they could be acronyms or trademarks. I think the GAC
+should perhaps focus its attention on principles of co-existence,
+how we can -- instead of a blanket ban on them or governments
+getting first rights, how we can, you know, work together to use
+them. Thanks.
+
+SPAIN:
+
+Thank you for the brevity.
+United Kingdom.
+
+UNITED KINGDOM:
+
+Thank you, Gema. I will be very brief as well.
+I have a lot of sympathy with the concerns expressed by
+Denmark and the Netherlands in particular. This is a very major
+step forward for the GAC, for individual governments to
+undertake if such a regime of preference and so on were to be
+instituted.
+
+Page 25 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+I'm also mindful of some doubt about the starting premise here.
+I think Denmark hit the note in this regard in terms of
+experience. But just following on, my experience is that I'm not
+aware of any representations being made to the U.K.
+government in this regard about confusability and so on.
+And perhaps the approach that Australia has taken is one that is
+resource efficient and having a look at what problems have
+arisen for certain administrations and see whether there are any
+deficiencies in resolving those problems within the existing
+framework of remedies and resolution process. Maybe that's
+the approach to take forward.
+Thank you very much for your work, though, in this regard. It's -and I appreciated very much your presentation. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you very much, Gema, and all who contributed. Those
+who have not had the chance to express yourself, you can also
+use, of course, our emails, mailing list. And we have a session
+that is related, as Gema has outlined. There is another session
+that is dealing with a similar issue, so there may be a chance. It
+is also just 30 minutes, but there may a chance for you to step in
+there. Thank you very much.
+
+Page 26 of 27
+
+HELSINKI – Country Codes and Names as Second Level Domains (SLDs)
+
+EN
+
+And we have some draft proposed advice text that we will
+somehow have to agree on until Thursday. So also feel free to
+discuss this electronically, the concrete text, in the meantime.
+That may help us to be as efficient as we can to cope with this
+issue by Thursday.
+
+[END OF TRANSCRIPTION]
+
+Page 27 of 27
+
+

@@ -1,0 +1,115 @@
+.fi
+Wind of Change(s)
+
+New organization May 1st
+
+Fi Domain Names
+Juhani Juselius
+Administrative
+Technical
+Legal
+
+Customer Service
+Saara Punkka
+
+Juhani Juselius
+
+20.6.2016 |
+
+2
+
+Registry – Registrar model
+» No more direct customers
+» Very simple "accreditation" process
+» Law & Regulation
+» Expectation: 3 000 registrars
+
+No local presence required anymore
+» Anyone anywhere
+
+Juhani Juselius
+
+2016 |
+
+3
+
+No age limits
+» Currently .FI is probably the only "Not suitable for children"
+ccTLD
+» Not any more
+14
+
+Domain parking will be accepted
+» Nameservers are not required anymore
+
+Domaining will be accepted
+» Currently it's not legal to register a .FI domain
+name in purpose to resell it later
+» Not any more
+
+Juhani Juselius
+
+2016 |
+
+4
+
+New names will be released for registration
+» Currently there is a black list containing:
+Names of TLDs (like "COM.FI" or "EU.FI")
+Names that express form of corporate (like "OY.FI")
+Offensive words and words that provoke to commit a crime
+
+» Currently personal names (first+lastname) allowed only for
+the person in question
+» Not any more
+
+"Standard" EPP, registry lock, two factor
+authentication will be implemented
+
+Juhani Juselius
+
+2016 |
+
+5
+
+New rights to improve security
+» In case of serious suspicion of IT security breach, FICORA
+can
+Monitor the traffic
+Change DNS settings
+Suspend the domain
+
+» Simplified process to revoke a domain name (based on
+trademark and company name protection)
+» Simplified process to transfer a domain name away
+from a typosquatter
+
+Juhani Juselius
+
+2016 |
+
+6
+
+New IT security related requirements to registrars
+» General requirements for every registrar
+» More detailed and more strict requirements for EPP users
+» FICORA has the right to audit these requirements
+
+Juhani Juselius
+
+2016 |
+
+7
+
+Secure
+Reliable
+
+Finnish
+
+Juhani Juselius
+
+2016 |
+
+8
+
+

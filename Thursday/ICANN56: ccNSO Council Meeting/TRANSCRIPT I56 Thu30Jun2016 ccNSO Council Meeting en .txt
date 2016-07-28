@@ -1,0 +1,1435 @@
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+HELSINKI – ccNSO Council Meeting
+Thursday, June 30, 2016 – 10:45 to 12:00 EEST
+ICANN56 | Helsinki, Finland
+
+KATRINA SATAKI:
+
+Good morning, so we have two more minutes, and then we start
+our council meeting. Hopefully, other councilors will join us
+shortly.
+It's 10:45, so maybe we start, and then – okay, Bart will check
+once more outside, see if we can get more councilors here in
+front.
+Okay, good morning everyone. We start our council meeting
+here in Helsinki, in a little bit unusual – not setup, but we're used
+to afternoon council meetings during ICANN meetings. This is,
+for a change, a morning meeting. So welcome everyone. Now, I
+would like to ask the Secretariat if we have any apologies noted.
+Can you turn it off? Thank you, so we have received apologies
+from Abibu.
+Agenda item number two, our minutes and actions from our
+16th June meeting. Minutes were distributed, sorry, a little bit
+too late, but I hope you had a chance to look at them. Are there
+any comments, anything you'd like to point out regarding our
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+minutes? If not, I propose that we adopt the minutes. Please,
+Secretariat, report regarding the actions.
+
+BART BOSWINKEL:
+
+All actions are completed.
+
+KATRINA SATAKI:
+
+Thank you. Agenda item number three, overview of interim
+meeting council decisions. This time we had none, so we can
+smoothly move to agenda item number four, and we're very
+efficient today. Approval of membership application .dk,
+Denmark. Very glad to see that we have yet another member,
+very active member. And as somebody pointed out this week,
+now we can refer to Lise as ex-non-member. But okay, Lise is
+unfortunately not with the ccTLD, but still very active, and we're
+really thankful for her contribution. So glad to see Denmark
+joining the members.
+As far as I understand, there are no outstanding issues. We have
+received full approval from IANA. Therefore, I would like to
+propose a draft resolution: the ccNSO Council approves the
+application of the ccTLD manager of .dk and welcomes Dansk
+Internet Forum, DIFO, the ccTLD manager for .dk, Demark, as the
+160th – yes, we have to correct this – member of the ccNSO. Can
+I ask for a motion? Okay, moved by Becky, seconded by Stephen.
+
+Page 2 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+Are there any – anyone would like to say something? Young
+Eum?
+
+YOUNG EUM LEE:
+
+I would just like to express my very huge appreciation of the fact
+that Denmark is finally joining. As a member of the EU, or one of
+the European countries or CCs that have contributed greatly to
+this community, it is very good that they are finally joining, and I
+welcome them wholeheartedly.
+
+KATRINA SATAKI:
+
+Thank you very much, I think I can – yes, please, Nigel.
+
+NIGEL ROBERTS:
+
+Doesn’t really apply to this resolution because you've already
+just done it, but with one exception right at the end just to save
+time, I suggest we waive the reading, because we've got them all
+in front of us, for the next resolution.
+
+KATRINA SATAKI:
+
+Do we have somebody in the Adobe room joining remotely? No
+councilors. But anyway, they see the resolution in front of them
+in the Adobe room, correct? Okay, so thank you.
+
+Page 3 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+NIGEL ROBERTS:
+
+But I echo what Young Eum said about Denmark.
+
+KATRINA SATAKI:
+
+Yes, absolutely. I think we have waited way too long for
+Denmark to join. Is there anyone against? Anyone abstaining? So
+who is in favor? Unanimously. Yes. Welcome, .dk.
+With that, we move to agenda item number five, or maybe while
+we're waiting for – no, okay, we can move to agenda number
+five. 5.1, broaden the mandate of the ccNSO Guideline Review
+Committee. As you may remember at the Marrakesh meeting,
+the ccNSO Council requested that the Guidelines Review
+Committee develop our internal procedures relating to
+implementation of the CWG Stewardship proposal. But with the
+adoption of the new ICANN Bylaws, we will need to implement
+other processes and procedures that follow from the new
+Bylaws.
+And since the Guidelines Review Committee has experience now
+dealing all the documents and all the processes, the proposal is
+that we ask the Guidelines Review Committee to work on these
+new internal procedures too. We have a draft resolution in front
+of us, so I will not read it. So may I ask for a motion? Moved by
+Stephen and seconded by Nigel.
+
+Page 4 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+Vika, please join us here in front. Yes, you can take your – maybe
+there. Yes, I hope that Byron will join us too.
+Anyone would like to say something? If no, who is against that
+we ask the Guidelines Review Committee to work on these
+internal guidelines? Anyone abstaining? Who is in favor? Thank
+you.
+Congratulations, Guidelines Review Committee, you have a lot
+of work in front of you ahead.
+Agenda item 5.2, progress on the ccNSO guideline selection for
+ccNSO-appointed member, one member to RZERC. RZERC,
+that’s Root Zone Evolution Review Committee. As you know, the
+ccNSO Council will have to appoint one member to this
+committee. The charter of RZERC is currently published for
+public comments. The public comments window closes, if I am
+correct, on 5th July. The Guidelines Review Committee has a
+draft for this guideline. Now we have discussion on the
+requirements for those who would like to apply to this
+committee.
+Luckily, the timeframe here is not as tight as in the case of the
+Customer Standing Committee, so we have to appoint our
+member on RZERC by September 13. At this point, there's no
+
+Page 5 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+action required. I just wanted you to note that this is something
+that we will have to do, and the guideline is on its way.
+Agenda item 5.3. As you probably noticed, we have received a
+request to review the draft proposal for additional budget for
+Work Stream 2 items. I forwarded the e-mail from our co-Chair
+to you. I also forwarded another document that was developed
+by the Finance Committee of the ICANN Board. They developed
+some principles to apply to budget to these accountability
+implementation tasks, and now we have to discuss how does it
+look to you, dear councilors.
+Our Vice Chair, Byron, who according to our work plan is
+responsible for overseeing accountability tasks. Unfortunately,
+he's not here at the moment, but maybe – sorry? But, yes, here is
+our draft decision in front of you. Again, I'm not going to read it.
+So anyone would like to move? Yes, Becky. Young Eum
+seconded. Who would like to open up discussion on this issue?
+Becky, please.
+
+BECKY BURR:
+
+Thanks. I'm sure everybody here has seen the report on the
+budget impact of the CWG and the CCWG Work Stream 1. And I'm
+sure you've probably heard this week various members of the
+community expressing some alarm, and the Board is certainly
+
+Page 6 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+expressing some alarm about the pace of spending associated
+with this. I think if Mathieu was here – and on his behalf, I would
+say that I think we did a huge amount of very, very complex work
+in Work Stream 1, and a significant amount of legal work was
+required to do it. That said, it was a new process for the
+community, in terms of the amount of work and the kind of work
+that had budget implications. And at some level, we were doing
+this without kind of formal finance and budgeting controls.
+This is an effort to create those budgeting controls, which I think
+makes total sense. It's responsible. It puts the authority with
+respect to budget at some level, and in the first instance it’s
+back with the SOs and ACs that chartered the organization. I
+want to ensure, as it goes along, that we haven't created
+something that is so bureaucratic that it creates additional cost,
+but I think that’s something we will have to watch very carefully.
+But I support this resolution, and I think it's a responsible thing
+to do for the community.
+
+KATRINA SATAKI:
+
+Thank you very much, Becky. Any more comments? With that,
+who is in favor of this draft decision? Vika?
+
+VIKA MPISANE:
+
+Page 7 of 44
+
+Yes.
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+Margarita, you're in favor, correct? Who is against? Abstained?
+No. Thank you. Oh, but apparently this is something that we –
+yes?
+
+UNIDENTIFIED MALE:
+
+[inaudible]
+
+KATRINA SATAKI:
+
+Sorry?
+
+UNIDENTIFIED MALE:
+
+[inaudible]
+
+KATRINA SATAKI:
+
+Next agenda item is 5.4, membership on the CCWG
+Accountability. As you know, we, as one of the chartering
+organizations, in accordance with the charter of the group, we
+have appointed five members on the CCW Accountability. And
+these members have been actively and very intensively involved
+in Work Stream 1, since the creation of the CCWG. That’s starting
+from December 2014. We realize how much time, effort, energy
+they have contributed to this work. And, yes, we understand if
+
+Page 8 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+some people get really tired of reading countless e-mails and
+trying to cope with the pace.
+I guess you probably saw the e-mail I forwarded to you
+yesterday. One of our members on this group, Eberhard, has
+expressed a wish to step down. He's ready and willing to
+continue if we cannot find a good replacement, but at least we
+have to try. And according to our discussions during previous
+council meetings, we acknowledge that our volunteers are
+getting really tired. And we also have discussed that we need to
+approach our volunteers and ask if they feel comfortable they
+still have energy and wish to continue. And as you could hear
+yesterday here, Mathieu agreed to continue his work as the coChair of the working group, so it's a relief. But still, we have a
+draft decision and the intention to launch a call for volunteers
+for membership on the CCWG.
+There are many people from our community who participate in
+this working group as non-members, just as observers. They still
+contribute a lot and read all the e-mails and all the documents,
+but not formally members. The intention here is to try to find
+Byron.
+[Emma,] please, join us here. Becky, I think you had his – yes,
+thank you, so that nobody forgets your name, we have
+[inaudible]
+
+Page 9 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+So anyone would like to move the draft decision? Debbie;
+Stephen seconded. Anyone would like to open discussion on this
+issue? Young Eum, please.
+
+YOUNG EUM LEE:
+
+Yes, I was wondering if we could just acknowledge again our
+members who have been involved in the work so far. We have
+done that before, but as we are kind of moving on and we're at a
+point where we're moving on to the second stage, that I would
+like to acknowledge the five members of the CC community that
+have participated so actively. And I would like to express my
+appreciation for the members who are Jordan Carter, Eberhard
+Lisse, Roelof Meijer, Giovanni Seppia, and Mathieu Weill.
+
+KATRINA SATAKI:
+
+Thank you, Young Eum, completely agree on that. It will be
+included in the minutes, and it's noted how much we appreciate
+their work and their commitment.
+So any more comments, anyone would like to say anything? If
+no, may I ask for a vote on this decision? Who is in favor? Thank
+you. Anyone against? All in favor, thank you. So we will ask the
+Secretariat to launch the call for volunteers.
+
+Page 10 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+UNIDENTIFIED MALE:
+
+[inaudible]
+
+KATRINA SATAKI:
+
+Yes, of course, yes, following the same procedure we used not so
+long ago. Okay, thank you.
+Agenda item number six, Customer Standing Committee
+membership selection. Agenda item 6.1, it's a call for
+expressions of interest. A couple of weeks ago on our call, we
+adopted the ccNSO guideline, ccNSO actions respecting the
+Customer Standing Committee. This guideline is publicly
+available on the ccNSO website. And according to the guideline,
+the ccNSO must instruct the Secretariat to send out a call for
+expression of interest for ccNSO-appointed members. In this
+case, when we say ccNSO-appointed members, it means that
+they are appointed by the ccNSO Council, but it does not mean
+that they need to be members of the ccNSO. Those are ccTLDs
+all around the world, regardless of their membership, so
+Denmark should not be worried. Oh, no, Denmark is now a
+member anyway, yes. So those who haven't joined yet should
+not be worried, but still welcome to join.
+We have a draft decision in front of us. Again, I'm not going to
+read, so may I ask for a motion? Demi, and seconded by Ching.
+Anyone would like to say something? I'd like to point out that
+
+Page 11 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+here we have this e-mail address, ccnsocsceoi@icann.org.
+Probably a little bit too complicated, but I think if somebody
+who wants to apply on the Customer Standing Committee
+should be able to send expression of interest to this complicated
+e-mail address. It's kind of a test, perhaps. Yes, please.
+
+BART BOSWINKEL:
+
+[inaudible] it works. No, it doesn’t. Let me explain why. This is
+just to ensure that, say, if one of the councilors, or even one of
+the Vice Chairs, would apply for a position, he or she will not be
+involved in the [inaudible].
+
+KATRINA SATAKI:
+
+Yes, this is a separate e-mail address so that all the expressions
+of interest are treated confidentially and...
+
+BART BOSWINKEL:
+
+It should work at some point.
+
+KATRINA SATAKI:
+
+Any other point? Yeah, Becky?
+
+Page 12 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+BECKY BURR:
+
+EN
+
+I think it's just worth pausing to note that this is one of the first
+concrete steps towards implementing the transition, and we
+should all just pause to be glad we've gotten this far.
+
+KATRINA SATAKI:
+
+Thank you, Becky.
+
+NIGEL ROBERTS:
+
+I think Becky means breathe a sigh of relief.
+
+BART BOSWINKEL:
+
+[inaudible]
+
+KATRINA SATAKI:
+
+May I ask for a vote? Who is in favor of this draft decision?
+
+BART BOSWINKEL:
+
+All.
+
+KATRINA SATAKI:
+
+Thank you very much. We're moving to agenda item – yes,
+Peter? Peter has a...
+
+Page 13 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+PETER VERGOTE:
+
+EN
+
+Can I suggest that there's also a webpage created with the same
+information for easy reference? For instance, all sorts of reports
+about this meeting that go out. So it's not just those that are
+reading their e-mails or not reading their e-mails.
+
+KATRINA SATAKI:
+
+Thank you. Secretariat, please create a separate page for more
+information on this.
+Agenda item 6.2, selection committee for full council decision.
+This is something that we have discussed heavily during a
+couple of our calls and during our prep meeting on Monday. So
+as you know, that according to the new ICANN Bylaws and the
+charter of the Customer Standing Committee, the ccNSO Council
+needs to consult with the Registries Stakeholder Group before it
+appoints members to the CSC, and that must happen before
+22nd July this year.
+And together with the council, after 22nd July, we need to
+approve full slate of members and liaisons, so this constitutes
+the full slate of the CSC. And this appointment – well, approval –
+must take place before 12 August. So as we discussed, the
+deadlines are very tight, and to have it more efficient, we agreed
+to have a selection committee. Though it's called selection
+committee, the main task of this committee will be to consult
+
+Page 14 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+and liaise with the Registries Stakeholder Group and the GNSO
+Council. As you saw on the Doodle poll, we cannot ensure
+quorum on the calls, therefore I still propose that we authorize
+the selection committee to take final decisions on approving our
+members and approving a full slate.
+Here we see draft resolution and – yes.
+
+BART BOSWINKEL:
+
+Yes, for the record, Souleymane has put his name forward, so
+the selection committee is complete. So for reference, you
+should add the name of Souleymane – thank you, Souleymane –
+as [inaudible] of the AF member. So then you have a full –
+
+KATRINA SATAKI:
+
+Yes, so we have – we still have to and can discuss it, but you have
+a draft resolution in front of you. May I ask for a motion? Yes,
+Hiro, moved by Hiro, seconded by Becky, thank you. Any
+comments, anyone would like to say something? Young Eum.
+No, Ching.
+
+YOUNG EUM LEE:
+
+As Becky noted, this is a very significant moment. And judging by
+the names that have been presented to us, I'm relatively
+confident that they will be able to select the member that will be
+
+Page 15 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+the most qualified for the job. And I think this is a very important
+first step that we present to the community, the whole ICANN
+community or the whole Internet governance community. And
+so I think this is an important first step that really needs to be
+done in a manner which everyone can agree on.
+
+KATRINA SATAKI:
+
+Thank you very much, Young Eum. I just want to point out that
+we all – every council will have to select, so members will not be
+selected by this committee. Members will be selected by all the
+councilors, so please do not forget to send in your rankings
+when we ask for them. Ching and then Peter.
+
+CHING CHIAO:
+
+First of all, I'd just like to say glad to see actually – for Katrina,
+you're in this very important – you know, you actually have been
+working on this and liaising with other groups, so it's very good
+to see you here. But a minor procedural question is, for example,
+for us to vote for this, should maybe for the members listed on
+here as the selection committee is maybe better for us to
+abstain on this vote.
+
+Page 16 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+I think you can abstain, but you vote for the principle, you vote
+for the selection committee. So I do not think – you're definitely
+not required to abstain. Bart.
+
+BART BOSWINKEL:
+
+Maybe we can separate the two motions, or turn it into two
+motions, but I think nobody would see it as a conflict of interest
+based on the way it was done, and in consultation with all of the
+councilors.
+
+CHING CHIAO:
+
+Sure.
+
+BART BOSWINKEL:
+
+And it's more important, probably, that all councilors support
+this motion as it is.
+
+CHING CHIAO:
+
+That’s right.
+
+BART BOSWINKEL:
+
+That the selection committee is [inaudible]
+
+Page 17 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+CHING CHIAO:
+
+EN
+
+So the point is she seemed to like brought this up, and then once
+we have clarification on this, I'm happy to –
+
+KATRINA SATAKI:
+
+Thank you for bringing this up, but again, this case, we vote for
+the principle that we all approve the principle. And it's good that
+we have them here and we wanted to have them here while we
+meet face to face, but – yes, Peter?
+
+PETER VERGOTE:
+
+Thanks, Katrina, and good that earlier on that you stressed that
+it's actually not the selection committee that’s making the call,
+but it's the ccNSO Council. And I want this to be very crystal clear
+for the members, that it's not a sub-delegation towards a
+selection committee. And just to avoid all that doubt, initially,
+we were thinking and exploring how can we do this as a ccNSO
+Council as a whole. But the Doodle poll really pointed out a
+massive risk that we would not be quorated during those very
+important phone calls. So we cannot simply take the risk that
+this ends in a failure, hence the logical decision to have a
+selection committee. Thank you.
+
+Page 18 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+Thank you, Peter. One more comment. According to the
+guideline, the council is not obliged to have the selection
+committee, so next time when we have more time, we can
+choose to do it differently. But taking into account this very tight
+deadline and our commitment to do our duty by a certain date,
+which is really very close, that was a decision to have the
+selection committee and authorize it to – yes. Please, Ching.
+
+CHING CHIAO:
+
+Thank you, Katrina. I'd actually just like to follow in on actually
+echoing what Peter just mentioned. I brought this up also on the
+council mailing list, that, yes, the time is very tight, but it's the
+council who actually make the decisions. Also, we pointed out
+on the council list that it is not for the, quote/unquote,
+"selection committee" to go out, to search and to select. It is up
+to the members who actually do nominate. So with people here
+in the room, the members are here, really want to emphasize
+that – I mean, these things after the resolution is done, we really
+need to hear from the members. Thank you.
+
+KATRINA SATAKI:
+
+Members and non-members, ccTLDs, thank you. Anyone else?
+No? Oh, Young Eum.
+
+Page 19 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+YOUNG EUM LEE:
+
+EN
+
+I would also like to just make one more clarification, which is
+that when the council is making their choice for the ranking of
+the members or non-members that have presented their name
+forward, if they are one of them, that council member of course
+will not be able to participate in the ranking.
+
+KATRINA SATAKI:
+
+Absolutely, yes. Only those councilors who have not put their
+name forward will be eligible to vote, to rank these candidates.
+Seeing no more hands raised. Stephen, maybe you want to say
+something? No, Stephen doesn’t want to say anything. So may I
+ask for a vote? Who is in favor of this draft resolution? All, thank
+you very much. After we close the call for expression of interest,
+we will send the names to those – when I say, “we,” I mean the
+Secretariat, people who will receive all those applications will
+send to non-conflicting councilors. And you will be asked to read
+all those expressions of interest, evaluate skill set, rank the
+candidates, and send them back to the e-mail address that will
+be indicated in the request to do the ranking. So more
+information will follow. Please do the ranking by the date
+indicated in the e-mail when you receive applications. Bart?
+
+Page 20 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+BART BOSWINKEL:
+
+EN
+
+Maybe just before – say, over the next week or two weeks before
+you receive all the forms, I will send out an e-mail to lay out the
+process. It's the same process we've used before, thanks to
+Nigel, just to acknowledge everything. So that’s one internal
+procedure for the council, but I will send it out probably next
+week. End of next week, early. So before you receive all the
+names.
+
+KATRINA SATAKI:
+
+Thank you, and also I'd like to remind the CSC selection
+committee that you must be available for the work for
+consultation with the Registries Stakeholder Group and with the
+GNSO Council, so please do your duty. Thank you.
+With that, we move to agenda item number seven. It's PDP on
+the review mechanism and retirement framework. As you know,
+in order to launch a PDP at our meeting in Hyderabad, we want
+to launch a PDP. But we have to do all the preparatory work for
+that. We need issue report. We need to appoint issue manager.
+Actually, we did that on our last call. Yes, we did. We did appoint
+you. You should read the minutes. I congratulated you. So we
+have issue manager, even though he pretends he's not the one.
+And then we need also to approve this tentative timeline to
+receive issue report, because as you know, we need an issue
+
+Page 21 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+report out for public comments before our face-to-face meeting
+in India.
+Yes, sorry, I cannot pronounce the word. Yes. I can manage to
+say India.
+We have a resolution that I'm not going into much detail. We
+have seen this and we discussed that many times before. So we
+have a draft resolution on everything that we need to do
+according to the ICANN Bylaws in our preparation for country
+code policy development process. May I ask for a motion? Becky,
+and seconded by Stephen. So, please, any comments? Anyone
+would like to start a discussion? Becky, please.
+
+BECKY BURR:
+
+We discussed this at the members meeting the other day, but
+obviously, this is the next phase in the serious work over a very
+long time that the ccNSO has done on issues related to
+delegation, revocation, transfer of ccTLDs. And we've made
+great progress in moving forward on the Framework of
+Interpretation, but it's time now to kick off the PDP. We were
+hoping to – and I think did – get as much out of the Framework
+of Interpretation and existing policy as could be gotten in order
+to make the PDP about as narrow as possible, and this is where
+we are.
+
+Page 22 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+We do think it's time for an issues report here, and we have –
+we're doing this in a second – solicited volunteers from across
+the ccNSO to participate in an oversight committee for issues
+drafting. This will come back to the council and to the
+community in Hyderabad for further discussion. But this, as I
+said, is the next step in work that has been very important and
+ongoing for the ccNSO.
+
+KATRINA SATAKI:
+
+Thank you very much, Becky. Ching.
+
+CHING CHIAO:
+
+Thank you, Katrina. And so actually looking at the overall ICANN
+processes – for the record, I'm all for this getting to this PDP or
+actually to start to review what needs to be done in the
+delegation or the redelegation of the ccTLD. I'd also like to take
+this opportunity maybe to point out whether this will impact the
+ongoing IDN ccTLD Fast Track. Would this be somehow to be
+incorporated in the future? Have we – or let me put it this way.
+Does this working group of – sorry, this PDP Review Team will
+need to consider that from, or do we sort of separate these two
+issues?
+
+Page 23 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+KATRINA SATAKI:
+
+Bart would like to answer.
+
+BART BOSWINKEL:
+
+It's very simple. Effectively, whatever the outcome of this group
+also applies to IDN ccTLDs. The IDN PDP and the IDN Fast Track
+is only about the selection of the strings. The delegation,
+revocation, transfer rule apply to IDN ccTLDs, as well as ASCII
+ccTLDs. So the scope is broader than just the ASCII ccTLD. By
+definition, say – in both processes, so in the policy and in the fast
+track, it's very clearly stated that the rules around delegation,
+and in that case the redelegation, of ccTLDs apply to IDN ccTLDs.
+
+KATRINA SATAKI:
+
+I also would like to note that Demi, the Vice Chair responsible for
+policy development process, will oversee this committee and
+the preparatory work and the work after, when we already start
+our policy development process. So any other comments? Yes,
+Nigel?
+
+NIGEL ROBERTS:
+
+Yes, I'm not entirely sure what we're going to be deciding here
+today, but I'm looking at this list of one, two, and three in the
+papers. I certainly would have a preference for a single-process
+PDP, because the skillset is going to be – you need to marshal
+
+Page 24 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+the members, and the skillset of the members from the
+delegation/redelegation working group is almost exactly the
+same for both of these. It's kind of irrelevant whether you say
+that they're sequential or parallel, because clearly, there's one
+part of this which is almost an easy ride, so that'd be over fairly
+quickly. That’s the retirement side. So the choice between two
+and three is not really that big, but the choice between one and
+the rest is quite clear, in my book.
+
+KATRINA SATAKI:
+
+Thank you. Becky?
+
+BECKY BURR:
+
+Thank you. And I think we heard that in Marrakesh, that there
+was some desire to do this as a single but in parallel. We're not
+deciding that today. We're deciding on an issue report, and it
+will be an issue report that covers both topics. And I think that
+the decision that we will have to make in Hyderabad, whether
+it's one or two, in part depends on sort of priority. The
+community expressed some desire to prioritize the dispute
+resolution review mechanism over retirement. And whether it's
+one or two will make some difference in when the council
+actually can come back and vote on and the community can
+adopt the outcome of the PDP.
+
+Page 25 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+That said, I totally agree that the skillset is quite close, and
+there's going to be an important decision about what the ability,
+sort of what the volunteer capacity and the expertise available
+is, but that is a decision we will make in Hyderabad.
+
+KATRINA SATAKI:
+
+Any more comments, questions? I forgot, did I ask for a motion
+on this? I did, okay, thank you. Yes, Becky and Stephen, so I think
+we've discussed this already. This is a very long resolution here.
+Any comments on the actual text? So the idea is that now we
+appoint issue manager, now it's written in the resolution, so he
+will never say that he wasn’t appointed again. We have the
+ccNSO Council oversight committee that will oversee the
+process of this issue report, and we ask for an issue report. And
+we need it in good time before our meeting in India.
+May I ask for a vote? Who is in favor of this resolution? All, thank
+you.
+Agenda item number eight, outcome of this ccNSO Council
+survey. Again, let me remind you that when we started thinking
+about accountability of the ccNSO and accountability of the
+ccNSO Council, we decided that the easiest step, and probably
+the most correct first step, to make is to ask you, the
+community, what do you expect from us? What do you think of
+
+Page 26 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+the work that we're currently doing? And yesterday morning
+session, I presented a couple of slides from the survey.
+I don't know if you had time to look into details, some of these
+slides and responses that we gathered from the community. But
+anyway, I'd like to ask the councilors if you have any immediate
+thoughts on the next steps that must be taken by the ccNSO
+Council in order to meet the community's expectations and
+deliver better service and share information better, and
+probably get better feedback and more feedback from our
+community. So any – Young Eum?
+
+YOUNG EUM LEE:
+
+Yes, thank you. I think it was pointed out during your session
+that there was no distinction between the responses of the
+councilors and responses of the members. And maybe that’s
+something that, given that I think the 40-some responses, and
+given that I'm assuming that most of the 15 or 18 councilors did
+respond, which would make up a large portion of that, and so I
+was actually interested myself to see how the perceptions would
+be different. I'm wondering if we could kind of make a
+distinction between that. Thank you.
+
+Page 27 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+Thank you. I think at this moment, we cannot do that with the
+current survey, but we definitely will take that into account in
+the upcoming surveys. At the same time, I agree when Hiro
+noted that when he answered, he did not give a perspective of
+his own, but the registry, so this also should be taken into
+account.
+Personally, I'm more interested in those negative responses
+when the people say that probably sometimes we do not explain
+our decisions to the community. I'm sure that those were not
+councilors who responded. I'm sure that councilors improved
+the numbers. So I'm really more interested in those negative or
+close to negative responses, and probably we should look into
+those and try to dig deeper to the root of the problem and really
+think of some ways to improve the communication. Yes, Bart.
+
+BART BOSWINKEL:
+
+May I suggest that we use the next council meeting to look more
+into the details and see if we can come up with a little bit more
+of analysis? Because, say, the survey closed on Friday. We
+shared it as quickly as possible to use the Helsinki meeting. And
+now it's time to start reviewing and analyzing what needs to –
+the outcome, and then come up with some suggestions.
+
+Page 28 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+But I'd like to urge the councilors to think before this discussion
+takes place so that maybe we can already come up with some
+ideas. Yes, Becky.
+
+BECKY BURR:
+
+I apologize if I missed this, but are we going to continue to try to
+get ccTLDs to respond to it and get some more answers?
+
+KATRINA SATAKI:
+
+This was one of the discussions of our prep meeting, and Peter
+was the one who suggested that probably before we reopen the
+survey, we should think if we can get any more qualitative data
+out of reopening it. Maybe we should try some different
+approach, not try to understand – well, in this case, try to
+understand why people do not feel well informed about our
+activities and our decisions. So maybe at this point, we will not
+open it, but definitely should discuss our next steps. Bart?
+
+BART BOSWINKEL:
+
+Just to be clear, although you think it's a limited number, I think
+they were in the 40s who responded, including some councilors.
+If you compare it with previous surveys we had and the short
+time frame, it was a relative high number. So in that sense,
+whether it's representative, that’s another question, but the
+
+Page 29 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+number of responses in themselves was pretty high compared to
+other surveys we've done.
+
+KATRINA SATAKI:
+
+Not only we've done. Look at the GAC survey, they get less than
+15%. Debbie?
+
+DEBBIE MONAHAN:
+
+If I remember it correctly, it had an area where people could
+actually write some comments in. Were many comments
+received? And I think that’s what you're talking about, Bart, is
+the only thing that’s in the survey that we haven't seen that
+might help us with ideas.
+
+BART BOSWINKEL:
+
+At least Katrina presented them already yesterday, and if you
+look at the results of the survey, you'll see it as well. It's the
+questions 12 and 13, I believe. There were six responses, so I
+didn't count –
+
+DEBBIE MONAHAN:
+
+I didn't realize it had been summarized that much, meaning I
+didn't realize – I thought it'd been assumed that it'd been
+summarized, and there was more there.
+
+Page 30 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+KATRINA SATAKI:
+
+We don’t make assumptions like that.
+
+BART BOSWINKEL:
+
+What we left out was a comment of, "I have no comment."
+
+KATRINA SATAKI:
+
+Yes, thank you, so this is food for thought, something that you
+can think about and we can discuss it at our next council
+meeting.
+Agenda item number nine, it's a report from the working group
+on EPSRP.
+
+BART BOSWINKEL:
+
+The Extended Process Similarity Review Panel.
+
+KATRINA SATAKI:
+
+That’s what I wanted to say. So as you know, we have this EPSRP
+Working Group, and it was tasked to provide further on how to
+deal with certain aspects of the extended process confusing
+similarity review. And the working group has worked hard, so
+they have delivered the draft report, and this report now needs
+to go through the public comment period. Okay, we don’t have –
+
+Page 31 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+Giovanni is our Chair on this working group, but I'm sure that
+Bart is very well aware of everything that’s going on there. Do we
+need – we definitely don’t need any decision. Apparently we just
+need to inform the working group –
+
+BART BOSWINKEL:
+
+And he's away, so effectively, [inaudible] it was more the
+unclarity on Giovanni's side on what were the next steps. The
+next step is go for public comment and then see what happens.
+The working group will need to update or not update its draft
+report, and then submit it to council.
+
+KATRINA SATAKI:
+
+Officially, GAC and SSAC, they decided not to be officially on the
+group, but I hope that they will provide some report. Any
+indication that they're going to do that?
+
+BART BOSWINKEL:
+
+I have no indication, but we will alert them that they were asked
+and refer to the board resolution.
+
+Page 32 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+So I assume this is an action that we need to – no? No action
+point, okay. So please inform the group they need to start this
+public comments period.
+Thank you. Agenda item number ten, it's a council update. First
+is Chair update, I have a feeling that I'm talking all the time, so
+probably I will skip this because most of my time was eaten by
+the Customer Standing Committee and the discussions with the
+GNSO and Registries Stakeholder Group, another acronym I'm
+not able to pronounce.
+Vice Chairs, anything from you?
+
+UNIDENTIFIED MALE:
+
+I don’t have anything important to say. I was a little bit far from
+the activities of the last month, but I'm hoping to be involved
+more profoundly basically in this review committee. And so then
+I don’t have any important thing to report.
+
+KATRINA SATAKI:
+
+Thank you. Byron?
+
+BYRON HOLLAND:
+
+A little bit of a parallel activity to the ccNSO, but I was at the
+OECD Digital Economy Ministerial Meeting last week in Cancun.
+
+Page 33 of 44
+
+EN
+
+HELSINKI – ccNSO Council Meeting
+
+And I raise it only because, of course, that was primarily
+policymakers there, so they do have an impact on us from time
+to time. I would like to report, there were many discussions
+there, but there certainly seemed to be reinforcement and
+strengthening
+
+of
+
+the
+
+notion
+
+of
+
+an
+
+open,
+
+borderless,
+
+permissionless Internet. So it's good to actually hear many
+policymakers say those words out loud. However, the strain of
+security and some of the ramifications of what security actually
+means on open, permissionless, and borderless was still fairly
+strong. And I would encourage all of our colleagues here in the
+ccNSO community to be involved with their local governments,
+their national governments, and continue to make our presence
+felt as independent experts in the space of what keeping an
+open, borderless, permissionless Internet actually means,
+because while we heard those words a lot and they were
+encouraging, the substring of security and the closing of the
+Internet was also present at the OECD Ministerial Meeting. So
+again, encourage all our colleagues here to get involved with
+your national governments and become a trusted advisor to
+them.
+
+KATRINA SATAKI:
+
+Thank you, Byron. I think that’s very good advice to every ccTLD.
+Anything from the councilors? Becky?
+
+Page 34 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+BECKY BURR:
+
+EN
+
+I know it's been reported in the council, but just for the minutes
+and the community, I wanted to note that I have been elected by
+the Contracted Party Stakeholder Group – that is the registries
+and registrars in the GNSO – to replace Bruce Tonkin when he
+retires from the board at the end of his three term-limited terms
+in November. I am greatly honored and I think I'll have trouble
+filling Bruce's shoes, but I wanted to make sure everyone is
+aware that I will be resigning from the ccNSO Council after our
+meeting in Hyderabad and consulting with the North American
+members of the ccNSO with respect to a replacement and then,
+at the end of the Hyderabad meeting, taking place on the ICANN
+board, where you all can count on the fact that my heart will still
+be with the CCs.
+
+KATRINA SATAKI:
+
+Thank you very much, Becky, for this. And I know that according
+to the Bylaws, the ccNSO appoints only two board members, but
+it feels like now we have appointed three. So all the best in this
+new capacity, and I'm sure that you can fill in any shoes. So,
+Bart, you wanted to say something.
+
+Page 35 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+BART BOSWINKEL:
+
+EN
+
+Yes, on behalf of Abibu. He just sent an e-mail saying he
+participated in the AIS 2016 held in Gaborone, Botswana, as a
+panelist, and shared the ccNSO PDP process as part of sharing of
+ICANN PDP to the African community during that event.
+
+KATRINA SATAKI:
+
+Thank you very much. If there are not more updates, agenda
+item 10.4. Any regional organization would like to add
+something to what they already shared with us yesterday? No?
+No updates from regional organizations. Any updates from staff?
+Okay, Kim? No updates. Thank you.
+Agenda item number 11, working groups provided their updates
+during our meeting days, and liaison updates, you will receive
+written updates shortly after the meeting. And now, about the
+next meetings. We propose to have two meetings currently. It's
+1st September – yes.
+
+BART BOSWINKEL:
+
+May I add, based that the direction of travel around the CSC
+selection process, up to yesterday evening, I still had the
+tentative 28th of July included. I deleted that one, and I didn't
+put in the third one. So it will come up in the official minutes for
+your own diaries.
+
+Page 36 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+Okay, thank you, and we keep alternating 11:00 UTC with 19:00
+UTC, which of course is – 19:00 UTC I know is tough on some
+members, but 11:00 UTC is tough on some other members. So I
+understand those who are not able to join us in the middle of the
+night, but the proposal is still continue with these alternate
+times. Any councilor would like to say something about next
+meetings? Young Eum.
+
+YOUNG EUM LEE:
+
+I agree with the concept of alternating, but I'm wondering if we
+can maybe move the time of the 19:00 UTC slightly either
+forward or backwards, because it's – for a lot of us, it's either
+3:00 or 4:00 or 5:00 at night, which is much different from like
+12:00 or even 6:00 in the morning is okay. But 3:00, 4:00, 5:00 is
+very difficult.
+
+KATRINA SATAKI:
+
+I understand you, Young Eum, but we tried to compile this Excel
+sheet and see what's going on, and unfortunately that was – if
+you can come up with some other time, probably you should
+just go look at this Excel sheet. And if you can find any other
+number that would work for as many councilors as possible, I'm
+sure we can discuss it and see how it works. Thank you. Debbie.
+
+Page 37 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+DEBBIE MONAHAN:
+
+EN
+
+I'd definitely benefit from this. I thought it was two meetings at
+11:00 UTC and one at 19:00, so is it that the July one was 11:00
+as well? I thought we were doing two up there and then one –
+
+KATRINA SATAKI:
+
+Yes, the idea was – yes, those critical meetings we put at 11,
+because then it's 7:00 UTC that is really hard for our colleagues
+in Asia. So anything you'd like to say about the upcoming
+meetings? They look fine at this moment.
+Agenda item number 14, any other business. Anything anyone
+would like to say? Stephen?
+
+STEPHEN DEERHAKE:
+
+Quick update on our ALAC liaison, Ron Sherwood. He's asked me
+to convey his greetings to the community. He expresses his
+regret for not being here. He is out of hospital but he faces a long
+recovery, and he wishes us a productive meeting.
+
+KATRINA SATAKI:
+
+Thank you, and we wish him speedy recovery. Some things I
+wanted to say about this new format, the first Meeting B that we
+tried. I've heard mixed feedback. Some people are happy. Some
+
+Page 38 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+people are not so happy. Some people think that something
+must be done differently. What is your opinion on this policy
+forum? What could we recommend to our Meeting Program
+Working Group? Yes?
+
+UNIDENTIFIED MALE:
+
+Well, first a negative point. In terms of time efficiency, I don’t
+think there is any time efficiency, so I don’t think that the short
+format of meetings will make sure that we spend less time
+during an ICANN week.
+Positive feedback, I think that the people quite liked the crosscommunity sessions, at least I have been picking up some
+positive feedback on our geoname session of yesterday. So that
+might be something that we take with us. And even somebody
+suggested that we should not have a typical type B Meeting as a
+necessity for having cross-community sessions, and that was I
+think very relevant feedback. Thanks.
+
+KATRINA SATAKI:
+
+Thank you. Any other feedback? Well, we did not know how this
+Meeting B format would work for our community. And I know
+that according to the strategy, they expect less people to come
+to a policy forum than to either A or C Meeting. So we did not
+want those ccNSO non-members to come to the meeting to feel
+
+Page 39 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+they're not welcome to our sessions. That’s why we tried to still
+run a usual business and discuss as many issues as possible. But,
+yes, we can gather feedback from the community and we will
+ask them to fill in these evaluation forms. So when we gather
+more feedback, probably we can come up with different ideas
+and different ways to run the meetings. Ching.
+
+CHING CHIAO:
+
+I can only speak for myself. Obviously, a shorter meeting, I think
+this time works for me, and coming to Europe twice, in May and
+June for the GDD, travel-wise, I think shorter meetings like the
+GDD, which some of you were there, and for this one, I think in
+terms of the scheduling, in terms of the efficiency, it definitely
+worked for me. But I only can imagine that the length of the
+meeting to be doubled next time, and given my love to India, I
+don’t mind staying even two, three weeks. My wife and myself,
+we stayed there very, very long time during the winter, during
+the summer. But let's think if an important decision would be
+made on day six or seven, what would be the outcome of that?
+So that could be something that we can think of, maybe in our
+next council call, in terms of this topic.
+
+KATRINA SATAKI:
+
+Page 40 of 44
+
+Thank you, Ching. Margarita.
+
+HELSINKI – ccNSO Council Meeting
+
+MARGARITA VALDES:
+
+EN
+
+Yes. A good feedback from me, from my perspective, is that this
+meeting was less fancy but most focused. That’s it.
+
+KATRINA SATAKI:
+
+Thank you. And as Ching just pointed out, next is Meeting C. It's
+going to be very long, and I've received some feedback already –
+not feedback, but wishes from our community. It's not clear
+when we start and what's going on, on which day. The
+community wishes to have – at least some members of the
+community want to have our meetings on Tuesday and
+Wednesday, as we are used to that, which means, again,
+traditional ccNSO cocktail on Tuesday evening. So again,
+something that we are used to. I don't know if that’s going to
+work, but, yes, this is something we need to find out, something
+that our Meeting Program Working Group start working on.
+Byron first, then Alejandra.
+
+BYRON HOLLAND:
+
+I just wanted to echo Ching's comments in that a nine-day
+meeting, not everybody is going to be able to attend all nine
+days. So I would suggest that we try to do a similar kind of
+meeting that we're used to, in terms of our two dates back to
+back. Whether they're Tuesday/Wednesday or not, at least make
+sure that they're in a somewhat regular format and that they're
+
+Page 41 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+not spread out over time. I would just make that
+recommendation, because I'm sure there are many folks who
+will not be able to spend the entire time there.
+
+KATRINA SATAKI:
+
+Yes, but the problem is that people already need to start
+booking tickets.
+
+BYRON HOLLAND:
+
+Agreed, I'm just making the suggestion and recommendation,
+and the sooner we can understand that, the better, for exactly
+the reasons you've articulated.
+
+KATRINA SATAKI:
+
+Yes, the sooner the better, I totally agree with that. Yes. So, any
+other business? Oh, sorry, Alejandra.
+
+ALEJANDRA REYNOSO:
+
+No problem. Just a little bit of an announcement. There will be
+the last cross-community session in Hall A will be regarding the
+Meeting B wrap-up, and planning ahead for the Meeting C. So if
+you would like to attend that, and maybe see what's going on.
+
+Page 42 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+KATRINA SATAKI:
+
+EN
+
+Maybe we'll have more clarity after that. I wouldn’t count on
+that, but... Any other business?
+If no, then agenda item number 15, and this one, sorry, I'm going
+to read out. The ccNSO Council expresses a warm thanks to
+Juhani Juselius and his team at FICORA – this is a country-code
+top level domain, .fi – the local host for their hospitality and
+assistance during this wonderful event in Helsinki, and in
+particular for organizing as sole sponsor the very successful
+ccNSO cocktail. Unfortunately, I do not see anyone from .fi here,
+but we will deliver our thanks to them. And please, if you see any
+of them, hug them and thank them for their efforts.
+The ccNSO Council wholeheartedly congratulates Keith
+Davidson that he received the ICANN Ethos Award. The ccNSO
+Council and ccTLD community was fortunate to benefit from
+Keith's leadership, wisdom, and humor in his role as ccNSO
+Council member, Vice Chair, Chair of the Delegation
+Redelegation Working Group, and Chair of the Framework of
+Interpretation Working Group. Keith, congratulations, and thank
+you very much. And I ask Debbie to hug Keith for all of us,
+because unfortunately he's not here at the moment, and we
+cannot do that ourselves.
+With that, I would like to close our council meeting. Thank you
+all for participating, and looking forward to very intense work
+
+Page 43 of 44
+
+HELSINKI – ccNSO Council Meeting
+
+EN
+
+during summer, when we need to appoint all the members. So
+thank you very much, and have a safe trip back home. Enjoy the
+last moments of the ICANN meeting, and have fun. Thank you.
+
+[END OF TRANSCRIPTION]
+
+Page 44 of 44
+
+

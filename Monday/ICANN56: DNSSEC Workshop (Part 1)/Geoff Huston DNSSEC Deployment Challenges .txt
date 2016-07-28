@@ -1,0 +1,243 @@
+DNSSEC Deployment
+Challenges
+Geoff	Huston
+APNIC	
+June	2016
+
+Turning Validation on
+Bind	Config
+
+Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Many	folk	rely	on	lies	in	the	DNS
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+fiasco	that	is	CA	certificates	today!
+
+But maybe there is a point
+here
+• Is	having	resolvers	validate	what	they	provide	
+back	to	the	query	agent	enough	to	improve	
+the	security	of	the	DNS?
+– If	you	can	intrude	in	an	open	conversation	
+between	the	client	and	their	resolver	then	MITM	
+attacks	in	the	DNS	can	still	take	place
+
+How can we improve this
+situation?
+Some	potential	directions
+– Push	validation	back	to	the	client	application
+• Such	as	GetDNS
+
+– Secure	the	conversation	between	the	application	
+and	a	trusted	resolver
+• Such	as	https://dns.google.com
+
+– (re)introduce	DANE	to	browsers	using	DNSSEC	
+credential	stapling
+• https://www.imperialviolet.org/2011/06/16/dnssecchr
+ome.html
+
+Thanks!
+
+DNSSEC Reports:
+
+http://stats.labs.apnic.net/dnssec
+
+Additional Slides: Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Many	folk	rely	on	lies	in	the	DNS
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+fiasco	that	is	CA	certificates	today!
+
+Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+One line of config in a recursive resolver!
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Many	folk	rely	on	lies	in	the	DNS
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+fiasco	that	is	CA	certificates	today!
+
+Why Not?
+•
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+As with all things in the DNS, this is not necessarily true
+Too	few	names	are	signed	to	make	a	difference
+Cached answers will take no longer to resolve from a
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+validating resolver as compared to a non-validating resolver
+Many	folk	rely	on	lies	in	the	DNS
+Retrieving DNSSEC credentials take queries, and queries
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+take time
+No	browser	wants	to	commit	to	DANE	to	take	a	
+Currently, DNSSEC validation queries are serialized in
+most resolvers.
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+This time could be reduced if these queries were
+fiasco	that	is	CA	certificates	today!
+parallelised
+
+Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Yes, that’s what it’s meant to do!
+Many	folk	rely	on	lies	in	the	DNS
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+fiasco	that	is	CA	certificates	today!
+
+Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Many	folk	rely	on	lies	in	the	DNS
+But DNSSEC has incremental outcomes:
+
+You can try and improve the integrity of
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+YOUR name by signing it with DNSSEC
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+fiasco	that	is	CA	certificates	today!
+
+Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Many	folk	rely	on	lies	in	the	DNS
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+That assumes structural DNS censorship is
+not in and of itself an attack on the
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+integrity of the DNS
+fiasco	that	is	CA	certificates	today!
+
+Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Many	folk	rely	on	lies	in	the	DNS
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+True – but what do users want from the DNS!
+fiasco	that	is	CA	certificates	today!
+
+Why Not?
+•
+•
+•
+•
+•
+•
+
+It’s	too	hard
+It	will	take	more	time	to	resolve	a	name
+It	will	block	out	names	with	invalid	DNSSEC	signatures
+Too	few	names	are	signed	to	make	a	difference
+Attacks	on	the	DNS	are	too	rare	to	raise	concerns
+Many	folk	rely	on	lies	in	the	DNS
+DNS64,	national	content	blocking	measures,	forced	proxy	redirection
+
+• No	browser	wants	to	commit	to	DANE	to	take	a	
+positive	step	in	cleaning	up	the	putrid	rotting	security	
+fiasco	that	is	CA	certificates	today!
+
+Is ever so slightly faster really better than vulnerability
+to third party attack via compromised CAs?
+
+

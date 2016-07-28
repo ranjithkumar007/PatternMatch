@@ -1,0 +1,223 @@
+TLD-OPS	Standing	Committee	
+ccNSO	Update	
+
+June	28,	2016	
+ICANN56,	Helsinki	
+	
+	
+Cristian	Hesselman,	.nl	(chair)	
+
+TLD-OPS		
+•  Technical	incident	response	community	for	and	by	ccTLDs	
+•  Brings	together	folks	who	are	responsible	for	the	overall	security	
+and	stability	of	their	ccTLD	
+•  Goal:	facilitate	further	increased	level	of	security	and	stability	of	
+ccTLDs’	services	and	of	the	Internet	as	a	whole	
+•  Approach:	increase	(i)	reachability	of	ccTLD	incident	response	
+contacts	and	(ii)	level	of	shared	knowledge	on	security	alerts	
+•  Open	to	every	ccTLD,	irrespective	of	ccNSO	membership	
+•  Oversight	by	TLD-OPS	Standing	Committee	
+
+–  ccTLD	reps	and	Liaisons	(SSAC,	IANA,	ICANN’s	security	team)	
+
+TLD-OPS	Standing	Committee	
+
+TLD-OPS	Mailing	List		
+•  Contact	repository	
+– 
+– 
+– 
+– 
+– 
+
+Regular	automated	emails	with	incident	response	contact	info	of	ccTLDs	
+Names,	phone	numbers,	email	addresses	(no	role-based	accounts)	
+Info	of	all	subscribed	ccTLDs	in	one	email	
+Easily	and	quickly	look	up	contact	through	(local)	inbox	
+Low	entrance	barrier	using	IANA	admin	contact	as	“trust	anchor”	
+
+•  Hub	for	exchanging	security	alerts	
+– 
+– 
+– 
+– 
+
+Attacks	(DDoS,		reﬂection	attacks,	phishing,	etc.)	
+Software	vulnerabilities,	malware	
+Flag	alerts	(red,	amber,	green,	white)	to	signal	disclosure	level	
+Trusted	community	of	peers	
+
+•  Check	our	leaﬂet	for	details!	
+
+–  Arabic,	Chinese,	English,	French,	Russian,	Spanish,	and	Russian	
+–  http://ccnso.icann.org/resources/tld-ops-secure-communication.htm	
+
+TLD-OPS	Standing	Committee	
+
+TLD-OPS	Membership	Stats	
+All
+Total
+
+Members %
+178
+61%
+
+Missing
+112
+
+%
+39%
+
+Total
+290
+
+ASCII
+Total
+AF
+AP
+EU
+LAC
+NA
+
+Members
+149
+23
+43
+64
+16
+3
+
+%
+61%
+46%
+52%
+98%
+38%
+60%
+
+Missing
+95
+27
+39
+1
+26
+2
+
+%
+39%
+54%
+48%
+2%
+62%
+40%
+
+Total
+244
+50
+82
+65
+42
+5
+
+IDN
+Total
+
+Members %
+29
+63%
+
+Missing
+17
+
+%
+37%
+
+Total
+46
+
+Last	update:	Jun	15,	2016	
+TLD-OPS	Standing	Committee	
+
+Progress	Since	ICANN55	
+•  Three	security	alerts	
+
+–  Spear-phishing	attacks	against	ccTLD	operators	
+–  Large	malvertising	campaign	targeting	popular	.nl	websites	
+–  A	ransomware	that	used	domain	names	of	various	ccTLDs	
+
+•  Membership	
+
+–  New:	San	Marino	(.sm,	EU),	Vanuatu	(.vu,	AP),	Faroe	Islands	(.fo,	EU),	and	
+Morocco	(.ma/.‫املغرب‬,	AF)	
+–  Updated	contact	info	of	5	members	
+
+•  Outreach	
+– 
+– 
+– 
+– 
+
+Translated	leaﬂet	(Arabic,	Chinese,	English,	French,	Russian,	Spanish)	
+Met	with	APTLD	General	Manager	at	CENTR	Jamboree	
+Attended	African	Internet	Summit	(May-June)	
+Shared	translated	leaﬂets	with	RO	Managers	and	ICANN	Regional	VPs	
+
+TLD-OPS	Standing	Committee	
+
+Targets	ICANN56	
+•  Increase	the	number	of	ASCII	ccTLDs	subscribed	to	the	list	to	185	
+by	targeting	speciﬁc	ccTLDs	with	the	help	of	ICANN’s	Regional	VPs	
+•  Get	the	list	to	be	used	more	often	through	our	collaboration	with	
+ICANN’s	security	team	(package	and	share	security	alerts)	
+•  Develop	a	simple	procedure	for	members	to	update	their	contact	
+information	(320	people	on	the	list)	
+•  Find	a	ccTLD	representative	from	the	Asia-Paciﬁc	region	by	
+approaching	APTLD	
+
+TLD-OPS	Standing	Committee	
+
+Objectives	ICANN57	
+•  Increase	the	number	of	ASCII	ccTLDs	members	by	5%	to	187	
+through	various	outreach	activities	
+•  Get	the	list	to	be	used	more	often	through	our	collaboration	with	
+ICANN’s	security	team	(package	and	share	security	alerts)	
+•  Draft	TLD-OPS	terms	of	use	
+
+TLD-OPS	Standing	Committee	
+
+Q&A	
+TLD-OPS	Members	
+TLD-OPS	Home	
+Frederico	Neves,	.br	
+http://ccnso.icann.org/resources/tldJacques	Latour,	.ca	
+ops-secure-communication.htm	
+Erwin	Lansing,	.dk	
+	
+Ali	Hadji	Mmadi,	.km	
+	
+Cristian	Hesselman,	.nl	(chair)	
+	
+Jay	Daley,	.nz	
+	
+Abibu	Ntahigiye,	.tz	
+	
+Warren	Kumari	(Liaison	to	SSAC)	
+	
+John	Crain	(Liaison	to	ICANN’s	security	team)	
+	
+Kim	Davies	(Liaison	to	IANA)	
+	
+	
+	
+ICANN	Staﬀ	
+	
+Cristian	Hesselman	
+Kim	Carlson	
+
++31	6	25	07	87	33		
+cristian.hesselman@sidn.nl	
+@hesselma	
+
+TLD-OPS	Standing	Committee	
+
+

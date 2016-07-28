@@ -1,0 +1,1000 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 1
+
+Transcription ICANN Helsinki
+GNSO Cross-Constituency Meeting between the IPC RySG
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+Inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Greg Shatan:
+
+Welcome to this meeting of - Meeting B or, as we're supposed to call it, the
+Policy Forum, is a new meeting. So we're trying new things. So the
+Intellectual Property Constituency decided to try having bilateral meetings
+between IPC and the Registry Stakeholders.
+
+I'm Greg Shatan. I'm the chair or president -- I don't know why we call it a
+president, but we do -- of the Intellectual Property Constituency. To my right
+are our co-hosts or co-guests.
+
+Paul Diaz:
+
+Hi, everyone. I'm Paul Diaz, Chair of the Registry Stakeholder Group. Thank
+you, Greg. Thank you, everybody, for attending. We're recording this as well,
+of course. As we get into it, usual rules. Everybody please remember, state
+your name. We know a lot of each other. Many of us know one another. But
+let's state your name for the record.
+
+And sorry there's a little confusion about what was on our agenda today.
+Greg and I had previously discussed there was interest in talking about rights
+protection mechanisms, future rounds. That was the key.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 2
+
+Coming into the weekend or over the weekend, letters and questions about
+requirements around PICs was a key theme. So we thought we would add
+this to the agenda, actually start today, because many of you didn't have the
+advantage to be in the session yesterday that Bruce Tonkin led with
+community leaders.
+
+Importantly, that session was recorded and will be transcribed. So, you know,
+there's an important issue for many of us. You'll all have the opportunity to
+review the record, and staff is working to get that posted quickly. It might
+even be up before we leave Helsinki. Do you want to set the stage what the
+discussions were yesterday?
+
+Greg Shatan:
+
+Sure. Just, you know, briefly to set the stage - or actually I'm going to ask
+Vice Chair Steve Metalitz of the IPC, who sent the email, since he wrote the
+email that summarized yesterday's meeting, I assume his recall of it is
+superior even to my own. That's an unfair assumption. But in any case, I'll let
+Steve kind of, you know, brief us, you know, on kind of what went on overall.
+
+Steve Metalitz:
+
+Thank you, Greg. Steve Metalitz. Let me just back up to say that as Paul
+indicated, the meeting that occurred was not a meeting we called. It was
+called by Bruce Tonkin - or we were informed of it by Bruce Tonkin with about
+24 hours' notice. So we didn't have any input to the agenda or whatever.
+
+One thing that led up to the meeting, I think, was that the IPC had raised a
+concern about some statements from the ICANN Board chair that seemed to
+say that some of these provisions in the Public Interest Commitment that's up
+on the screen were outside of ICANN's remit. And the implication seemed
+clear to us that ICANN might be backing away from any compliance activities
+with regard to this obligation or obligations in that area.
+
+So one thing that was - and we could go into detail if you wish about what the
+statements were. It's in the correspondence that's on the ICANN page. One
+thing that did come out of the meeting was that there would be a written
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 3
+
+response from the ICANN Board to our concern, and that it would make it
+clear that ICANN is - this is in the agreement, and ICANN is enforcing all
+aspects of the agreement, including the Public Interest Commitments.
+
+I think that's important for a number of reasons. But again, let's remember.
+This is an obligation that applies only to the new gTLDs. And it's still, I think,
+fair to say early days on the new gTLDs about what kinds of problems or
+abuses may arise there, and what will be the most effective ways of dealing
+with them.
+
+But if we can establish more clearly and unequivocally that this is part of the
+obligations that will apply to new gTLD registries, then we can move on from
+there to spell out exactly what's involved with this, and how it ought to be what compliance activities ought to take place.
+
+But we thought it was important to get that threshold question, if we could,
+clarified. And I'm hoping -- based again on what was said at the meeting -that there will be a written clarification that will be helpful.
+
+So I don't know that, you know, we want to focus solely on this during our
+limited time together. But that is kind of a little bit of the context in which this
+question arose. Thank you.
+
+Paul Diaz:
+
+Thank you, Steve. That's a fair question for everybody. I mean you may have
+heard some buzz about it, or you may be comfortable waiting for written
+response to ICANN, which they promised is forthcoming. Do people want to
+spend time on this today? Now? Or do we prefer to move to broader issues
+about RPMs and future rounds? What's the preference?
+
+Man:
+
+(Unintelligible)
+
+Paul Diaz:
+
+Okay. I mean happy to move on. Just wanted to give everyone the
+opportunity in case they hadn't heard yesterday.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 4
+
+Jon Nevett:
+
+Well I think we should talk about it.
+
+Man:
+
+Yeah.
+
+Paul Diaz:
+
+Oh, that's what you meant, talk about it. Sorry. Okay.
+
+Jon Nevett:
+
+This is Jon Nevett. I think we should talk about it actually, because it's an
+issue. There's an issue of a level of trust between our groups, and there are
+issues that permeate other issues based on this. I think we should have the
+discussion.
+
+We have letters here from various members of the IPC and the IPC itself in
+April that, in my opinion, attack new TLD registries for not following their
+PICs, and attacking ICANN for not enforcing them.
+
+And I think that's a problem, and we should talk about it because, you know,
+there's the PIC right up there on the wall. It doesn't say what I think some
+members of the IPC say it says. Maybe there should be advocacy on your
+behalf of what it should say, or what you want it to say.
+
+But to say that we're in blatant violation of that PIC, and that ICANN's not
+enforcing that PIC, is problematic. And it's unfair. And, you know, we're
+getting caught in the middle of (Hill) letters back and forth. And, you know, if
+you see the letter that came out today, again it's the same thing. New TLD
+registries are in blatant violation of their PIC specs, and ICANN's not doing
+anything about it. That's not the case. And I think it's a problem. Thank you.
+
+Paul Diaz:
+
+Thanks, Jon. It might help. Can we have somebody on the IPC side just kind
+of summarize what's in that letter, the letters that we're referring to now?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 5
+
+Steve Metalitz:
+
+Well the letter from the IPC is the one that I referred to, which raised this
+question of whether ICANN was going to enforce the PICs. It did not - correct
+me if I'm wrong, Jon, but it did not allege widespread violations of this.
+
+It really got to the question of whether this was something that - we said the
+PICs are important, and we were concerned about what the Board had said
+about it and so forth. And we talked about how contract compliance in
+general was quite important. That's why I think that was the impetus for the or one of the impetuses, if that's the plural, for the meeting yesterday.
+
+You're probably referring to other letters that were sent on behalf of some
+IPC members. But I don't know if that was what you were referring to in terms
+of getting caught in the middle, or whatever your statement was about what
+we had said about registries.
+
+Let me just say from the perspective of my clients and the organizations that I
+represent in the Coalition for Online Accountability, that we think there's been
+a good level of cooperation in general by new gTLD registries -- and yours
+prominently among them, Donuts prominently among them. We're trying to
+work together to deal with some of the types of abuses.
+
+Obviously we're not covering the whole waterfront here, but on the kinds that
+we're most focused on, which was clear, pervasive copyright infringement, I
+think your company has taken some important steps forward, and other
+companies have as well, and there are other examples less well-publicized in
+which there has been cooperation. So if the impression is that we're saying
+something different, I do want to correct that.
+
+Now that said, there are also some registries that we feel are not cooperating.
+And there have been complaints to ICANN Compliance. And once it's clearly
+established that ICANN has a compliance obligation to enforce this provision,
+then I think it becomes much - you know, then we need to talk about what
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 6
+
+exactly it requires; how it lines up; how it came to be; how it lines up with the
+GAC advice, for example, that generated it.
+
+But I don't want to give - if you think we've given the impression that there is
+widespread non-compliance with this among registries, I don't think that
+we've said that. There are some instances of lack of cooperation, lack of
+response, that we think are quite concerning. But they're also are certainly
+examples to the contrary. I hope that that helps.
+
+Paul Diaz:
+
+Okay, I've got a queue building. Everybody in the room, you know, raise
+hand, come to the mics. Paul McGrady, you were first in the queue.
+
+Paul McGrady:
+
+Thanks. Paul McGrady for the record. I think Steve's already done that, but
+just to say it more bluntly, there should be, in the minds of people in this
+room, a distinction between what the IPC says in its letters, versus what
+members who have - by organizations that happen to be members of the IPC
+say in their private letters.
+
+There's no way for the IPC to govern what's in a private letter from an
+organization which happens to be a member. And so I hope that we are able
+to keep that distinction in mind while we talk through the issues. Thank you.
+
+Paul Diaz:
+
+Okay, thank you, Paul. Greg?
+
+Greg Shatan:
+
+Hi, this is Greg Shatan again. I kind of - you know, Paul said a lot of what I
+wanted to say. But I think that - you know, first I think my theme coming into
+this meeting was fruitful cooperation. And that's where I'd like us to go.
+Obviously there needs to be some airing of grievances as well, just as if this
+were - I can't remember the name of the holiday on Seinfeld, and apologies
+for the culturally specific reference and not remembering it. So apologies
+twice.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 7
+
+But in any case, I think it is important to point out that the letter that the IPC
+sent, which was back in April 11, so it's coming on its three-month birthday
+without a reply from IPC - from ICANN, was specifically, you know, a letter,
+you know, concerning Crocker's statements that seemed to, you know, take
+arguably all of the concerns of IPC's members out of ICANN's remit entirely.
+
+And, you know, I don't think there are any statements in there that were, you
+know, attacking. But in any case, rather than, you know, retread what - you
+know, perceived differences, I think it's better to try to work toward common
+understanding.
+
+And if, you know, one of those common understandings, you know, may be
+or that we can work toward is the view or views of what Spec 11 and - you
+know, or Section 3A of Spec 11 constitutes in terms of obligations.
+
+And when we refer to compliance, I tend to think first of small "c" compliance,
+not the Compliance Department of ICANN, which is really kind of - at least
+implicitly is a non-compliance department -- or it should be. Whether it
+actually acts as such is a different discussion.
+
+Rather, compliance should be, you know, willing compliance by a contract, by
+a party to a contract, without, you know, the other party having to stand up
+and say, you know, we think you're not complying.
+
+So as somebody who's primarily a transactional lawyer during the day, I
+have, you know, most of my clients are, you know, in a variety of contracts,
+many of which I've negotiated. And as long as they're complying with the
+contracts, neither party is questioning the other party's compliance. You
+know, obviously we're not a party to the contract that each registry is party to.
+ICANN is.
+
+But nonetheless, emphasis on things like, you know, the Compliance
+Department and enforcement issues, to my mind, gets things off somewhat
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 8
+
+on the wrong foot as well, since if there is an understanding of what
+constitutes, you know, being in compliance with the agreement, worrying
+about it - you know, the less you need to worry about enforcement, at least
+for those who are, you know, actually, you know, seeking to comply in good
+faith with the agreement.
+
+So the more we can think about, you know, having a common understanding
+on that, among those who are, you know, interested in compliance -- and
+that, you know, should be the vast majority of registries, you know -- the more
+we can kind of move off into fruitful cooperation as opposed to the ritual airing
+of grievances.
+
+Paul Diaz:
+
+Okay, thanks, Greg. Got a queue going. I had Liz, Lori, Jay and Jordyn. Liz,
+go ahead.
+
+Liz Finberg:
+
+Okay. Thanks. Liz Finberg, PIR. As most of you know, we operate both a
+legacy and some new TLDs.
+
+And in the interest of common understanding, I will tell you that when I read
+Section 3A of Spec 11, and I do see the language that says we have to have
+a provision in our RRA that requires registrars to effectively provide notice to
+their registrants that they can't engage in technical abuse, and then also I do
+see piracy, trademark, copyright infringement, et cetera, and then the key
+phrase for me is, and providing consistent with applicable law and any related
+procedures.
+
+Procedures related to applicable law clearly speaks to the notion of due
+process, clearly speaks, in my view, to a distinction between our remit as
+registry operators to mitigate - to, in effect, police and mitigate technical
+abuse of the DNS under the security stability obligations of every registry
+operator on the one hand, and content-related infringement on the other.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 9
+
+No, ICANN cannot, should not, and the contract cannot and should not imbue
+registry operators with the authority to substitute themselves for a court of
+competent jurisdiction, and make calls as to what is and what isn't
+infringement. That is incumbent upon plaintiffs, you know, rights holders, and
+courts. And so that's - in the interest of common understanding, that's where
+we're coming from.
+
+Now that said, the next question is, well what does that mean? To me it
+means when you give me a court order for the PIR, it would be a US court
+order, or a foreign court order that's been domesticated in the US court, we
+have an obligation to comply swiftly and completely with that court order, and
+we do.
+
+So again, in the interest of common understanding, that's at least one registry
+operator's viewpoint. Thanks.
+
+Paul Diaz:
+
+Okay, thanks, Liz. Lori?
+
+Lori Schulman:
+
+Lori Schulman, for the record. I'm an IPC officer, but I'm also the senior
+director for Internet policy for the International Trademark Association. And I
+think that's important to say before I go into what I'm going to talk about.
+
+One of the letters to which you may be referring is a letter that INTA wrote to
+Allen Grogan a year ago, highlighting what we considered to be registry bad
+practices in terms of a whole host of behaviors -- name-spinning, holding off
+names in the sunrise period, charging premium prices.
+
+I mean there was a long list of what we considered to be actions that were
+against the interest of the public in terms of having names out there that
+could be confusing, or holding names hostage for higher prices for brand
+owners, et cetera, et cetera, et cetera.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 10
+
+So while that may not specifically go to the Spec 11 issue, it does go to the
+idea of, you know, the interest of brand owners and content owners to the
+extent that we're here, hopefully, to protect the public interest, too, in terms of
+preventing infringement and piracy and all that bad stuff out there.
+
+Now so when this meeting was called, we were asked to provide evidence of
+abuses. And that is what we provided in a letter, by evidence of this letter, to
+the meeting yesterday. I wasn't in the meeting, but our representatives were.
+So I don't know if this letter was part of what Paul Diaz is referring to or not,
+but this letter exists.
+
+And where we're finding frustration on the registry side is, where are the
+common agreements about level playing fields? Where are the common
+agreements about what is fair and unfair in this brand new world of thousands
+of TLDs, in terms of when brand owners can get in to protect their brands?
+
+And I hesitate sometimes to talk about rights, rights, rights, rights, rights.
+Because then what happens is it becomes very self-centered. And reality is
+particularly - and I will speak to trademark law because I'm a trademark
+attorney, and that these laws are here to protect the public from deception.
+
+Now we do the ultimate that we can do to try to prevent that, by preregistering names when we can; making sure our brands are protected as
+fully as they can be up front. But some of the practices that we see coming
+from registries and registrars prevent us from doing that.
+
+So what I want to know is if Spec 11 applies or doesn't apply. To Liz's point, if
+you take Spec 11 literally, all it requires is a provision. It doesn't even require
+enforcement. I mean I find this language quite disturbing. I could put any
+provision I want in a contract. I mean presumably I'm obligated to enforce it,
+but maybe not. I don't know. Taken very literally.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 11
+
+But at the same time, my membership looks at Spec 11 as, this is where we
+have the level playing field. This is where there is an acknowledgment that
+there is a place for an intellectual property policy discussion and
+enforcement, and a consumer protection outlook -- again, the root of what I'm
+talking about through the trademark law.
+
+And if it's not here, where is it? And where should it be? And to say it's not in
+ICANN's remit, I'm sorry but we don't accept that at all. Because it is in the
+public interest. Consumer protection is in the public interest.
+
+Paul Diaz:
+
+Okay, thank you, Lori. The queue's getting bigger. I have Jay, Jordyn,
+Stacey, Marc, Jon and Rubens. And we're halfway through our time, folks. So
+I'd ask if we can keep the comments rolling.
+
+Jay Westerdahl:
+
+Yeah, just - I mean as a registry myself, I mean, I read the language and I
+think it applies to due process of law. I know there is a lot of passionate
+things out in the world that we should be policing, but that's not our job. We're
+registries. And if the courts hand us an order that says this is what we've
+ordered, we'll do it.
+
+I just don't see how it relates to us other than, you know, allowing for due
+process. And any step beyond that, you're asking for something beyond due
+process of the law. I think it's just - it's outside of numbering, and it's outside
+of names. And I don't think ICANN should be setting up, you know, some kind
+of court system outside of the courts.
+
+Paul Diaz:
+
+Okay. Jordyn?
+
+Jordyn Buchanan: Thanks, Paul. Jordyn Buchanan from Google for the record. I like the spirit
+that Greg tried to latch onto earlier which is like how do we focus on places
+where we can work together? I think that is really helpful.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 12
+
+And thanks for acknowledging that even though perhaps you are – the
+(unintelligible) letter was not an IPC vehicle that it is still relevant to the
+conversation.
+
+You were a little frustrated earlier when people were saying, oh that is not an
+IPC letter. It doesn’t really matter if the people sending it are in the room. Like
+we are all just talking to each other right now.
+It doesn’t have to be a formal registry stakeholder group versus IPC dialogue.
+It is a registry versus intellectual property sort of community discussion I think
+will be the most productive way to tackle it.
+
+I do think where I also sort of really thought the initiative about not talking as
+much about rights as much trying to get to the sort of best interest of the
+public is probably a really useful way to frame these discussions.
+
+I think part of the reasons why registries tend to try to look at the ICANN
+function really narrowly because it all does become right. And the sort of
+collaborative arrangements that like donuts that Steve referred to donuts
+doing with some copyright issues and so on.
+
+Those are hard to do in the ICANN framework because everything gets sort
+of locked down into this contractual language and we (unintelligible) what it
+means like we have here and so on.
+
+And so I find that when we are working collaboratively it works a lot better.
+And I think a good example of this just to reflect back on where we get
+frustrated. I have no self-interest here that I am going to talk about GLTDs.
+We don’t have any GLTDs. We are not associated with them at all. But we
+spent quite a bit of time talking with representatives from IPC early on about
+whether we can figure out a practice by which GLTDs could take names like
+subway.nyc or corona.nyc or whatever airport.berlin or something like that.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 13
+
+And have those be allocated to city authorities or municipal – probably what
+people would think if you saw subway.nyc. You probably think oh I am going
+to go on a train not necessarily sandwich shop even though.
+
+And so we really got nowhere I think when we tried to talk with the IPC.
+Because this notion of rights kept coming up (unintelligible). We got this
+agreement into the guidebook and we are just not going to let it go.
+
+Somehow we need to figure out how to be more collaborative on issues like
+that and give and take and just like registries want to step up and want to
+make sure that we are helping protect brands and avoid abuse within our ??
+
+I think we have got to make sure that there is give and take on the other side
+as well when it is appropriate.
+
+Paul Diaz:
+
+Thank you Jordyn. Stacey?
+
+Stacey King:
+
+Stacey King, Amazon Registry Services. I think one of the things that is
+coming up and Liz got to this quite a bit. We clearly have potentially different
+interpretations for this clause.
+
+And before we can talk about compliance with a big C or small C. And before
+we can say this entity has cooperated and therefore is complying and this
+entity isn’t maybe cooperating and defining what cooperation means because
+that is a different discussion.
+
+I think we really have to try and come to some understanding of what this
+clause means. Otherwise we are all going to have different interpretations
+and we are all going to point fingers at each other and it is really going to get
+us nowhere.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 14
+
+So maybe we figure out a mechanism and it will clearly take beyond the
+session to really come to a common understand of what this means and the
+interpretations when it was drafted.
+
+Paul Diaz:
+
+Thank you Stacey. I see you want to get back in Laurie but we have got big
+queue. Going to move to Marc.
+
+Mark Trachtenberg:
+
+Marc Trachtenberg for the IPC. First I believe the holiday Greg was
+
+referring to was Festivus for the record.
+
+Second, you know when we talk about due process rights, you know, due
+process really involves people’s interactions with the government. Here we
+are talking about private agreements. You know registrants enter into a
+private agreement with the registrar who is in a private agreement with the
+registry.
+
+And so, you know, ideally we all talk about these idealistic due process rights.
+But you know I don’t know really to what extent? Even at least from a legal
+perspective due process comes into play here. There is no government
+involvement.
+
+Going beyond that, you know, I do agree that one of the big problems is we
+don’t know what this cause means? Like every clause in the agreements that
+ICANN has it is very unclear. That is kind of the standard operating
+procedure. So I don’t know what it means either but it has got to mean
+something.
+It can’t just mean you have to put this provision into a contract because that is
+pointless. To have to put a provision into a contract you are not going to
+enforce, you know, has no meaning. And to just have the clause mean that a
+registry operator or registrar, you know, has to comply with a court order that
+is meaningless also.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 15
+
+I mean clearly the registry operator has to comply with the court order. So
+why would you have this provision that just says that? So again I don’t know
+what it means. But it has to mean something. And I agree with you (Stacy).
+We need to get to a point where we can figure out, you know, what everyone
+agrees that means. Whether that is right or not.
+
+And that, you know, I think is aligned with what other people are saying. Is
+that there has to be some sort of, you know, common alignment and
+cooperation in working together.
+
+Because ICANN is not going to help us so we all need to help each other and
+just try to figure out some sort of efficient, you know, workable process that
+everyone can somehow agree on.
+
+Paul Diaz:
+
+Thank you (Mark). Back to Jon.
+
+Jon Nevett:
+
+Thanks (Paul). Jon Nevett. I think we all know what it means right? We might
+not like what it says. We might not agree with what it says. We might want to
+advocate for a change. But I think we know what it means.
+And what we want to do – some of us want to do is go beyond that. We want
+to work with you all to go beyond that and do certain things. A lot of us are
+working on the healthy domains initiative. A lot of us are working on other
+initiatives. The registrars are working various best practices as well.
+
+We want to be aspirational. And I think the frustration is certainly from my
+perspective is when you are looking at our contracts and you are looking at
+Compliance with a capital C. And you are looking at enforcement and you are
+looking at oh we can take your registry away.
+
+Registrars and registries are going to kind of retrench a little and they are not
+going to be aspirational. So for folks to argue that this says something that it
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 16
+
+doesn’t as a mandatory obligation on registry and registrars’ behalf registries
+in this case is tough to swallow for some of us.
+
+Whereas as we want to say, all right here is the baseline. Here is what we
+have to do. Now let’s talk together about what we can do together to help
+solve a problem.
+And when we have an argument over what something that is – again clear to
+me but some people may not like and they try to argue it says something that
+it doesn’t. It is kind of a breach of trust to me.
+
+And it makes harder for those of us who want to do more to get other people
+to follow us to do more. And that is the concern and the frustration I think you
+are hearing in the room.
+
+Paul Diaz:
+
+Thank you Jon well put. Plus one. Rubens?
+
+Rubens Kuhl:
+
+Rubens Kuhl… I would just like to remind everyone that while we are here
+discussing domain registrations at GTLDs most of the abuse or trademark
+abuse (unintelligible) is occurring at hosted Web sites which are outside of
+what this industry does.
+And even these (unintelligible) doesn’t include ccTLDs which operate in their
+own capacity. So everything we try here we have a very limited scope and
+won’t address where the issues are recurring. The fact that we are discussing
+this here is like there is no global license to be a hosting provider.
+
+So there is no way to attack that. So because there is a global license to have
+the generic domains that is why we are discussing this.
+
+But even if we could magically make everything disappear from GTLD
+domains it would occur at other domains. It would (unintelligible) Web site
+with no domain names at all addressed by numeric IP addresses.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 17
+
+And all this would keep happening. So this discussion is somewhat
+(unintelligible) to the actual fight that is going on for the (unintelligible). So
+let’s try not put appearances first. Let’s try to do something that really
+achieves something.
+
+Paul Diaz:
+
+Thank you Rubens. Back to Greg.
+
+Greg Shatan:
+
+Thanks. Kind of respond to some of the things I have heard. First, Jon I agree
+with what you say and I think that if you somebody were to start a
+conversation with me that they are going to seek to have me disbarred that I
+would probably not be all warm and fuzzy like I usually am.
+
+So that is why I try to emphasize common understandings on small C
+compliance as opposed to, you know, adjudicating (unintelligible) gaps
+through Big C compliance where possible. That itself is a form of I think due
+process.
+
+And I think the emphasis on due process meaning only a court order I think is
+both narrow and misplaced. Again I think as a transactional attorney in my
+day job so I deal with issues where one part of the contract sometimes even
+my client is not complying.
+
+And if I were tell the counterparty every time they said, we think you are not
+complying with the contract. If I told them to go sue me that also is not a very
+helpful way to have a dialogue about whether the contract is being complied
+with.
+
+And there is no requirement in any contract that you sue somebody in order
+to have a conversation about whether the contract is not being complied with.
+So I think kind of this so sue me thing is not also a very good thing although
+potentially would enrich many of my colleagues who do go to court as well.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 18
+
+But I don’t think anybody here wants every single think here to be adjudicated
+here in court. You know costs will rise and all sorts of things will go down.
+
+In terms of what Rubens said, you know this is not the only conversation. And
+I would certainly say as somebody who does deal not in court but otherwise
+in terms of abuse and infringement issues we approach every aspect of it.
+
+We approach the registrant. We approach the Web host. We approach the
+registrar. We approach the registry. We may deal with law enforcement, you
+know, national or international depending upon what the abuse is.
+
+And we deal with what goes on in the legacy TLDs. So the focus here is only
+– it is in part because we are all kind of in this new GTLD, you know, bubble
+to some extent. That is kind of what is right in front of us.
+
+And of course you know one reason relatively little abuse is occurring the
+new GTLDs is because relatively little, you know, few domain names are
+registered there relative to those registered in dot com. I am sure everyone in
+this room hopes that changes. Indeed is betting on it.
+
+So, you know, we are dealing now with the world as it is going to be not just
+the world as it is. So I think the last thing I would say in terms of kind of Step
+4 because we are not going to solve all the problems of the world even our
+own in the next 10 minutes.
+
+Is maybe a smaller group of us can get together and talk about common
+understandings. Because Jon I don’t think we actually really have a common
+understanding of what this says and what its implications are.
+And I think each party – there may be a number of understandings and
+maybe misunderstandings about what the other side’s understandings are.
+So I think rather than any of us think that we have got the answer. If we were
+all thinking that we all have the same answer we would be eating lunch.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 19
+
+So I think we should get that group together and you know kind of try to hash
+this out in ways that we can kind of come to an understanding which I think
+will be helpful.
+
+As I say, it may not be the answer everybody loves but at least it will be an
+answer that we can try to promulgate and see if more people can live with.
+And just like in any situation if you can get the center to hold the fringe gets
+more clearly defined as the fringe. Thanks.
+
+Paul Diaz:
+
+Thank you Greg. Registries will definitely take you up on the offer for a small
+group to sort through. I have got two more in the queue and we have got
+about five minutes. Ellen you are first. Jordyn then and anybody else? And
+Paul. Okay and that will be it.
+
+Ellen Shankman: Thank you. Ellen Shankman IPC. I am fascinated by this discussion because
+what I am hearing that is coming up to pick up from Jon’s point but also
+Jordyn and Stacey and Lori and over here.
+
+How do you think a conversation that goes really to a question of establishing
+trust with business models? And what is it that will take because part of it is
+consumer trust which is one piece of the thing.
+
+But the other that you talked about Jon I think is true is how do you establish
+trust in these conversations? Because you really don’t have – and I think the
+concept of trust and the concept of business models are by definition a little
+bit difficult to reconcile.
+
+But I think the question and whether it is in a small group of best practices
+whatever is I think for people to be able to identify what would help establish
+that trust? And then within my business model how much of what you need
+from my trust can I give? And I think that that might be a helpful way forward.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 20
+
+Paul Diaz:
+
+Thanks Ellen. Jordyn.
+
+Jordyn Buchanan: So speaking of trust I guess. I was just struck by in looking at this and hearing
+Greg say, well we don’t see that much abuse in the new GTLDs. And I
+thought why are we talking about this?
+
+Greg Shatan:
+
+That is not what I said. I said relative to, you know, in terms of sheer
+numbers.
+
+Jordyn Buchanan: Sure that is fine.
+
+Greg Shatan:
+
+Not in terms of – in terms of percentages it may actually be quite different but
+I know that is not (unintelligible).
+
+Jordyn Buchanan: What I heard from Laurie was that of sort of it sounded like real problems that
+brand owners were having with the launch of new GTLDs like as they exist
+today.
+
+And what you are talking about is we are a little worried in the future we might
+have problems related to this. And it just seems like why are we focusing on –
+like why are we, why are you focusing our energy on this part of the
+agreement?
+When you have got I think in my mind maybe not all of the - I am – to be clear
+I am not speaking on behalf the registered stakeholder group.
+
+Just my mind I think, you know, some legitimate grievances in terms of how
+some TLDs may have launched and how they have handled the allocation of
+brands and so on.
+
+I think that is a rich area where you can have a lot of really productive and
+interesting conversations because it is grounded in actual facts and actual
+problems that we are seeing today.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 21
+
+Whereas, you know, I have been seeing any real evidence that the new
+GTLDs are particularly more problematic than any other TLDs in terms of
+other types of abuse.
+
+And so why spend our time focusing on that when you have got I think a real
+nexus of conversation where we can spend our time.
+
+Paul Diaz:
+
+Okay Paul .
+
+Paul McGrady:
+
+It looked like Steve wanted to respond. No? Okay. So we are all in the
+backseat of the car and we are touching each other and it is hot and we don’t
+know how long it is going to be until we get to Disney World.
+
+I wonder if before we go here today so that, you know, our parents ICANN
+don’t have to turn this car around any second now. If we could set a date
+certain where each of us will nominate a small group to have this
+conversation.
+
+That we will hear from each other and that we will begin the conversation
+informally which might provide a bit of event so that we don’t continue
+necessarily you know nasty letters and all this other stuff.
+
+And so if we can maybe before we go can we commit to a number of people
+on each side to chat. Chat group and a date certainly we can do that so we
+don’t lose the momentum here.
+
+It has been good to air the grievances but I would like to get to the process
+about how to deal with it. Thanks.
+
+Jeff Neuman:
+
+Just to respond briefly to Paul. I think maybe if we say July 15 which is a
+Friday in two weeks from this Friday it might be a reasonable amount of time
+to come up with a team.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 22
+
+And just to respond briefly to Jordyn I think that in any meeting that is short
+you are going to end up kind of over focusing on something and it is usually
+the thing that got put in front of you by circumstance.
+So that is I think while I wouldn’t say that there is no issue around this. I do
+agree that all the other things that Laurie brought up and that we didn’t
+actually spend a lot of time talking about are a significant set of concerns.
+
+If we had another 45 minutes we would probably stop talking about this and
+talk about those. And if we had another 45 minutes about that we would
+probably talk about those and not talk about this so anymore.
+
+Jordyn Buchanan: Sure but I guess my point is we do have finite time right? And so we are
+about to convene a group to talk about this thing that I think is much less
+important and much less to the heart of your concerns than other things that
+we can be convening in groups to talk about.
+And so I just wonder we don’t have to – we are obviously not going to get to it
+here but we should figure out ways to continue this dialogue. And we should
+figure out ways to find the places where it is going to be most productive and
+helpful as opposed to just like oh this is the thing we are angry about because
+some letters flew by last week.
+
+Jeff Neuman:
+
+I think broader dialogue is really ultimately is the point. I think if we just –
+taking one thing I think is not the end of finding groups or ways to
+communicate. And so I think we try this as kind of an aspect. Maybe not the
+most important aspect but I think we should see about using this approach for
+other things.
+
+Not necessarily put this thing to the side because there are concerns there
+but you know this is not indicative of the biggest issue but just one that is kind
+of here.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 23
+
+So I don’t think doing this excludes the kind of, you know, approaching larger
+issues and ultimately finding as I say fruitful coordination.
+
+Paul Diaz:
+
+Okay we are at our time and some of the registrars are already here. I know
+the IPC just rolls into the next group.
+
+To close out those we have put the 15th for the date given the number of
+heads that were nodding about expressed interest. I think we could have as
+large or as small as a group we want. Do we want to put a limit? And if so,
+what is the number from each side to continue the dialogue?
+
+Or should we just have it open to those that are available and keep the
+discussions going?
+
+Jeff Neuman:
+
+One suggestion. Do you think it would make sense to put together two
+groups? One to talk about this and then another to talk about new, you know,
+about registry rollout issues? That way maybe people assign themselves to
+one or the other and we are not going to have so big a group for the one.
+And also answer Jordyn’s questions about kind of over focusing on one of the
+list as opposed to more. Just a thought.
+
+Jon Nevett:
+
+Two things. Why don’t we start small and just do one group and if we need
+two groups or five we can do that.
+
+Secondly, we need a really cool acronym or else it is not going to work.
+
+Man:
+
+Goran said no acronyms anymore.
+
+Jordyn Buchanan: If we are doing one group is the notion that it is just to tackle this? Because I
+have zero interest in talking about this issue. I am not going to spend any
+time on it.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/3:24 am CT
+Confirmation # 8995803
+Page 24
+
+I would love to have a dialogue about talking about some of the rollout issues
+and so on, you know, broader issues. But if it is just going to be targeted
+talking about this I am not going to join.
+
+Jon Nevett:
+
+I was just going to say maybe the group’s charter would be to identify a short
+list of issues for future dialogue. And I would suggest July 15th and let’s say
+seven on each side roughly.
+
+Paul Diaz:
+
+Fair enough. Sounds good. We were all going to agree with you. Let’s identify
+the list of issues with a small group.
+
+And obviously those who are participating the chairs will communicate
+regularly with everybody to keep everybody up to date.
+
+All right everybody. Thank you for the time. And it is a good start. A good
+outcome of Policy B.
+
+Greg Shatan:
+
+Thank you all.
+
+END
+
+

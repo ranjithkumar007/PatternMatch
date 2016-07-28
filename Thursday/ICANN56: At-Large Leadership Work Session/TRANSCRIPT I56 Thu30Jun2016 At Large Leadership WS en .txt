@@ -1,0 +1,1735 @@
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+HELSINKI – At-Large Leadership Work Session
+Thursday, June 30, 2016 – 09:15 to 10:30 EEST
+ICANN56 | Helsinki, Finland
+
+UNIDENTIFIED MALE:
+
+Good morning. ICANN 56, June 30th. This is the At-Large
+Leadership Work Session.
+
+ALAN GREENBERG:
+
+Ladies and gentlemen, we are one minute past starting time. We
+have a very tight agenda today. For those in the room, please
+have a seat. We will start in one minute.
+Thank you all very much for being here. The first session, this is
+the ALAC Working Session Number 7. The first item on the
+agenda is Rinalia, the item.
+
+RINALIA ABDUL RAHIM:
+
+I’m the topic of discussion?
+
+ALAN GREENBERG:
+
+You are the topic of the discussion. And you’re also the
+discussee.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+RINALIA ABDUL RAHIM:
+
+So I’m discussing myself, basically.
+
+ALAN GREENBERG:
+
+As you wish. As I was about to say, the topics that we have listed
+on the agenda are hot issues with the ICANN Board. That is,
+Rinalia telling us what’s going on and what she needs input on.
+And we have a brief presentation on ATLAS II status,
+recommendations, implementation. There is a stakeholder
+journey item which I don’t remember adding to the agenda but
+seems to be there. And anything else Rinalia has. And, more
+important, anything else you have.
+Now that being said, we are now six or seven minutes late into
+the agenda. The next session, next part of this agenda, is the
+continuation of the Rules of Procedure which are a time-critical
+issue so we’re going to keep to the clock. We won’t restrict
+Rinalia from using the full 30 minutes. But on the other hand, if it
+gets boring, then we may cut it off. But I don’t think it’s going to
+get boring.
+Rinalia, it’s all yours. You can use it as you wish regardless of the
+items on the agenda with the exception of the five-minute
+presentation on ATLAS II. Thank you.
+
+Page 2 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+RINALIA ABDUL RAHIM:
+
+EN
+
+Thank you, Alan. Good morning, ALAC and At-Large leadership.
+It’s a pleasure to be here and I’ve looked forward to this
+interaction with you. I have a few items on my list that I would
+like to raise to your attention. Some of them I just want to put on
+your agenda as something that is worthy of end user attention.
+Some of them are just topics that I would like to get feedback
+from you to inform my position on the Board. And other issues
+are basically possibly things that you want to talk to me about.
+So the first item that I would like to raise to your attention is
+something call the Key Signing Key rollover. Now, I know that it
+is technical, but it is actually quite important, especially for end
+users. So to just simplify it – and I apologize to the technical
+people in the group – what’s happening is that the Root Zone
+Key Signing Key is scheduled to be rolled over, and the target
+date is March 2018. That’s the completion date. It’s actually a
+process that will span multiple years.
+And the reason that you need to have it on your agenda is that
+as they roll over the key, the technical community knows for
+sure there will be breakage in the Internet. That means that
+Internet users who are behind specific resolvers that have not
+updated their password, as they say, to the Root Zone Trust
+Anchor, you will not get access to certain domains. That means
+your DNS lookups will fail.
+
+Page 3 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+And so the question that you have to consider is, what is your
+role in informing the end user community? Is there something
+that you can do to support the ICANN outreach efforts? And my
+suggestion for you on this topic is to ask David Conrad and his
+team to come and brief you on what the issues are and whether
+he needs your help, and you, yourself, decide what you want to
+do with the issue. So that’s just me flagging a topic. We don’t
+need to discuss it, yeah?
+
+ALAN GREENBERG:
+
+Rinalia, what timeframe?
+
+RINALIA ABDUL RAHIM:
+
+What do you mean, what timeframe, Alan?
+
+ALAN GREENBERG:
+
+When is this likely to be happening?
+
+RINALIA ABDUL RAHIM:
+
+It’s actually happening now. They are discussing it right now.
+The completion is in March 2018 but they are starting the prep
+process and communication. There is a communications plan
+but you might want to be part of that plan. Is that okay?
+
+Page 4 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+ALAN GREENBERG:
+
+Yep, thank you.
+
+RINALIA ABDUL RAHIM:
+
+Okay. So the next topic is – and I know you’re really interested in
+this – is the New gTLD program, next round. And yeah. And I
+don’t know if you looked at my mail this morning. I sent you a
+mail about the decisions or resolutions from the ICANN Board
+meeting. And there is a topic on New gTLD program, next round
+resolutions, and it says, “Item removed from agenda”. And that
+is actually an outcome of Board deliberation before the ICANN
+meeting week started, where they listened to the views from
+various communities and I channeled your input. And the Board
+also basically asked staff for clear information on what is
+involved in terms of preparing for the next round, what has been
+completed, what hasn’t been completed, what’s next, and how
+much time does it need to get to the end of it.
+And we all agreed, and I also stated this very clearly, the timing
+is not right for a Board resolution on this topic right now
+because the sense of the community is that the review, all the
+reviews, must be completed and that we need to have all the
+improvements and lessons learned from the current round to be
+embedded into the next round before we can proceed.
+So I have, do you want…
+
+Page 5 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+ALAN GREENBERG:
+
+EN
+
+I’m quite happy to have you manage the queue unless it gets
+overwhelming.
+
+RINALIA ABDUL RAHIM:
+
+Okay. Burning question. Holly, go ahead.
+
+HOLLY RAICHE:
+
+The meeting is today of the subsequent procedures on New
+gTLDs. Somebody’s got to tell them that they’re not going ahead
+because of they’re planning. And I sat there while they’re
+planning. We’re just dealing, they’re dealing with issues but the
+language that was used yesterday in the subsequent procedures
+is, “Well, we’re going to call this rounds moving on to just
+continuous allocation.” The language does not reflect what the
+Board decision is, at least what I heard yesterday. Okay?
+
+RINALIA ABDUL RAHIM:
+
+So what’s been made clear to me in the discussions among the
+Board and staff clarification is that the policy is we are
+committed to next round. So unless the PDP that’s ongoing right
+now on subsequent rounds says we should not have a next
+round…
+
+Page 6 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+ALAN GREENBERG:
+
+EN
+
+When you say we’re committed to next round, we’re committed
+to issuing more New gTLDs or doing it in the form of a round?
+
+RINALIA ABDUL RAHIM:
+
+Doing it in the form of a round. Yes. So the policy is we should be
+having rounds of TLDs being launched. So if anyone wants to
+stop that, it has to come up from the PDP process and you need
+to have community consensus. That’s all there is. Kaili? And I see
+Garth.
+
+KAILI KAN:
+
+Thank you, Rinalia. But that means that our ccTLD has no voice
+in that.
+
+RINALIA ABDUL RAHIM:
+
+Well, Alan, who is the policy expert here, says no. So you could
+potentially get ccTLD to participate in the GNSO PDP process.
+
+KAILI KAN:
+
+So why am I still going there? There is no voice. It doesn’t
+matter.
+
+ALAN GREENBERG:
+
+Let’s be clear. There is an AOC Review going on. The Board is
+bound to consider the output. There is a PDP going on. The
+
+Page 7 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+Board is bound to consider the output. It has been suggested
+that the two groups actually talk to each other, and there are
+liaisons between the two. If they end up going in different paths,
+the Board will have to resolve it or bounce it back one way or
+another. If they end up making comparable recommendations,
+then so be it. That’s fine.
+But they are two independent processes. It may make no sense
+to have done it that way, but the GNSO chose to start their
+process before the ccTLD review stopped. They were allowed to
+do that. That is within their domain. We may consider that a
+rational decision or an irrational decision but it is the decision
+that was made. And both processes will ultimately go to the
+Board to the extent that they end up being coordinated and say
+similar things, so much the better.
+
+KAILI KAN:
+
+But just a current analysis or explanation that PDP has a voice to
+be heard and taken seriously by the Board. But the ccTLD is not.
+
+ALAN GREENBERG:
+
+Page 8 of 53
+
+No. Rinalia did not say that. I did not say that.
+
+HELSINKI – At-Large Leadership Work Session
+
+KAILI KAN:
+
+EN
+
+Oh. So maybe I misunderstood. Thank you very much. So I will
+still go there. Thank you.
+
+ALAN GREENBERG:
+
+Please.
+
+RINALIA ABDUL RAHIM:
+
+Kaili, it’s very important that you’re continuing to participate in
+the CCT review. Garth?
+
+GARTH BRUEN:
+
+Thank you. Does the review include, one, whether or not
+Internet users and consumers know about this or want it? Two,
+will it show who is the biggest beneficiary of the New gTLD
+program?
+
+RINALIA ABDUL RAHIM:
+
+Can I ask Kaili to answer that question, since he’s on the team?
+
+KAILI KAN:
+
+Sorry, I was distracted. Can you repeat the question again?
+
+GARTH BRUEN:
+
+Yes. So there were two questions. The two questions were, will
+these reviews show us whether or not Internet users and
+
+Page 9 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+consumers know and care about the New gTLD program and will
+it show us who is the biggest financial beneficiary of the New
+gTLD program?
+
+KAILI KAN:
+
+My current understanding, the study is not focused on the two
+issues that you raised. However, just my personal intention is to,
+indeed, to go to that direction. Whether it will be adopted by the
+Review Team, I don’t know but I’ll try. Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Just a note before we go to you, Holly. What was very useful to
+the Board is actually to have a common understanding of what’s
+going on right now and what are the rules. And I think it may be
+helpful for the ALAC as a whole to get that kind of briefing as well
+because otherwise we’re always going to ask questions where
+one side of the room knows and the other side of the room does
+not and then we cannot progress forward. Holly?
+
+HOLLY RAICHE:
+
+Okay. I have a lot of reading to do and I was not in the first
+couple of meetings on the subsequent procedures. But looking
+from yesterday’s meeting, they’ve got sort of five work streams
+I’ve got to get my head around.
+
+Page 10 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+Garth, I don’t think any one of them actually considered about
+end user interest or anything like that. It’s much more a focus on
+proceeding in all of the issues and addressing all of the issues
+that came up. Some of it looks as if they are actually taking on
+board some of the complaints we have raised or the issues we’ve
+raised, the new guidebook, the participation of developing
+countries, the money involved, those sorts of things. But I didn’t
+actually see a kind of [aim], what are we looking for.
+So Garth, to answer your question from the PDP, I haven’t had a
+look but I will and will be able to answer that question better.
+
+RINALIA ABDUL RAHIM:
+
+And in your view, Holly, do we need more end user participation
+in the working group? Please use your microphone.
+
+HOLLY RAICHE:
+
+There are five different work streams. I can only be in one place
+at one time.
+
+UNIDENTIFIED FEMALE:
+
+Page 11 of 53
+
+[Inaudible]
+
+HELSINKI – At-Large Leadership Work Session
+
+HOLLY RAICHE:
+
+EN
+
+I know. This is something that is very important to all of us, so
+any and all people who are interested in it, really, your support
+will be really welcome. Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Alan?
+
+ALAN GREENBERG:
+
+Regarding the CCT review, there are two work streams within it.
+There’s essentially a competition one and a consumer issue one.
+Kaili is on the competition side. Carlton is our representative on
+the other side. If we have concerns, we should be talking to him.
+We should set up a teleconference with him. With both, of
+course, but certainly not without the other representative.
+That’s number one.
+Number two, on the PDP, I can’t remember a meeting where we
+talked about policy where I didn’t say we need more
+participation in that one because coming in afterwards and
+complaining is not going to do it. Sadly, this process is not just
+starting. The PDP started, but the PDP’s essential list of topics
+was generated by another group in another process which we
+did participate in. And if we didn’t put the right items on the list,
+there’s no one to blame but the people in this room and their
+predecessors. Getting new items on the agenda may be difficult
+
+Page 12 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+at this point. That doesn’t mean we shouldn’t try. But they’re
+working under a charter which was driven by a process that’s
+been going on for nigh on something well over a year and a half
+or so at this point, maybe longer. So I can only say once more
+and clearly, if we don’t get in now, complaining later that they
+didn’t think of something is going to be an interesting argument.
+Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Thank you, Alan. Vanda?
+
+VANDA SCARTEZINI:
+
+Yeah. Just about the super segue into procedures. I’m [in it] also.
+The issue of the work is just organizing now the work. And they
+will really divide in five groups. And like we talked yesterday with
+Holly, we need people. Each one of us should be inside each
+group. This is the best way to coordinate our position in those
+groups because if everybody goes to one group, you never know
+what happens in the others that is not convenient for the users.
+So that’s the general idea. We talked yesterday to make it
+happen that each one of us, if there is no other, we push
+someone. Okay? That’s the idea. Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Page 13 of 53
+
+Thank you, Vanda. Olivier and then Garth.
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+OLIVIER CREPIN-LEBLOND: Thanks very much, Rinalia. One of the concerns that I’ve had
+looking at how ICANN works over the years is that often you
+have a process that starts and then it becomes a bit of a
+runaway train. It’s the sort of thing that you cannot stop and it
+just keeps on accelerating because some people keep on
+pressing the acceleration.
+The start of the PDP coinciding, I guess, with the CCT Review
+that hasn’t finished yet was something which was discussed a
+lot in the GNSO Council and there were, of course, the two points
+of view being mentioned. And I, on behalf of the ALAC, as GNSO
+liaison to the ALAC, did press on with the fact that we wanted
+the ccTRT work to be concluded and taken into account by the
+PDP on subsequent procedures. We were told that while there
+was a huge opposition to waiting until the ccTRT was complete
+with its work before even starting on the PDP.
+And the concern that I have, I guess, is that the PDP is trying to
+push so hard because, of course, there’s a commercial
+implication to it and there are some people who basically wish
+to cash in on the next round. It’s quite obvious. And at the end of
+the day, ICANN has to look out for the public interest. I think it
+has to weigh in between the public interest on one side and the
+push from those people.
+
+Page 14 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+And I have absolute concerns that the Global Domains Division,
+the GDD, which seems to have quite a significant influence in
+ICANN appears to be non-neutral in this matter. And I, certainly, I
+would like to raise this with you and see if this is also being
+recognized, perhaps maybe not willingly, the GDD not being
+willingly non-neutral because, of course, their business is to run
+the global domains and so on.
+But, yeah, you can see there is this sort of angst that we have in
+our community about this and so whenever there is a thing of
+saying, “Well, you know, the next round, we’ll be doing this, and
+this, and that,” the moment you start saying, “the next round,”
+then somebody is going to ask for a date for the next round and
+we’re going to be back into this absolute hell which basically
+says the date is going to be this date and everything needs to be
+finished by this date. And then we’ll have volunteer overload
+and we’ll do things half-baked and half-cooked and we’ll end up
+in another disaster.
+And I’m saying “another disaster” because we ended up with an
+applicant guidebook that was done in 2000-something. There is
+a 2007 guidebook version and then a whole lot of things had to
+be added on afterwards, and some are even threatening to go
+back to the rules of the original applicant guidebook which was
+a catastrophe because it didn’t have applicant support, it didn’t
+
+Page 15 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+have a number of things on there, including safeguards for
+gTLDs. So thank you.
+
+RINALIA ABDUL RAHIM:
+
+Thank you, Olivier.
+
+ALAN GREENBERG:
+
+Time check. If we give Rinalia her full half-hour, we have about
+12 minutes more to go, and Olivier has said he wants five
+minutes for an ATLAS summit discussion, so take that into
+account with your interventions. Can we please have a timer,
+one minute? Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Thank you. Olivier, everything that you’ve described, I echo. And
+I have also articulated that to the Board. I would suggest that
+you repeat the comment regarding GDD when Göran Marby is
+here because I think he needs to be aware. And beyond that, I
+won’t say anything because you are right. There are strong
+pressures and the Board is susceptible to that pressure. But it is
+up to the Board also to self-correct itself. And that is why I came
+to you with a request for input because that helps reinforce a
+balance.
+Okay. Garth, you still had something to say.
+
+Page 16 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+GARTH BRUEN:
+
+EN
+
+Yes, thank you. Thank you, Olivier, for bringing up the GDD. I
+would like to put forward the radical suggestion that anything
+this organization does or plans to do start with the question,
+“How will this affect or do good for the end user?” And if we are
+not willing to answer that question, if the question can’t be
+answered, then not a single penny and not a single minute
+should be spent on some adventure without answering that
+question first. And this should apply to everything, not just this
+program.
+
+RINALIA ABDUL RAHIM:
+
+Thank you, Garth. I think that’s a good criteria. I think it’s a
+question of whether it could be done or would be done. But
+please repeat that again when Göran Marby is here.
+I would like to actually move on to something that I’d like your
+feedback on and that’s pertaining to auction proceeds. It’s a hot
+topic and a lot of people are interested in it. The Board is
+monitoring this issue closely. The Drafting Team has been at
+work and the Board was consulted in terms of what are your
+views regarding A, B, C, or D.
+When the topic of “Do you support prioritizing the needs of
+underserved economies or regions?” I find that I am the only one
+
+Page 17 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+who says yes and I am little bit concerned about that. Well, at
+this point in time. Perhaps some see that it’s not within the
+scope to actually go into that but since the question was posed.
+So I want to hear your views in terms of any input or view
+regarding auction proceeds and where you think the ALAC and
+the At-Large would take position.
+Sorry, Sebastien.
+
+SEBASTIEN BACHOLLET:
+
+Thank you very much. Please put your headphones. I am very
+sorry. I’m very sorry to oblige you to put your headphones in the
+morning, but I think it’s very important for us to use the tools
+that we have to improve diversity and comprehension in our
+organization.
+Now I’d like to speak about the debate on the staff function and
+highlight what Olivier just said because I don’t believe, I don’t
+think that if we had worked six years more on the first version of
+the guidebook, we would have had a better guidebook just for
+one reason: the role played by the staff team in charge of this
+program, and I won’t give any name, but clearly at the moment,
+things have changed because of the changing of some people in
+the staff. So I think it’s not good to be in this situation again, so I
+think it’s good to say that, to speak about that. Thank you.
+
+Page 18 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+RINALIA ABDUL RAHIM:
+
+Thank you, Sebastien. Alan?
+
+ALAN GREENBERG:
+
+Thank you. I think [inaudible] has her hand up first.
+
+RINALIA ABDUL RAHIM:
+
+Okay. So Kaili, you wanted to speak also. Is this about auction
+funds or are we back on New gTLD program? Auction funds.
+Okay. So Judith, Kaili, Holly, even though she’s holding
+Maureen’s card, Cheryl.
+
+ALAN GREENBERG:
+
+I would like to get in moderately early, however.
+
+RINALIA ABDUL RAHIM:
+
+Okay. You can intervene any time.
+
+ALAN GREENBERG:
+
+I do have something relevant to say on the subject.
+
+RINALIA ABDUL RAHIM:
+
+Okay. Judith?
+
+Page 19 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+JUDITH HELLERSTEIN:
+
+EN
+
+Hi. I very much liked – I listened to the discussions on the
+auction proceeds and I very much liked the idea of using it for
+underrepresented areas that you were mentioning, and
+especially also with the changes in the Fellowship, looking at the
+different criteria and looking at different people. So it could be
+looking at the indigenous populations worldwide. It could be
+looking, as they say in the Fellowship application, disabilities,
+looking at maybe low income populations, low income areas in
+developed countries. In the US, there are a lot of low income
+populations that have not been engaged with. And so maybe
+using some of those proceeds to increase the Fellowship. Once a
+new Fellowship idea is passed, to increase the Fellowship
+funding for that so that they can target these areas with that.
+
+RINALIA ABDUL RAHIM:
+
+Thank you. Kaili? I’m sorry. Alan wanted to make a relevant
+intervention.
+
+ALAN GREENBERG:
+
+Thank you. Currently, there is a Drafting Team on the charter.
+The Drafting Team will not impose specific restrictions in the
+charter. It will be up to the CCWG to delineate to what extent
+and to what functions, if any, it chooses to restrict the use of the
+funds are. We have a multi-step process. We’re drafting the
+charter now. It will come back to this organization as one of the
+
+Page 20 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+chartering groups. Then it will go to a CCWG which I would
+encourage anyone who cares to participate in. That is the group
+that might put restrictions or target certain amounts of money
+on certain things. There’s no point in having that discussion
+right now because that’s not where the decision is going to be
+made. So let’s keep our discussions on focus in ways that can
+help right now. Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Kaili?
+
+KAILI KAN:
+
+Thank you. Well, first of all, I fully agree that a large part of the
+funds should go for underdeveloped and so forth. However, I
+also notice, I think we all notice that after the New gTLD
+program was introduced, there is a large portion of valid
+registrations, a large portion of that, is for defensive purposes.
+And presently, I believe that that kind of defensive registration is
+because of the internal fundamental defect of the design of a
+New gTLD program. So therefore, I believe ICANN is obligated to
+provide refund, at least a partial refund, for those registrations
+that can be identified as for defensive. Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Page 21 of 53
+
+Thank you, Kaili. Holly?
+
+HELSINKI – At-Large Leadership Work Session
+
+HOLLY RAICHE:
+
+EN
+
+I support Alan says in one sense, which is maybe it’s too early to
+make specific recommendations. I would be really upset to think
+that those proceeds do not go to a number of things, which
+would be to underrepresented areas, to things like assisting
+people in… Well, the cost or registries is so expensive for if you
+look at the people who actually applied for New gTLDs, to
+actually correct the balance in terms of the applicants for New
+gTLDs, to assist in the whole process so that, in fact, the
+outcome is a much more balanced one geographically,
+linguistically, culturally.
+Also, I would also then – Edmund may be the best person to talk
+to – is there any point in looking at support for [audience] as
+well. I realize that’s very generic, but it would be horrible to
+waste the money. Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Thank you. Alan wanted me to say the queue is closed and
+Cheryl is the last one in line. Thanks.
+
+CHERYL LANDON-ORR:
+
+Thank you. Pardon me. I just want to declare that I believe we
+should definitely push and make sure that a sensible discussion
+and debate is on the agenda about the use of auction funds
+
+Page 22 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+being dedicated at least in part to underserved communities,
+using that language “underserved communities,” because I
+don’t want to get into particular economies or particular issues.
+So I’d like to think that was a basis that our group within ICANN
+would be pushing.
+But I want to make sure we do it on the foundation of the work
+that was done with the applicants’ support, Cross-Community
+Working Group, that only admittedly came up with a system to
+help in the last round from a financial position. But the
+discussion, the debate, that went on early in that group looking
+at all of the ways we could aid and assist to plan for success, not
+just throw cash and compensation here but help to plan for
+success, should be looked at.
+
+RINALIA ABDUL RAHIM:
+
+Thank you, Cheryl. Sebastien, it’s always in my blind spot from
+sitting here. Sorry. Please go ahead.
+
+SEBASTIEN BACHOLLET:
+
+I am sorry. Next time I will sit in another place. I am going to
+speak in French, but there are some actions that we, as final
+user, we would like to fund that would be useful for all the users
+of the world. Thank you.
+
+Page 23 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+RINALIA ABDUL RAHIM:
+
+Thank you. So, Alan, did you want to comment?
+
+ALAN GREENBERG:
+
+Just one sentence. I will point out that when we come to the
+time for this discussion, it is not at all clear that all of this money
+is going to go into New gTLD-related issues. There’s lots and lots
+of good things we can do with this money so let’s keep our
+minds open.
+I think, Olivier, you have about two minutes to do your fiveminute presentation. Go for it.
+
+OLIVIER CREPIN-LEBLOND: Thanks very much, Alan. You are going to see on the screen the
+follow-up work from the ATLAS II Implementation Task Force. If
+you recall, the At-Large summit in London two years ago had
+about 30, well, nearly 40 recommendations for the ICANN Board,
+for the At-Large community, for the ALAC, for the RALOs, etc.
+That was the whole At-Large community that came together to
+put these recommendations together.
+What the Implementation Task Force group has done is to take
+each one of these recommendations, look at them, expand on
+them, refine them, and act on them. It acted on them by either
+taking on the task of doing it itself, so the working group itself,
+or passed it onto various working groups of the ALAC. And we
+
+Page 24 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+have several At-Large working groups, including the Technology
+Task Force, the Outreach and Engagement Working Group and
+several others, and the Capacity Building Working Group. I think
+these were the three that were mostly involved with things.
+Ariel, along with Heidi and I, continued to put this follow-up
+work on the wiki. We have a wiki with each one of the
+recommendations having a wiki page dedicated to it and all of
+the work that has been done by all of these working groups ever
+since, including the RALOs as well.
+Of course, we’re not going to give you, the Board, a report which
+is about 500 pages in length. I don’t expect everyone to read it.
+In fact, I don’t expect anyone to read 500 pages, you included,
+and I know that you read a lot. But 500 might not be the greatest
+thing you could do for your summer holidays, or indeed, winter
+holidays by the time we’ll have this thing finished. And therefore,
+we have put together a summary and that’s sort of a sample of
+the report of how it will start looking. You have some nice little
+colors on the right-hand side. The Board loves colors. Everybody
+likes colors. It’s nice, it’s beautiful, and there’s a lot of green in
+there which is even better. There is one red one which has been
+discarded because it was a little bit out of the way or things had
+changed. The public campaigns on using the Internet are
+probably not really within ICANN’s mandate to do public
+
+Page 25 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+campaigns on how to use the Internet. But certainly, many of the
+others are complete now and are marked as such.
+If you click on one of these, and so the document that will be
+given to you will be in electronic form. The hyperlinking within
+the document will work if you have it on your laptop. It will not
+work on a paper copy. But you will be able to flick to the correct
+pages if you wish to. And if you click on the electronic version,
+you will reach, let’s say, recommendation number one, you
+would reach a little bit further information that goes further
+than just a two-line summary on the table. Here it provides you
+with a full set of implementation details, or should I say a
+summary of the implementation details, and further down,
+you’d have the next steps. Whether it’s next step as in, “This
+recommendation has been passed on to this group and this
+group has now got to [watch in brief] to continue working on
+this,” because some recommendations are ongoing to reflect
+the public interest in everything we do, for example, is an
+ongoing thing. I don’t expect it to have an end point.
+So that’s how it looks at the moment. We have, I think, 12
+recommendations that are completely completed with all the
+summary and stuff. But Ariel is working on filling the rest of it.
+We’ve actually worked together on having all the information
+ready so it’s just a case of formatting, and hopefully by
+Hyderabad, we’ll be ready to pass this on to the Board. We’ll
+
+Page 26 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+probably send this to the Board before Hyderabad and then we
+can talk about it when we meet in India. Thank you.
+
+RINALIA ABDUL RAHIM:
+
+Thank you, Olivier. It’s great to see progress. I have a suggestion.
+Before you submit it to the Board, I would recommend that the
+ALAC or you have a discussion with management to see areas in
+which they are already doing work in that either are in sync with
+what you are trying to do or maybe they have started something,
+maybe just to connect the dots and align. So that when the
+picture goes up to the Board, we can already see completely
+what’s already in the works that needs extra resources or what
+really is completely completed. And I think that would be a great
+picture to show to the Board.
+
+OLIVIER CREPIN-LEBLOND: Yes, thank you, Rinalia. That’s a very good point. We will be
+passing this by our working group, so the final report by our
+working group by the ALAC, by the RALOs, by you and when you
+mean “management,” who is the management?
+
+RINALIA ABDUL RAHIM:
+
+Page 27 of 53
+
+Göran Marby and his Executive Team.
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+OLIVIER CREPIN-LEBLOND: Okay. Thank you.
+
+ALAN GREENBERG:
+
+Thank you very much, Rinalia. You’re welcome to stay for the
+discussion. Thank you.
+All right, in the previous review of the Rules of Procedure, we got
+up to but not yet including 19.10.5. I am assuming that in the
+interim two or three days, everyone has had the chance to do
+their homework. We will not read sections out one by one, but I
+will group them together with a quick summary.
+If anyone has any comments, and comments specifically that
+there is some major reason why a change has to be made, we
+did ask for comments to be made all along. They have not. There
+has been virtually nothing raised. So I will hope there won’t be
+many. Otherwise, we will not get these adopted this week.
+19.10.5 is a section that allows an elector who knows they will be
+incapacitated, out of contact, whatever, to identify a proxy to
+cast their vote. This would typically be used if you’re going to be
+in an airplane, for instance.
+May I ask that staff, number one, have the Rules of Procedure up
+and at the right place? And number two, have the other two
+documents ready to display if necessary, the addendum and the
+change log? Thank you.
+
+Page 28 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+The previous version allowed each BMSPC to create proxies. The
+concept of proxy, we’ve removed that and replaced it by a very
+specific one. Is there any comments on this?
+Seeing none, we’ll presume it’s okay.
+The next section is 19.11.3. This is the section that deals with the
+first level of voting, should there be more than three candidates
+identified by the BMSPC. The rules call for whatever the number
+to start with, which could be 15 or could be four, be reduced to
+three. We were somewhat unspecific in terms of the voting
+method. That has resulted in a different method being used last
+time than was expected because of the lack of precision.
+I have consulted with Big Pulse, our normal vendor of voting,
+and ensured that what we’re talking about is something that is
+possible to do. And the recommendation of the subgroup that
+built these revisions is that we use a form of Single Transferrable
+Voting, STV. STVs come in virtually infinite number of forms. You
+can presume that almost every jurisdiction or place that uses an
+STV vote uses a slightly different form of it.
+The version we’re looking at is very simple to explain.
+Essentially, every candidate is ranked by all the electors and you
+count how many first ranks there are. If someone gets more than
+half of the votes, they win. If they don’t, no one gets more than
+half of the votes, you take the candidate with the least votes,
+
+Page 29 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+drop them off and look at what their second preference of what
+those electors were who selected them. So we promote. If a
+candidate disappears because they’re dropped off, anyone who
+voted for them, all of their preferences get pushed up one and
+you do the calculation again. And you keep on doing that until
+you eliminate enough people that three are eliminated.
+There may be places where there are ties in the process. If there
+are, the Big Pulse system has an internal mechanism to try – not
+to try – to eliminate the tie. It looks at how that voter – sorry,
+that candidate – was handled, the number of votes they got in
+previous rounds. It tries to find some logical way using the voter
+input to do the selection. If it cannot find one, it does a random
+selection. And that process continues until there are only three
+voters, three candidates left.
+Questions? Seun.
+
+SEUN OJEDEJI:
+
+Thank you. I just wanted to get something that you mentioned
+clear. Did you say if a candidate drops off and he has been voted
+for, the votes will be assigned to the next person, one of the
+candidates? Is that what you said?
+
+Page 30 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+ALAN GREENBERG:
+
+EN
+
+Yes. Now, when I say “drop off” – is that the end of your
+question?
+
+SEUN OJEDEJI:
+
+Yeah, the question, yes.
+
+ALAN GREENBERG:
+
+Okay. When I say “drop off,” I don’t mean they withdrew. I mean
+they got the least number of votes. They were the least preferred
+one. So if, for instance, there are ten candidates, you are only
+selected by one of the voters as your preference, as their
+preference. If that’s the lowest number that anyone got, you will
+be dropped off – nothing personal – and the person or people
+who voted for you, if they said Dave is our second candidate,
+then Dave gets promoted to now being a first candidate.
+Everyone gets pushed up in the list and the calculation is done
+over again.
+Further questions? Kaili.
+
+KAILI KAN:
+
+Yeah. Thank you, Alan. Yeah. I think just you mentioned about
+the random process, that whatever mechanics we were talking
+about. Just in principle, I do not agree with random processes in
+our election process. The reason for that is that we’re not
+
+Page 31 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+deciding who is going to pay for the dinner. We’re deciding on
+much more serious issue, because as I understand, ALAC, we
+represent the opinions of end users of the Internet today. And
+we cannot make that kind of random process. It actually makes
+our election like a joke. So especially regarding to the Board
+member, even more so. Thank you.
+
+ALAN GREENBERG:
+
+Thank you, Kaili. In all of the decision processes we have, we try
+for other mechanisms. Random is a last resort, and as you’ll see
+as we go forward, we go to extreme pains to either not use
+random or make it a process that is verifiable by anyone that it is
+not hooked up. One intervention per person at this point, please.
+So, yes, we try to avoid random. But we do have an even number
+of electors and we cannot guarantee that we can convince
+everyone to change votes. Remember, this is the first stage
+reducing to three. We are not at the stage where we’re selecting
+the director at this point.
+If we had 15 people, which the original group designing this
+voting mechanism suggested we do, and we only have 20
+electors, we’re almost guaranteeing there will be ties along the
+way. We don’t have six months to vote, so this was a process. We
+are not going to change the basic process at this point. Some
+day, we should have the discussion of, do we have the right
+
+Page 32 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+electors, do we have the right selection process. All we’re doing
+is fixing the problems we found in previous rounds right now.
+So let’s restrict the discussion to those kind of topics. Is there
+anyone else who would like to intervene on this item? Seeing
+none, we will go onto the next item.
+The next one is the reduction of three candidates to two. Now,
+the STV process we’re looking at could take 15 or 300 candidates
+and reduce it to the winner. It does it through a process that is
+less than transparent to someone who is not familiar with STV
+processes. It’s documentable, but less than transparent. And it
+could end up making the final decision by random choice. We do
+not do that. We reduce to three. Then we reduce to two.
+Now, the problem with reducing from three to two is it is
+possible, and in fact has happened, to have a tie for the bottom
+candidate. There are a number of processes which one could use
+to get from three to two. We outlined four different processes.
+The drafting group outlined four different processes. The
+processes are:
+Number one, as a first step, we re-run the whole three-way
+election and see if there’s a different result. Because people
+have seen the results, they may change their vote.
+
+Page 33 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+Option number two, take the two people who were tied and
+have a runoff between them. That has the issue that the people
+who voted for the leading candidate now have a vote and they
+can decide how to use it for the two candidates they didn’t want
+to begin with. They could pick the best one of they could pick
+the weakest one, their choice.
+Option number three, there will be no re-run. If there is a tie, it
+will be resolved by a random selection.
+Option number four, we use the same method as for the
+previous step to eliminate from three to two. That means we
+may end up with a random selection and, if we do, it is done
+internal to the system. It is not auditable.
+In the discussion online, I went on record as saying I prefer
+option number one. The majority of people who spoke up
+selected option number two.
+I would first like to ask, is there anyone who needs any
+clarification of what the four options are? And I see two hands
+up. Kaili. This is not to voice your opinion of what you prefer. It’s
+asking for clarification questions. Seun. So we have no one
+asking for any clarification. We do have someone asking for
+clarification. All right.
+
+Page 34 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+At this point, I believe through a completely unscientific process,
+that the majority of this group would prefer – and when I say
+“this group,” it is the ALAC members who are voting or who are
+choosing – I believe I heard one person agree with me on option
+one. I heard at least five or six people say they prefer option two.
+I heard no one voice anything for option three and four. Does
+that coincide? Does anyone think that I have misread the
+situation? Kaili?
+
+KAILI KAN:
+
+I believe in the e-mail exchanges, there is the fifth option could
+be decided by the ALT and that is, I am for that option.
+Also, I would want to remind everybody that Ariel’s theorem, the
+Nobel Prize theorem, has proven theoretically that democracy
+can only go so long, so far. So when democracy cannot decide,
+it’s not by flipping a coin, but that is why we have republics for
+the Congress to decide for the people and so forth. So I am for
+the fifth option. Please include that, and I do not agree with all
+the four of those that you mentioned. Thank you.
+
+ALAN GREENBERG:
+
+Thank you, Kaili. I did err that you had raised that issue and I
+didn’t note that.
+
+Page 35 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+I would like to take a quick straw poll. When you say the ALT, I
+am also presuming that we will have to have the discussion on
+what if one of the members of the ALT is running and things like
+that. So if we prefer the ALT as the option to reduce, to eliminate
+ties, we will have to have that discussion. I would like to have a
+straw poll of the audience, of the ALAC right now. Is there
+anybody who supports Kaili in saying the ALT or slight
+modification of it be used instead of random choice to resolve
+ties? Can we have a count please?
+
+UNIDENTIFIED FEMALE:
+
+Five.
+
+ALAN GREENBERG:
+
+And how many ALAC members do we have in this group?
+
+HEIDI ULLRICH:
+
+We have 14, including the proxy of Wafa. Oh, and Jimmy just left.
+Oh, and the proxy for Jimmy has been given to Sandra.
+
+ALAN GREENBERG:
+
+Was Sandra one of the ones with a hand up? No. So we have five
+out of 14 who would prefer to see that.
+
+Page 36 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+KAILI KAN:
+
+Can we see hands against?
+
+ALAN GREENBERG:
+
+Can we see the hands again? Is that what you asked?
+
+KAILI KAN:
+
+Against ALT deciding. Some could be…
+
+ALAN GREENBERG:
+
+All right. You’re correct. Against. The question is anyone who
+wants to restrict it to the four options and not add a fifth. My
+hand is up.
+For the record, I would like to say why I voted that way. I
+personally think that would not be a bad way of doing it. If any
+race were to be determined by that, we would be inundated with
+statements of favoritism, the old guard wins, people only keep
+their friends there. As much as I dislike using a random selection,
+the repercussions of having the ALT do it, I think, would be
+worse not for valid democratic reasons. I believe you are exactly
+the correct. The people that we appoint should be able to make
+decisions. But the way it would be perceived, I believe, would
+damage us.
+Okay. Sorry?
+
+Page 37 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+Is Sebastien on this particular question? You want to make a
+statement? Go ahead.
+
+SEBASTIEN BACHOLLET:
+
+As you may have noticed, I pressed five [inaudible] and I didn’t
+participate for the vote and I will not participate to any votes
+relating to election of the bottom member as I was a candidate
+and since the beginning, I have decided not to participate to any
+things relating to the organization of the election of the Board
+member by At-Large. Thank you.
+
+ALAN GREENBERG:
+
+Thank you, Sebastien. Noted, I presume.
+Any other issues related to the fifth option that Kaili had
+introduced?
+We are back on the four options. Any request for any
+clarifications on them again now that we have only four? Seun,
+go ahead.
+
+SEUN OJEDEJI:
+
+Thank you very much. I just wanted to be sure about option two
+because it’s different from what is detailed in the e-mail you
+sent. I want to be sure that after the runoff, the initial runoff, if
+
+Page 38 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+there is a tie, the random selection will be done, because it’s not
+notated in the edits.
+
+ALAN GREENBERG:
+
+We are talking about the situation where there are three people.
+There will be a three-way election.
+I guess I really care about that part.
+There will be a three-way election. If there is a tie, if there is time,
+it is a BMSPC decision. There will be a runoff. In option two,
+there will be a runoff between the two candidates who tied. If
+there is still a tie, it reverts to random selection at that point, an
+auditable random selection. Auditable means that it’s not
+someone flipping a coin and you have to trust them doing it
+fairly. A random method will be used such that you, yourself, can
+verify that we did the random selection according to our rules.
+There are such methods.
+Do we have any more questions for clarification?
+All right. I’m going to try to do this easily. But if not, we will do it
+in a more complex. I sense that option two is the preferred
+option. May I see a show of hands of those who prefer option
+two? Tijani doesn’t prefer it with either of his votes.
+
+Page 39 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+TIJANI BEN JEMAA:
+
+Please repeat. I was...
+
+ALAN GREENBERG:
+
+I know.
+
+UNIDENTIFIED FEMALE:
+
+Can you state what option two is for the record?
+
+ALAN GREENBERG:
+
+Yes. Option two is if there is a tie in the three-way race, if there’s
+a tie for the bottom, then there will be a two-way race between
+the two who are tied to decide the outcome. If there is a tie
+again in a two-way race, it will be a random selection.
+
+SEUN OJEDEJI:
+
+Yeah. May I?
+
+ALAN GREENBERG:
+
+Yes, please.
+
+SEUN OJEDEJI:
+
+Option two in the edit says replace – I like that sentence – if
+there is a tie for last position and if sufficient time remains, the
+[inaudible] will have the runoff election among the tied
+candidates. That’s what it says.
+
+Page 40 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+UNIDENTIFIED MALE:
+
+That is correct.
+
+SEUN OJEDEJI:
+
+But where is the second phase where you just mentioned? The
+second phase of if the tie also exists the second time, they will
+have a random selection, verifiable random selection.
+
+ALAN GREENBERG:
+
+That is section number 19.11.6. If there is no time to run the tied
+election over again or it is still tied, then a random selection will
+be used.
+
+UNIDENTIFIED MALE:
+
+Verifiable.
+
+ALAN GREENBERG:
+
+Sorry?
+
+UNIDENTIFIED FEMALE:
+
+Verifiable.
+
+ALAN GREENBERG:
+
+Verifiable, yes.
+
+Page 41 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+Tijani?
+
+TIJANI BEN JEMAA:
+
+Thank you very much, Alan. The difference between option one
+and option two, we are speaking here about we run the tiebreaking between all the candidates or between the tied
+candidates. This is the difference. So after that, if we still have a
+tie, the random method we have, [inaudible], etc. This is the
+other thing. We use it for any tie. But here, the difference
+between one and two is that. Shall we hold it between all the
+candidates or only the tied candidates? Thank you.
+
+ALAN GREENBERG:
+
+I ask the question again. I believe the sense of the group is
+option two is the preferred one. May I see a show of hands of
+those who prefer option two? And Sandra, you’re holding up
+two? No. Oh sorry, I didn’t notice Jimmy was there.
+I presume someone is recording who these people are, not just
+counting.
+
+UNIDENTIFIED FEMALE:
+
+Yes, I am. I’m just trying to…
+
+ALAN GREENBERG:
+
+I’m just asking.
+
+Page 42 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+Okay. We have an absolute majority of the sitting ALAC, and
+certainly of those here who are voting, selecting option two.
+Does anyone see a necessity of going through the other options
+one by one?
+Are you saying yes by raising your hand? You would like to see
+the other options, select, voted for one by one?
+
+KAILI KAN:
+
+I would like to have a chance for me to cast my vote as being
+abstain. Thank you. Actually, that was my first time not to vote
+yes.
+
+ALAN GREENBERG:
+
+All right. My mistake. Is there anyone who would like to abstain
+from this vote? I believe Sebastien has already recorded his
+decision to abstain. We have Kaili. We have Jimmy. Our rules for
+abstention allow people to give a reason if necessary, if they feel
+it is appropriate. I would ask you to convey that to staff and it
+will be recorded in the record.
+Sebastien, go ahead.
+
+SEBASTIEN BACHOLLET:
+
+Just half a sentence. If you want, technically, I am abstaining but
+I am, my wish is not to participate to this vote. That’s for me in a
+
+Page 43 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+French election type. I am not here if you want to imagine that.
+That’s my, no participation.
+
+ALAN GREENBERG:
+
+Thank you for that clarification. My misunderstanding. Thank
+you. Appreciate that. Sandra, go ahead.
+
+SANDRA HOFERICHTER:
+
+Sebastien, why are you not participating? I mean, you are a fully
+elected ALAC member and what’s the… I don’t see the conflict of
+interest. I would like to understand it.
+
+SEBASTIEN BACHOLLET:
+
+Maybe it’s not the right time to do that because we are short of
+time, but I am ready to explain that. But it will not change from
+now to next meeting.
+
+ALAN GREENBERG:
+
+He has chosen to recuse himself from the discussion. He is
+allowed to do that. Kaili, go ahead.
+
+KAILI KAN:
+
+I fully observe and the resource of the voting and I go with that.
+However, I’d like to point out, again, I believe that we’re leaving
+
+Page 44 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+some pitfalls for the future that we, I hope not, but I believe that
+we may regret sometime in the future. Thank you.
+
+ALAN GREENBERG:
+
+Thank you. I, too, do not want to be around the day we use a
+random selection. But so be it. That is a purely personal vote.
+Tijani, go ahead. We have nine minutes and we still have a way
+to go.
+
+TIJANI BEN JEMAA:
+
+Sorry, Alan. We didn’t vote about the random selection. We
+voted about the tie-breaking should be run among the whole
+candidates or only among the tied candidates.
+
+ALAN GREENBERG:
+
+Noted.
+The next change is a very minor one but an important one, and it
+re-emphasizes something that was in the original plans but
+wasn’t documented in the rules. That is at every stage along the
+way, we publish the output, we publish the results of
+intermediate stages so electors can perhaps change their views
+based on how their candidate fared in that previous round. And
+that change is made at all of the levels.
+
+Page 45 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+The next change is 19.11.6. It is the paragraph that specifies that
+in the event that we have no time or we have exceeded the
+reruns, that we will use a random selection. That part is not up
+for question. The change only says that the method will not rely
+on trusted agents, but will use verifiable methods. Any
+comments? Seun, go ahead.
+
+SEUN OJEDEJI:
+
+Yeah. Just mine, I would prefer the word “verifiable” be added.
+
+ALAN GREENBERG:
+
+It says “can be independently verified.” Is that not sufficient?
+Thank you. Any other questions on this one?
+Next one is 19. Sorry.
+
+UNIDENTIFIED FEMALE:
+
+Dev.
+
+ALAN GREENBERG:
+
+Dev.
+
+DEV ANAND TEELUCKSINGH: Hi. Just a clarification. Why is 19.11.4 struck out or is that an old
+version of the text? It’s redlined but I thought it should be back
+in.
+
+Page 46 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+ALAN GREENBERG:
+
+EN
+
+I’m not quite sure what version you’re looking at. The number is
+struck out. That’s an anomaly of Word when you eliminate. It’s
+not struck out. It’s underlined which means it’s new but that’s an
+anomaly of Word, just like the highlighting of it when you
+incorporate the changes, it all becomes right.
+
+DEV ANAND TEELUCKSINGH: So they’re saying that if there’s not time to run for the tied
+election over again as called for in 19.11.4 and 19.11.5.
+
+ALAN GREENBERG:
+
+Sorry. We’ll make sure that if there is a random selection
+necessary, that it will refer to it.
+Yes, you’re correct. Sorry. In the previous version, that was not
+applicable before we had the options. And I will note that we
+need 19.11.6 should make it correct, whatever correct is. Correct
+means it applies wherever there’s a random selection. I’m sorry,
+wherever there is a rerun. Thank you, Dev.
+The last one in this section is the one that says, “If multiple
+voting rounds are necessary and if the schedule permits, there
+should be time for discussion between the rounds.” In the past,
+we have for whatever reason at that time, the rounds have
+
+Page 47 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+immediately followed each other. Since in at least some cases
+and specifically, the RALO Chairs, they may need an opportunity
+to discuss with an electorate, and even for the ALAC members
+even though their vote cannot be directed, there may well be a
+reason either to discuss with their agents or to discuss with
+other ALAC members.
+So this says, again, it’s a discretionary thing of the BMSPC. But if
+we’re not tight against the target for having to submit the results
+to the, what was the Chair, the Secretary of the Board and will
+now be if the transition goes ahead to the Empowered
+Community, then there should be time allowed, a breather to
+allow people to discuss things. Is there any discussion on this?
+Jean-Jacques.
+
+JEAN-JACQUES SUBRENAT: Thank you. A minor point, but as a non-Northern American, I’d
+just like to point out that the concept, but also the expression
+“random” is connotated. It sounds like you flip a coin or you go
+through a calculation machine and you take whatever it is. Yeah.
+But so that means two things. Either you have to change the
+expression because you think the system is valid in any case or
+you have to tweak the system and choose the appropriate
+expression. But I’m going to say that coming from, let’s say,
+
+Page 48 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+Europe, it doesn’t sound like the most democratic procedure.
+Thanks.
+
+ALAN GREENBERG:
+
+I’m sorry. What doesn’t sound like the most democratic
+procedure?
+
+JEAN-JACQUES SUBRENAT: Random.
+
+ALAN GREENBERG:
+
+We have already determined that it is not the most democratic
+procedure. We have voted on that already. We’re not going to go
+back, not today. There’s an opportunity in the future to revise
+this whole thing. Some of us find parts of this overall procedure
+completely inappropriate. It was the result of a very major
+compromise, [inaudible] compromise after a very spirited
+discussion a number of years ago. We are making the
+adjustments we can. If there is a will to revise the whole
+procedure, we will do that, but not time-constrained as we re
+today. Thank you very much.
+We are effectively out of time. I believe there are only two places
+where there are changes that must be made – one, two – if
+necessary on careful re-reading to make the correction that Dev
+
+Page 49 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+pointed out. And I’m still not 100% sure, but I’ll do it when I’m
+more calm, and anyone else can do the same.
+And Tijani requested that, and I don’t believe anyone objected
+to it – I don’t know if we actually had a vote, but let me repeat
+the request. The original text for 19.8 says that the BSMPC and
+the BCEC will essentially create the rules, procedures, guidelines
+under which they will work, and they will be ratified, they need
+to be ratified by the ALAC. Tijani’s version is silent on who
+creates the original rules and simply says they must be approved
+by the ALAC. That doesn’t preclude the ALAC asking those
+committees to come up with the first draft of those things, but it
+doesn’t mandate them to do that.
+One of the effects of that, and I know the one that Tijani is
+aiming at, is that it implies that each BMSPC and BCEC does not
+necessarily come in cold and just re-determine their rules. So the
+previous rules will be used unless they can show cause why need
+to be changed, in which case, we can go through the process.
+Tijani, do you have any input on this? We have one minute left.
+
+TIJANI BEN JEMAA:
+
+Very, very short. What I understand is that the guidelines must
+be the accumulation of the experience of the whole round. So
+we have to establish guidelines for all the rounds and those
+guidelines can be updated, modified any time we need it, so
+
+Page 50 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+BMSPC and BCEC can ask to modify the guidelines. That’s why I
+prefer that the guidelines be done by the whole community,
+ALAC, and according to the experience we have already. And if
+there is something to add or to change, yes, we can change it.
+
+ALAN GREENBERG:
+
+Thank you. I will note in this. We’ve only had two of these
+selection processes. And in the second one, which Tijani, he did
+run the BMSPC for, we had some problem identifying the older,
+the rules and guidelines that were used in the previous
+selection. That will not happen again. But the point is still taken.
+In any process to create a set of rules and guidelines, you can
+say it’s determined by a group of 15 or 25 or 400 people. The
+actual drafting has to be done by two or three people, with other
+people commenting on it. That’s the reality of drafting. All we’re
+doing here is making it slightly less specific to give more
+flexibility, but saying the ALAC has ultimate choice.
+Holly, I don’t know what you’re asking.
+
+HOLLY RAICHE:
+
+Page 51 of 53
+
+Do we need to vote on that or can we just [inaudible]?
+
+HELSINKI – At-Large Leadership Work Session
+
+ALAN GREENBERG:
+
+EN
+
+We’re not voting. We’re only voting when there is disputes. I
+don’t here anyone disputing. We are done.
+
+UNIDENTIFIED FEMALE:
+
+[Inaudible] housekeeping.
+
+ALAN GREENBERG:
+
+We are done on reviewing these processes. The two paragraphs
+that need to be revised will be revised, and a revised motion will
+be put to the group, to the ALAC, under our section later on
+today on decisions to be taken.
+We did not go through the sections that preceded number 19
+that there were draft changes to. The motion will suitably note
+that. I do note that I will be bringing those back to the ALAC very
+soon, so you may want to take the opportunity to look at them
+and decide how we’re going to have that conversation. That
+conversation will be had electronically and during an ALAC
+meeting. We will not have the opportunity between now and the
+possible transition of IANA and therefore, any further changes
+will have to be done remotely.
+I thank you all. Sorry, I’m just trying to see what we have. We
+have a break for 15 minutes and when we come back, we have
+our CEO, Chairman of the Board, and David Olive here. We will
+start on time, even if the room is empty, because the room won’t
+
+Page 52 of 53
+
+HELSINKI – At-Large Leadership Work Session
+
+EN
+
+be empty. I’ll be here. I don’t mind dominating the conversation.
+But if you choose to participate in the conversation, you will be
+back on time. Thank you.
+
+GISELLA GRUBER:
+
+Sorry, that 15 minutes is actually 10 minutes because we’ve run
+over by three minutes. So just if we could all be back at 10:45
+sharp please, as we have our senior management joining us.
+Thank you.
+
+[END OF TRANSCRIPTION]
+
+Page 53 of 53
+
+

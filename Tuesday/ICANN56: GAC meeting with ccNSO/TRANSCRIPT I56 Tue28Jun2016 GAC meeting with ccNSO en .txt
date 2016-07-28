@@ -1,0 +1,1464 @@
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+Tuesday, June 28, 2016 – 15:15 to 16:15 EEST
+ICANN56 | Helsinki, Finland
+
+THOMAS SCHNEIDER:
+
+Please sit down, we are going to start.
+
+OLOF NORDLING:
+
+Just for clarity, this is going to be the GAC and the ccNSO
+meeting. So if you're looking for something else, well, go look
+somewhere else.
+
+THOMAS SCHNEIDER:
+
+Thank you very much. So this is our meeting with the ccNSO
+which is taking place in the afternoon because there was not
+time for this in the morning. And it's, of course, an open meeting
+to everybody who's interested in what we discuss. I don't want
+to lose more time talking. Just give the floor to Katrina, the new
+chair of the ccNSO.
+
+KATRINA SATAKI:
+
+Good afternoon. My name is Katrina Sataki. I'm the chair of the
+ccNSO and we're very glad to be here today with a one-hour
+session -- one-hour long session with two interesting topics for
+discussion. And I think without any further adieu we will start
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+with our short report on the ccNSO PDPs. Becky, may I give you
+the floor?
+
+BECKY BURR:
+
+Thank you very much. And it's nice to be here. I -- you guys
+probably are getting sick of seeing me and Bart up here to
+provide an update on what seems like the endless work on
+ccTLD delegation, revocation, and transfers. We started this
+work probably six years ago with a delegation and redelegation
+working group.
+
+We had participants from the GAC in that
+
+process, and as part of that we did a kind of comprehensive
+review of delegations and what we then called redelegations to
+understand how IANA was handling them, to identify areas
+where we seemed to have a kind of moving target and not very
+predictable program where the provisions of RFC 1591 had been
+applied differently over time and we kind of cataloged that
+process.
+Following our work on that, we created the Framework of
+Interpretation Working Group. Again, there were GAC observers
+participating in that process, that several-year process, and our
+goal was to understand, before we contemplated any policy
+development area, just what it was RFC 1591 says. We also had
+as reference documents the GAC principles on ccTLD
+delegation/redelegation, and we delivered to the community
+
+Page 2 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+something called a Framework of Interpretation that articulated
+a sort of -- a common understanding for applying RFC 1591 in
+the context of delegation, revocation, and transfer.
+That Framework of Interpretation was adopted by the board,
+and we are now in the process of implementing the -- the
+mechanisms that were identified as part of the Framework of
+Interpretation.
+
+But hopefully the world is getting more
+
+predictable for all ccTLD stakeholders with respect to the
+delegation, revocation, and transfer arrangements.
+As part of that process we identified two areas where RFC 1591
+just didn't really provide guidance and where it appeared that
+guidance or mechanisms were needed. And the first is that ISO
+3166-1, which is the authoritative list for two-letter country
+codes, is obviously not static. New two-letter codes come onto
+the list and two-letter codes go off of the list over time. And in
+particular with respect to codes that were removed from the
+3166-1 list, there is no guidance on retirement of ccTLDs once
+they -- once the country code has been replaced or modified. So
+that is one area where we know we have a guidance gap and
+where those issues have come up and they have been dealt with
+but -- and I'm not saying not in a satisfactory way, but it's very
+difficult to know how they're going to be dealt with because
+there are no policies out there.
+
+Page 3 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+The other aspect of this is that RFC 1591 itself provides that del -that ccTLD operators should be able to appeal or call for a
+review if a delegation is revoked, for example. And --- Jon Postel
+essentially was the mechanism for many years, but there was
+never a formalized review mechanism that was created. And so
+the -- the recommendation coming out of the Framework of
+Interpretation was that that was another area in which policy
+needed to be developed.
+That became a little bit more urgent in connection with the IANA
+transition where we were also calling for binding review
+processes and for enhancing the Independent Review Process in
+general.
+Looking at that the ccTLD -- ccNSO, after consultation with the
+CC community, both members and non-members, concluded
+that we did not want the Independent Review Process, or the
+IRP, to apply to delegations, revocations, and transfers with
+respect to ccTLDs until such time -- until and unless policy was
+developed in order to establish the standards and the rules by
+which that kind of review mechanism would be implemented.
+So here in -- this week we are -- the ccNSO will be issuing -- will
+be considering a resolution, a council resolution, to call for the
+creation of an issue report to address -- for policy development
+with respect to retirement of ccTLD two-letter codes and for
+
+Page 4 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+dispute resolution mechanisms with respect to revocation and
+for -- we will -- the resolution will provide for the creation of an
+issue report to be considered in Hyderabad and designation of
+an issue manager.
+
+We will be appointing a council
+
+implementation oversight team for -- for -- to assist the issue
+manager, Bart, and drafting the issue report. And that will be a
+CC manager from every region -- one from every -- from all of our
+regions plus a NomCom councillor. And we will be considering
+this at the council meeting on --
+
+BART BOSWINKEL:
+
+Thursday.
+
+BECKY BURR:
+
+Thursday. Obviously the GAC has been -- we've tried very hard
+to make sure that we're keeping the GAC updated on this and
+welcomed participation in the working group so far and input
+going forward will be very important to us. So I'm going to ask
+Bart, who just disappeared, to make it easier for that
+participation to walk you through the process through which we
+will develop the issues -- issue report and to talk a little bit about
+some of the questions that we'll have to answer in Hyderabad.
+
+Page 5 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+BART BOSWINKEL:
+
+Thank you, Becky. Can you start the slides, next slide, please.
+Okay. In order to -- as you will be very aware, the ccNSO hardly
+runs ccNSO policy development processes. So I'll take you
+through some of the steps that are described in the ICANN
+bylaws Annex B around this process and I'll end with, say, the
+formal and informal ways in how the Government Advisory
+Committee and its members, either individually or as a group,
+get involved in that process.
+
+So if you look at the policy
+
+development process in the ccNSO you can effectively identify
+three stages. The first stage, that's the launch, that's what we'll
+be discussing -- or what the ccNSO council will be discussing at
+this meeting in Helsinki and that starts with the council decision
+to request an issue report. The issue report is a description of
+the issues, assessment of the timelines involved, assessment of
+whether the issues are within the scope of the ccNSO and then
+the end stage of this one -- and that's by Hyderabad -- is the
+decision to initiate the ccNSO PDP. So there is a clear distinction
+between launching and initiating. That will be relevant in a
+moment as well.
+So stage two, that's really the development of the policy. This is
+where the community really gets involved and based on the
+issues
+
+report
+
+starts
+
+developing
+
+the
+
+policy
+
+and
+
+the
+
+recommendations. And it starts with an interim report by the
+working group, will be put out for public comments and input,
+
+Page 6 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+may end in a final report or may end in a subsequential interim
+report that's more or less up to the working group itself. And
+then the final stage -- and that's particularly relevant for at least
+the ccTLD community -- it starts with the final report. Once
+that's been adopted by the working group goes to the ccNSO
+council for adoption. But that's not the end of the process, and
+this distinguishes the ccNSO procedure, I would say, from the
+GNSO procedures is that the ccNSO membership, so the ccNSO
+membership, members, have to vote on the recommendations
+whether or not to adopt it.
+
+If they do not accept the
+
+recommendations, then it will not go through. And if they adopt
+it, then the board -- then the final report in the form of a board
+report will be submitted to the ICANN board of directors for
+consideration. Next slide, please.
+So characteristics of the PDP, this is another way of looking at
+the policy development process. If you look at it the experience
+to date has shown with all of the work of the ccNSO it is
+effectively determined by the development phase or the second
+stage of the process. And in the way the ccNSO is conducting
+this, these type of processes, it will include at a minimum two
+rounds of public comment and again with a minimum period of
+40 days of public comment it includes the analysis of the issues,
+development of the recommendations. And a very, very, very
+hopeful assessment of the timeline is a duration of six months,
+
+Page 7 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+but this is probably so optimistic, probably you have to multiply
+it by five or six to get a real understanding how long a ccNSO
+process takes.
+Stage three, as I said, includes the members vote, and again, this
+could take up to -- or the minimal duration is two months. The
+last PDP has taken -- the vote has taken three to four months
+because if you look at the annex C or Annex B it includes a
+members vote or quorum roll meaning that more -- 50% plus
+one of the ccNSO membership needs to take -- or participate in
+the first round of voting. Currently the ccNSO has 159 members.
+Hopefully by the end of this week it will be 160. So that means at
+least 80 members of the community need to vote in order to
+have a valid vote in the first round. If it's not -- if we don't meet
+the quorum rule, which happened the last time, we have to wait
+another month and then the -- an ordinary vote will happen.
+Next side, please.
+So looking more in depth and building on what Becky just said is
+there are two topics at stake which are related. One is the
+review mechanism and the other one is on the retirement of
+ccTLD. And the interrelation is that decisions with regard to
+retirement of ccTLD should -- potentially should get -- be subject
+to the review mechanism as well. And as Becky has alluded to,
+they are two areas within RFC 1591 where additional policy is
+needed.
+
+Page 8 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+So there is two ways of dealing with these interdependencies.
+One is, and the first method I'll allude to is a one and single PDP.
+So the way it will look most likely is the creation of two working
+groups, working group one on the review mechanism and
+working group two on the retirement, and most likely they will
+act sequentially, so one after the other. First on the review, and
+then on the retirement, and then revisit the review mechanism,
+if necessary.
+Now, one of the disadvantages, or advantages, depends on your
+view, is that this total package -- so the output of working group
+one and two, so on the review mechanism and the retirement -is subject to the members' vote.
+So only at the end, at the conclusion of the work on both topics
+the PDP will be closed and the members will vote on it and that
+is the closure of the PDP. And only at that stage it will be
+submitted to the ICANN Board.
+So you will have two. And this would extend the whole process
+probably by one year, one and a half year. That's the rough
+estimate based on some analysis.
+Next slide, please.
+A second method is to initiate two PDPs. Be aware, I use the
+word "initiate" because what will happen at this meeting, I'll
+
+Page 9 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+come to that in a minute, but this I meeting, the launch -- the
+PDP will be launched, and it will be an issue report both on the
+review mechanism and the retirement of ccTLDs. And this will
+be combined. Based on the, say, outcome of that issue report,
+the ccNSO Council will decide whether to initiate one or two
+PDPs. So the initiation of two PDPs could happen in Hyderabad
+or only one initiated, and at a later stage, the retirement PDP
+would be initiated.
+Again, the main difference, again, from a timing perspective is
+that there will be a members' vote at the end of PDP one and a
+members vote at the end of PDP two.
+Next slide, please.
+Now, in Marrakech the council consulted the ccTLD community
+present, and at the time, and from a logics perspective you
+would say start with the retirement because the review
+mechanism builds on or needs to take into account the review -or the output of the retirement process.
+
+However, the
+
+community in Marrakech, and that was confirmed again today,
+thinks the review mechanisms on the decisions around
+delegation, revocation and transfer has the highest priority.
+Therefore, we will start -- Whatever happens and whatever is the
+output of one or two PDPs will start with the review mechanism.
+
+Page 10 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+The community also expressed a preference for one PDP, but it
+was not as strong as for the highest priority. And also expressed
+to do as much as parallel as possible.
+Next slide, please.
+Now, Becky already said, so at this meeting, again, this morning
+we had a meeting in the ccNSO meeting room around this topic.
+What will happen at the Helsinki meeting is -- council meeting is
+there will be council decisions on, first of all, the request to an
+issue report.
+
+That really launches, kicks off the policy
+
+development process. And it will include a question around
+whether to initiate at the Hyderabad one or two PDPs. So at the
+Hyderabad meeting, it is envisioned that council will take a
+decision on that.
+In preparing the issue report, and this goes back to what Becky
+just said, what is the background of these topics is, first of all,
+what
+
+needs
+
+to
+
+be
+
+taken
+
+into
+
+consideration
+
+is
+
+the
+
+delegation/redelegation working group final report on the
+retirement of ccTLDs. This goes back to March 2011.
+The ccNSO Framework of Interpretation, RFC 1591, and what is
+probably very important, because there are some myths around
+it, a lack of understanding, overinterpretation, is the ISO3166
+standard, as such, and looking at the rules on assigning codes
+and especially on de-assigning codes and what will happen with
+
+Page 11 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+them because that determines a lot of the discussions around
+retirement of ccTLDs.
+And then finally, as Becky already said, the CWG Stewardship
+final report and Annex O includes a lot of material from a survey
+around -- with the ccTLD community on whether or not to
+include a review mechanism or use the IRP as proposed.
+Two other decisions Becky already alluded to is appointment of
+issue manager, and the appointment of the oversight
+committee, six councilors.
+Next slide, please.
+And this is the final slide, and this probably most important for
+you. What are -- As some of you will know, in the ccNSO PDP
+there are some formal points of interaction between the GAC
+and the policy development process as such. When it was
+drafted, it was included.
+Now, the first one is the moment -- as soon as the PDP is
+initiated, so at the Hyderabad meeting, the GAC will be formally
+asked to offer opinion or advice. That's the only statement in
+the policy development process.
+
+Probably it's alluding to
+
+interacting in the process. And when the final report is produced
+-- So at the end of either one or the -- the single process or the
+dual process, when the final report is submitted to the ccNSO
+
+Page 12 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+Council, so that kicks off stage three, the voting, the GAC will be
+requested to offer opinion or advice again. This happened with
+the IDN PDP, and we've used that mechanism in the past.
+So that's the formal way of interaction of the GAC with the policy
+development process.
+The second thing, and that's probably far more, say, in this area
+or this era of Cross-Community Working Groups and the
+experience we had around the Framework of Interpretation and
+the fast-track process is the informal participation.
+
+That's
+
+discussion on the issue report as it will be produced just before
+the Hyderabad meeting; participation, whatever manner
+feasible for individual GAC members, members of the GAC; and
+these type of sessions where we'll keep you apprised of what's
+happening within the -- in the policy development process.
+That's the end of the presentation. Becky over to you.
+
+BECKY BURR:
+
+Yes. We tend to do this very thoroughly and carefully, but it also
+is very helpful to us to have views of governments throughout
+this process. So we will, of course, be coming back here to keep
+you informed but also invite you to participate in working
+groups on this again in whatever fashion the GAC feels
+comfortable participating.
+
+Page 13 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+CHAIR SCHNEIDER:
+
+Thank you. I think this was a lot of information, but a lot of
+useful information. I'm sure some GAC members may have
+comments or questions.
+I see Norway.
+
+NORWAY:
+
+Yes.
+
+Thank you.
+
+And thanks for the presentation and the
+
+overview of the way ahead.
+I had, you know -- well, a couple of questions.
+One question is the background or rationale for initiating this.
+You said a little bit about it, but I can understand the rationale
+for the retirement of ccTLDs. That's no real documentation or
+processes for that. That's been discussed in the past in years
+back.
+But regarding the mechanisms for revocation and delegation
+transfers, there's a lot of policy documents already in existence.
+And of course I would ask GAC -- I would refer to our principles,
+the ccTLD principles. So that, of course -- they are already there
+and says that most of the policy regarding ccTLDs should be
+local policy according to national law.
+
+Page 14 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+So I was just -- With respect to that, I was just wondering what
+are the objectives and the rationale? What are you going to
+solve or what is the problem of the existing? Are there any
+malfunctioning local law arrangements or are there any issues
+between
+
+ccNSO
+
+and
+
+IANA
+
+in
+
+this
+
+respect
+
+regarding
+
+delegation/redelegation of ccTLDs that you want to fix? That are
+-- That's my question.
+Thank you.
+
+BECKY BURR:
+
+So, first of all, 1591, RFC 1591 itself describes the existence of a
+review mechanism. And this would be a mechanism to review
+IANA's actions. That also comes up because the actions of IANA
+as part of the CWG transition called for the ability to review this.
+Now of course none of this displaces the application of local
+national law and none of this displaces the application of the
+GAC principles where they apply.
+
+And of course the GAC
+
+principles apply where the ccTLD and the government have
+agreed that they apply.
+So this does not -- would not displace that. It would really not
+affect any transfers, which are defined in the RFC 1591 and
+explained in the IFO Framework of Interpretation where the
+current operator and the proposed new operator agree. And we
+
+Page 15 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+would expect that because in the first instance disputes about
+ccTLD operation should be resolved under local law, to the
+extent this is functioning properly, transfers should generally be
+voluntary, agreed upon transfers where a review mechanism
+would not be needed.
+So we are certainly hoping that this is not something that is
+needed to be used and called upon to be used many, many
+times.
+But there are ccTLDs that have been delegated, that were
+delegated before RFC 1591 came into existence. So we don't
+know quite what the terms and conditions apply there. So we
+need some review mechanism there.
+Presumably where the GAC's framework of -- the GAC's
+principles apply, where the government and the CC operator
+agree that those apply, there's also a dispute resolution
+mechanism. But for the rest, there's no mechanism to resolve
+disputes, although presumably, you know, operators can avail
+themselves of going to court.
+But this is a -- a mechanism to ensure due process for all in
+disputes regarding the transfer and revocation -- revocation and
+transfer.
+
+Page 16 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+CHAIR SCHNEIDER:
+
+Thank you.
+Next I have the United Kingdom and Iran.
+
+UNITED KINGDOM:
+
+Thank you, Chair.
+
+And thank you, Becky and Bart, for the
+
+presentation on this. It's been very helpful, actually, to me
+personally to catch up on an important area of work for the
+ccNSO.
+And it's interesting, actually, to see here an example of
+opportunity for the GAC to engage in policy development on the
+ccNSO side, actually.
+
+We've discussed and worked out
+
+procedures for the GNSO on early engagement in PDP so it's
+interesting to see this mirrored here.
+My question was really about the loading for us as the GAC,
+because this PDP has two elements. There's the retirement of
+CCs and also the review mechanisms for the delegation,
+revocation, and so on. And my sense or instinct is that the latter
+to be more meaty for us, but correct me if I'm wrong, because it
+will hit on issues like newly emerging independent countries
+requiring a delegation and so on. So situations, scenarios like
+that which we'd have to sort of give some careful thought to.
+On the other issue, retirement, I don't really have an immediate
+sense but, you know, the world does change, and I guess we
+
+Page 17 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+need to understand the process that would flow from a CC being
+retired.
+So in terms of the interaction as set out there, how do you see it
+in terms of relative loading on the two elements, and will there
+be an opportunity in the time frame for a really in-depth
+discussion face to face at one of the upcoming ICANN and GAC
+meetings?
+Thank you.
+
+BECKY BURR:
+
+So let me assure you that the way the ccNSO has approached
+issues -- these issues in the past, both in the delegation and
+redelegation
+
+working
+
+group
+
+and
+
+the
+
+Framework
+
+of
+
+Interpretation Working Group is we have operated from -- from a
+position of full consensus. As one of our members likes to say,
+consensus unless somebody's going to die in a ditch protesting
+it, high level of consensus. We never make decisions in the -about recommendations without two meetings so that we get
+all time zones into a discussion about it. We proceed quite
+carefully. I am absolutely confident that we will have several
+face-to-face meetings to discuss this as it -- as it moves forward.
+There is no likelihood that this could be sprung on you quickly.
+
+Page 18 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+CHAIR SCHNEIDER:
+
+Thank you. Iran.
+
+IRAN:
+
+Thank you very much for the presentation, and the thank you for
+the explanation, Becky. We all know that you're a very highly
+qualified expert in this area, and other area. I work with you for
+several months. I think the scope of application or objectives of
+this should be clearly mentioned. As I understood from you, and
+perhaps I had the same impression, the application is for limited
+cases. Is not for all cases. And the cases for which is mentioned,
+delegated before the 1591. That is the number one, but not after
+that. And also could you also clarify that whether it is applied
+equally for the member of -- non-member of ccTLD to the ccNSO
+because there are ccTLD that are not member whether they
+apply or not.
+And thirdly, the non-intervention of the national legislation of
+each country with respect to the ccTLD and most -- and last but
+most important, how you could perhaps involve or request or
+perhaps initiate a more involvement of the GAC.
+
+Dear
+
+colleagues, we know that the governments or people in the
+government, in GAC, they are very, very busy and sometimes it
+might be difficult to -- to express whatever they need to express
+in the correspondence. But at the physical meeting they have
+more ability, they have more options, because they come with
+
+Page 19 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+preparations, with instruction from the government and so on
+and so forth. How we could involve more GAC -- more involved
+GAC in the process. And I understand, lastly, that you advise in
+there. You do not refer to the noun of advice. Advise means
+comments, but not advice with capital A because I don't think
+that GAC would provide, up to this stage, any advice with capital
+A at this stage of the process. Give opinion, give comment, and
+so on and so forth.
+
+So it should not be interpreted or
+
+constituted as GAC advice because we would not say that later
+on because we have given our advice, capital A here, we don't
+have the possibility to give advice at a later stage to the ICANN
+board. So this question, if you could clarify, I would very much
+appreciate it. Thank you.
+
+BECKY BURR:
+
+So with respect to the last question, it is entirely up to the GAC
+when it gives advice. It's not advice unless you say it's advice.
+And that is entirely within your control. We would, of course,
+welcome comments, informal in -- you know, from individual
+members from the GAC as a whole all the way through the
+process. But it is entirely up to the GAC to determine when it
+gives its advice.
+With respect to the scope, I just want to be clear. We could not
+create a process that ccTLDs delegated before RFC 1591 would
+
+Page 20 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+be obligated to comply with. The terms and conditions of that
+delegation are -- frankly may vary quite widely.
+On the other side where countries, where governments and CC
+operators have a clear understanding under the -- the GAC
+principles, it may be that you have agreed on an alternative
+dispute resolution and to the extent that is effective under
+applicable law, the device -- the mechanism might not be
+available. However, the -- I can't imagine any circumstance in
+which the ccNSO would recommend a review mechanism that
+was limited to ccNSO members. Just to be clear, we have
+members but we afford essentially full rights to any ccNSO or
+any ccTLD operator, whether they have elected to be members
+or not. And that's a -- that distinguishes us in some ways, but it's
+a critical feature of the way. So in our operations, in our policy
+development, in our workings, whether you are a member of the
+ccNSO or not, you are permitted to participate, and so I cannot
+see a situation in which we would say this is -- this mechanism is
+only available for ccNSO members. Did I skip anything?
+
+CHAIR SCHNEIDER:
+
+Thank you, Becky. Further questions or comments on this issue?
+I can't see any hands raised. So we have a few -- Norway. Sorry.
+Please don't put your hands up like this.
+[ Laughter ]
+
+Page 21 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+Better. Much better.
+
+NORWAY:
+
+Thank you. Just a quick one. I am -- appreciate what you're
+wanting to do. I'm not certainly agreeing with you that the -- the
+only cases where the GAC principles are applicable is when the
+CC and the governments agree that they are applicable. The
+local law are applicable in any case. So just to -- just to make
+that distinction. But thank you for the further clarification of the
+intentions. Thank you.
+
+BECKY BURR:
+
+So let me -- let me assure you -- and this is reflected in the
+Framework of Interpretation report and in other things -- the
+ccNSO agrees that as a general rule disputes about operations of
+ccTLDs should be resolved in accordance with the relevant law
+and you're absolutely correct, of course, that there's nothing
+that the ccNSO could do that would prevent application of local
+law. We do have some places where there are gaps and -- and
+then the application of the CCW -- or of the GAC principles
+outside of those places where it's just a function of applicable
+law, that is just -- that's what the GAC principles say.
+
+CHAIR SCHNEIDER:
+
+Page 22 of 43
+
+Thank you. Further comments, questions? Iran.
+
+HELSINKI – GAC meeting with ccNSO
+
+IRAN:
+
+EN
+
+Yes. Becky, could you kindly comment that that very restrictive
+way you mentioned that the dispute will be under the national
+law I have seen that also having a qualifier, saying that based on
+the rules and procedures established by ICANN. Is that the case
+or not? Thank you.
+
+BECKY BURR:
+
+So I don't think, as a matter of law, ICANN can establish any
+qualifier that prevents or interferes with the application of
+applicable law. That's a function that exists outside of ICANN
+and outside of -- you know, if a ccTLD is within your jurisdiction
+and you -- you know, you meet all of the requirements for
+asserting jurisdiction over that within your jurisdiction,
+applicable law will prevail. So nothing we can do, even if we
+wanted to, can defeat the proper application of applicable law.
+
+CHAIR SCHNEIDER:
+
+Thank you. I think we could maybe move to the two other things
+that we have on our agenda for the last 15, 20 minutes. So who
+should I give the floor --
+
+UNKNOWN SPEAKER:
+
+Page 23 of 43
+
+Peter.
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+CHAIR SCHNEIDER:
+
+Peter, yeah.
+
+PETER VAN ROSTE:
+
+Thank you, Thomas. Good afternoon, everyone. My name is
+Peter Van Roste.
+
+I'm the general manager of Centr, the
+
+European ccTLD codes. A while ago, I think it's three years ago,
+Centr in collaboration with the other regional organizations, ran
+a survey on the organizational structures of ccTLD registries and
+the relationships they had with their governments. From the top
+of my head, I think about 80 ccTLDs across the globe responded
+to that survey. And as a follow-up, an initiative was taken by the
+GAC underserved regions working group to add to that and look
+into a couple of more specific issues.
+We were asked to have a short discussion about this and I see we
+have 15 minutes left. But I propose that maybe Alice or the cochairs from the working group can maybe give a quick
+introduction. And then we have a couple of fire starters, people
+from within the audience that have volunteered to share some
+views on that.
+But before I give the floor to Alice, I would like to see a quick
+show of hands from both the GAC people in this room and the CC
+people in this room. How many people are aware of that survey
+
+Page 24 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+or have seen it? Well no, how many people have seen the
+survey, the results? All right. And how many people were aware
+that the survey was taking place before the -- it was closed for
+responses?
+
+Maybe a dozen.
+
+So Alice, I think we're on to
+
+something here. And it could -- it could answer quite a -- quite a
+few of the questions that we had prepared for this. So the floor
+is yours.
+
+ALICE MUNYUA:
+
+Thank you very much. We conducted this survey in 2015, and
+the aim of the survey was really to share -- to collect and share
+information about best practice and lesson learned because it
+was felt there was a need to provide advice in this field, although
+we didn't quite get the level of responses we had expected.
+We wanted to identify the current challenges and the possibility
+of also developing best practice, of course in collaboration with
+the ccNSO. However, we only received about 23 completed
+surveys, as you can see from the hands raised, which is just
+under 15% of GAC members. Most of them came from Europe.
+11 respondents from Europe. Asia-Pacific, 7. And 5 from Africa.
+None from the other regions.
+Although having said that, we have a very good example of an
+MOU. Perhaps I'll ask my colleague from New Zealand to share
+
+Page 25 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+very briefly the example that they have, because that's another
+brilliant one.
+But most of the questions that we were asking on that survey
+were mostly around the form of ccTLD managers take in terms of
+is it nonprofit, academic, government managed. You know, their
+interpretation of what local Internet community is. Whether
+governments -- Who manages the ccTLD, if it's a government or
+it's -- the functions are outsourced. And the general relationship
+between the ccTLD manager and the government.
+And I won't get into the details of that, but what I think we
+promised when you send a request is we're going to make the
+results public and perhaps seek your collaboration in terms of us
+perhaps strengthening this study and making it more valuable
+and ensuring that we get more responses in the spirit of
+collaboration.
+But for now, I think I would like to invite my colleague from New
+Zealand to share our valuable MOU that she shared with us
+yesterday or today. That might be helpful to guide us in the
+further discussions on this.
+Thank you.
+New Zealand.
+
+Page 26 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+NEW ZEALAND:
+
+EN
+
+Yes, thank you, Alice.
+I'll just briefly describe the MOU that New Zealand has just
+concluded. For those of you who don't know, .NZ is run by a notfor-profit called Internet New Zealand. We have no national
+legislation, and until now we had no formal documentation on
+how we had a relationship with our CC manager.
+So building on the concept from the Underserved Regions
+Working Group, we wanted to demonstrate what we considered
+best practice for New Zealand and the lessons learned from
+discussions in the GAC over what hasn't worked in the past with
+CC management; to submit the institutional knowledge of how
+we work together in New Zealand for future analysts who sit in
+my role; and also to demonstrate to the New Zealand public how
+we maintain oversight of what is an independent organization in
+New Zealand.
+So the MOU which I've circulated to the GAC working group, and
+I understand is also available if you just Google .NZ domain
+management, describes the world as we see it. So it talks about
+the policies and principles we use with reference to RFC 1591,
+the Framework of Interpretation report, and the GAC principles.
+It talks about roles and responsibilities we have, and our shared
+objective in ensuring that the ccTLD is managing interests of the
+
+Page 27 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+local Internet community and what we mean by the local
+Internet community in New Zealand.
+I'll just -- You can all have a look at it and I'm happy to answer
+questions if you have any.
+
+I will say it was an interesting
+
+process. We have a good working relationship with our ccTLD,
+but it still took two years from concept to signature.
+We wanted to do it while our relationship is positive because it is
+very difficult to start these things when you are already in
+disagreement.
+And also just note that in the spirit of the B meeting, there is a
+ccNSO session tomorrow at 10:45 where you will be able to hear
+what our ccTLD manager thinks of the process that we just went
+through.
+Thank you.
+
+PETER VAN ROSTE:
+
+Thank you, New Zealand. Thank you, Alice.
+We have two speakers from the CC world that had a look at the
+survey and were happy to make some contributions. I suggest
+we start with BE. First we have Peter Vergote from DNS Belgium,
+and the Jan Vannieuwenhuyse from the Belgium Government
+Advisory Committee delegation.
+
+Page 28 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+Thank you.
+
+PETER VERGOTE:
+
+Thank you, Peter. Good afternoon, everybody. My name is Peter
+Vergote from .BE.
+When it comes down to the survey, and more specifically the
+relationships between the ccTLD within a certain country and
+the GAC representation of that country, I would like to
+emphasize on two key points that prove to be very valuable in
+our specific situation of Belgium. Obviously, this is a personal
+view for which I don't want to call it a mantra that is fit for
+everybody in this room, but the two key points I want to stress
+prove to be very important in developing relationships between
+us and the Belgium GAC representation.
+So I'm just putting them in front of you as they might provide
+valuable information for you as well.
+The first thing that I want to stress is know each other. I think -- I
+can be mistaken, but if I look at what has been going on in the
+past, I have this feeling that for still many countries, there is no
+immediate linkage between ccTLD and ccTLD staff and their GAC
+representation.
+People are coming to GAC -- to an ICANN meeting, but there is no
+exchange, there is no personal contact. And more importantly,
+
+Page 29 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+even if there is a very short and occasional contact, there is no
+follow-up in between ICANN meetings.
+Now, if you really want to work together, a ccTLD and local GAC
+representation, then I think you should start to reach out to each
+other and take the opportunity of ICANN meetings and other
+international fora to look out for each other, to sit down and to
+discuss certain topics of interest.
+So that's the first point I wanted to raise.
+The second point is it's not only about knowing each other. The
+more difficult thing is also understanding and having some
+empathy for each other's position. And this is, as we understood
+and we learned in Belgium, it's an evolving process.
+I mean, about ten years ago, we still had a bit the "us against
+them" feeling. Like we're the registry. We are supposed to run
+our operations, while we looked at our government as a
+potential intervenent.
+Well, this is absolutely not true.
+
+I mean, most of the
+
+governments are not remotely interested in intervening in the
+day-to-day operations for their ccTLDs. They are looking for
+something that is more higher in the priority list. It's to secure if
+something -- if something happens. If, for instance, the registry
+
+Page 30 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+fails and the country goes into a vacuum when it comes down to
+the management of the local ccTLD.
+So understanding this really helped us in coming to very good
+balance. Now in Belgium you have, in the legal framework, you
+have a certain set of principles which are just there in case of
+need but not tampering in any way with the day-to-day
+management and the state of affairs of the local ccTLD manager.
+So I think it that looking at those two principles or key points, in
+our case it helped. And maybe it can -- it can be inspirational in
+enhancing cooperation between individual GAC representations
+and their ccTLD manager.
+Thank you.
+
+PETER VAN ROSTE:
+
+Thank you, Peter.
+Jan.
+
+JAN VANNIEUWENHUYSE:
+
+Thank you very much, Chair. I also want to give my perspective
+as representative of the regulatory authority in Belgium.
+In Belgium, as has been said, we have in the law on electronic
+communications a framework in which the manager of .BE
+domain names, the registry, must operate. It only defines the
+
+Page 31 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+high-level principles which have to be followed by the registry
+and foresees an ultimate sanction in the possible redelegation
+to another not-for-profit entity.
+The (indiscernible) for Internet Electronic Communications
+which is responsible for electronic communications is also
+responsible for surveillance of this article in the legislation.
+And to our experience, although sometimes initial positions on
+public-policy issues -- one example was some time ago, the role
+of the DNS.BE, which has to be played by DNS.BE, in misuse and
+abuse of .BE names are different and discussions are difficult. At
+the end, we were always able to find a consensus which was and
+is acceptable for everyone.
+So for us as regulatory authority, up to now this model worked
+quite well. It works quite well. And we see us, main reasons for
+that that first of all, DNS as registry creates a lot of transparency
+and openness on everything, even on the very minor details.
+And the regulatory has an advisory seat in the board which
+facilitates this a lot.
+Furthermore, we have, since long time, this collaboration, so it's
+a kind of tradition of working together. And this results in a trust
+relationship, which is important. And, also, what I see is that
+board members of DNS.BE are very aware that the registry
+
+Page 32 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+operates and has to operate in the public interest, and as this
+reflects if decisions are taken.
+So of course, and just to end my intervention, this all depends
+on the people, but from our perspective, we hope we can
+continue on this path.
+Thank you.
+
+PETER VAN ROSTE:
+
+Thank you so much.
+As a last intervention -- I have Patricio Poblete from .CL, Chile.
+Patricio.
+
+PATRICIO POBLETE:
+
+Thank you, Peter. I am Patricio Poblete from NIC Chile, the
+domain name registry for .CL. And I believe surveys such as this
+one is a very useful thing to do because it help us better
+understand how things with right now and try to see where
+they're going and perhaps help them move in a good direction.
+The number of responses as I see that were received is not as
+high as one would have expected. The previous survey of the
+ccTLDs that Peter mentioned through something like 76
+responses. So it's quite a bit more.
+
+Page 33 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+I don't know if there are plans to ask again or in a future survey
+to try to reach a wider set of respondents because from a small
+sample, we risk getting a picture that doesn't really fit the
+reality.
+For instance, if we look at the profile of the respondents in this
+survey, about half of them are ccTLDs that are run directly by
+governments or in a very similar situation.
+In the previous larger survey mentioned by Peter, that fraction
+was about 20%.
+So there is a bit of overrepresentation of ccTLDs run by
+government that might bias the perception if we only went by
+these responses.
+So one of my hopes would be that in the future, we could get
+more people to answer, more governments. Hopefully all of
+them, or very close to that.
+On the other hand, people tend to answer when they have -when they are not really comfortable with the current situation,
+when they have issues. So perhaps no news is good news if we
+look at those that didn't reply.
+And in that sense, I would feel if it is true that many of the
+governments in the world are not really uneasy with the setup
+that they have right now, that would be a good thing in the
+
+Page 34 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+sense that one of the things that we value the most in regard to
+the Internet is stability. If things are working right now, we
+should think very well before introducing a move in a direction
+that might lead us into instability and perhaps effects that we
+didn't really foresee when we did that.
+So stability will counsel us to look very carefully into changes
+that we might want to make. Not that we would never make any
+changes, because if things are not working, we need to fix that.
+And speaking a bit from my own experience in Chile, we have
+been doing this for a very long time. Ours is a very old ccTLD,
+and over the years we have developed a very good working
+relationship with the government, and perhaps I would say with
+the governments because they have a tendency to change from
+time to time. We are -- one of our activities every four years or so
+is to get to know who is in charge right now, who the minister is,
+who the undersecretary and the -- getting them to know what
+we do, how we do it. And there are many mechanisms in place
+that regulate the way domains are delegated and perhaps they
+are revoked if the case might be. And we now have FoI which is a
+very -- it's a great improvement in making things more
+understandable for everyone. But at the end of the day, the
+principle reason why in our country we have stability in terms of
+the DNS is because there is a perception that the domain name
+registrations are working well, that the processes that are in
+
+Page 35 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+place are efficient, that domain name registrations are
+reasonably inexpensive so the community in general accepts the
+situation as it is and is reasonably happy with it and that there
+are ways for them to get everybody to know when somebody is
+not happy with the situation. We have an advisory council that's
+with participation from the government and from the private
+sector. The council was actually created by government decree.
+So we have reached a situation that's very stable, and nobody is
+really proposing that we should change that radically. And I
+would suppose that that's the case in many places in the world.
+In the case of where that's not the situation, where there are
+reasons to ask or to hope for a change, I think that FoI is -- is the
+-- a document that now that it exists we should get to know it
+carefully. It's now being implemented. The IANA should take
+that as its guide when it comes to delegations, revocations, and
+transfers and new delegations. So I think we -- with the FoI we
+are in a much better situation than we were before.
+
+PETER VAN ROSTE:
+
+Thank you, Patricio. Alice, you had a comment. Thank you.
+
+ALICE MUNYUA:
+
+Thank you, and thank you for that question. One of the roles of
+the underserved working group -- GAC underserved working
+
+Page 36 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+group is capacity building. And one of the reasons -- one of the
+reasons and aims of this survey was -- was to do exactly that. It
+was to gather information requested by some governments so
+that they could derive some lessons from the uniform best
+practice that they could adopt in their situation. So it was in no
+way -- the survey was in no way aimed at trying to change
+anything, and we acknowledge that the FoI does exist and we
+did contribute to it.
+But also taking into consideration the very few responses we
+got, I think it might be worth reviewing it again at this point,
+especially within that context of the underserved working group.
+We may conduct a survey that might go deeper into requesting
+what GAC members may want to see in terms of building
+capacity in this area. So I just want to let you know that it wasn't
+meant -- the survey wasn't meant to change anything. It was
+more as a contribution to capacity building, which is the role of
+the underserved regions working group. Thanks.
+
+PETER VAN ROSTE:
+
+All right. No more questions? Iran.
+
+IRAN:
+
+Yes. Just I want to embark on the two issues that we have
+raised, and it is important to highlight that. One is, from our
+
+Page 37 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+colleague on the podium, it was mentioned that if the
+mechanism is in place, it works, don't change it until a problem
+is reported -- sorry, unless a problem is identified, reported, and
+recognized to be a problem. So don't change it. It's working.
+That's one sign of the coin. The other side of the coin that
+maybe have a relation with that, there is no contact or very little
+contact that's in the ccTLD manager and the local GAC people
+until they come to the GAC meeting. Even they come to the GAC
+meeting one is one room, the other is in the other room. There is
+no communication so therefore you have to -- if not intervening
+in the internal affairs of the country, at least identify the need for
+a closer collaboration and coordination. So this is two things
+that we have to mention. Thank you.
+
+PETER VAN ROSTE:
+
+Next question U.K.
+
+UNITED KINGDOM:
+
+Thanks very much. I just wanted to illustrate the U.K. approach
+to interaction between the government and the ccTLD registry.
+In our case Nominet which runs .U.K. We don't have a regulatory
+framework for the -- what we -- we set up three years ago a
+multistakeholder advisory group on Internet governance,
+comprises about 40 stakeholders. That covers the whole roster
+of Internet governance policy area. And within that group we
+
+Page 38 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+have a subgroup that looks at ICANN issues, domain names,
+IANA stewardship transition, and so on. And within that group is
+-- Nominet is represented -- represented, and that is the -- I
+guess the primary mechanism for us to interact from the
+ministry with -- with Nominet on the whole thrust of ICANN
+policy issues in anticipation of these meetings and in relation to
+ongoing ICANN processes and so on. So we find that mechanism
+works well for us in maintaining close contact, understanding of
+the GAC agenda, and ccNSO priorities and so on. Hope that's
+helpful. Thank you.
+
+PETER VAN ROSTE:
+
+It is indeed. Thank you so much. One more comment, Egypt?
+
+EGYPT:
+
+Yes, thank you. Manal Ismail from Egypt. Just a very quick
+question on the statistics part and whether the figures reflect
+the number of governments who responded or the number of
+ccTLD responded for because we, for one, we have submitted
+two responses, one for the IDN ccTLD and one for the ASCII one.
+So just to -- thank you.
+
+Page 39 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+ALICE MUNYUA:
+
+EN
+
+We took that into consideration that yes, there were two
+responses from Egypt and we have seven from the Africa region
+and Egypt responded to two, yes.
+
+PETER VAN ROSTE:
+
+All right. Thank you so much. No more questions. Once, twice.
+So I think from -- when we started off the debate there was, I
+think, clearly a lack both in particular probably in the ccTLD part
+of this room but also in the GAC part, maybe a lack of awareness
+of the survey and its intentions. I think that we heard a couple of
+good stories of those that collaborated not just on the survey
+but more in general on a day-to-day basis and that good
+cooperation is typically based on knowing the people and not
+just meeting them at the ICANN meetings but also making sure
+that in between those ICANN meetings those relationships are
+maintained and followed up on.
+I thought it was an interesting discussion. I still welcome all
+suggestions on how CCs can help you to improve the response
+rate to that survey or how we can help you with our experience
+on running surveys to ccTLDs. We've been doing that for 20
+years now, on how to function surveys and make them easier to
+respond to. So thank you so much. Over to the chair.
+
+Page 40 of 43
+
+EN
+
+HELSINKI – GAC meeting with ccNSO
+
+CHAIR SCHNEIDER:
+
+Your thing is still on, your microphone. Thank you, Peter. Before
+we conclude, Spain has a quick question that may be interesting
+also for the ccTLDs. I think we should give Gema one minute to
+ask -- half a minute to ask the question and another half to
+answer it.
+
+SPAIN:
+
+It's really quick.
+
+You may have noticed that I'm on the
+
+mitigation plans proposed by registries to avoid confusion
+between the use of two-letter names in the second level of new
+gTLDs and country codes few of registries proposed to conduct
+phased delegation periods, sort of sunrise periods, in which they
+could give priority to ccTLDs to register those names in the first
+place. Has the ccNSOs have a view on this? What experience do
+ccTLDs have with prior fixed delegation periods that were
+conducted with pre-2012 new gTLDs. Thank you.
+
+UNKNOWN SPEAKER:
+
+We could run a survey perhaps.
+
+BECKY BURR:
+
+We actually have looked at this question and asked this question
+over the years. There is an enormous diversity of views on this
+issue within the ccNSO. Some members would want to take
+
+Page 41 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+EN
+
+advantage of that. Others would -- would not. So there is no
+consensus view in the ccNSO on that.
+
+BART BOSWINKEL:
+
+Maybe in addition to that I think this question was asked at the
+first Singapore meeting sometime -- some years ago and there
+was a whole session on that between the GAC and the ccNSO,
+and different ccTLD managers at the time shared their
+experience around this topic. So I can go back and look at, say,
+the session. And in my view, I think it was transcribed as well,
+and I think the views at the time have not changed, maybe a
+little bit more liberal by now. So I'll check and say the session
+between the ccNSO and the GAC when this came up as well. This
+was just before or around --
+
+CHAIR SCHNEIDER:
+
+2011 or something like that.
+
+BART BOSWINKEL:
+
+Yeah.
+
+CHAIR SCHNEIDER:
+
+Okay, thank you very much. I think that was an interesting
+pointed. So we're slightly over time, so I just would like to say
+thank you and, yeah, let's continue dialogue. That's it.
+
+Page 42 of 43
+
+HELSINKI – GAC meeting with ccNSO
+
+KATRINA SATAKI:
+
+EN
+
+Thank you very much for having us here.
+[ Applause ]
+I just wanted to say that at 5:00 p.m. we -- in our ccNSO room,
+it's Veranda two, it's a slightly smaller room, but we're going to
+run another cross-community session and we're going to talk
+about the operational side of ICANN. If you're interested -- and
+we really anticipate a very interesting discussion on this topic,
+so if you're interested you're warmly welcome.
+
+OLOF NORDLING:
+
+And in direct competition with that at 5:00 starts the crosscommunity session on new gTLD subsequent procedures in this
+room. At -- 1700 hours or 5:00 p.m., whatever you prefer.
+
+[END OF TRANSCRIPTION]
+
+Page 43 of 43
+
+

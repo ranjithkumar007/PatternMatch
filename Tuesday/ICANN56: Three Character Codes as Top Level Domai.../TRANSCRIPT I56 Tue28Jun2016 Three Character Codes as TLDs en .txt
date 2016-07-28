@@ -1,0 +1,1015 @@
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+Tuesday, June 28, 2016 – 12:00 to 12:30 EEST
+ICANN56 | Helsinki, Finland
+
+CHAIR SCHNEIDER:
+
+Gema, are you ready? Yes, great. Because we have one last
+session before our lunch break.
+Thank you.
+Which is same same but different, as people say in Thailand. It's
+similar to what we discussed yesterday but it's not exactly the
+same. It's about the three-character codes as TLDs. While we
+had two-character codes as SLDs yesterday, so it sounds similar
+but it is slightly different.
+And I'd like to hand over to Gema from Spain. She has been
+spending quite some time and energy in dealing with this issue,
+and thank you very much, Gema, for taking over.
+
+GEMA CAMPILLOS:
+
+Thank you. We have a brief presentation. Can it be uploaded?
+Meanwhile, and not to lose time, I will try to focus the discussion
+on this issue by separating it from yesterday's conversation.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+Today we are dealing with any domain name, second-level
+domain name, that is registered under a three-letter code, which
+could be supposedly a new new gTLD.
+The issue here is to what extent three-letter codes, specifically
+codes in the ISO3166 Alpha-3 codes could be registered as new
+gTLDs.
+This possibility was excluded in the Applicant Guidebook. So no
+applicant could apply for ISO3166 Alpha-3 code. For instance,
+the one for Spain is ESP.
+Now there is a working group, joint, Cross-Community Working
+Group sponsored by ccNSO and GNSO that was formed to study
+the feasibility of allows three-letter codes as gTLDs in future new
+gTLD rounds.
+
+They will also study the feasibility of having
+
+country names as top-level domains, but they have not started
+the study on this issue. They are now focusing on three-letter
+codes.
+So this working group sent a questionnaire to different SOs and
+ACs in the month of September last year to gather input as to
+whether these three-letter codes to be allowed or not.
+The questionnaire covered all three-letter codes. Not only the
+ones on the ISO list. And covered, also, three-letter codes in IDN
+characters, not only ASCII characters.
+
+Page 2 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+The GAC replied to that questionnaire on December last year.
+We provided initial input, and that initial intellectual property
+reflected the variety of views among GAC members.
+I underline some of the statements that were supported by most
+of the GAC members.
+We, as the GAC, or most -- sorry. Most GAC members showed
+support for keeping the current protection; that is, keeping
+three-letter codes aside from being delegated as gTLDs. And the
+reason why is because many GAC members think that there is a
+strong association among users between those three-letter
+codes and the corresponding country or territory, and that risk
+of confusion should be avoided. The confusion could extend
+also to the ccTLDs. The user could not be able to tell whether
+that domain -- that top-level domain is a ccTLD or is a gTLD,
+because in his mind, he would associate that letter code, threeletter code, with a country.
+It's important to note that of three-character names, there are
+17,576 combination -- possible combinations, and ISO codes
+only account for 300. So 300 names could be out of -- out of the - of their use as gTLDs.
+In Marrakech last March, this Joint Working Group issued a socalled straw woman paper with a possible approach to the
+release of those three-character combinations as gTLDs. So in
+
+Page 3 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+this paper, they explained the reasons why in future rounds
+three-letter codes, ISO three-letter codes -- they are only dealing
+in this straw woman proposal with ISO three-letter codes -could be available as gTLDs.
+The work -- The GAC working group on geo names, the one that
+is chaired by Olga Cavalli, I don't think she is here now, has
+prepared a response to this straw woman paper. And in this
+paper, we explain the reasons -- in this response, we explain the
+reasons why the current protections should be upheld in next
+rounds.
+As this response has been prepared by a working group, it is
+submitted now to the whole GAC for endorsement following the
+guidelines for the operation of working groups in the GAC.
+So the questions that are put forward to you now is to comment
+on this -- this response, this draft response that has been sent to
+you with the briefing package, or not. Maybe -- Olga distributed
+it on the mailing list, but it is available to anyone.
+And then I think there is a session on the protection of country
+and other geographic names tomorrow, although I'm not sure if
+this session is hosted by the working group that I have been
+talking about, the Cross-Community Working Group.
+
+But it
+
+could be an opportunity for interested members to express their
+views as regards to this issue.
+
+Page 4 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+And I remind that there are six GAC members that are following
+this cross-constituency working group, but you are -- others are
+also invited to join this working group and defend their
+positions.
+So with that, I open the floor to you, to hear from you on this
+draft response, whether you support it or not. And that's all.
+
+CHAIR SCHNEIDER:
+
+Just one thing. Thank you very much, Gema. Since we have a
+little bit more time for this session, and remembering that
+yesterday's session on the two-character codes on second-level
+domain, there were many requests for the floor -- in particular,
+from developing countries -- I would suggest that we use the last
+ten minutes or 15 minutes, depending on how this goes, to give
+the floor to those who have not been able to speak and express
+their views on the two-character codes discussion of yesterday,
+because that was very short and we had to cut the line of
+speakers, and that is unfortunate.
+So those who have wanted to take the floor on that yesterday, I
+think we should give you at least ten minutes at the end of this
+session to make your voices heard.
+So thank you, and I give back to Gema. And the floor is open to
+you.
+
+Page 5 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+GEMA CAMPILLOS:
+
+EN
+
+I see Denmark, Sweden.
+So Denmark, please.
+
+DENMARK:
+
+Thank you. And thank you for the presentation.
+We have put some comments in the process and received some
+answers on Friday. And we still have some comments to the
+proposal. So we will propose a certain amendment to it.
+I can say -- I can say what the oral suggestion will be.
+First of all, if I understood you right, and you said yourself, that
+the straw woman's paper was only on the ISO codes. So I think
+our response should only focus on the ISO codes. So that is one
+thing.
+
+Other three-letter codes seems also, in one way or
+
+another, to be mentioned here and included.
+The other point is that it is still stated that there is sovereignty
+issues connected with this, and I have -- I have difficulty to see
+what kind of sovereignty issues which are involved here. So we
+would like to see that that part of the proposal will be deleted.
+And on the second page, the two last points, I have difficulty to
+see what we are aiming at. The first part of bullet -- the last
+bullet, and the bullet before that. Especially, to be frank, I don't
+Page 6 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+understand the contractual restriction to use of top-level
+domain names consisting of ISO codes are difficult to enforce. I
+don't know. If it's contractual, why couldn't it be enforced? So I
+really don't understand the first part of it, and we think it would
+be appropriate to delete it. The same with the last bullet and
+the first part of that bullet in our view should also be deleted.
+Thank you.
+
+GEMA CAMPILLOS:
+
+Sorry, Finn. Could you repeat what parts of the last -- of your
+last comments, what do you think should be deleted? Can you
+repeat that, please?
+
+DENMARK:
+
+Yes. If you take the last bullet, then delete from "the
+importance" and down to "fair," "we can have fair, transparent,
+and appropriate policies." So the first part of that. And also on - on the bullet above, if we delete the first part of it, "contractual
+restrictions" and down to "on the other hand," "then on the
+other hand" should be rephrased. So that is what we would like
+to see deleted.
+We would also like to see deleted any reference to sovereignty
+issues because we don't understand that, and we will also like
+
+Page 7 of 31
+
+EN
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+that the paper only focuses on the ISO codes. I think it's clearer
+now.
+
+GEMA CAMPILLOS:
+
+Thank you for clarifying. Then I have Sweden and Iran. And then
+Norway. Sweden declines. So next Iran. Kavouss?
+
+IRAN:
+
+Yes. Thank you, Gema. Are you dealing with the two -- the ccTLD
+to the use of the ccTLD in the second level or you're talking of
+the two letters? Which one you're discussing?
+
+GEMA CAMPILLOS:
+
+Now we are on the top-level.
+
+IRAN:
+
+When there is a proposal to delete something, you just take your
+proposal but don't delete it directly because we have to agree to
+delete something. I don't think that on the proposal we should
+delete or retain. This is number one.
+Number two, we had at various occasions mentioned.
+That we have difficulty with the principle used in the ICANN for
+that. As you mentioned yesterday, we need explicit agreement
+of the country but not implicit agreement.
+
+Page 8 of 31
+
+If there's any
+
+EN
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+question or request and after deadline of two months there is no
+reply, this should not be considered as agreement. Because of
+the difficulty of developing countries.
+
+I am developing
+
+countries. We have difficulty to reply within the two months.
+This should not be understood or construed that we agree. It
+should be construed that disagreement further to discussions.
+This is very serious problems. And as mentioned yesterday,
+there are many things that are the top-level domains used for
+people, they want to use the, for instance, .IR for some things,
+for the strings, that we don't agree with that. You remember
+that the GAC had this agreed in one string totally, but NTIA was
+given to that, saying that this is the situation. We don't oppose
+to what has been done before. But this is very serious issue. The
+resale is very serious issue. You give it to someone, you agree,
+but you don't know who sell it to someone else. The abuse is
+very important.
+
+So as I mentioned yesterday, we need to
+
+indicate that this is still under discussions. We have not yet
+completed. What you mentioned yesterday is important. We
+need to inject the explicit agreement rather than implicit
+agreement. And we need to discuss the issue of resale, issue of
+the abuse, and many other things.
+completed. Thank you.
+
+Page 9 of 31
+
+So this issue is not
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+GEMA CAMPILLOS:
+
+EN
+
+Norway and Indonesia. After Norway, if you don't mind, I would
+like to comment on what Denmark has said. Yeah, but Norway
+now.
+
+NORWAY:
+
+Yes. Thank you, Gema. We just want to -- we support in general
+this -- this paper to be -- before we can agree on minor changes.
+That's not a problem. But I think it's important in our view to
+focus on the main issue that this document says, that the threeletter country codes can be strongly associated with relevant
+country and the existing ccTLDs. And therefore, the conclusion
+is very important, that we do not want to lift the protection of
+the current three-letter country codes. I think that's the main
+issue and in our view that's -- that's very important. And also we
+want to underline that also in light of all the discussions we have
+had on protection of country and territory names in general, I
+think it would be not wise at all to open up for new top-level
+domains for these three-letter codes. So I just want to again say
+that the conclusion in this paper is quite important to maintain
+the current protection of the three-letter country codes. Thank
+you.
+
+GEMA CAMPILLOS:
+
+Thank you. I take note that Netherlands is asking for the floor. I
+would like to react quickly to some of Denmark's comments.
+
+Page 10 of 31
+
+EN
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+About the sovereignty issue, Iran gave me an example. The
+sovereignty concerns over three-letter codes are mentioned
+here because many countries consider this so intertwined with
+their identity that they think it is a sovereign right of the country
+to decide whether others should use the identifier for the
+country or not. This is mentioned here because of that reason.
+But there is also another reason.
+
+The position of Iran, for
+
+instance, is that they could require explicit consent by the
+country to use that domain name, that TLD.
+If you remember the Applicant Guidebook geographic TLDs
+needed the recommendation of support or not objection by the
+relevant government. What happens if a territory which is not
+an independent one is applied by a registry to become a gTLD?
+If the rule is maintained, ICANN could require a recommendation
+of support or non-objection by the relevant government. In case
+of disagreement between the -- the colony, so to say, and the -the mother country, the metropolis, ICANN could have a very
+difficult decision to make and that could affect especially ICANN.
+This is the second reason why sovereignty issues are mentioned
+here, because we don't want ICANN to get into trouble with -with countries in this respect. And the contractual restric -- the
+difficulty to enforce contractual restrictions is because in the
+proposal, in the straw woman paper, they say that -- their
+conclusion is that three-letter codes could be used as gTLDs on
+
+Page 11 of 31
+
+EN
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+the condition that the legal entity applying for the string must
+not market the TLD in competition with the existing twocharacter TLD. That condition, we think that it's difficult to
+enforce. How can you determine that the gTLD in this case is
+being used in competition or with the intention to cause
+confusion with the ccTLD.
+
+It requires somewhat subject --
+
+subjective judgments. And what happens if a ccTLD registry
+wants to apply for that three-letter code?
+
+Could that be
+
+prevented from using it as a ccTLD or what happens if a
+government applies for the corresponding three-letter code?
+Could not be the government allowed to use that name for
+geographic purposes or whatever? That's the reason why it is
+stated that these contractual restrictions would be difficult to
+deal with. I pause here, and I have Indonesia.
+
+INDONESIA:
+
+Yes. Thank you, Gema. Yesterday you mentioned that if a new
+two-letter names is proposed and so on and the country needs
+time to consider that -- yeah, sorry. Yesterday you mentioned
+about if two-letter is proposed and the countries cannot
+respond in the time there will be a problem and yesterday you
+mentioned that silence doesn't mean agreement. And because
+of that, my friend from Iran also mentioned that sometimes in
+some countries they may need more than two weeks or three
+weeks or whatever to respond. Now, I would like to know what
+
+Page 12 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+is your group's idea to overcome this because some countries
+might need more than a few more weeks to do that, to respond.
+And even in some countries may not be able to respond as well
+for many reasons, then we have to find out a way out for that.
+Secondly, like Mr.-- the previous speaker, Mr. Jonathan
+mentioned about the accreditation, it's -- in your group you also
+do something like considering accreditation system for the
+ccTLD operators.
+
+If the operators cannot -- or the country
+
+cannot respond in a few weeks and so on, that will also affect
+some sort of accreditation of the TLD operators like what
+Jonathan mentioned just a few moments ago about
+accreditation that can affect a country if they give information to
+the law enforcement agencies which is not in line with the
+regulations. Okay, thank you.
+
+GEMA CAMPILLOS:
+
+About the time needed by governments to express their views on
+the use or their identifiers, I don't think that's the issue right now
+on three -- on the use of three-letter codes as TLDs. We are just
+thinking whether we want the current protection to be lifted or
+not. This is a simple decision or -- not simple but it's a simple
+question to ask. We are not now asking whether governments
+should react or not. Just simply there is a prohibition on the
+Applicant Guidebook and the proposal put forward by the cross-
+
+Page 13 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+constituency working group is to lift it. And we are discussing
+here whether to lift it or not. So I think your question now is -- is
+not very relevant. But I can take you -- take that up with you
+bilaterally if you wish.
+And on the second question of accreditation, I'm awfully sorry
+about that. I don't really understand what you mean. But again,
+as time is of the essence, I can try to understand it bilaterally
+with you afterwards.
+Then I have the Netherlands.
+
+NETHERLANDS:
+
+Yes, thank you, Gema. I agree completely with your last remarks
+in the sense I was going to say this also. The question now is as
+you said, do we need a decision on this? No, we don't need a
+decision. We just have to convey our concerns on the potential
+lifting of, let's say, this restriction. And, again, I think we -- one
+thing I'm missing is what is the need?
+
+Are there special
+
+applications or registry business plans who would meet this
+lifting? And then we can talk further, I think, because then we
+can look at whether we should accommodate these. It's not like
+the general decision, "Okay, let's lift one restriction." So I would
+like to know more about, yeah, let's say, what kind of
+communities or maybe ISO countries because I could expect
+that in one country, one ccTLD is saturated and you might need
+
+Page 14 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+a second code to alleviate and to give more of your habitants or
+businesses more chances to register the name. So there could
+be a lot of things that are behind it. But I don't understand still
+the need for it. Thank you.
+
+GEMA CAMPILLOS:
+
+Japan.
+
+CHINA:
+
+It's China.
+
+GEMA CAMPILLOS:
+
+I'm so sorry. Go ahead.
+
+CHINA:
+
+Thanks. Thanks, Gema. First of all, thank you for leading this
+work in GAC. And at present stage on this issue, we have quickly
+go through the paper, very quickly, very brief, but not go into
+detail very much.
+Presently, we are of the view on this issue that the three-letter
+country codes should be protected for sure and should be
+associated with two-letter country code unless a country or a
+particular territory has open view on its own three-letter country
+code, unless a particular country or territory is open for its own
+country code. That's it. Thank you.
+
+Page 15 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+GEMA CAMPILLOS:
+
+EN
+
+Thank you. Thank you, Netherlands, as well. I didn't thank you
+before.
+Sweden, please.
+
+SWEDEN:
+
+Thank you, Gema. So getting up to speed, we're asked to react
+on a proposal that came on Friday which was before this
+weekend, which gives us very -- very little time. It's not very
+satisfactory.
+As a general comment, Sweden is positive to make use of threeletter codes. We can see that some countries have issues with
+that, but we would be interested in finding a way of doing that.
+It has been possible for two-letter codes on second level. So we
+believe it should be possible to do three-letter codes on top level
+as well.
+Whether or not we support to give this as comments from the
+GAC, it doesn't seem to me from reading the paper that it has the
+shape and form to be handed over as GAC comments or GAC
+input. It looks more like an internal character. So for us it's hard
+to support this as a response at this time. Thank you.
+
+Page 16 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+GEMA CAMPILLOS:
+
+EN
+
+Thank you, Sweden.
+Iran, please.
+
+IRAN:
+
+Thank you, Gema. The question is as follows. You mentioned a
+very constructive and simple way protection to be retained or to
+be lifted.
+There are three options. Option one, the issue is still under
+study until we finish our study.
+Option two, it could be lifted for those countries that they
+explicitly announce that the ccTLD does not require protection
+in this area.
+Third, you put it that the delegation of that should be subject to
+explicit agreements of the countries. So there is no black and
+white. There are many options between the three things but
+perhaps one which say that could be lifted with respect to those
+who announce explicitly that they have no disagreement with
+respect to the lifting or waiving the protection. That simplifies
+the issue of many countries who have no problems and also
+simplifies the countries that have difficulties, difficulties that
+they have not yet -- the issue has not yet been studied, many
+issues, abuse, (indiscernible), and many other things.
+
+Page 17 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+So I don't think that you have a simple answer yes or no. There
+are a variety of options. So maybe I come back to my first option
+that still the issue is under study. And we could also indicate
+that to the ICANN board, that do not decide on this until the
+study is completed and they have clear advice from GAC in one
+way or another. Thank you.
+
+GEMA CAMPILLOS:
+
+Thank you. Thank you very much, Iran.
+There was one at the back. Are you Mr. Morris? Okay. You have
+the floor.
+
+TAIWAN:
+
+Thank you, Gema. I'm Morris Lin Mao-Shong from Taiwan. This
+is my first GAC meeting. I'm very glad to hear so many different
+opinions. Like many other colleagues say, Taiwan also believe
+people tend to naturally associate some three-character country
+code with some specific country so that the location of a threecharacter code as a TLD should be more careful. It is important
+to balance public interest in the business demand, and we
+understand it takes time to find a mutually beneficial solution.
+We appreciate and welcome the starting point for discussion in
+the strawman paper.
+
+Page 18 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+However, for the time being, we think the (indiscernible) of
+applicant guidebook is still a good one before we find a better
+approach. Thank you.
+
+GEMA CAMPILLOS:
+
+Thank you very much.
+Now, I have Wanawit from Thailand.
+
+THAILAND:
+
+Thank you. I will make it brief. I also do support what Iran
+proposed. We have to be in the study stage, especially the
+experience we have on application guidebooks.
+I have a concern on the procedures of geographicals, especially
+the terms they use, that the applicant should have the
+agreements or support or non-objection from the relevant
+government agency.
+The problem there is that if you read the next clause, there's no
+obligation. They use the words "applicant may consult GAC
+representative." Which relevant government? And you will find
+out they can go to the ministry of something that's not related to
+the Internet at all. They aren't aware of the public policies that
+led to this. They can go to the Ministry of Livestock or Ministry of
+Agricultures and get the support letters. Is that government
+
+Page 19 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+agency who is going to tell it is relevant? And there are no
+specific clauses specifying to the applicant that they must
+consult the GAC. I don't get the reasons why they don't put
+application there. In the country that do not have the GAC, I fully
+understand who are going to make a decision on which relevant
+governments involved that can issue the support, a nonobjection letter. In Thailand case, we are used to dealing with
+six ministers, each issue non-objection letters. None of them is
+coming from the Ministry of ICT.
+That are some of the aspects. It's very early stage if we adopt
+the geographical chapters and using the terms specified in the
+application guidebook -- because this is not the geographical as
+a whole country. And for our legal frameworks, we start working
+out this. Even have to go to the parliament because that's the
+only way because it treat as the agreements between no matter
+it's private entity or somebody against the national asset, that
+you need to go through the parliament. Thank you.
+
+GEMA CAMPILLOS:
+
+Thank you, Thailand.
+The last persons in the queue are Norway and Gabon, if I'm not
+mistaken. And then we need to finish this discussion to leave
+some room for the other issue.
+
+Page 20 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+Norway.
+
+NORWAY:
+
+Thank you. Thank you, Gema. When you went through all the
+different types of potential, say, difficulties that we might go into
+if we lift this, I think it's interesting to see that it is -- a lot of
+issues is not how governments have said yes or no and it's about
+other issues that I think we need to think more about before we
+lift something. This is about lifting. This is about changing the
+current situation, which for now is preserving some sort of
+system of a distinction between the CCs and the gTLDs.
+And I think if we also are commenting on the comment from Iran
+that we have all kind of different solutions, yes, we have. But we
+will also create kind of, I think, more chaotic system or not a
+system or destroy the current system of the CCs and the Gs that
+are -- they have different agreements with ICANN. They are, in
+fact, different in nature. And we will see a more complicated mix
+of those if we lift the current situation.
+So for now, we think it's better to preserve it as it is. Thank you.
+
+GEMA CAMPILLOS:
+
+Gabon, please.
+Thank you, Norway.
+
+Page 21 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+GABON:
+
+EN
+
+Good morning to everyone. Thank you, Chair. We don't have
+much time.
+
+But we have been closely following all the
+
+interventions on such a delicate issue. And I would like to
+express my support to Iran's proposal to have more time to give
+an answer to this topic. Thank you.
+
+GEMA CAMPILLOS:
+
+Thank you for your concise comment.
+
+There is one more
+
+comment from a remote participant.
+
+REMOTE INTERVENTION:
+
+Yes, thank you, Chair. It is from Estonia, Timo Vohmar, stating
+that Estonia would like to start using it's three-letter country
+code, which is EST, and also stating that we also think that the
+three-letter codes are available as long as the country is not
+explicitly declared their non-interest in the country should be
+considered as ccTLD instead of as a gTLD. I hope that was clear.
+Thank you. End of comment.
+
+GEMA CAMPILLOS:
+
+We were to wrap up, but there was a hand at the back. Who is it?
+
+UNKNOWN SPEAKER:
+
+It's me.
+
+Page 22 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+GEMA CAMPILLOS:
+
+Okay.
+
+UNKNOWN SPEAKER:
+
+We also support Iran's proposal that we need more time to
+provide an answer. Thank you.
+
+CHAIR SCHNEIDER:
+
+Okay. Thank you. I think there is some indication about where
+potential concerns may be in terms of that every country in the
+end should be able to do with this as it wants as big idea. Those
+who want to use it should be able to use it. Those who want to
+keep it or give it to somebody else so that, basically, the
+sovereignty of the country to decide what to do with that name
+is something where we may go towards something that we
+could agree.
+The question is: Where are we in terms of the time line? Is this -are we supposed to give advice to the board now? Or would we
+rather address something to the cross-community working
+group that is dealing with country and territory names, which is
+organizing the session that I think we also participate -- is it
+tomorrow or today? This afternoon? It's tomorrow afternoon.
+
+Page 23 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+So I'm not fully clear, to be honest, whether it makes sense to
+give advice to the board now or whether we should rather
+engage with this working group and whoever else has an
+interest in this.
+So, Iran, maybe you have a clear vision on what the next steps
+are.
+
+IRAN:
+
+Thank you, Thomas. Yes, you are right we should not open -remain open this issue for years. So we have to have some time
+frame. Perhaps we specify that at our next meeting. Perhaps
+GAC will have a reply to that. For the time being, you have to
+study whether you study giving it to the working group or not.
+But that is something that among those study, the option 2 that I
+mentioned is a valid option. People put disclaimer that they
+don't want to be used or disclaimer another way, that they have
+no problem to be used. That is one option.
+But we do not give it right now. We further study to see whether
+there are other options, but we establish a time frame. Next
+meeting in Hyderabad we will give reply to the ICANN, to an
+appropriate GAC advice. In the meantime, we study.
+The way how to study is up to you and up to the chair of the
+group and so on and so forth to the discuss the options that I
+
+Page 24 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+have mentioned plus many other options. But we have to get it
+informed to the ICANN that for the time being, no action should
+be taken in this regard.
+
+We don't want to be before fait
+
+accompli, things has been done. No. Get hold. Don't do
+anything. Wait for us. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. Before giving you the floor, if I remember right, we
+have received a letter at some point in time from the working
+group that was asking us about some questions from the threeletter codes. And I think Norway prepared the draft, answered
+our proposal. That wasn't picked up because we are all buried
+with IANA transition and other stuff. So I think we have never
+really answered that letter. So I think the first step would be to
+engage -- Karine, am I right or am I wrong?
+We answered it so we gave a first reply. Have we received a reply
+on our reply? No.
+Okay. So but I think the next step would be to engage as many
+of us as can in the discussion, and then I know that, Olga, you
+are going to say that you're the only one so far that has been
+participating in the working group. Are we now more in the
+working group?
+
+Page 25 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+CHAIR SCHNEIDER:
+
+Okay. Of course.
+
+OLGA CAVALLI:
+
+Thank you, Chair.
+
+EN
+
+First of all, I would like to mention and to thank Norway and
+other countries, and Greece, but the most important thing is to
+thank Gema for her magnificent work with this issue because I
+was very busy with other things and she catch up with all this,
+drafting this document.
+So many thanks, Gema, for this.
+I think we should -- we should give some messages to the -- to
+the cross-community working group and I am not sure if perhaps
+we -- we should include something in the communique that we
+are reviewing this and this is an important thing for countries.
+I'm not sure if we still have a definitive idea of what the whole
+GAC wants, but some message should be sent.
+And no, I'm not the only one in the cross-community working
+group. Also Greece is participating, so they helped me through
+the IANA process. Thank you.
+
+Page 26 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+CHAIR SCHNEIDER:
+
+Thank you. Very briefly, Norway, if you still want --
+
+NORWAY:
+
+Well, yeah. Thank you.
+
+EN
+
+Just a quick comment. I think we also agree with Olga that we
+should provide a response, at least some views in what direction
+the GAC wants this to be.
+And just a quick comment to also support what Iran was saying.
+We are not defining how and when to go forward. This is a crosscommunity working group that we must actually respond into,
+to be able to interact, because they will then just go ahead and
+decide and recommend to the GNSO and then they will start to
+actually do this.
+And then the next issue this cross-community working group is
+going to discuss is opening up the country and territory names
+as top-level domains, not only the three-letter country codes.
+So we need to convey some ideas that we have to be cautious
+about lifting current protection, et cetera, in light of all the
+discussion we have had on protection of geographic names in
+general or -- or names or three-letter associated with our
+territories.
+
+Page 27 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+So one -- some kind of response, we should at least give. Not
+possibly, of course, a conclusion or the one way forward, but
+some concerns, at least, we should convey from the GAC. I think
+I've heard a lot of concerns about how to protect certain issues,
+if this is going to be lifted, so I think there is a consensus that we
+-- we have that, of course, as you said, shared that some
+countries want to use it as CCs. I think many countries do not
+want to use it as CCs. But of course this cross-community
+working group is discussing how to use these three-letter codes
+as generic top-level domains, not as CCs. That's not on the table
+yet. So thank you.
+
+GEMA CAMPILLOS:
+
+Thank you. Thank you very much. I understand from this
+conversation that the GAC as a whole doesn't endorse the
+response that has been drafted but I have a procedural
+question.
+Could it be possible for the GAC geo names working group to
+send that response on their own behalf, as a GAC working group,
+to the CCWG, or is this not possible?
+
+CHAIR SCHNEIDER:
+
+Well, the working groups, first of all, they would need to discuss
+and adopt the text as a draft that they would put up for
+
+Page 28 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+discussion, but I think the first step is, let's go to that meeting
+tomorrow. Let's discuss -- bring these issues up with regard to
+three-letter codes, with regard to country names, because in the
+end the principle is the same. You -- countries want to decide
+themselves what they do with the names that they think are
+linked to them, whether it's a two- or three- or four- or five- or
+whatever letter code. The principle, in the end, is the same. And
+engage with the working group and see where they are, and
+then I think we can have a discussion what is the best way, time
+line, and format, to engage.
+But I think we will know more after tomorrow's discussion, if we
+participate in that, if I can leave it here.
+We are five minutes over but I still would like to give the
+opportunity, if there is a wish for one or two statements
+regarding the two-letter code discussion on second-level, if
+there's -- somebody wants.
+Iran, please be short. Make your points. Thank you.
+
+IRAN:
+
+Yes.
+
+Short, making my points, the same procedure, same
+
+problem stays with the alpha 2 and alpha 3 codes, so the same
+procedures. We should say we are studying that but I still
+
+Page 29 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+believe that we should indicate in a qualifying manner some
+time frame. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Iran.
+Other requests on the two-letter codes on second level?
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+CHAIR SCHNEIDER:
+
+Yes, Olga.
+
+OLGA CAVALLI:
+
+Thank you, Chair. If there are other countries that would like to
+also be part of the GAC representation in the cross-community
+working group of use of country and territory names as TLDs, it
+could be great.
+
+CHAIR SCHNEIDER:
+
+Thank you for that clear message.
+Other requests?
+So I think this is the end of this session, but please note that the
+two-character code discussion on second-level domains is at a
+
+Page 30 of 31
+
+HELSINKI – Three-Character Codes as Top Level Domains (TLDs)
+
+EN
+
+different stage in process. They have already -- there have been
+release requests and so on, whereas what we've been discussing
+so far is something where there has -- no decision has been
+taken on how to deal with this in the future so we have to -- it's
+similar reasoning, it's similar concerns behind it, but there are
+different processes and there are different stages, so we have to
+be careful in the details.
+So with this, I'll let you go and have dinner. Lunch. Sorry.
+[ Laughter ]
+In French, it's different. So -- and we meet at 1:30, so it's a short
+break, but it's a short meeting, so we can also have short breaks.
+Okay. Thank you very much. See you soon.
+
+[END OF TRANSCRIPTION]
+
+Page 31 of 31
+
+

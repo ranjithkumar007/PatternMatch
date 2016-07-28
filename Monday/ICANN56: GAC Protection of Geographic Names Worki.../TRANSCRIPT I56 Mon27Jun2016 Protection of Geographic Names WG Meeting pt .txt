@@ -1,0 +1,1054 @@
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+Segunda-feira, 27 de junho de 2016 – 08:15 às 09:15 EEST
+ICANN56 | Helsinque, Finlândia
+
+OLGA CAVALLI:
+
+Bom dia a todos aqui, vamos começar daqui uns 30 segundos.
+Vai começar daqui 30 segundos, tomem seus assentos.
+Bom dia eu sou Olga Cavalli, representante da Argentina perante
+o GAC e também vice presidente do GAC e também coordeno
+dois grupos no GAC, um sobre proteção de nomes geográficos
+dos novos gTLDs que é o assunto de hoje de manhã aqui nessa
+sala e o outro é a participação do GAC no NomCom para a
+quinta feira. Oi para os tradutores, avisem se eu falar
+rapidamente, por favor, façam algum sinal e também peço
+paciência.
+Eu não dormi, eu assisti ao jogo de futebol. O Chile ganhou a
+Argentina perdeu estou um pouco triste mas parabenizo os
+colegas chilenos, irmãos da região, o trabalho da equipe chilena
+foi muito boa.
+Estou com um pouco de sono, mas tudo bem. Estamos
+concorrendo com a premiação Ethos Award. Vou apresentar
+
+Observação: O conteúdo deste documento é produto resultante da transcrição de um arquivo de áudio para
+um arquivo de texto. Ainda levando em conta que a transcrição é fiel ao áudio na sua maior proporção, em
+alguns casos pode estar incompleta ou inexata por falta de fidelidade do áudio, bem como pode ter sido
+corrigida gramaticalmente para melhorar a qualidade e compreensão do texto. Esta transcrição é
+proporcionada como material adicional ao arquivo de áudio, mas não deve ser considerada como registro
+official.
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+dois documentos, um é um documento PowerPoint que contém
+o que nós temos feito desde março e antes da reunião de março
+no Marrocos e nós focamos na transição da IANA, então
+preparamos um documento sobre interesse público.
+Também vamos focar nesse documento, mas não recebemos
+muitos telefonemas e começamos com as teleconferências
+depois da reunião de Marrakesh. Vou informar aqui o que nós
+falamos nessas teleconferências e as 9:15.
+Vou mencionar aqui um resumo sobre o que nós vamos falar
+acerca da reunião plenária do GAC, então se tiverem alguma
+pergunta que ficou aberta aqui então eu quero contar um pouco
+como foi esse processo. Ele foi criado desde o communique em
+Dublin, em julho de 2015 que declarou que a ICANN deveria
+trabalhar com o GAC para aprimorar as regras para evitar sobre
+as rodadas de novos gTLD, para evitar conflitos desde que
+tivemos na primeira rodada especialmente sobre alguns nomes
+de territórios que são importantes para algumas comunidades e
+alguns países em diferentes partes do mundo.
+Começamos a trabalhar na reunião de 2013 em Buenos Aires e
+produzimos alguns documentos. Um é um documento que foi
+apresentado antes da reunião de Singapura e que ficou aberto
+para comentários e que é uma novidade para o GAC. Ficou então
+
+Página 2 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+aberto para o período de comentários públicos, não o
+documento final do GAC, mas uma minuta.
+Recebemos muitos comentários, apresentamos um resumo dos
+comentários em Singapura em 2014, no ano seguinte. Depois
+dessa apresentação lemos as transcrições e decidimos que
+deveríamos focar em alguns aspectos que realmente foram
+destacados durante essa sessão. Por exemplo, o significado de
+“interesse público” dentro do contexto da ICANN e dessa
+iniciativa de gTLDs e de nomes geográfico. É isso que vou
+apresentar hoje de manhã principalmente.
+Também elaboramos um primeiro plano de trabalho porque o
+grupo ainda não tinha sido estabelecido formalmente até esse
+momento então elaboramos uma série de melhores práticas
+que eu vou apresentar aqui. Também as revisamos antes, mas
+eu gostaria de revisa-las de novo porque eu quero receber
+comentários dos membros do grupo de trabalho e também
+recebemos contribuições de amigos de alguns países sobre o
+uso de nomes regionais, conceitos relacionados como o governo
+ser relevante e outras coisas e tudo sobre isso quanto a revisão,
+então vamos passar para seguintes objetivos.
+Esse grupo de trabalho diminui a incerteza sobre a nova rodada
+de gTLDs que mostra conflitos mas sucesso. Essa é a ideia.
+Queremos evitar a utilização errada de nomes de países e
+
+Página 3 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+regiões para evitar conflitos e também gostaríamos de dar
+alguma informação de antecedentes, os históricos sobre o
+processo de elaboração de diferentes documentos dentro do
+ambiente da ICANN.
+Esse é o trabalho. É um grupo de trabalho do GAC que não é um
+grupo intercomunitário, mas é o grupo do GAC. Temos sido
+muitos abertos, deixamos um período de comentário público
+pela primeira vez na história do GAC.
+Vamos para o seguinte. Eu vou apresentar aqui o plano de grupo
+de trabalho que foi atualizado a pouco tempo e que foi
+compartilhado com os colegas do GAC.
+Então se vocês puderam dar algum feedback na sessão sobre a
+apresentação na plenária sobre o grupo de trabalho do GAC
+seria ótimo, também comentários sobre as melhores práticas
+que temos recebido recentemente, também os nomes regionais
+e conceitos relacionados e vou fazer uma revisão muito rápida
+sobre interesse público que é a ideia que apresenta esse
+documento perante a ICANN com uma contribuição do GAC se
+for possível, talvez alguns países também podem fazer isso se
+decidirmos.
+É um documento que revisa o uso do conceito de interesse
+público em diferentes documentos que tem a ver com a ICANN.
+
+Página 4 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Não vou falar as reações sobre o trabalho apresentado pela
+representante proposta pelo CCWG que é a minha colega Gema
+da Espanha.
+Esse documento foi preparado pelo grupo de trabalho de nomes
+geográficos e queria informar aqui sobre uma solicitação que
+tivemos na reunião de Marrakesh sobre incluir outros
+especialistas dentro da lista de e-mails do nosso grupo de
+trabalho.
+Para aqueles que não me conhecem eu sempre procuro a
+abertura e a minha atitude, mas há certas regras que devem ser
+seguidas, não é só os meus desejos, mas há regras e se vocês
+tiverem, porém, algum comentário, por favor, manifestem-se.
+Agora o plano de trabalho aqui, por favor, vamos vê-lo na tela.
+Muito obrigado. Esse é um plano de trabalho que tem mudado
+desde que começamos com o plano de trabalho formal em 2014.
+Primeiro com os comentários públicos que recebemos, criamos
+aqui esse conjunto de melhores práticas que vou revisar com
+vocês e também revisamos o conceito de interesse público que
+vamos falar hoje. Então esse primeiro ponto está bem
+elaborado.
+O segundo ponto aqui do item são ideias, reflexões, comentários
+que recebemos de alguns países sobre essa questão. Queremos
+inseri-los dentro dos diferentes processos de elaboração de
+
+Página 5 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+políticas da ICANN. Não fizemos isso ainda com o GAC, mas
+parte dos documentos que elaboramos já foram enviados como
+comentários para diferentes processos como contribuição de
+alguns países da América Latina. Esse é o item dois. Podemos
+ver um pouco mais aqui. Esse documento está com todas as
+informações que recebem os colegas do GAC.
+Vamos para o ponto 3. Júlia, por favor. Esse é o link aqui com
+contribuições feitas por alguns países da América Latina para a
+solicitação de comentários sobre o processo PDP de novos
+gTLDs da rodada de novos gTLDs e como eu disse antes quando
+revisamos as transcrições da reunião de Singapura. Muitos
+delegados e membros da comunidade solicitaram que
+refletíssemos sobre o uso de interesse público, é isso que vamos
+ver hoje e temos algumas sugestões aqui.
+Esse item 3 já está bem elaborado e também temos uma
+proposta para analisar a situação de alguns nomes de territórios
+ocupados que também foram anexados, por exemplo, a
+Georgia, Ucrânia, essa questão já foi levantada hoje. Está meio
+elaborada, aqui trata sobre coletar experiências sobre rodadas
+anteriores e isso como fizemos uma coletânea de todas elas e o
+item 6 que já está elaborado e já pronto para ser melhorado.
+Número 7 então. Pensamos em criar uma lista de nomes
+geográficos. Já temos falado muito sobre isso e temos concluído
+
+Página 6 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+que naquele momento achamos que era difícil de criar e manter.
+Deixamos ele um pouco stand-by, mas durante a reunião de
+Dublin nos reunimos com representantes da UNESCO da ISO e
+houve a ideia do Giacomo Mazzone do EBU e decidimos então
+que ainda devemos explorar isso no futuro, então o item 7 é um
+dos pontos de ação que ainda deve ser elaborado. O resto aqui
+da lista tem a ver só com aspecto de organização.
+O PowerPoint agora, por favor, Júlia.
+Por favor, alguém tem alguma pergunta?
+
+IRÃ:
+
+Bom dia, eu tenho alguns comentários.
+O primeiro, vamos tentar manter as reuniões do GAC como
+reuniões não políticas. Então falar sobre alguns termos e
+territórios e todas as questões que sejam sobre ocupação, é
+uma questão muito complexa que vai requerer muito tempo de
+todos nós, é uma questão difícil e vai ser difícil obter
+comentários porque as perceptivas vão ser diferentes.
+Então dentro do possível vamos esquecer as orientações
+políticas, não vamos considera-las para esse documento e
+segundo, o que significa nomes regionais?
+
+Página 7 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Nós não temos nomes regionais. Estamos falando que tipo de
+regiões. Estamos falando em continentes. A região 1, região 2.
+Estamos falando sobre nomes geográficos, não sobre nomes
+regionais. Devemos ter muito cuidado então com esses termos.
+Também aqui surgiu a sugestão de participar quase ativamente
+nos últimos 18 meses no CCWG, então é melhor não falar sobre a
+questão do interesse público.
+Poderíamos sim referir no seu interesse público entre aspas,
+mas é interesse público? Quando nós tocamos nessa questão
+não foi bem sucedido, o interesse público, aliás, está referido
+nos artigos de incorporação.
+Devemos deixar isso da maneira que isso está. Também nos
+novos estatutos, mas eu não quero e eu tenho o temor de que
+isso seja uma armadilha para nós.
+Falar sobre o que é interesse público por uma pessoa ou outra
+que não fala sobre interesse público então eu acho que
+devemos tentar dirigir a conversa sobre sua liderança a uma
+área que não seja tão sensível.
+Então eu peço aqui para a senhora e os exímios colegas que, por
+favor, nos concentremos em aquelas coisas que nós possamos
+fazer e não em outras.
+
+Página 8 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+OLGA CAVALLI:
+
+Muito obrigada. Mzia.
+
+GEORGIA:
+
+Isso não é uma questão política, porque eu acho que é uma
+questão relevante de preocupação e esse termo de países auto
+declarados não está bem claro.
+Devemos definir o termo mais claramente significa para nós
+evitar problemas políticos. Então é por isso que a Ucrânia e eu
+também propomos definir esse termo.
+
+OLGA CAVALLI:
+
+Muito obrigada Mzia.
+Mais algum comentário?
+Alguma reflexão?
+Muito obrigado Kavouss sobre os comentários.
+Eu não concordo com o senhor sobre essa questão de nomes
+geográficos, porque há regiões que tem nomes e isso também
+compreende dois ou três países e acho que vale a pena explorar
+essa questão.
+Então temos opiniões diferentes sobre isso e quanto à revisão
+do que é interesse público essa é uma questão que foi solicitada
+durante a reunião de Singapura especialmente pela delegada
+
+Página 9 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+dos Estados Unidos no sentido que de deveríamos tentar definir
+alguma coisa. Eu sei que é difícil, mas deveríamos mesmo assim
+pensar em diferentes perspectivas sobre o uso das melhores
+práticas.
+Esse é o objetivo do documento que nós preparamos com o
+grupo de trabalho e que compartilhamos com os colegas do
+GAC. É essa a ideia que está por trás disso. Comentários? Sim
+Milagros.
+
+PERU:
+
+Eu concordo com a Olga sobre a questão de regiões senhor
+Kavouss. Porque na América do Sul só, temos a região
+amazônica que é uma referência geográfica e também uma
+região.
+Também a região andina, também é uma referência como
+região. Quanto a questão do interesse público na reunião de
+Marrakesh sobre interesse público eu participei e um advogado
+do GAC na ICANN me disse que o interesse público para a ICANN
+já tinha sido definido pela legislação dos estados da Califórnia,
+então para que pensar em reformular o termo interesse público?
+Isso já foi utilizado quando a organização foi estruturada e foi
+definido que isso devia seguir o que estava estipulado na
+legislação do estado da Califórnia.
+
+Página 10 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Então não podemos evitar utilizar essa definição. Então redefinir
+seria absurdo, porque isso já está definido na legislação do
+estado da Califórnia.
+
+OLGA CAVALLI:
+
+Muito obrigado Milagros, mais algum comentário?
+Eu tenho um comentário de Oleksandr da Ucrânia que está
+participando de forma remota e eu vou ler.
+“Em relação aos termos do GAC acho que sim, é possível trazer
+novas ideias, mas não podemos definitivamente manter o termo
+atual inalterado.”
+Não chegamos a esse ponto da discussão se é uma discussão
+sobre termos aceitos o ponto de vista governamental. Oleksandr
+não podemos manter os temos atuais sem alterar.
+“Deveríamos então alterar esse termo ou então manter a
+definição ou criar uma definição de ambos os dois termos. Isso
+que eu sinto, então eu sugiro ir solicitar mais ideias sobre
+termos e definições sobre os governos sempre considerando
+qual é a opinião dos advogados, a supervisão dos advogados da
+ICANN.”
+Muito obrigado ao Oleksandr. O que nós sempre pensamos
+sobre essa questão dos governos em questão e vamos falar mais
+
+Página 11 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+sobre isso mais adiante e eu quero ver mais comentários sobre a
+definição e quero lembrar que a ICANN também abriu um
+espaço para refletir sobre o significado de interesse público.
+Houve uma wiki, uma sessão na última reunião de Marrakesh.
+Infelizmente não assisti porque tinham outras reuniões do GAC,
+mas acho que pelos menos essa é uma boa ideia para conversar,
+ver diferentes perspectivas, rever as diferentes perspectivas, ver
+como isso encaixaria dentro de diferentes ambientes.
+Mais algum comentário?
+Vamos passar novamente para a apresentação em PowerPoint.
+Essas são as melhores práticas que desenvolvemos depois de
+recebermos comentários em Singapura, analisarmos.
+Não vou analisar uma e outra porque já vimos.
+Recebemos comentários de membros do grupo de trabalho,
+porque essas melhores práticas idealmente deveriam consolidar
+todos os interesses de todos os solicitantes, ter também certeza,
+segurança política, um ambiente claro e também tem que
+conciliar o que são os interesses do governo e da comunidade.
+Porque esse é o interesse e o objetivo que tem esse grupo de
+trabalho, fazer uma conciliação do interesse do governo, das
+autoridades públicas e comunidade.
+
+Página 12 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Vou compartilhar então nessa apresentação o que são as
+melhores práticas, porque o que nós queremos ver em termos
+gerias é que haja um contato precoce entre o que o solicitante e
+o governo, autoridades relevantes em região e sub-região seja
+qual for o nome utilizar para que não sejam surpresa quando é
+utilizado esse novo gTLD então surge um novo problema.
+O ideal seria ter um contato precoce que de fato foi parte do
+guia do solicitante. Não funcionou bem por diferentes motivos
+na primeira rodada, mas esperamos que na segunda possa se
+estabelecer de maneira diferente. Não digo obrigatório, mas sim
+um pouco mais como para que o solicitante possa ter um
+interesse em entrar em contato com a comunidade pertinente
+ou a região pertinente a qual pertence esse nome.
+Vou deixar aqui essa apresentação, não sei se alguém tem
+comentários sobre essa imagem em particular, sobre esse slide.
+Eu apresentei varias vezes e é por isso que não vou mostrar
+novamente, quero ver se há comentários.
+Não há comentários então vou passar para a próxima imagem.
+Essa é uma ideia proposta de utilizar esses territórios anexados,
+ocupados e também falar sobre os “governos relevantes
+reconhecidos internacionalmente”.
+
+Página 13 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Essa é uma discussão que se deu em várias teleconferências,
+realmente então agradeço receber comentários de vocês. Acho
+que Oleksandr fez uma boa sugestão, poderíamos procurar
+assessoria jurídica da ICANN e também das nações unidas ou
+algum advogado especialista internacional. Estou olhando para
+Milagros porque ela conhece o direito internacional, eu sou
+engenheira, não sou justamente a voz adequada para fazer uma
+análise a respeito.
+Mas vimos em alguns documentos que “governos relevantes” ou
+“grupos pertinentes” e também de “governos reconhecidos
+internacionalmente” e se pensou que esse poderia ser o nome,
+não sei se algumas das pessoas que estavam aqui presente
+tenham comentários para fazer, senão vamos procurar algum
+tipo de assessoria sobre esse tema.
+Jorge, por favor, quer falar?
+
+SUÍÇA:
+
+Obrigado.
+Desculpem por chegar tarde.
+Eu não sou especialista nesse assunto, mas estamos falando
+sobre quais as coisas que poderiam interpretar ICANN quando
+falamos em “governo relevante”, seja qual for o conceito
+
+Página 14 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+utilizado quando isso for implementado ou surgir em alguma
+solicitação.
+Não sei se temos que ter presente que a ICANN tem que se
+ajustar ao direito internacional conforme a sua ata constitutiva
+e estatutos. Talvez tenhamos alguma coisa a essa respeito, não
+tenhamos que voltar a criar tudo desde o início.
+
+OLGA CAVALLI:
+
+Kavouss tem a palavra.
+
+IRÃ:
+
+Obrigado.
+Quero explicar porque talvez houve mal entendido.
+Tenho problema com os nomes que estão relacionados com
+diferentes países numa região, mas quero evitar problemas
+políticos. Isso é muito importante.
+Nós não temos que transformar o GAC no conselho de
+segurança das nações unidas. Eu concordo com Jorge, a equipe
+jurídica da ICANN poderia intervir no direito soberano dos países
+porque eu acho que com isso nós poderíamos saber se devemos
+continuar nesse caminho ou não, porque é algo da competência
+dos países.
+
+Página 15 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Não há uma autoridade jurídica que possa ter seu próprio
+gabinete de advogados ou o que for. Acho que não devemos
+fazer referência a alguma entidade internacional que possa ter
+uma questão em particular, mas as assessorias jurídicas são
+assessorias para as pessoas a quem assessoram, acho que não
+aos governos, então há coisas que tem a ver com os governos
+soberanos e eu diria, bom isso é o que aprova o assessor jurídico
+mas tem a ver com o país em particular.
+Porque as pessoas tem alguns interesses em particular e não
+tem que intervir nem interferir com a soberania de casa um dos
+países, então quando utilizamos esses termos eu diria que
+teríamos que tentar evitar essa assessoria dessas pessoas.
+
+OLGA CAVALLI:
+
+Obrigado Kavouss.
+Poderia esclarecer a pergunta.
+Em vários documentos se dizia “governos relevantes” e vários
+membros do grupo de trabalho disseram que no lugar de
+“governos
+
+relevantes”
+
+deveríamos
+
+utilizar
+
+“governos
+
+reconhecidos internacionalmente.”
+Na minha modesta opinião não é intervir com os direitos de
+soberania de nenhum país, estamos analisando diferentes
+
+Página 16 de 33
+
+PT
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+formas de definir alguma coisa, por isso que estivemos falando
+desse tema.
+
+IRÃ:
+
+Não estou falando isso.
+Estou falando dos assessores legais da ICANN para que deem
+informação e etc. Era isso que eu queria assinalar.
+Eu
+
+concordo
+
+totalmente
+
+com
+
+país
+
+reconhecido
+
+internacionalmente, acho que é esse o termo que devemos
+utilizar, mas quando falamos em procurar assessoria jurídica da
+ICANN em um tema particular eu queria fazer referência a isso.
+
+OLGA CAVALLI:
+
+Bom, vou escrever aqui. Yuliya, Milagros, desculpem não estou
+vendo muito bem, não enxergo bem.
+Miguel e Milagros.
+Yuliya tem a palavra, por favor.
+
+RUSSIA:
+
+De fato estou de acordo com Kavuss em quanto a que nós temos
+que fazer que as nossas deliberações sejam políticas.
+
+Página 17 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Porque nós estamos fazendo um trabalho muito importante. É
+claro que devemos trabalhar com o que são nomes geográficos
+e que tem a ver com os territórios.
+Somos nós também reconhecidos como membros do GAC.
+Quando
+
+falamos
+
+nos
+
+termos
+
+do
+
+direito
+
+internacional,
+
+logicamente não temos mandato nem competência suficiente
+para fazer alguma coisa a respeito. Então devemos utilizar
+linguagem de Nações Unidas e como podemos dizer se é
+relevante ou irrelevante porque não temos mandato nessa
+altura, não temos competência para isso. Se algum termo é
+proposto é preciso verificar no ministério das relações exteriores
+do meu país se esse termo é correto, certo ou não.
+Eu não tenho competência suficiente para dizer agora se isso é
+aceitável ou não. Então quando falamos dos territórios não
+temos mandato, em primeiro lugar. Quando eu digo que estou
+fazendo meu próprio juízo de valor, se tem que ser melhor
+utilizado um termo ou outro estamos falando de nomes
+geográficos, territoriais.
+Por exemplo, se o nome “C” e outros países tinham acesso a isso
+ou não. Então quando utilizamos o termo relevante como
+saímos dessa situação? É um tema muito delicado e eu acho que
+isso está muito ligado a temas políticos e devemos evita-los
+
+Página 18 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+porque estamos num território técnico e estamos pensando na
+internet, não como resolver questões políticas.
+Então os nossos termos realmente tem que ser considerados a
+luz desses itens, desses tópicos.
+
+OLGA CAVALLI:
+
+Em continuação tem que falar Miguel.
+
+MEXICO:
+
+Obrigado senhora presidente.
+Estou de acordo com tudo que se falou antes. No que se
+relaciona com evitar temas políticos nesse campo.
+Quando tivemos esse diálogo no grupo de trabalho eu perguntei
+ao ministério das relações exteriores se essa mudança de
+“governo
+
+relevante”
+
+para
+
+“governos
+
+reconhecidos
+
+internacionalmente” estava certo eles disseram não podemos
+aceitar governos internacionalmente reconhecidos porque isso
+é uma questão política, então devemos tentar evitar o uso dessa
+terminologia. Estou totalmente de acordo com o “relevante”,
+talvez não seja o termo mais exato, certo, mas podemos
+trabalhar nele.
+Mas os “governos reconhecidos internacionalmente” é um
+termo que não consideramos aceitável.
+
+Página 19 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+OLGA CAVALLI:
+
+Temos Milagros na lista.
+
+PERU:
+
+Eu estou de acordo com Kavuss e Yuliya da Dinarmarca.
+Que falam da necessidade de manter a parte tudo quanto tenha
+a ver com discussão política.
+Eu não acho que esse seja o lugar para debater isto. Um
+“governo reconhecido internacionalmente” acho que não é um
+termo adequado porque há duas práticas sobre reconhecimento
+de governos e mais uma vez estaríamos então abordando ideias
+políticas sobre essas práticas.
+“Governo relevante” também é uma terminologia não correta,
+porque a palavra “relevante” se utiliza uma vez e outra vez nos
+estatutos, na ata constitutiva é quem define então o que é
+correspondente e o que não é. Um governo é um governo, não é
+correspondente ou não correspondente, é assim e ponto. Acho
+que deveríamos evitar a palavra correspondente.
+Eu diria governos e dizer simplesmente “governos” e deixar um
+espaço para analisar em definitiva caso a caso cada uma das
+situações que se apresente. Porque estamos pensando aqui em
+cenários hipotéticos que são realmente poucos, na prática
+
+Página 20 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+quantas situações desse tipo podem se apresentar para a ICANN
+com relação a situação de governos que são questionados ou
+áreas geográficas questionadas, quantos cenários desse podem
+ser apresentados? Poucos no mundo. Talvez nunca cheguem
+como um motivo, uma causa, é como um caso em si mesmo.
+Eu diria “governos”, simplesmente deixaria a porta aberta para
+analisar caso a caso. Se surgir a necessidade de fazê-lo.
+Obrigado.
+
+OLGA CAVALLI:
+
+Obrigada Milagros.
+Bom tem uma longa lista Olof, Mzia e Indonésia. Não sei seu
+nome, desculpe, quem está levantando a mão?
+Mzia, por favor. E Finn também está na lista.
+
+GEORGIA:
+
+Eu não entendo porque alguns membros do GAC veem em nosso
+pedido de referir ou não referir o termo “governo relevante”,
+não é uma questão política.
+A ICANN não é uma organização política e não tem porque
+intervir na soberania dos países. A ICANN é uma organização
+que gera nomes de domínio. Se ICANN não pode nomear nomes
+de países declarados ou territórios em conflito esse termo
+
+Página 21 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+procedente ou correspondente não está claramente definido.
+Devemos evita-lo então, evitar esse problema e deixar bem claro
+o que é procedente.
+Eu acho que “reconhecido internacionalmente” não é o termo
+adequado, mas estou de acordo com Miguel e Oleksandr em que
+devemos trabalhar para definir esse termo procedente ou
+correspondente que quer dizer os advogados das Nações Unidas
+talvez possam manter esse termo no guia do solicitante, mas
+nós devemos defini-lo claramente. Dar uma definição clara do
+que é procedente.
+Não estou de acordo em falar apenas sobre “governos”. Eu acho
+que é menos claro que dizer “governos procedentes”. Então
+quero enfatizar que esse não é um tema político. É tentar evitar
+essas disputas políticas.
+Eu concordo com Miguel e Oleksandr em que devemos trabalhar
+sobre esse ponto para poder ter uma definição clara do que é
+que significa esse termo e evitar maus entendidos para o futuro.
+
+OLGA CAVALLI:
+
+Página 22 de 33
+
+Obrigado Mzia, Olof?
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+OLOF NORDLING:
+
+PT
+
+Pessoal da ICANN, eu não estou falando em meu nome próprio,
+mas vou falar sobre dois comentários da Ucrânia.
+Em primeiro lugar para as regiões devemos em listas como a
+ISO3166-2 no que tem a ver com listas básicas de proteção de
+nomes geográficos.
+O segundo comentário, vamos a política com P maiúsculo as
+definições com D maiúsculo, supervisão com S maiúsculo.
+
+OLGA CAVALLI:
+
+Vou fechar a lista porque não vamos ter possibilidade de acabar
+no horário. Indonésia tem a palavra.
+
+INDONÉSIA:
+
+Obrigado Olga. Obrigado Olof.
+Eu não sei se Olof e a senhora me podem ajudar porque na
+ICANN, no que se refere a organização ISO como observador se
+vocês procuram referência ao pedido de comentários públicos
+nunca recebemos um comentário do grupo ISO, então acho que
+quando falamos isso temos que ver a possibilidade de que a ISO
+possa estar aqui em algum lugar, possa participar de alguma
+maneira no grupo da ICANN onde estamos falando na
+importância que tem a identificação para a Indonésia ou para a
+Malásia, bom etc.
+
+Página 23 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Em segundo lugar estamos falando também do tempo porque
+devemos falar agora com a ISO porque há mudanças no que se
+refere a nomes políticos ou geográficos e alguma outra
+implicação política, então de alguma maneira tem que estar isso
+reconhecido no que são os algarismos, os números da ICANN
+DNS.
+Quando falamos em processos leva muito tempo porque é
+necessário
+
+preparar
+
+documentos,
+
+etc.
+
+Também
+
+temos
+
+documentos técnicos, reuniões regionais, locais. Então é muito
+grande isso. Precisamos de muito tempo. Precisamos receber
+comentários de todo mundo, isso é importante, então
+mudanças que são realizadas, o protocolo existe, a IANA que vai
+ter que ser adotada.
+Nós temos também um órgão de organização, falamos junto
+com a ICO que é a Comissão Eletrotécnica Internacional isso
+leva muito tempo.
+É difícil de explicar.
+
+OLGA CAVALLI:
+
+Muito obrigado. Vou continuar com a fila.
+Então quero explicar porque isso leva algum tempo, mas nós já
+pensamos nisso como uma opção.
+
+Página 24 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Quem é que segue aqui na fila? Perdi um pouco aqui a lista, você
+e também a Dinamarca, desculpe eu não me lembro seu nome,
+poderia dizer o seu nome?
+
+NIGERIA:
+
+Eu sou Sonigitu Ekpe, eu sou da Nigéria, representante do
+governo da Nigéria e nós sabemos que a internet das coisas
+poderia levar a governança global.
+Não podemos esquecer disso, é possível falar sobre isso.
+Deveríamos começar um diálogo e ver como podemos coincidir
+a dimensão política da internet porque se não falássemos sobre
+a governança de internet deveríamos levar em conta que isso já
+está dentro de um nível político essa é a ordem principal dessa
+questão de nomes de domínios.
+Eu vejo os “governos correspondentes” que não deveriam estar
+aqui porque nós temos governos locais, subnacionais. Tudo isso
+existe, são vários interesses.
+
+OLGA CAVALLI:
+
+Muito obrigado, agora Finn, por favor.
+
+DINAMARCA:
+
+Muito obrigado.
+
+Página 25 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Sobre uma questão, quando a Yuliya da Rússia falou a
+transcrição indicou a Dinamarca. Então para que a transcrição
+fique correta, por favor, indiquem que a Yuliya é da Rússia, ela
+não é a Yuliya da Dinamarca.
+Muito obrigado. Porque a Yuliya da Dinamarca tem um recém
+nascido muito bonito que está muito bem.
+
+OLGA CAVALLI:
+
+Muito obrigada Finn pelo esclarecimento.
+O senhor Kavouss pediu apalavra.
+
+IRÃ:
+
+Só uma pergunta, uma pequena questão, Vamos imaginar que
+em alguma área do mundo, uma ilha por exemplo que se chame
+X e como país e outro país se chama país Y, então como seria a
+questão com esses dois países, qual seria a função e qual é a
+nossa função nesse sentido do ponto de vista legal.
+Uma ilha que tem dois nomes diferentes e são dois países
+diferentes, países grandes. Então qual seria nossa função?
+Diríamos que país X, país Y, qual dos dois que está certo? Se
+alguns exemplos, e isso já foi referido nas resoluções das Nações
+Unidas, mas esse não é o foco do nosso grupo de trabalho. Eu
+
+Página 26 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+quero continuar com essa discussão e eu acho que é muito
+interessante.
+Eu não sei se chegamos a um acordo, mas tivemos uma
+excelente troca de reflexões e comentários que tem a ver com o
+“governo
+
+correspondente”
+
+ou
+
+“reconhecido
+
+internacionalmente”.
+Então poderíamos depois resumir esses comentários em um
+documento para o grupo de trabalho e vou trabalhar sobre
+essas notas e essas questões e depois vou compartilhar isso
+com vocês e talvez possamos organizar uma teleconferência em
+julho e ver como isso tem avançado.
+
+OLGA CAVALLI:
+
+Vamos pro seguinte, eu não sei se temos tempo.
+Quero mostrar brevemente o conteúdo do documento que
+alguns de nós preparamos no grupo de trabalho e é aqui que o
+GAC, entre os documentos para esse reunião, já fez o trabalho e
+se o GAC aceitar esse documento poderia ser enviado a um
+grupo de pessoas que estão colhendo informações sobre
+interesse público, sobre esse conceito na ICANN e pra mim a
+redação da primeira versão do documento foi interessante o
+que utilizamos como fonte de informações é as informações
+sobre os anos fiscais, o plano estratégico da ICANN para os anos
+
+Página 27 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+fiscais 2020 e a reunião de alto nível da assembleia geral
+também foi muito útil, também no fórum sobre interesse
+público em João Pessoa também foi muito interessante, fui
+convidada para fazer parte do painel e utilizamos esses
+documentos e colhemos algumas definições e conceitos sobre
+interesse público que chamamos que era muito interessante.
+Vamos para o próximo slide Julia?
+Um esclarecimento, os documentos sobre a ICANN e sobre a
+missão e todas essas informações foram utilizados antes das
+alterações que fizemos. Depois então talvez vamos revisar o
+trabalho preparado a dois meses a luz dos novos estatutos.
+A ICANN define o interesse público global em relação a internet
+como garantindo que a internet se transforme, continue a ser
+estável, inclusiva, acessível em todo o mundo para que possa
+desfrutar dos benefícios de ser uma internet aberta e única.
+Outra é a questão da responsabilidade pública a ICANN deve
+construir confiança na internet em um sistema de governança e
+isso é questão central no marco de segurança pública a
+necessidade de definir áreas e foco e questões de agro regiões,
+partes interessantes, tudo isso deve ser revisado em um
+contexto que é importante.
+
+Página 28 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+O interesse público teria hoje um significado diferente
+dependendo das questões que estivéssemos tratando. Então
+vamos para a seguinte. É um documento bem comprido, esse é
+apenas um resumo, não vamos ter tempo para ver todo esse
+documento.
+A visão da ICANN sobre interesse público é que uma organização
+independente global do mundo para coordenar os sistemas de
+internet global como identificadores únicos para apoiar uma
+única e aberta internet, tudo isso com base no interesse público
+incorporar uma cooperação transparente e eficiente entre as
+partes do mundo todo para facilitar a sua função de
+coordenação.
+Essa inclusão do interesse público aqui nesse parágrafo é algo
+que nós vemos que é para construir confiança. Não é uma
+missão estreita, é uma missão bem mais ampla. Vamos passar
+para o seguinte slide, por favor.
+Enquanto a objetivos estratégicos eu vou passar para o último
+só que é elaborar e implementar o marco de interesse público
+global que esteja ligado a missão da ICANN, é uma referência
+específica sobre a elaboração política, a coordenação da
+elaboração normativa de forma razoável e apropriada em
+relação a essas funções técnicas.
+
+Página 29 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Então deve ser razoável e adequada, apropriada. Isso quanto
+aos documentos da ICANN. Seguinte slide. Ainda os objetivos
+estratégicos.
+A evolução do mercado e domínios não deve criar conflitos de
+agenda entre as principais partes para deturpar a cooperação e
+a evolução do mercado para servir o interesse público e
+promover a queda de funções e também a quem deve procurar
+elaborar o marco de responsabilidade pública para promover o
+interesse
+
+público
+
+e
+
+na
+
+coordenação
+
+do
+
+sistema
+
+de
+
+identificadores únicos e para esclarecer os objetivos, funções,
+marcos.
+Para promover o interesse público através de um treinamento e
+aumentar a base diversa internacionalmente e também com
+conhecimentos e engajada. Temos mais pessoas entrando aqui
+na sala, interessante.
+O que nós achamos quando analisamos esses diferentes termos
+ou esse conceito de interesse público e observamos que isso
+está incluído nos documentos fundamentais da ICANN e
+observamos que a definição é bem mais ampla do que o
+conceito de uma definição estreita que vai bem além disso.
+Encontramos que esse contexto estava em linha um pouco com
+o que nós estamos fazendo com o grupo de trabalho sobre
+
+Página 30 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+baixar incertezas e sobre preparar o ambiente um pouco mais
+previsível quanto as políticas.
+Vamos ao seguinte slide.
+Aqui sobre os objetivos estratégicos, temos 4 minutos.
+Não é até 9:30? São 9:30?
+Se essa parte da agenda. Então mais dois minutos, não vou
+olhar todos os objetivos estratégicos, isso já está no slide.
+Quando analisamos que o termo “interesse público” é utilizado
+de uma maneira bem mais ampla do que nós achávamos antes e
+seria interessante então revisar isso.
+Vamos para o seguinte slide.
+Como eu disse antes. Como podemos rever o interesse público
+vai bem além da missão estreita da ICANN, vai bem além disso. É
+importante considerar isso. Dentro do nosso grupo.
+É por isso que nós preparamos esse documento aqui. O
+documento se encontra entre os materiais que devam ser
+revisados pelo GAC. Estou aberta aos comentários dos colegas
+do GAC sobre a possibilidade de enviar esses comentários como
+contribuição para essa questão do interesse público sobre o que
+a ICANN está fazendo, se vocês não quiserem tudo bem, podem
+manifestar-se em contrário.
+
+Página 31 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+Outras fontes que utilizamos são as reuniões de alto nível e os
+desfechos dessas reuniões. Também tivemos uma oficina no
+último IGF em João Pessoa, no Brasil. Que é uma boa fonte e
+seguinte, acho que já estamos concluindo. Também quero
+destacar a contribuição do Peru sobre a diferença entre bem
+comum e interesse público.
+Muito obrigada, foi muito interessante, muito útil.
+Há detalhes no documento, vocês podem revisar isso aí. Vamos
+para os outros comentários. É difícil de definir o que é interesse
+público, ainda estamos elaborando esse termo. Também temos
+outras definições sobre governo correspondente, relevante. Isso
+esta sendo feito dentro do grupo de trabalho e vamos ter, e isso
+está aqui no próximo slide, vamos continuar a elaborar esse
+plano de trabalho com o documento de interesse público e
+amanhã vamos ter uma apresentação sobre reações em um
+documento preparado sobre o grupo intercomunitário de
+trabalho de nomes de países e territórios, a Gema que preparou
+isso, e o resultado do trabalho do grupo de trabalho. A Gema foi
+muito gentil em preparar esse trabalho.
+Tivemos a pergunta em Marrakesh sobre a possibilidade de
+incluir especialistas externos ao GAC na lista de e-mails do nosso
+grupo de trabalho e o que nós falamos dentro do GAC,
+conversamos, é que o melhor é convidar os especialistas as
+
+Página 32 de 33
+
+HELSINQUE – Reunião do Grupo de Trabalho do GAC sobre a Proteção de Nomes Geográficos
+
+PT
+
+reuniões ou talvez a algumas teleconferências ou momentos das
+teleconferências, mas não que eles estivessem incluídos nas
+listas de e-mails.
+É esse comentários que eu queria deixar pro final e acho que é o
+último slide Júlia? Sim. Último slide foi esse.
+
+Página 33 de 33
+
+

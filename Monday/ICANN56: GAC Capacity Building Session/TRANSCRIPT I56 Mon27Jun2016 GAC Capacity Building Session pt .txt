@@ -1,0 +1,986 @@
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+HELSINQUE – Sessão de Capacitação do GAC
+Segunda-feira, 27 de junho de 2016 – 11:30 ao 12:30 EEST
+ICANN56 | Helsinque, Finlândia
+
+ALICE MUNYUA:
+
+Enquanto vamos nos preparando, quero dar as boas-vindas a
+todos e comentar um pouco qual é o objetivo do grupo de
+trabalho, que se encarrega das regiões (subatendidas)
+[00:00:15]. Nosso objetivo é aumentar o grau de compreensão e
+conhecimento dos representantes do (GAC) das regiões menos
+favorecidas e aumentar a sua participação do ponto de vista da
+criação de capacidades. Especificamente, antes, concentramos
+a nossa atenção na região do Caribe, Ilhas do Oceano Índico,
+Pacífico, América Central e do Sudeste Asiático, e organizamos
+essas sessões a cada 2 anos.
+A última foi em Dublin na reunião 47 e estamos tentando
+formalizar essas reuniões, gerando material de informação
+constantemente e fazer uma indução sob pedido, incluindo
+vídeos, apresentações, documentos breves, folhetos em todas
+as ínguas que correspondam. Trabalhamos estreitamente com
+outras comunidades da ICANN para desenvolver as capacidades
+em áreas como segurança pública, cibersegurança, aplicação da
+lei,
+
+privacidade,
+
+nomes
+
+geográficos,
+
+proteção
+
+aos
+
+consumidores.
+
+Observação: O conteúdo deste documento é produto resultante da transcrição de um arquivo de áudio para
+um arquivo de texto. Ainda levando em conta que a transcrição é fiel ao áudio na sua maior proporção, em
+alguns casos pode estar incompleta ou inexata por falta de fidelidade do áudio, bem como pode ter sido
+corrigida gramaticalmente para melhorar a qualidade e compreensão do texto. Esta transcrição é
+proporcionada como material adicional ao arquivo de áudio, mas não deve ser considerada como registro
+official.
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+Agora, um debate sobre os nomes de domínio de primeiro nível
+com os códigos de país, áreas técnicas, segurança do DNS, os
+IDNS e vou deixar que os que estão me acompanhando também
+tomem a palavra.
+
+PUA HUNTER:
+
+Seguindo os comentários da Alice, nós queremos aumentar a
+participação dos participantes do GAC para levar a uma
+participação mais significativa e ao potencial aumento da
+quantidade de membros do GAC. O grupo de trabalho trata
+também de desenvolver diferentes mecanismos de assistência,
+assessoria, apoio, tentando aumentar a participação e a
+capacidade dos membros do GAC.
+Aumentar a participação e encorajar o aumento dos nomes de
+domínio. Nós queremos criar capacidades, que é o que estamos
+tentando avaliar ou apresentar nesta parte do dia. Queremos o
+compromisso também por parte dos membros do GAC e passo a
+palavra para os que vão fazer apresentação.
+
+ANNE-RACHEL INNE:
+
+Muito obrigado. Sou Anne-Rachel, trabalho com a equipe de
+relação governamental e estou sediada em Genebra e também
+temos equipe de participação dos governos, que faz parte das
+partes interessadas. É uma equipe que se desempenha em todas
+
+Página 2 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+as regiões. Vou apresentar os colegas aqui presentes. Posso ver
+Chris Mondini, que se encarrega. Chris, pode ficar em pé? Ele se
+encarrega da região da América do Norte em geral. Veni
+Markovski, (inint) [00:03:58], Jean-Jacques Sahel, Rodrigo,
+Pierre Dandjinou, Michael Yakushev.
+Todos eles são meus colegas, que se desempenham nas
+diferentes regiões e são os que vocês veem diariamente e se
+encarregam da maior parte das iniciativas de criação de
+capacidades, que vou comentar daqui a uns minutos. Em
+Genebra, meus colegas são Tarek Kamel e Nagel Hickson.
+Também nos ocupamos das organizações intergovernamentais,
+tanto em Genebra, quanto em Nova York. Próximo slide. Esse é o
+tema que vamos tratar, que vamos concentrar em 3 ou 4 slides
+apenas, porque esses slides já foram enviados a maior parte de
+vocês. Então, se vocês puderem dar uma olhada, vamos
+agradecer. Queremos ter uma boa discussão sobre algumas das
+coisas que estamos fazendo no terreno nesse aspecto, porque
+queremos que saibam que estamos trabalhando e, talvez,
+pensem que tenhamos que abordar outras questões, porque
+vocês são os que melhor conhecem o que é que podemos fazer
+para ajudar, vocês entendem melhor o que está fazendo a
+ICANN.
+Vou falar um pouquinho sobre a equipe de participação global
+de partes interessadas, também do nosso trabalho, equipe de
+
+Página 3 de 27
+
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+participação governamental nas regiões. Vou passar alguns
+exemplos. África Oriental e Central, América Latina, Oceania,
+Ásia Pacífico. E a equipe de participação governamental, que é o
+que fazemos em Genebra e Nova York. Algumas ideias. Então, as
+maneiras que nós temos de interagir, aqui, através de Webinars.
+Algumas das equipes regionais, por exemplo, antes de vir a
+reunião da ICANN com esse novo formato da reunião B sobre
+todas essas conversas, sobre políticas, todas essas questões que
+vamos conversar aqui, na ICANN, nós já temos falado isso com
+as comunidades em geral e em algumas regiões com os
+representantes do GAC, especificamente.
+Então, os Webinars são uma maneira de certificarmo-nos de vir
+aqui a essas reuniões da ICANN já preparados, também
+podemos tratar de questões específicas, que as regiões, que são
+muito
+
+importantes
+
+para
+
+algumas
+
+regiões
+
+e
+
+para
+
+os
+
+representantes, quando eles nos solicitarem. E podem pedir as
+equipes para ter um seminário sobre essa questão específica. E
+temos tradução em várias línguas, que não o inglês,
+especialmente
+
+quando
+
+são
+
+regionais.
+
+Também
+
+temos
+
+teleconferências, que são meios utilizados pela equipe para que
+as pessoas entendam de que trata um assunto específico.
+E novamente a maioria das vezes sob solicitação das pessoas de
+um país específico e de uma região. Por exemplo, temos
+reuniões informativas individuais. Então, nesse caso, nossas
+
+Página 4 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+equipes têm uma reunião global, regional, nacional, e se
+reúnem privativamente e com as pessoas, falando sobre o que
+está fazendo a ICANN em geral. Também sobre aspectos de
+estratégias regionais e, por exemplo, vocês sabem que na ICANN
+temos algumas regiões em que se tem criado algumas
+estratégias sobre como participar, interagir com outros grupos
+da ICANN e todas essas equipes, realmente, são tratadas nessas
+reuniões informativas uma a uma.
+Também há algumas reuniões específicas, que são convocadas
+entre as comunidades de uma reunião e novamente a que elas
+tenham a ver com estratégias regionais ou tenham a ver com
+diferentes tópicos. Estão relacionados com o DNS da região
+específica, por exemplo no ano passado eu me lembro de uma
+reunião com a equipe da África sobre a questão da propriedade
+intelectual para que pudéssemos conversar sobre questões
+relacionadas com esse assunto em termos de nomes de domínio
+e outras questões de uma maneira mais específica para cada
+região.
+Também lista de e-mails. Cada uma das regiões tem suas
+próprias listas de e-mails. Tudo que é tratado sobre o GAC é
+distribuído nessas listas de e-mails e também algumas das
+equipes têm e-mails dedicados só para representantes do GAC e
+também temos alguns colegas que têm também isso. São
+
+Página 5 de 27
+
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+grupos de trabalhos dos governos. Também treinamentos
+básicos.
+Temos oficinas sobre DNS, sobre segurança e, novamente, sobre
+propriedade intelectual, como disse antes, ou simplesmente
+sobre o que é a internet e espaços como a academia ou o setor
+acadêmico e outros. Também trabalhamos com pessoas que
+não são membros do GAC e cada vez são mais esses que
+realmente estão participando e recebendo treinamento dentro
+das comunidades. O seguinte. No Oriente Médio e na África, a
+equipe da ICANN, por solicitação da comunidade, tem tido um
+centro de empreendedorismo do DNS, que é para garantir o
+treinamento para pessoas interessadas em tornarem-se
+registradores.
+E essa é uma região que, como vocês sabem, historicamente
+tem
+
+tido
+
+pouca
+
+interação.
+
+Então,
+
+esse
+
+centro
+
+de
+
+empreendedorismo é bom porque trata algumas dessas
+questões aqui, como elaboração ou criação de negócios através
+do DNS, melhores práticas, registros, análises, forças e
+fraquezas para o mercado de nomes de domínio nacional.
+Resolução de disputa sobre nomes de domínios e etc. então,
+tudo isso que tem a ver com as empresas, também segurança do
+DNSSEC, operações do DNSSEC, tudo isso. Temos também
+oficinas para treinar os treinadores de operações do DNS, o
+DNSSEC, tudo isso também o centro de empreendedorismo faz.
+
+Página 6 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+Tudo isso para região do Oriente Médio e África. São algumas
+das coisas que nós fazemos. Por último, também falamos sobre
+reuniões para tratar assuntos específicos, por exemplo essa
+reunião de tópicos específicos que é celebrada pela África, que
+também foi uma questão que a comunidade fez algumas
+solicitações, ela chamou mais treinamentos sobre resolução de
+disputas, porque isso é cada vez mais um problema.
+Também uma constituição de um fórum de especialistas em
+questões jurídicas, também está muito interessado em nomes
+de domínios e também essa questão das disputas é muito
+importante, porque cada vez temos mais atritos, que surgem em
+questões que tem a ver com propriedade, com as marcas, como
+mencionou a Olga e Gema, também questões que tem a ver com
+códigos de país. E, novamente, vários códigos de país e etc. e,
+também, temos visitas regionais, visitas de país, precisamos de
+mais voluntários à África para questões como o IDN, que são os
+nomes de domínios internacionalizados. É muito importante
+isso, porque em algumas comunidades, temos algumas regiões
+em que temos poucas pessoas que não tenham conhecimento
+de línguas como francês, espanhol ou qualquer uma dessas
+línguas oficiais.
+Então, é importante colocar conteúdo dedicado nessas línguas e
+também em línguas nativas. Também temos há pouco tempo há
+muito do que já falamos do que está aqui nesses slides, os
+
+Página 7 de 27
+
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+webnários por exemplo dedicados para questões do GAC e
+também treinamento para os jovens e também para o setor
+acadêmico. Também programas de bolsas para ccTLD e
+também para região da Ásia Pacífica temos algumas sessões de
+treinamento, também em colaboração com membros do GAC
+para o treinamento sobre DNSSEC e abuso do DNS e como lidar
+com essas questões.
+Treinamento sobre aplicação da lei, isso também é uma questão
+bastante solicitada e acho que temos um grupo de trabalho
+interessado nessa questão. E também o APAC, que é a questão
+que tem a ver com a região da Oceania. E Nova York e Genebra
+fazemos muitas reuniões informativas para essas missões
+permanentes e também para as IGO e algumas das coisas que
+temos feitos realmente não caíram no vazio. Temos um grupo
+aqui no GAC que já cumpriu com sua missão, mas fez uma série
+de diretrizes muito útil sobre algumas das coisas que estamos
+fazendo
+
+assim
+
+sobre
+
+questões
+
+como
+
+webnários,
+
+teleconferências, reuniões informativas individuais, reuniões
+com comunidades da região, listas de e-mails, treinamento
+básico, engajamento e membros que não pertencem ao GAC.
+Tudo isso vem dessas diretrizes e uma das coisas que não temos
+feito historicamente, por exemplo, para as equipes regionais, é
+trabalhar diretamente com os grupos de trabalhos do GAC. Isso
+é uma região pouco servida. Mas há outros grupos de trabalho e
+
+Página 8 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+nos solicitaram fazer crescer uma reunião para eles, porque é
+muito trabalho que está sendo na região africana e realmente
+para eles é muito difícil trabalho.
+E eles gostariam de ter a oportunidade para que nesse ano fiscal
+possamos ter uma reunião com os membros deles para
+conversar sobre alguns dos problemas que eles têm. Por
+exemplo, como reconciliar também a questão do engajamento
+precoce com o GAC, a questão do treinamento. Já falamos isso.
+E também como operacionalizar tudo isso, como seria a
+abordagem, essa é uma questão que realmente gostaria muito
+que tratássemos aqui. E agradeço pela atenção de todos vocês.
+Muito obrigada.
+
+ALICE MUNYUA:
+
+Muito obrigada. Acho que aqui estamos abertos para algumas
+perguntas, algumas solicitações e discussões por parte dos
+membros. Então, fica aberto o microfone.
+
+ARGENTINA:
+
+Obrigada, Alice. Obrigada, representantes da África. Muito
+interessante o que você falou sobre a sua região e eu quero
+mencionar algumas das atividades que eu como membra do
+setor acadêmico faço especialmente focado no continente
+americano, em que nós temos uma escola de governança de
+
+Página 9 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+internet ou uma faculdade, aliás, de governança de internet da
+ICANN.
+E ICANN sempre participou muito disso e há uma apresentação
+muito interessantes sobre a transição da IANA e nós também
+oferecemos bolsas de estudos a todos participantes e temos
+colegas da região que depois de ter feito essa faculdade e
+diferentes atividades da ICANN têm participado mais e mais e é
+muito bom que a ICANN participe com essas faculdades já desde
+o começo, porque essa é uma boa oportunidade para que a
+comunidade saiba acerca da ICANN. Muito obrigada.
+
+INDONESIA:
+
+Muito obrigado. Só quero chamar atenção aqui sobre a
+disponibilidade do hub (inint) [00:19:28] a casa central da ICANN
+em várias áreas. Há alguns meses, foi criado esse hub em
+Singapura e talvez pudéssemos também criar na África para
+estimular as atividades da ICANN.
+E isso faria com que haja mais e mais atividades na região e isso
+para um maior desenvolvimento interno na região, porque aqui
+nós sabemos que temos a ICANN pensando no mundo, numa
+internet e etc. e nós queremos ter uma internet só. Se não for
+assim, então vamos ter muitas internets regionais e não é isso
+que nós queremos. Muito obrigado.
+
+Página 10 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+ILHAS COOK:
+
+PT
+
+Oi para todos. Desde a região do Pacífico está sendo feito muito
+trabalho, um trabalho muito bom. Então, embora haja muito
+trabalho de elaboração e desenvolvimento, não é suficiente do
+ponto de vista nacional. O treinamento é uma coisa que é elevar
+o nível de conscientização dos países. Mas em nível nacional
+também devemos trabalhar.
+Isso é muito importante. E para tanto, precisamos do suporte da
+ICANN, especialmente nas áreas jurídicas. Então, construir a
+partir de certos marcos para os países nessas regiões pouco
+servidas. Acho que também há outras áreas nessas regiões que
+compartilham do mesmo desafio que nós temos. E além de toda
+essa questão do treinamento que foi fornecido por países na
+região do Pacífico, devemos também lembrar que nem todas as
+pessoas têm acesso à internet, então o treinamento tem sido
+feito sim nos países, mas para continuar com esse treinamento
+online nem sempre é possível para os nossos países. E eu espero
+receber comentários e respostas sobre o que eu acabei de falar.
+
+ALICE MUNYUIA:
+
+Gostaria de voltar para isso, poderemos falar depois, mas uma,
+mas uma das questões é como reconciliar o engajamento
+precoce do GAC na ICANN e relacionar isso com o treinamento.
+Isso, especialmente, com os grupos de trabalho. Eu vou dar aqui
+
+Página 11 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+o exemplo do grupo de trabalho de segurança pública, em que
+existiu um engajamento de uma série de PDP GNSO e isso bem
+nas etapas iniciais para garantir que o GAC participasse no
+momento certo e fornecesse comentários dentro dos prazos
+exigidos.
+Então, seria bom explorar talvez isso. Não temos tempo
+suficiente. Isso é algo que realmente vamos (inint) [00:23:40] em
+termos de capacitação para membros do GAC para permitir eles
+possam participar genuinamente desse trabalho da ICANN. E
+também há outras questões que devemos realmente tratar
+quando for possível. E uma dessas é o que a Anne-Rachel, o
+Tarek e o resto da equipe tem trabalhado e tem dedicado no
+trabalho regional para governos.
+Eu sei que a região da África é pouca servida, então exigimos e
+seria necessário em termos de participação ter algum tipo de
+trabalho sobre a questão normativa de políticas da ICANN.
+Então, fica aberto para comentários sobre o que vocês acham
+sobre essa questão.
+
+PARAGUAI:
+
+Muito obrigado. Gostaria de mencionar algumas das coisas que
+estamos fazendo com a ICANN na América do Sul, nossa região,
+e basicamente durante a reunião em Buenos Aires, na ICANN 53,
+o secretário do ICT do Paraguai assinou um memorando de
+
+Página 12 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+entendimento com a ICANN e há 2 pontos importantes nesse
+acordo.
+E um é apoiar o modelo multisetorial de intergovernança
+mundial e também tentar elaborar mecanismos multisetoriais
+em níveis nacionais e regionais. E também, em segundo lugar,
+apoiar a elaboração, a criação, de uma indústria de nomes de
+domínios da internet no Paraguai e na região. Desde então, o
+nível de participação é muito importante em diálogos abertos
+com a comunidade regional local e os parceiros de outros países
+para criar as capacidades e consenso necessário. Isso também
+para contribuir para um desenvolvimento futuro bem saudável
+para a internet do Paraguai.
+E também estamos apoiando a criação de uma comissão
+internacional do Paraguai. (inint) [00:26:05] para desenvolver
+políticas públicas da internet, que sejam inclusivas de baixo
+para cima, com o sistema participativo de governança, que seja
+liderado pelo capítulo ISOC do Paraguai e apoiado pelo
+ministério ICT nacional e também tratar temas como ICANN e
+LACTLD e conseguimos organizar muitas coisas importantes
+para estar avançando na elaboração e na criação de um modelo
+local.
+Quanto à elaboração, o desenvolvimento da indústria de nomes
+de domínios do Paraguai e também da região, gostaria de
+
+Página 13 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+mencionar o que nós estamos discutindo sobre a criação de
+novos elementos no ecossistema de DNS que seja correto para a
+região. A América Latina e o Caribe estão enfrentando muitos
+desafios e oportunidades interessantes que devam ser
+explorados nesse setor particular de registro de nomes de
+domínio.
+Embora nossa reunião se concentre em aproximadamente 10%
+de usuários de internet no mundo, há um estudo feito pelo
+LACTLD e ICANN, que sugerem que apenas 2,7% de todos os
+nomes de domínios estão registrados e operando na nossa
+região. E que alguns poucos países na nossa região que
+mostram uma taxa de penetração superior a 10 nomes de
+domínios sendo registrados por cada 1 mil usuários. Estamos
+muito atrasados em relação a países como os países baixos –
+Suíça, Alemanha, Holanda, etc. – então, em breve, os algarismos
+demonstram um auto crescimento potencial para esse setor na
+região.
+E acho que cada esforço conta que chegou a hora de criar
+estratégias para que o setor possa continuar a crescer e
+desejamos ajudar uma ideia específica para o estabelecimento
+de um setor de empreendedorismo de DNS regional, seguindo
+os bons resultados demonstrados pelo Oriente Médio entre a
+parceria com a equipe de autoridades reguladora de
+telecomunicações nacional do Egito e a ICANN. E o projeto atual
+
+Página 14 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+que tem mais de 1 ano de operação conduzindo oficinas e
+treinamento na região. Então, temos aí experiências e passos
+bem-sucedidos no Uruguai desde o ministério da ICT e também
+com a comunidade latino-americana e o Caribe para estabelecer
+parcerias e etc.
+
+ALICE MUNYUA:
+
+Obrigada.
+
+REINDO UNIDO:
+
+Muito obrigado. Obrigado a todas apresentações. Anne-Rachel,
+gostei muito, foi muito impressionante o que fez a equipe de
+engajamento multisetorial global. Isso deu um foco muito
+importante sobre questões importantes, essa questão das
+atividades de extensão e muitas comunidades importantes
+criaram a oportunidades, treinamentos, mais oportunidades
+para engajamento.
+E eu queria também aqui mencionar quanto o que disse a Alice
+sobre a participação e uma maior consciência do GAC e da
+ICANN em geral. E também estamos procurando que haja mais
+diversidade no CCWG, no grupo intercomunitário, a via de
+trabalho 2 e também a participação das comunidades e é um
+aspecto muito importante no desenvolvimento para países
+pequenos, ilhas, que devem enfrentar barreiras e desafios. Acho
+
+Página 15 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+que o GAC agora o que está fazendo é criar um desenvolvimento
+muito útil.
+Temos grupos de trabalhos que trabalham entre diferentes
+sessões sobre assuntos específicos e, como disse a Alice, isso
+cria oportunidade para que representantes do GAC do mundo
+inteiro possam participar. São áreas importantes de trabalho
+online, através de reuniões virtuais, especialmente quando a
+pessoa não pode participar fisicamente nas reuniões. E fornecer
+ou obter resultados através dessas reuniões físicas.
+Então, é uma mensagem muito importante para os colegas do
+mundo inteiro de que há muitas oportunidades importantes
+para contribuir entre as sessões dos grupos de trabalho e acho
+que isso prepara para que os governos possam promover uma
+mensagem às suas comunidades sobre o quão eficazmente elas
+podem participar dos processos da ICANN. Não é simplesmente
+é uma questão de que vocês venham aqui nas reuniões
+presencialmente, mas que trabalhem entre sessões. É muito
+trabalho.
+E é essa mensagem principal que eu quero dar aqui. E devemos
+tentar estabelecer quais são os problemas, as barreiras que
+inibem esse engajamento eficaz através de grupos de trabalho
+do GAC e através de processos da comunidade da ICANN. Então,
+analisar problemas e barreiras para participação nas regiões
+
+Página 16 de 27
+
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+sub atendidas e nos estados insulares e pequenos. O
+desenvolvimento eu acho que é uma iniciativa muito importante
+e eu espero que o grupo de trabalho desenvolva indicadores e as
+modalidades necessárias para analisar esse problema, quando
+se tratar da diversidade num aspecto mais amplo posterior a
+transição e vamos ter muito mais informações.
+
+NEPAD:
+
+Obrigada, Alice, obrigada, Rachel, pela apresentação e pelo
+trabalho realizado pelo grupo. Eu queria estar de acordo com a
+importância que tem a estratégia de difusão externa regional da
+ICANN e como é que isso ajudou o trabalho que estamos
+fazendo. Do mesmo modo, o que disse a Argentina, temos com a
+escola de governança da internet na África também iniciamos
+nossa
+
+escola
+
+de
+
+governança
+
+para
+
+poder
+
+gera
+
+mais
+
+conscientização sobre as questões relacionadas com a
+governança de internet.
+A ICANN nos apoiou e poderão patrocinar a participação e
+também assistir a escola e apresentar algumas questões
+técnicas. O que eu quero salientar é que estamos voltando à
+ideia de ter mais participação encaminhada e dirigida,
+principalmente pelos governos. Isto é acho que devemos
+continuar desenvolvendo, mas também devemos ver como
+combinar isto com as atividades já existentes para não gerar
+
+Página 17 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+barreiras demais e divisões entre o que já existe e a nova
+participação.
+Especificamente, estou pensando nas questões de governança,
+de internet, também a cúpula africana e outras atividades que
+também estão em andamento. Devemos estar certos de que não
+haja sobreposição que nos isole desses outros projetos, que
+também estão se desenvolvendo. Na nossa participação,
+tivemos uma direção bem estratégica para as comunidades
+econômicas e regionais, porque elas são as que interagem
+ativamente com os estados membros e achamos que é muito
+importante estamos certos de que essas comunidades
+econômicas regionais sejam parte dessa participação, desse
+grupo. Agora, vai ter a palavra Peru.
+
+PERU:
+
+Posso falar em espanhol?
+
+ALICE MUNYUA:
+
+Sim. Pode.
+
+PERU:
+
+Eu queria em primeiro lugar comentar que no Peru, nos últimos
+meses desse ano, fizemos 3 seminários relacionados com o
+cibercrime, os quais foram financiados pela ICANN e foram
+
+Página 18 de 27
+
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+muito positivos. Nós conseguimos treinar aproximadamente 120
+pessoas vinculadas diretamente aos temas de segurança. Por
+outra parte, eu queria fazer um comentário com relação ao
+financiamento da ICANN e o que eu considero que faz parte do
+compromisso que é assumido com o GAC.
+Faz 1 mês aproximadamente que houve uma teleconferência
+dirigida por Rodrigo de La Parra, acho que foi um dos que dirigiu
+isto, explicando como funcionava o GAC, convidando novos
+países latino-americanos a se vincularem ao GAC e foi muito
+interessante e muito bem feito, mas em nenhum momento da
+conferência foi mencionada a possibilidade de que não só
+participem, mas que também contribuam economicamente.
+Então, acho que parte do compromisso assumido com relação a
+esse tema também é o financiamento. E eu quero insistir a todos
+os presentes. Eu estou representando um país que contribui na
+medida de suas possibilidades. E acho que, se o Peru pode fazer,
+todos vocês podem fazê-lo. Finalmente, quero me referir à
+apresentação
+
+feita
+
+por
+
+Gema.
+
+Realmente,
+
+foi
+
+extraordinariamente bem-feita e queria também me referir ao
+fato de que as perguntas colocadas à origem dos países que
+pedem a palavra devem ser mais plurais.
+Deve ser mais diferenciado. Não é possível que perante um
+assunto, que é interessante para todos, as opiniões muito boas
+
+Página 19 de 27
+
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+venham exclusivamente quase de países que têm uma
+experiência com a internet muito antiga. Países que têm um
+desenvolvimento econômico bastante reconhecido. Então, da
+próxima vez que essa discussão seja feita e que vários de nós
+levantemos a mão, embora não tenhamos tempo, devemos
+procurar a diversidade na participação, porque sendo a
+Dinamarca,
+
+Grã-Bretanha,
+
+Finlândia,
+
+Suécia,
+
+países
+
+extremamente importantes e com representantes muito bem
+formados e preparados eles não me representam.
+Não representam a minha realidade. Mas, ainda, eu ousaria
+dizer que a minha realidade está mais representada no mundo
+que é deles. Então, da próxima vez, eu gostaria de ter a
+possibilidade de falar. Muito obrigada.
+
+CHAIR SCHNEIDER:
+
+Muito
+
+obrigado,
+
+Alice.
+
+Obrigado
+
+pela
+
+apresentação.
+
+Simplesmente, eu queria teimar num tema que Milagros
+mencionou no início de sua intervenção. É o fato de que se
+quisermos participar e empoderar os membros do GAC de
+maneira significativa, tanto no GAC em pleno, quanto nos
+grupos de trabalho e nos esforços que estão sendo
+desenvolvidos em diferentes partes da comunidade. É
+superimportante que exista uma secretaria muito forte. Esse é
+um tema central.
+
+Página 20 de 27
+
+PT
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+Com esses esforços, podemos nos beneficiar com o que temos
+no GSE e em outros setores da ICANN. É extremamente
+importante que nós tenhamos uma secretaria forte e que
+possamos continuar com esse modelo híbrido, onde temos um
+apoio independente de políticas e temos que estabelecer o
+vínculo entre a participação e o desenvolvimento de regiões sub
+atendidas, esse aspecto do apoio que precisa o nosso trabalho
+para fazer nossas intervenções nos nossos próprios ambientes.
+
+ALICE MUNYUA:
+
+Obrigada. Tom, tem algum comentário?
+
+TOM DALE:
+
+Como eu sou membro dessa secretaria forte, a qual fez
+referência
+
+o
+
+representante
+
+governamental,
+
+eu
+
+queria
+
+simplesmente fazer um comentário muito breve. Acho que seria
+útil que todos os membros do GAC se lembrem de que quando o
+ICANN fala em criação de capacidades e de um amplo leque de
+recursos, que devem ser dedicados a isso, se fala no
+desenvolvimento
+
+de
+
+capacidades
+
+em
+
+nível
+
+nacional.
+
+Desenvolvimento de um sistema de nomes de domínio numa
+ampla variedade de partes interessadas, das quais os governos
+são uma delas.
+
+Página 21 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+Mas ICANN tem a ver com desenvolvimento de capacidades para
+registros, registradores, toda uma variedade de jogadores (inint)
+[00:41:11] que trabalham no setor de nomes de domínio. Então,
+quando falamos em criação de capacidades, tem diferentes
+significados, não especificamente com relação à criação de
+capacidades especificamente dos governos incluídos no GAC.
+Devo dizer que uma retroalimentação prática para a secretaria
+de ACIG e para o pessoal da ICANN é sempre bem-vinda, porque
+há muitas formas de resolver problemas que podem enfrentar
+alguns países sem muito planejamento, nem esforço.
+Então, se houver algum problema específico do ponto de vista
+da lista de e-mails, os arranjos para reuniões, tecnologias que
+pode utilizar o GAC ou que põe à disposição a participação,
+como apontou o Reino Unido, o tema dos idiomas, traduções,
+todas essas questões que são de índole prática afetam muitos
+membros do GAC de maneira imediata, muitas vezes, e nem
+sempre é claro se há uma solução. Mas, pelo menos, 1 há. Então,
+por favor, se aproximem da secretaria do pessoal do ICANN.
+Peçam a ajuda à ACIG, às organizações de apoio. Se houve esse
+tipo de retroalimentação de comentários, nós podemos oferecer
+uma resposta e, inclusive, modificar os sistemas.
+Então, é muito importante que exista retroalimentação prática.
+E em último lugar, voltando ao primeiro comentário sobre essa
+agenda de construção de capacidade mais ampla, a que dedica
+
+Página 22 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+tantos esforções a ICANN, como disse Rachel, há muitas
+reuniões também para além da ICANN que tratam esse tema.
+Lembrem que são incluídos os governos, mas há outras partes
+interessantes, muito mais do que simplesmente governos.
+Então, quando se falar das políticas do GTLD futuras, há muitos
+temas a considerar na última rodada dos novos GTLD. Tínhamos
+o papel do programa de apoio do solicitante para regiões
+compreendidas, para ver se havia alguma ajuda para essas
+solicitações de novos GTLD.
+Muitos pensam que não ajudou o quanto se esperava, temos
+todo um tema, um assunto mais amplo sobre esse tema e outras
+que são de índole prática.
+
+ALICE MUNYUA:
+
+Irã tem a palavra.
+
+IRÃ:
+
+Uma pergunta. Quando é organizado tudo isso relacionado à
+criação de capacidades, alguma vez falaram de algum grupo
+regional de alguns países. Qual a necessidade real? Ou vocês
+têm um programa base e o apresentam como está? Porque, em
+outras palavras, essa criação de capacidades leva em
+consideração requisitos de cada um desses países?
+
+Página 23 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+Ou são o que vocês pensam, o que pensam as pessoas que
+planejam essas sessões que diz: “Ah, bom, eu quero saber”,
+alguém pergunta quais as necessidades reais, quais as
+prioridades e que áreas precisa de mais informação? E, depois,
+há alguma ação de acompanhamento sobre o que se fez ou se
+utiliza a mesma experiência na seguinte sessão de criação?
+Criação de capacidade.
+
+ALICE MUNYUA:
+
+Sim. Essa é uma pergunta muito importante e estivemos falando
+quando realizamos o trabalho local. Há um grupo de países
+menos favorecidos, que queria levar adiante uma pesquisa de
+opinião sobre quais as necessidades específicas para os
+membros do GAC, não só, mas também para aqueles que não
+são membros. Vou tomar a última pergunta e depois vamos
+passar para Rachel, porque vou ter que passar novamente a
+palavra para a presidência do GAC.
+
+BURUNDI:
+
+Muito obrigado, senhora. Sou de Burundi e estamos no GAC faz
+pouco tempo e vou insistir no que diz respeito ao programa de
+desenvolvimento de capacidades. No nosso registro nacional,
+queríamos criar um programa de desenvolvimento de
+capacidades, mas precisamos de experiência externa, porque,
+
+Página 24 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+por motivos de segurança no nosso país, os especialistas não
+puderam vir ao país.
+E eu quero saber, me dirigindo à senhora Alice Munyua, se pode
+fazer com que nós entremos em contato com as pessoas que
+desenvolvem esse tipo de programa, porque no meu país há
+muita gente, não quero falar em outros países, mas no meu país
+há muita gente que precisa desse tipo de capacidades.
+Queria saber se a senhora pode fazer com que entremos em
+contato com as pessoas para desenvolver esse problema de
+outros países. Pode ser no Quênia ou outro país. Muito obrigado.
+
+ANNE-RACHEL:
+
+Obrigada a todos pelas perguntas e comentários. Voltando a
+nossas prioridades se elas são levadas em consideração, são
+levadas em consideração. Por exemplo, equipe de iniciativa de
+partes interessadas globais está fazendo isso em algumas
+regiões e algumas em que a estratégia surgiu da própria
+comunidade.
+E, se existe alguma questão relacionado com os domínios de
+alto nível, com código de país, isso possa ser uma prioridade, se
+falamos como gerar, então, um pool de registradores num país.
+Então, como fazemos para que os CCTLD desses países sejam
+mais fortes? Como fazemos para que a indústria do DNS geral
+
+Página 25 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+PT
+
+seja mais forte ou como obter, por exemplo, um IXP em cada um
+desses países.
+Não é que vamos impor o que nós temos na comunidade, é
+como disseram, eles fizeram o pedido, foi comprido em Burundi,
+e se cumpre na medida do possível. Se houve um problema em
+Burundi, porque não foi possível fazer a capacitação, porque
+havia problemas no país, falta de estabilidade, mas se faz para
+operador de redes, por exemplo no centro de empresários do
+DNS. E se pode participar desse centro e desse treinamento.
+Tentamos adaptá-lo à linguagem que utilizamos e também com
+a língua que utilizamos. Que língua é usada?
+Que especialistas vão? Podem dar uma capacitação ou
+treinamento diretamente nessa língua? Na medida do possível,
+fazemos com que isso aconteça, mas garantimos que tomamos
+em conta as preocupações que pode ter cada uma das
+comunidades, das pessoas e também as prioridades. Isso
+também se baseia nas estratégias regionais.
+
+ALICE MUNYUA:
+
+Obrigada, Anne-Rachel. Obrigada pelos comentários, pelas
+perguntas a todos. Brevemente, vamos ter uma reunião com a
+equipe de participação governamental e vamos falar sobre
+outros temas dentro do GAC. Passo a palavra para o presidente.
+
+Página 26 de 27
+
+HELSINQUE – Sessão de Capacitação do GAC
+
+CHAIR SCHNEIDER:
+
+PT
+
+Quero dizer que começamos a pausa do almoço e voltamos.
+Temos uma reunião, na realidade, das autoridades do GAC com
+a ALAC numa sala pequena, não porque não queiramos ter com
+todos, mas porque não tínhamos possibilidade. Depois, faremos
+um resumo do que aconteceu na reunião. Olof, tem alguma a
+coisa a dizer antes do almoço e de que vão fazer a fila para a
+fotografia.
+
+OLOF NORDLING:
+
+Por favor, quem puder peço que vão para a piazza para que
+tirem retrato e fotografia. Vão perceber que é onde está a área
+de registro. É no nível número 2, por cima da área de registro,
+que está a área conhecida como piazza. Hoje, amanhã ou
+quarta-feira vão.
+
+CHAIR SCHNEIDER:
+
+Página 27 de 27
+
+Piazza está entre trattoria, pizzaria e sorveteria, perto da igreja.
+
+

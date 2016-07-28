@@ -1,0 +1,1445 @@
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 1
+
+ICANN Transcript
+Thick Whois Implementation IRT meeting Part 2
+30 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Dennis Chang:
+
+Everyone. It's 9:15 and we'll get started here. Thank you everyone for coming
+back for our second session at the ICANN 56 Helsinki Stakeholders Policy
+Implementation IRT Meeting.
+So this is a continuation from yesterday's conversation. And again, my name
+is Dennis Chang, GDD Services and Engagement Program Director. And I
+will be moderating this session today.
+I think everyone's been here yesterday so we're - skip the introduction and go
+right to business. We have a long agenda. And I have an announcement to
+make. I know that yesterday we wanted to talk longer but we couldn't because
+there was a session immediately following ours.
+So today we have managed to secure the room for 30 additional minutes. And
+what I'd like to know from the IRT is your flexibility in going longer than
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 2
+
+scheduled. Let me see a show of hands if you have a hard stop or you can go
+longer. Which one is it? Hard stop. Anybody else?
+Man:
+
+Hard stop.
+
+((Crosstalk))
+Dennis Chang:
+
+Three? Okay. That means we'll have to press on. And if you wouldn't mind, I
+don't mean to be rude but I am going to maybe, you know, press you a little
+bit harder to get going and not a lot of repeated conversations hopefully. So
+we'll get started right away (next).
+So today's agenda is a priority item for us today is the consensus labeling and
+display. This is the policy that we would like to announce next month for an
+effective date of February 1 - by January, February of next year.
+And so this is a pressing topic of the day. So if at all possible at this session
+we would like to gain understanding, perhaps consensus and ask all your
+question and have you dialog conversation here today so that when you go
+back home you have no homework. Isn't that nice? That's an incentive.
+The second topic is the notification to GNSO Council for our conversation
+yesterday. So we did some homework and we're going to let you know what
+we found out and the process; how we go about that.
+The third is the implementation timeline that we were talking about yesterday
+and will continue to gain more understanding there and see if we can come to
+a consensus there as well.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 3
+
+So the consistent labeling and display; this is the same chart we showed you
+yesterday. And let me turn it over to (Fabian) right here. (Fabian), go ahead
+and take it away.
+(Fabian):
+
+Thank you Dennis. Hello everyone. So actually it's a new slide that complies
+some of the information that we've exchanged over the last few months. We
+just wanted to remind everyone of the, you know, the high level (with types)
+every comment we got or the feedback we got during the public comment
+period on the initial draft of the policy language.
+Then the discussion we've had with you in the IRT and finally explain what
+we (will do) with the revisions of the - in terms of revision to the policy
+language.
+So very quickly, in terms of feedback in the public comments, you may recall
+there were concerns with the time taken to implement the transition. So that's
+not per se consistent labeling and display. And you know how we've been
+progressing on that. Concerns that we have been (in fact) of our interpretation
+of consistent.
+They were concerned around the need to collect new data around the reseller
+information and registrar expiration date. Concern that that date would also
+create confusion for end users. And there was also concern that the reseller
+information would have a pretty serious impact on the registrar operation.
+The community - there was an alternative implementation proposal in the
+community that suggested that the reseller and registrar expiration date be
+optional. And finally there were concerns that the proposed policy would have
+an negative impact on the registry's contractual framework due to the
+references in the policy to the 2013 RAA as well as the (unintelligible).
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 4
+
+In subsequent discussion with the IRT you may also recall that there were a
+suggestion that we not require any measures (to mediate confusion) for those
+registries that would display the registrar expiration date - would choose to
+display the registrar expiration date.
+We also discussed how the expiration date confusion issue may be referred.
+We initially thought about the RDS PDP but some of you suggested that we
+consider the GNSO instead and that this was for seeking a long-term solution,
+which was indeed our intent.
+And finally in terms of the reference of 2013 (IANA) policy some of you
+asked that we clarify or suggested that we clarify the policy in an intent to
+establish a current linkage there.
+So essentially what we did in terms of revising the language. First of all we
+simplified the language. You may recall that in our language we had - we
+covered consistent labeling and display as well as the transition although there
+was no effective date for the transition part of it.
+So we decided that we should separate those two to have two different sets of
+policy language. So what we're going to present to you is specific consistent
+labeling and display. We believe that this will bring more clarity to everyone.
+We've aligned the language with the comments we received and in particular
+by making optional reseller and registrar expiration data as we explained
+yesterday.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 5
+
+And finally we've clarified several items, in particular we're removed the
+reference to 2013 RAA and replaced it with an actual (sophistication) of the
+changes that would apply to the RDS output for registries.
+And in terms of the re-clarification we have made clear that this is a
+complement to the policy language; it's not a (big) piece of it. So let's look let's take a look at the document.
+So before we get through the revised policy, let me show the draft policy we
+submitted for public comment just as a reminder. So as you might remember,
+we had a section containing the consensus policy and then some
+implementation notes.
+The policy section was rather short. The one here was a reminder of the policy
+recommendation - was actually sort of rewriting of the - or copy of the
+adaptation of the working group recommendation. And Bullet 2 here was our
+references to the fact that the RDDS output should be consistent with Spec 3
+of the 2013 RAA as well as the (Whois Clarification) Advisory.
+And so we had three phases. Phase 1 and Phase 2 are two parts of consistent
+labeling and display. And then Phase 3 was the transition. So in effect our
+taking into account of the comments meant that Phase 2 should not exist
+anymore. But then that would have left us, you know, with a phase of
+transition still hanging with no effective date. So we've decided to switch that.
+So now let me go to the revised policy that, as Dennis mentioned, I believe we
+shared yesterday on the mailing list. So you may be able to get your own
+copy. Okay. Here it is.
+Dennis Chang:
+
+Can I just confirm with everyone that you received it. Yes. Thanks.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 6
+
+(Fabian):
+
+Okay. So here it is. I need to browse quickly through the (unintelligible) and
+we'll look in detail. So first of all, we've changed the title. This is the Registry
+Registration Data Directory Services, RDDS, Registrar DDS Consistent
+Labeling and Display Policy.
+We - you see here that's the specification I talked about of the changes that
+apply to RDDS output. So we'll get to that in more detail. And you see here
+that we have throughout 13 bullets and effective date of 1 February 2017. And
+then we have short implementation notes that refer here to the advisory and
+also provide an example output for all intent and purposes.
+And finally at the end we have a section with the background of how - where
+this policy come from. So okay. This was just an overview. Let's go back to
+the first page.
+So, as I mentioned, instead of adding a reference to the 2013 RAA, we
+worked off of a reference to the current base agreement, which - base registry
+agreement Specification 4 to which we're adding some requirements.
+So Number 1 is the positioning of the registrar with contact email and so on.
+As far as the communities (probably) in the public comment, there was an
+agreement that those should be displayed by registries.
+So Bullet 1 here specify where those two should be placed in the output. Then
+- so then we stop here see if there is any specific comments.
+
+Dennis Chang:
+
+Any comments in the room? Adobe Connect? Go on.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 7
+
+(Fabian):
+
+So then Bullets 2 to 5 are those that refer to the registrar registration
+expiration date and with other information. And so here in those four bullets
+we indicate that those are optional, that if they're shown they must appear - so
+the reseller information that appear after - sorry, before the main status.
+If shown the value of reseller must be the name of the organization if it's a
+legal entity. Otherwise it's a natural person's name. And then use the registrar
+registration expiration date is shown at - must appear immediately after the
+registry expiry date.
+I'll just pause a second. See if there's any comment or question. So that was
+for Bullets 2 through 5. Okay.
+
+Dennis Chang:
+
+None here.
+
+(Fabian):
+
+Okay. So six is about the - is specifying the format of the value for this
+contact, email and phone, reseller and registrar expiration date by making
+references to either the (unintelligible) or the extensible market language.
+Then Bullet 7. Seven is about the name of the keys or fields in the RDDS
+output. So left column is the original name in the current Specification 4. The
+second column is the new name per consistency with the 2013 RAA. And then
+last column refers to the type of query to which a response - to which a
+response provided need to include those (in IT).
+So this is again to clarify and (it's still) referring to the 2013 RAA
+(sophistication); we're providing the details here to make sure that this is
+crystal clear. Let me stop here a second. See if there is any comments or
+question.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 8
+
+Dennis Chang:
+
+None here.
+
+(Fabian):
+
+Okay. That might be because it's either quite early or very late.
+
+Dennis Change:
+
+So let me pause and ask a question. So the Implementation Team they came
+up with this new document format felt that this type of format and
+presentation worked much more clear and it's an improvement. So I'm hoping
+the lack of questions is a good sign here that we are communicating much
+more clearly with this document. Any feedback on the format?
+
+Joe Waldron:
+
+Thanks Dennis. This is Joe. Yes. No, I think it is - I think it is clear. It is a bit
+of a revision from the previous one. So I think that, you know, while I think
+everybody's had a chance to read it, I think that we still need time to kind of
+digest and compare and, you know, really examine this pretty carefully, so.
+
+(Fabian):
+
+Yes. Thank you Joe. I was just going to say this is why we wanted to take
+some time this morning so that we get a chance to walk everyone through it in
+addition us yesterday. And we have requested that IRT members provide their
+review to it by the end of next week.
+So we hope that the combination of our taking this time today and providing,
+you know, more than a week for review is going to be enough for IRT
+members to review the document.
+
+Dennis Chang:
+
+(Krista).
+
+Krista Papac:
+
+It's Krista Papac. Thanks Dennis. Krista Papac from ICANN staff. Just to add
+to what Dennis said. The format is different and I mean I think this in a note
+(Fabian) sent last night. And absolutely Joe, you guys need to take a look at it
+for sure.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 9
+
+But we - it's more of a formatting change and not too many substantive
+changes other than to incorporate the guidance from you guys. And I agree
+with Dennis. I'm hoping that the lack of questions is both you need to look at
+it substantively but the concerns you did express in public comments and in
+these meetings that we've been able to address them in a way that works for
+everybody, so. Anyway thank you guys for that.
+Dennis Chang:
+
+Go ahead (Fabian). (Fabian).
+
+(Fabian):
+
+Oh, thanks Dennis. Sorry. I was muted. So I was speaking to Bullet 8 here,
+which is for the billing contacts and then name or the (key) per the table that's
+here.
+Then finally or sorry, I'm sorry. We - this one is for the - let me catch up here.
+So that's the - an additional (footer) that needs to be put before the (end
+footer).
+Number 10. That's for a number of things to address the situation of gTLDs
+that have specific provision in their agreement allowing them to provide a sort
+of a (third) access or we're wrote in here redacted RDDS output. So that is an
+output that may not contain the full Whois information depending on where
+the request comes from and how it's provided.
+And so here in this case we describe specifically what those - what the
+implementation here means to these registries. And for instance, right now we
+have the (unintelligible) name. They are subject to search provision. And so
+we're suggesting - so we're clarifying here that in this case the fields listed
+here may be treated as optional.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 10
+
+Then 11 we're clarifying what the field registry (in the meantime) doing,
+registrant (ID) refer to. Twelve. This is a reference to the RDAP operational
+profile, which the implementation of which is needed and required for all the
+(gTLD) registries and others to achieve the consistency of Whois RDS output
+and that the synchronization that we've worked consistently with over the last
+year or so in terms of implementing consistent labeling and display.
+And finally Number 13. Here that's for the clarification that additional RDDS
+fields may be - it's possible at the end of the output - the current specification
+of the output with some restriction as to what does (keyed in) values mean
+must not contain.
+And finally our effective date of 1 February 2017. We've a clarification that
+for the registry operators (unintelligible). This effective date is not the one by
+which this should implement consistent labeling and display and they will they would implement consistent labeling and display when we reach the
+policy effective date of the transition (unintelligible).
+So this completes our presentation of the policy part of the language and our
+specific issues of the output for registry RDDS. Let me stop here and see if
+there is any questions or comment before we move on to our - right to the
+document.
+Dennis Chang:
+
+Go ahead.
+
+Steve Metalitz:
+
+Yes. Thank you. Steve Metalitz. Thank you (Fabian). I had one question about
+Number 13 in the phrase confidential information issues there. Is that defined
+anywhere in this document?
+
+(Fabian):
+
+It is not defined in the document. That I can (confirm).
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 11
+
+Steve Metalitz:
+
+So is it clear what that covers? I mean this is about - this is about additional
+fields that a registry operator may choose to provide. And it's not clear to me
+what this restricts. I think I understand the first one. The third is kind of a
+general one. So that's obviously, you know, that's more of a retrospective one
+if something happens I guess.
+And but the second one - for example, if a registry operator were to provide a
+(who was) service and provide information on past registrants of the same
+domain name, would that be considered confidential information even if it's
+personally identifiable information? It's just not clear to me what that means.
+
+Francisco Arias: This is Francisco Arias from staff. Steve, this is in - this was added in
+response to a request from -- I can't remember who it was -- in the (activity
+tech) mailing list.
+I think this came up in the context of the RDAP profile but it also applies in
+the Whois side. And there was a concern about language in the profile about
+the need to request permission from ICANN to add a RDS field.
+So we're saying it's okay to add them but you have to use a contact (but) have
+to make sure that you are not adding any - security will now read in what you
+are doing. You have to be careful in what you are adding.
+And we also - if you look at the last sentence in Number 13, what else can
+they - (they are ready to) provide us with the list of (relational fields) to
+ICANN before they deploy them so we can have -- how do you say -- a time
+check just in case we did something that may raise an issue so we can deal
+with the registry before they're deployed.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 12
+
+(Jeff):
+
+Thanks. (Jeff) (unintelligible) here. So my question is also on 13. I also - first
+I had that same question on the confidential information. But I guess reading
+this it seems like it says that it -- where was it -- that without further approval
+by ICANN but then it says prior to deployment registry operators shall
+provide an update to the list of all the additional fields supported to ICANN.
+So it seems like it's a tacit approval, right, if ICANN doesn't say anything? It's
+still approval but you're saying you don't need to get explicit approval from
+ICANN. But it's still basically approval because you can come back and say
+no, those fields cannot be in there. Is that correct?
+
+Francisco Arias: This is Francisco Arias from staff. So we don't see this as an approval (rather
+than) - and we don't expect there to be an issue. But it's, like I said, just a
+sanity check just to make sure that if let's say someone worked (one and) it
+would be a very silly example (with) field that says give me here your user ID
+and password for your banking account.
+And so I wanted to (put that). They would say oh, are you sure you want to do
+that. You know, it's that kind of a filter but we don't expect we'll get to be there to be an issue.
+(Jeff):
+
+Okay. Thanks.
+
+Dennis Chang:
+
+We have a question from the room. It's from Chris Pelling. I know just by
+fluke the page where we provide information to the registry I did not see a (I
+missed) reseller information being a reseller centric registrar similar to (CO)
+(unintelligible). This would be a field where we need to populate. Was it me
+or I just missed it? I apologize for that mispronunciation.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 13
+
+Francisco Arias: This is Francisco Arias. Oh, that's (Fabian). (Fabian) is (coming up). Reseller
+(field) in there for - oh, that's the value. It is showing where it will appear.
+Number 2 is mentioned that this is an optional field. This is coming from the
+2013 RAA with reseller as an optional field. So we are replicating this in the
+(unintelligible).
+Dennis Chang:
+
+Go ahead (Roger).
+
+(Roger):
+
+This is (Roger). On Number 9 it looks like the URL for the registry is
+different than the registrar. This is different than what we're required to show.
+
+Francisco Arias: Let us check on that.
+Dennis Chang:
+
+Thank you. Go ahead Joe.
+
+Joe Waldron:
+
+Yes. Joe Waldron from VeriSign. So I have two points. One I think just for
+clarification. I'm trying to get to the footnote - the footnote at the end of the
+first section. Since we defined yesterday that there were really two effective
+dates, I think we should just be clear there's an effective date in the chart that
+you showed yesterday that had an effective date for new registrations versus
+the (backflow) of legacy.
+If I remember - if I remember that chart correct - the Gantt chart with the
+timeline slide. (You don't) - okay.
+
+Dennis Chang:
+
+I think you're referring to transition.
+
+Joe Waldron:
+
+Transition. Yes. There was a slide - the transitional implementation path. So
+there's a policy effective date for new registrations and a policy effective date
+for existing registrations. So since there's two different dates, I think it's just
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 14
+
+ambiguous in the policy document that we just sent out in terms of which one
+or how is that being implemented. So I think we should just make that
+clarification.
+Dennis Chang:
+
+Yes.
+
+((Crosstalk))
+Dennis Chang:
+
+No, go ahead if you want to address that first.
+
+Francisco Arias: Yes. So very quickly. This is Francisco by the way. This slide is about the
+transition from thin to thick. The effective date that we're showing in the
+document is only about consistent labeling and display, which is you could
+say a tier policy effective date, different to these two.
+So that effective date is being shown in the screen it's only about consistent
+labeling and display. It's not about the transition from thin to thick. Does that
+make sense?
+Joe Waldron:
+
+I'm referring to the footnote at the bottom. It says registry operators for
+(comment and jobs) shall be subject to this policy upon the policy effective
+date for the transition from thin to thick.
+
+Francisco Arias: Oh.
+Joe Waldron:
+
+I'm just saying that that's ambiguous.
+
+Francisco Arias: Understood. Yes. Thank you. We probably should make clear that for - that
+this is what you're doing two effective dates for (unintelligible) would be the
+effective date for (unintelligible) would be the other date. Yes, we need to…
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 15
+
+Joe Waldron:
+
+I would say let's have a discussion about how we want to clarify this statement
+then. I don't know that you want to be in this limbo land. But we - we'll have
+to figure out what the right clarification is.
+And then the other question I had was on the - on Number 12 with the RDAP
+service. And I'm just - maybe I haven't been keeping up on the RDAP profile
+but I guess I just have - I still have some concerns with including the language
+that we have to - that this is going to mandate implementation of the RDAP
+operational profile.
+And I know when we had the session in Marrakech, I think for instance (they)
+made the comment that the profile is really just documenting existing
+requirements and specifications.
+So I guess without knowing what the status of that document and saying that
+we're, you know, we're going to review this and having that profile that hasn't
+been really finalized I don't believe and still is in progress, I think that leaves
+an uncertainty at this point.
+
+Francisco Arias: I'll take further questions Joe. This is Francisco. And - so as you may
+remember, we - a long time ago they estimate the decision to bundle the
+implementation of both RDAP and (CLD). So we're still with that. And I - the
+team to send the updated version of the outlook profile. It's almost finalized
+and it should - I expect to send it today.
+And it's a updated version like this one and incorporating the feedback we
+received in the public comments. There are many (unintelligible) but there are
+some clarifications that were requested by the community and we are doing
+that. So the idea would be to put those in a synchronized form.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 16
+
+Joe Waldron:
+
+Yes. Thanks Francisco. I think that, you know, look - you have to look at the
+two documents together, right. So I think that like part of the dependency on
+being comfortable with the RDAP language here, so.
+
+Francisco Arias: Yes.
+Joe Waldron:
+
+Absolutely agree. We wanted to make sure that we weren't duplicating and
+doing repetitive work. So appreciate the work to try to get this done and just
+make it a point that we need to look at them in coordination with each other.
+
+Francisco Arias: Yes Joe. You will see that. Go ahead (Jordan).
+(Jordan Shantry): Staying on the - it's (Jordan Shantry) with Google. Staying on the topics of
+RDAP for a moment. I think there has been discussion of allowing registry
+operators to run a separate instance of RDAP or something like that alongside
+the one (running) the official operational profile to get some operational
+experience with some of the other features of RDAP.
+That doesn't seem to be reflected here. Is there a plan to specifically allow
+registry operators to do that somewhere else?
+Francisco Arias: Thank you (Jordan). This is Francisco. Yes. The language is going to be
+included in the profile. And looks that we are (going) to share it and my goal
+is to share it today. And there you will find language that is allowing a
+contracted party (registry) operator to operationally run a test out of
+(unintelligible) separated from the production service.
+(Jordan Shantry): Just as a - is there a reason why that belongs in the RDAP profile as opposed
+to in the - in this policy? It seems like the profile as I understood it previously
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 17
+
+was describing the behavior of the sort of production RDAP instance whereas
+here we're talking about like oh, and you can have another thing where you
+can do whatever you want, right.
+And it just feels like that - normally I would think that that would go into
+something like Attachment A to the registry agreement. I don't know what the
+equivalent on the registrar side is. But having it in the policy itself seems like
+it would also be enabling for registrar - registries/registrars whereas here - but
+are you just trying to do that so the registrars also have the option or is there
+another reason?
+Francisco Arias: This is Francisco. Yes. Indeed that's the exact reason why we are planning to
+put it in the profile because this policy applies only to registries while the
+profile applies to both.
+Dennis Chang:
+
+Any other questions, comments? (Fabian), I don't hear any more questions or
+comments from here in the room and I don't see any in the chat. So then are
+we okay to move on to the next topic? Request to the IRT is to provide their
+final comments by next week I think. We'll share that date. It's on the slide
+that's coming up. Go ahead (Fabian). You want to share the implementation
+notes now?
+
+(Fabian):
+
+Yes. Just wanted to (show those modes) and in particular Number 1, which is
+the reference to the advisory. And then Number 2, which is the output that we
+provide for unintended purposes, the example output.
+And so that I'll put a bit in to reflect obviously what we are requiring as far as
+this policy. And that's pretty much it for - as for our document. They need the
+background so we'll need that for the IRT to read when they're - (at their own
+mark).
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 18
+
+So I think that if there isn't any - if there isn't any comments or question on the
+implementation, we can certainly move on.
+Dennis Chang:
+
+Let's move on. Let move on to the next topic (Fabian).
+
+(Fabian):
+
+So this is a reminder of the timeline of our next steps. We're requested that the
+IRT members provide their feedback, their review to the other (unintelligible)
+next week.
+We would then work to announce the policy effective date by the end of the
+month of July as we mentioned or an effective date of 1 February 2017. If
+there isn't any question or comment, we can move on to discussing the
+(transition).
+
+Dennis Chang:
+
+One question here.
+
+(Jeff):
+
+(Jeff) (unintelligible) here. So on the deadline for the EU it says by the IRT.
+Does that mean it is not open to comments or any other language before - by
+anybody else besides members of the IRT?
+
+(Fabian):
+
+So thank you (Jeff) for your question. I think we are at a state where the first
+draft was submitted for public comment. We - I believe that our document
+here addresses those comments. We are checking with the IRT that (this is
+indeed) that they share this analysis. And, you know, unless there is a strong
+case for this needing to go through public comment, we intend to move
+forward with this document provided the IRT agrees with our analysis.
+
+(Jeff):
+
+Okay. Thanks.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 19
+
+Dennis Chang:
+
+Go ahead.
+
+(Roger):
+
+This is (Roger). On the date. I don't believe the IRT is meeting between now
+and then. Do we want the team to meet and address any comments before?
+We're giving everybody a week to talk - ready it. I mean should we meet
+before?
+
+(Fabian):
+
+So (Roger), I think we were not going to schedule a meeting of the IRT next
+week because it's so close to the meeting and travels. But if the IRT thinks we
+should have one, we can certainly look into it.
+What we were thinking is that we'd have a meeting the following week so in
+terms of dates, that would be on the 12th where we would discuss any
+feedback we'd receive from the IRT. But so (Roger), what's your preference?
+
+(Roger):
+
+This is (Roger). No. I think that as long as we're talking about it before we say
+it's final, I think that's good.
+
+Dennis Chang:
+
+Yes. Our intention was to collect all your last comments and incorporate it and
+present to you the final version for one more look as a team. Go ahead Joe.
+
+Joe Waldron:
+
+Yes. Thanks. This is Joe. So I'm just going to say that the 8th is pretty
+aggressive knowing that people are traveling back. We've got at least in the
+U.S. a long weekend coming. So it's a short week. And I don't want to put
+Francisco, you know, under the gun here.
+But, you know, having to compare the two different documents I just think it the 8th is aggressive. I think we can try to meet that but I think - I just want to
+get some caveats that there may be extenuating circumstances.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 20
+
+Dennis Chang:
+
+Understood. Yes. That's our target date. We're trying to meet the 31 July. So
+you know that there is a couple of weeks between those times.
+
+Krista Papac:
+
+Thanks Dennis. Krista Papac. Yes. Just to kind of build on that a little bit. So
+knowing it's a little aggressive. But to Dennis' point, we've made a
+commitment to you guys to try and give you more predictability and sort of
+regular scheduling for implementation work. So that's why we're trying to
+meet the 31 July deadline because that's a promise we made to you guys, one.
+Two, once we all - IRT and the staff are in agreement, there's still a number of
+things we have to do to get the notification out to the contracted parties, et
+cetera, so.
+Everything you can do to try and meet the deadline would be very much
+appreciated. I know you will. I just wanted to make sure you guys understood
+sort of the logic behind why we're really pushing. So thank you.
+
+Dennis Chang:
+
+Thank you. (Fabian), go on. Let's go to the next topic.
+
+(Fabian):
+
+So yes. Let me go back to GNSO. We're working through the discussion of
+the transition (unintelligible). And so let's start with the notification of the
+GNSO in relation to the Recommendation Number 3 we discussed yesterday
+Dennis.
+
+Dennis Chang:
+
+Yes. We discussed this yesterday and the process that we would like to use is
+that we're fortunate to have a GNSO Council liaison on this IRT. Right.
+(Amar) is it?
+
+Woman:
+
+(Amir).
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 21
+
+Dennis Chang:
+
+(Amir), okay. (Amar), (Amir). He's not here. But I think his charter for duty to
+have that liaison. So what we would like to do is use that. And so I know that
+Joe, you know, you kind of volunteered to maybe draft something so we're
+going to take you up on that.
+So what we'd like to do is maybe have you draft something and circulate it
+within the IRT. And then perhaps if you guys will agree then have (Amar)
+liaise with (Janice) from counsel. Go ahead, (Steve).
+
+(Steve Metalitz): Thank you. (Steve Metalitz). For the benefit of those of us who were not here
+yesterday because we had conflicts with this meeting and because the agenda
+for that meeting was distributed less than 48 hours in advance in violation of
+Icann policy, what are you talking about? What is this request?
+(Joe):
+
+Yes, this is (Joe). So what I brought up was an issue that really goes back to
+the original charter in the legal review that was done by Icann staff looking at
+the privacy and PII issues, which one of the outcomes of that paper essentially
+said that registries and registrars should do their own analysis.
+As we've been conducting that analysis and as we've seen some of the changes
+with the EU privacy laws, we've seen other jurisdictions begin enforcement of
+rules that talk about like in Russia I think on September 1st the data for
+Russian citizens -- I'm not sure what data that includes. I haven't read the law
+myself -- but is required to be maintained on servers within the country. So as
+you start seeing some of those changes, one of the -- I can go back and re-read
+the exact language, but there is a note in Task 3 to the charter for the IRT that
+if we identify any issues related to privacy that were not addressed by the
+working group, that we should notify the GNSO.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 22
+
+So it's just the notification going back to the GNSO to make them aware of
+those issues that we want them to call to their attention.
+Dennis Chang:
+
+Yes, furthermore what we discussed yesterday -- and this was just brought up
+yesterday and is that if a notification and we are going to do that, but the IRT
+agrees to move on with our work, and it's up to the counsel to take action if
+they should wish to. So that's …
+
+(Steve Metalitz): Thank you for that explanation. So there will be a draft of this notification
+circulated before it goes?
+Dennis Chang:
+
+Absolutely.
+
+(Steve Metalitz): Okay. Thank you. And just to be clear, there is no expectation this would
+change any of the timeline that was set out in the last scorecard as far as the
+transition, is that correct?
+Dennis Chang:
+
+Again, correct.
+
+(Joe):
+
+So I think the issue that I brought up was that it's essentially - I believe it's an
+obligation to us to provide that notice based on the way the language is written
+in the Task 3.
+
+Dennis Chang:
+
+Okay. Let's continue. Time for timeline discussion and (Steve) since you
+weren't here, maybe I'll give a little bit more time to explain what this is for
+those who were not here yesterday.
+
+Man 3:
+
+Sure. Thanks (Dennis). So what you're seeing here in this slide is a summary an attempt by us at summarizing what we've heard so far in the conversation
+of the IRT regarding the transition path for the transition. So we've
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 23
+
+represented in this slide the true timeline for new registration and existing
+registration starting - that timeline is (unintelligible) announcement of the
+policy effective date in January 2017.
+And from there we decide to lay out what we've understood would be the stuff
+and the timeframes involved. So regarding new registration, we understood
+that the registry is needed to make changes and revise those changes so that
+we thought six months was consistent with what was discussed. At that time
+registrars would be able to optionally create new registration with the thick
+model and they have had six months to prepare and six more months to
+transition all their new registrations and for all registrars to transition their
+new registration (unintelligible).
+And then at the end of those 12 months in 2018 registry will require thick
+registration from new registration and that's the time at which the policy
+would be effective for new registration. So that’s for the first half. And the
+second half -- existing registration -- here we have those six months we
+discussed for the registries to prepare and notify and then the mediation month
+that was discussed and requested by registrars to complete those transitions of
+existing registration under the terms that have been discussed so far. The
+limited valuation rules.
+And so that would create another policy effective date for existing
+registration. Let me very quickly mention that yesterday in the discussion
+there was a comment by (Jody) that the expectation was that the 18 months for
+existing registration would start after the registry has had a time to make the
+changes and announce them. So this was the request from yesterday and I
+show again our slide - our previous slide, sorry.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 24
+
+So that was our summary. The 18 months for existing registration would start
+right away. When (Jody) was suggesting that those 18 months start when
+registry was actually ready to take registration or to pick up existing
+registration data.
+Let me stop here. This is what we would like to continue our discussion and
+understand whether that's everyone's understanding or if that seems - that
+indeed seems reasonable for everyone in the IRT.
+(Steve Metalitz): This is (Steve Metalitz). I was not here obviously for the discussion yesterday,
+so I'll have to go back and check that. But I am not - I would not support what
+is in effect delaying the transition from thin to thick for an additional six
+months in the lower left-hand corner of this slide. I don't know. I feel like
+we've discussed this over the last several weeks in great detail and so I don't
+understand why at this stage an additional six months is being asked for.
+Just to kind of look at this from a slightly broader perspective. I think this
+policy effective date of January 2019 means that it will take longer to do the
+transition from thin to thick that it took the United States to land a man on the
+moon in the 1960s. It took longer than World War II. It is seven years,
+basically. And I don't understand why that would be necessary. So I'll be
+happy to go back and look at the transcript or maybe people can you know, I
+don't want to ask people to repeat their arguments from yesterday but I would
+be opposed to this.
+Dennis Chang:
+
+Yes, just to clarify (Steve). Yesterday we started a conversation but we ran out
+of time and we all agreed to come back this morning and continue the
+conversation so it's perfectly okay to ask for clarifying questions and have this
+dialogue and discussion. Now (Jody) is online and I would like to give (Jody)
+an opportunity to speak. Go ahead.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 25
+
+Man 2:
+
+Hi. First of all, can everyone hear me?
+
+Dennis Chang:
+
+Very clear.
+
+Man 2:
+
+All right great. It was always my understanding, (Steve), first of all to your
+question. Delaying it by six months - it has been my understanding that the
+registrars would be given 18 months after the registries have implemented and
+were in production. I didn't realize that we were overlapping the six months of
+preparation for them for the registries with their 18 months that the registries
+were going to be - or registrars were given to basically transition this data.
+To your point, you're talking about seven years since we've started. I'm not
+sure when it started - if it started seven years ago. If you're trying to spend all
+this time down to make it less than what World War II was, I think then we
+should be done already I guess. We can't take 46 million records for
+(unintelligible) and get them done in a one-month period or a six-month
+period. The reason we're asking for 18 months is because there is a lot of data
+that needs to go over there. We will start the transition as soon as we can and
+we want that extra - it's not like we're asking for to start implementation
+extending 18 months over that 18-month period.
+It's going to be a lot of data that needs to be moved over there so we're asking
+for a cushion in case there's any kind of issues that we have, either a
+placement on those scalabilities - not scalabilities, but just a monotrack that
+we're going to create at the registry and the amount of data that we need to
+have in addition to the registry. It's quite a lot of data.
+We went through this once before at (unintelligible) and I know (Joe) was
+there. I think you have better numbers than I remember, or more concrete. But
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 26
+
+at the time that we moved that over from thin to thick, I think that was 12
+years ago. Go Daddy had I believe it was 600,000 registrations and I think dot
+org is only about 1.8 million or two or three million. It was a small number
+compared to dot com. So it took a very long time to get that (unintelligible) in
+fact it was years after we started the transition, but we were still getting the
+warnings from the dot org operator that our contact information was incorrect
+and most of that had been from transfers (unintelligible) that had transferred
+into us years after the transition.
+Now we're talking about a scalability that is between 50 and 100 times greater
+than what dot org was at the time.
+Man 1:
+
+(Pio).
+
+(Pio):
+
+Hello everybody. This is (Pio). (Jody) just actually covered what I was going
+to touch upon and let me add to that 18 months - six months - this is taking
+indeed quite some time. But on the other hand, we have to realize we still
+have a working system here so from my point of view, if there is any extra
+time required let's take that time and make sure this thing gets done in a
+correct manner. And like I said just a few before, we have a working system
+now. Thanks.
+
+Joe:
+
+Yes, this is (Joe). So I just wanted to kind of echo the stats that (Jody) gave
+that when the dot org transition occurred -- and I think we've talked about this
+a number of times in the PDP and so on -- it was a long time ago. The systems
+were less complicated. We didn't have (DNSEC), we didn't have IPv6, but at
+that time there were little over a million-and-a-half registrations in dot org.
+There were 98 registrars of which 92 successfully migrated. I don't know what
+happened to the four - if I did that math right - six.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 27
+
+Public math. Not my strong suit. And I believe that transition was done
+incrementally kind of on a registrar by registrar basis. I think there are people
+from the registrars that still remember going through that like Jody. But it took
+more than a year to just go through the initial transition for those registrars at
+that time.
+So I think that when you look at all of the other competing opportunities and
+initiatives that everyone's got, you know, I think that 18 months is a
+reasonable expectation. It also allows to coordinate the activity with the
+normal lifecycle engagements that registrars have with their registrant.
+(Steve Metalitz): (Steve Metalitz) again. Yes, I appreciate the scalability issues. We had
+discussed this over the several meetings about 18 months and I'm not going to
+engage in public math either here, but maybe we can put something in later. I
+mean, 18 months - it is obviously is a large number of transactions that will be
+needed and even if 30 transactions per second is not going to, you know - 18
+months provides a great deal of cushion.
+And I note that Verisign offered as I understand it an alternative method
+which would allow for approximately -- with a lot of caveats -- 80
+transactions per second. In other words, three times as fast. Almost three times
+as fast. So that again means I think that the 18 months is ample.
+My concern was that did we just forget about this first six months or you
+know, this issue of overlap versus running in parallel. Was that just an error
+for the last several weeks/months we've been looking at a timeline that didn't
+have the six months during which time registrars would not be transitioning?
+And how we have to add that in at the beginning, thereby pushing the end date
+out into 2019. Why was that not in there before?
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 28
+
+Again, while we've had this discussion about 18 months and I understand the
+reasons that are being put forward for it, but it's now become 24 months.
+(Krista Papek):
+
+Hey, (Steve), it's (Krista Papek) from Icann staff. So my understanding from
+the staff perspective is we have been talking about 18 months for a while now.
+And we've been presenting it without this other - you know, thanks (Fabian).
+So good with these slides. It's been looking like this I think what I heard
+yesterday was registrars were thinking they have 18 months to implement.
+Meaning when they heard 18 months, they were hearing once we have
+everything we need from the registry operator we then have 18 months to
+implement and on the registry side of it they're saying well, we need time to
+build that in order to give it to you.
+So I think there was a disconnect. I don't think it was a deliberate disconnect. I
+think people are thinking of this from the chair that they sit in -- the registrar
+chair -- the registry chair -- and I think there was general consensus in the
+room that it was 18 months but when that 18 months began is where I think a
+little bit of the disconnect was.
+
+(Rich Morgan):
+
+Hi, (Rich Morgan) here from Go Daddy and I'm coming in as an observer into
+this and have not been part of these earlier discussions, but looking at this
+slide I would have called out that it's interesting that there are six months for
+both registries and registrars to prepare and during that preparation period, we
+somehow have an overlap of the actual execution of that. And it seems that it
+would have been an error not to have them be a critical path of 24 months.
+Just as an observer and seeing from the outside.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 29
+
+(Rich Morgan) again. Using the World War II analogy, it's saying lets prepare
+for the landing and send the men now. And can't do them both at the same
+time.
+Man 1:
+
+(Steve)?
+
+(Steve Metalitz): This is (Steve) again. I do see the overlap under new registration, so that's not
+a problem. You can be - while the registries are updating you can transition
+your new registrations from thin to thick.
+(Rich Morgan):
+
+This is (Rich) again. I'm just speaking specifically about the one element. I'm
+not talking about the other.
+
+(Steve Metalitz): Okay. Well, I guess that's my question is why the overlap can't exist in both
+but …
+(Joe Weldon):
+
+This is (Joe Weldon) from Verisign. So I think we're looking at - I guess that's
+orange. The 12-month and 18-month bars and drawing interpretations on what
+that means. So registrars aren't doing nothing during the time that the registry
+is updating the system right? During that time you know, we're producing
+documentation so that the registrars can build their systems. We're delivering
+an (OT&E) environment so that registrars can connect and test and make sure
+that systems are working correctly.
+So that's what's happening where the six-month and 12-month period overlap
+and then we open the production system where you see that diamond called
+Optional Thick. That begins a period that registrars have a period to migrate
+their production systems and begin doing new registrations.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 30
+
+So I think we were making the assumption that you know, similar activity is
+going on in the bottom portion for existing registrations, where that 18-month
+bar represented a combination of the preparation work as well as the execution
+and production.
+And I think that was what caused the question to say what we really need for
+the production execution of transitioning the, you know, in a number of
+registrar's cases tens of millions of domain names over - they needed 18
+months' worth of execution time.
+So I think that it's a little bit of interpretation of what those bars were
+representing.
+Man 1:
+
+Continuing with maybe looking at these slides and interpreting it the same
+way, I'd like to ask a question. Should the registrar ready and willing to
+transition, they can do so in August of 2017. Is that correct? Should the
+registrar be ready and willing to transition the data, they can do so in August
+of 2017. That's the first time and earliest they could do it, correct? Go ahead,
+(Jody).
+
+Man 2:
+
+Well, that's my understanding, is that we could start in August 2017. Taking
+new registration. Or providing new registrations with contact data. And we
+could also start the existing transition from thin to thick for existing
+registrations.
+But to (Steve)'s point, I was also going to ask a question on the first timeline
+there. At the end of that 12 months for registration - I'm sorry - new
+registrations from thin to thick, what is the contact data validation
+requirements that time? Is it still only the three validations that we're requiring
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 31
+
+when we're doing the (unintelligible)? And then talking about contact ID, (op)
+code and (unintelligible) email but I'm not sure.
+Woman 1:
+
+(Joe) I think that might be a question for you. I heard (Mark) for what it's
+worth, I heard (Mark Anderson).
+
+Man 3:
+
+Yes, (Mark), you want to jump in on that?
+
+(Mark Anderson): Yes, this is (Mark). Can you hear me okay?
+Man 3:
+
+Yes.
+
+(Mark Anderson): Okay great. (Jody), to answer your question the proposed contact validation is
+the reduced contact validation would have to stay in effect for the entire
+period of the existing registrations timeline. So from the system perspective,
+right? A contact that's created for new registrations and a contact that's created
+for existing registrations looks no different. In fact, you could use one for both
+right?
+So from a system perspective we have no way to differentiate the two. So we
+would need to keep the (unintelligible) rule in effect for you know, the entire
+18-month period that's in place for existing registrations to migrate. Thank
+you.
+(Dennis Chang): So this is (Dennis Chang). Just for clarity, and I think when the IRT were
+having a discussion of 12 to 18 month range, I think that was a cause of
+confusion when what we should have been talking about was from the point
+of announcement to the effective date, to effectively what we're looking at
+here is a 24-month correct? Everybody agree? And from what (Mark) said that
+the reduced validation rule would stay in effect for two years no?
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 32
+
+Man 2:
+
+This is (Joe). So the first time that anyone would be able to begin updating
+data would be at the beginning of Optional Thick which would support new
+registrations as well as backfill any existing registrations. But really, it really
+is just that 18-month period that the reduced validations would be in effect.
+
+Man 1:
+
+Good point. (Jody) go ahead.
+
+Man 3:
+
+What I was going to add - thank you (Mark). That makes sense to me that we
+would have a reduced contact validation until the end of the existing
+registration or until existing registrations are completed. At that time - and I
+guess what I'm curious about what we would be talking - at the end of existing
+registration when they've all been completed, is that when the new contact
+validation or contact requirements I guess be required by the registry? Is that
+when we plan to implement them? Is that February 1st, 2019, then or
+(unintelligible) registration?
+
+Man 1:
+
+(Mark), I see a nod from (Joe) here. Do you want to answer that question?
+
+Man 2:
+
+I'm nodding too. I guess you can't tell. But yes, I think my understanding is
+the discussions we've had within the RRC is that yes, on that policy effective
+date for existing registration you know, at that time the registries would be
+required to switch over to (unintelligible) that their standard validation rules.
+Thank you.
+
+Man 1:
+
+Any more questions/comments on the timeline? So, one of the things that I've
+been observing and I've been following this IRT for some time now, is that
+there's a lot detailed technical discussion. It's almost like design by committee.
+So I think there was a little bit of talk at the last IRT meeting maybe we're
+getting too detailed in that discussion. So from now on I think our aim is to
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 33
+
+focus on the policy level and once we lock down the agreed-upon days, then
+we're just going to push forward and if the registry and registrar needs to have
+a detailed discussion on technical exchange, we can maybe do that in another
+form. Is everybody okay with that?
+(Joe Weldon):
+
+Yes, this is (Joe Weldon) from Verisign. So absolutely what we'll do. You
+know, Verisign has done this with registrars a number of times. I mean we'll
+kind of go through our standard development process, engage with the
+registrars. We'll have our normal communications so I think that you know,
+this part of it -- the technical implementation -- should just follow our
+standard registry/registrar processes.
+
+(Steve Metalitz): This is (Steve Metalitz) again. I just want to put - you know, remind people of
+what the chronology has been here. This policy was adopted by the Icann
+Board on February 7, 2014. So we're now talking about five years to
+implement this policy from the time it was adopted. A final report from the
+Policy Development Process Working Group which most of the people on this
+IRT had some involvement in was October 2013. The policy development
+process started in March 2012 - that's seven years. An issue report was issued
+in September 2011 - seven-and-a-half years.
+So I understand that this is a big change in just in volume. It is again a
+transition of a major legacy GTLD registry did occur in far less time, 12 years
+ago. I understand that it was probably not 100% perfect and there were some
+registrars level behind perhaps if the math is right. But basically it was able to
+happen then, so I'm just going to - I just want to make sure that we're all aware
+of the pace that we are now seem to be prepared to endorse here. Thank you.
+(Fred Aguimeaux):
+
+(Fred Aguimeaux). Yes, I agree that it should be a bit faster at some point,
+
+because I mean I think we have already agreed on the policy and I think we
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 34
+
+should be in the details now - maybe more into the details and get ready to
+implement. Because the sooner it is finished, well the better it is for
+(unintelligible) so we can then work on other things. So yes, I think we really
+should go into the details and consider maybe the policy is locked on that but
+try to make more decisions.
+(Steve DelBianco):
+
+Hey this is (Steve DelBianco) with Business Constituency. To (Steve
+
+Metalitz)'s point, when something goes on this long it's always a significant
+risk that externalities change the circumstances. In the DC in our comments
+we were well aware that changes in data localization laws which are
+extremely unfortunate and damaging to ecommerce and DC members and also
+changes to data privacy laws have the potential to impact how we do what we
+do - not when we do it, right? But how we do what we do in terms of
+migrating data.
+So I wasn't here yesterday. So I'm unaware as to whether all of these plans
+anticipate that some data may not be allowed to be ported and transported
+across borders, particularly of personal information. Is that just something we
+assume registrars or registries and their lawyers and law firms - that they'll
+just work that out and so we're not explicitly dealing with it at all?
+But it does imply we have to have a certain flexibility as to what the ultimate
+solution may have to look like, where you just can't move these 2 million
+records to the United States because it would be against the law.
+Man 2:
+
+Thanks, (Steve). This is (Joe). You bring up a good point and I think that's
+kind of the reason that we talked about this letter that we're going to provide
+to the GNSO is to call that out.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 35
+
+Early on in the IRT work (Fabian) had a slide that he had showed addressing
+this exact scenario. We talked about waivers where there is a waiver process
+within Icann to address that situation. And we had I guess an (RDEP) based to
+work around solution that was something considered early on.
+So I think it is something that we've addressed and considered. This is really
+kind of the standard case of what we're talking about in terms of how we're
+implementing the registrations and the backfill. So I think it is a good point
+and it is something that we've addressed - probably not in the extent of the
+detail that we've talked about for kind of the standard case, though.
+(Steve DelBianco):
+
+If I could follow up - I would need to know the details but we would let
+
+them have (Steve Metalitz) revisit the situation in six months where now
+we've discovered that these data location and privacy laws are going to further
+extend the timeline.
+So I'm just asking if everyone is fully aware of those limitations as you design
+your solution so that the timelines incorporate the technical people at the
+registries and registrars with their legal people and given that challenging
+legal environment, these timelines are still doable. We wouldn't want to come
+in and say well, given the new legal environment we need to change the
+timeline.
+Man 2:
+
+(Joe), I'll follow up again. We'll have a private discussion - no. That's exactly
+right and this is why I think early on when we first started this group up, a lot
+of the people sitting at the table today weren't here.
+And I think there was a concerted effort by Icann staff and others to get more
+participation so I think it's important that we have registrars here because
+registrars are the ones that have to comply with their local laws as well as
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 36
+
+registries and that's why I think it is important that we provide this letter back
+to the GNSO because you know, it's not just Comnet and Jobs - it's not just the
+registries that Verisign is operating that have this issue with the privacy data.
+It's really all of the GTLDs.
+So it is an issue I referenced yesterday that this was discussed quite
+extensively in the RDS meeting that (Chuck Holms) was hosting, I think it
+was on Tuesday. So it is an important point that's being discussed in a number
+of different venues you know, throughout the community but I think that you
+know, what we're tasked with doing in the IRT is implementing this policy.
+(Seth Pio):
+
+Thanks. This is (Seth Pio) from Rules and Register. So (Steve), since I joined
+this group I've been talking and mentioning that when we are looking at the
+new EU regulations that are coming into effect at some point - it's a moving
+target. My plan - and maybe I was a little bit naïve here - when I started this I
+was hoping we could have this done before those new EU regulations would
+kick in because when I consulted with my lawyers back then, we had no issue.
+We saw no issue. Our contracts with our registrants were able to give us the
+consent to move the data and we are now looking at this timeline somewhere
+next year I assume these new EU regulations will kick in.
+And what I heard back from my lawyers back like 14 months ago is that (Pio)
+if those new EU regulations kick in, we have no idea if you are compliant or if
+you can move the data. So from my perspective as an EU registrar, I cannot
+promise you we are not going to fumble with that timeline again because I
+basically simply do not know.
+
+((Crosstalk))
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 37
+
+(Seth Pio):
+
+That’s one part of it. Thanks.
+
+(Erika von Eichenbot):
+
+Good morning. (Erika von Eichenbot). Maybe to get some clarity
+
+on this last point. So the legislation will kick in the new regulation in 2018. I
+would have to check the exact month but there are two stories to it. The one is
+the legislation and the second one is the so-called privacy shield. The privacy
+shield is a little bit (unintelligible) ensures the transfer of data under certain
+conditions and ensures accuracy between - that there is a certain amount of
+accuracy between Europe and the United States with regard how data is
+treated is preserved.
+Now, the story is it was supposed to be - the agreement was supposed to be
+agreed on and the documents to be presented to the public on the 5th of July. I
+just had a long discussion yesterday and it's now very likely going to be the
+12th of July. They still have some internal quarrels in particular between the
+European member states because of some of the issues. They had to do some
+final adaptation on certain texts and documents but it seems to go okay.
+Which doesn't mean -- and this is the third part of the story -- always keep in
+mind the privacy shield can be challenged again in court, but it gives you at
+least certainty for a certain period of time before somebody might challenge it
+again in court and then we have to find another solution. I can give you more
+details. I am happy to send it to somebody who can distribute it about the
+timing and the issues. I have a note prepared on this. So I am happy to share
+this.
+Man 1:
+
+(Steve), did you want to speak?
+
+(Steve Metalitz): And it would be great to have that information from (Erika) on the timeline. I
+will just say on the privacy shield my understanding is - or I guess I could ask
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 38
+
+it as a question. Does any of the registries or registrars around this table
+currently rely upon or did they rely upon the safe harbor that privacy shield is
+replacing to cover the transfer of data to existing thick registries, for example?
+I think the answer is no. I don't think that has been an issue, so you know, that
+may or may not be relevant in the new environment but I think the fact is as
+(Pio) said, people were looking at the existing law and seeing if they seemed
+to be compliant and again this was similar to the conclusion that ICANN's
+outside counsel reached also in that report that came here a couple years ago
+now.
+So obviously the landscape is changing in data localization as (Steve) points
+out, which is kind of separate from this whole data protection issue. Also is
+going to have an impact - that's true. There's nothing we can do about that
+outside environment, but of course if we had proceeded on a more expeditious
+schedule we would have a system in place now and we'd be able to evaluate
+that system against the changing legal environment. Thank you.
+(Fred Aguimeaux):
+
+(Fred Aguimeaux). I also wonder, does it mean that at some point we will
+
+stop all the registrations in (unintelligible) like dot info and all the others,
+because of this privacy law? I mean there are thousands of registrations every
+day and data transferred from Russia to the U.S. and so on and the world is
+still running.
+So maybe - okay, I'm not a lawyer, but maybe we shouldn't worry that much.
+Like if we have one year to do that, maybe some people will renew their
+registrations but one of the arguments - one of the thing we said during the
+IRT is when they renew they can accept the terms and conditions so they can
+accept the transfer. We have plenty of things to ease and to move forward I
+think.
+
+ICANN
+Coordinator: Nathalie Peregrine
+06-30-16/8:00 am CT
+Confirmation #8995678
+Page 39
+
+Man 1:
+
+Any more comments? We are beyond the 10:30 mark and I know (Joe), you
+had to go. So then I will go ahead and close out this meeting. Thank you
+everyone for coming and we will - don't forget our target date, next week
+Friday we would love to have your comments and following week we will
+have another IRT meeting and hopefully we can hit a couple of those early
+milestones. Next week is July 8th, Friday. Thank you. Thank you, everyone.
+
+END
+
+

@@ -1,0 +1,1250 @@
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+Monday, June 27, 2016 – 08:15 to 09:15 EEST
+ICANN56 | Helsinki, Finland
+
+OLGA CAVALLI:
+
+Good morning, everyone.
+If the gentlemen could be seated.
+Good morning, everyone.
+My name is Olga Cavalli.
+
+I am the GAC representative of
+
+Argentina, and also the GAC vice chair, and I coordinate two
+working groups in the GAC.
+
+One is about protection of
+
+geographic names in new gTLDs, which is what covers us this
+morning in this room, and the other one is about participation of
+the GAC in the NomCom, which will be presented at this time
+Thursday.
+Hello to the translators there. I hope I am not too fast. So if I am
+too fast, you just wave me.
+And also, you will have to have some patience with me today
+because I didn't sleep. I have been watching the games, and
+Chile won and Argentina lost. So it's a kind of sad day this
+morning, but my congratulations to my Chilean friends and
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+brothers from the region. They did a very good job. So I'm kind
+of sad and sleepy, but I'm here with you.
+And also, we are competing with the Ethos Award I think. So we
+will do our best to entertain you this morning.
+I will present to you two documents. One is a PowerPoint which
+contains what we have been doing in the last -- well, since March
+to here. And previous to the March meeting in Morocco, we were
+kind of focused in the IANA transition, so we did prepare a
+document which is about public interest. We were focused in
+that document, but we did not have many phone calls.
+We did start with our conference calls after the Marrakech
+meeting. So I will let you know what we have been talking
+about.
+And then at 9:15 we will report the summary what we are going
+to talk about now to the GAC plenary.
+So if you have any questions during my presentation, please let
+me know.
+Just a little bit background. To those of you that are new to this
+process, this working group was created after what was
+mentioned in GAC Durban communique in July 2013.
+
+That
+
+stated that ICANN should work with the GAC to refine the rules
+for new gTLD rounds to avoid some conflicts that we had in the
+
+Page 2 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+first round, especially about the use of some country and -some territory names that are relevant for some communities
+and some countries in different parts of the world.
+We started our work in the Buenos Aires meeting in 2013, and we
+have produced some documents. One is a document that was
+presented before the Singapore meeting. Then we opened it for
+comments as a thing that has never been done before in the
+GAC. So we opened the document for comments. Not a final
+document produced by GAC, but just a draft background
+document.
+We received many, many, many comments. We presented the
+summary of those comments in the meeting in Singapore in
+2014.
+After that presentation, we read the transcripts and we decided
+that we should focus in some things that were really stressed
+during that session, which was what really mean "public
+interest" in the context of ICANN and in the context of the use of
+these geographic names in new gTLDs. So this is what I mainly
+will be presenting this morning.
+And also, we developed our first work plan, because the group
+was not kind of formally established until then.
+
+Page 3 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+And also, we developed a group of best practices that I will
+present them to you today. We also reviewed them before, but I
+would like to review them again because we received some
+comments from our members in the working group.
+And then we have some inputs from friends from some countries
+about the use of regional names and related concepts like
+relevant governments and other things. So it's kind of a lot of
+things to review. But can we go to the next one, Julia, please.
+So very, very quickly. The objectives of this working group is
+have less uncertainty for the next new round of new gTLDs. We
+want less conflicts and more success stories. That's the idea.
+We want to avoid the misuse of names which are relevant for
+communities, regions and countries, have less conflicts, and
+also, if we can, give some background information to the GNSO
+or to the development process of different documents that are
+being done in the ICANN environment. So this is the idea of the
+working group.
+
+It's a GAC working group; it's not a cross-
+
+community working group. But we have been very open. We
+have opened the documents for comments for the first time in
+the GAC story.
+Can we go to the next one, please.
+
+Page 4 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+So what I will present to you now is the working plan that we
+have been updating very lately. It has been shared with our
+colleagues from GAC, so if our GAC colleagues can give us some
+feedback, perhaps, in the section that it's about the plenary
+presentation, about the working group to the GAC, that could be
+great.
+Comments about best practices that we received lately. The use
+of some regional names and related concepts about relevant
+governments. Then I will make a quick revision of the document
+about public interest, which is the idea. The idea is to present
+this document to ICANN as a GAC contribution, if possible. And if
+not, we won't do that. Maybe it's done by some countries, if we
+decide so.
+It's a document that has reviewed the use of the concept public
+interest in different documents that are relevant to ICANN. And
+then I won't talk about reactions to straw woman paper
+proposed by Cross-Community Working Group on country and
+territory names. That will be done by my colleague Gema, from
+Spain, tomorrow, but the document that she will present
+tomorrow has been prepared by the working group of
+geographic names.
+
+Page 5 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+And then I want to tell you about a request that we had in the
+meeting we had in Marrakech about including other experts in
+our working group email list.
+Those that you know me, I'm always open -- towards openness,
+and -- but there are some rules in the GAC that has to be
+followed, and it's not only what I want but what the rules are. So
+I will briefly talk about that if I have the time. And if you have
+any comments, you will let me know.
+So Julia, if you can upload the work plan.
+Thank you. This is a work plan that has been changing since we
+started with the formal work plan in 2014.
+First is with the public comments that we received in 2014, we
+prepared the set of best practices that I will review with you.
+And we decided to revise the concept of public interest, which I
+will present to you today. So this point 1 is more or less quite
+developed.
+Number 2 is these ideas and these reflections and these
+comments that we have or some countries have about this issue.
+The idea is to inject them into the different policy development
+process in ICANN. We have not done that as GAC, but part of the
+documents that we have developed have been -- have been sent
+
+Page 6 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+as comments to different processes from -- as a contribution
+from some countries from Latin America. That's point 2.
+Can we scroll down a little bit. So I won't go into details. This
+document is among the information that GAC colleagues have,
+so it's mainly for GAC information.
+Can we go to point 3, Julia, please. And this is the link, up there
+is the link to the contribution that some countries of Latin
+America, we did to one of the requests for comments about the
+policy development process of the new gTLD round. And then as
+I told you, when we reviewed the transcribes -- transcriptions,
+transcribes of the Singapore meeting, many delegates and many
+members of the community request if we could think about and
+reflect about the use of public interest and public good. So this
+is what we will do today. And we have some suggestions by EBU
+also.
+Can we scroll?
+So this point 3 is already quite developed.
+Also, we have a proposal to analyze the situation of some
+annexed and occupied territory names. This is a suggested
+action by Ukraine and by Georgia. We have talked about that.
+We may bring this up today again. So this is half -- halfly made.
+
+Page 7 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+And number 5 is, this is -- we would like to collect experiences to
+learn from previous rounds.
+
+We haven't done that as a
+
+compilation. We have information about that, but we have not
+compiled it. And the best practices, which is number 6, is
+already developed; of course, always ready for improvement.
+And then number 7 is we talked about developing a geo names
+list. We talked many times about that. At the moment, we
+concluded that it was difficult to prepare. It was difficult to
+maintain. So we, for moment, we kept it aside. But during the
+Dublin meeting, we had a meeting with people from UNESCO
+and from ISO, so this was an idea of our colleague Giacomo
+Mazzone from EBU. So this may be something we explore in the
+future. So number 7 is one of our action items still to be
+developed.
+And what is it? I think it's done. Can we scroll down?
+The rest is just organization things.
+So I will go to the PowerPoint now. Julia, please.
+Any comments? Any questions so far?
+Kavouss.
+
+IRAN:
+
+Page 8 of 37
+
+Thank you very much. Good morning to everybody.
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+I have few comments. The first comment, let us, to the extent
+practicable, maintain GAC meetings nonpolitical. So discussing
+some term of the territories under occupation is a very complex
+issue. It may take a lot of our times, and we may have some
+difficulty to have any comments, because views may be
+different.
+So quickly, to the extent possible, take out any political
+orientations of this document.
+Second, I have a question that what is regional names? We don't
+have regionals names. Are we talking of region one, region two,
+region three, or Asia or Oceania, Latin America? We are talking
+of geographic names but not regional names. So I think we have
+to be very careful about that.
+And the third issue, I also suggest, having participated almost
+actively in 19 months or 18 months of the CCWG, it is better not
+to talk about public interest. You could refer to that in the
+inverted comma, guillemets in French, but trying to say what is
+public interest, we didn't have any success to say what is public
+interest.
+Public interest is referred to in the article of incorporation. It is
+there as it is. We don't touch it. It is copied in the new bylaw.
+That's that.
+
+Page 9 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+But my fear is that we may get into the piege, into the trap, to
+see public interest. In view of some people, this would be public
+interest, the other would not be public interest.
+
+So try to
+
+streamline the discussions under your leadership to the area
+which were very sensitive and arise from Durban meeting, and
+remember what was the reasons for that.
+So this is my request to you and to the distinguished colleagues;
+to concentrate on something that we could do.
+Thank you.
+
+OLGA CAVALLI:
+
+Thank you, Kavouss.
+Any reactions to that?
+(Saying name). Sorry; Mzia. Sorry, sorry, sorry.
+
+GEORGIA:
+
+Mzia. thank you, Olga. I just want to make a short comment.
+I don't think that this is a political issue because we concern
+term "relevant." I think that this term, in case of self-declared
+countries, is not unclear. I think to define this term more clearly,
+we avoid -- we will avoid political issue. So that's why Ukraine
+and me propose to define this term.
+
+Page 10 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+OLGA CAVALLI:
+
+EN
+
+Thank you, Mzia. Other comments, other reactions.
+Okay. Thank you, Kavouss, very much for your comments. I
+would tend to disagree with you about regional names. There
+are regions that have names in some countries that comprise
+two or three countries. So this is something that I think it's
+worth to explore. So we have -- we have different opinions
+about that.
+And the public interest revision was -- was requested during the
+Singapore meeting. It was specially requested by the United
+States delegate at that meeting, that we should work on trying -I know it's extremely difficult, but we should try to at least think
+about different perspectives of the use of best practices. And I
+think this is the purpose of the document that we -- that we have
+done in the working group that has been shared with the GAC
+colleagues. So this is the idea. Any other comments? Yes,
+Milagros.
+
+PERU:
+
+I tend to agree with Olga regarding the regions, Kavouss.
+Because for example, only in South America, the Mesonean
+(phonetic) region, it's both a geographic reference and a region.
+The Andean region is also a geographic reference. On the other
+
+Page 11 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+hand, in reference to the public interest issue in the meeting in
+Marrakech regarding public interest and I participated in, I was
+told by a lawyer of GAC -- of ICANN that the public interest for
+ICANN was defined as recorded in the California law. In fact, the
+wording, the phrase "public interest," was used when the
+organization was being structured because it had to be done
+under the California law. So we cannot avoid using that phrase,
+and perhaps redefining it is also an absurd because it is already
+defined by the California law. Thank you.
+
+OLGA CAVALLI:
+
+Thank you, Milagros. Any other comments? I have a comment
+from Oleksandr from Ukraine and he is participating remotely. I
+will read it to you. "About relevant, other GAC members can, of
+course, bring new ideas, so it's welcome, but we definitely
+cannot keep current term unchanged." We haven't come to this
+point so far.
+
+Okay.
+
+"There's a discussion about relevant
+
+government and internationally accepted government.
+
+So
+
+Oleksandr is making this comment about that. Bring new ideas
+is still welcome, but we definitely cannot keep current term
+unchanged, otherwise we will need to set a very clear definition.
+So we have to change the term or set the definition of the
+current. I like both ways but I have very strong concerns about
+keep it as it is now. It is inappropriate because the position of
+some GAC members committee will never find consensus in any
+
+Page 12 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+country territory issue. So I suggest two actions. Request more
+ideas on terms and definitions of relevant government. Request
+legal oversight from ICANN lawyers on this term." I would also -I think it stops there, right? I would also propose to get some
+advice from United Nations experts regarding this issue. Thank
+you, Oleksandr. This is very similar to what I've been thinking
+about this issue of defining relevant governments. We will go to
+that term in a minute.
+
+Any other comments about this
+
+definition? And I would like to remind you that ICANN is also -has opened a space to reflect about the meaning of public
+interest. There was a wiki and there was a meeting and there
+was a session in the last meeting in Marrakech. Unfortunately I
+couldn't attend because it collapsed with other meetings we
+had in the GAC. But I think at least it's a good idea to talk about
+it and review it from different perspectives and see how it fits
+from different environments.
+
+Any other comments?
+
+Okay.
+
+Thank you.
+So we will go to the PowerPoint, if you allow me. Julia, can we
+go to the next one? So this is the best practices that we have
+developed after receiving the comments in Singapore and
+analyzing them. I won't go through them because we have
+presented them before.
+
+We have comments from some
+
+members in the working group that this best practices ideally
+should concile interests of applicants in having legal certainty,
+
+Page 13 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+which is something we care about. And a clear environment and
+also should concile interests of governments and public
+authorities and communities. This is the purpose of this working
+group, to know uncertainties and to have less conflicts in the
+next round of new gTLDs.
+I will share with you this PowerPoint so I won't go through all the
+best practices. In generally what we would like to see is early
+conduct between the applicant and the -- the relevant -- I don't
+know if authorities or government or whoever it is from the
+community, the region or subregion or whatever the name is
+used. So it is not a surprise once the name is used in a new
+gTLDs and then it's a problem and it's a conflict. So if you have
+an early contact, which is by the way, it is established in the first
+version of the Applicant Guidebook.
+
+The thing is that for
+
+different reasons it didn't work so well in the first round. So we
+think that in the second it could be somehow established in a
+different way. So it's more -- I won't say mandatory but it's more
+-- so the applicant is more keen in get in touch with the relevant
+region or the relevant community where the -- where this name
+belongs.
+
+So I will keep it for you to review in the Word
+
+PowerPoint. Any comments about that? About this slide? This
+was presented before several times so I won't take a lot of time
+about this. Okay. I see none. Julia, can we go to the next one,
+please?
+
+Page 14 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+Okay. This is -- this is a proposed idea of revising this use of
+annexed or occupied territories and also review the term
+"relevant
+
+government"
+
+or
+
+"government
+
+internationally
+
+recognized." This is a discussion we had -- not a discussion, a
+debate we had in some of our conference calls, so I would very
+much welcome comments from you. And I think Oleksandr did a
+very, very good suggestion that we could have legal advice from
+ICANN and also legal advice from some United Nations or
+internationally law expert. I'm looking at Milagros. She's an
+expert in international law. I am not. I'm an engineer, so I'm not
+the one to make this but I'm just helping the work. Because in
+some documents we found that the use of the term of "relevant
+governments" and then some others in the working group
+pointed out that "governments internationally recognized" was
+the right term to be used. So if someone in the audience could
+have any -- any other comment or any other idea, and if not, we
+will try to find more advice about this definition. Any comments.
+Jorge.
+
+SWITZERLAND:
+
+Hello. Good morning, Olga, and sorry for being late. On this
+issue, although I'm -- I'm not an expert at all, it came to me that
+in the end we are talking about what ICANN would be
+interpreting when -- when this concept of relevant government
+or whatever concept we use is being implemented --
+
+Page 15 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+implemented or being useful for any application. And we have
+to be mindful that ICANN is bound to international law
+according to its articles of incorporation and the bylaws. So
+perhaps there's already a link there. And we don't have to
+reinvent the wheel for the purposes of this working group.
+
+OLGA CAVALLI:
+
+Kavouss.
+
+IRAN:
+
+Thank you, Olga. I think I should explain that I should not have
+misunderstood. I had no problem with those names which are
+associated with multiple countries in particular region.
+
+We
+
+know the example. But I wanted to avoid to have political
+problems. This is very important. We do not convert the GAC to
+the security council of the United Nations. Nor your committee,
+your group.
+Number two, I almost tend to agree with Jorge that I don't think
+that the GAC -- sorry, ICANN legal team could intervene in the
+sovereign right of countries, talking about this is the right
+approach or this is not the right approach. This is sovereignty of
+the countries. Nor a particular legal entity or also in a general
+(indiscernible) could have. It could have its own firm, law firm,
+or whatever it has. But I don't think that we should have
+
+Page 16 of 37
+
+EN
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+reference. Some internationally agreed entities may be not an
+issue but not particularly at this legal advisers.
+
+They are
+
+advisers to those people they are advising. They're not legal
+advisers to sovereign governments. So I don't think that we
+could recourse to those sorts of the thing and then put as a
+stamp that okay, this is approved by legal adviser X or legal
+adviser Y or by legal office in particular countries. Madam, world
+is quite strange and people have certain interests.
+
+These
+
+interests should not intervene or interfere with the national
+sovereignty of the countries. So to the extent possible once
+again I use this term, we should avoid this sort of advice from
+these peoples. Thank you.
+
+OLGA CAVALLI:
+
+Thank you, Kavouss. Can I ask you a clarifying question? The
+question came in analyzing several documents where the term
+"relevant government" is used and it was suggested by other
+members of the working group that instead of relevant
+governments
+
+we
+
+should
+
+use
+
+the
+
+term
+
+"government
+
+internationally recognized." In my modest opinion this is not
+interfering with any sovereignty rights. We just are reviewing
+different ways of defining. So this is why we have been talking
+about this.
+
+Page 17 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+IRAN:
+
+EN
+
+Madam, I'm not referring to that. I'm referring to the legal
+adviser of the ICANN providing information about something
+and so on and so forth. That was my question. I'm not talking
+that. I fully agree internationally recognized countries and so on
+and so forth. That is the alphabet of our work. But I refer to
+something else for a particular subject asking legal adviser of
+ICANN to comment. That was my question. Thank you.
+
+OLGA CAVALLI:
+
+Thank you, Kavouss. I will open a queue. Have I Yuliya, I have -- I
+think you were first, and Milagros, I'm sorry I cannot see you very
+well. You are? Miguel. Oh my God. Yes. I cannot see you from
+here. And Milagros. So Yuliya first, please.
+
+RUSSIA:
+
+Good morning, everyone. Actually I can agree with Kavouss
+regarding that. We should not make our discussion political
+because we are actually -- we are doing very important work. Of
+course, we have to work on geographical names which is
+relevant to the territory we are actually recognized as the GAC
+members. When it comes to the very terms of international law,
+of course, we don't have a mandate and we don't have enough
+competence to do that. And so we are coming to U.N. language
+and how can we say that it's relevant U.N. language or irrelevant
+right now because as I said, we don't have mandate, we don't
+
+Page 18 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+have competence for that. If some wording is proposed, I need
+to go to my minister of foreign affairs to check whether it's right
+U.N. language or not. And I, for example, do not have enough
+competence to say right now that this is acceptable or not. So
+we are coming to the territory we do not have mandated, first of
+all.
+So when I say I -- I'm just making my own judgment on where it's
+better to have relevant governments or internationally
+recognized governments because when we discuss regional
+territory name, for example, it's the "C" name, the number of
+countries actually have the access to the "C" and other country
+used to have historical, for example, access to the "C." All of
+them internationally recognized who's relevant? What is the -actually the way out of this situation? It's really very delicate
+issue. And so first we do not need to -- should be very delicate
+with political issues. We need to avoid this because we are in a
+technical territory and we have to -- we are thinking about
+Internet, not about the how to solve the political things. And
+U.N. language should be considered in U.N. This is the point.
+
+OLGA CAVALLI:
+
+Thank you, Julia. I have a queue that's Miguel, please. Go
+ahead.
+
+Page 19 of 37
+
+EN
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+MEXICO:
+
+Thank you, Madam Chair. Good morning, everybody.
+I fully agree with the previous speakers in terms that -- about
+mixing this with political issues.
+When this conversation gets into the working group, I asked to
+my
+
+foreign
+
+affairs
+
+about
+
+this
+
+change
+
+from
+
+"relevant
+
+government" to "government internationally recognized." And
+what they say is we cannot accept "government internationally
+recognized" because when you are recognizing someone, it's a
+political issue. So we must try to avoid that.
+I totally agree perhaps "relevant" is not the perfect term. We can
+work on that.
+
+But definitely "government internationally
+
+recognized" is not a term good for us. Thank you.
+
+OLGA CAVALLI:
+
+Thank you, Miguel.
+I have Milagros.
+
+PERU:
+
+I agree with Kavouss and with Yuliya regarding the need to keep
+aside all political debates. I don't think this is the right fora for
+that. And to that, I have to add that "government internationally
+recognized" is wrong because there are, as far as I know, two
+different practices around the world of government recognition.
+
+Page 20 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+And we would again be dealing with political ideas in order to
+reach those practices.
+And "relevant government" is also wrong because, you see, the
+word "relevant" is used over and over again in the bylaws and
+the articles of incorporation. And who defines what is relevant
+and what is not?
+A government is a government. It's not relevant or irrelevant.
+That's it. So the word "relevant" should be avoided.
+So I would say governments and make a space -- simply
+governments and making a space to analyze eventually case-bycase situations, no?
+
+Because we are thinking here of
+
+hypothetical scenarios. There are very few really. In practice,
+how many scenarios can be presented to this ICANN regarding
+the situation of governments that are questioned or geographic
+areas that are questioned? How many scenarios? There are very
+few in the world. And perhaps they never arrive as a case to
+ICANN.
+So I would say simply "governments" and leave open the door to
+analyze a case-by-case situation if the need should arise, no?
+Thank you.
+
+OLGA CAVALLI:
+
+Page 21 of 37
+
+Thank you, Milagros.
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+And I have -- oh, the queue is long. Olof and Mzia, Mzia. Mzia
+and Olof. And then sorry, Olof, Mzia, and Indonesia. And who
+else? I don't know your name, I'm sorry. Okay. And Finn. Okay.
+Mzia, please.
+
+GEORGIA:
+
+Thank you. I don't understand why some members of GAC see in
+our request to define -- redefine the term "relevant government"
+a political issue. This is not a political issue.
+ICANN is not a political organization, and it should not intervene
+into (indiscernible) of countries. But ICANN is the organization
+who grants domain names. If -- how ICANN can't grant domain - I mean, geographical name of self-declared countries or
+conflict territories, if term "relevant" will not be -- is not clearly
+defined. We just want to avoid this problem and just to clear
+what is it relevant.
+I agree that maybe "internationally recognized" is not proper
+term, but I agree with Miguel and Oleksandr that we should work
+on it to define this term "relevant." We should involve ICANN
+lawyers and U.N. lawyers. Maybe we will keep this term in the
+applicant guidebook, but we have to -- we have to clearly define
+so we can give it definition, clear definition, what is relevant.
+
+Page 22 of 37
+
+EN
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+I don't agree to leave only term "government" because I think
+this is more unclear than "relevant government."
+So I just would like to stress that it is not a political issue, no. It's
+-- it's trying to avoid political disputes.
+
+And I agree with
+
+Oleksandr and with Miguel to involve -- to work on it further and
+to make clear the definition of its term to avoid any
+misunderstandings later.
+
+OLGA CAVALLI:
+
+Thank you, Mzia.
+Olof?
+
+OLOF NORDLING:
+
+Thank you. Olof Nordling, ICANN staff and not speaking on my
+own behalf but trying to channel Oleksandr Tsaruk from
+Ukraine. Two comments.
+First one, and I quote, for regions issue, we need to work on lists
+like ISO 3166-2 as basic lists regarding protections of geo names,
+end quote.
+Second comment a few minutes later, a comment: We go from
+politics with capital P to definitions with capital D and oversight
+with capital O, end quote. Thank you.
+
+Page 23 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+OLGA CAVALLI:
+
+EN
+
+Thank you, Olof.
+Next I have -- and I will close the queue now because then we
+won't have time to finish. Indonesia.
+
+INDONESIA:
+
+Thank you, Olga. I just want to -- I'm trying to find out, but I
+couldn't find. Olof could help me and also you. In the ICANN,
+does ISO organization also sit as an observer or whatever
+because as far as I'm aware, if you look at the RFC set up by IETF,
+I have never heard about any comments from the ISO group.
+That's number one.
+So I think we are talking about this. Then we have to see the
+possibility of ISO to be, what you call it, to be accommodated or
+sitting here somewhere in the ICANN group where they can
+exchange information about how important is ID for Indonesia
+or whatever, MY for Malaysia and so on, how important it is.
+Perhaps they don't even know how important it is. Of course,
+some of them, of course, know about that.
+Secondly, perhaps it is also time for us to talk with ISO, that the
+changes in political or geo names based on political or other
+issues. It's sometimes kind of fast, and it has to be somehow
+adopted and recognized in the ICANN numbers, ICANN DNS.
+
+Page 24 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+Now, if you look at the ISO process, it will take a long time to
+change something because they have to make a TC, a technical
+committee, and so on and so on and so on. It has to be agreed in
+a local meeting and regional meeting and then big meeting and
+so on and so on. So it takes a lot of time. It is different with RFC
+because RFC more honest and open standard.
+
+I mean,
+
+everybody around the world can just give their opinion. And if it
+is important, they will fix it. And IANA will adopt it. And the
+protocol is there.
+But an ISO, it is not the case. Perhaps it is timely for us to talk
+with ISO.
+I have also problem in Indonesia with our national standard
+decision agency because they adopt the ISO and IEC, the
+International Electrotechnical Commission process.
+
+And it
+
+always take a long time. And when we discuss with them about
+Internet standard, it doesn't -- no, no, it is difficult to get
+matched, if I can say that appropriately. Thank you.
+
+OLGA CAVALLI:
+
+Thanks to. Before I will continue with the queue, just to let you
+know we did an informal contact in Dublin with representatives
+of ISO. And they explained to us that process that you just
+described. And it takes some time. But we are thinking about
+that, of course, as an option.
+
+Page 25 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+Next in the queue -- oh, I lost my queue. I have -- I think I have -you and I have Denmark.
+Please, go ahead. I don't know your name. I'm so sorry. If you
+can let us know your name, that would be great.
+
+NIGERIA:
+
+My name is Sonigitu Ekpe, and I'm Cross River State
+government, Nigeria. It is a national government. We are all
+aware that today that the Internet of Things could lead to global
+governance. We can't pretend about it. That is the possibility
+that will come. So it's a better time to start the dialogue now
+and see how we can emerge the political dimension of the
+Internet because if we were not talking about Internet
+governance, which is already political at some level, then ICANN
+which is the main holder of the domain name cannot protect
+governments.
+So I see that "relevant governments" should not be there but
+"government" because you have local governments, you have
+subnational, and you have national governments. And most
+time these governments have their various interests even within
+a system. Thank you.
+
+OLGA CAVALLI:
+
+Page 26 of 37
+
+Thanks to you.
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+Finn?
+
+DENMARK:
+
+Thank you, Olga. It was only a point of order. When Yuliya from
+Russia spoke, the transcript indicated Denmark. So in order that
+the transcript is correct, please indicate that it was Russia who
+spoke.
+
+OLGA CAVALLI:
+
+Thank you, Finn.
+
+It's Yuliya from Russia, not Julia from
+
+Denmark. By the way, is at home with a very beautiful baby.
+She's okay, right?
+
+DENMARK:
+
+I have been told she is okay.
+
+OLGA CAVALLI:
+
+That's good to know. Thank you for your clarification, Finn.
+Okay. I don't see any more requests for the floor. Kavouss, the
+last in the queue.
+
+IRAN:
+
+Yes, thank you. Just a small question to you and to colleagues.
+Imagine that in some area of the world an island is called X by
+country A and the same island is called Y by country B. What is
+
+Page 27 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+our role in those two -- within those two countries? Many, many
+people are far, far, far from those to have any idea, any
+knowledge, any background and any intervention from legal
+point. What is our role in that? I'm talking of far, far -- no name.
+People may know that. But an island, it's called two different
+names by two different countries, big countries. What is our role
+there? We say country A is right or country B is right? Can we say
+that? Thank you.
+
+OLGA CAVALLI:
+
+Well, about -- some examples about that, there are some United
+Nations' resolutions that should be stated when referring to
+some of these names, so -- but that's not the focus of our
+working group.
+So I will stop this discussion here, and I think it's extremely
+interesting. And I don't know if we reach an agreement, but I
+think we had a good exchange of reflections and comments. So
+it's
+
+"relevant
+
+government,"
+
+it's
+
+"government,"
+
+or
+
+it's
+
+"internationally recognized."
+Let's keep on working in the working group about this, and we
+may -- we may bring this to -- I will summarize all the comments
+in a document for the working group, working on my notes and
+the transcript -- with the transcript. So I will share with you and
+
+Page 28 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+the working group and we may organize a call, maybe in July,
+and see how we move forward.
+Can we go to the next slide?
+And I don't know if I will have time. I just want to show you very
+briefly the contents of the document that we have prepared,
+some of us in the working group. The idea would be the GAC has
+already it among the documents for -- for this meeting. If the
+GAC agrees, this document could be a document sent to the
+group of people that are gathering information about public
+interest concept in ICANN or not. It's something up to the GAC to
+decide.
+For me that drafted the first version, the document was quite
+interesting.
+What we used as a source of information were the ICANN
+strategic plan for fiscal years 2016 to 2020, the high-level
+meeting of the General Assembly of the World Summit of
+Information Society, and one of the workshops of the Internet
+Governance Forum about public interest that happened in Joao
+Pessoa. I was invited to be a panelist in it.
+So we used these documents and we gathered some definitions
+and some concepts about public interest that we thought it
+could be interesting for the working group in general.
+
+Page 29 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+Can we go to the next one, please, Julia?
+One clarification.
+The documents about ICANN and the mission and all that
+information has been used before any changes that will be done
+now, so we should perhaps review the paper that was prepared
+like two months ago in the light of the new bylaws.
+So, "ICANN defines the global public interest in relation to the
+Internet as ensuring the Internet becomes and continues to be
+stable, inclusive, and accessible across the globe. All may enjoy
+the benefits of a single and open Internet. In addressing its
+public responsibility, ICANN must build trust in the Internet and
+its governance ecosystem. This vision is central to ICANN's
+public responsibility framework; however, there is a need to
+define particular areas of focus and target topics, regions, and
+stakeholders that need to be addressed in relation to ICANN's
+responsibility to serve the global public interest."
+So we have a specific reference about public interest that has to
+be reviewed in a certain context, which is something important.
+So public interest would not mean the same when we are
+referring to different things, so this is the first reference that we
+found.
+Can we go to the next one, please.
+
+Page 30 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+Of course the document is quite long. This is just a summary.
+I don't know if I will have time to go through it.
+"ICANN's vision's reference to public interest.
+"ICANN's vision is that of an independent, global organization
+trusted worldwide to coordinate the global Internet's systems of
+unique identifiers to support a single, open globally
+interoperable Internet. ICANN builds trust through serving the
+public interest"-- again -- "incorporating the transparent and
+effective cooperation among stakeholders worldwide to
+facilitate its coordination role."
+So this -- this inclusion of the public interest here in this
+paragraph, we see it as building trust. It's not only as a very
+narrow mission. It is more. It is broader.
+Can we go to the next one, please.
+In the strategic objectives, I will go just to the last one: "Develop
+and implement a global public interest framework bounded by
+ICANN's mission.
+And, "There is a specific reference about ICANN coordinating
+policy development reasonably and appropriately related to
+these technical functions."
+
+Page 31 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+So it is not so, so narrow.
+
+EN
+
+It has to be reasonable and
+
+appropriately.
+So this is all -- all from ICANN documents.
+The next one, please.
+Strategic objectives.
+"The evolution of the domain name marketplace should not
+create conflicting agendas of key players thwart cooperation
+and evolution of marketplace to serve the public interest.
+Promote the role, clarity, and establish mechanisms to increase
+trust within the ecosystem rooted in the public interest. ICANN
+seeks to develop a public responsibility framework for
+promoting the global public interest in the coordination of the
+Internet's unique identifier systems and in furtherance of
+ICANN's mission.
+
+The framework will clarify ICANN's roles,
+
+objectives and milestones in promoting the public interest
+through capacity building, and increasing the base of
+internationally diverse, knowledgeable, and engaged ICANN
+stakeholders."
+So as you can see -Oh, many people is coming to -- to the room. That's great.
+
+Page 32 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+As you can see, what we found when we analyzed this -- this
+several times, that the public interest concept is included in the
+ICANN fundamental documents, is that it really is broader than
+the concept of a narrow mission. It goes beyond that. And
+somehow we found this context somehow aligned with what we
+are trying to do with the working group, in trying to lower
+uncertainties and preparing a more predictable environment for
+these policies.
+Can we go to the next one, please.
+Other parts of the ICANN strategic objectives.
+How much time we have?
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+OLGA CAVALLI:
+
+Four minutes? I thought -- it's not until 9:30?
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+OLGA CAVALLI:
+
+It's not the same people?
+
+Page 33 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+OLGA CAVALLI:
+
+Oh, this is strange. Okay. Two minutes.
+
+EN
+
+So I won't go through the strategic objectives. You have this in
+the document. You have this in the slides.
+What we found in analyzing this is that the term "public interest"
+is used in a much broader way than what we thought at the
+beginning, so we found it very interesting to review.
+Can we go to the next one.
+Julia? Next.
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+OLGA CAVALLI:
+
+So as I said --
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+Page 34 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+OLGA CAVALLI:
+
+To the GAC?
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+OLGA CAVALLI:
+
+Okay. Thank you, Olof. Thank you very much. So as you can
+see, these references to public interest go beyond what strictly
+the mission is. It's more. It goes beyond that. And we think it's
+important to the purpose of our working group and this was
+requested a while ago that we should review it. This is why we
+prepared this document.
+So the document is among the materials for the GAC to review,
+and I would welcome comments from our GAC colleagues about
+the possibility of sending it as a GAC contribution to the public
+interest work that ICANN is doing, and if not, just say no and we
+will see what to do.
+The next one, please.
+Other sources that we used is the high-level meeting that
+reviewed the WSIS outcomes and, as I had mentioned, a public
+interest workshop in the last IGF in Joao Pessoa in Brazil.
+Hi, Alice.
+Next one, please.
+
+Page 35 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+And I think we are almost done.
+Also would like to stress a contribution by Peru about the
+difference in between common good and public interest. Thank
+you, Milagros. That was very enlightening. It's part of the
+document. It's included in the long document. I won't go
+through details, but you can review it there.
+And can we go to the next one, please, Julia.
+So it is difficult to define but we will still work on it, the same
+that we will do with the definition of "relevant government" and
+"internationally" -- I don't know, I almost forget all the
+definitions. We will work on that in the working group, and there
+will be -Can we go to the next one, Julia, please.
+We will continue with the working plan, with the public interest
+document.
+There will be, tomorrow, a presentation about reactions to a
+document prepared by the cross-community working group on
+country and territory names. This was prepared by the working
+group and will be presented by our colleagues who came up
+from Spain, but it was -- it's an outcome of the working group.
+Of course Gema has been fundamental to preparing that
+document.
+
+Page 36 of 37
+
+HELSINKI – GAC Protection of Geographic Names Working Group Meeting
+
+EN
+
+And we had a question in Marrakech if we could include experts
+outside the GAC in the working list -- email working list of our
+working group. What we have been discussing in the GAC is that
+the best is that we invite these experts to our meetings or maybe
+we can invite them to certain calls or certain parts of the calls,
+but not open in the working list of our working groups. So this is
+the comment that I wanted to say.
+I think this is the last -- Julia, this is the last -Okay. This is the last slide.
+
+[END OF TRANSCRIPTION]
+
+Page 37 of 37
+
+

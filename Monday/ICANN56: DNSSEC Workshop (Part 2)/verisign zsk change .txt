@@ -1,0 +1,1967 @@
+Increasing the Zone Signing Key Size
+for the Root Zone
+Duane Wessels
+ICANN 56 Helsinki, DNSSEC Workshop
+June 27, 2016
+
+Presentation Outline
+•
+
+Current root zone DNSSEC parameters
+
+•
+
+Schedule
+
+•
+
+Change details
+
+•
+
+Consequences of a 2048-bit ZSK
+
+•
+
+Fallback plan
+
+Verisign Public
+
+2
+
+Initialisms
+KSK
+
+Key Signing Key
+
+Operated by IANA/ICANN
+
+ZSK
+
+Zone Signing Key
+
+Operated by Verisign
+
+KSR
+
+Key Signing Request
+
+XML-formatted bundle of keys to be signed
+
+SKR
+
+Signed Key Response
+
+XML-formatted bundle of signatures
+
+Verisign Public
+
+3
+
+This is not the KSK Rollover
+•
+
+You may have recently heard about work underway to roll
+the root zone Key Signing Key (aka Trust Anchor).
+
+•
+
+That’s not what this is.
+
+•
+
+Verisign is working closely with the other Root Zone
+Management partners to ensure that the ZSK length
+change does not coincide with other activity that would
+increase the root zone DNSKEY response size.
+
+Verisign Public
+
+4
+
+Current DNSSEC parameters
+Parameter
+
+KSK
+
+ZSK
+
+8
+
+8
+
+Size
+
+2048-bits
+
+1024-bits
+
+Rolled
+
+(not yet*)
+
+quarterly
+
+Re-sign period
+
+10 days
+
+12 hours
+
+Signature validity
+
+15 days
+
+10 days
+
+DNSKEYs
+
+everything else
+
+Algorithm
+
+Signs
+
+•
+
+ZSK size will be increased to 2048-bits
+
+•
+
+No other parameters will be changed
+
+*Sticklers (Hi Roy!) will bring up the DURZ transition in 2010
+Verisign Public
+
+5
+
+Schedule
+Date
+
+Milestone
+
+2016-04-15
+
+✔️
+
+Testing between ICANN and Verisign
+
+2016-05-12
+
+✔️
+
+KSK ceremony #25; sign 2016Q3 ZSKs
+
+2016-08-11
+
+KSK ceremony #26; sign 2016Q4 ZSKs
+
+2016-09-20
+
+First 2048-bit ZSK pre-published in root zone
+
+2016-10-01
+
+Root zone signed with 2048-bit ZSK
+
+Verisign Public
+
+6
+
+Schedule
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Ceremony 27 (Q1 keys)
+
+May
+
+Ceremony 26 (Q4 keys)
+
+Apr
+
+Ceremony 25 (Q3 keys)
+
+Mar
+
+Published
+Keys
+
+1024-bit ZSK
+1024-bit ZSK
+1024-bit ZSK
+2048-bit ZSK
+
+Jan
+
+Verisign Public
+
+Feb
+
+Ceremony 24 (Q2 keys)
+
+Ceremonies
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+7
+
+pr
+
+Cer
+
+Cer
+
+Cer
+
+Schedule
+
+1024-bit ZSK
+1024-bit ZSK
+2048-bit ZSK
+
+May
+Verisign Public
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+De
+8
+
+Rollover Details
+
+Verisign Public
+
+9
+
+The ZSK Rollover Process
+•
+
+ZSK is Rolled quarterly
+
+•
+
+Quarter is divided into 9 slots of 10 days each
+•
+
+Sometimes the 9th slot is longer
+
+•
+
+The DNSKEY RRSIG record changes in each slot
+
+•
+
+Uses pre-publish technique
+
+•
+
+•
+
+Incoming ZSKs pre-published for one slot (9th slot)
+
+•
+
+Outgoing ZSKs post-published for one slot (1st slot)
+
+Size of DNSKEY response message increased due to
+pre-/post-publish
+
+Verisign Public
+
+10
+
+ZSK 1024→1024 Normal Rollover
+Qn
+
+Slot 1
+
+Slot 2..8
+
+Qn+1
+
+Slot 9
+
+Slot 1
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+Verisign Public
+
+Slot 2..8
+
+Qn+2
+
+Slot 9
+
+Slot 1
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+Slot 2..8
+
+Slot 9
+
+1024
+
+1024
+
+1024
+
+1024
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+11
+
+ZSK 1024→1024 Normal Rollover
+Qn
+
+Slot 1
+
+Slot 2..8
+
+Qn+1
+
+Slot 9
+
+Slot 1
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+Slot 9
+
+Slot 1
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+DNSKEY
+response
+size increase
+
+Verisign Public
+
+Slot 2..8
+
+Qn+2
+
+Slot 2..8
+
+Slot 9
+
+1024
+
+1024
+
+1024
+
+1024
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+DNSKEY
+response
+size increase
+
+12
+
+ZSK 1024→2048 Rollover
+2016 Q3 Jul-Sep
+
+2016 Q4 Oct-Dec
+
+2017 Q1Jan-Mar
+
+Ceremony 25 KSR, May 2016
+
+Ceremony 26 KSR, Aug 2016
+
+Ceremony 27 KSR, Nov 2016
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Jul 2016
+
+Jul..Sep 2016
+
+Sep 2016
+
+Oct 2016
+
+Oct..Dec 2016
+
+Dec 2016
+
+Jan 2017
+
+Jan..Mar 2017
+
+Mar 2017
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+Verisign Public
+
+...
+
+2048
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+13
+
+ZSK 1024→2048 Rollover
+2016 Q3 Jul-Sep
+
+2016 Q4 Oct-Dec
+
+2017 Q1Jan-Mar
+
+Ceremony 25 KSR, May 2016
+
+Ceremony 26 KSR, Aug 2016
+
+Ceremony 27 KSR, Nov 2016
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Jul 2016
+
+Jul..Sep 2016
+
+Sep 2016
+
+Oct 2016
+
+Oct..Dec 2016
+
+Dec 2016
+
+Jan 2017
+
+Jan..Mar 2017
+
+Mar 2017
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+...
+
+2048
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+Old 1024-bit ZSK will be
+post-published through
+slot 3.
+
+Verisign Public
+
+14
+
+1024-2048 Rollover
+•
+
+Much like normal 1024 rollover
+
+•
+
+Except longer post-publish period for outgoing 1024-bit
+key
+•
+
+Verisign Public
+
+...just in case
+
+15
+
+Consequences of a 2048-bit ZSK
+
+Verisign Public
+
+16
+
+Size of Signed DNSKEY Response
+Normal 1024 ZSK
+
+2048 KSK
+
+RRSIG
+
+1024 ZSK
+
+1024-1024 ZSK Roll
+
+2048 KSK
+
+RRSIG
+
+1024 ZSK
+
+1024-2048 ZSK Roll
+
+2048 KSK
+
+RRSIG
+
+1024 ZSK
+
+Normal 2048 ZSK
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+2048-2048 ZSK Roll
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+2048 ZSK
+
+1139
+
+2048-2048 KSK Roll
+
+2048 KSK
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+1139
+
+2048 KSK Roll + ZSK Roll
+
+2048 KSK
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+2048 KSK
+
+2048 KSK
+
+RRSIG
+
+RRSIG
+
+2048 KSK Revoke
+
+736
+1024 ZSK
+
+883
+
+2048 ZSK
+
+1011
+864
+
+2048 ZSK
+
+2048 ZSK
+
+1414
+1425
+
+•
+
+DNSKEY response size changes throughout this process
+
+•
+
+Normal (non-roll) size increases from 736 to 864 octets
+
+•
+
+ZSK rollover size increases from 883 to 1138 octets
+
+•
+
+Future KSK revoke size would be 1425 octets
+
+Verisign Public
+
+17
+
+Size of Signed DNSKEY Response
+Normal 1024 ZSK
+
+2048 KSK
+
+RRSIG
+
+1024 ZSK
+
+1024-1024 ZSK Roll
+
+2048 KSK
+
+RRSIG
+
+1024 ZSK
+
+1024-2048 ZSK Roll
+
+2048 KSK
+
+RRSIG
+
+1024 ZSK
+
+Normal 2048 ZSK
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+2048-2048 ZSK Roll
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+2048 ZSK
+
+1139
+
+2048-2048 KSK Roll
+
+2048 KSK
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+1139
+
+2048 KSK Roll + ZSK Roll
+
+2048 KSK
+
+2048 KSK
+
+RRSIG
+
+2048 ZSK
+
+2048 KSK
+
+2048 KSK
+
+RRSIG
+
+RRSIG
+
+2048 KSK Revoke
+
+736
+1024 ZSK
+
+883
+
+2048 ZSK
+
+1011
+864
+
+2048 ZSK
+
+2048 ZSK
+
+1414
+1425
+
+•
+
+DNSKEY response size changes throughout this process
+
+•
+
+Normal (non-roll) size increases from 736 to 864 octets
+
+•
+
+ZSK rollover size increases from 883 to 1138 octets
+
+•
+
+Future KSK revoke size would be 1425 octets
+
+Verisign Public
+
+18
+
+Size of Other Signed Responses
+•
+
+All non-DNSKEY RRSets are signed by the ZSK
+
+•
+
+DO=1 responses will be larger
+
+•
+
+1024-bit ZSK signature (RRSIG) : 159 octets
+
+•
+
+2048-bit ZSK signature (RRSIG) : 287 octets
+
+•
+
+But its not that simple....
+
+•
+
+We replayed real query logs to various DNSSEC
+configurations to understand traffic impacts
+
+Verisign Public
+
+19
+
+Measurement Methodology
+•
+
+Captured 10 minutes of queries sent to a.root-servers.net
+
+•
+
+Signed a root zone with various DNSSEC configurations
+
+•
+
+Replayed traffic over both UDP and TCP
+•
+
+•
+
+Including client EDNS0 UDP message sizes and DO flag values
+
+Recorded the response size, TC flag, etc.
+
+Verisign Public
+
+20
+
+Quick Stats
+•
+
+Zone File
+•
+
+•
+
+SOA Serial 2016022401
+
+Input Trace:
+•
+
+February 24, 2016
+
+•
+
+22:00:00 -- 22:10:00 UTC (10 minutes duration)
+
+•
+
+40,993,338 IP packets captured
+
+•
+
+37,494,153 DNS UDP queries captured
+•
+
+•
+
+Verisign Public
+
+62,490 queries/second
+
+A-root sites: NYC3, LON3, LAX2, FRA1, HKG5
+
+21
+
+Fragmentation
+Percent of All responses that are Fragmented
+1024 Normal
+1.4
+
+1024−1024 Roll
+1024−2048 Roll PrePub
+1024−2048 Roll PostPub
+2048 Normal
+
+1.2
+
+2048−2048 Roll
+
+Percent
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+Verisign Public
+
+22
+
+Fragmentation
+Percent of All responses that are Fragmented
+1024 Normal
+1024−1024 Roll
+
+1.4
+
+1024−2048 Roll PrePub
+1024−2048 Roll PostPub
+2048 Normal
+2048−2048 Roll
+
+1.2
+
+Percent
+
+1
+
+0.8
+
+0.6
+
+Essentially zero fragmentation.
+Only responses to “ANY” queries
+exceed the fragmentation limit.
+Very few of those in the input trace.
+
+0.4
+
+0.2
+
+0
+
+Verisign Public
+
+23
+
+Truncation -- DNSKEY
+Percent of ./DNSKEY responses that are Truncated
+6
+
+1024 Normal
+1024−1024 Roll
+1024−2048 Roll PrePub
+1024−2048 Roll PostPub
+
+5
+
+2048 Normal
+2048−2048 Roll
+
+Percent
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Verisign Public
+
+24
+
+Truncation -- All
+Percent of All responses that are Truncated
+1.4
+
+1024 Normal
+1024−1024 Roll
+1024−2048 Roll PrePub
+
+1.2
+
+1024−2048 Roll PostPub
+2048 Normal
+2048−2048 Roll
+
+1
+
+Percent
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+Verisign Public
+
+25
+
+Response Size Distribution
+Cumulative Distribution of All Response Sizes
+1
+
+1024 Normal
+1024−1024 Roll
+1024−2048 Roll PrePub
+1024−2048 Roll PostPub
+2048 Normal
+2048−2048 Roll
+
+0.8
+
+0.6
+
+Percent
+
+The size of the key used for
+signing determines the
+difference in response sizes.
+
+0.4
+
+Lines with the same signing
+key size are stacked on top
+of each other.
+
+0.2
+
+0
+0
+
+Verisign Public
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+26
+
+Bandwidth
+Bandwidth of All responses
+350
+
+1024 Normal
+1024−1024 Roll
+1024−2048 Roll PrePub
+
+300
+
+1024−2048 Roll PostPub
+2048 Normal
+2048−2048 Roll
+
+250
+
+Mbit/s
+
+200
+
+150
+
+This is the bandwidth
+measured by the
+simulation for a single root
+server letter (A).
+
+100
+
+50
+
+0
+
+Verisign Public
+
+27
+
+Fallback Plan
+
+Verisign Public
+
+28
+
+Need for Fallback
+•
+
+We fully expect the length change to occur without
+incident
+
+•
+
+However, unforeseen problems may be beyond our
+control
+
+•
+
+Should it be necessary, we are prepared to revert to a
+“known good state”
+•
+
+•
+
+i.e. a 1024-bit ZSK
+
+In fact the exact same 1024-bit key just prior to the length
+change
+
+Verisign Public
+
+29
+
+Dual KSRs / SKRs
+In support of this fallback plan, ICANN will sign two KSRs
+at two root KSK ceremonies:
+The 2048-bit ZSK
+
+•
+•
+
+The fallback 1024-bit ZSK
+
+•
+•
+
+Verisign Public
+
+plus associated post-publish and pre-publish keys
+
+plus associated post-publish and pre-publish keys
+
+30
+
+Fallback Criteria
+•
+
+Something unforeseen
+
+•
+
+Something very serious
+
+•
+
+Something that can not be solved by (temporarily)
+disabling DNSSEC validation at a small number of
+recursive name servers.
+
+Verisign Public
+
+31
+
+Important Milestones
+•
+
+Introduction of 2048-bit ZSK to zone (pre-publish)
+•
+
+•
+
+•
+
+Slot 9 of Q3
+
+Zone signed by 2048-bit ZSK
+•
+
+Slot 1 of Q4
+
+•
+
+Cached RRSIGs will expire over the course of a few days
+
+Removal of old 1024-bit ZSK (end of post-publish)
+•
+
+Verisign Public
+
+Point of No Return
+
+32
+
+Normal
+1024-to-2048
+ZSK keyset
+
+ZSK 1024→2048 Rollover
+2016 Q3 Jul-Sep
+
+2016 Q4 Oct-Dec
+
+2017 Q1Jan-Mar
+
+Ceremony 25 KSR, May 2016
+
+Ceremony 26 KSR, Aug 2016
+
+Ceremony 27 KSR, Nov 2016
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Jul 2016
+
+Jul..Sep 2016
+
+Sep 2016
+
+Oct 2016
+
+Oct..Dec 2016
+
+Dec 2016
+
+Jan 2017
+
+Jan..Mar 2017
+
+Mar 2017
+
+1024
+post+publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+...
+
+2048
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+2048
+
+Fallback option during
+2048 pre-publish phase
+
+pre-publish
+
+Fallback
+1024-bit
+ZSK keyset
+
+Fallback option during
+1024 post-publish phase
+
+1024
+post+publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+1024
+pre-publish
+
+Verisign Public
+
+33
+
+Normal
+1024-to-2048
+ZSK keyset
+
+ZSK 1024→2048 Rollover
+2016 Q3 Jul-Sep
+
+2016 Q4 Oct-Dec
+
+2017 Q1Jan-Mar
+
+Ceremony 25 KSR, May 2016
+
+Ceremony 26 KSR, Aug 2016
+
+Ceremony 27 KSR, Nov 2016
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Jul 2016
+
+Jul..Sep 2016
+
+Sep 2016
+
+Oct 2016
+
+Oct..Dec 2016
+
+Dec 2016
+
+Jan 2017
+
+Jan..Mar 2017
+
+Mar 2017
+
+1024
+post+publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+...
+
+2048
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+2048
+
+Fallback option during
+2048 pre-publish phase
+
+pre-publish
+
+Fallback
+1024-bit
+ZSK keyset
+
+Fallback option during
+1024 post-publish phase
+
+1024
+post+publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+1024
+pre-publish
+
+Verisign Public
+
+34
+
+A “Slot 9” Fallback
+If a problem arises during the slot 9 2048-bit pre-publish
+phase:
+•
+
+Simply un-publish the 2048-bit ZSK from the root zone
+
+•
+
+Publish only the current 1024-bit ZSK
+
+•
+
+Continue signing with the current 1024-bit ZSK
+
+•
+
+There will be no ZSK roll for the next calendar quarter
+
+Verisign Public
+
+35
+
+Normal
+1024-to-2048
+ZSK keyset
+
+ZSK 1024→2048 Rollover
+2016 Q3 Jul-Sep
+
+2016 Q4 Oct-Dec
+
+2017 Q1Jan-Mar
+
+Ceremony 25 KSR, May 2016
+
+Ceremony 26 KSR, Aug 2016
+
+Ceremony 27 KSR, Nov 2016
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Slot 1
+
+Slot 2..8
+
+Slot 9
+
+Jul 2016
+
+Jul..Sep 2016
+
+Sep 2016
+
+Oct 2016
+
+Oct..Dec 2016
+
+Dec 2016
+
+Jan 2017
+
+Jan..Mar 2017
+
+Mar 2017
+
+1024
+post+publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+...
+
+2048
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+2048
+
+2048
+
+2048
+
+2048
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+2048
+
+Fallback option during
+2048 pre-publish phase
+
+pre-publish
+
+Fallback
+1024-bit
+ZSK keyset
+
+Fallback option during
+1024 post-publish phase
+
+1024
+post+publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+1024
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+post-publish
+
+1024
+
+1024
+
+1024
+
+1024
+
+pre-publish
+
+sign+publish
+
+sign+publish
+
+sign+publish
+
+1024
+pre-publish
+
+Verisign Public
+
+36
+
+A “Slot 1” Fallback
+If a problem arises during slot 1 after signing with the 2048bit ZSK:
+•
+
+Revert to signing with the old 1024-bit ZSK
+•
+
+•
+
+It is still being published
+
+When to remove 2048-bit ZSK from zone depends on
+nature and severity of problem
+
+Verisign Public
+
+37
+
+Test Your Network
+keysizetest.verisignlabs.com
+
+Verisign Public
+
+38
+
+keysizetest.verisignlabs.com
+
+Verisign Public
+
+39
+
+Questions?
+
+Verisign Public
+
+40
+
+© 2016 VeriSign, Inc. All rights reserved. VERISIGN and other trademarks, service marks, and designs are registered or unregistered trademarks of
+VeriSign, Inc. and its subsidiaries in the United States and in foreign countries. All other trademarks are property of their respective owners.
+
+

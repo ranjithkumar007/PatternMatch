@@ -1,0 +1,1322 @@
+ICANN 56 - Helsinki
+GNSO Council Public Meeting
+30 June 2016
+List of attendees:
+NCA – Non Voting – Carlos Raúl Gutierrez
+Contracted Parties House
+Registrar Stakeholder Group: James Bladel, Volker Greimann, Gore, Jennifer Gore
+gTLD Registries Stakeholder Group: Donna Austin, Keith Drazek, Rubens Kühl
+Nominating Committee Appointee (NCA): Hsu Phen Valerie Tan - remote participation
+Non-Contracted Parties House
+Commercial Stakeholder Group (CSG): Philip Corwin, Susan Kawaguchi, Wolf-Ulrich Knoben, Tony
+Harris, Paul McGrady, Heather Forrest
+Non-Commercial Stakeholder Group (NCSG): Amr Elsadr -absent, temporary alternate Avri Doria,
+Stephanie Perrin, David Cake, Stefania Milan, Edward Morris, Marilia Maciel
+Nominating Committee Appointee (NCA): Julf (Johan) Helsingius
+
+GNSO Council Liaisons/Observers:
+Olivier Crèpin LeBlond– ALAC Liaison
+Patrick Myles - ccNSO Observer - absent apologies
+Mason Cole – GNSO liaison to the GAC
+
+ICANN Staff
+David Olive - VP Policy Development – absent apologies
+Marika Konings - Senior Policy Director
+Rob Hoggarth - Senior Policy Director
+Mary Wong – Senior Policy Director
+Julie Hedlund – Policy Director
+Steve Chan - Senior Policy Manager
+Berry Cobb – Policy Consultant
+Lars Hoffmann – Policy Analyst
+David Tait – Policy Analyst
+Glen de Saint Géry - GNSO Secretariat
+Terri Agnew - Secretariat Services Coordinator, GNSO
+Brian Hellar - Meetings Technical Services Specialist
+
+Guests:
+Rafik Dammak – Non-Commercial Users Constituency Chair
+Jamie Hedlund - Vice President, Strategic Programs, Global Domain Division
+Adobe Connect Recording
+Adobe Chat Transcript
+
+***Live Scribing by Brewer & Darrenougue - www.quicktext.com***
+
+>>JAMES BLADEL: Okay. Good morning. We're going to get started here in just a couple of
+minutes.
+Could I ask that the councillors could make their way to the table. And also, if you could, please log
+into the Adobe Connect link that Glen has sent. Yeah, once you've finished with your smoothies,
+Carlos.
+If you could, Glen has sent around a message recently containing the Adobe Connect link for
+councillors, and it's important that you could go into that because, a) that's where the text of the motion
+and the documents will be and, b) that's where we'll manage the queue. So if you could get in there,
+that would be great.
+
+Okay. Good morning. If I could ask, first off, do we have a thumbs up from the tech folks that we're
+ready to go? There's our thumbs up. Thank you.
+So, Glen, if you wouldn't mind, could you please call the role?
+>>GLEN DE SAINT GERY: Certainly, James.
+Keith Drazek.
+>>KEITH DRAZEK: Here.
+>>GLEN DE SAINT GERY: Donna Austin.
+>>DONNA AUSTIN: Here.
+>>GLEN DE SAINT GERY: Rubens Kuhl.
+>>RUBENS KUHL: Here.
+>>GLEN DE SAINT GERY: Rubens, do you have the proxy for Valerie in case we have connectivity
+issues? Is that all right?
+>> RUBENS KUHL: Yep, but I think Valerie is online.
+>>GLEN DE SAINT GERY: She is, indeed.
+James Bladel.
+>>JAMES BLADEL: Here.
+>>GLEN DE SAINT GERY: Jennifer Gore.
+>>JENNIFER GORE: Present.
+
+>>GLEN DE SAINT GERY: Volker Greimann.
+>>VOLKER GREIMANN: I'm here.
+>>GLEN DE SAINT GERY: Valerie Tan?
+Valerie, can you hear us?
+>>VALERIE TAN: Yes. Hi, Glen. I'm here.
+>>GLEN DE SAINT GERY: Thank you very much, Valerie.
+Philip Corwin.
+>>PHILIP CORWIN: Present.
+>>GLEN DE SAINT GERY: Susan Kawaguchi.
+>>SUSAN KAWAGUCHI: Here.
+>>GLEN DE SAINT GERY: Paul McGrady.
+>>PAUL McGRADY: Here.
+>>GLEN DE SAINT GERY: Heather Forrest.
+>>HEATHER FORREST: Here.
+>>GLEN DE SAINT GERY: Tony Harris.
+>>TONY HARRIS: Present.
+>>GLEN DE SAINT GERY: Wolf-Ulrich Knoben.
+>>WOLF-ULRICH KNOBEN: Here.
+>>GLEN DE SAINT GERY: Marilia Maciel.
+>>MARILIA MACIEL: Here. Thank you.
+>>GLEN DE SAINT GERY: And Avri Doria who is the temporary alternate for Amr Elsadr who is
+absent.
+>>AVRI DORIA: Here.
+>>GLEN DE SAINT GERY: David Cake.
+>>DAVID CAKE: Here.
+>>GLEN DE SAINT GERY: Edward Morris.
+>>EDWARD MORRIS: Here.
+>>GLEN DE SAINT GERY: Stefania Milan.
+>>STEFANIA MILAN: Here.
+>>GLEN DE SAINT GERY: Stephanie Perrin.
+>>STEPHANIE PERRIN: Here.
+>>GLEN DE SAINT GERY: Julf Helsingius.
+>>JULF HELSINGIUS: Here.
+>>GLEN DE SAINT GERY: Carlos Gutierrez.
+>>CARLOS RAUL GUTIERREZ: Here. Thank you.
+
+>>GLEN DE SAINT GERY: Olivier Crepin-Leblond, the At-Large liaison. I don't think Olivier is here
+yet.
+Mason Cole, GNSO GAC liaison.
+>>MASON COLE: Here.
+>>GLEN DE SAINT GERY: Thank you very much, James.
+>>JAMES BLADEL: Thank you, Glen. And welcome councillors to our GNSO Council meeting for
+the Helsinki policy forum, and welcome to our guests.
+Before we get started, as per usual, do we have any updates to our statements of interest?
+Okay. Thank you.
+The agenda has been posted both on the mailing list and is visible in the Adobe Connect room.
+Does anyone have any amendments TOR changes or modifications to the agenda?
+And it's behind me, sort of. Okay; great.
+So we have a full boat of work to do today, and I believe we have an hour and 45 minutes, so we can
+dive right into the first item of business, which is agenda item number 2, to review the open projects
+and action list. Marika, is there a way that we can display that on the screen?
+I'm sorry?
+>>MARIKA KONINGS: What would you like first, the project list or the action items?
+>>JAMES BLADEL: Which ever you have handy.
+>>MARIKA KONINGS: I have both.
+>>JAMES BLADEL: Okay. Project list, please.
+And, Marika, if you don't mind, could you quickly walk us through the open projects? Anything that ->>MARIKA KONINGS: Yeah, this is Marika. Walking through them will take quite a bit of time and
+maybe just a reminder for council members that we share both a clean and red-lined version of this
+document prior to every council meeting. And the red-lined version is really intended to flag to you any
+changes or updates to the different projects that are under way. So you have an opportunity to review
+those and then, as well, come back either to the council meeting or mailing list to ask any questions or
+request further feedback.
+So it may be easier to turn it around and ask if there are any specific questions that council members
+have in relation to the latest version of the project list. And also, maybe as a general reminder, is this
+a useful tool? Is there anything you think is missing from here? Any other way in which we should
+provide this kind of information to you is, of course, always welcome as well.
+>>JAMES BLADEL: Thank you, Marika.
+Any questions regarding the project list from the Council? Maybe we just haven't had enough coffee
+yet.
+I would recommend, as Marika said, to check on this periodically. If nothing else, at a minimum, in
+advance of council meetings, in case you spot something you'd like to ask questions on or get some
+more information.
+Could we load the action items list, please.
+This one always gives me a headache because the font is so small.
+Okay. So taking a look here, it looks like we have a number of completed items here. Obviously the
+Helsinki meeting planning, if we haven't finished that action item, it's probably too late to be relevant.
+
+The SSAC follow-up. As many here are aware, I did close the loop with Patrik, per our discussion in
+late April, early May.
+If we can scroll down a little bit.
+We have outstanding PDP recommendations. I think we're still waiting for some action there.
+I'm noting here if we have anything that's about to transition, either from an open status to a complete
+status or if we have new items that are being added here. I think the CSC, we have a discussion on
+that later in our agenda. And the same for CWG on IG.
+There's a motion related to the IANA transition coming from Paul. And I think -- And then the FY17
+transition costs. That was the message and PDF document that I sent to the list this morning. I don't
+expect that folks have had a chance to review that yet, and certainly it didn't make the document cutoff
+for consideration at this meeting. However, we could flag this as a potential topic for discussion if we
+have time, but I would encourage folks to take a look at that in the interim between now and our next
+meeting, because it will definitely be something we'll have to -- we'll have to make some decisions on
+in July.
+Any other questions regarding any items on the action list or the action list itself?
+Man, it's a very low-key crowd this morning. So okay. Thank you.
+So I believe the next item on our agenda, then, is we can move into the consent agenda, which is
+easy. We have nothing on our consent agenda, so we can skip down to the motions that are open for
+a vote. And that's -- There are three.
+Item number -- I see it's listed here as item number 4. Let me just check that real quickly here. Yes,
+that's correct.
+Item number 4 is a motion to integrate the PDP improvements into the GNSO policy development
+process. And for this, I would like to turn over the microphone to the maker of the motion, Donna
+Austin.
+Donna.
+>>DONNA AUSTIN: Thanks, James. Donna Austin.
+Sorry, Marika, do I have the motion available somewhere? There we go.
+Thanks.
+So this is largely an administrative motion to wrap up a number of outstanding items associated with
+PDP improvements that's been going on for some period of time. So just read the resolved? Yep. So
+resolved, the GNSO Council adopts the final status update and considers the GNSO PDP
+improvements project hereby complete. The GNSO Council directs staff to move ahead with the
+identified next steps, including integrating the inclusion of the proposed PDP charter as part of the
+preliminary issue report, development of draft guidelines for the use and application for face-to-face
+facilitated PDP Working Group meetings for Council review and adoption, and developing a survey to
+assess the familiarity that the community has with the different newcomer and training tools as well as
+their perceived usefulness.
+>>JAMES BLADEL: Thank you, Donna.
+Do we have any discussion on this motion before we proceed to a vote?
+Going once....
+Okay. And if there are no objections, then perhaps we can proceed to just a voice vote as opposed to
+a roll call vote.
+Glen, if you don't mind.
+
+>>GLEN DE SAINT GERY: All those in favor of the motion, please show your hands.
+Valerie, you're on the phone. You can't show your hand. Will you please tell us whether you're in
+favor of the motion?
+>>VALERIE TAN: Yes, I'm in favor.
+Thank you.
+>>GLEN DE SAINT GERY: Thank you.
+Anybody would like to abstain?
+Anybody who is not in favor of the motion that I perhaps didn't see a hand?
+James, the motion passes unanimously. Thank you.
+>>JAMES BLADEL: Thank you, Glen.
+If you could record that vote and the results in the minutes. Thank you.
+Okay. The next item, also a motion that is open for a vote, is item number 5. This is a -- item number
+5 is the approval to form a drafting team to develop implementation plan for new GNSO procedures -sorry, new GNSO powers and obligations under the revised bylaws. And this is essentially to kick off
+the work, and it's going to be a substantial amount of work, to implement all of the new functions that
+are expected of the GNSO under the new ICANN 2.0 that's resulting from the IANA transition and the
+new bylaws on CCWG on accountability. And the maker of the motion is Paul McGrady, and, Paul, if
+you don't mind, I'd like to turn the microphone over to you.
+>>PAUL McGRADY: Thank you, James. Paul McGrady.
+So, something is going to happen this September, I heard?
+[ Laughter ]
+So this is just about getting ready; right? And as we all know from our sitting in on other sessions -for example, the GAC session -- they also are getting ready. And so the purpose of this is just to help
+the GNSO get the ball rolling to become a fully functioning member of the empowered community in
+the event the transition happens on schedule.
+So do I read the whereases as well or just the resolved?
+>>JAMES BLADEL: Just the resolved is good.
+>>PAUL McGRADY: Just the resolved. Okay. So, resolved, the GNSO Council requests ICANN
+staff to issue a call for volunteers for a drafting team that will work with ICANN staff to fully identify all
+the new or additional rights and responsibilities that the GNSO has under the revised bylaws, including
+but not limited to participation of the GNSO within the empowered community, and to develop new or
+modified structures and procedures, as necessary, to fully implement these new or additional rights
+and remedies.
+Volunteers for the drafting team will be identified by GNSO Council members. Volunteers should
+express interest and can demonstrate reasonable knowledge of or experience with the process of
+revising the ICANN bylaws or GNSO operating procedures. The drafting team shall reflect the current
+composition of the GNSO, and as such, the GNSO Council may review the number of volunteers
+identified by the GNSO Council members. GNSO Councillors are requested to identify volunteers by
+letter to the GNSO Council chair by 22 July 2016.
+The drafting team shall provide the GNSO Council with an implementation plan which will have the
+consensus of the drafting team, including any recommendations for needed further changes to ICANN
+bylaws and/or GNSO operating procedures to enable effective GNSO participation in ICANN activities
+under the revised bylaws not later than 30 September 2016. As part of the process of its
+consideration of implementation plan to be approved by a GNSO supermajority vote, the council may
+
+further request that the drafting team work with ICANN staff to develop new or proposed modifications
+to existing procedures and structures to implement the revised bylaws for the GNSO. Any such new
+or proposed modifications to existing procedures and structures to implement the revised bylaws for
+the GNSO would also require a GNSO supermajority vote.
+Just by way of background, this puts us on a pretty fast track, but we think the fast track is necessary
+under the circumstances. And this particular motion had the benefit of having a couple of days of
+being kicked around council, and it was refined in a way that was meant to be inclusive but at the
+same time flexible and nimble enough to get the work done within the short time frame.
+So I would like to thank my fellow councillors for all the terrific input and I would like to beg
+forgiveness of staff that had to put up with me with me putting forward my first motion on council. I
+learned a lot.
+Thank you.
+>>JAMES BLADEL: Thank you, Paul. And as long as we're throwing around thank yous, thank you
+for taking the initiative on this. From our interactions with other SOs and ACs, it seems like the GNSO
+is way out in front on this. We're -- in some ways, we're blazing the trail and I think setting an example
+for other groups to follow.
+So thanks for taking the leadership on this.
+Okay. Open for discussion, please. I know we have a question from Marika and then Marilia, and
+then Heather.
+>>MARIKA KONINGS: Yes. So this is Marika. So I know we had a lot of discussion about this
+yesterday, and I apologize for not having caught it earlier, but there's a small issue that staff has found
+with the language as currently written in relation to requiring a supermajority vote. It's come to our
+attention that actually the way the bylaws are currently written, it's only those items that are specifically
+called out in the ICANN bylaws that can require a supermajority vote. And as such, we would actually
+suggest may be just reflect the intent here.
+So instead of saying, for example, in this first sentence "as part of the process of its consideration of
+the implementation plan, intended to be approved by a GNSO supermajority vote." And then the last
+sentence as well, for the GNSO would also require -- the GNSO would also intend to adopt it by a
+supermajority vote."
+So basically just to make sure that it aligns with the bylaws, there is the intention of everyone to adopt
+it by a supermajority vote, but it cannot be required as it's not specifically called as a vote under the
+ICANN bylaws.
+>>JAMES BLADEL: Thank you, Marika. And at the risk of splitting hairs here, it's the word "require"
+we have a problem with. The intention of what we want to do, which is to subject these -- the output of
+this drafting team to a supermajority vote, is aboveboard. It's just the word "require." So we're just
+trying to kind of steer around that. Is that -- Am I understanding the issue correctly that you're raising?
+>>MARIKA KONINGS: Yes, that's absolutely correct.
+>>JAMES BLADEL: Okay. I'm just -- I want to make sure the folks that discussed it yesterday -particularly Ed, Marilia, Paul -- that everybody is still okay with some of these because this may
+translate into an amendment. Next step is Marilia.
+>>MARILIA MACIEL: Thank you, James. This is Marilia speaking for the record. I just would like to
+echo your thanks to Paul for putting the motion forward and to Paul himself for accepting the
+amendments proposed yesterday as friendly amendments and to Heather for being the person that
+kind of unlocked us yesterday and proposed a very good way forward. So thank you all. I think that
+we're happy with the solution that we found, so it was really a good collaboration yesterday and proves
+that the meeting that we had before discussing the motions is really valuable to us. Thank you.
+
+>>JAMES BLADEL: Thank you, Marilia. Heather? No? You're good? Okay. So I guess then the
+question is, if we have -- it sounds like we have some suggestion from staff on a way around this use
+of the word "require" that still gets us what we want. I don't think anybody has talked about backing
+down from the supermajority threshold. The question then is that I would put to Paul and Susan, the
+maker and seconder of the motion, if that is an acceptable modification or if you'd like a little bit more
+time to think about that? It doesn't -- I don't want it to sound like we're doing surgery here on the table.
+Yes, Marika.
+>>MARIKA KONINGS: Yeah, this is Marika. Maybe it's helpful for Susan and Paul to see the
+language that at least has been suggested by staff. I can put it in the council Adobe Connect room in
+bold so you actually see what it looks like. I don't know if that's helpful.
+>>JAMES BLADEL: That would be helpful. And while we're doing that, Rubens has raised his hand.
+Rubens, is it on this topic you would like to comment?
+>>RUBENS KUHL: Yes.
+>>JAMES BLADEL: Okay. Please go ahead.j
+>>RUBENS KUHL: Rubens Kuhl, NIC.br. I'd just like to support Marika's friendly amendment. As
+currently written to be approved foresees an outcome. So we are approving a motion that already
+foresees the outcome of a vote that we will have in the future. So by allowing that to be intended,
+actually allows us to vote when time comes.
+>>JAMES BLADEL: Thank you. I think it's important that we don't bake in language that presumes an
+outcome. And I don't think that was our intention yesterday either. So we were just -- we were just
+moving pretty fast. Yeah. Go ahead, heather.
+>>HEATHER FORREST: Thanks. Heather Forrest. I understand the bylaws say we can't require,
+but are we over-wordsmithing here? Can we say will be approved by a GNSO supermajority vote and
+then in the end again will be adopted by a supermajority vote. If we don't use the word "required?"
+>>MARIKA KONINGS: I'm actually looking back to my colleague Erika Randall to give us some
+guidance on that one. So the question is whether "will" is sufficient to convey that it's not required but
+it's the intent.
+>>JAMES BLADEL: Yeah, or shall be subject to or something. Do we have that language coming
+up? Is it somewhere in -- it's in the Adobe. Okay. Thank you.
+>>MARIKA KONINGS: Yes, it's in the council Adobe room. It's bolded and underlined, so you see
+that the change has been made. And I see Erika is coming up, so hopefully she will save us.
+So this is Marika again. So the feedback we've received that it's better to leave it as "intended" as
+"will" still gives the impression that it's a requirement so ...
+And this conveys the intention.
+>>JAMES BLADEL: I -- okay. Now that we've satisfied ICANN's lawyers, I guess we look back to the
+folks who made the motion and I think they will have the last word on whether or not this is an
+acceptable change.
+>>PAUL McGRADY: I apologize, it's embarrassing to be a Luddite at an ICANN meeting but I don't
+know where it is at in the adobe room.
+>>JAMES BLADEL: Maybe you can look off of Susan. There's two rooms. You might be in the public
+room as opposed to the councillor room.
+>>MARIKA KONINGS: So Paul, if you look at the resolved 4, the language that has been added is
+bolded and in the last sentence the word "to require" or "require" has been removed.
+>>JAMES BLADEL: Yeah, Heather. Go ahead.
+
+>>HEATHER FORREST: Can we, rather than say be intended to be adopted by, it's just long and
+chunky. Can we say that for the (indiscernible) SO -- sorry. Can we say intends to adopted? Why do
+we have to say to be intended to be adopted by? We'd have to say GNS -- the council intends to
+adopt. So let's -- as such as new -Sorry. I can't win. Heather Forrest. In the beginning of the sentence the GNSO Council intends to
+adopt.
+>>JAMES BLADEL: I see where you're going now, Heather. Yeah.
+>>HEATHER FORREST: Just simplify.
+>>JAMES BLADEL: Yep. Marika, if you can let us know when we're done editing and -- we're done
+editing? So Paul, do you have the text now? Okay.
+>>PAUL McGRADY: First of all, thank you for your patience. I failed to close out Hall B from the
+meeting just before and so I was toggling back and forth and got completely lost and in the wrong
+space. This seems fine to me because it reflects what we talked about, which is our intention to, you
+know, make sure that whatever we come up with, everybody is comfortable with before it's adopted.
+And this seems fine. Thank you.
+>>JAMES BLADEL: Okay. Thank you, Paul. Susan, do you concur as the seconder? Okay. Okay.
+So both the maker and seconder of the motion have accepted that change as friendly, and while it
+might not be my choice of grammar it works and it passes ICANN legal scrutiny so let's take it and run.
+Any other discussion points or comments or questions regarding this motion? I think the queue is
+clear, so if there are no objections, again, we'd like to proceed to a voice vote. No objections? Glen, if
+you don't mind.
+>>GLEN de SAINT GÉRY: Certainly, James. All those in favor of the -- what? Voice vote. Oh, voice
+vote. Voice vote. Avri Doria.
+>>JAMES BLADEL: I'm sorry, Glen. Voice vote we just -- like the way we did the previous one as
+opposed to a roll call vote. Maybe I'm using my terminology incorrectly.
+>>GLEN de SAINT GÉRY: That's perfect, James. All those in favor of the motion please show your
+hands. Thank you. Is there anyone -- is there anyone who would like to abstain? No abstentions. Is
+there anyone who would like to vote no? Valerie, what do you vote, please?
+>>VALERIE TAN: Hi, Glen. I'm in favor as well. Thank you.
+>>GLEN de SAINT GÉRY: Thank you very much, Valerie. James, the motion passes unanimously.
+>>JAMES BLADEL: Thank you, Glen. Thank you, Paul and Susan, for authoring and designing that
+motion, and thanks to the councillors who -- and to staff for helping it along. Now that it's been
+adopted, if you could reflect that in the minutes, Glen, and we will take it as an action item following
+the Helsinki public forum to start to convene, put out a call for volunteers and convene that team.
+Okay. Moving right along then to agenda item number 6. This is a -- another motion for a vote which
+will extend the term of the current GNSO liaison to the Government Advisory Committee, the GAC.
+Our current liaison is Mason Cole. Mason -- we've asked and Mason has agreed graciously to stay on
+through the Hyderabad meeting, ICANN 57. And the reason for this is we want to have a little bit more
+time to conduct a call for volunteers to assess and select Mason's successor. We had some
+discussion about this on the list a couple of weeks ago, and we have a motion that we discussed
+yesterday. If there are no objections, I've made the motion. I think I still need a second. Is that -Volker seconded. Okay. Is that okay, two registrars? Maybe it's okay, just bad form. Okay. But
+thank you, Volker. And if there are no objections, I'll just go ahead and read the whereas clauses. As
+soon as I find my space in the Adobe room. Okay. So resolved one whereas the GNSO Council
+hereby confirms the extension of the term of the current GNSO liaison to the GAC, Mason Cole, until
+the end of the ICANN annual general meeting in Hyderabad.
+
+Resolve two, the GNSO Council instructs the GNSO secretariat to inform the GNSO stakeholder
+groups and constituencies of the extended selection timeline. And now I will read the new timeline.
+Nominations accepted for candidates, the 1st of October. Council chairs consider candidates and
+notify first choice, 20th of October. Chairs submit a motion to council for consideration by 29 October,
+for consideration during council meeting to be held on the 8th of November. And the GAC leadership
+notified of the new liaison by 9th of November. And resolve 3, council instructs staff to include
+consideration of a uniform selection process as part of the work associated with implementing the
+post-transition bylaws. This last part is a recognition that this -- the filling of this liaison position is
+expected to be not the end but the beginning of filling of a number of liaison positions, CSE liaisons,
+and future use potentially for things like review teams as well. So the idea that we should begin work
+on a uniform selection process might be a good idea.
+So I'll then just open up for discussion, if anyone wants to discuss the motion. I think they gave us
+decaf by mistake, Glen.
+[ Laughter ]
+So okay, if there are no discussions, then I guess we can simply move to a vote, and I'd like to move
+again to a vote, voice vote, show of hands, whatever we want to call it, if there are no objections.
+>>GLEN de SAINT GÉRY: Thank you, James. All those in favor of this motion, please show your
+hands. Perhaps anyone who would like to abstain? Anyone who would like to vote no? Valerie,
+could we have your vote, please?
+>>VALERIE TAN: Thank you, Glen. I'm in favor.
+>>GLEN de SAINT GÉRY: Thank you very much. James, the vote passes unanimously -- the motion
+passes unanimously.
+>>JAMES BLADEL: Okay, thank you, Glen. And if you could record that in the minutes, we will get
+that selection process that's outlined in resolve 2 underway.
+Okay. Next in our agenda -- we are just moving right along -- is agenda item number 7, and this is a
+discussion point. This is regarding the board request regarding the Expert Working Group's final
+report on internationalized registration data. And just as a reminder, I sent a note out to the list, I think
+about two weeks ago, with a proposed plan -- sorry, let me back up. Reminding council that we
+received in May a request from the ICANN board to review policy implications from the report of the
+Expert Working Group and the proposal was to refer this to the chairs of the translation/transliteration
+PDP and ask them to make an assessment of whether or not those concerns were considered or
+addressed in their PDP report and otherwise make recommendations if they were not. I didn't see any
+traffic on the list so I assume that that means that I sent it on a weekend or maybe, more likely,
+everybody's just okay with that. I'm hoping it's the latter. But we probably should at least have a
+discussion here, and if there are any questions or comments or concerns or otherwise endorsements
+of that approach and we can just simply move forward with that proposed plan. So I'll open the queue
+then, if there are any discussions on agenda item 7. David.
+>>DAVID CAKE: I think this was the board request or specifically said that the -- the new IDS -- next
+gen IDS working group should pay attention to this one. Anyway, I can report we have.
+>>JAMES BLADEL: I think there were -- I'd have to go back to the actual proposal. I think there were
+three components. The first one was sending a note to the board acknowledging receipt of the
+request. The second one was referring this to the co-chairs of the translation/transliteration PDP, and
+I think the third one was also referring it to the co-chairs of the RDS working group. So I think all three
+of those components were part of the proposed path forward to resolve the request that we've been
+asked to do by the ICANN board.
+>>DAVID CAKE: As the -- it has definitely been noted by the next gen IDS.
+>>JAMES BLADEL: Thank you. And I'm sorry that I'm -- I'm doing it from memory, so I probably
+missed that point in the introduction. No other discussions? If there are no other concerns, then I
+
+think we'll just proceed with that plan, and Glen, if you could just make a note that we'll -- we'll proceed
+with that approach and Marika will get to work drafting a letter which, of course, we'll circulate to the
+council list before transmitting to the board and to those various co-chairs of those groups.
+All right. Agenda item number 8, and this is an update on the process to select primary and alternate
+delegates from the GNSO to the CSE, Customer Standing Committee. I'm probably going to need to
+turn this over to Donna sooner than later because she is the subject matter expert on the CSE and the
+selection process. I know that Wolf-Ulrich has been involved as well. I didn't seen him. Is he -- oh,
+there he is. Hey. If you don't mind, Donna, could you walk us through this discussion point?
+>>DONNA AUSTIN: I'm actually going to hand it off to Wolf-Ulrich because we've -- the GNSO
+Council has put together a selection committee to deal with this specifically. So I'll hand it over to
+Wolf. Thank you.
+>>WOLF-ULRICH KNOBEN: Thanks very much, Donna, and James. Wolf-Ulrich speaking.
+From the interesting discussion we had yesterday evening, I learned that there's still confusion in the
+room about this process. And I learned also that to some extent, I'm still confused in some details.
+So I'd like to guide you a little bit through that process for some minutes and hope to hear from your
+questions as to where the problem may be. And if you understand all correctly and if you are -- if you
+know the right way to do that.
+So first thing is we are under heavy time pressure because just starting from the end is, the end date
+is the 15th of August where the Customer Standing Committee is to be established. That is a
+requirement coming from all the efforts CCWG has undertaken and with regards to the (indiscernible)
+placement of the NTIA oversight to the IANA functions.
+So, Julie, can you step forward? Thanks.
+What is it about? So the Customer Standing Committee is always to monitor the performance of the
+IANA naming functions in the future, and there are a set of targets, set of Service Level Agreements
+where the Customer Standing Committee is looking at, and then doing its work about.
+So the -- The Customer Standing Committee shall consist of representatives of all SOs and ACs, and
+when it comes down to the GNSO as an SO, so we have two separate -- separate lines where we can
+file members or liaisons to the Customer Standing Committee. One is through the Registry
+Stakeholder Group which is separate part, and then the rest is for the GNSO noncontracted parties'
+house, plus the registrar part from the contracted parties' house. Also to sort out, find out a candidate
+for liaison of the GNSO.
+So we have different participants or members in the CSC. The member -- so-called members, the
+difference is that they are appointed in different way and they do have the voting rights on the
+Customer Standing Committee where the liaisons are normal participants. They have the same rights
+to participate but not to vote on that.
+There's not a requirement to provide liaisons. It's just an opportunity, but it's a good opportunity. And
+I would like to make the point here and advertise for -- to apply for that job from the GNSO.
+Next slide, please.
+So from the timeline. Coming back. So 15th of August, the CSC shall be established. And to fulfill
+that, we have already -- ICANN has already sent out and then it went to the GNSO -- through the
+GNSO Council chair the call of expressions of interest for that liaison. This is out. The deadline to
+send applications to the GNSO secretariat is the 15 -- is the 15th of July? Yeah, the 15th of July. And
+so in between, up to the 15th of July, so there is some preparatory work to be done.
+We have a -- the GNSO has established a selection committee from the GNSO Council so we can
+see the four colleagues here. David Cake, Heather Forrest, Susan, Rubens and myself. And we had
+a chance to sit together the first time yesterday to outline the frame for this work to be done to select
+or to evaluate the incoming applications.
+
+The next step to be done is -- that -- well, that we have done yesterday is we have established and we
+have agreed upon our internal evaluation process for the candidates. What we already have is a kind
+of evaluation tool, and then we agreed upon how we are going forward in order to provide the
+candidates to the council.
+What we have to do is, from the incoming applications, to sort out or to rank four candidates and put
+them forward to the council for -- which has to then -- or is going to select two of these four candidates.
+And in a third -- in a third step from these two, the very last one is going to be chosen, but this is after
+a coordination round with the ccNSO.
+Let me come to the next slide, please.
+So this is the steps. The SC is the selection committee. Today we're updating you here. Then after
+the incoming -- the incoming applications, the evaluation is going on. And these send the four top
+candidates of these applications, if there are more than four, to the GNSO Council. And the GNSO
+Council is then going to select a primary and secondary. And after that, there will be a coordination
+round together with the ccNSO and the Registry Stakeholder Group in order -- with regard to so-called
+diversity aspects. Because in the end, the GNSO and the ccNSO have to approve the entire slate
+which is provided by all SO/ACs to the CSC. And in order to do that, two candidates are needed in
+order to have the probability to sort out or to solve the potential diversity aspects or issues with
+regards to the membership of CSC.
+So in the end, the GNSO Council approves -- has to approve together with the ccNSO all the CSC
+members.
+Can we come to the timeline, then?
+Yes. So appointed to the middle of that timeline, we start from 15th of July. 15th of July, the
+Expression of Interests are due. So this is the deadline for filing applications. Then the internal
+process of selection and ranking is starting. And there is the consultation process with the ccNSO.
+The 21st of July, the GNSO is going to have a council meeting and it is intended to provide a motion
+to -- for the -- with regard to the four candidates to be selected -- or to be discussed in order to give the
+council a chance to select two candidates.
+In order to fulfill that -- So we will provide the motion to meet the internal rules, our internal rules, we
+have to provide a motion by 11th of July, which means we cannot come up at that time with the names
+of the candidates because the deadline for applications is 15th of July, but we will do that step by step
+after the 15th of July. And we hope, because we have our process internally is a little flexible, that we
+can do that very quickly after 15th of July, within some days. So that is ready. Time -- Should be time
+enough to discuss that internally within your respective stakeholder groups.
+But I would like to -- to point to that because yesterday we have discussed that because of this
+timeline, there is no time in order to, for example, to defer that motion because of not having had time
+enough to discuss it internally.
+So we are all under pressure and we try our best to give you time to internally discuss the slate of
+candidates.
+After the -- our -- the GNSO motion, then, internally with the ccNSO, which is also establishing a kind
+of selection committee, I hope so, we will have this coordination round so we can come up at the end
+of July with the very last motions with the overall slate, with the entire slate for the CSC. And this
+should then be decided on a separate council call which is dated to 9th of August in order to have time
+enough for the 15th of August to provide all the necessary things; that the council can decide on 9th of
+August by telephone call, by specific telephone call about the entire slate.
+I do hope I have given you an overview of that. So it's a tight schedule, and, well, I'm open to any
+question and to -- any question you may have.
+Thank you.
+
+>>JAMES BLADEL: Thank you, Wolf-Ulrich.
+Can we back up to the slide with the timeline, quickly? Thank you.
+And thank you for the overview. And we'll open up a queue in just a minute.
+I just want to boil it down to a couple of just salient takeaways here. The first one is that this is a twostep process. First we have to approve the primary and alternate GNSO liaisons, and that will be
+done via a motion that has essentially, you know, primary name goes here, secondary name goes
+here, because we won't know those people when the motion is due. We will then amend the motion
+prior to voting so that we can get those -- get that up for the 21st meeting.
+And then, after all the liaisons and members are put together, the entire slate is subject to a GNSO
+vote, and because that falls in our gap, our summer gap between the July and September meetings,
+we've proposed or at least we're anticipating that we'll need some sort of off-calendar meeting. And
+the hope at this point is that that's not a meeting or a call. That that's simply an email ballot; that the
+motion is made on the list, the voting occurs on the list, and everybody, you know, relax at the beach
+or the pool without having to get on a GNSO Council call. That's the plan, but I think the key is that it's
+a two-step process, and the timeline, as you can see, leaves very little cushion for any of this to slip,
+because right as the selection is done on the 21st, we move immediately into consultations with the
+ccNSO.
+So we'll open it up now for discussion or questions. I just wanted to highlight those couple of points
+because this is going to be a very time sensitive process and it has a couple of different moving parts
+we're going to have to hit.
+So let me just jump back over to the queue here. And I think I have Phil. And I have Phil.
+Phil.
+>>PHILIP CORWIN: Yeah, thank you, James.
+And I'm just -- I don't have any concerns here or objections but just trying to make sure I understand
+all this.
+I do want to note one thing before I get into request for clarification, which is the timeline shows a
+GNSO Council special meeting for approval on August 9th. I don't know about other people, but I'm
+going to be on vacation in a rather remote part of Maine on August 9th and I don't know what if any
+connectivity I'll have. So I hope we can do something a little bit earlier in advance because I can't
+guarantee I can be in a meeting on August 9th.
+My -- I'm a little -- My confusion is -- whoops -- on the side note that talks about election of primary
+and alternate, use of the word "delegates," but we're actually talking about members who are voting
+members of the CSC, and liaisons who are essentially observers on behalf of certain groups. And I
+think I understand that the GNSO is going to be selecting some liaisons to monitor the group but also
+is going to have some role in final approval of members of the group. And I'm raising this, and tell me
+if I'm right or wrong.
+And also, in addition to what the GNSO is doing, does the Registry Stakeholder Group get its own
+liaisons as customers of -- as part of the customer group that are separate from the GNSO?
+So I'm just trying to sort all this out to see what our role is and what's in addition to our role.
+Thank you.
+>>JAMES BLADEL: Thanks, Phil. I'm going to see if I can hit those three questions, and then I'll
+probably wave in Wolf-Ulrich and staff and Donna and anyone else who wants to weigh in.
+The first one is it does say special session or special GNSO Council meeting on August 9th. But
+again, I think the goal here is to have a window -- and I believe it's -- is it four days? Four-day window
+to vote by email. So I don't know if that addresses your connectivity problem, but it wouldn't be a realtime meeting. It would be an email vote sometime in that window.
+
+The second question is -- I'll probably defer to some of the others about whether or not we approve
+both the members and the liaisons, but I think you are correct that the gTLD registries as well as the
+ccTLD registries select their members. What I'm not clear on is if we're approving them in that second
+phase where we're approving the entire slate or if we're only approving the liaisons. So I guess that
+would be my question, too, and I think that's your second question.
+Wolf-Ulrich, maybe you can shed some line?
+>>WOLF-ULRICH KNOBEN: As I learned, we're going to approve all of them, including the -- It's -Well, but what we are not doing is -- well, to go into it from the election committee, to go into any
+discussion at all about, you know, what the risk is going to doing -- to provide, yeah? We are just
+talking about the liaison from the election committee. So we are just talking about this one person the
+GNSO has to send as a liaison.
+So then the council as a whole is going to approve the overall slate, including the members.
+But, Donna, please.
+>>DONNA AUSTIN: Thanks, James. Donna Austin. So Phil, I think the answer to your question is
+the registries and the ccNSO have processes where they will select the members and then the ccNSO
+and Registry Stakeholder Group have to have a consultation to discuss the membership slate. So
+there will be four TLD representatives on the CSE. So the Registry Stakeholder Group and ccNSO
+have a consultation on that and approve that membership slate.
+Then the GNSO and ccNSO agree to the full slate which includes the liaisons and it -- and the
+membership is actually the four members are part of that slate. And what the ccNSO and GNSO are
+doing in terms of the finalization of the slate is really making sure that there's a balance there in terms
+of diversity and skill set. So that's what they're looking at in the overall slate. So the intention is that
+the liaisons that are identified by the other SOs and ACs, they will provide their primary and alternate,
+and the idea is that the alternate is there if there needs to be some kind of manipulation, for want of a
+better word, to make the slate look -- you know, address the diversity issue. Does that answer your
+question, concern?
+>>PHILIP CORWIN: Yeah, I think it does. I have a much better understanding now, and thank you for
+your responses.
+>>JAMES BLADEL: Thanks. I have Heather and Keith.
+>>HEATHER FORREST: Thanks, James. Heather Forrest.
+>>JAMES BLADEL: And Paul. Sorry.
+>>HEATHER FORREST: Phil, thank you for your question because it spurred a comment in my mind
+that I'm afraid it's taken until now, and I'm on this group, to formulate in my mind, which is to say you
+asked about the Registry Stakeholder Group seats on this and it's not clear to me -- we have Rubens
+on our group, and Rubens you're a member of the Registry Stakeholder Group. So explain to me, is
+that a problem, let's say, in light of the formation of the group? Thanks.
+>>JAMES BLADEL: Rubens, you want to respond? Mary also had her hand up. I don't know if it was
+relative to this. Okay. Rubens.
+>>RUBENS KUHL: Just to note that the liaison you will be selecting can be from the registry. So
+because there are Registry Stakeholder Group already appoints members. So the GNSO is a nonregistry. So it doesn't affect -- impact whether -- who gets selected because the Registry Stakeholder
+Group will only appoint from their membership and the liaison can be from their membership.
+>>JAMES BLADEL: Heather, does that -- and Wolf-Ulrich, you have some ->>WOLF-ULRICH KNOBEN: Yes. Wolf-Ulrich speaking. Heather, I understand your question. With
+regards to the composition of the selection committee, is that your problem? So with regard that
+Rubens is on the selection committee for the GNSO liaison as representative of the risk -- of the
+
+Registry Stakeholder Group. So yesterday in our meeting when we set our rules here internally, so we
+-- we were of the opinion though that this doesn't matter. So because while -- though the council has
+decided which members should be -- should comprise from the selection committee and we are going
+well to -- not to vote on that. So we would find a -- we are going by consensus, for consensus to that,
+and I do not expect that from the Registry Stakeholder Group they are going well to over -- or to vote
+against unless there are really arguments from the -- from the skill set point of view with regard to the
+candidates but not anything else. What we discussed at first -- we had two things to discuss, the skill
+set of the candidates and then maybe the other requirements, which are the diversity requirements
+and so on. So I don't expect that.
+>>JAMES BLADEL: Thank you, Wolf-Ulrich. I next have Keith, Paul, and Phil. So Keith, you want
+Paul to go first?
+>>KEITH DRAZEK: Yeah, Paul had his card up first, and then I'll go.
+>>JAMES BLADEL: He did. Okay. So Paul, Keith, and then Phil.
+>>PAUL McGRADY: Thank you. Paul McGrady. So this is why I think ICANN should commission of
+it's official opera "Der Feast Or Famine" because it seems like we either have no process or a dizzying
+timeline. So I'd like to thank Wolf-Ulrich and Donna and the others on the team for presenting this. It's
+pretty complex, and you guys have made it as easy to understand as possible.
+Everybody sort of hinted around already the question that I wanted to ask which is when you say
+diversity what does that mean? Does that mean diversity of skill set? Does that mean geographic
+diversity? Does that mean diversity within stakeholder groups or constituencies, does it mean gender
+diversity? What does diversity mean in this context? Because that's a -- that's a big word that could
+mean a lot of things, and I want to make sure I understand what it is we mean when we say diversity.
+>>JAMES BLADEL: Donna, did you want to take that one?
+>>DONNA AUSTIN: So Paul, the -- within the IANA transition proposal itself there was a charter
+developed for the CSE, and that's the guiding document that we've used to develop this process. It's - and I can't recall the language offhand, but it's not specific about what that diverse situation is. I think
+there is a mention of, you know, geography. I think it's specifically geography and skill set. It's not
+about the -- we've tried to address the diversity of, you know, representation through the stakeholder
+groups or SOs/ACs with the ability for each SO and AC to appointed one liaison, if they wish to do
+that. And the reason that the registries -- the Cs and Gs actually have four slots is because they are
+the direct customers of IANA and this is, we think, the -- the Customer Standing Committee is an
+important role and it -- it is the direct customers that should have the technical experience and
+knowledge of IANA that can stand up the committee and be able to, you know, understand whether
+IANA is actually performing to the extent that they should be. So the -- the diversity of stakeholder
+groups is actually addressed through the composition of the CSE itself. And in looking at the diversity
+of the CSE as a whole, I think the idea was to look at geography and skill set. So I think that there are
+two kinds of diversity. Thanks.
+>>JAMES BLADEL: Yeah, Susan, quick response?
+>>SUSAN KAWAGUCHI: But the application includes an optional selection of gender and also, you
+know, what house you're from. So we can look at those. We'll have that information to look at.
+>>JAMES BLADEL: Thank you, Susan. Okay. Next in the queue, sorry, I have Keith, Phil, Mary, do
+you -- you want to preempt this, for Mary? You want to go at the end? Okay. But I also saw
+something from Carlos. Did you want in the queue, Carlos? Then it's Keith, Phil, and Mary. Keith.
+And wolf-Ulrich.
+>>KEITH DRAZEK: Thank you, James. Keith Drazek, Registry Stakeholder Group. So Donna
+actually covered much of what I was going to say, so I'll be brief. In response to this general question
+about the role of the GNSO Council in finalizing this process, I'll just read directly a short section from
+the final CWG report. It's actually exhibit G, section 337. It says, "The full membership of the CSE
+must be approved by the ccNSO and the GNSO. While it will not be the role of the ccNSO and GNSO
+
+to question the validity of any recommended appointments to the CSE, they will take into account the
+overall composition of the proposed CSE in terms of geographic diversity and skill sets." So I think
+that -- that as briefly as we can state it is the role, and I just do want to reiterate that Donna's points
+about the rationale for the gTLD registries and the ccTLD registries having two each members is
+because they are the customers of the IANA department. And this is a -- really an operational and
+technical check to ensure that IANA is performing up to the expectations of its customers. Thanks.
+>>JAMES BLADEL: Thank you, Keith. And thank you for having chapter and verse ready to go.
+Okay. Next is Phil.
+>>PHILIP CORWIN: Yeah, and for this I want to use kind of Congress language a little colloquy.
+Who's the subject -- subject matter expert on this on staff? Who I can engage with.
+>>JAMES BLADEL: On staff I'm going to have to say Julie.
+>>PHILIP CORWIN: Okay. Let me just state this as simply as I can, and you tell me if I'm right or
+wrong. And then if I'm right I'll -- show I understand. If I'm wrong, you'll correct me and then I'll
+understand it.
+This is a committee of customers of the new PTI which is being set up as a new California not-forprofit corporation to administer the IANA functions under contract to ICANN as envisioned under the
+transition plan; is that correct?
+>>JULIE HEDLUND: Yes, that's my understanding.
+>>PHILIP CORWIN: Okay. And the gTLD registries and the ccTLD registries will pick members of
+this CSE. Will anybody else be picking members or just those two registry groups?
+>>DONNA AUSTIN: So the only other possibility for a member was if the -- if the IAB wanted to
+appoint somebody because of the .ARPA registry.
+>>PHILIP CORWIN: Okay. And then the GNSO and the ccNSO will be picking liaisons to be ->> (Off microphone).
+>>PHILIP CORWIN: Who are -- okay, that's my next question. Who else is picking liaisons? ALAC,
+anyone else?
+>> SSAC.
+>>PHILIP CORWIN: SSAC.
+>>DONNA AUSTIN: So the liaisons are appointed -- appointed by their respective SOs/ACs. So
+SSAC, RSSAC, ASO, ALAC, GAC, GNSO. So they all have the ability to -- to appoint a liaison, but it
+is not mandatory. They do not have to.
+>>PHILIP CORWIN: So if they choose to exercise that, there will be a possibility of more liaisons than
+members of this CSE. The members are the ones who have the more clout or whatever.
+>>DONNA AUSTIN: Correct.
+>>PHILIP CORWIN: So I think that's it. I think now I understand it as well as I'm going to. And I hope
+by asking these questions and having this dialogue it's helped others understand this. Thank you.
+>>JAMES BLADEL: Thank you, Phil. Thank you, Julie and Donna. Next I have Mary, Wolf-Ulrich,
+and Keith, are you back in the queue or is that -- the Adobe as well. Thanks.
+>>MARY WONG: Thanks, James. This is Mary from staff. So this is a staff suggestion, recognizing
+that you are more than likely to do a vote on the 9th of August rather than a special meeting and
+recognizing that 9th of August may be a difficult date for some, including Phil and others. Our
+suggestion nevertheless is to go ahead and schedule a special meeting. It's always easier to cancel
+than to try and put one up at the last minute. That is partly because of the various requirements that
+you need to go through in order to do a vote outside a meeting. But also because after the meeting
+
+that you will have on the 21st of July, you will probably have a better idea where things stand. And
+even making a decision at that point to not have a special meeting and to go for the vote would still be
+in time.
+>>JAMES BLADEL: Thank you, Mary. Wolf-Ulrich.
+>>WOLF-ULRICH KNOBEN: Thanks. Wolf-Ulrich speaking. Well, that fits to my point as well. May I
+ask you to go to the next slide, you know, which shows a comparison of the timeline of the ccNSO and
+what's going to happen after -- after the first motion made by the council on 21st of July and then to
+the -- up to the 9th of August. You see a slight difference in the process between ccNSO and -- and
+the GNSO, that is that comes from the ccNSO is a complicated structure with -- would like also to
+cover their geographical diversity aspects in between so by -- by consulting all of their regions.
+So nevertheless, I come back to the point that we should have the aim to, at first, well, to come to the
+vote on the 21st of July and not to find arguments or to avoid arguments to defer, which may be
+possible because of our own rules that we have. But that shouldn't -- shouldn't be avoided.
+So, therefore, James, I would like to ask you if you could find the kind of feeling here from the council
+with regard to that date, you know, and whether there might be obstacles from some of the
+stakeholder groups to see that the time between the 15th of July or -- the 17th or 18th of July and the
+21st may be too short to consult within the stakeholder groups. Because we shall have these three to
+four days only to give them for internal consulting.
+So that should be kept in mind, and we should be clear about that, that it there shall not be any
+deferral of the motion -- of the motion on the 21st of July.
+Thank you.
+>>JAMES BLADEL: Thank you, Wolf-Ulrich. And that is something that we discussed a little bit
+yesterday because there's just no daylight in the schedule. Deferring a motion would actually kick it
+formally into September, which would cause us to miss several dates. So we would have to set the
+expectation that that just wouldn't be possible under this timeline. We would essentially go into the
+CSC with no liaisons if that were done. So I think we would consult as a leadership team with the
+chairs, but probably any request for deferral would be unlikely.
+So with that in mind, please make sure that we have that small window between the time the motion
+is ready and -- I'm sorry, from the time that the names of the primary and alternate liaison candidates
+are announced and the time that the vote is required, which as Wolf pointed out is probably going to
+be about four days. Make sure we have an opportunity to discuss those internally with the SGs and
+Cs. And I think, hopefully, having a few weeks' notice that that's going to occur will allow you to make
+the necessary preparations.
+Okay. next we have Paul, and then just a couple of housekeeping announcements because we do
+have to move forward.
+Paul.
+>>PAUL McGRADY: Paul McGrady. Thanks, James.
+So this is -- Clearly there's a need for speed here; right? And because of that, I think that this need
+for speed and the way that this -- the process, the timeline, the fact that even we are presupposing
+that this is the council's role in this new world, is what was driving a lot of the prior motion; right? That
+we sort of figure out how we -- how the GNSO and the GNSO Council adapt to a post-transition world.
+But I would like -- I would like to say that there is a sense, these from the IPC side, that because of
+the need for speed, we're not raising those concerns or questions, but we would like to put a -- like a
+little -- drop a footnote and say that when it comes to appointments of these sorts of positions and the
+role of the GNSO Council beyond policy-making and those kinds of things, that we still want a robust
+discussion of that as part of that drafting team that we've just formed; right?
+
+So going along to get along, but we also don't want to give the impression that we didn't have
+concerns around this process.
+Thank you.
+>>JAMES BLADEL: Thanks, Paul. Noted.
+In that same vein, one question I would have for Julia, Donna, Wolf-Ulrich, is what's the term for
+members or liaisons? Is this something we're going to have to do every year? Every two years?
+>>WOLF-ULRICH KNOBEN: James.
+>>JAMES BLADEL: Yes, Wolf-Ulrich.
+>>WOLF-ULRICH KNOBEN: It's two years but it could be reelected three times -- up to three times.
+So it could be six years, then.
+>>JAMES BLADEL: So with that in mind, and I'm kind of aiming this over at Paul and the IPC, I think
+the expectation is we would have a better process or a better answer, but this first time to get this thing
+up and running to meet the transition window, we may have to go with what we've got.
+So okay. So I put myself in the queue to sort of close down, but I saw a couple other hands jump up.
+So I think -- And then now everybody is bashful.
+Was it Keith? Did you have something you wanted to weigh in here?
+>>KEITH DRAZEK: Thanks, James. There was a question about the term -- sorry. Keith Drazek.
+And I think the intention in the report was that the terms would be staggered of the total -- total group.
+So the initial -- half of the initial appointments will be for three years to allow for future staggering of the
+appointment cycle.
+So some will be two years, some will be three, divided equally. But on an ongoing basis or a forwardlooking basis, it's a term of two years.
+>>JAMES BLADEL: Okay. Thanks, Keith.
+Okay. So just a time check here. It's currently noon, which means we have 30 minutes to plow
+through the rest of our agenda, which may or may not happen, but we're going to give it a good shot.
+We have the ability to stay in this room and go over a little bit longer. We do have lunch coming in. I
+would ask that because of the fact that we planned on working through, that we would -- we would ask
+that councillors be given a shot to get a plate and come back to the table. And if we have a few items
+that we need to clean up while we're chewing our lunch or something like that, we'll do so as gracefully
+as possible. And then we move to the wrap-up session, I believe, at 1:30. So we can probably just
+seamlessly go from council to lunch to wrap-up.
+Okay. So let's -- Thank you, by the way, for everyone. This is -- as you were aware from our
+discussions last night, this is a very complex and very time sensitive project. And so I hope that
+everyone appreciates the importance and the urgency of hitting these dates. And I appreciate the fact
+that we're all doing what we can to make sure that this doesn't slip. So thank you.
+Okay. So next is agenda item number 9, which is activities of the CCWG on Internet governance.
+We're going to have an update from Olivier and Rafik. Is Rafik here? I haven't seen him in Helsinki.
+Is he -- He's here in Helsinki?
+>>OLIVIER CREPIN-LEBLOND: Rafik is hiding behind.
+>>JAMES BLADEL: Come on up to the table, Rafik. Michele, if you want to make some room there?
+Oh, he's got some spots.
+Okay. And if we could ask for a brief update from the CCWG Internet governance, and then we'll
+open the floor for some discussion.
+>>RAFIK DAMMAK: Okay. Thanks, James, to be worried about my presence, but I'm here for you.
+
+[ Laughter ]
+Okay. So this is our second report since Marrakech meeting, and trying to summarize several
+activities that we had in the Cross-Community Working Group on Internet governance.
+Since then, we had -- we were present in the WSIS forum, and the working group organized and
+delivered workshop there. I think they talk about, if I'm not mistaken, it's more about the process for
+the accountability. And we had several -- several members from the ICANN community to participate
+as speakers. That was a good opportunity for the working group to introduce more what's happening
+in that space for those who are not familiar with ICANN processes or they are not a regular participant.
+On the other hand, we were quite active in following the discussion, and it's in the CSTD session.
+And CSTD working -- sorry. CSTD session and the plenary session in May. And this was kind of with
+liaising with the ICANN staff who is active in those spaces and also through active member of ICANN
+community who -- who are also participating in that area.
+So the discussion there was about the outcome of WSIS, WSIS+10 review which happened in
+December 2015, as a session in the United Nations General Assembly.
+So in that time also we kind of followed, I would say, the document, the outcome from the General
+Assembly, and also the establishment of working group on enhanced cooperation. And so as working
+group, we try to get more updates to understand what's happening there and what are the areas of
+interest for ICANN since we have some representation there, at least, from ICANN staff.
+As other activities, this is for the second time that we having this, is to prepare for the IGF and to
+submit a proposal for an IGF workshop. The IGF will take place in Guadalajara this year in December.
+And as theme for the workshop is really talk about the IANA stewardship transition, ICANN
+accountability, and the multistakeholder model used in ICANN.
+So we are really talking more about the process there and not the content of, I mean, the
+recommendation and so on.
+So we made the submission by the deadline. I think now it will be -- all the workshop will be under
+evaluation. Maybe those involved with the MAG, they can give more insight about that process.
+Okay. And here moving more about more kind of internal discussion within ICANN. And as CrossCommunity Working Group, we had a discussion with Markus Kummer, the chair of the board Working
+Group on Internet Governance, that was established a few weeks ago. And as Cross-Community
+Working Group, we thought how we can cooperate and liaise with this new -- newly established
+working group and to avoid kind of any overlap, and so on.
+And we had a good discussion, first by -- through a conference call and first to get an understanding
+aways the purpose and what this working group try to achieve. And then, also, we had a chance to
+talk with them during Helsinki meeting. And so there is kind of agreement that really we show
+cooperation between the two working group. For example, the Board working group is not planning to
+submit workshop proposal or to organize conference and so on, so we create -- we have the bridge
+between both of them.
+And, so, okay. And we also had a face-to-face meeting with the new CEO and president of ICANN
+organization. And it's really more to -- we gave him kind of historical background about the CrossCommunity Working Group, what we try to achieve, what we did before, and to get a sense from him
+what he can expect from us and how we can work together.
+And, like, we stressed also how we are liaising with -- now with ICANN staff who are involved on
+behalf of ICANN organization in different Internet governance fora and spaces.
+So -- And as ongoing and forthcoming activities, we are still continuing to plan for IGF activities, in
+particular for any ICANN related session, and to see what we can do there. And taking in account the
+IGF process. For example, the IGF retreat which is going to happen next month, which is about the
+improvement of IGF, also the open consultation that I think is also in July.
+
+And here we are trying to liaise with those who happen to be member of the Cross-Community
+Working Group and also member of the MAG.
+And as continuation what we are doing, what we did before, is to plan for the session in next ICANN
+meeting in Hyderabad, probably to have like a town hall format, and try also to discuss with those from
+ICANN community who happened to be involved in other spaces, in particular with IGF, to engage with
+them and to share information.
+>>JAMES BLADEL: So, Rafik?
+>>RAFIK DAMMAK: Yes.
+>>JAMES BLADEL: I didn't mean to cut you off but I note that we have loaded the written update. It
+seems like we're tracking fairly closely to some of the information that I think we already had. And just
+in the interest of having a short period of time, I'm wondering if we can go into the discussions or,
+Olivier, did you have any brief comments? But I note that we have a number of folks that would like to
+have a more kind of Q&A type discussion if that is okay.
+>>RAFIK DAMMAK: Yeah, thanks, James. But we are -- just a quick response here. We tried only to
+respond to the request that came from GNSO Council to give a report, so if people have questions we
+will be happy to answer. So no problem.
+>>JAMES BLADEL: Thank you. Olivier.
+>>OLIVIER CREPIN-LEBLOND: Yeah, thanks, James. If I could just add just a couple of words.
+Olivia Crepin-Leblond speaking, for the transcript record. And I'm not the ALAC liaison right now and
+I'm probably going to just speak on my own self. A couple of things regarding this cross-community
+working group. It's not your standard cross-community working group with an issues -- you know, with
+starting report, a middle, and then end report. Internet governance goes on forever, just like life goes
+on. That's one point.
+The second point is, why does ICANN -- why does ICANN get involved with Internet governance.
+And that's, of course, important because of its environment. The environment that ICANN lives in is a
+hostile environment actually. There are several other organizations out there that would like to be able
+to control ICANN or run the space that ICANN is in charge of. And so ICANN needs to be looking at
+what is going on out there. Is it the job of staff? Yes, some ICANN staff are working on this. But we
+also felt it was important that there is a link, a bridge, between the community and staff. And in fact,
+that's been working very well. I'm glad to say that the work that we've done with staff has been very,
+very good. And they have been able to use us, use us as in the working group, as a sounding board
+for the input that they've been sending out there.
+It's also been the ability that having people from the community and staff and the board now involved,
+as you will have heard Rafik say that the board working group on Internet governance is now
+effectively working with us as well. There are more people listening out there, more people being able
+to intervene out there. So we have an early warning system, if you want, about any threats that might
+be coming from other organizations or in fora that we might not be in our usual life, or especially not
+within ICANN, looking at.
+One last piece of great news that I should relay to you is that on last Saturday Russia and China have
+signed an agreement to -- which is pretty strong agreement, I would say, which effectively mentions
+that they would like the United Nations to put together an agency of some sort or some group that
+would be looking at aspects of Internet governance and aspects of -- well, with the idea basically of
+governing, taking some part of work on that. It's not been really reported anywhere yet, but we're -we're tracking this. That's all, thanks.
+>>JAMES BLADEL: Okay. Thank you for the update. And we do appreciate both the depth and
+breadth of the activities that you are participating in. I know we had some folks around the table that
+perhaps wanted to ask a few questions. So if I could just see if anyone wants to get in the queue.
+Heather. We'll start with Heather. And I'm sorry, Heather and then Marilia.
+
+>>HEATHER FORREST: Thanks very much, Olivier and Rafik. And thank you for your written report
+as well which we have in the Adobe room. I wonder if you could clarify for us, were there any -- let's
+say when you -- when you set out, of course, it's understandable, Olivier, your point about the fact that
+this stuff goes on and on and on. Do you have any specific deliverables, and if so -- let's say in your
+charter, and if so, where do you stand on those? I think one of the things we're trying to think about in
+council going forward is a clearer identification of where you are in your timeline and where you are in
+terms of meeting your targets. Thanks.
+>>OLIVIER CREPIN-LEBLOND: Yeah, thanks very much, Heather. Olivia speaking. In terms of
+having deliverables, of course, the working group is producing regular reports or is -- has provided
+regular reports to the different SOs and ACs that have chartered it. As far as producing documents is
+concerned, the group has the ability to put together specific documents for input outside of the -- of
+ICANN but it would have to go through the process of ratification from the different chartering
+organizations, just like anything that's as important as this. There was one deliverable that was sent to
+NETmundial. That was a while ago. We haven't identified anything so far that we need to respond to.
+I think I have to also note that this working group is really acting in a responsive rate and not an active
+rate. In other words, we wouldn't be going out there and trying to engage any -- was it any process
+without really finding the need to do so. So we cannot predict what will turn up next month or the
+month after. It seems to be such an unstable environment out there that we have surprises every
+month we're watching, and as soon as there's something that might turn up, you might actually get a
+request to -- from us as an early warning system to come back and say well, yes, please ahead with
+this. I hope that answered.
+>>HEATHER FORREST: Thanks, Olivier. You said you've had a few reports. Can we have a -- can
+council have a copy of those reports?
+>>OLIVIER CREPIN-LEBLOND: Yeah. I think you had the report from last -- from Marrakech and this
+is the one from this -- this one. There is no actual written report, if you want -- apart from the staff
+report, which we, of course, have had some input into, that goes as, you know, sort of briefing on the
+CSTD meeting, briefing on the WSIS+10 meeting, et cetera. If you want to have copies of these, I'm
+sure we can arrange that.
+>>HEATHER FORREST: Okay. Thanks.
+>>JAMES BLADEL: Okay, thanks. Actually I have Marilia, Carlos, and then Phil and Paul, I'm sorry, I
+didn't see who came up first. Was it -- Paul and then Phil. Phil and then Paul. Okay. So first up is
+Marilia.
+>>MARILIA MACIEL: Thank you, James. This is Marilia speaking. I am actually a participant of the
+CCWG IG since the beginning and I do agree with the report and the observations that were made by
+Olivier. Another point that I would like to add on the importance of this working group is that I do
+believe that keeping an eye and keeping vigilant on the threats that are present on the environment is
+important, but it is also important and that's one of the reasons why I joined this group, that ICANN
+sees itself as a part of the ecosystem as well. Not needing to defend itself from the external threats
+but also to engage with other organizations and contribute to the discussions out there. There are not
+only threats that other organizations that have a very constructive role, and it is my feeling that
+sometimes we see -- because we are so absorbed by the amount of work that we have here and it's
+completely understandable that it is like this, but sometimes we see ourselves in a little bubble. And
+there's so much that this organization, because of this model, because of everything that we do here,
+we could contribute to the discussions out there. So I think that it's a two-way street. And maybe this
+is something that for future we can as well strengthen inside the CCWG. But congratulations to Olivier
+and Rafik. I think that the meeting was very productive here.
+Another observation that I would have, maybe this is not the place, but I will say it anyway, is that one
+of the things that I think did not work very well on meeting B was that some sessions were not on the
+schedule. And this, I think, was not very good for transparency. Some peoples that -- people that
+would like to attend the sessions, they were not able to because they were not informed. So I think
+that we need to make a decision here. Either we have sessions and they are on schedule or we do
+
+not have sessions, parallel sessions, and we have the only ones that have been included on the
+official agenda. And this was one of the occasions that happened with the CCWG IG, so I hope we
+can discuss this with the meeting organizers for the next meeting B. Thanks.
+>>JAMES BLADEL: Thank you, Marilia. Next is Carlos.
+>>CARLOS RUIZ GUTIERREZ: Yes, thank you very much. I'm the liaison to the CWG and I tried to
+participate in the calls, and as I have reported before, we have had a hard time even to keep track of
+the scheduling of the calls. And recently there was a proposal by Olivier, by the whole group, to keep
+separate just administrative and logistic calls from substantial calls. And it was proposed that for
+substance over the next few months we should focus on the upcoming world conference -- I don't
+know which one. Yes, I know, on standardization. And there are three chapters of the world
+conference on standardization 2016 which might be relevant for the DNS, and I think we have to get
+up to speed to define if these three areas are relevant or not and if we're going to engage or not. And
+I have to agree with Marilia, scheduling Monday, Tuesday was good. But scheduling yesterday was a
+disaster. I could not participate in -- in the meeting. And I really ask our members of the group to
+focus on this issue, on this question which we have had for the last few weeks, if there is any
+relevance in the world conference of standardization or not and if we are going to focus the work of the
+CWG on the substantive issues. Thank you very much.
+>>JAMES BLADEL: Yep, Olivier.
+>>OLIVIER CREPIN-LEBLOND: Thanks, James. Short answer, it's Olivier speaking. And the
+WTSA, the World Telecom Standardization Assembly, is indeed -- might indeed seem to be very far
+removed from what we do, but it is the root of what then ends up at the end a few years later at the
+World Conference On International Telecommunications. The last one of which took place in 2012
+and was a real battle. So we're trying to effectively attack or monitor things as early as we can. Thank
+you.
+>>JAMES BLADEL: Thank you, Olivier. Who did we decide? It was Phil? Phil.
+>>PHILIP CORWIN: Thank you. Phil Corwin for the record. Thank you, Olivier, for that report and
+your efforts on this. And particularly for pointing out that the statement issued last week by Russia and
+China, which is consistent with earlier positions they've taken, in fact I believe in the past year, they
+issued a similar statement in which the government of India joined. And I wrote a very long article on
+jurisdiction issues recently and noted also that there's a number of civil society organizations in India
+which have indicated that they -- notwithstanding the completion of the transition they will still question
+ICANN organization's legal jurisdiction within the United States and are unhappy with that. They'd like
+to see a change. Various suggestions for changes have come from them.
+The one question I have is within your own discussions within this group -- and I'm monitoring other -all the various forums -- iCANN will be having its own Work Stream 2 discussions on the jurisdiction, a
+variety of jurisdictional questions. Has ICANN's legal jurisdiction in the U.S. post-transition come up in
+your internal discussions or in monitoring any of these other events that are all listed in this report?
+>>OLIVIER CREPIN-LEBLOND: Thanks very much, Phil. Olivier Crepin-Leblond speaking, and we
+have made it specific in our charter that this working group would not be dealing with anything to do
+with IANA stewardship transition. And I don't have the charter in front of me, but I think that it's
+anything related to that as well. Now, it has done the workshops at the IGF, but that was purely to
+demonstrate the multistakeholder model. It didn't actually go into the discussion of the transition itself.
+So as far as the answer to your question is no. We have not.
+>>JAMES BLADEL: Okay. Thank you. We have now Paul, Volker, and Donna, and then I'm going to
+close the queue there because we have to move on. We have -- running out of time, and we have
+one more topic. Paul.
+>>PAUL McGRADY: So I had a question and a thank you. The question Phil asked, so I'll just do the
+thank you which is thank you for your candor in acknowledging that the environment is not always
+friendly. Sometimes the rhetoric around the transition has been sort of flowers and chirping birds and
+
+other things like that from the opening scene of a Disney movie. And I think that the real environment
+out there is not necessarily, as you note, as friendly. That multistakeholder model is unique and worth
+protecting. So thank you to you and the others on this team for your hard work.
+>>JAMES BLADEL: Thank you, Paul. Volker.
+>>VOLKER GREIMANN: Yes, thank you, James. Volker Greimann speaking, for the record. I think
+this is very important work that's going on to be -- to stay involved within the forces (indiscernible)
+ICANN. I just wonder, with the -- with the budget negotiations coming up, is this participation funded
+by ICANN? How many participants are sent to these events, and what's the overall impact on the
+ICANN budget?
+>>OLIVIER CREPIN-LEBLOND: Yeah, thanks very much, Volker. It's Olivier Crepin-Leblond
+speaking. It actually just comes at a very minimal cost. I think we have one -- it's not even a full-time
+employee. I think it's 0.001 full-time employee who's working on this, Desiree Cabera (phonetic), with
+-- I think somebody's PA in LA and spends an hour a week on this. We do have a liaison, Nigel
+Hickson, but that's as part of his overall work in his own department.
+As far as going to these fora, none of us are funded to go there. So we all -- and the people that are
+funded by ICANN are funded in other ways because of the -- the special community requests, for
+example. So there wasn't any -- there's no actual impact on ICANN financially for these things. And I
+guess, well, you know, a room, maybe a few bottles of water.
+>>JAMES BLADEL: I'm sorry, you said funded by ICANN in other ways. I guess I'm not clear on that.
+What -- can you give us an example? Without calling anyone out.
+>>OLIVIER CREPIN-LEBLOND: Yeah, thanks. So for the IGF, for example, James -- it's Olivier
+speaking. For the IGF there had been some special community requests made by some parts of the
+GNSO or parts of ICANN like the ALAC or the RALOs, in fact, to go and send people to stage a
+workshop over at the Internet Governance Forum. If they are funded to go there and if the workshop
+that we are running there is accepted as well, then we would have these people also in our workshop.
+So effectively, they are already funded to be there. There doesn't need to be additional funds to send
+them there, effectively.
+>>JAMES BLADEL: So they were previously funded for other purposes and we're just taking
+advantage of the fact that they're already there to move them into this ->>OLIVIER CREPIN-LEBLOND: That's right. And when we do a whop proposal this year, we had to
+actually put the details of the people who would be on the panel, et cetera. And so we had to get in
+touch with those people and say are you planning to be at the IGF this year? And if they said no, then
+we'd say, okay, forget about it. If they said yes, then we can list them.
+>> Thank you. That answers my question.
+>>JAMES BLADEL: Thank you, Olivier. Thank you, Volker.
+Donna. You have the last word.
+>>DONNA AUSTIN: Thanks. Donna Austin. Just to respond to something that Marilia, if I
+understand her statement or question properly. One of the reasons that perhaps sessions weren't
+available during this meeting is because of the strong focus on policy. We didn't -- This is a four-day
+meeting. It was stripped back. We didn't have access to the same amount of rooms. We wanted to
+keep as much of the meeting nonconflicted as possible. So that's, you know -- understand that
+requests were made and rejected, and one of the reasons was that was because we were trying to
+focus this very much on a policy meeting. So that's what may be one of the reasons why you didn't -you know, some of the sessions weren't approved or whatever.
+>>JAMES BLADEL: Thanks, Donna.
+Very briefly.
+
+>>OLIVIER CREPIN-LEBLOND: Yeah, thanks, James. Olivier speaking. And I guess we have
+maybe different views of policy. I guess there's policy within ICANN, ICANN policy. The IG, Internet
+governance, is also, but it's external policy. So I felt it could have been within the bounds of the policy
+meeting. But we can certainly discuss this for future B meetings.
+Thank you.
+>>JAMES BLADEL: Thank you. Policy is what you make it.
+Okay. So thank you for that exchange, for Rafik and for Olivier and for all the councillors who
+participated in that discussion. I think we're going to have continuing discussions and questions
+between now and Hyderabad. And if you can continue to keep us updated with your status,
+particularly if any of the events that you submitted on your written report were to change or have any
+or tangible outcomes. Thank you.
+Okay. Next up is agenda item number 10, which is a discussion on the next steps implementing
+recommendations of the GNSO review.
+Again, I think it was this morning or last night, so I really don't expect anyone has had a chance to
+crack it open, but we did receive the full text of the Board action on the -- actually, it was the Board or
+the -- I'm going to mess this up, OEC, organizational efficiency committee? Commission? Got it.
+Okay. Which is headed by Rinalia and some other folks on the board.
+They note that they have approved the GNSO review recommendations as well as as amended by
+the GNSO Council. If you recall, we had a few tweaks to the language that we adopted between the
+two meetings.
+We need to discuss, and I don't think it has to happen, obviously, at this meeting because it's all
+happening, you know, just on the sunrise of this particular meeting, but we do need to think ahead to
+July.
+I can give you a spoiler alert, this is probably going to find its way into a motion for next month's
+meeting, to convene a team that will produce an implementation plan, because the Board has asked
+us to report back with an implementation plan no later than six months. So that's basically the end of
+the year, and that's going to be kind of a tight -- it's going to be a heavy lift in a short period of time.
+There was some discussion in our session on Monday whether or not this would be a new team that
+we would stand up, because we just apparently have unlimited people, or if this would be, for example,
+a repurposing of an existing group, like the SCI, which all of those options I think are open for
+discussion, but we should note that they all come with pros and cons and different complexities and
+will require different mechanisms to activate or recharter those groups.
+So I don't know if we have anything to discuss at this point except to give a preview that this
+conversation is probably going to occur on the list between now and then with a motion for
+consideration at our next meeting on the 21st. So I guess the motion would need to be in by the 11th.
+So any points of discussion on that? Does anyone have any strong feelings that -- really, on anything
+involving the GNSO review process?
+Avri.
+>>AVRI DORIA: Thank you. Avri speaking.
+I don't know how strong the feelings are, but I really do want to ask you all to consider using the
+standing committee that you've got now. Even though it does need a bit of refreshing, there's certainly
+not as full participation there as there should be or could be. But then again, there are people there
+that understand the operating procedures well, are constantly dealing with them, understand their
+relation to bylaws.
+And so you've got a set of people that are dedicated to it. I'm no longer one of them but did spend a
+couple years in that group.
+
+So I think as opposed to recreating a new group and then taking off again, I would really suggest
+looking at the repurposing type of proposal.
+>>JAMES BLADEL: Thanks, Avri. And I think that's definitely one of the viable options we should be
+considering.
+Wolf-Ulrich.
+>>WOLF-ULRICH KNOBEN: Thanks, Wolf-Ulrich speaking.
+Well, first, to be clear, this group should have a kind of oversight task; that is correct? Of the
+implementation. It's not the implementation itself. Yes? Because I read in the ->>JAMES BLADEL: My understanding, Wolf, is this group first and foremost needs to develop an
+implementation plan.
+>>WOLF-ULRICH KNOBEN: Okay. Because from the board motion, you know, which was sent by
+Rinalia, it was called the (indiscernible) should convene a group which is going to oversight
+implementation. That's in the motion. So I was confused about it. Okay. So the implementation
+itself.
+So on the other hand, I agree to a certain extent with Avri and we should discuss that. And I could
+understand we use the SCI as a kind of frame, not the SCI -- just the SCI for that purpose but as a
+frame. And with filling up of members having -- to that specific task, with other participants who have
+the knowledge well to bring in. So that could be done. We should discuss in that way.
+Thanks.
+>>JAMES BLADEL: Thanks, Wolf-Ulrich. And I think, you know, the short answer is we don't have
+to solve it today, but both of those options should be considered. And I think if anyone has any -there's not only two ideas. There could be three or four or five different ways to approach this, but we
+need to get those options onto our list for can discussion so we can get moving on this because six
+months is kind of a ticking clock.
+Marika, you wanted to weigh in on this quickly and then we have a staff update?
+>>MARIKA KONINGS: Just very quickly because I think one of the reasons the options or issues
+align on the discussion paper come from the fact that we do, indeed, see limitations in the way SCI is
+currently structured. But at the same time, I think also from the staff perspective, we want to avoid
+duplication in having too many structures that are looking at similar issues.
+So, indeed, one option could be to make an attempt at recrafting the charter for the SCI in line with
+some of the elements that have been outlined in a discussion paper that also seem to align with the
+point that Wolf-Ulrich has made. And maybe if you want staff to have a go at that and take that back
+to the council, we're happy to do so, or if someone else wants to do that, that's of course fine as well.
+But just noting that you mentioned the date for council motions and having something is coming up
+pretty quickly. And the Board did ask that the implementation plan is to be submitted to the Board I
+think by December which does mean that the council needs to approve it before that happens.
+So there is still some work involved for getting there before -- but we first need a structure -- structural
+agreement on how to do it.
+>>JAMES BLADEL: Thanks, Marika. And I don't think we're closing any doors today. I think we're
+just kind of teeing up the conversation.
+Obviously SCI has got the right people. It's representative. They're tackling a lot of these issues
+already. So if we can make use of something that already exists, we should take a hard look at that,
+but also don't necessarily want to presume that that's the only way forward.
+Anne. Sorry. Just a moment.
+
+Can we make sure your microphone is on? Now it's on. Go ahead.
+>>ANNE AIKMAN-SCALESE: Anne Aikman-Scalese. I'm with the IPC. I'm vice chair of the
+(indiscernible) SCI. I was chair last year.
+I just want to say on the question of participation that I think that when you assign an important topic
+to the SCI, you'll see participation improve, probably. And that participation is a question of the
+emphasis that each stakeholder group places on the work that's being done there.
+So I guess Rudi and I would both say -- I know Rudi is at the meeting, maybe not here in this room,
+but we are at your service, whatever we decide as far as what tasks may or may not be assigned to
+the SCI.
+And we have recently completed two items that will be going out for public comment that I think that
+Amr has addressed with GNSO Council. He is our liaison. And I think he has addressed them sort of
+offline, and so we have no work at this point.
+Thank you.
+>>JAMES BLADEL: Thanks, Anne. And what I heard there was that's a good stopping point.
+Okay. Great.
+If there are no other items -- I'm sorry. Julf? Or is that Phil? Is Phil in the queue? Phil is not in the
+room. Okay. Sorry, Phil.
+Let's, then, move on to item number 11. We have a quick update from staff regarding next steps
+relating to the Implementation Advisory Group, the IAG, on WHOIS conflicts with national or local law.
+So who is going to take this from staff?
+Jamie, go ahead. The WHOIS czar.
+>>JAMIE HEDLUND: Thanks, James. This is Jamie Hedlund for the record.
+Back in 2005, and I'll do this as quickly as possible. I don't want to get in the way of anyone's lunch.
+Back in 2005, the GNSO adopted a policy recommendation for development of a procedure that would
+allow a contracted party to seek exemptions from compliance with WHOIS, certain WHOIS obligations
+due to conflicts of local law on privacy.
+The original procedure was adopted in 2008. One of the provisions in the procedure called for a
+review of the procedure and possible modifications to it, so long as it was found to be compliant with
+the underlying policy.
+For the first time in -- I guess it was in 2015, we kicked off an Implementation Advisory Group that
+looked at the procedure and to see whether and how it could be modified; again, consistent with the
+policy.
+It met for a year, developed a single recommendation that has to do with the trigger that can be used
+for a contracted party to seek relief from obligations to collect, publish, use WHOIS information.
+Currently, there's only -- there's really just one trigger for the procedure, and that is evidence of a
+process or regulatory action or litigation against a contracted party for effectively complying with
+WHOIS obligations in conflict with local privacy law.
+The Implementation Advisory Group was able to reach consensus on one additional trigger, which
+was -- which would effectively be a letter from a DPA indicating that the -- Yes? Sorry.
+A letter from a -- yes. I've forgotten what it stands for.
+>> Data protection agency.
+
+>>JAMIE HEDLUND: Data protection agency or similar authority that is responsible for enforcing
+local privacy laws; that the obligations in the contracts do, in fact, conflict with local laws. And with that
+kind of a letter, a contracted party could come to ICANN and seek exemption from having to comply
+with those -- those contractual provisions.
+So what you have before you is a motion to consider the proposed final recommendation and
+determine and find that it is, in fact, consistent with the underlying policy and should be -- and should,
+therefore, supplement the existing procedure.
+Thank you.
+>>JAMES BLADEL: Okay. Thank you for the update. I have Donna and -- Donna.
+>>DONNA AUSTIN: Thanks, Jamie. Donna Austin. I have a -- I guess just a statement with regard
+to this and then a question about who participated in the group. So while we appreciate that the group
+has come up with a recommendation for a new trigger, part of the challenge, as I understand it, that
+some of the registry operators are currently facing is to go to a data protection agency and say can
+you give us this letter. The data protection agency is going to say you're already in breach. So there's
+a potential problem there.
+My question in terms of participation in this group, was any of this discussed with the GAC or
+governments or data protection agencies themselves? Thanks.
+>>JAMIE HEDLUND: So on your first question, there was also a question of alternative triggers
+including consistent with what's available for data retention waivers and an opinion from a law firm,
+and there was not consensus within the IAG to include that as a proposed final recommendation. And
+it should also be noted that the scope of this review team was actually quite small -- was quite narrow.
+It was limited to what the procedure allows for now, and what the procedure allows for now is a -- or
+calls for is a demonstration of legal preventability from complying.
+So on your second question, on participation, I think it's fair to say that participation was generally
+fairly low and inconsistent. So while there were some who participated on virtually every call, there
+was not probably a fair representation of the community. And then on the GAC, there were -- there
+were GAC members on the team.
+>>JAMES BLADEL: Thanks. I have Volker and Stephanie.
+>>VOLKER GREIMANN: Yes, thank you. Volker Greimann speaking, for the record. Looking at the
+process that's now proposed, to many registrars and registries this is pretty useless because data
+protection agencies just do not work that way in our countries. They do not provide legal analysis or
+legal statements. They -- our law enforcement agency, they go after companies or individuals that
+break data protection laws. So basically going to them and saying to them, look at this is asking for an
+investigation, not asking for a legal analysis. This process, as it's proposed here, does not help us at
+all. It's just paper.
+>>JAMES BLADEL: Thank you, Volker. Stephanie, and then Michele and then we'll probably need to
+bring this one in for a landing.
+>>STEPHANIE PERRIN: Thanks. Stephanie Perrin, for the record, and I don't want to go on and on
+here, which I could, of course, because lunch is over there. But I participated in most of the meetings
+on this, and I must admit it was a breath-taking experience for me because I pointed out many, many,
+many times how basically this is a really -- I'll use Volker's word "stupid process" when looking at
+global data protection law. And unfortunately this is coming, and as Jamie said, the scope is very
+narrow. We couldn't look at the policy, but the policy didn't, to the best of what I have been able to
+research, come out of a PDP process. It was board-inspired and it does not recognize the reality of
+how data protection laws are drafted, the variety in them, and the role of the DPAs. As Volker says,
+not only do they investigate, some of them have the authority of judges, don't expect them to show up,
+don't expect a letter saying you've broken the law. They're going to deal with the case when it shows
+up in court.
+
+In our jurisdiction you're not going to get such a letter from the commissioner. I'm not the
+commissioner. I was only the director of research and policy, but I did work for ten years drafting that
+law. And I can tell you that she doesn't have the powers to enforce. So therefore, this, under this
+procedure, throws out her advice. So Canada's out of luck in this respect, unless -- you have to be
+hauled into Federal Court.
+This is not an option for the registrars. This is not a way to treat your stakeholders, to put them in
+legal jeopardy with a stupid process. I mean, furthermore, the data protection commissioner should
+have been invited to participate in this and try to work out a solution. That wasn't done. And they
+have written numerous times to say this is in violation of data protection law. I can give you the whole
+list of all of the things they've said, which was pointed out during the discussions. But it's just ignored.
+So quite frankly, it -- I don't know what we do next, but don't be surprised if I come with a motion to
+redo the policy, set up a PDP to start this whole process over again. Because we've now got this thing
+set into concrete here and goodness knows how long the registrars are going to have to live with this.
+Thanks.
+>>JAMES BLADEL: Thanks, Stephanie. I have Michele and then -- hang on. Okay. Michele and
+then Paul and then Volker, and then we're going to have to saw this off here because I think this is the
+topic that we could go on. Lunch would become dinner and -- David, okay.
+>> Breakfast.
+>>JAMES BLADEL: And that's the end of the queue. Okay, thanks. So Michele.
+>>MICHELE NEYLON: Thanks, James. Michele, for the record. I 100% agree with what both
+Stephanie and Volker said. The issue here is that unlike a PDP we -- I was involved in this working
+group thing. We weren't creating the policy. We were only looking at the implementation. So we
+were stuck with the policy as written. And the only possibility we had was to tweak the
+implementation, and we hit a brick wall. To say there was lack of consensus is -- it's a reflection of the
+reality because there were -- we had a -- basically a split. You had registrars and several of the
+noncommercial stakeholder NCUC NCSG people who all were pretty much all aligned and then you
+had several entities on the other side who just would not give an inch. And the problem is that you
+couldn't reopen the policy there because we're -- we're stuck on the implementation. So I would be
+supportive of Stephanie's last few words around we're kicking off something in terms of an actual -- of
+revisiting the actual policy itself and fixing it up at his fundamental roots. Thanks.
+>>JAMES BLADEL: Thanks, Michele. And just to note that I appreciate that and I think one of the
+things there's been a motion that's been circulated to the list, or at least a draft motion, about
+potentially considering this. I understand -- I'm trying to steer us out of a quagmire because I know
+this could go on for quite a while that -- just a second, please. Is that we would -- you know, one of the
+potential outcomes is -- what we're being asked to do is to determine whether or not these
+recommendations are consistent with the policy as it's written today, as it stands. And one of the
+potential outcomes is we could say yes, we could say no, we could say we want to revisit this policy.
+Let's kick off a PDP or refer it to the RDS, or we have lots of different choices that we can make, and I
+think that that's what we need to discuss going forward. And I think what we're looking for here is a
+staff update. I don't think we're going to solve it or relitigate it at this table, and certainly not with lunch
+growing cold behind us. But I will say, just on a personal note, that -- well, I'll try to do it in a humorous
+way. I'm sure nothing has changed in the legal landscape involving privacy since 2005. Right? As a
+non-lawyer, is it safe to -- okay.
+[ Laughter ]
+Okay. So next we have Paul, Volker, and David. Paul.
+>>PAUL McGRADY: Thanks. Paul McGrady. And james, I think you've partially answered my
+question. My question was historically when did this policy come into being? Wasn't it in 2005? That
+was before my -- my first ICANN meeting was Lisbon so this has been -- this has been around for as
+long -- before I've been around. So 2005, and it was approved by the GNSO Council so it's been in
+place since then?
+
+>>JAMES BLADEL: I think from the WHOIS review team, and I think I got the thumbs up from staff,
+it's 2005, 2006, right around that late 2005, early 2006 time frame.
+>>PAUL McGRADY: Okay. So we are complaining about our own policy.
+>>JAMES BLADEL: Yes.
+>>PAUL McGRADY: Okay. Just -- I just wanted that -- that historic note.
+>>JAMES BLADEL: Yes. We've done this to ourselves.
+>>PAUL McGRADY: The complaints around the table are about what we did. Okay. And then my
+second question, and I can take this offline, but Stephanie said that Canadian authority wasn't invited.
+Is that because -- how did that happen? If we had GAC participation then wouldn't the GAC, the
+Canadian GAC rep invite who -- the relevant authority? Thank you.
+>>STEPHANIE PERRIN: I don't think I said that the Canadian authority per se was not invited,
+Stephanie Perrin, for the record. The data commissioners were not approached, either by letter or by
+invitation, to opine on these things. They wrote of their own accord. Our constituency, the NCSG has
+been fairly zealous about pestering these folks over the years. Not on this one. I don't recall. I was
+actually in the office of the data commissioner between 2005 and 2007, so I'm pretty sure I had a look
+at this at the time. But -- but data commissioners do not actually have the time to show up at ICANN
+meetings, you know? They have to cover everything from privacy of customers of plumbers and
+electricians to grocery stores and direct marketing and wearable medical devices. So quite frankly,
+getting their attention to join a PDP, it's not going to happen. It's up to ICANN, if it doesn't want to be
+putting in place policies that violate law, and it seems to be incapable of figuring out itself what violates
+law, then it needs to write them and ask specific questions. And so I think that that might be an
+alternative to this. Thanks.
+>>JAMES BLADEL: Thanks, Stephanie.
+>>STEPHANIE PERRIN: Does that answer your question? And we can talk offline.
+>>JAMES BLADEL: Okay. Volker and David with brief interventions. Volker.
+>>VOLKER GREIMANN: Basically our hopes for this -- Volker Greimann speaking again. Our hopes
+for this process was that this would close one provision of the RAA which indicates that no registrar is
+required to break law by any provision by implementing any provision that would break the law. That's
+in the RAA. That would be closed in policy so we have a process to get out of that. Yet this policy
+requires us to do just that. We have to break the law, then we have to be notified that we have broken
+the law, then we can get out of it. We would like to get out of it before we have to break the law.
+That's the problem. And that's the solution that has not been presented here.
+>>JAMES BLADEL: Thank you, Volker. Last word for David.
+>>DAVID CAKE: Yeah, so I'm -- you know, I'm not a lawyer but my understanding of the
+compromises, instead of requiring registrars to actually be prosecuted, we have now just required
+them to go to a law enforcement authority, tell them that they're breaking the law and hope they
+respond in the way they'd like. That seems like the policy clearly is obviously broken. We can
+probably -- We can start -- As to how exactly we respond at this point, but it seems clear that we need
+to go on and start some sort of process to look at what is an obviously broken policy.
+Thank you.
+>>JAMES BLADEL: I had a joke about -- I'm going to let that one go.
+So thank you to all. I mean, I can tell this was a spirited discussion at the council, so it must have
+been ten times that on the implementation work.
+I just want to say thank you to those who participated. Thank you, Jamie, for leading this effort.
+Obviously we're not done here. We have a lot of work to do. We have to consider our options going
+
+forward, and I'm sure if the last five to ten minutes are any indication, that's not going to be a
+straightforward discussion either. But, hey, you know, that's why they pay us the big bucks.
+So we'll look forward to that.
+Okay. That brings us to item 12, which is AOB. Certainly don't want to let lunch preempt any new
+business.
+I would just make a note that we did submit the written proposal from the Board Finance Committee
+on proposed cost, monitoring cost, tracking cost, control mechanisms for CCWG Accountability Work
+Stream 2. If you have a chance, take a look at that. But other than that, I didn't have any AOB.
+We do have lunch now, a wrap-up session beginning at 1:30 -- oh, 35 minutes, in this room. Right,
+Marika? Yeah.
+So if there are no other items -- Let me just check the queue quickly here -- we can consider this
+formal meeting adjourned and then we'll just move into the -- to lunch and the AOB.
+Thank you, everyone.
+
+

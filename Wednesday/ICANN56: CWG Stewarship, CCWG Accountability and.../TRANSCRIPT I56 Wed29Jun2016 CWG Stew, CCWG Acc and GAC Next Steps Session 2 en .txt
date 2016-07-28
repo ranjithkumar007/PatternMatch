@@ -1,0 +1,1407 @@
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+Wednesday, June 29, 2016 – 10:45 to 12:00 EEST
+ICANN56 | Helsinki, Finland
+
+CHAIR SCHNEIDER:
+
+Please take your seats. We have to restart. Time is running.
+All right. In this session, we will go back or go ahead to another
+discussion on IANA transition. I don't think we should spend -We have a limited time, of course. I don't think we should spend
+more time in the plenary here discussing the Customer Standing
+Committee. I took it as there was no objection to us having a
+liaison. So we'll continue with this electronically. The deadline
+is, if I'm having it right in my head, the 22nd. So think about who
+that liaison could be.
+
+Let's continue that discussion
+
+electronically from today and during the meeting, and then in
+the next week.
+I suggest that we spend this 30 minutes or what is remaining of
+them on the accountability track because there's a lot of
+fundamental things that we need to get to grips with, including
+also like what we've heard the GNSO has started to do, analyzing
+structures and modifying structures, if necessary; creating new
+structures.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+I quickly hand over the floor to Tom who has prepared an
+excellent brief on the follow-up of the accountability Work
+Stream 1. And, Tom, please, go ahead.
+
+TOM DALE:
+
+Thank you, Thomas.
+Good morning, everybody.
+The starting point for the discussions here that we included in
+the brief that we circulated in the main briefing pack a couple of
+weeks ago, the starting point for this discussion is suggested to
+be what the GAC decided in Marrakech.
+You may remember there was great excitement concerning the
+GAC's role in finalizing the reports of -- the final report of the
+CCWG Accountability. And in the GAC's Marrakech communique,
+and I'm quoting here, the GAC stated that as regards
+recommendations
+
+one
+
+and
+
+two,
+
+and
+
+those
+
+are
+
+the
+
+recommendations in the Work Stream 1 report that set up the
+empowered
+
+community
+
+structure,
+
+as
+
+regards
+
+those
+
+recommendations, the GAC expresses its willingness to take part
+in the envisioned empowered community mechanism as a
+decisional participant, under conditions to be determined
+internally.
+
+Page 2 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+Well, those conditions have not yet been determined internally
+by the GAC, so my understanding is this is the starting point for
+that consideration. There has been no major discussion of this
+issue within the GAC since the Marrakech meeting.
+We have suggested in the briefing, based on a mapping process
+against the current operating principles that we attached as
+well, we've suggested that discussions on the policy issues could
+include a basic principle of the GAC treating all actions within
+the empowered community on their merits; secondly, clarifying
+to which there is an option of abstaining from some practices
+and what this means in practice; and thirdly, developing criteria
+for participation that address both decision-making situations
+and ones where an advisory role may be appropriate.
+On the more detailed issues where the GAC, like the other SOs
+and ACs across ICANN -- and as you just heard, the GNSO is
+starting to deal with these issues, as well, for their purposes -but for the purposes of the GAC, we have outlined a number of
+areas for consideration and eventual decision by the GAC.
+Firstly,
+
+with
+
+regard
+
+to
+
+the
+
+empowered
+
+community
+
+administration, which is the body created by the bylaws to be
+the collective entity of all decisional participants.
+
+And
+
+remember, the GAC is now a decisional participant because it
+said so.
+
+Page 3 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+The procedures for dealing with challenges to Board actions will
+require GAC to consider, amongst other things, who the GAC
+believes its constituents are for receiving requests to challenge
+Board actions. If a member of the community comes to the GAC,
+is this the right place for them to come to ask the GAC to initiate
+a challenge to a Board decision? What sort of people will the
+GAC listen to to initiate those sorts of issues from the
+community? That's one example.
+The GAC may accept petitions only from governments and
+public authorities, for example. This is covered or mentioned in
+the brief.
+And there is also some need for a procedure for the GAC to
+decide specific cases within the time frames that are in the
+bylaws. In most cases, those time frames will require a decision
+of all decisional participants between sessions; that is, not at -not waiting for the next ICANN face-to-face meeting.
+So those are all of the practical issues that we've tried to
+summarize in the briefing document.
+There is also a relationship with the operating principles, of
+course, but we are suggesting to you in our advisory role that the
+proper sequence is to settle the policy approach first; that is,
+what the GAC wants to do about its rules, and structuring those
+rules. And then as a final element transfer them into amended
+
+Page 4 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+operating principles. We are suggesting that perhaps the better
+approach is the operating principles are the means to the end,
+but the GAC must first consider the end; that is, what sort of
+procedures you want now that the GAC is a -- well, say is a
+decisional participant; will be a decisional participant when the
+bylaws come into effect at the end of September this year, if all
+assumptions continue to be met.
+So that's the overview to start the discussion, Thomas. I'll hand
+back to you.
+
+CHAIR SCHNEIDER:
+
+Yes. Thank you for this introduction. And there are a number of
+-- as we all know, a number of elements of key importance that
+we need to start working on now.
+So let me give the floor to you for comments, questions, views.
+This is the moment to start getting engaged.
+Brazil.
+
+BRAZIL:
+
+Thank you, Thomas. And good morning to you all.
+I would like to refer to the participation of the GAC members in
+the CCWG Accountability. And first of all, I would like to publicly
+
+Page 5 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+thank our colleague from Niue for withdrawing his candidacy as
+the GAC appointed member to the CCWG Accountability.
+Brazil considers the role of GAC appointed members in the CCWG
+Accountability to be key to the success of the work stream
+exercise. As we previously expressed, we believe GAC members
+should exercise a high level of engagement in this process.
+Former, and new members as well, as more GAC colleagues,
+should have the same opportunities to be able to engage in this
+exercise. And they should, as well, have a deep knowledge of
+the Work Stream 1 Accountability process.
+
+Once the Work
+
+Stream 2, should not change but, rather, build on the outcomes
+of the Work Stream 1.
+And last but not least, let me reiterate that Brazil will be in a
+position, if this is the understanding of the whole GAC, to fill one
+of the five positions of GAC appointed members to the CCWG
+Accountability.
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you very much.
+And thank you also for Par from Niue to be very flexible and help
+us in the sense that we have now five candidates for the five
+
+Page 6 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+membership seats in the CCWG. They come from Canada, Iran,
+Brazil, Denmark, and Argentina.
+So maybe we can have a quick feedback from you in the sense
+that is this something that you can accept as representation
+with regard to membership of the GAC in the CCWG for Work
+Stream 2? Knowing that the status of participant is open to any
+of us, and a lot and actually an increasing number of GAC
+members have made use of this during Work Stream 1, and we
+hope that won't change for Work Stream 2. So -- But since the
+CCWG is waiting to hear the final names of the members from
+our side, can we do this now and see whether these five
+candidates are acceptable to you?
+Panama, please.
+
+PARAGUAY:
+
+Thank you, Thomas. Nicolas from Paraguay speaking. Do you
+want us to give you our answers now or you need them in
+writing? What would be the procedure?
+
+CHAIR SCHNEIDER:
+
+The transcript will make sure that what you say now is available
+afterwards in writing. So let's do it orally. I think that's the
+easier way, if we can get this quickly done.
+
+Page 7 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+Peru.
+
+PERU:
+
+I would like -- Peru would like to support the nomination of the
+five persons you just mentioned, the five countries you just
+mentioned, especially Argentina, Brazil.
+
+CHAIR SCHNEIDER:
+
+Thank you. Let me maybe do it the other way around. Is there
+somebody who has concerns or problems with the five
+candidates as a whole?
+I don't see a hand up. So can I take this as agreed? Okay. Thank
+you very much.
+And of course we made it very clear that they will be available to
+all of us. They will do hard work not just in participating but also
+in reporting from the meetings and coordinating among
+themselves who is going to do what. And we are very confident
+that this will work.
+Thank you very much.
+With this, let's go back to the question of how to -- how to assess
+and make sure that our internal procedures and structures
+enable us to do what we want to do or are supposed to do in this
+new structure. And there are two elements to this of course.
+
+Page 8 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+One is -- and Tom has already referred to this. One is we may
+have to come to a shared vision in a little more detailed way
+about how we would actually want to participate in this
+empowered community, because if I'm not mistaken, if my
+memory does not fool me, then there were still some, let's say -we were not all on the same page in every detail of how our
+participation is supposed to be shaped. And where we met was
+we need to develop criteria or indicators or a mechanism for us
+to do that.
+So -- And then once we have a more or less shared vision, we
+need to actually create the mechanism or look at the existing
+structures. And if we think we need to build new mechanisms,
+we need to build them.
+So I think these are two elements. And then the question is in
+what shell do we do this? Do we put this into the Operating
+Principles Working Group or should we, rather, keep it in a
+separate process, more related to the actual accountability
+team?
+So I think we should use this time here now to try and identify
+the next steps and the direction that we want to go.
+I see Iran and Denmark.
+
+Page 9 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+IRAN:
+
+EN
+
+Thank you, Thomas.
+I think we should not hurry to decide on something which is
+composed of two almost contradictory status that we have.
+There are five constituencies or SO/ACs. Three of them are
+supporting organizations and two of them, they are advisory
+committee.
+We have mentioned in our previous communique that we would
+like to remain advisory. Therefore, any decision we make in
+future should not contradict that very principle based on which
+people have consensus.
+However, it was also mentioned in our communique that we are
+happy that, like other SO and AC, we have been empowered to
+exercise our rights. How exercise that? And when exercise that?
+That is a matter that we will need to discuss and see whether we
+take it on a case-by-case basis, whether we treat it differently.
+Therefore, I think among the five, there is one which is almost
+close to us, but not exactly, and that is ALAC. It is close to us.
+They are also advisory. Although they have director, we don't
+have any director as such appointed with vote.
+
+We have
+
+director, but it does not have the right of vote.
+So, therefore, we perhaps start some discussion and reflection,
+and not to decide because it is very early. However, we should
+
+Page 10 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+maintain these compositions of contradictions.
+
+Remain
+
+advisory and exercise the right of decision-making.
+You have to find a way between these on one hand, retain our
+advisory capacity that many people they agree. On the other
+hand, if there are cases, issues that we need to react, in
+particular those areas that touches the right of the GAC,
+government, let us say, we should consider that how we react
+and so on and so forth. We may not be involved in all decisionmaking. We are not like X and Y in the ICANN community, but we
+have a little bit different. So this is an issue that we have to, first
+of all, discuss but wait but not decide and also maybe the
+decisions or approach taken by ALAC may be also helping us to
+facilitate our decision-making for this matter. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Iran. United Kingdom. Oh, sorry, Denmark. You're
+so close to each other. Like here. Not geographically, of course.
+
+DENMARK:
+
+Thank you, Chairman. Yes, things have for many years been in
+England and have actually still there's power of England who
+still have Danish names and so on, as far as I remember. But
+that's another history.
+
+Page 11 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+Thank you, and thank you also for Tom to touch upon it is
+important to look at the angle, what do we want to achieve and
+in what capacity do we want to participate in the future? And as
+you, Chairman, rightly said, there might be or probably is
+different views on that and we have that discussion before we
+have decided that we should participate as a decision-making
+party but to what extent, that is still to be discussed. And I think
+-- and I'm -- I think that was also the message for Kavouss, as I
+understood, that might be a discussion which we need a couple
+of meetings to really engage in to find out what our role should
+be.
+On the other hand, if the transition go through, and we all hope
+that, then the new process will actually be effective at the end of
+September. And we have been discussing a lot, and I think the
+whole GAC, if I remember right, think that we should be advising
+as much as possible. And we could already on the 1st of October
+be able to give advice. There might be a petition in -- during the
+autumn for one of the AC or SOs. So we ought to put into our
+procedures to try to work on the procedures. I think we can
+work on the procedures, how we will engage in the different
+stage. We do not need to discuss or decide yet what we do in -in the last instant and level eight I think it was called at one time,
+because that is where we might go into a decisional part. And to
+what extent we're going to do that, whether it will be case-by-
+
+Page 12 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+case or we will say that in certain circumstances we will do that,
+I think that needs a lot of discussion.
+So our view will be, let's work on the practical things. How do
+we step in and participate in the first steps of the -- the role that
+we will have. Whether it should be in -- in one group or another,
+we are flexible to that thing. The only thing we think would be
+important that we start the work in -- right away. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Finn. And actually, I was thinking along the same
+lines, that that may be the -- the easiest or the most pragmatic is
+since we will not be asked to vote or not vote in the next few
+weeks, that we should build on developing the mechanisms first
+for where we agree on a more detailed level than where the -the discussion or in other words, we shouldn't wait until
+everything is sorted out and start actually building these
+mechanisms.
+
+I think that's -- that's definitely a good way
+
+forward. But we also have to get that part clear in the end. So -but I think Rome wasn't built in a day so start with the
+fundament and then build the roof at the end. That makes
+sense. Other comments or questions or views? Switzerland.
+
+Page 13 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+SWITZERLAND:
+
+EN
+
+Hello. Good morning to everyone. Thank you for giving me the
+floor. I just wanted to throw in also another element which we
+may consider when developing the -- the conditions or the
+modalities how to participate. And this is that we -- perhaps this
+is a very pragmatic approach or so and not very imaginative, but
+I hope that practical because the idea to be based -- or to base
+on our experience as a chartering organization because it's one
+of the most similar things we have been doing. And I think we -we got better at it as we proceeded in the -- as we advanced in
+the process.
+
+But in the end, if you look at the decisional
+
+participants in the empowered community and the chartering
+organizations in the CCWG accountability, they are almost the
+same. And the ways to participate will be to sit next and similar.
+And it's also very different to our other function, to the advisory
+function. It's a completely different field of action. But we have
+had already a two-year experience. So let's draw on that. And
+we have also, based on that experience, the guidelines for
+participation in CCWGs which, of course, it's not a one-to-one
+trans -- possible to be translated to this environment, but we can
+draw on that.
+
+And perhaps the one aspect which will be
+
+different and which might require some adjustments is the -- the
+timings because this -- sometimes the talk that the GAC is -- is
+very slow in reacting, but as a matter of fact, we were able to
+make a lot of inputs into the CCWG processes during 2015 and
+this year. So we have learned a lot how to do that quite swiftly.
+Page 14 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+So we should be confident that we -- we can do that also during
+the -- within the time frames set by the engagement escalation
+and so on procedures of the empowered community. But -- and
+this is true, perhaps we have to look into very clear time frames
+with silence procedures, procedures we use in -- in other
+organizations, perhaps with more efficient and lightweight
+decision-making processes for some of the steps to be really
+capable of taking actions. So that's from my part for the time
+being. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. And I think you raise a number of excellent points
+that for a -- we actually have been a decisional participant in the
+CCWG. We may not have realized it, but that's what we've been
+doing in the past two years, in the CWG and the CCWG. And I
+think a very important point that you're raising is the timing
+issue.
+
+Because we've been able to deliver positions and
+
+coordinate positions in the GAC in times that I don't think we've
+been able to do that before. And we will have to do the same
+because if you look at the deadlines of the escalation or the time
+frames in the escalation steps, they are fairly short, like onemonth deadlines and other things. So we really have to -- have
+to have a structure that allows us, like give each other early
+warning that something may come up and then we have to be
+very quick. And the issue of the silent procedure I think is
+
+Page 15 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+something that we will not be able to do without. So we'll need
+to have something like a silent procedure.
+
+UNKNOWN SPEAKER:
+
+(Off microphone).
+
+CHAIR SCHNEIDER:
+
+I see Brazil, Canada, U.K., Argentina. Thank you.
+
+BRAZIL:
+
+Thank you, Chair. Very quickly, I would like to second the
+distinguished delegate of Switzerland.
+
+We also agree that
+
+previous experience as a chartering organization, I think the GAC
+has shown that it can be an effective participant, decisional
+participant. So we have shown that we can make decisions, and
+I think we can engage in this community mechanism.
+I also agree with the delegate from Iran and Denmark that we
+should not perhaps not rush in -- in making decisions with
+regards to our operating principles but I think we need to at
+some point make these decisions and have this let's say
+principles defined. So I would be in favor of defining a clear
+timeline -- deadline for us to have those principles defined. And
+with respect to participation in all those previous steps,
+engagement with the community and also in our advisory role in
+
+Page 16 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+those steps but also with regards to our participation in the
+voting step, in the last step of the community empowerment
+mechanism, I think we should work with a clear deadline with
+this respect. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Brazil. Canada.
+
+CANADA:
+
+Thank you very much, Mr. Chairman. And I'll be very brief. We
+agree with the points raised by Denmark and we would also
+propose that once the criteria around GAC engagement in the
+empowered community has been finalized, that it be posted
+publicly to promote transparency around GAC engagement and
+the empowered community, which we believe would also be
+consistent with the ATRT recommendations. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. I think that's a good point, and I'm sure that will be
+appreciated by the others, that they know how the GAC is
+intending to actually live its role as a participant in this
+empowered community. Next on my list is United Kingdom,
+Mark.
+
+Page 17 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+UNITED KINGDOM:
+
+EN
+
+Yes, thank you, Chair. I agree very much with the previous
+speakers. And what I'm in particular mindful of in terms of the
+community being made fully aware of what -- what the GAC is
+deciding in its modalities for participation is that when the
+escalation path does get to key decisional phases there will be
+votes with thresholds and that the thresholds will need -- you
+know, that there will need to be predictability as to whether the
+GAC is actually going to be one of the participating SOs and ACs
+to determine the application of the threshold for a decision. So
+very much agree with the point in particular made by Brazil. We
+need to work this through very carefully with a clear deadline to
+take decisions on how. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, U.K. Argentina.
+
+ARGENTINA:
+
+Thank you, Chair. I would like to support what our colleagues
+from Switzerland and Brazil have expressed. I think the GAC has
+gone through a process of participation that we have learned
+from there and we have done well. So we should have that in
+mind. And also, we should have in mind the multistakeholder
+process and a scheme that we all support. I think that we are in
+favor and we agree with that.
+
+Page 18 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+In that scenario, all stakeholders have a major role, all of them.
+So the role of the governments should also be relevant in all the
+processes. So I will stop here. We should have that in mind.
+That's my message. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you. Further comments?
+United States.
+
+UNITED STATES:
+
+Thank you, Chairman. And thank you to all the colleagues who
+have weighed in previously on this very important issue. The
+United States just believes that the GAC should not -- we do not
+support the GAC exercising in any of the community power in a
+decision-making role. We are able to consider the idea of the
+GAC participating in the community powers as a non-voting
+liaison, and we appreciate the ideas moving forward and we
+look forward in participating in this conversation as it
+progresses. But our position as far as exercising the community
+powers remains that we prefer the GAC remain in an advisory
+role. Thank you.
+
+CHAIR SCHNEIDER:
+
+Page 19 of 42
+
+Thank you, United States.
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+Other comments? Questions? United Kingdom.
+
+UNITED KINGDOM:
+
+Thank you, Chair. Sorry to come back in again on this point.
+There was another point I wanted to mention. That is, that
+these time windows in the escalation path may occur when we
+are not able physically to meet. So bear that in mind as well in
+terms of our agility and ability to react and provide a response.
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Yes. Thank you. You're absolutely right. And we had that before
+in the CCWG where we had public comment periods during -intersessionally and we had to have telephone conferences. And
+we managed most of the time, Olga -- (laughter) -- when
+something is more controversial, it is more difficult so we need
+to keep that in mind. It's good that you raise it.
+If you can lock people in a room physically, you can make them
+agree and not let them out before they agree. That doesn't work
+on a teleconference.
+So there are limits to this.
+[ Laughter ]
+So this is not irrelevant. Thank you, Mark.
+
+Page 20 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+Yes, the gentleman in the back, please.
+
+SWAZILAND:
+
+Thank you, Chair. I'm Andreas Dlamini from Swaziland, GAC rep.
+Chair, I support the GAC retaining power for the right to vote and
+take decisions in the community but probably something that
+we can (indiscernible) every day but have that right when things
+call for that, when situations call for that.
+Now, it puzzles me a bit when -- I'm sorry that now I will be sort
+of mentioning but, you know, the position of the U.S. as we are
+in this period of transition, they've got some -- the U.S.
+government has got some decisions to make in the transition.
+And when they hold a position, as far as the GAC participation is
+concerned, I think it calls for them to sort of explain a bit more
+on this position that they are taking as to -- because we know
+still that decision is coming from their side.
+Yeah, I think it would call for them to explain a bit more on why
+they taking this position as far as the participation of GAC is
+concerned. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Swaziland. In fact, there is some diversity of views
+on -- we have some who would rather not go to the very end of
+
+Page 21 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+voting. Others don't see a problem in this. And the consensus
+middle ground was that we, for the time being, would not -would keep all the options open and then discuss if and when
+and how we're going to use them.
+So to sum up -- I don't know, U.S., if you want to react to the
+question by Swaziland. Thank you.
+
+UNITED STATES:
+
+Thank you, Chairman. Simply put, I believe this is a point that
+my predecessor has made before me and that the U.S. has been
+pretty clear on for some time now, is that if the GAC were to
+exercise any of the community powers, this would convert the
+GAC from an expert body providing public policy advice to the
+board into an operational role for which the GAC is not
+organized, in which the GAC is not likely to be effective.
+I'm more than happy to continue this conversation offline with
+colleagues. But I don't believe this is a radical position or a
+surprise or deviates with positions we've taken for some time
+now. So thank you.
+
+CHAIR SCHNEIDER:
+
+Page 22 of 42
+
+Thank you, United States. Japan?
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+JAPAN:
+
+EN
+
+Thank you. With regard to the GAC participation to empower
+community, we believe that GAC should basically continue to
+play advisory role (indiscernible).
+
+That's why GAC should
+
+exercise its voting power as a last resort on the basis of
+consensus and case by case. And (indiscernible) itself should
+otherwise take into account maintaining this operation with the
+future of ICANN decision-making. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you very much. And, in fact, this idea of taking things on a
+case-by-case basis is something that is recurring, and that may
+be part of a solution in the end.
+Iran?
+
+IRAN:
+
+Thank you, Thomas.
+Two issues which are connected together.
+
+Imagine that
+
+fundamental bylaw is put for approval. Part of fundamental
+bylaw directly relates to activities of GAC. If they want to change
+that where they see that is a danger for us, going to the concept
+of advisory capacity, we should remain silent and allow that that
+fundamental bylaw be changed and touches our positions?
+
+Page 23 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+Imagine also if the mission of the ICANN board or ICANN is
+changed in a way that touches part of the things that is public
+policy issue. Still, we should remain silent and not say anything
+because you're advisory?
+Or this case-by-case is one of the important mechanisms that we
+have to see which cases really we need to react and which cases
+for us not to say anything because in the new bylaw, silence
+means neither pro nor against.
+
+So this is an issue, very
+
+important.
+Another issue in connection of that is when we have consensus.
+In the description of the bylaw, it is mentioned that it is up to
+GAC to prevent that the whole GAC be captured by one single
+government saying that I oppose, therefore, there is no
+consensus. So we have to find a way how to do that.
+This is not up to the other community. This is up to the GAC to
+decide. So that is a very important element. We have to see how
+to do that, whether that country that would not support the
+others who remain silent saying "I don't oppose that you
+proceed with that," but they don't participate.
+So there are many important elements in this consensus
+building in the GAC because that is one of the major issue for us
+in the entire bylaw and in particular, when we go to the GAC
+advice to have GAC advice as consensus. If one country block
+
+Page 24 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+that, never we have any advice at all because that country
+blocked that. So we should avoid that. How to avoid that, we
+have to work it out.
+The third element, Chairman, is reaction within the limited time,
+one month and so on and so forth. I see very difficult for GAC
+unless we have new mechanisms how to react within that
+limited time. If you wait for the next meeting, it's too late. Next
+meeting after that, petition comes. So we have to find a way
+when the question is raised and when we decide to participate
+in the decision-making, how quickly we could do that because
+there's no physical meeting.
+My experience -- I may be wrong. Without criticizing anybody, it
+is very, very difficult for GAC to decide on virtual meeting, very
+difficult. One, very little participation. Two, no reactions to the
+question raised by the Chair or the people running that virtual
+meeting. And then postponing that.
+When you postpone that, that means that the end, GAC will be
+considered as no views on that, so neither pros nor against the
+issue. So there are many important elements that we have to
+think between now and first October or whatever, if the
+transition take place. If it does not, I don't know.
+But even if transition does not take place, the ICANN board has
+made it clear the overwhelming majority of those provisions in
+
+Page 25 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+the accountability will be implemented because that is a good
+work of 15 months. I don't know exactly what it is.
+I think we have a lot of work to do between now and the next
+meeting, how to do it to have all these things.
+
+But most
+
+important for us is to avoid GAC be captured by one
+government. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Kavouss. And as you say, what will take place
+anyway is the accountability reform. That is not dependent on
+any decision in the U.S. or national level. That is an ICANN
+internal decision that will take place. So we need to prepare
+anyway.
+You raise a good point with regard to the consensus
+mechanisms that we have which is something that we have to
+start working on as part of the operating principles working
+group because we have some in how we work in our operating
+principles. And I think we should maybe use the time that we
+have to define how we would work on these issues. And we will
+probably never get to more than a compromise between those
+who prefer to be rather active or -- and those who prefer to be
+rather closer to the role that we used to have, vis-a-vis the
+board.
+
+Page 26 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+We also have to see that this is a different process that is new.
+The empowered structure is not something that is comparable
+to -- what we've been doing now is advising the board on issues.
+This is a new process where everybody has a new role. Also, the
+others have new roles in this process. But we may -- following
+Denmark's idea, we may build on criteria for participation and
+approach us to a GAC-internal decision-making process on
+issues, also built on what Switzerland and others have said,
+building on how we've worked in our decision-making, on our
+input into the CWG and CCWG. And there have been some good
+practice examples in this work, also in short time lines, also in
+intersessionally.
+The more controversial something is, the more difficult it is. But
+not everything is so controversial that intersessional procedures
+may not work. So I think we can build on some experience.
+I don't know. Maybe, Tom, you have some ideas to propose that
+you could get the ball rolling with regard to -- I like his face when
+I call him like this -- with regard to starting to get into pragmatic
+steps ahead with regard to what could be the criteria looking at
+each of the steps of this escalation mechanism and trying to get
+us to a clearer pragmatic understanding what could be ways to
+participate in step one, step two, step three, and so on and so
+forth. And also look at our text and our experience how we
+worked in the CCWG, distill the elements that were guiding us in
+
+Page 27 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+this work and form this in a first zero draft whatever concept of
+our participation. Would that be -- Yes, thank you, Tom.
+
+TOM DALE:
+
+Thank you, I think, Thomas.
+The outline of the issues that we in ACIG undertook and put in
+the brief was based on, you know, a continuing involvement in
+the development of the bylaws. Not as extensive as many of the
+GAC members, but nonetheless, we've got a good grasp, I hope,
+of the -- both the legal requirements but also the political and
+policy issues as well.
+It would certainly be possible to take the mapping
+documentation and the outline in the brief that we prepared for
+this meeting and use that as the basis for a set of principles, as
+has been suggested by a number of members, and also to look
+at a potential time line and operational issues for the different
+phases in the escalation process of complaints and objections
+within the new process. That can be done.
+However, from a point of view of simply getting work done
+within the GAC and proper process, I think we as the secretariat
+would find it extremely helpful to have the guidance and,
+indeed, oversight of a small group of interested GAC members to
+assist with that.
+
+Page 28 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+I suppose a drafting team is the sort of thing that I'm suggesting.
+We can certainly provide that support and, indeed, do the
+drafting, but it would be better, I think, if that were guided by a
+group of GAC members who are able to work with us and to give
+us direction and, indeed, to stay in touch with the rest of the GAC
+as this very important issue develops between now and the next
+few months.
+So I guess that's a long way of saying: Yes, we're happy to help.
+
+CHAIR SCHNEIDER:
+
+Thank you, Tom, and we're happy that you're happy to help.
+And I think, yeah, it would be good to gather an informal team
+supporting Tom on this and sharing your experience from the
+discussions that we've had on this so far.
+Brazil.
+
+BRAZIL:
+
+Thank you, Chair. I would like to thank the colleague from
+Swaziland for raising the question, the very important question,
+because somehow I have the feeling that we are going back to
+the discussions we have held in Marrakech and, like, discussing
+issues that were already settled by then. So I think we should
+now look forward, based on the decision that we have made. It
+
+Page 29 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+was a decision very difficult to reach, based on concessions from
+all sides. So I think otherwise we will be reopening issues that
+we -- have already been settled.
+So the decision was that the GAC accept its role as a decisional
+participant. Now we need to discuss how we will put this in
+practice. But there is a decision that we will be a decisional
+participant, and that's settled. I think no discussion about that.
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Brazil. Iran?
+
+IRAN:
+
+Thank you, Chairman.
+I think we need to exactly read the communique, what we said.
+We have not said as Brazil said. This is not in the communique.
+There is a qualifier.
+So we have to read what we have agreed exactly. We don't want
+to create a decision among the GAC. We have to maintain the
+convergence that we had, and we have to stick to the text of the
+communique, and the text of the communique is not exactly to
+what was said. Thank you.
+
+Page 30 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+CHAIR SCHNEIDER:
+
+EN
+
+Thank you. I think we all agree that we should move forward
+and not reopen things that were closed, but of course
+diplomatic language is diplomatic language and there's always
+some room for interpretation, but I think the point is that we
+should build on the common ground and start from there, and
+the divergence will then move to the edges, which is natural, but
+I think this is the way to proceed.
+So I think we agree that we -- we note that we don't agree on all
+the details, but that's life and we build from the commonalities
+and...
+Yes, Switzerland.
+
+SWITZERLAND:
+
+Thank you very much for giving me the floor.
+Perhaps in this vein of looking forward and being pragmatic,
+once again, I think that we have in the new bylaws, which will
+enter into effect in October, I guess, if -- whether the transition
+takes part or not, the -- this is part of the accountability reforms,
+and in these bylaws and in the procedures set out, we already
+have the time frames.
+So what we have to do is to adjust how we participate within
+these time frames, and that's one part of our business and we
+can do that.
+
+Page 31 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+And it's -- I think there's no issue in that, because we have
+agreed many, many times that either advisory or decisional, we
+will participate therein.
+So that part, that we participate and how -- how we participate,
+in what time frames, we can do. We have to map the -- the
+bylaws into our working procedures and into the operating
+principles, if need be.
+And then there is the other question, and, well, we could all read
+what we said in Marrakech but we said something like "We
+express our willingness to participate as a decisional participant
+under conditions to be determined internally," which is, once
+again, one of these beautiful diplomatic languages and wordings
+we like to use here in the GAC, and -- but also in other
+constituencies of ICANN, if you just take a little bit of time to look
+at the wording.
+So there's a willingness to be a decisional participant and
+conditions to be determined internally.
+And also, piggybacking on what our Danish colleague said
+before, while the issues are -- on what the conditions have to be,
+if they are very, very strict, then we will only participate as a
+decisional participant in a small percentage of cases or not the
+issues at the very last stages. There was a time when we had in
+this engagement an escalation mechanism, like nine steps. I
+
+Page 32 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+don't know how many steps they are in the end. I haven't
+counted them. But the issue related to the last steps.
+So the issue of contention.
+So I think that we can map the procedures. In the first steps, we
+shouldn't have an issue because there we are not deciding
+things; we are really participating in a conversation with the rest
+of the community. And when we have all this on paper, we will
+then have to decide, okay. And this last decision on whether at
+Step 7, 8, and 9 we are decisional, whether our voice counts or
+it's only a voice, what conditions we attach to this, we will have
+to discuss.
+But I think we should focus things and be pragmatic and go as
+far as possible and really limit the fields or the topics where we
+have disagreements and where we have to work out solutions to
+what is really necessary and not reopen everything because that
+wouldn't really make sense. Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Switzerland.
+And I think a good point is also what Iran has mentioned, that
+we -- like we are trying to follow how the GNSO is doing this. I
+think of particular interest are the other advisory committees, in
+particular the ALAC, because as Iran has said, that's probably the
+
+Page 33 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+closest to our situation in terms of our role in ICANN, with some
+differences as Iran has mentioned.
+Other input? Questions? Pragmatic proposals?
+Yes, Indonesia.
+
+INDONESIA:
+
+Just a short question for you, Tom.
+I think we are -- basically I agree with what Iran mentioned that
+we have -- we need to meet, you know, face-to-face. I mean, as a
+matter of fact, I asked several of our colleagues here what you
+mean by this, what you mean by that, really, you know. With
+this, you can -- I can do that by email, but it's different.
+But what I would like to know, what's your -- how you make the
+approach for decision. Like what you mentioned, you -- we
+agree that we cannot fulfill everybody's -- what everybody
+wants, but we share the commonalities of the GAC to get a
+decision.
+But it is -- I basically agree with what you mentioned, but if there
+is -- but if there is a problem where a particular countries -country or some particular countries really have a strong
+disagreement, then I think we should consider this, and I think
+we have done this many times before.
+
+Page 34 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+We have a problem of .SPA, .ISLAM, for example, the use of .ID for
+(indiscernible), you know, GNSO, other that we do not want. We
+use .ID for Google, perhaps it's okay, but -- or if .ID.LGBT might
+not be okay in Indonesia. You know, that's things that we have
+to consider. A strong -- particular strong disagreement from one
+or many -- several countries. Thank you, though.
+
+CHAIR SCHNEIDER:
+
+Thank you, Ashwin.
+Well, I think let us -- obviously we -- nobody is planning to
+deviate from a consensus-based approach in the GAC. We are
+now forced to redefine or tweak our working principles and
+operating principles, in the sense that we may be -- have to be
+clearer than we have been before whether something is -- a
+decision is based on full consensus where nobody objects,
+whether something is based on a -- on a strong consensus or
+whatever, or whether there are totally divergent views. We will
+need to qualify more when we say something, in particular, with
+regard to an advice how the -- the -- the views are -- or how
+united the GAC is on something, whereas that was not formerly
+required so far.
+But we did it -- we did it in the past as well. What we -- what we
+were formerly required to do in the case that there was no
+consensus that the GAC chair would have had to reflect all the
+
+Page 35 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+views, the diversity of views, which is what had been done, but
+the notion of consensus was not defined in that sense, or not
+defined in -- on the bylaws level, at least. And I think as the -- as
+the recommendation of the CCWG proposal that is related to
+GAC consensus gives us some scope to deal with what Iran has
+said, to try and prevent one country or a very small number of
+countries to block a decision or an opinion of the GAC forever,
+we have to spend some time on how to make that workable. I
+think we all agree on the -- on the concept. We may have to fight
+for agreeing on something that is actually then turned into a
+mechanism.
+So there's work ahead, but, yeah, I think we -- we have heard
+each other, we know what is to do, we know where we agree, we
+know
+
+where
+
+we
+
+may
+
+have
+
+different
+
+expectations
+
+or
+
+interpretations, and I think we just need to start doing the work
+and then sort things out as they appear in the discussion.
+So unless there is a -- there are more people who want to take
+the floor, we then maybe move on to the next session. I have -- I
+see the U.K. and Iran. Thank you.
+
+UNITED KINGDOM:
+
+Yes. Thank you, Chair. I thought it might be just useful to
+remind ourselves that when an issue is going through an
+escalation path, it's going through different steps, you know. So
+
+Page 36 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+it's not like an issue will suddenly come out of the blue and then
+we have to decide, you know, as a decisional participant.
+There will be a long -- I don't know how long, it may vary
+considerably.
+
+CHAIR SCHNEIDER:
+
+There will be 347 days, the whole process.
+
+UNITED KINGDOM:
+
+There will be a forum phase where we will be actively engaged
+and also obviously then the GAC discussing, considering, trying
+to work out an alignment of a position.
+So there will be plenty of opportunities to try and resolve
+differences of position. So I add that as a point of optimism. But
+when I mentioned earlier that some windows for decisions are
+going to be happening when perhaps there is no physical
+meeting, that's just one part of the escalation path. And there I
+think we can, you know, be agile. As you've said, we have some
+experience of being able to take a decision. But there will be a
+longer phase or set of phases before that.
+I hope that's helpful. Thank you.
+
+CHAIR SCHNEIDER:
+Page 37 of 42
+
+Yes, it is, actually.
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+And as you say, there will probably not be surprises. And the
+process is actually set up that way, that these things take some
+time to discuss and think. And we will have to anticipate and we
+will be able to anticipate that in case something would go more
+steps up, then you organize yours in a way that you try to do
+whatever you can do. Discuss controversial things in a physical
+meeting in order to prepare for, in case, blah, blah, blah.
+And we also, we don't know whether -- I mean, these are, let's
+say, escalation mechanisms. So I think one of the intents or
+purposes of these escalation mechanisms is actually also to
+have them serve as a disciplinatory element that we may never
+have to get to a stage to actually have to apply them. So this is
+also something that actually has an effect; the fact that the
+mechanism exists has an effect on the work ahead. And if
+people are conscious of this and you actually work in a way that
+you try to avoid to have to use these mechanisms. So we will
+also have to take stock at some point in time, after two, three
+years, how many cases we have actually had.
+So I think we shouldn't hyperventilate in the dark for no reason.
+Of course we need to prepare, but, yeah, let's adjust our
+expectations and hopes and fears, also, on an actual basis of
+how much, how many issues do we talk about that may enter
+into this process at all? And how many of them will actually end
+up in a final stage? Maybe it's none. May be it's a few. We'll see.
+
+Page 38 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+Thank you very much.
+So I think Iran was the next one on the list.
+
+IRAN:
+
+Yes, Chairman.
+
+The first thing we have to do, we have to
+
+translate the part of communique in Marrakech relating to this
+issue.
+The GAC willing to participate in decision-making under the
+condition yet to be defined.
+
+So we have to define those
+
+conditions.
+The reason I asked the floor was not this. It's the following one
+that we have not been discussed.
+Suppose that condition are specified, and now we have to
+participate based on those conditions in a particular issue.
+If there is a virtual meeting, the problem is to have consensus in
+a virtual meeting, as far as I experience in other U.N.
+organization, is very difficult because you don't know the one
+who participate has any authority to express the views of that
+particular government, nor the (indiscernible), unless you
+specify in that particular meeting that the purpose of this
+meeting is to consult various GAC member on this issue;
+
+Page 39 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+therefore, the person who speaks or who send the email has this
+authority. Otherwise, you may face a difficulty.
+We had this exactly in other U.N. organization. That is why email
+voting and virtual voting in particular issues like this is not
+authorized.
+
+You need to have a specific authorization or
+
+delegations. If you are physically meeting, no problem. The
+delegates who speak as a GAC member, he has this delegation
+because he is physically, but the one who is on the email, he
+might be someone else.
+So that is an important issue that you need to take into account
+if you face that problem in future.
+Thank you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Kavouss, for raising this. And of course you're right.
+On the other hand, there is technical progress and there are new
+ways of buying things, of making contracts compared to 20
+years ago.
+
+And of course these are serious issues and we
+
+shouldn't be too loose with these things, but I think if this is
+properly prepared and communicated and GAC members are
+aware of what would be required for them to actually have
+equivalent rights or authorizations, in the end, if you need an
+authorization, you need an authorization whether you take the
+
+Page 40 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+decision sitting behind your computer on the phone or sitting
+somewhere at the other end of the world in a room.
+The idea is the same. We just need to adapt, also, and there may
+be some work that needs to be done internally in every country's
+administration, that we may need to fight for having these
+authorizations for a teleconference. But that is once this, like,
+technological shift has happened, I think that will become
+normal.
+The only thing that you cannot do, you cannot physically lock
+people into a room and physically force them to agree on
+something if they are not in one room.
+
+That is the only
+
+difference I see, which is a difference, but all the rest, may be
+work to do but it is not impossible to sort out.
+I think time is up for now. That was a constructive discussion.
+We have a lot of work ahead of us. Tom will help us with this,
+and everybody is invited to support him, to support us. And so
+I'm looking forward to us making progress on this.
+Maybe one word about the Customer Standing Committee. To
+benefit also from the fact that we are gathered here physically,
+maybe we could sort out in one minute the question whether or
+not we have -- we would want to have a liaison.
+
+That is
+
+something that I think, since I have not heard any objection to it,
+could we quickly validate that we are planning to appoint or to
+
+Page 41 of 42
+
+HELSINKI – CWG Stewardship, CCWG Accountability and GAC Next Steps (2nd Session)
+
+EN
+
+propose one or two liaisons to the -- to the PTI structure? I think
+it's the CWG who has been asking or the ICG who has been
+asking us. So that we will that we will spend the next two weeks
+after this meeting in trying to see who that will be but that we
+can take the decision now that there will be a GAC liaison to this
+CSC.
+I see people nodding. I see no objections. So that's done. Okay.
+That's the advantage of physical meetings; that you can do -when there's agreement, you can do things rather quickly.
+Thank you very much.
+
+[END OF TRANSCRIPTION]
+
+Page 42 of 42
+
+

@@ -1,0 +1,784 @@
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+Segunda-feira, 27 de junho de 2016 – 10:45 às 11:30 EEST
+ICANN56 | Helsinque, Finlândia
+
+OLOF NORDLING:
+
+Bom, já está tocando o relógio.
+
+THOMAS SCHNEIDER:
+
+Sabemos que a pausa para o café é breve, mas vamos continuar
+a qualquer momento. Peço por favor a todos que voltem aos
+seus lugares.
+
+OLOF NORDLING:
+
+Senhoras e senhores, por favor voltem aos seus lugares porque
+vamos iniciar a sessão daqui uns segundos.
+
+THOMAS SCHNEIDER:
+
+Colegas, por favor vamos começar a qualquer momento. De fato,
+já mesmo. Por favor ocupem seus lugares. Bem, muito obrigado
+por ocuparem seus lugares. Temos um tema no programa, na
+agenda, que não é novo. Já estivemos falando, debatendo faz
+um tempo e Gema da Espanha é uma das pessoas que
+concentrou seu tempo e energia, e por isso que ela vai ter a
+palavra para falar sobre esse assunto.
+
+Observação: O conteúdo deste documento é produto resultante da transcrição de um arquivo de áudio para
+um arquivo de texto. Ainda levando em conta que a transcrição é fiel ao áudio na sua maior proporção, em
+alguns casos pode estar incompleta ou inexata por falta de fidelidade do áudio, bem como pode ter sido
+corrigida gramaticalmente para melhorar a qualidade e compreensão do texto. Esta transcrição é
+proporcionada como material adicional ao arquivo de áudio, mas não deve ser considerada como registro
+official.
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+Vai falar sobre esse assunto, sobre os códigos de países e nomes
+como domínio de segundo nível. É a Sessão Número 3, os
+números das sessões são iguais aos documentos que vocês
+receberam e é por isso que vão achar aí a relação com o
+documento número três.
+
+GEMA CAMPILLOS:
+
+Obrigado, senhor presidente. Temos uma breve apresentação. A
+apresentação estava para 45 minutos, mas agora temos menos
+minutos, então devemos fazer o maior esforço para aproveitar
+ao máximo o tempo disponível.
+Vamos debater ou discutir dois temas na sessão. Um tem a ver
+com os códigos de país como domínio de segundo nível. E o
+segundo tema são os nomes de países como domínios de
+segundo nível. Quero pedir que avancem na apresentação.
+A primeira coisa que quero fazer nesse primeiro slide é que vocês
+vejam a diferença nos temas que tratamos nessa sessão e o tema
+dos códigos de países como domínios de primeiro nível. Esse é
+um tema que vamos tratar amanhã.
+Vamos começar agora a tratar o tema dos códigos de dois
+caracteres como domínios de segundo nível. Vocês podem ver à
+direita no slide falamos dos códigos de países, o CC ponto novo
+gTLD. Ou seja, os gTLDs novos que são códigos de países, esse
+
+Página 2 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+será o tema do qual trataremos amanhã. Então, vamos falar dos
+códigos de três letras, mas isso vai ser amanhã.
+E se entramos para a questão de fundo dos códigos de dois
+caracteres como domínios de segundo nível a política a ser
+implementada atualmente surge do acordo de registro para os
+novos gTLDs que estabelecem uma reserva para os nomes de
+duas letras como domínios de segundo nível. Essa reserva pode
+ser levantada caso o registro chegue a um acordo com os
+governos ou caso seja seguido um procedimento para que sua
+relação seja aprovada pela ICANN.
+O acordo dos registros estabelece uma condição para que a
+ICANN possa liberar esse domínio e assim vai se evitar a
+confusão com os códigos de país que estão tomados.
+Então, a ICANN decidiu estabelecer um procedimento para
+liberar os códigos de país como domínios de segundo nível e
+esse procedimento consiste em solicitar aos governos ou outra
+entidade que apresentem comentários com as preocupações
+que esses códigos de dois caracteres poderiam suscitar como
+domínios de segundo nível.
+Então, depois a ICANN vai estabelecer um formulário na web
+para que se apresentem comentários. Governos têm 60 dias
+desde a publicação dessa solicitação para que apresentem
+comentários.
+
+Página 3 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+No momento a ICANN disse que só os nomes relacionados com a
+confusão dos códigos de dois caracteres dos nomes de países
+iriam ser considerados. Isso segue a especificação cinco do
+acordo de registro que, como eu já disse, condicionava a
+aprovação por parte da ICANN com essa liberação e aprovação
+de medidas para evitar a confusão.
+Depois a ICANN solicita aos registros que proponham planos de
+mitigação para evitar essa confusão entre os domínios de
+segundo nível que consistem em códigos de dois caracteres.
+Esses planos de mitigação já foram apresentados. O prazo
+acabou em abril.
+A ICANN está a analisar esses planos de mitigação conforme os
+comentários formulados pelos governos. Nessa altura nos
+encontramos nessa instância. Por isso que está aqui de cor azul
+no slide, porque a ICANN ainda não publicou os critérios que
+serão utilizados para avaliação dos planos de mitigação e as
+preocupações apresentadas pelos governos.
+Agora temos a oportunidade de incorporar e avaliar nesse
+processo de reflexão da ICANN, dos critérios, as nossas
+contribuições e tentar ter um impacto nos critérios que a ICANN
+possa implementar.
+Próximo slide. Vamos ver agora os diferentes planos de
+mitigação que apresentaram os registros porque estão
+
+Página 4 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+publicados. Os TLDs que são de marcas, ou seja, que
+correspondem às marcas comerciais têm que cumprir com
+critérios muitos rigorosos para seu registro. Isso significa que os
+TLDs têm que promover a imagem da companhia, não há
+necessidade adotar nenhuma outra medida de mitigação porque
+o uso que vai se dar ao TDL em si próprio vai evitar a confusão.
+E há outros registros que não se correspondem com TLDs de
+marcas, mas se comprometeram em adotar políticas restritas
+para o registro e devido à rigorosidade que têm esses registros
+não há necessidade de tomar nenhuma outra medida de
+mitigação.
+Esse é o caso dos nomes geográficos porque apenas vão se
+aceitar registros para pessoas ou empresas que tenham vínculo
+com a cidade, com a região, ou alguns TLDs de Categoria 1
+porque disseram que apenas serão aceitos os registros que
+demonstraram a relação com essa cadeia de caracteres.
+Se vocês observarem esse gráfico poderão ver que os TLDs de
+marca correspondem aos 30% dos solicitantes e aqueles que
+têm políticas restritivas de registro representam 4%.
+A maior parte desse gráfico corresponde a registros abertos que
+prometeram pesquisar aquelas queixas ou denúncias a respeito
+da confusão no uso desses códigos de dois caracteres que
+poderiam causar com os códigos de país e que se
+
+Página 5 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+comprometeram a tratar essas preocupações formuladas e
+tomar as medidas que como último recurso poderiam ser a
+suspensão ou o cancelamento desse nome de domínio. Isso
+representa 55%.
+Alguns TLDs, inclusive registros abertos, ofereceram a
+possibilidade concretizar programas de distribuição de forma
+gradativa onde vai se dar prioridade aos ccTLDs para registrar
+esse código de país que foi objetado.
+Dizem que essas medidas foram utilizadas no passado com
+alguns TLDs herdados e também com alguns novos gTLDs
+prévios a 2012 do ponto de vista por exemplo de info, Bates,
+travel e outros. Eles representam 7% desse gráfico e esses 7%
+oferecem essa medida.
+Depois alguns registros indicam que poderiam banir o registro
+por parte de terceiros para evitar a confusão entre ccTLD e o
+código de dois caracteres.
+Por exemplo, .ES que é o código de país para a Espanha, e em
+.ES.XYZ que é um dos novos gTLDs. Se .ES.XYZ é aceitasse o
+registro por parte de terceiros usuários poderiam ter uma
+interpretação incorreta ao pensarem que isso tem a ver com o
+nível de domínio top ES.
+Temos que destacar que alguns registros propuseram diversas
+medidas. Uma distribuição gradativa combinada com a pesquisa
+
+Página 6 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+dos relatórios sobre abuso. Proibir a revenda de mãos dadas
+com a pesquisa. E talvez esse seja o motivo pelo qual não se
+reflita aqui nesse gráfico. Próximo slide.
+Por que o GAC teria que aproveitar a oportunidade para dar
+assessoria em cada fase? Precisamente porque a ICANN não
+revelou os critérios que vão utilizar para examinar esses planos
+de mitigação. Acho que temos a oportunidade de ter uma
+influência no processos de tomada de decisões.
+Faz uns dias eu fiz um rascunho do que poderemos assessorar
+nesse sentido e o objetivo da redação que eu incorporei no
+rascunho é garantir que tenhamos a característica dos códigos
+de duas letras, como código de país no DNS, e evitar a confusão,
+o que é o fundamento pelo qual temos o acordo do registro.
+Vou fazer uma avaliação das medidas que foram apresentadas
+pelos registros para alimentar a discussão adiante. As medidas
+propostas pela maior parte dos registros correspondem a
+pesquisar os relatórios de abusos e que sejam tratadas essas
+preocupações.
+Eu coloquei aqui a palavra equivalente a gostar, no sentido de se
+vocês gostam dessa medida. Mas, talvez isso seja o mínimo que
+se possa fazer. Mas, podem aparecer dúvidas com relação ao
+que poderia acontecer para determinar se um registro pode
+decidir se há confusão ou não, quais os critérios padrões para
+
+Página 7 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+determinar o que causa e o que não causa confusão. Não vão
+haver medidas uniformes entre todos os registros.
+Talvez um critério padrão utilizado no passado para .IRO era
+obrigar os registrantes a declarar com clareza nos websites que
+não têm nenhuma relação com as autoridades constitucionais
+de um país caso isso seja assim.
+Outra questão a considerar corresponde aos TLDs Categoria 1.
+Vocês pensam que essas medidas deveriam ser tomadas por
+aqueles registros que têm TLDs de Categoria 1? Categoria 1
+corresponde às cadeias de caracteres vinculadas a setores
+altamente regulados nos quais há requisitos para entrar no
+mercado muito rigorosos, como no caso do setor financeiro, da
+saúde, etc.
+A segunda medida tem a ver com os TLDs de marcas. Acho que
+essa é uma boa medida. Não acho que haja o risco de confusão
+aqui com os TLDs de marcas. Por exemplo o Google. Vamos
+imaginar que o Google tem um site para a Espanha, que é o
+google.es. E o que eles poderiam fazer se a ICANN permitir que
+eles usem o .ES seria dizer .es.google. Então, todos vão saber que
+esse Google é para o site espanhol do Google. E isso eu acho que
+não vai causar confusão entre os usuários.
+A medida seguinte tem a ver com os registros que têm políticas
+restritivas como por exemplo o setor financeiro que adotou
+
+Página 8 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+compromissos de interesse público e tem requisitos como a
+verificação de credenciais. Também ser uma entidade que
+trabalhe nesse setor e que isso vai ser verificado antes do
+registro. E o nome então deve coincidir com o nome da
+companhia. Então, poderia ser a companhia.es ou ES. E o risco
+de confusão aqui diminui. Essa seria uma medida possível
+também.
+Mas, nem todos os registros com políticas restritivas de registro
+verificam os requisitos antes do registro. Eles fazem isso depois
+dele. Mas, isso pode ser efetivo também se eles finalmente
+adotarem medidas para erradicar essa confusão, para cancelar o
+nome ou o suspendê-lo.
+Eu adicionei aqui outros critérios que não foram mencionados
+pelos registros com nomes sensíveis como .army, .navy,
+.airforce, que têm um vínculo muito claro com funções
+governamentais muito estritas. E talvez o impacto visual desse
+código de país e desses nomes engatilhem uma associação com
+o país imediatamente.
+E outra medida que eu proponho é começar esses registros que
+propuseram reservar nomes de duas letras que esses registros
+aceitem os registros baseados nos planos para uso futuro desses
+nomes ou que tenham se comprometido a verificar a relação
+com o governo. São medidas muito exigentes e deveriam ser
+
+Página 9 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+permitidas. Mesmo se a ICANN adotar uma medida padrão que
+não seja tão exigentes como essas. Próximo slide, por favor.
+Aqui nesse slide vemos uma das medidas que eu mencionei que
+foi proposta pelos registros que é conduzir períodos gradativos
+de alocação. Eu gosto dessa medida e não seria necessário,
+claro, para os TLDs de marca porque acho que aqui não haveria
+nenhuma confusão possível.
+Talvez os TLDs com políticas restritivas também não vão precisar
+disso porque essas políticas de registros já estão limitando essas
+confusões. Mas, eu gostaria de adicionar alguns dos requisitos
+para esses períodos gradativos.
+Os ccTLDs, conforme a declaração, poderia ter atribuição de
+registrar nomes em primeiro lugar. Mas, o que acontece se um
+governo não tem uma boa relação com esse ccTLD ou se tem
+uma boa relação, mas o ccTLD não está interessado em registrar
+100 nomes? Há países que objetaram por exemplo 600 nomes.
+Então, talvez isso não seja uma questão que tenha a ver com o
+ccTLD.
+Então, é por isso que eu acho que os governos deveriam ter
+autorização para participar desse período gradativo de
+alocação. E, claro, os membros do GAC deveriam ajudar os
+registros a identificar a autoridade certa dentro de um país para
+registrar um nome.
+
+Página 10 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+Acho que essa é uma medida correta porque os países poderiam
+utilizar esses nomes para objetivos que têm a ver com o país em
+questão para evitar confusão. Então, talvez possa decidir não
+utilizar esse nome uma vez que o registro tenha escolhido, então
+tiraria esse nome do mercado, seria muito eficaz também para
+evitar confusão.
+E se essa medida for adotada os governos e os ccTLDs não
+deverão pagar preços proibitivos por esses nomes. E o que eu
+proponho aqui é que depois do período para os governos e os
+ccTLDs decidirem, os donos de marcas registradas tenham a
+oportunidade de registrar os nomes. Imagine que existe uma
+marca registrada chamada ES. Se eles registrarem o nome eu
+acredito que eles vão usar o nome para promover a imagem da
+empresa. Então, o uso desse nome não causaria nenhuma
+confusão para os usuários espanhóis ou qualquer um sobre o
+relacionamento com o país.
+Mas, eu tenho duas perguntas que têm a ver com esses períodos
+gradativos de alocação para se tornarem boas medidas para os
+domínios globais. E talvez depois da apresentação possamos
+falar sobre isso.
+Alguém me disse que há regras que obrigam os registrantes que
+registram nomes durante esses períodos gradativos a utilizarem
+de maneira efetiva esses nomes posteriormente. Isso poderia
+significar que eles não poderiam simplesmente decidirem não
+
+Página 11 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+utilizar o nome. Se esse for o caso é importante para os
+membros do GAC saberem disso e tomarem uma decisão.
+Outra questão é se os registros pedem por uma taxa de
+renovação para esse tipo de nomes premium, premium porque
+eles têm alto valor no mercado, você pode vê-los nas
+plataformas de venda de nomes de domínio. Se eles cobrarem
+taxas de renovação que estão acima do preço ordinário para um
+domínio qualquer porque, ok, um governo pode registrar um
+nome por US$ 8 durante períodos gradativos de alocação, por
+exemplo. Mas, se no ano seguinte ele tiver que pagar US$ 20 mil,
+talvez você tenha que pensar duas vezes. E nós todos
+precisamos saber esses dados antes de seguirmos em frente.
+A última medida que foi proposta também por algumas partes é
+proibir registros de terceirizados para o domínio de segundo
+nível justamente por esse motivo que mencionei antes. Agora
+muito brevemente vamos passar à questão de nomes de países
+como domínios de segundo nível.
+Vejam o exemplo. A situação aqui é que o acordo de registro
+reserva esses nomes, então eles não podem ser usados a não ser
+que o operador de registro chegue a um acordo com o país em
+questão, com o governo em questão, ou com a ICANN.
+A ICANN deveria, nesse caso, criar um procedimento sujeito à
+revisão pelo GAC. Isso é o que a Especificação 5 menciona.
+
+Página 12 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+Por enquanto somente 12 solicitações foram feitas pelos
+registros. É pouco, mas a ICANN ainda não garantiu nenhum
+deles ainda. Por quê? Porque ainda não elaborou um processo
+para a liberação de nomes de países.
+Mas, o GAC em 2015 pensou que a ICANN iria imediatamente
+implementar esse processo, e nós pensamos que a ICANN
+poderia seguir o mesmo procedimento adotado para nomes com
+dois caracteres. Isto é, notificação de solicitação de governos,
+governos têm a oportunidade de comentarem, e assim segue.
+Então, nós decidimos criar um banco de dados pelo qual os
+países poderiam mencionar se aceitariam ou não aceitariam
+essas solicitações ou não. Então, acabamos criando um banco
+de dados em que os países simplesmente declaravam se
+queriam ser notificados ou não sobre essas solicitações. E
+aconteceu que aproximadamente 80 países se manifestaram que
+queriam serem notificados, enquanto nove apenas nove países
+disseram que não queriam serem notificados.
+Agora o que eu proponho é ir além da ICANN, avançar além dela
+no sentido de tentarmos sermos proativos, tentarmos orientálos, dar a eles algumas ideias sobre como poderiam desenvolver
+esse processo. Por quê? Porque nós não estamos inteiramente
+satisfeitos com esse processo para autorizar os nomes de dois
+caracteres. Então, aqui temos uma oportunidade para
+melhorarmos a maneira de fazermos isso, porque acho que os
+
+Página 13 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+nomes de país são muito mais sensíveis do que esses nomes com
+dois caracteres. Então, nós temos que ser mais cuidadosos nesse
+caso.
+Então, o que dissemos no passado sobre nomes de países é
+somente para denotar a importância da sensitividade dos países
+anexados a esses nomes de países. A necessidade de um
+consentimento concreto. Se um país, por exemplo, não
+preencher o banco de dados a ICANN não deve considerar que
+esse país autoriza a liberação do código de país. Não haverá
+aprovação então. E também o que determinamos é que a ICANN
+deve considerar esse processo exaustivamente e envolver o GAC
+bem no começo.
+No rascunho de recomendação que distribuí incluí alguns
+elementos. Basicamente que poderia ser bons para esse
+processo para conduzir uma análise das experiências passadas.
+Quais eram as regras no passado para o uso de nome de países,
+por exemplo .info, .biz, e antes de 2000 e outros gTLDs pós-2012
+porque havia regras sobre códigos de países. E seria muito bom
+passar por essas experiências de novo, ver como foi o registro
+desses países e o uso do código de países em casos de má
+utilização e conflito com esses nomes de países. E seria muito
+bom ter um acesso também a adicionar registros e registrados
+que tenham essa categoria de TLDs, quais são os seus planos
+para autorização de nomes de país, quais as medidas que eles
+
+Página 14 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+estão planejando, e se acham ou não se poderá haver períodos
+gradativos para alocação ou leilões, etc.
+E há alguns outros elementos incluídos no rascunho de
+recomendação e que agora poderemos incluir. Então, seria
+muito bom que a ICANN agora soubesse quais são as
+preocupações específicas dos membros do GAC sobre nomes de
+países, por que são importantes, se são por motivos políticos ou
+outros motivos relacionados, jurisdicionais, por exemplo.
+Também é importante destacar que a maioria dos países têm
+limitações enquanto à capacidade para lidar com esses
+processos complexos como esse aqui para implementar dois
+nomes diferentes. E talvez há países que devam consultar isso
+com dois ministérios diferentes, e isso pode demorar muito
+tempo.
+Embora o GAC já tenha mais de 160 países, há países que ainda
+não são membros do GAC e não podemos proteger seus nomes
+de países. É uma consideração importante. Também podemos
+perguntar-nos o que significa essa revisão feita pelo GAC, o que
+significa isso para a ICANN? É uma condição que o GAC respeite
+os nomes de países. Também seria bom que considerasse um
+pouco se deve haver medidas diferentes dependendo do tipo de
+TLDs, TLDs de marca, se também precisam de políticas
+restritivas quanto ao uso de nomes de países. Sabem que os
+países agora estão reservados em seis idiomas diferentes. Então,
+
+Página 15 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+devemos pensar se realmente é igualmente relevante reservar
+todos os nomes em todas essas línguas abaixo de qualquer TLD.
+É esse tipo de coisa na qual temos que pensar e que estou
+antecipando.
+O seguinte slide é um pouco o que eu já mencionei. Aqui já
+estamos concluindo. Vocês querem fazer uma recomendação
+sobre essas questões? Vocês acham que diferentes TLDs
+necessitam de diferentes métricas? Eu acho que usei todo o
+tempo, desculpem-me. Talvez seja a hora de iniciar o debate.
+Vocês também podem enviar um e-mail para a lista para
+expressar suas perspectivas e no decorrer da semana vamos
+tentar encontrar respostas para isso. Peço desculpas por
+estourar o tempo.
+Sim, muito brevemente. Não sei se a ICANN pode responder as
+perguntas que eu formulei. Obrigada.
+
+KRISTA PAPAC:
+
+Meu nome é Krista Papac, sou membra da equipe de divisão
+global de domínios. Eu tenho uma primeira pergunta, Gemma.
+Se um registro tem como exigência utilizar os nomes de
+domínios se eles já estão registrados, então se um nome de dois
+caracteres que o restante já está utilizando como nome de
+domínio, se isso é correto? Então, não há requisitos para o
+contrato com eles, se vai utilizá-lo ou não, essa é a outra
+
+Página 16 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+pergunta, se os operadores de registros tem políticas de
+registros se eles devem publicá-las para que seja mais fácil de
+procurar, e se as políticas de registro e as escolhas de
+operadores de registro também têm algum tipo de requisito
+sempre que não entre em conflito com outros termos do
+contrato? Então, devemos ver quais são os requisitos para tudo
+isso. Essa é a primeira pergunta.
+
+FALANTE NÃO
+IDENTIFICADO:
+
+Quanto à segunda pergunta que você fez, se um registro ou um
+registrador pedem um preço mais alto por alguns desses rótulos
+de dois caracteres. A minha resposta é que os preços são fixados
+pelos registros e o registrador segue essa política. Isso não está
+no contrato, qual deve ser ou não ser o preço, mas há um
+requisito se o contrato tem um acordo de registro que tem um
+requisito que se o preço deve ser alterado em algum momento
+esse período de renovação vai ser afetado. Então, deverá haver
+um período prévio de notificação para os (requisitadores)
+[00:39:34] sobre essa alteração nos preços. Então, os registros
+vão de um ano para 10 anos, então se você estiver comprando os
+nomes de domínio pode registrá-los por um ano ou de um ano
+até 10 anos.
+
+Página 17 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+GEMA CAMPILLOS:
+
+PT
+
+Não sei se temos tempo para continuar com as deliberações.
+Então, peço a todos os que tiverem algum comentário que o
+façam pela lista.
+
+THOMAS SCHNEIDER:
+
+Não, acho que ficam alguns minutinhos, podemos tomar
+comentários e minutos do pessoal da sala.
+
+GEMA CAMPILLOS:
+
+Não sei quem que levantou primeiro a mãe. Vejo Dinamarca, Irã
+e Holanda.
+
+IRÃ:
+
+O que você quiser, se tivemos tempo vai depender de você.
+Posso continuar falando?
+
+GEMA CAMPILLOS:
+
+Desculpe, Kavouss, não estava prestando atenção. Pode repetir?
+
+IRÃ:
+
+Bem, vamos fazê-lo bem breve. Em primeiro lugar muito
+obrigado por essa apresentação tão completa que realmente
+mostra a grande quantidade de trabalho que tem levado. Muito
+obrigado por esse trabalho.
+Você colocou uma pergunta importante. Temos assessoria ou
+temos que oferecer assessoria? Temos que considerar, então,
+uma assessoria geral da ICANN. Não avançar até tivermos um
+
+Página 18 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+estudo completo por exemplo. Esse é um tema bem sensível e
+vou dar um exemplo. Uma ameaça de um TLD que seria
+delegado e que não foi, mas utiliza então no segundo nível o
+nome do TLD do país. Então, o que fazemos? Porque ainda não
+estudamos qual pode ser essa situação. Há muitas perguntas
+que surgem, é muito sensível. Há tantas perguntas que ainda
+não foram respondidas e que a senhora colocou. Acho que
+temos, então, que considerar se vamos dar assessoria geral
+dizendo: “por favor, não deleguem nada até acabarmos com o
+estudo”.
+
+ESPANHA:
+
+Tem a palavra a Dinamarca. Primeiro a Dinamarca, depois Finn,
+e depois o senhor Thomas.
+
+DINAMARCA:
+
+Muito obrigada por sua apresentação que foi muito completa e
+detalhada. Da nossa perspectiva nós permitimos que durante
+todos esses anos que os códigos de países e caracteres se
+registrassem sem inconvenientes. Nós permitimos isso antes de
+.dk, e eu entendi que não houve problema ou confusão por parte
+dos usuários. Não pensamos que teríamos problema com .dk, ou
+seja, com o código Dinamarca no segundo nível.
+A minha observação é a seguinte, existem dificuldades para ver o
+problema. Da nossa parte nós entendemos que há alguns países
+
+Página 19 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+que poderiam prever um problema. Na nossa experiência não
+houve inconveniente. Eu estava prestando muita atenção a sua
+apresentação, foi muito detalhada, não sei se realmente entendi
+todos os passos em detalhe para o tema de regular presos, fazer
+uma aplicação em fases. Temos que considerar todos esses
+detalhes, temos que fazer consultas com outras partes
+interessadas antes de podermos dar o nosso ponto de vista.
+Devemos ter tempo para discutir isso.
+Seríamos reticentes, então, a oferecer esse tipo de assessoria e
+caso demos assessoria é importante que seja assessoria de um
+grande grupo de países, muitos países mas não de todo o GAC.
+Muito obrigado.
+
+ESPANHA:
+
+Obrigado, Finn. Tem a palavra Thomas da Holanda.
+
+HOLANDA:
+
+Muito obrigado, Gema. Foi muito completa a sua apresentação.
+Limitou o problema para nós e nos deu algumas opções. Temos
+algumas preocupações com relação a sua proposta, que são
+três. Em primeiro lugar questionamos o tema da possibilidade
+de confusão. Não vimos inconveniente, como disse a Dinamarca,
+com o ponto .nl que foi utilizado em muitos TLDs e não
+advertimos nenhum inconveniente. Depois é claro que temos
+que reconhecer que o ccTLD é muito representativo no primeiro
+
+Página 20 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+nível e talvez no segundo não seja tão significativo. Em outras
+cadeias de caracteres como car ou wash, ou outras qualquer,
+têm importância como domínio de segundo nível. Na Holanda
+temos muitíssimos exemplos, mas é um convívio sem problemas
+entre domínios de segundo nível, como por exemplo de.nl, que
+também é uma empresa de café, e é o código de país da
+Alemanha. Mas, não confunde Holanda embora possa parecer
+que trará confusão.
+Em segundo lugar devemos dar um significado adequado ao que
+é a possibilidade de confusão para não dizer em termos gerais
+que evitado o uso de todo código de país do segundo nível. Acho
+que isso não é adequado. Também a proposta de trabalhar em
+fases para ver primeiro os domínios de segundo nível dos
+governos e depois os proprietários das marcas comerciais. No
+caso das marcas comerciais temos dois dígitos. Então, como já
+disse, temos BT, Volkswagen, VA, Hewlett-Packard, HP. Então,
+por que os governos e ccTLDs teriam prioridades sobre os
+detentores de marcas comerciais?
+E o terceiro tem a ver com a metodologia. Está apresentando um
+novo conceito, que os governos e domínios de segundo nível
+tenham certo prazo para registrar nomes. Isso significa que há
+uma carga administrativa para os governos que se deve
+considerar. Então, teríamos que analisar o tema dessa carga, o
+
+Página 21 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+trabalho, e reagir diante do governo em um prazo leve para fazer
+essa modificação.
+Então, não somos todos os países do mundo como
+representantes do GAC que vão estar a par disso, mas outros
+governos não, e vai se perder a oportunidade. Então, acho que
+isso não é justo ou equitativo. Há muitas coisas e devemos entrar
+nos pormenores, há muitas complexidades que não podemos
+abranger ou envolver nesse momento.
+
+ESPANHA:
+
+Obrigado, Thomas. Passo a palavra à Índia.
+
+ÍNDIA:
+
+Obrigado por essa apresentação com tanta informação. Quero
+dizer que realmente avaliamos essa estratégia de mitigação
+como forma de avançar que poderia acontecer se eu aplicar
+essas medidas de mitigação. Talvez encontrássemos uma
+solução, mas talvez não. Mas, o que aconteceria se não
+encontrássemos essa solução? Como avançaríamos se os temas
+em conflito não são resolvidos de maneira amigável? O governo
+vai ter a última palavra?
+E para a Índia nós temos o nosso domínio de primeiro nível
+como .in e também temos o domínio .ln, que seria uma letra L
+minúscula que é muito parecido com .in. Então, temos que
+colocar esse tema e não vamos poder ter uma resolução
+
+Página 22 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+satisfatória. Pensamos que os governos devem ter a última
+palavra.
+
+ESPANHA:
+
+Posso aceitar duas intervenções a mais. Decidam quem é que vai
+falar. Austrália, Reino Unido e acho que mais ninguém.
+
+AUTRÁLIA:
+
+Obrigado. Acho que é importante lembrar que há outros usos
+para as letras que constituem os códigos de país. Podem ser
+acrônimos, marcas comerciais. Acho que devemos prestar
+atenção ao princípio de convivência no lugar de fazemos uma
+proibição geral, abrangente, ou que os governos tenham os
+primeiros direitos, temos que ver como utilizá-los.
+
+ESPANHA:
+
+Obrigado por ser breve. Reino Unido.
+
+REINO UNIDO:
+
+Vou ser breve também. Eu me solidarizo com as preocupações
+apresentadas pela Dinamarca e pela Holanda em particular.
+Acho que esse vai ser um passo importante para o GAC para que
+os governos de forma individual possam levar adiante esse
+regime de preferências caso se institua dessa maneira.
+Também sou consciente de que uma dúvida que possa haver
+com relação às premissas iniciais. Eu acho que a Dinamarca
+
+Página 23 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+apontou isso com base na sua experiência. Mas, a minha
+experiência me indica que não temos conhecimento de que se
+tenha feito nenhuma representação diante do governo do Reino
+Unido do ponto de vista de que haja confusão nos domínios.
+Talvez a abordagem da Austrália seja muito eficiente do ponto
+de vista dos recursos. Analisamos que problemas surgiram para
+alguns governos e se houvesse algumas insuficiências para ver
+se podemos resolvê-las e vermos como é o âmbito atual para
+uma medida corretiva e processos de resolução. Talvez essa seja
+uma maneira de avançarmos. Obrigado pelo seu trabalho,
+valorizo muito o seu esforço.
+
+THOMAS SCHNEIDER:
+
+Obrigado, Gema e todos aqueles que fizeram intervenção. Os
+que não puderam expressar o seu comentário é claro que podem
+usar a lista de distribuição de e-mail. Temos uma sessão
+relacionada que trata de algo similar, talvez ali vocês possam
+continuar conversando a esse respeito. Apesar de ser uma
+sessão de apenas 30 minutos temos um texto proposto para
+rascunho sobre a assessoria que podemos realizar e discutir,
+fazê-lo de maneira eletrônica para depois acordar na quintafeira. Peço que revejam e tentemos ser eficientes.
+Com um pouco de demora temos outra sessão que é nova. Como
+podem ver na reunião B também se colocou a intenção de tentar
+
+Página 24 de 25
+
+HELSINQUE – Nomes e Códigos de Países como SLDs (Domínios de Segundo Nível)
+
+PT
+
+a ajudar a difusão externa e o desenvolvimento de capacidades
+para aquelas pessoas novas na organização que não seguiram
+de perto esse processo. Então, por primeira vez temos uma
+sessão de desenvolvimento de capacidades que é dirigida pelo
+grupo de trabalho sobre as regiões menos favorecidas. E eles vão
+dirigir essa sessão e vão explicar como trabalha o GAC e outros
+detalhes. Então, peço a todos os responsáveis que se aproximem
+para conduzir essa sessão.
+
+Página 25 de 25
+
+

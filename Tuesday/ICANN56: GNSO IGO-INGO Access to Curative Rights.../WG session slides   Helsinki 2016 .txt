@@ -1,0 +1,222 @@
+GNSO Policy Development Process on IGO-INGO
+Access to Curative Rights Protection Mechanisms:
+Working Group Open Meeting
+ICANN56 | 28 June 2016
+
+Agenda for this open Working Group meeting
+1. Welcome and introductions; brief update of the PDP scope and
+status
+2. Summary & discussion – IGO jurisdictional immunity:
+
+Purpose
+
+•
+
+Implications for the PDP of legal expert research on differing
+treatment by national courts of IGO jurisdictional immunity –
+absolute, restrictive, functional
+
+•
+
+Implications for the PDP of legal expert view of the likely effect of the
+Mutual Jurisdiction clause (as found in the UDRP and URS) on IGO
+jurisdictional immunity
+
+3. Discussion of legal expert and other suggestions on possible
+reforms and options for the policy problem presented
+4. Next steps
+
+•
+
+WG will review ICANN56 discussions and feedback, especially in
+light of earlier preliminary conclusions on standing and scope of
+the existing curative rights processes
+
+•
+
+WG intends to develop preliminary recommendations by
+ICANN57
+
+Next Steps
+
+| 3
+
+Overview and Brief Update
+
+What is the status of this PDP?
+
+About this PDP
+
+Status of work
+
+WG chartered by GNSO
+Council to examine:
+• Whether existing curative
+rights processes – the
+Uniform Dispute
+Resolution Policy and the
+Uniform Rapid
+Suspension dispute
+resolution procedure –
+should be modified to
+address the specific needs
+of International
+Governmental Organizations
+(IGOs) and International
+Non-Governmental
+Organizations (INGOs), and
+if so, how; or
+• Whether a new, narrow
+procedure is needed
+
+• Preliminary conclusion to focus on IGOs (not
+INGOs)
+• Possible standing to file may be based on Article
+6ter of the Paris Convention (note that this should
+not create additional legal rights)
+• External legal expert retained to provide opinion
+on state of international law on IGO jurisdictional
+immunity
+
+Background information
+• GNSO webpage with Issue Report, WG Charter &
+Council resolutions:
+http://gnso.icann.org/en/groupactivities/active/igo-ingo-crp-access
+• WG online collaborative wiki with recordings and
+transcripts of all meetings and draft documents:
+https://community.icann.org/x/37rhAg
+
+| 5
+
+IGO Jurisdictional Immunity – Report of the
+External Legal Expert and Discussion
+
+1. Nature of IGO Immunity from National Jurisdictions – Absolute, Restrictive,
+Functional (1)
+Immunity	is	contextual - IGOs	generally	enjoy	immunity	under	international	law,	but	
+different	jurisdictions	apply	the	law	differently,	and	even	within	the	same	jurisdiction	
+different	IGOs	may	be	treated	differently:
+•
+•
+
+Immunity	 obligations	 vary	by	state	and	by	IGO	concerned
+Immunity	 decisions	are	often	based	on	organization-specific	 treaties	to	which	not	all	states	are	
+party
+
+•
+•
+
+States	subject	to	the	same	international	obligations	 may	implement	 them	in	varying	ways
+Every	jurisdiction	 resolves	immunity	 questions	 according	to	its	own	law	(the	“law	of	the	forum”,	 as	
+informed	 by	international	 law)
+
+The	UDRP	and	URS	compel	consent	to	a	Mutual	Jurisdiction	(either	the	domain	name	
+registrar	or	registrant):
+•
+
+An IGO that files a Complaint will therefore have agreed to the possibility of a judicial
+process, regardless of any immunity it might otherwise enjoy under international law
+
+| 7
+
+1. Nature of IGO Immunity from National Jurisdictions – Absolute, Restrictive,
+Functional (2)
+Absolute immunity:
+• Comprehensive immunity from judicial process, irrespective of the nature of the
+IGO’s activity, in the absence of an express (and strictly construed) waiver
+• Example – the United Nations, other IGOs protected in certain States by specific
+treaties binding those States, or bilateral arrangements between States
+Restrictive immunity:
+• An exception from absolute immunity for litigation concerning commercial activities
+like those undertaken by private parties
+• Relatively few States have applied this approach to IGOs (exception – the USA)
+Functional immunity:
+• Immunity limited by the functions of the IGO in question
+• Example – language such as IGOs will enjoy the “privileges and immunities as are
+reasonably necessary for the fulfilment of their functions”
+• Can overlap with a restrictive immunity approach, but distinction may be critical –
+e.g. non-infringing use of its domain is necessary for IGO to carry out its mission
+| 8
+
+2. Does agreement to Mutual Jurisdiction mean the IGO has waived its immunity?
+Outside the domain name area, how do IGOs generally waive immunity?
+• Through the IGO’s governing instrument (though scope of this is unclear); or
+• By way of agreement or pleading (case law not well developed, but agreeing to a
+Mutual Jurisdiction could be interpreted as a waiver)
+Legal expert opinion:
+“Allowing an IGO that prevailed in the UDRP process to avoid its waiver and rest on
+the UDRP result by invoking immunity, while allowing it to waive that immunity by
+initiating judicial proceedings if it loses to a domain-name registrant, will likely seem
+asymmetrical and unfair.”
+QUESTION FOR DISCUSSION:
+If agreeing to Mutual Jurisdiction means an IGO has waived any jurisdictional
+immunity it may be entitled to in that particular national court, should this PDP
+consider alternatives that could address this specific issue?
+| 9
+
+3. What are the policy options for any possible modification?
+(A) Maintain status quo, possibly with slight adaptation:
+•
+
+An IGO may be able, according to the law of its seat, to assign a right of use to another (or,
+at least, to appoint an agent to enforce its interest)
+
+•
+•
+
+ICANN may need to specifically allow for this in the applicable policy/procedure
+But assignments may not always be valid –
+o
+
+Will need to be drafted carefully
+
+o
+
+Could be interpreted as falling outside scope of that IGO’s immunity under a restrictive or
+functional approach
+
+o
+
+Could be ruled ineffective as a transfer of rights
+
+(B) Use an arbitral or third party non-judicial process:
+• Familiar to IGOs in contractual disputes or under the United Nations Commission on
+International Trade Law (UNCITRAL) Rules
+• But domain name disputes are not contractual arrangements – requiring registrants to agree
+to such an appeal process could lessen a legitimate registrant’s freedom
+• Could also be challenged in some courts as creating a further exception to IGO immunity
+
+| 10
+
+4. Are there other alternatives? (1)
+(A) Make a distinction among the different types of IGOs:
+• Maintain existing Mutual Jurisdiction terms in general, but permit particular IGOs
+to elect instead to submit to arbitration (according to UNCITRAL or some similar
+procedure)
+(B) Rewrite Mutual Jurisdiction clause without prejudging immunity:
+• IGO	immunity	not	to	be	assumed	in	circumstances	where	the	relevant	jurisdiction	would	
+not	be	inclined	to	afford	it	e.g.	its	courts	apply	a	functional	or	restrictive	approach	and	
+regard	the	activity	as	beyond	immunity’s	scope.	
+•
+
+Additional	 language	(exception)	could	be	added	as	follows:
+o
+
+“	…	in	the	event	the	action	depends	on	the	adjudication	of	the	rights	of	an	international	intergovernmental	
+organization	 that	would,	but	for	this	provision,	be	entitled	to	immunity	from	such	judicial	process	according	
+to	the	law	applicable	in	that	jurisdiction,	[as	established	by	a	decision	of	a	court	in	that	jurisdiction,]	the	
+challenge	must	be	submitted	instead	for	determination	[by	UNCITRAL	in	accordance	with	its	rules”
+
+| 11
+
+4. Are there other alternatives? (2)
+(C) Alleviate hardship caused by registrant submission to an arbitral/nonjudicial process
+• E.g. IGO could agree to bear some of the costs if it elects arbitration
+o Needs to be carefully formulated to avoid problems with enforceability
+
+(D) Others?
+What are the next steps from here?
+
+| 12
+
+

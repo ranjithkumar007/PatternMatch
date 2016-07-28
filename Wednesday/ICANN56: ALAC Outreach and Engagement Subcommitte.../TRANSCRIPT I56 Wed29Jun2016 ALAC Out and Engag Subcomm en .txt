@@ -1,0 +1,1649 @@
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+Wednesday, June 29, 2016 – 10:45 to 12:00 EEST
+ICANN 56 | Helsinki, Finland
+
+DEV ANAND TEELUCKSINGH: Okay. Thank you, all, everyone. Good morning, good afternoon,
+and good evening to any remote participants. My name is Dev
+Anand Teelucksingh, Chair of the At-Large Outreach and
+Engagement Subcommittee meeting.
+We have a packed agenda for this session. We’ll be looking at the
+ICANN stakeholder analysis tool that the Outreach and
+Engagement Subcommittee has been working on. We’ll be
+having a discussion of the ICANN Fellowship Program. The
+Fellowship Program process is now out for public comment. We
+have some initial ideas to share. And we will then be discussing
+the outreach activities for ICANN 57, which is now in Hyderabad,
+India.
+Because we’ve been doing outreach sessions for ICANN 56,
+Helsinki and for the Marrakesh meeting, which was ICANN 55, we
+want to start kicking off what we want to do for Hyderabad,
+India. Given that we now know the venue – it’s been definitely
+moved from Puerto Rico – now that uncertainty is over, and now
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+we can really start planning in earnest for that. And any other
+business.
+We have some slides here. Just to introduce for those
+newcomers – and welcome – next slide. To introduce the
+Outreach and Engagement Subcommittee, our purpose is to
+reach out to new potential members of the At-Large community,
+which is outreach, and to engage new and existing members of
+the At-Large community, which is engagement, to be able to
+continue to fulfill At-Large’s role in ICANN activities, representing
+the interests of Internet end users in ICANN activities. So we will
+be working with the At-Large community, the RALOs, to ensure
+such strategies are implemented.
+Anyone interested is welcome to join this working group. The
+staff e-mail address is there, or you could approach myself or
+any of the co-Chairs of the Outreach and Engagement
+Subcommittee. I have two of them right here, Maureen Hilyard
+on my right, and Daniel Nanghaka on my left. Right now, two of
+the representatives are Glenn McKnight and Olivier CrepinLeblond, who are the other co-Chairs. It’s one from each region.
+Ah, sorry. I didn’t see – Glenn is also here. There you go. Thank
+you. All right. I still didn’t see Olivier.
+All right. Next slide. We’re not going to go into the detailed
+history of the subcommittee and so forth. These are just links
+
+Page 2 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+that people can go and review. Our wiki page, the work that’s
+being done by the subcommittee, the various documents that
+were done, and some information regarding one of the
+programs that’s used for outreach, which is the Community
+Regional Outreach Pilot Program, or CROPP. What that is, it’s a
+program where persons are sent to events for outreach
+purposes.
+Okay. Well, next slide. What we’re going to present here is what I
+call the ICANN stakeholder analysis tool. This first started out as
+a Fellowship analysis tool. We realized that, if we wanted to
+target the Fellows for outreach purposes, there was no one
+place where those persons could be searched for.
+So one of the things we did – next slide – was that Glenn actually
+started it off by – did a spreadsheet and showed the breakdown
+of the Fellowship. What I’ve been doing is to try to improve on
+this. We did a second version in time for ICANN 55, where we
+were able to search by country or by region and take into
+account the different geographic names between ICANN and ISO
+and various communities in ICANN.
+One of the challenges that we want to find and which we’re
+trying to solve is that often, in the ICANN community of multiple
+stakeholders, it’s very hard to find out who they are or how
+many they are. This has actually been a very large challenge,
+
+Page 3 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+because if you wanted to find a person in a particular country,
+there was really no place that has that information.
+So the tool has now been evolving, and [inaudible] – well the
+[2.0] version of this tool. What we’ve managed to was to be able
+to track the stakeholders in the Fellowship, GAC, and the ccNSO,
+either by country or by region. What we’re going to do now is
+there’s a link there that persons can click on and launch the tool,
+but we’ll probably just have staff share their screens so you can
+just walk through how the tool works. While staff is going to do
+its magic to get the screen up, just scroll down the screen there.
+You’ll see the link to launch the spreadsheet. Lovely.
+Okay. Anyone have any quick comments or questions before this
+sheet comes up? I’m just looking around the room here. Okay.
+No?
+All right. When I do see the – ah, Tijani. Please go ahead.
+
+TIJANI BEN JEMAA:
+
+Thank you. Thank you, Glenn, for this effort. I think it is
+important. The most difficult thing to do is to have them by
+stakeholder because people don’t know. They come here and
+they are at the same time from the universities and civil society.
+So when they come here, they don’t know to which constituency
+they may be. This is the main information we want at the end. So
+
+Page 4 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+I think that the effort is very good, and perhaps we may put
+several possibilities for the stakeholder. Since he’s an academic,
+we can put academic. He’s also civil society. We put civil society,
+so that we know where we can go and catch some people to
+bring them here.
+
+DEV ANAND TEELUCKSINGH: Thanks, Tijani. Indeed, that’s one of the concerns we had,
+because it was very hard to find this information. That’s why we
+started doing this collection effort. Then we started thinking,
+“You know what? We really need to track the stakeholders in a
+country or region.”
+Okay. Well, it’s up on the screen now, although it probably needs
+to scroll to the right, or just the size of the font a little bit. Okay.
+What we do on the right-hand side in the colored box, we could
+select the country to find stakeholders. If we click on the cell –
+the H1 cell there – for the country, it’s a drop-down for all of the
+countries. If you were to pick, say, Argentina, and – all right. So
+what happens then is that, on the left side, you see all of the
+Fellows that have ever applied in ICANN’s history since the
+Fellowship was first created in 2007. You can scroll down, see
+the names, and, when possible, we’ve noted the type of what
+the Fellow itself identified themselves as. Now we can look at a
+particular country, see how many of those Fellows there are, and
+
+Page 5 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+then analyze whether they active. Are there ones that aren’t
+active? Maybe there’s a reason why. Maybe we can reach out to
+those persons.
+If you scroll back up and scroll to the right again – okay. We can
+also see who the GAC representative is and whether they have
+membership in the ccNSO. What I’ve also done was that the link
+there next to the GAC representative, if you click on that – yeah,
+go ahead and click and open the next tab; yeah; yeah, go ahead
+and click on that – you’ll then go to the GAC’s website. And then
+you would see the contact details for that person, for all persons
+in Argentina in this example. So it’s linked to the most up-todate contact information on the GAC’s website and on the
+ccNSO’s website.
+What we can then do, if you are looking for possible synergies,
+and one of the things that At-Large – well, given that we
+represent the interests of Internet end users in ICANN activities, I
+think one important local activity is the ccTLD. Maureen, as the
+ccNSO liaison – one of the great concerns that we know we want
+to encourage is for the ALSes is to interact with the ccNSO and
+be able to give input to any of that ccTLD’s policies of how their
+country code is being used. So now we can now look at the
+ccNSO and ensure that, if there’s an At-Large Structure in that
+country, they know how to contact that person.
+
+Page 6 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+What we’ve also done is things like our regional dashboards. We
+can now do analyses of countries that have ALSes but that don’t
+have membership in the ccNSO, or vice versa. So if there are no
+At-Large Structures in a country or territory, but they do have
+stakeholders in the GAC and in the ccNSO, we can then reach out
+to those persons and then make inquiries. Are there
+organizations in your country? Any individuals interested in local
+Internet governance issues? And start that dialogue to see – if
+you find those individuals, reach out to those individuals, and
+begin a conversation of why you should become involved in AtLarge and other opportunities, such as the Fellowship and
+NextGen, if the ICANN meeting is in their region, and so forth.
+Going back to the spreadsheet too, what we’ve also done is
+we’re able to now track the changes to the site. Well, perhaps if
+you could just click on the “Sheet” tab of ccNSO, for example,
+just as a – yeah, at the bottom.
+
+UNIDENTIFIED MALE:
+
+It’s the bottom. Yeah.
+
+DEV ANAND TEELICKSINGH: Yeah. That. Thank you. What happens is that the information is
+pulled automatically from the ccNSO’s website. What I’ve done
+is I can now track whenever changes happen to the ccNSO site.
+
+Page 7 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+Therefore, I can update the spreadsheet accordingly. So it’s a
+little bit more automated way of keeping up to date with any
+changes in the GAC and in the ccNSO, as opposed to just
+manually trying to find that information out.
+Okay. Well, I think I could stop there and just raise the floor for
+questions. Glenn?
+
+GLENN MCKNIGHT:
+
+We leave it really open for you to do your own analysis, but some
+of the things that strike you is certain countries are
+underrepresented, in terms of small island states and certain
+areas that were never part of the Fellowship Program, such as
+Australia, North America, or Western Europe. There are some
+gaps here, and you can see some of the gaps that some people
+have not self-identified, or they use terms like “academic,”
+which could be civil society. There is some lack of consistency.
+We didn’t make these terms. When I started doing this database,
+I took the 900 names or so and I had to manually do it. None of
+this stuff was done. But we felt, as outreach and engagement,
+what a natural group. The Newcomers, the NextGen, and the
+Fellows were all potential members of our RALOs. So not
+particularly in my case in NARALO, but all of them were potential
+people that we need to reach out to and get to know. But we
+need to know who we’re dealing with.
+
+Page 8 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+One of the things you’ll see in this is that a number of people
+have come back more than once. There’s a definite pattern here
+that people who’ve come more than once, they went from one
+meeting to a second or third and even fourth time, they went
+from just a marginal person to someone who became a mentor.
+Some of these people – some of them are in this room here –
+became leaders, and very good leaders, within the RALO
+constituency.
+The other thing that I did, which is not here, is I started to look at
+the Fellowships that ISOC did with their Ambassador Program. I
+also looked at the RIR Ambassadorships. There’s a lot of
+commonality, including IEFT. There is individuals who,
+particularly in the technical community, that have gotten
+Fellowships on each of them. So it’s not to say they’re serial
+Fellowship people, but these are really committed individuals.
+From outreach and engagement, you can cast a net or you can
+use a fishing rod. So my analysis was, rather than get huge
+numbers, but focus on individuals which have shown
+themselves to be very interested in the process and a wide
+process. One of the things we’re doing today is we’re
+photographing every Fellow and giving them a brochure about
+the Social Media Working Group. We really want to encourage
+them to say, “Hey. We exist.”
+
+Page 9 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+I think in terms of the analysis, a lot of these people from the end
+user community tend to seem to go more to NCUC, rather than
+us. You have to ask yourself, why that is the case? Are we doing a
+good enough job on outreach? Are we not appealing to them?
+When we’re working with them one-on-one, they really are
+interested in us, but I don’t think we’ve done a good enough job
+on outreach and engagement. Maybe we need to wine and dine
+them. I’m not sure. I don’t know the answer to it, but I just think
+from the analysis, we did score a number of great people. But we
+could do better.
+
+DEV ANAND TEELUCKSINGH: Thanks, Glenn. There’s a queue here. Seun, and then Tijani.
+
+SEUN OJEDEJI:
+
+Thank you very much. I have a couple comments, but first I want
+to thank Dev and Glenn for this wonderful spreadsheet. I’m sure
+it must have taken quite a lot of time to put this up, especially
+using Google platform.
+I just want to ask the Fellows count, because I notice that there
+are some Fellows who have actually returned but were not
+recorded. There are some Fellows who have returned and were
+recorded. I wanted to know, are you just recording the Fellows’
+first instance? Or once you take record of the recurrence – and
+
+Page 10 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+did you get this information from the Fellows staff team directly?
+It may be good to have a pattern on that.
+The other thing I wanted to say, is there any particular reason
+why we are focusing on the GAC and the ccNSO? I think it would
+be very good thing to actually bring in the [inaudible] or sort in
+by type. The type are in the cells, but if you can have it as just
+like we have the country. And perhaps we can stick with the
+type, the categorization that ICANN is using on our nametags.
+Finally, which I think is perhaps the most important of at least
+my point, this work will continue to grow, and I think it should
+become too much work to be done by volunteers. I think this is a
+very good initiative that should be taken at the global level by
+staff. If we can perhaps – I don’t know what the process is,
+whether we can send a recommendation or something – request
+that we have this central source of information to actually make
+use of. [inaudible] Google I’m sure because Google right now is
+real-time. One person selects Nigeria. You see the person
+selecting Nigeria. So it should be more independent and globally
+[inaudible] so that everybody can use it and then follow up.
+Thank you.
+
+DEV ANAND TEELUCKSINGH: Thanks, Seun. Quite a few comments there. Just to try to answer
+some of them, I believe that ICANN is probably working on such
+
+Page 11 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+a tool, but the thing is, we felt we needed the information now to
+really try to do outreach and engagement. If we were to wait and
+wait, it might take some time.
+I know that the geographic regions report – and this is
+something that actually I’ve noted in the sheets – that the
+different communities actually use different country names to
+represent the same country or territory. That makes life quite
+difficult. So I had to do a lot of harmonization in the sheets. If
+you go into the sub-sheets with [inaudible], you could probably
+see what I had to do to get it normalized across all the groupings
+in the GAC and ccNSO and Fellows.
+To answer the first question regarding the Fellowship, we are
+tracking how many opportunities were Fellowships given to
+persons in that territory. So it does count whether a person has
+appeared five times or whatever. And it shows when they
+attended. We collected that information straight from the
+Fellowship announcements, which were scattered from the
+ICANN announcements all the way back to ICANN – I can’t
+remember the number now – in 2007, when in Puerto Rico. So,
+again, it was a lot of effort to just do it. Glenn added, as I say,
+brute force. Cut-and-paste, copy-paste, copy-paste. Yes, and it
+was a lot of energy and some tries to get it right.
+
+Page 12 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+One example is I that I had to copy all the GAC contact details.
+After a very sore wrist, I then realized, “You know what? This is
+probably not the way to do it.” I had to delete it and then work
+out a way to get the link to the GAC’s website to update it so that
+you can have up-to-date contact details.
+Why are we focusing on GAC and ccNSO? I think it’s because
+those are prominent stakeholder communities in ICANN. Again,
+from the ccNSO side of things, one way of increasing At-Large
+engagement is for At-Large Structures in the region to start
+thinking about ccTLD use, in terms of how they want their ccTLD
+to make available domain names under the ccTLD, under the
+second level or third level or whatever. I think one of the key
+things for any At-Large Structure is for them to start caring about
+local issues first, and then you can then care about global issues.
+Because if you don’t care about things happening to you locally,
+it’s going to be very, very hard to care globally. So that’s why we
+focus a lot on the ccNSO side of things, because there’s
+opportunity for interaction.
+What we’re thinking of doing to expand this is also to start
+tracking the NextGen persons, and that’s probably the next
+version of this.
+Finally, regarding the type of Fellows – and this is a problem on
+the Fellowship side of things – apparently the Fellows, when
+
+Page 13 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+they applied, they self-identified, and in some cases they did not
+identify. So that’s a challenge. Another challenge has been that
+different terms are used throughout in terms of spelling. Some
+say “civil society,” some say “government,” and some use the
+abbreviation “govt.” So all of that has to now be normalized,
+and that exercise hasn’t started yet. But we’re accepting
+volunteers to help work on that.
+Tijani?
+
+TIJANI BEN JEMAA:
+
+Thank you very much, Dev. Again, I would like to thank Glenn for
+this work. I agree with him that we have to focus on what is
+useful for us as engagement and outreach. Of course, we can
+make use of this tool for other things, such as collaboration or
+coordination with the ccTLDs. This is a very good thing. But our
+main work is to make outreach and engagement, and we need
+clear information about people from where they are coming. We
+have to focus on the countries so that we – don’t forget that we
+have a strategy objective in At-Large: to have at least one ALS
+per country. So we have to focus on the countries and go to
+people who are coming from countries where we don’t have yet
+ALSes. And also their background: academic, civil society, etc.
+Why are they going to the NSCG and not coming to us? Because
+we are not doing our job. I recognize that I am not doing my job.
+
+Page 14 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+During the ICANN meetings, I am always in the meeting rooms,
+which is wrong. We have to go to them. We have to talk to them.
+We have to drag them and make them come to us. Yes, you
+understand what I mean?
+I think this must be an objective of this subcommittee, to work
+with those newcomers and to make them come to At-Large. We
+need them, especially from countries where we don’t have
+ALSes. Yes, there are some countries where you don’t have
+Fellows because they’re not developing countries. These are the
+rules of the Fellowship. But it doesn’t matter. We have to try to
+have one ALS per country. This is an objective. Thank you.
+
+DEV ANAND TEELUCKSINGH: Thanks, Tijani. I didn’t actually show one of the other tabs,
+which is the search by region. Actually, if you can go to the
+second sheet tab in the spreadsheet. Yeah.
+To answer the other question, Tijani, indeed, I think we have not
+really been doing enough strategic outreach during the ICANN
+face-to-face meetings. I have to say, though, that the first time,
+though, we have now focused, and we had a session with the
+NextGen in the Aurora room on Monday. It actually, I thought,
+was a very interactive session. I’ve been talking to and
+answering questions from the NextGen. So I think it’s a first step.
+
+Page 15 of 53
+
+EN
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+Okay. Well, you probably have to scroll to the right to the sheet.
+Yeah. All the way across. Yeah. Right there. Good.
+What happens is now there’s a drop-down to select the region.
+Because now we’ve aggregated all of this information, we can
+now see in terms of how many countries in the region, how
+many countries have GAC representatives, how many have
+ccTLD representation in the ccNSO.
+There’s another sheet. I won’t show it today, but the regional
+RALO
+
+dashboards
+
+can
+
+then
+
+automatically
+
+import
+
+this
+
+information, and then you can do comparisons as to which
+countries have ALSes in the ccNSO, ALSes in the GAC, and which
+ones don’t have any. I think those that don’t have any
+representation in the ICANN community probably could be a
+focus, in terms of for CROPP proposals to go to that country or
+territory. So it’s a way of allowing to do an empirical analysis
+and deciding which country is a priority, in terms of trying to get
+new persons from At-Large.
+Any other questions? Oh, I see – okay. I see there’s a queue here.
+Okay. Well, all right. All right. I see Jason, so go ahead.
+
+JASON HYNDS:
+
+Thank you. Great work on doing this. Congratulations to you all.
+Well, two things. You mentioned “we” a lot, and I wasn’t exactly
+
+Page 16 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+clear on who was doing the follow-up outreach conversation, in
+terms of contacting GAC and ccNSO-type country reps and
+encouraging further formation of the ALSes.
+Secondly, I think the initial outreach to people and the sustained
+engagement are almost two different tasks and sets of efforts.
+I’m hoping that we’ll have some stronger strategies for
+strengthening ALSes, not only just creating them. I really think
+that we need to perhaps mentor a lot better within the RALOs,
+and in terms of both the new and maybe dormant ALSes. I’m
+hoping that we have some good strategies for that.
+One other quick thing. You’re getting this data from the staff?
+Because I’m thinking that the announcement on the public page
+and who actually participates might vary sometimes. So you
+have the data of who actually was able to execute the
+Fellowship?
+
+DEV ANAND TEELUCKSINGH: Thanks, Jason. Indeed, one of the concerns is working group
+engagement because I think that’s one huge concern in that the
+working groups, people can volunteer to be involved in
+activities, such as outreach and engagement. We keep
+postponing the discussion on working group revitalization, but I
+think that’s probably an important component. How do you not
+only get persons inside working groups, but also retain them? So
+
+Page 17 of 53
+
+EN
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+that discussion will be happening, most likely on our next
+outreach and engagement call. So that’s one thing.
+The
+
+information
+
+was
+
+gleaned
+
+from
+
+the
+
+Fellowship’s
+
+announcements. We searched back through the archives of
+announcements posted on ICANN’s websites and captured the
+information there.
+I realize there’s a long queue here, but let’s please keep the
+intervention short because we do have other things on the
+agenda. Okay. Let’s go up the table then. Seun?
+
+SEUN OJEDEJI:
+
+Thank you very much. One of my comments had to do with
+tracking lack of ALS presence, which you have already
+responded to. So that is fine.
+When you were talking about the things that you had to do to
+get some of this data, it’s very, very taxing. I’m wondering if,
+perhaps – and I see Janice is in the room – of course there’d be
+some more cordial relationship between this group and the staff
+so that we can get the spreadsheet versions of some of these
+things. Copying from the website and now putting it in a fresh
+spreadsheet before you transfer it is kind of – I think staff would
+have some of this – excuse me – raw data that we can just easily
+make use of. Thank you.
+
+Page 18 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+DEV ANAND TEELUCKSINGH: Noted. Vanda?
+
+VANDA SCARTEZINI:
+
+Thank you. Very interesting, astute. I’d like to raise two points.
+One is I belong to this list that the Fellowship has had since they
+begin, so each one that was in the selection group. And those
+Fellows get contacted all the time.
+But there is one question I really don’t know. I believe that they
+used to send some report on what they are doing and what kind
+of things they are attending. Was not that, Janice?
+
+JANICE DOUMA LANGE:
+
+No. I never told you [inaudible].
+
+VANDA SCARTEZINI:
+
+No? No, they don’t give feedback because in the list sometimes
+they said, “Well, I met in this meeting,” or that meeting or
+something. We could use better this group of information
+because the group is there. We could use better. That’s some
+thoughts that we could explore a little bit more. That’s the main
+point on that.
+One is collect the information. Participate more in those groups,
+and maybe in Facebook. Get some more information more close
+
+Page 19 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+to our points. Yeah. And publish maybe more information about
+what we are doing. Send the links to them. Some kind of better
+of use of what we already have. That’s my point.
+
+DEV ANAND TEELUCKSINGH: Thanks, Vanda. Heidi, I see your hand raised.
+
+HEIDI ULLRICH:
+
+I’m not going to jump the queue.
+
+DEV ANAND TEELUCKSINGH: Okay. Okay, I thought you were going to respond. Okay. Aziz, you
+had your hand –
+
+AZIZ HILALI:
+
+No, I no longer have my hand up.
+
+DEV ANAND TEELUCKSINGH: Oh, okay. Satish?
+
+SATISH BABU:
+
+Thank you, Dev. I think this is a very admirable kind of work, and
+very useful for the future. My comment is regarding the fact that
+as we continue to develop this further, we must also not forget
+that there is a bunch of people who are outside this but are
+
+Page 20 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+nevertheless useful as volunteers. So people who are not
+Fellows, people who belong to countries where there are no
+Fellows, how do we bring them into this? Is that a possibility at
+all? Thank you.
+
+DEV ANAND TEELUCKSINGH: Well, thanks. If they are eligible under the Fellowship criterion, I
+think what we can do is then try to see if there is opportunity to
+have an outreach event that such potential At-Large individuals
+or Structures will be there, and therefore use CROPP to send the
+person there. So that would be my first approach.
+
+JANICE DOUMA LANGE:
+
+Dev, I don’t know who else is in the queue. I don’t mean to jump
+in front of anyone. I know I jumped into this a bit late, but I’ve
+watched the compilation of the statistics that have been
+happening, which is great. I love when people do my work for
+me.
+I’m trying to see the idea of what you’re trying to get from the
+numbers, because obviously at this point there are names
+behind the numbers, not contact addresses. We talked last time
+about trying to do that. I added onto the Fellowship application
+because of conversation with Dev and At-Large so that from this
+point on in the application, part of the acceptance of being an
+
+Page 21 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+applicant is that you accept that your e-mail address could be
+used for contact with ICANN, the same as we do for registration
+here. So that will make it available for me to be able to share an
+e-mail address, where before I didn’t feel that I could do that
+because that wasn’t part of the agreement when you applied.
+But now it will be part of terms for the ongoing application.
+My little pitch for the review in public comment right now for the
+Fellowship application process. For anyone can take a look, it’s
+in its 45-day public comment to look at the application process,
+which includes no longer adhering to an outside entity’s
+developing country list as a first filter to who can be a Fellow,
+which certainly will open up for other underserved and
+underrepresented countries, which is out intent. So those who
+have previously not been eligible to become a Fellow and have
+that be their journey into ICANN now will be able to bring others.
+But your point is taken for me, Satish, in that everybody doesn’t
+come through this path. So we have our NextGen at ICANN,
+which we’re just starting to learn about. If no one knows, it’s our
+sixth round. So this is very new. It’s as new as when Vanda was
+part of our selection committee in 2007 in the brand-new
+Fellowship Program. It took us about three years to get our feet
+under us with that program.
+
+Page 22 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+So the good news is that NextGen has learned, and the
+candidates, the 15 that are here, separate from the five
+Ambassadors, are just blowing the minds of everyone that I’m
+talking to. I just finished talking to Tony Harris and Tony Holmes
+from the Internet Service Provider, and they said, “Oh my God.
+Where did you get those 15?” I said, “Yeah, Debbie had to dig far
+and wide.”
+There’s an amazing pool of individuals coming in through
+different avenues, but if they’re not in a structured program, it’s
+really difficult to capture them. I think that’s something we all
+really need to work on. It’s easy when we bring them in and
+there’s a sheltered path and we can bring them to the table. We
+need to do a better job of retaining those individuals, for sure,
+but they’re the easy catch.
+So what I really want to work on with our Global Stakeholder
+Engagement Team, now that Fellowship and NextGen are under
+Sally Costerton starting now and working closely with the Global
+Stakeholder Engagement Team, is that we all develop some
+programs together of how to get these other newcomers. How
+do we keep them at the table and not at the back of the room,
+and how do we make them excited and engaged and get them to
+take these spots? Because the other ones are easy. They’re going
+to be easy targets because I have good communication with the
+alumni base. Deb has good communication with the NextGen.
+
+Page 23 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+But it’s that next group that I really want to get encouraged, to
+how we can get them and excite them and retain them. So
+anything I can do to help to that extent from outreach and inreach, I’m more than happy to sign up and help out here.
+
+DEV ANAND TEELUCKSINGH: Thanks, Janice. We do have, actually on the agenda, some initial
+review from Glenn on the Fellowship Program, so we can
+probably go into some of those slides next.
+Heidi, you have a quick intervention?
+
+HEIDI ULLRICH:
+
+Just very quickly. Thank you, Dev. Just I want to comment or
+support what Seun said about the efficiency of the data
+collection. Maybe this group can explore more efficient ways of
+gathering this information.
+The second point is sort of what Janice is saying. We have all this
+great information here, but I think perhaps the next steps would
+be to explore how to build the bridges with these fantastic
+people that we now have, and the Fellows, and the NextGen, and
+the other people, and the build those bridges within At-Large at
+the regional level. Have the outreach, the direct connections
+made, at that level, as well as the working groups. So really that
+
+Page 24 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+next step on that stakeholder journey is that they’re at the door.
+Open it and welcome them in.
+
+DEV ANAND TEELUCKSINGH: Absolutely. Okay. Daniel?
+
+DANIEL NANGHAKA:
+
+Thank you very much, Dev. When we look at the Fellowship
+Program and the NextGen Program, it’s truly a great program,
+but I think the challenge that we have is how we follow up after
+the program. When they go back to their countries, how are we
+going to get them engaged? How do we get them into the
+respective working groups? And how are they catching up with
+the whole process?
+There are platforms like ICANN Learn. Probably the new Fellows,
+before they probably come to the meeting, begin to go through
+this service of the lessons on ICANN Learn and get acquainted.
+After getting acquainted with the lessons, then when they come
+in, they begin to see the different working groups in action. After
+they have seen it, are they willing to participate in this? Because
+according to the database, there are Fellows that are there, but
+what is their level of engagement? Thank you. Back to you, Dev.
+
+Page 25 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+DEV ANAND TEELUCKSINGH: Okay. Thanks, Daniel. By the way, I know that there’s some
+slides up regarding the Fellowship Program. I’m wondering
+whether – oh, is there a…
+
+UNIDENTIFIED FEMALE:
+
+A comment from Chris.
+
+DEV ANAND TEELUCKSINGH: Chris? All right. Go ahead.
+
+CHRIS MONDINI:
+
+Hi. It’s Chris Mondini. I work on the Engagement Team with the
+colleagues you’ve heard from and many of you. I briefed this
+group at the last meeting about some of the work we’re doing to
+study what we call the stakeholder journey and think of a
+framework of how to convert the newcomers into more active
+participants and policy-makers. I’m really inspired and humbled
+by a lot of efforts that you make that we’ve been able to team
+on.
+I do want to introduce a little bit of a concept of a paradigm shift
+as well though, and I think it echoes the last comments. I came
+in a little late, so apologies.
+The At-Large Structures have such an incredibly important role
+in the regions for building the ICANN community in their regions
+
+Page 26 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+and in their location. I think very often we have had, when we
+were smaller and in our development stages, a paradigm that
+seemed to state that being part of the ICANN community or
+participating in ICANN policy-making required coming to an
+ICANN meeting and showing up and making friends and bonding
+and all of that stuff, which is very important to cohesion in the
+community.
+But as we scale and as we become more global and more
+diverse, shifting the paradigm to have a little bit more of a
+hybrid approach, where remote participation, participating in
+working groups remotely, participating in review teams,
+conducting readout sessions in your local communities of what
+happened at ICANN 56, and growing the sizes, even, of your
+ALSes as you increase the number of ALSes, I think this is going
+to be a really crucial part of ICANN’s future. The budget and its
+capacity to make meetings any bigger or more inclusive is
+rapidly reaching its limit.
+So I just wanted to introduce that as well, because we have a few
+remote champions who really are very active. We don’t get to
+meet them in person, but we know them very well remotely. I
+think this is going to be a little bit more of the future of how
+ICANN gets its policy work done.
+
+Page 27 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+So of all of the issues that you’re talking about, I just wanted to
+add that color as well. Thank you.
+
+DEV ANAND TEELUCKSINGH: Thank you, Chris. I think I believe that in fact there’s been a new
+approach and a website launch, and a video even, targeted
+towards newcomers, to try to get them onto that stakeholder
+journey. Perhaps if you have time, we could probably show that
+page afterwards. But I know now we’ve spent quite a bit more
+time on this agenda, so –
+
+UNIDENTIFIED FEMALE:
+
+[inaudible]
+
+DEV ANAND TEELUCKSINGH: Maureen?
+
+MAUREEN HILYARD:
+
+Sorry. I’ve just been listening to everyone, and the comments
+have been really excellent. I just wanted to bring up that, when
+we were initially establishing the database and collecting the
+information, it was really to create a resource and coordinate
+information that was already within the system. But it wasn’t
+coordinated in a way that we, as a group, looking at the end
+users – we wanted to see where all those end users were, and
+
+Page 28 of 53
+
+EN
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+the information was already within the system. We just needed
+to coordinate it.
+One of the things, too, is that we’ve found that, and has been
+revealed here, everybody uses the information but has got their
+own uses for the information that has been collected. I think
+that, too, for us, our initial uses were related to these sorts of
+information that we needed in relation to what we were doing in
+ALAC and ccNSO.
+One of the things, too, that really has to be kept in mind is for
+the outreach and engagement working group that we are,
+there’s been a change in what our focus is too, especially with
+the meeting formats, so that the intentions that we had
+originally with regards to the starter base and important
+information has now probably been put on the back burner a
+bit,
+
+because
+
+we’re
+
+looking
+
+at
+
+meeting
+
+formats
+
+and
+
+outreach/engagement activities to do with meetings and things
+like that.
+So it’s not to say this isn’t important, because it is. The
+information and Fellowship information, all that sort of stuff, it
+will be collated later on. Thank you.
+
+Page 29 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+DEV ANAND TEELUCKSINGH: Okay. Jason, you have a quick comment? Keep it brief, please,
+because we do have other items on the agenda.
+
+JASON HYNDS:
+
+Yes. I hope that Chris’s comment was a commitment for
+resources enabling these remote participations a lot more. I
+think that is so important, so I loved his contribution.
+
+DEV ANAND TEELUCKSINGH: Thanks, Jason. Okay. Let’s move on to the next item – oh, Tijani.
+Tijani. All right, Tijani. And this is the last intervention.
+
+TIJANI BEN JEMAA:
+
+It’s very short. You spoke about the NextGen. It should be the
+next version. I don’t want it to be mixed because the NextGen is
+another kind of population, and they have other kinds of
+treatment. So please don’t mix them.
+
+DEV ANAND TEELUCKSINGH: Noted. So let’s move on to the next item on our agenda. This is
+going to be regarding the Fellowship Program. ICANN’s
+Fellowship Program is out for public comment.
+Next slide. You don’t need to share the screen anymore, so you
+can go back to the slide. Glenn McKnight has actually done a
+
+Page 30 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+preliminary review, and he’s put together some notes that he
+wants to share with us.
+Glenn, you have the floor.
+
+GLENN MCKNIGHT:
+
+Thank you. I was given 20 minutes. I don’t think I’ll need that
+amount. Okay. As we’ve discussed at the very beginning, we’re
+not dwelling just on the Fellowship Program, but I think it’s
+important to bring this up because the Fellowship Program is
+under review. As you can see, we’re asking for the community to
+give comments back by July 29th for public comment, and that’s
+the link to the public comment.
+Next slide, please. Okay. Going through the documentation that
+was provided, there’s three documents on the page. One of the
+first things that historically the program has been, when they
+looked at who was eligible for the Fellowship, they looked at the
+World Bank income indicators for the candidates. What we’re
+looking at now is a shift in terms of definition to the
+underserved, the underrepresented communities around the
+world, without restriction based on geographical location, which
+is a huge shift.
+I need to mention this, and Judith is beside me, and Garth on the
+other side, as members of NARALO – and I’m sure other people
+
+Page 31 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+in EURALO and APRALO that are excluded from the Fellowship
+historically, and you won’t see them on that list that we talked
+about earlier.
+We’ve been advocating not for everyone in those countries, but
+we were particularly interested in the tribal organizations,
+meaning indigenous or First Nations or sometimes they’re called
+Indians, in North America or South America, or Aborigines. We
+are looking at those people, and we were advocating on behalf
+of them to be part of the Fellowship Program. I think, if you look
+at the documentation, you’ll see all through it that I believe
+we’ve accomplished that task. And oftentimes, the term is called
+“creed.”
+Next slide. We’ll see, in the priorities, diversity, including gender,
+sector, region, experience, interest, expertise – a new category –
+indigenous. We’re looking at a real onus on a change into more
+diversity. Again, I’m giving you my personal perspective on here
+with NARALO.
+We also have 15 US territories, and that’s part of the legacy of
+U.S. history, including islands like American Samoa or [Gilbert]
+Islands and a number of very small islands. But those two in
+particular have never been eligible for the Fellowship Program.
+In fact, there’s some great articles on American Samoa, which
+has I think one of the highest costs of Internet access and a very
+
+Page 32 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+high unemployment rate. But we hope that, with this outreach –
+because we do not have any ALSes, in many ways because of
+geography it doesn’t make a lot of sense for them to be part of
+our NARALO community because of the time zone difference. It
+really makes more sense that they’re part of –
+
+UNIDENTIFIED FEMALE:
+
+APRALO.
+
+GLENN MCKNIGHT:
+
+Sorry?
+
+UNIDENTIFIED FEMALE:
+
+APRALO.
+
+GLENN MCKNIGHT:
+
+Yeah. I was going to say that. APRALO. Okay, next slide – oh,
+sorry. Back to the last slide I jumped over.
+There is a category, non-gender category, which not everybody
+is hip to, but it’s a category we may want to look at. And of
+particular interest to Judith, beside me, is people with
+disabilities.
+Next one. Again, giving back to the community, it’s
+recommended that the alumni give back by volunteering,
+
+Page 33 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+coaching, and involvement, which we believe they have been.
+We don’t really know, because all we did was the database.
+Janice’s team, I’m sure, has great information about getting
+involved in terms of the legacy with At-Large and its leadership,
+or even just the working groups. One of the things that Judith
+just handed me is an example of trying to get people involved in
+the captioning project that we had successfully sponsored by
+ICANN.
+Clearly some individuals have been repeat Fellows, and they’ve
+been active. But we really don’t know how many. And we don’t
+know why certain people just disappear, and that’s another
+issue. We don’t know a lot of these answers, and it’s anecdotal.
+Next one. Okay. In comparison to other grants, I believe the third
+document in that pool of documents there, they actually do a
+comparison of grant programs. You’ll see that there’s a wide
+range of how different groups actually define who is an
+applicant. Sometimes they define it by age. For example, I
+believe the IETF Fellowship Program is age-limited. I think the
+ISOC Ambassador Program is age-limited.
+So there is quite a range on how to do this program in the future,
+so we really encourage you to take the opportunity to give input
+into the – this is our opportunity now to make changes. We want
+more transparency and more disclosure on the future Fellows. If
+
+Page 34 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+you have any experience with other grant programs, how they
+did and how people are successfully brought through the
+process, this is the time to share your knowledge.
+Next slide. Okay. As I stated, the current composition of the
+Fellowship Committee is five members representing Asia-Pacific,
+Europe, Africa, Latin America, and Western Asia. An action that
+I’m suggesting is we include the underserved communities on
+this selection committee as me move forward. Perhaps if
+indigenous people are included into it, that a person from the
+indigenous community or the US, Canada, Australia, or others, it
+would help in the process of giving their feedback on future
+people in the program.
+Next one. Okay. Item number 6, Fellowship and capacity
+building. The goal of the program, the global participation of the
+Fellowship Program, aims to build capacity for the multistakeholder model. Using a results-based management tool of
+outcomes and return on investment for the program, we can
+have tangible proof that the goals of the program has built
+capacity. That’s clear. There’s a substantial amount of
+investment. What is the results?
+I think we need that information to give back to the community.
+We started this process, but we need a lot more work. Clearly in
+some regions we have seen a link between Fellows, alumni,
+
+Page 35 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+mentors, and active At-Large members, as I started earlier in this
+meeting. But I don’t think that we’ve gone far enough in terms of
+the analysis. We want to know why we’ve lost certain people.
+How do we turn somebody that’s a passive observer to an active
+member within our community?
+Okay. Next slide. Back to you.
+
+DEV ANAND TEELUCKSINGH: Thanks, Glenn. Thanks for doing that preliminary analysis [in]
+the comments. I see a queue. Okay, let’s keep the interventions
+short because we do have more to tackle – our next agenda item
+regarding outreach activities in ICANN 57. Siranush?
+
+SIRANUSH VARDANYAN:
+
+Thank you, Chair. Actually, I would like to bring one point here
+related to outreach and connection with the Fellowship. Just an
+example, in APRALO, out of six leaders, there are Fellows. So
+they came from the Fellowship family.
+I would say that if a Fellow comes to the At-Large meeting, he
+may get nothing from the discussions here, especially if this
+person is there for the first time. What our team did, we usually
+go ourselves to the Fellows. We are trying to find out initially the
+people are from Asia-Pacific and contact them in person
+because they might not know us.
+
+Page 36 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+Just as an example, for the last one or two years, out of eight or
+nine new ALSes, the majority of them came as an ALS due to our
+connections in person to them, going and catching them up and
+just showing how to become an ALS, showing the way, because
+this is really difficult for them to find out by themselves. So there
+is a need for us going to them, because it’s really difficult for
+them to come to us because they are not familiar with this.
+So it depends on the outreach efforts, which every RALO can do.
+I’m sure Fellowship staff there is really very supportive and
+open, and Fellows are really brilliant people there. So you may
+find a lot of them. Thank you.
+
+DEV ANAND TEELUCKSINGH: Thanks, Siranush, and, indeed, very good points. It’s really the
+human follow-up and direct contact with those Fellows that can
+turn them from passive to probably then becoming more active.
+Aziz, and then the other person in the back there.
+
+AZIZ HILALI:
+
+I’m going to speak in French. Okay. I’d like to thank Glenn for his
+analysis. He spoke a lot about populations that were situated in
+faraway places.
+
+Page 37 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+I’d like to repeat something that I already said one year ago
+about the criteria that we use for the Fellowship and for Fellows.
+Before, it was an online form that the applicants could use, but
+I’d like to have some work done before those persons – because
+I agree with you: Those people are excellent. We saw it in
+Marrakesh. We can see it here. But if one of those Fellows came
+in the middle of the discussion we had this morning about the
+criteria of how to select our selection committee, this Fellow
+would leave immediately because it was a very boring
+discussion.
+So I want to answer here the question of why people don’t want
+to come to ALAC meetings. Well, this is first. Then, secondly, I
+regret that people from ICANN are not here because – my
+proposal is, why don’t we – I will repeat what I said so you can
+follow.
+The applicant can use the online form. Sometimes you don’t
+know if it’s the same person who applies through this form. I’d
+like to have more work with outreach work. I’d like to know how
+we can work with these people in how to explain to them what
+the SO and AC are so these people are trained and can have a
+better – after this capacity building we can give to these
+students or to these Fellows. In Marrakesh, for example we gave
+them some capacity-building so they knew what ICANN was and
+what Internet governance was. They were my students.
+
+Page 38 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+So their intervention, for those who were there, when they spoke
+they were – we worked in the Marrakesh University with [Daniel]
+and all the team of ALAC, and it was very interesting to work with
+those students. They were very well-informed about ICANN and
+about our work. So we can improve the participation of this
+person, because the person already knows the ICANN system.
+How many among us have already understood all the ICANN
+structures and after how many meetings? In my case, it was after
+some meetings.
+I also want to speak about the Marrakesh experience, which was
+a very good experience, I think. This experience we had in
+Marrakesh with those students was very good. If we do that
+every time we have a meeting in Africa or in Asia or in North
+America, if we can work with people, invite those people, it’s
+cheaper for us.
+I’ve invited 60 students, and it cost $3,600. It was cheap. It is
+cheap to invite students and give them some capacity building
+and try to work with those Internet experts and do capacity
+building with them so they can understand better the challenges
+of the Internet and Internet governance in general, and to know
+who is really interesting to work into ICANN because, as you
+said, some people are really excellent. They are in the Fellowship
+Program and then they disappear.
+
+Page 39 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+DEV ANAND TEELUCKSINGH: Thanks, Aziz. And, actually, you kind of summarized what
+activities I would have done in Marrakesh. We can now, when we
+go to discussing, what the outreach activities in ICANN 57. We
+already have an idea from what was done before. Thanks for
+that.
+I noticed somebody wanted to respond in the back here.
+Quickly, though. Then this person.
+
+RAO NAVEED BIN RAIS:
+
+I’m an ICANN Fellow and an ICANN coach and, to some extent, I
+belong to the leadership of the Fellowship Program. I did for
+Marrakesh. Basically in the Fellowship Program, for the last one
+year or so, we’ve had a coaching program that prepares the
+Fellows to come prepared for what ICANN is. I just wanted to
+respond that there has been an effort that is allowing us to get
+the Fellows prepared, to get them to know what ICANN is, what
+it does, what are ACs and SOs, what are different constituencies,
+and all that. There’s a margin of improvement, and we are
+working on that right now, but the process exists.
+But what I feel is missing as far as the At-Large is concerned – I
+belong to an ALS structure as well. I’m President of ISOC
+Islamabad chapter, which is an ALS. What I feel from a Fellows
+
+Page 40 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+standpoint, there is something that is missing is. When you
+reach to the Fellows, they are unable to understand how to get
+engaged into ALAC, and this part is still missing. They don’t
+know how to join. They’re only told, “Okay. You need to be in an
+ALS to join or to be part,” and they find it very complex, very
+hard to do. There has to be a way to make them onboard
+without going through all those parts.
+Somebody was saying before – I guess Tijani was saying that it is
+easier for them to go to the NCSG. Yes, because there’s a direct
+way of joining them. There’s just an online form that they fill
+while being here. That gets approved even during the meeting,
+and they find it easy to join them. So At-Large needs to come up
+with something like this so that people feel more comfortable. I
+agree with Siranush. Go and talk to them is very helpful, but we
+need to find alternate ways to do that as well. Thanks.
+
+DEV ANAND TEELUCKSINGH: Okay. Thanks. Thanks for that intervention, actually. Actually, I
+would like to follow up with you after this session because that
+was one of the things we tried to with the NextGen presentation
+– and this other thing, how to join, was more like how to engage.
+I’d like to get your feedback as to how that worked or didn’t
+work as well.
+
+Page 41 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+We have a speakers’ queue here. I see that – oh, five minutes. All
+right. I’ll tell you what. Let’s see if we can just quickly – because I
+know there’s some statements that need to be made on this
+agenda item. So I’d like to just go to this quickly. All right. Glenn,
+you have –
+
+GLENN MCKNIGHT:
+
+I’m sorry. The discussion has gone back to the first, and you
+ignored my slides. I’m going to stress it again. I was talking
+about the changes. I want to you encourage you to look – this is
+our opportunity to make it better. This is our opportunity to
+come and give suggestions, and I believe they’re listening. I
+don’t know how many of you in this room have given comments.
+You have some time. So what I talked about is from my
+perspective of how we were not part of the process, and I’m
+excited to see us being part of the process, because I think and I
+know that there is a direct path, if we do it right, to getting
+Fellows to become active members in the RALOs.
+So I’m excited to see the changes. I’m excited to see more
+people with NARALO because most of us are getting older. We
+don’t have a lot of younger faces, so we really want to encourage
+– in fact, Judith is the youngest one that we brought in. I’m not
+laughing. She is. Okay? Judith, I didn’t laugh.
+
+Page 42 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+JUDITH HELLERSTEIN:
+
+[inaudible]
+
+GLENN MCKNIGHT:
+
+Thank you.
+
+EN
+
+DEV ANAND TEELUCKSINGH: All right. I know there’s a whole speaker queue, but I know that
+we have something just to mention regarding the planning of
+outreach activities for ICANN 57. I just want to tackle that first,
+and then come back. We could probably even give the
+interpreters a break and then continue the conversation.
+Let’s just move to just bring up the slide here, the next slide. It’s
+just two key points. It’s going to be held in Hyderabad, India, and
+is the Meeting C format. So it’s from Thursday the 3rd to
+Wednesday the 9th. That’s a fairly lengthy meeting, and therefore
+a lot more opportunities for potential for multiple outreach
+activities.
+I know that APRALO, given that it’s going to be in the APRALO
+region, has had some preliminary discussions, and perhaps
+someone would be willing to take the floor to just say a few
+words as to some of the ideas or thinking? Siranush?
+
+Page 43 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+SIRANUSH VARDANYAN:
+
+EN
+
+Thank you, Chair. There was no other way than it should be in
+Asia-Pacific for this long meeting. So always good there. We had
+the chance to meet with our leadership team here in Helsinki
+and to discuss because, really considering this short notice, we
+have a lot to do on our plate.
+There were some discussions related to connection with the
+NextGen, which will completely consist of Asia-Pacific
+representations. So representatives will be from Asia-Pacific.
+There will be some activities related to NextGen.
+We also talked about those two young people who can be
+Ambassadors from NARALO, actually the Board approved their
+request to have two Ambassadors. It was planned that those two
+Ambassadors should be in Puerto Rico as NARALO, so they will
+be coming to Hyderabad. We will focus also those two people to
+be a part of this outreach and engagement component for us.
+We also talked about inclusiveness. This will be probably one of
+the highlights of outreach and engagement in Asia-Pacific, to
+involve NGOs – Satish has a lot on his shoulders now to go back
+to India and work on that. To involve NGOs who will make this
+meeting inclusive. So this is another area where we started
+already to think.
+Satish gave an update a couple of minutes ago that there is
+potential that the Indian government, whom Satish sent the
+
+Page 44 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+proposal to on behalf of APRALO to support ALSes, of which
+there are six based in India, to get funding from the Indian
+government to be in Hyderabad. So this is almost in the process
+of approval, and we are expecting the final yes from the Indian
+government. Yet there are also opportunities to discuss with the
+government the outreach aspects and engagement in
+Hyderabad.
+So these are just the global discussion aspects which we had
+time to do in person here, but a lot is expected and a lot will be
+started right after the Helsinki meeting. So that’s much from my
+side. If someone from APRALO would like to add, please.
+
+DEV ANAND TEELUCKSINGH: Thanks, Siranush, and, indeed, very good points there. I was just
+taking notes there. So you have to involve engagement with the
+NextGen. The RALO Ambassadors are also going to be coming,
+so there’s an opportunity to do outreach to them; involving the
+NGOs from the area, in Hyderabad; and also potentially getting
+funding for all the six ALSes to be attending the face-to-face. I
+think that’s an excellent, excellent thing.
+Satish?
+
+Page 45 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+SATISH BABU:
+
+EN
+
+Thank you, Dev. To add to what Siranush has mentioned, while
+the NGOs [and not ALSes] six of them are in Hyderabad with us.
+There was this question that was raised by Heidi as to what
+they’re going to do when they come to our meeting. Is there
+anything specific we can provide for them?
+I wanted to [inaudible] Tijani, asking if there’s a capacitybuilding session that can be planned for them. Maybe even
+some of us who are there from other regions can join in. So that
+is one possibility.
+Second is that the Government of India seems to be supportive.
+The point is that if there is anything specific we want out of
+them, we have to inform them in advance. Yesterday, there was
+this get-together in the Indian Embassy, where I spoke to the
+Secretary. As Siranush mentioned, they are supportive. There’s
+one person earmarked for this purpose in Hyderabad. Here’s a
+very senior person in the government, and he told us, “Whatever
+you require, you tell us in advance, and we will make any
+support that is required.”
+Now, there’s also some expectations from their side. They would
+like some of our experts to address students in the universities.
+Hyderabad has got a lot of universities. It’s a university city.
+From their side, even if we don’t have it on our agenda directly,
+they would like us to address the local student community with
+
+Page 46 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+our experts. So it doesn’t have to be ALAC alone or At-Large
+alone. It could be any other part of ICANN as well.
+The other point is that we have also NGOs, activists, potential
+ALSes who we can be brought in at this point. So we have to
+basically define what we would like out of this proposed
+interaction [inaudible]. Thank you.
+
+DEV ANAND TEELUCKSINGH: Thanks, Satish, and – okay, sorry.
+
+[IVA]:
+
+[inaudible] from ISOC India [inaudible] ALS. I would like to add
+to Satish’s observations so that some of the points could also be
+highlighted in the communication to the Government of India.
+One is the environment of funding for NGOs in India, which are
+restrained. Whenever there is some foreign funding, the NGOs
+are questioned or restrained from receiving and utilizing the
+funds. In that context, it becomes very important that funds for
+ALS participation come from the government from India. So,
+highlighting that point, we could say that, for NGO participation,
+government should make funds extensively available.
+Second, the observation about student participation. There is a
+tendency – I don’t say that it has happened conclusively. There
+is a tendency to bring in students from the local colleges in large
+
+Page 47 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+numbers who don’t have any idea of what ICANN is about, what
+the Internet is about. Rather than that, we can utilize this
+opportunity to approach the premier institutions, like [IAP] and
+[IAM] and select students for participation, kind of a rough
+selection process to determine their inclination to participate in
+the Internet and Internet governance. And then properly orient
+them. Orient them well in advance so that they take part as
+relevant participants. So these are the two points.
+
+DEV ANAND TEELUCKSINGH: Thanks, [Iva]. Aziz, you wanted to make a very brief intervention,
+but I just want to caution that the interpreters need to take a
+break.
+
+AZIZ HILALI:
+
+As far as the experiment in Marrakesh, just one point. You need
+to be careful. If you bring a lot of students, you need to plan
+spots. It was really impossible to integrate them into a room,
+and that was difficult in Marrakesh. We actually had to plan a
+spot. We talked to the university. We transported them there,
+and we brought ALAC experts to present to them there and to do
+the outreach activities there.
+
+Page 48 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+DEV ANAND TEELUCKSINGH: Thanks, Aziz. That’s a very good point in terms of if we bring too
+many students, how do we then really engage with all of them.
+So that’s a very good point.
+Well, we’ll let the interpreters go, but let’s continue very briefly
+again because we are going over time. So please be mindful. We
+are going to be without interpretations.
+Siranush?
+
+SIRANUSH VARDANYAN:
+
+Thank you. I would like to thank Aziz for this intervention. Yeah,
+we have talked about this. In parallel with having NextGen, who
+are already students with their age, we may not go both for
+NextGen and students, because it’s really hard, as you said, to
+bring students from other universities and make them involved
+and integrated during only one or two days.
+So this is a challenging part, and we really do not have too much
+time for prep work. Thanks for your experience sharing here. We
+really rely on AFRALO experience for NGO integration and
+capacity-building stuff, so we are looking forward to that.
+
+DEV ANAND TEELUCKSINGH: Okay. Thanks, Siranush. Okay. I know we have gone quite a bit
+beyond time, but I do want to skip some interventions. I know
+
+Page 49 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+some persons from the NextGen wanted to say a few words, so I
+think it’s important to hear what they have to say.
+The gentleman there, please introduce yourself.
+
+SONIGITU EKPE:
+
+I’m not in NextGen, but I’m [inaudible]. This is my first time. My
+reaction is to the presentation he did on the feedback approach.
+If I might add, if people are brought to participate in meetings
+during the Fellowship, then there is a need for a follow-up. So
+within even countries, just like he’d mentioned in the Americas,
+where you have some exclusion due to the terms they have put –
+but if Fellows have returned back to their country and they carry
+out outreach, by right, we are supposed have a database where
+this feedback can be documented.
+Then when Fellowships are considered, they should also
+consider the geographical spread within countries. There are
+specific countries that you find out that the geographical spread
+of the Fellowship concentrates on one section. It’s really not fair.
+If a country has about four geographic regions, as in west, east,
+north and south, and it’s only the south that goes or not, it’s not
+fair. It’s not a good spread. That should be taken into cognizance
+because with Google you could be able to see the point where
+Fellows are already mounted.
+
+Page 50 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+The next issue is about remote participation. Most times, people
+are willing to participate remotely. But keeping them for a long
+time without having a tea break is not really beneficial, or it’s
+not attractive. So people didn’t want to organize a [inaudible]
+during the Marrakesh event. I knew it’d cost me keeping them in
+the hotel from morning to evening for the days they wanted us
+to [inaudible] without a tea break or something. Thank you.
+
+DEV ANAND TEELUCKSINGH: Thanks for that. And I believe it was – yeah. Please identify
+yourself.
+
+JELENA OZEGOVIC:
+
+Hello, everybody. I’m a NextGen Ambassador this year. This is
+my second ICANN meeting. I wanted to follow up. I have an
+impression that, for the people to join into ALAC, they ought to
+be interested in policy making, maybe some general stuff,
+because we as NextGens, as Fellows, have a lot of people who
+are interested in tech. And I don’t think that they will be pretty
+much motivated to be involved into ALAC.
+So my idea is to just research and just join and just do some
+additional interviews about people who are NextGen and
+Fellows about what they’re interested in. Especially tackle those
+who got lost in the process and aren’t feeling secure enough and
+
+Page 51 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+don’t have a clear idea where they see themselves in ICANN.
+Thanks.
+
+DEV ANAND TEELUCKSINGH: Okay. Thanks. Just to very briefly respond, there is an At-Large
+Technology Task Force session at 8:00 A.M. I believe it’s in this
+room tomorrow. So if you’re interested in technology, there you
+go. There’s something of interest to you.
+Okay. I think we can – very brief intervention because, again – I’ll
+just mentioned again that I just want to thank the interpreters,
+and I got to make sure that they stop interpreting so they can
+take a break. But we can continue the recording. So thanks
+again to the interpreters.
+
+ADEEL SADIQ:
+
+Maybe if I’m not wrong, it has been like three years and eight
+ICANN meetings since the NextGen Program was launched. So if
+you are discussing anything about the Fellowship here on the
+screen, I would really appreciate that, from the Hyderabad
+meeting onward, you will put a few slides about NextGen as well.
+Thank you.
+
+Page 52 of 53
+
+HELSINKI – ALAC Outreach and Engagement Subcommittee
+
+EN
+
+DEV ANAND TEELUCKSINGH: Okay. Noted. Glenn, you probably have one more comment to
+say?
+
+GLENN MCKNIGHT:
+
+Yeah. We did not intend this to be a full discussion on the merits
+or problems with the Fellowship Program or the NextGen. The
+whole purpose of this working group – and Olivier is down at the
+other end for EURALO – and it’s only relatively recently that
+we’ve really reached out to the Fellows and NextGen and made
+them aware, having meetings. It was largely ignored. I think
+we’re making up for lost time. So please be patient with us. We
+want to engage with the community. I believe it’s a fantastic
+community for us to be involved with. Thank you.
+
+DEV ANAND TEELUCKSINGH: Thanks, Glenn. On that note, I’d just like to thank the tech
+support staff for this session. Please follow up with us. In fact, I
+actually plan to talk to many of you. I know that not everybody
+had a chance to give their inputs, but there is opportunity
+actually to come on the next call and of course continue the
+discussions there. So I’d like to thank everyone for the
+interventions. It was very interesting conversations. This session
+is now adjourned. Thank you all.
+[END OF TRANSCRIPTION]
+
+Page 53 of 53
+
+

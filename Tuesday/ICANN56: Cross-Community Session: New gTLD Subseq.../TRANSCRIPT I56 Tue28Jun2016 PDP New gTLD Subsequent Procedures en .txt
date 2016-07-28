@@ -1,0 +1,2304 @@
+EN
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+Tuesday, June 28, 2016 – 17:00 to 18:30 EEST
+ICANN56 | Helsinki, Finland
+
+AVRI DORIA:
+
+If I can ask people to find their seats.
+
+We've got such an
+
+incredibly packed program that we really need to start or we'll
+never get it all in.
+Wow, and they got quiet.
+Okay. My name is Avri Doria. I'm one of the co-chairs of the New
+gTLD Subsequent Procedures Policy Development Process
+Working Group. That is a mouthful. And basically welcoming
+you to this cross-community discussion on the New gTLD
+Subsequent Procedures Working Group work.
+I'm going to start here with some introductions, and then we're
+going to go to have a status update.
+Can we have the slide moved to the next one, please, that gives - yes.
+So starting with an introduction here.
+Now, the first thing in the introduction I wanted to say is, first of
+all, these microphones, except for the ones on the front desk,
+are not on. With the Cross-Community Working Group, there's
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+these (indicating) microphones and there are wonderful people
+roaming around with these microphones with numbers and all
+kinds of stuff, and you can see them if you turn around; that
+when it comes time to speak, they'll come to you with a
+microphone. So these microphones (indicating) except for the
+front have is not been given a privilege.
+The other thing I'd like to ask is to sign into the Adobe Connect
+room and you'll find that there is a -- two questions down at the
+bottom, one on affiliation and one on knowledge of topic. And
+this is part of the cross-community effort to sort of understand
+who is in the room. I'll try not to use the word "audience"
+because we're trying to make this participatory, but who is in
+the room talking about the issue, so that there is a better notion
+of the mix.
+Okay. So in terms of the program, once I finish this quick bit of
+introductions, Jeff will give a -- Jeff Neuman, who is one of the
+other two co-chairs -- well, there's three co-chairs, but I'm one of
+them, so the other two. The other one is Steven Coates who
+can't be with us because he's doing NomCom duty. So Jeff
+Neuman will then go through the status of the program and give
+an update.
+And then we're going to go into a discussion of topics that were
+of broad community interest. And these were topics that the
+
+Page 2 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+people in the working group thought of some, but people in the
+other ACs and SOs basically brought up these topics as being the
+topics of interest.
+So we will have topics that we will go through, and this will be
+the order in which I'll go through. We'll be doing CrossCommunity Working Group on the use of country ask territory
+names, and Heather Forrest will be talking about.
+Then we will have okay. I have to get it in front of me because it
+was more than I can remember. Then competition, consumer
+trust and consumer choice review team, which Jonathan Zuck
+will be speaking on. Then community applications Mark Carvell
+will be speaking on. Promoting applications from underserved
+regions and developing countries Cheryl Langdon-Orr will be
+speaking on. Geographic names and other names of public
+interest Susan Payne will be speaking on. Safeguards, public
+interest commitments, PICs, Alan Greenberg will be speaking. I
+don't know if he's here, but he'll hopefully be here by that time.
+How can implementation work proceed in parallel with policy
+development, Jeff will be speaking on that one again. And
+streamlining the .brand process, Jeff will also be covering that
+one.
+Now, in terms of the speaking, just to give this a brief
+introduction, they will make a few comments. We've asked
+
+Page 3 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+them to keep the comments to a minute or so, and then they will
+basically be moderating a conversation with you all for a few
+minutes on those issues. And this is experimental so we're going
+to see how this really works.
+And then we're going to talk briefly about the next steps and the
+meetings that we still have coming up tomorrow on this issue.
+So having started that, and we have -- I guess it's time to begin.
+So, Jeff, can I get you to do the status update?
+
+And it's
+
+microphone 6.
+
+JEFF NEUMAN:
+
+Okay. Let's test this out. Is this working?
+Okay. I'm going to actually stand up. I don't want to hear any
+jokes. I can hear them coming.
+[ Laughter ]
+But I thought it would be better, you know. It's the last session
+of the day. Everyone is tired. Everyone is ready to go to a bunch
+of pretty cool receptions that are after this. I don't think I got an
+invite, but I think they're happening.
+So I'm going to introduce -- if we can go to the next slide, a little
+bit, some introductory slides so we can just kind of set the tone,
+and then we can go into the real meat of the discussion.
+
+Page 4 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+This is supposed to be for feedback. So just a little bit in the way
+of background.
+We're a policy development working group of the GNSO, and this
+actually got started in June of 2015. There was a discussion
+group that was created to talk about the many issues and kind
+of scope out the work of a policy development process.
+And finally, on June 24th, 2015, the council requested a
+preliminary issue report. Preliminary issue report was published
+for public comment, and there were a number of comments.
+The GNSO Council initiated the policy development process in
+December of 2015. In January, there was a charter that was
+approved, and finally in February we started to meet on a
+weekly basis, this working group, and we've been doing that for
+a number of months now, and I think it's been a great
+experience so far and we're really just starting to get into the
+meat of our work.
+Steve, if you want to go to the next one.
+So, really, the role of the PDP is to determine what changes, if
+any, need to be made to the original policy that was back in
+2007. In 2007, which is, if I do my math correctly, nine years ago,
+almost exactly nine years ago, in fact, if not a little more, I'm
+trying to remember the month, the GNSO said that we should
+
+Page 5 of 69
+
+EN
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+have a predictable process for the introduction of new generic
+top-level domains.
+
+And that policy recommendation was
+
+established -- was actually approved by unanimous -unanimously by the GNSO Council and ultimately was approved
+by the board.
+That policy still remains in effect. So judging from the -- you
+know we're a bottom-up policy development process, a
+multistakeholder organization, so absent anything to the
+contrary, we will have additional new gTLDs. That's important.
+So we're now talking about what potential changes can be made
+to the process that was ultimately implemented in 2012.
+So potential changes, the scope of this working group, we could
+talk about potential changes to clarify that process that
+happened the 2012 round. We can amend that process, we can
+override
+
+that
+
+process,
+
+we
+
+can
+
+develop
+
+new
+
+policy
+
+recommendations, or we can supplement and develop new
+implementation guidance.
+Let's go on to the next slide.
+So what are we currently working on? The first thing we did,
+there were a total of 38 subjects that were in the charter for us to
+look at. What we've done is -- and an additional six overarching
+issues. So 44. Again, this is math. Not my strong suit. 44 total
+
+Page 6 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+subjects which we divided into six overarching issues and five
+work tracks which we actually later reduced to four. We'll talk
+about that in a second.
+So we've talked -- we've had some preliminary discussions on
+these overarching issues, and we have issued what we call CC1,
+or community comment 1, which has gone out for input from the
+constituency stakeholder groups, advisory committees. Am I
+forgetting another? I think there were three -- what's that? And
+the review team, that's right.
+
+To get comment on these
+
+overarching issues. And there are 32 other subjects that we will
+address through what we call work tracks, and those work
+tracks are divided into -- there are four or five, depending how
+you look at it, different work tracks, which I believe are on a
+subsequent slide.
+
+And we will conduct our work through
+
+discussions, seek input from the community, and integrate other
+efforts that are going on.
+Go to the next one.
+So what are some of the other things that are going on that will
+affect this policy development process, things that we're
+watching as a work group -- as a working group group.
+Well, as many of you know and have heard throughout this -- I
+think it was yesterday that Jonathan had presented, the
+consumer -- the competition, consumer trust, and consumer
+
+Page 7 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+choice review team. So that's required by the Affirmation of
+Commitments, a review that's going on. We will certainly, and
+we're required by our charter to consider the input and the
+findings of that review team. And Jonathan will talk a little bit
+about that.
+There's the Cross-Community Working Group on the use of
+country and territory names. Heather will talk a little bit about
+that. We have to consider the findings of that group into our
+working group as well.
+There's a policy development process on the review of all rights
+protection mechanisms in all gTLDs.
+
+That was a cross-
+
+community session that was held yesterday afternoon that
+many of you have attended that was led by their co-chairs.
+There is obviously work going on in the GAC and the ALAC and
+the SSAC and other organizations that will feed into our working
+group. And there's the completion of work and protection for
+IGO/INGO names and acronyms including some implementation
+that's going on now on how to develop a claims-like process for
+IGO and INGOs.
+Go on to the next -- We can just go on to the next slide because
+we went through those. I'm trying to get to the input slides here.
+So the work tracks we talked about. So the other subjects are
+divided into, we see here, two through six. So there's one work
+
+Page 8 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+track that's on process/support/outreach, very important work
+track which will talk about how we get more diversity in the
+application process. How do we do better outreach to make
+sure that those from the underserved countries can -- and
+developing countries can apply.
+We'll also talk about whether the Applicant Guidebook is the
+appropriate approach to continue doing this new gTLD process;
+whether there should be different guidelines or guidebooks for
+the different types top-level domains if we believe that
+categorization of top-level domains is the way forward.
+The second work track deals with legal and regulatory issues,
+things like the base registry agreement. Are there any changes
+that are needed to that? Registrar nondiscrimination clauses or
+vertical integration issues that were heavily debated started in
+2009 through 2012. Was that everything we expected it to be?
+Are there certain changes that need to be made? Did we get it
+right. How do we deal with that going forward.
+To talk about in that as well the PICs. And Alan, if he gets here -oh, he is here. Hey, Alan. Hi. Alan will talk about PICs and
+safeguards. That will also be something that will feed into that
+work track.
+Work track three is on string contention, objections, and dispute
+resolution. Looking at issues like string similarity, the whole
+
+Page 9 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+issue of plural versus singulars. Yes, the board considered that
+issue and made a preliminary determination, but that wasn't
+through the bottom-up policy development process. We have a
+time, if we choose, to correct that going forward. We'll provide
+more clear guidance in the next round.
+Also things like what if there is a string similarity decision, what
+is the process for appealing that? Should there be a process to
+appeal those decisions? If so, who hears those appeals.
+Work track four will look at issues, internationalized domain
+names and other technical and operational issues. Things like
+universal acceptance. If we agree also, there's one subject I'll
+talk about a little later which is potentially accrediting technical
+registry back-end providers so that they don't have to be
+evaluated 300 times if they happen to support 300 applications.
+And so if we decide that is a way forward, that track can look at
+what are the technical requirements for a registry back-end
+provider.
+And of course there will be a final operational implementation
+guidance work track which really is to be determined.
+What we're going to do during some later sessions this week, our
+actual working sessions, is talk about whether these work tracks
+cover all of the areas that we need to look at.
+
+Page 10 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+So we have developed a high-level work plan, on the next slide
+you'll see. Everyone is asking about timelines. And so if you go
+to the next slide. I know it's going to come up. There we go.
+This is our initial thinking in terms of timelines. This is not a
+guarantee.
+
+This is not predicting that we will have a new
+
+process that starts on the dates set -- that are set forth on this
+slide. I'm not sure why it's not showing the whole slide. I don't
+know if we can shrink it, Steve, so it's showing some dates over
+there. There you go. Possibly the end of 2017. We're not saying
+that's when we are introducing new gTLDs. That's just a goal for
+us to finish our work.
+Of course, as I said before, our work is also dependent on the
+CCT review team and other reviews that are going on. So that all
+has to feed into the process.
+Ultimately, like every policy development process, we'll have an
+initial report, put out our recommendations and findings, put it
+out for comment, and a final report. We may, in fact, have
+multiple public comment periods on the issues so that it may
+not be just one preliminary report and a final report. We may
+decide to put out questions to the community. For example,
+when we start some of the work tracks or when we have some
+initial thoughts on some of those findings.
+
+Page 11 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+AVRI DORIA:
+
+I've got a hand up and I would like to --
+
+JEFF NEUMAN:
+
+Okay. There's a hand up already.
+
+AVRI DORIA:
+
+So I have a hand up, and just in case it's a point of order type of
+question.
+So, Sebastien, I don't know where you are to get a microphone
+to you. Okay.
+
+UNKNOWN SPEAKER:
+
+(Off microphone).
+
+AVRI DORIA:
+
+Okay. Thank you. Now, that wasn't said through a microphone
+so let me repeat it. It was a request for slower speaking because
+the translators were having trouble keeping up with the speed at
+which the speaker was speaking. So I'm asking to speak slower.
+And, also, for those who don't have translation, having -- for
+example, that aren't one of the seven privileged languages that
+have translation, so that they would be able to have a chance to
+understand and to read.
+
+Page 12 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+So it was a point of order, so thank you, Sebastien.
+
+JEFF NEUMAN:
+
+Thank you, Sebastien. Could we have mic 6? Thank you. I will
+try to slow down. I'm just so excited about these topics that
+sometimes I speed up.
+People who know me, actually, it is true, I am excited by these
+subjects.
+So this is, again, a temporary -- or our work plan as to the
+milestones we'd like to achieve and the pace at which we would
+like to -- to go. Of course it's, like we said, very dependent on the
+work of some other groups so that we can make sure that that
+feeds into our processes.
+Do we want to go on to the next slide?
+Okay. So now we're going to get into our topics, the real meat,
+but before we do, I should actually ask if there are any questions
+on some of the process of how the working group is going about
+doing what we're doing.
+And I see one question over here. I know it's Jordyn Buchanan.
+
+UNKNOWN SPEAKER:
+
+Page 13 of 69
+
+(Off microphone.)
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+AVRI DORIA:
+
+Oh, they've got it? Okay. So...
+
+JORDYN BUCHANAN:
+
+Is this just a time for questions or can we make comments as
+well?
+[ Laughter ]
+
+AVRI DORIA:
+
+At this point, we'd really like to go for clarifying questions and
+then take comments in as we --
+
+JORDYN BUCHANAN:
+
+Well, are there going to be an opportunity for comments on the
+overall process as opposed to individual --
+
+AVRI DORIA:
+
+Oh, a process question. Okay.
+
+JORDYN BUCHANAN:
+
+Well, it's about -- what -- everything Jeff just talked about is
+what I want to speak to but not about any of the individual
+topics, but it's definitely a comment, not a question.
+
+Page 14 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+Go ahead at this point.
+
+JORDYN BUCHANAN:
+
+All right. I'll go with it.
+
+EN
+
+So Jordyn Buchanan with Google but I'm speaking entirely in my
+personal capacity at the moment.
+Like, I know you guys are working really hard and this is a lot of
+work, but I guess I'm going to suggest that I think you're doing
+this completely wrong. And I say that because I think you're
+making your life much harder for yourselves than you need to.
+We have a policy. We have even an implementation of the
+policy. We just did it, and we're just getting to the end of the last
+instantiation of it.
+And for some reason, we insist on treating the release of TLDs in
+a manner completely unique at ICANN. Every other identifier
+that ICANN allocates gets done basically on an as-needed basis.
+If you need to become a new registrar and get a registrar ID, you
+come to ICANN, you submit your accreditation papers, they let
+you be there. If the IETF needs a new protocol number, they
+come to ICANN, they say, "Hey, we need a new protocol
+number," they get one. There's no, like, giant process where you
+wait like eight years before we're doing the next batch of
+protocol number releases. That would be crazy and it would
+
+Page 15 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+make it so if you did it, then the IETF would have to, you know,
+spend years and years thinking about how we might do the next
+giant release of protocol numbers because we created this
+tremendous, immense importance around that process.
+But instead, if you'd just sort of release these things as they went
+along and relied on the fact that we have a binding policy
+process, it would let you fix mistakes as you went along.
+And there's just no reason why you couldn't, next week, just
+start a new application process under the existing guidebook.
+It's not perfect. I might not apply again because there's things
+about it that annoyed me. But it's not bad either. Nothing
+terrible -- you know, no babies died. Like we haven't heard from
+any of the name collision things that any human life was
+threatened as a result of this.
+You know, some -- some brands, I'm sure, are a little grumpy
+that they had to apply to get too many defensive registrations,
+but some brands are grumpy that they're not able to get their
+new TLDs as well. Everything is not perfect and there's a cost -there's a cost to both sides --
+
+AVRI DORIA:
+
+Page 16 of 69
+
+Okay.
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+JORDYN BUCHANAN:
+
+-- and --
+
+AVRI DORIA:
+
+Thank you. I -- it was a question. We got the question. But I
+really would like to avoid too long a speech.
+
+JORDYN BUCHANAN:
+
+All right. Well, then I will just finish by saying it seems like if you
+just focused on -- if -- identifying any problems that were so
+critical that they would prevent the release of additional TLDs
+now and move to a sustainable process where you're
+continuously releasing them and rely, like we do for all other
+identifiers, on the -- on course-correcting as we go instead of
+trying to get it all right up front, that you would have a much
+more -- your job would be easier and the community would
+probably be able to be involved on the individual issues instead
+of trying to stare into this huge giant box of issues that seems
+almost impenetrable to someone not --
+
+AVRI DORIA:
+
+Thank you.
+
+JORDYN BUCHANAN:
+
+-- intimately involved in the work.
+
+Page 17 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+JEFF NEUMAN:
+
+EN
+
+All right. Thanks.
+[ Applause ]
+Okay. That's a good comment. So instead of me answering this
+question, because it's not for me to discuss, would anyone else
+like to address Jordyn's point?
+How does everybody feel? Should we open up a round or open
+up a TLD application process next week?
+
+UNKNOWN SEPAKER:
+
+(Off microphone.)
+
+JEFF NEUMAN:
+
+Does everybody feel like we could do that? Does anybody want
+to comment on that?
+I think that's a good question.
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+AVRI DORIA:
+
+I don't.
+
+Page 18 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+AVRI DORIA:
+
+Okay. I mean, if we -- if we need to take that question, we need
+to take that question, but that really isn't the program that we
+had in front of us at this point.
+But okay. I'll answer the question. Since he asked it, I'll give an
+answer to that question.
+One, we have a commitment to reviewing the program before
+we start any other program, so we're definitely still in the midst
+of that review.
+Two, we do have a fair amount of comments. There was a
+drafting team that went before and gave us a list of scores of
+issues that needed to be resolved before we could move on with
+any particular program.
+So there's definitely a lot of work that we've been committed to
+before being able to just move on with the program as it was
+once put forward.
+So since you decided it was a good time to ask the question, I
+thought -- but now --
+
+Page 19 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+Okay. We had -- 3 was there before. I can't -- and then we've got
+four questions going at the moment and then I'd like to stop at
+that point so we can get back to the rest of -- of what was there.
+So it would look like it was 3, 2, 4, and 5.
+
+UNKNOWN SPEAKER:
+
+Hello? Hi.
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+AVRI DORIA:
+
+And there's a Number -- then I'll get to Number 1, too. I didn't
+see it in my peripheral vision.
+
+UNKNOWN SPEAKER:
+
+Let's have a referendum.
+[ Laughter ]
+
+AVRI DORIA:
+
+I am not calling a referendum.
+[ Applause ]
+
+Page 20 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+UNKNOWN SPEAKER:
+
+No comment.
+
+UNKNOWN SPEAKER:
+
+You can exit.
+
+EDMON CHUNG:
+
+Okay. Edmon Chung here. Now, trying to get back to what the
+guys in front want us to get to, a clarifying question, actually, on
+Work Track 4 that you identified.
+I know you know that I love IDNs, but that's not what I want to
+talk about.
+The names collision part, is there any anticipation that other
+work will happen?
+Because this is a work track from the community, but the -- the
+names collision report create- -- made .MAIL and .HOME -- you
+know, created those situations.
+There is no indication or no reports on future rounds, how -- how
+to deal with these kind of situations where more of these TLDs
+might suddenly come up and no longer be able to be used.
+Is there anticipation that outside of this working group, other
+work needs to be done on names collision for this to happen?
+
+Page 21 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+Because there were five -- you had five boxes on a previous slide
+that talks about external stuff that is ongoing that would
+interfere -- well, not interfere but interact with this discussion. Is
+there any anticipation that names collision, there is actually
+other work that needs to happen as well?
+
+AVRI DORIA:
+
+I don't know if there's any work being done on that at the
+moment. I've certainly seen signs of people talking about it. I
+don't know if anybody else wanted to comment on that at the
+moment.
+It's certainly -- but if any other work was done on it in terms of
+the current round -- in other words, the work in this working
+group is only focused on a subsequent procedure. If any work is
+done on anything to do with the current procedure, then that
+work gets imported in, but the -- the work of this working group
+is purely on the subsequent procedure, and it's really quite
+possible that work be done on other issues. In fact, it's still
+being done and still part of the reviews.
+Now, what number did I say I was going to next? I said I was
+going to -- to 2 next? Okay. Going to 2 next.
+
+Page 22 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+IRAN:
+
+EN
+
+Thank you, Avri. Thank you, Avri. A question or comment was
+made. Let us note that. And I fully agree with what you said.
+You have a commitment -- we have a commitment and we have
+to apply that commitment. We have started something. The
+group has been established. Go ahead with what you have been
+proposing. If there is anything that we have to add, to comment,
+to clarify, to collect, we will do that, but I don't think that we
+raise the question next week or not next week.
+In GAC meeting, three meeting consequently we mentioned that
+we need to review the previous one to see what are the
+problems, difficulties, and so on and so forth. We have corrected
+them and we said that we don't want that second round to be
+started before we resolve the issue, problems, that we had in the
+first round. Therefore, please kindly go ahead. Thank you.
+
+AVRI DORIA:
+
+Thank you.
+And one thing I want to make sure to remind people of is, say
+your name at the beginning.
+Okay. Then I had -- what did I say? 4 next?
+Okay. So 4, 5, and then 1. I can't count. Okay. Please. 4.
+
+Page 23 of 69
+
+EN
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+SEBASTIEN BACHOLLET:
+
+Muchas gracias.
+
+Good morning.
+
+Hello.
+
+This is Sebastien
+
+Bachollet. I am an individual user, and unfortunately I cannot
+speak on behalf of Google because Google speaks on its own
+representation, so it will be difficult to say why he is saying that.
+But I would like to say that fortunately you are being working on
+this and there are many other aspects that are being included
+which were not included in the previous program and there are
+many corrections to be -- to work with.
+When we have -- when we have a program, we need to address
+these issues. So I hope that next time you -- new extensions are
+being introduced, well, if that is the case, we have fewer issues.
+Your work is really very important.
+
+WERNER STAUB:
+
+Thank you. Werner Staub from CORE association.
+I hate to say I told you so, but I've been on the mic numerous
+times to say please make sure we announce the next round
+immediately. Not just the next round but the one after. Because
+if you don't, people will apply simply because, you know, they
+think there's going to be a long desert, it's the last petrol station
+before the desert.
+
+Page 24 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+It happens. And if we have now one result that we can learn, it
+is: Don't do that again. And are we about to do that again? A
+long wait, telling everybody, "Look, there's going to be another
+round but it's going to be 10 years of desert again," so we wait
+10 years between rounds? That is the best way to do the worst
+job possible.
+And overall, the zeal that we put into find- -- preventing people
+from damage is the biggest damage that we can do to it them.
+Waiting forever, that is precisely the way you could kill all the
+good projects and only leave the bad and speculative ones.
+
+AVRI DORIA:
+
+Thank you. And I'm really quite glad to hear that you hated
+telling us that.
+And Number 1, please.
+[ Laughter ]
+
+UNKNOWN SPEAKER:
+
+Hi. My name is (saying name) and I'm speaking in my personal
+capacity here.
+I'm just -- I just wanted to respond to Jordyn's point and I firstly
+agree completely with what Avri said, but going beyond that, I
+
+Page 25 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+think that there's also a substantive difference between names,
+and for example, numbers.
+I think that there are public policy issues that come in when it
+comes to names that just don't exist when it comes to numbers
+and many of the other things that -- you know, that we discuss
+here that are delegated.
+And ultimately names are the primary point of interface for a
+normal user with the Internet, so these issues I think do matter
+much more than they do in the case of numbers, for example.
+And I agree babies didn't die, but that is a very high bar, and I
+think that there are, for example, communities that lodged
+community applications that haven't gotten their TLDs and we
+need to look at the kinds of issues with process that led to those
+kinds of problems.
+And that's just an example.
+And I'm not saying that the process we're considering here, that
+we're thinking about here, is the best possible process. I haven't
+applied my mind enough to know. But I do think that some kind
+of review and, you know, trying to understand what we have -you know, what we can learn from the existing process to make
+the process better going forward, that kind of effort needs to be
+made.
+
+Page 26 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+EN
+
+Thank you.
+And at this point, I'd like to go back to the program as planned,
+and I want to thank the people that made short comments and
+move on and ask -So the first one I had was cross-community working group on
+the use of country and territory names, Heather Forrest. She'll
+give us a quick introduction to it and then we could take a
+couple questions quickly that she would be able to field. Thank
+you.
+Heather?
+
+HEATHER FORREST:
+
+Thank you, Avri, very much.
+This is Heather Forrest. Thank you very much for allowing us to
+include this update in the work of the PDP, the subsequent
+procedures PDP.
+This is work that's been ongoing for some time now. Some of
+you may have heard me or one of my fellow co-chairs give an
+update in previous sessions in previous meetings, so you'll know
+that we've been at this work for -- for as much as -- as much as a
+year and a half now, perhaps even two years.
+
+Page 27 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+And what I'm here to do today really is provide an update as to
+the scope and the status of our work so that you might draw
+some mental connections between the work that we're doing
+and the work that likely fits into, I think we decided, the batch
+with reserved names, so that's number two, I think, and start to
+better inform ourselves across these lines as to how we want to
+take things forward.
+So I'll provide that brief introduction and then put a plug for our
+session, which is tomorrow afternoon, and then maybe we'll
+shunt questions into that, Avri, rather than have them here
+today, although of course I'm happy to answer questions, but
+that might be a better place for those.
+So this cross-community working group on the use of country
+and territory names as top-level domains, probably keywords
+missing from the introduction on this slide, we're dealing only
+with the top level and only with country and territory names.
+Now, as it stands at the moment, the group has defined country
+and territory names as things falling into three baskets, if you
+like. We have the use of two-letter codes largely aligning to the
+use of the longstanding use of the ISO 3166-1 list. We have
+three-letter codes again largely aligning to the ISO 3166
+standard and names themselves. Now, names, of course, can
+have a number of interpretations. The lawyers in the room, we
+could argue this all day long as to what "names" means. We
+
+Page 28 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+haven't gotten there as a group because it is quite a challenging
+question and we wanted to work through, let's say, some less
+challenging issues before we tackled the very big questions.
+We've reached preliminary conclusions in relation to twocharacter codes, and we'll discuss those in more detail
+tomorrow. And that was -- those preliminary conclusions were
+reached in late 2015. The group then transitioned to working on
+three-letter codes and began its work as we had done with twoletter codes by sending out a survey, an informal survey, to
+solicit input from the community more broadly to understand
+the community's views as to what policy might look like, let's
+say preferred policy, options from various community members.
+And what's interesting in that process, perhaps not surprising
+but nevertheless interesting, is that we have completely
+divergent responses in relation to what to do with three-letter
+codes, completely divergent both in rationale and in preferred
+outcome.
+That led us to the idea of a broader cross-community session
+here in the policy forum at ICANN56 which will take place
+tomorrow in this very room, which is Hall A at 3:15. We'll have a
+format quite similar to this one in this session today. We'll ask
+some provocative questions for the precise purpose of soliciting
+perhaps some provocative answers and see if we can't as a
+
+Page 29 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+broader community work through some of the challenges that
+we face.
+So that is our update. I'm happy, as I say, to take any questions.
+But, otherwise, I very warmly invite you to our cross-community
+session tomorrow at 3:15 tomorrow.
+
+AVRI DORIA:
+
+Thank you. Are there any questions? I see one here. Two.
+Please go ahead.
+
+IRAN:
+
+Thank you very much. You said that if we need lawyers to tell us
+what the name is. We don't need to have that. Name is names.
+That's all. If Dahomey decided to call the country Benin home, it
+is the Dahomey and all the people who decide. If Upper Volta
+decided to call Burkino Faso, that is Upper Volta or Burkino Faso
+people. So we don't need.
+We thank you very much, the lawyers, and we ask them later on
+to deal something where we apply and where we require. We
+don't need any explanation on the name of the countries. Thank
+you.
+
+Page 30 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+EN
+
+Thank you. And please remember to give your name at the
+beginning.
+So far I have 1 and 4. Do I have anything after 1 and 4? I'm trying
+to be good with my numbers. Okay. Please, 1.
+
+NIGERIA:
+
+Thank you for the opportunity to speak. My name is Nkiru from
+Nigeria.
+You said something about having the preliminary conclusions on
+your decisions on the two-character and three-character codes.
+Would it be possible to have this document prior to tomorrow's
+meeting so we can go through it?
+
+HEATHER FORREST:
+
+This is Heather Forrest. Thank you very much for your question.
+I would encourage you. We actually have two Web sites which is
+perhaps confusing. One is under the ccNSO Web page; and there
+is one more general, I think in fact, under the GNSO Web page.
+And you'll find -- you'll be able to track our documents through
+that. So that's publicly available. If you were to type in -- do a
+search on CWG UCTN, you'll find our documentation. Thank
+you.
+
+Page 31 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+AVRI DORIA:
+
+Thank you.
+
+STEVE CHAN:
+
+This is Steve Chan from staff. I was just going to say I can drop
+the link into the AC room, if you are logged in, and give you more
+direct access to that paper. Thanks.
+
+AVRI DORIA:
+
+Thank you, Steve.
+And question from 4. Please remember to introduce yourself.
+
+WANAWIT AHKUPUTRA:
+
+Number 4. Wanawit, GAC, Thailand. As was mentioned about
+the names, in fact, from what I study from the ccTLD fast track
+on IDN, ICANN used to refer to the UNGEGN, United Nations
+Group of Experts on Geographical Names, which already have
+eight United Nation language translated.
+And now is the update. They're one of the ECOSOCs. So the
+name represent there should be something that we refer to,
+even if some of the country having problem like, for example,
+Thailand because the translation that happened, it's not as
+accurate as what we normally use because when you are dealing
+with these kind of transformations from non-Latin, non-ASCII
+types to the Romanizations, it depends on how the authority
+
+Page 32 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+that's dealing with that use formal translation. For example,
+Thailand's official name is Ratcha Anachak Thai, which nobody
+call it that way. You normally call either Thailand or maybe the
+old name is Siam. But for some reasons, they filed that into the
+database of UNGEGN.
+So, in fact, those are the things that we're working on to reflect
+the translation and transliterations. It creates an impact when
+you are talking about the known domain names in the
+Romanization way. Thank you.
+
+AVRI DORIA:
+
+Thank you. Heather.
+
+HEATHER FORREST:
+
+Thanks, Avri. Heather Forrest.
+Thank you, Wanawit. You raise a very interesting point. And the
+group is very much live to questions of translation. And I'm
+pleased to say that we are quite privileged in the group
+participating as members, representatives from ISO and from
+the UNEGN. So that's helping to inform our work with these
+broader questions.
+
+Page 33 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+EN
+
+Okay. Thank you. I'm going to now move on to Jonathan Zuck
+and competition, consumer trust, and consumer choice review.
+Yeah, you get to use those mics. Thanks.
+
+JONATHAN ZUCK:
+
+Great. Jonathan Zuck from the CCT review team. Thanks for
+having me here.
+We were tasked by the Affirmation of Commitments to explore
+the degree to which consumer choice, competition, and trust
+were enhanced by the new gTLD program and also look at the
+application and evaluation process to see if it was, quoteunquote, effective and finally look at the safeguards to see if
+they were effective in kind of mitigating the downside
+consequences of the new gTLD program.
+And it's easy to get caught in the weeds of this topic. And that's
+where I was headed as I was thinking about this. But I'm
+reminded, Secretary Strickling came to visit our meeting in D.C.
+and helped us to take a step back and say that basically the
+purpose of the review is to see if the advantages of the new gTLD
+program had outweighed the disadvantages of it. And so if you
+look at it that way, then you look at what were the kind of
+anticipated advantages of the program. Were more choices
+made available to people so there were strings that had become
+
+Page 34 of 69
+
+EN
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+unavailable in the legacy TLDs that were now available? Are
+there interesting pricing business models that have increased
+competition in the space and changed the pricing structure for
+TLDs? Is there increased competition among registrars as well?
+Is there an increase in consumer trust associated with doing
+restricted TLDs, like .BANK, that would allow me to know that by
+going to .BANK I could trust that it wasn't some sort of phishing
+scheme.
+And
+
+what
+
+are
+
+the
+
+downside
+
+--
+
+potential
+
+downside
+
+consequences? Does the fact that I have .BANK as a restricted
+TLD and some other one not restricted mean that I have got
+unmet consumer expectations? Do singulars and plurals create
+confusion, for example? Did it lead to business models that
+were based mainly on defensive strategies on the part of brands,
+whether the defensive registrations are blocking, et cetera?
+Does the program itself sustain, or is it really dependent on
+defensive activities of brands? Did the application process, did it
+really create choice for all communities around the globe? Is the
+global south served well by the application evaluation process
+or by the program itself?
+So those are sort of the balancing tests that we have been
+tasked with doing. I guess unlike the PDP -- and I realize I'm
+talking very fast, Sebastien. I apologize. I will slow down a little
+bit.
+
+Page 35 of 69
+
+EN
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+Unlike the PDP process that Jeff described, we're sort of tasked
+with time boxing our work. And so we're trying very hard to have
+something in draft form to you by the end of the year. And that
+meant having to prioritize. And so we're looking at some very
+high-level questions like: Did this serve the developing world
+well in the application process? Was competition created? Were
+the safeguards effective? Is there a disproportionate increase in
+DNS abuse in the new gTLDs? Asking questions like that help to
+kind of make that balance more realistic.
+And so the other thing that we're trying to do is come up with
+measurable results which is somewhat new to the ICANN
+community. I think we all have years and years of experience of
+getting on conference calls and giving our opinions, learned
+opinions, but opinions nonetheless about things. And so we're
+trying very hard to do wherever possible a kind of quantitative
+analysis
+
+of
+
+these
+
+things
+
+so
+
+that
+
+when
+
+we
+
+make
+
+recommendations and policies are developed based on those
+recommendations, we can later on see using the same data, the
+same metrics, whether or not improvements came about as a
+result of those recommendations.
+So that's the task that we have before us. We've divided into
+three subteams. Our calls are all public and that you can listen
+in on them via Adobe Connect. You can email directly to the
+
+Page 36 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+team via an email address inputtocctrt@icann.org or talk to the
+people that represent you within that team.
+There was an effort to kind of have somebody representing
+everyone within that review team. So please make your voice
+heard on these issues as we take this kind of high-level look at
+whether or not a balance test applied to the new gTLD program
+comes out in favor of the advantages that certainly exist and the
+disadvantages that certainly exist.
+And so trying to quantify, wherever possible, how that balance
+was struck will hopefully inform further subsequent procedures,
+whether they start next week as Jordyn has suggested or start in
+a couple of years as is more likely the case.
+I think there is kind of broad agreement with the nature of it
+being a, quote-unquote, round is part of our problem and
+created a difficulty to course correct along the way because of
+the sheer volume of applications that happened. And so I think
+there's probably consensus from -- in all the groups that are
+working on this that a round is not the way to proceed.
+But there's certainly some self-evaluation to do before we
+proceed, I think, to see if we can get that balance right and make
+sure that the advantages of introducing new strings into the DNS
+outweigh the disadvantages of doing so. I'm happy to take
+questions.
+
+Page 37 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+EN
+
+Thank you. One or two questions. We're already going through.
+So I've got one question here and that's a Number 2. Please go
+ahead and I will take one question after that just so we can get
+through. Remember, please give your name.
+
+INDONESIA:
+
+Yes. My name is Ashwin from Indonesia. You mentioned about
+the consumer trust and one of the -- you mention about if you
+are using .BANK. And I'm sure it's not a phishing, it's a real bank.
+Now, how can we make sure that it is like that, that .BANK
+operator will really check -- the person who used that .BANK is
+really a person. It's not a fake person or not whatever.
+Now, if it's true, why can't we do that to other gTLD operators so
+that there will be less and less crime in the Internet? If we can
+do it through.BANK, can't we do it through .NET, .ORG, .COM,
+and so on?
+Today we have so many phishing and so many crimes because
+of that joke that on the Internet you can be a doc and nobody
+knows who you are. So let's try to do the same .BANK -- the
+same measure that we used to do .BANK to any other gTLD.
+Thank you.
+
+Page 38 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+AVRI DORIA:
+
+Thank you.
+
+JONATHAN ZUCK:
+
+Thanks for your question. I suspect a lot of people have a lot of
+answers to that question.
+
+But I think at its core, it's an
+
+experiment to see whether or not, you know, having a restricted
+string like that will lead to an increase in consumer trust, will be
+taken up by the industry that it's meant to represent, and we
+can't assume that the answer for every possible string in the
+dictionary is -- has a specific definition that we can rely on
+because there are spin doctors as well as medical doctors. And
+so the language is more fungible than that. So the question will
+be, if .BANK is a success and leads to an increase in consumer
+trust and, in fact, leads to a decrease in the success of phishing
+exercises, I think you'll see other entrepreneurs taking that on in
+pharmaceuticals and other areas and we'll see success in those
+ways. And consumers, when looking for those kinds of high
+stakes activities, will migrate to those restricted TLDs. I think
+that it's a mistake to just create a regulation of the language in
+lieu of understanding the success of those endeavors.
+
+AVRI DORIA:
+
+Thank you. I'd like the take one more question, preferably from
+someone who does -- has not asked a question yet. Do we have
+anyone here that has a question that hasn't asked one yet. No?
+
+Page 39 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+Okay. Do you see one? I know Kavouss had one, but you've
+already had three. But please, Kavouss, if you've got -- no, you
+can't -- you need -- I think you need the number 2, although the
+light went on.
+
+IRAN:
+
+No, Avri, it is up to you. If there are questions and there is no
+other people to raise the question, please allow that we raise the
+question.
+
+AVRI DORIA:
+
+And that's why I called on you.
+
+IRAN:
+
+Thank you very much. You are a very good friend of mine and I
+always support you, unqualified support.
+
+AVRI DORIA:
+
+Well, thank you. And that's why I went to you. Now please, your
+question.
+
+IRAN:
+
+This is a little bit of experience. If you say self-evaluation, I call
+this self-validation, what are the tools that the people make that
+self-evaluation? Based on the assessment or you give them a
+
+Page 40 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+software or something, that this is the tool, use it before it's
+applied to see whether you can have this self-evaluation or selfvalidations. Thank you.
+
+JONATHAN ZUCK:
+
+Thanks for the question, Kavouss. I think the issue is that we're
+developing the tools now to perform those evaluations. So in
+many respects, future reviews on competition, trust, and choice
+might have an easier job of it because we will have established a
+lot of the parameters used to measure the success of these
+programs going forward. And so it's that first, you know, take at
+it and identifying what datasets make the most sense, finding
+the sources for that data that is an originating exercise but that
+over time it could be something that's more easily done in a
+shorter period of time because we've built the tools for
+evaluation and evaluation and ongoing basis in a way that
+Jordyn has suggested. I think that if we get our homework done
+now that there will be some tools that make our lives easier
+down the road.
+
+AVRI DORIA:
+
+Thank you. Now I'm going to move on to the --
+
+UNKNOWN SPEAKER:
+
+(Off microphone).
+
+Page 41 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+EN
+
+One more question from number 1, and then we're moving on to
+the next topic.
+
+DANIEL EBANKS:
+
+Daniel Ebanks, .KY, Cayman Islands. Very simple question. You
+were talking about tools, and I had this in my mind from the
+beginning of the session. How do we qualify the underserved
+regions that we talk about?
+
+How do you qualify as an
+
+underserved region? That would be a great tool to develop as
+well.
+
+AVRI DORIA:
+
+Thank you. Is that a question for you or one of the leadership?
+
+JONATHAN ZUCK:
+
+Sure. I think it may get answered more than once. And we're
+confronting that same issue. Like, for example, does China fall
+into that category and because they're better represented in the
+new gTLD program than a lot of other regions. So we're going to
+make our own definitions and try to stick to them, and I'm sure
+that we'll get public feedback on those definitions and hopefully
+refine them over time.
+
+Page 42 of 69
+
+EN
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+Thank you. And now I'd like to move to community applications
+with Mark Carvell, please.
+
+MARK CARVELL:
+
+Thank you very much, Avri, and thank you very much for inviting
+me to take part in this cross-community discussion. It's already
+proving very lively and stimulating. And for those of you who
+don't know me, I'm the U.K. representative on the GAC, and this - this topic of community-based gTLD applications has many
+aspects to it. And obviously I don't have time to cover all of
+those. It is an issue that's been picked up by -- by the GAC but
+also by others in the community.
+
+And there is indeed a
+
+community TLDs action group and the ombudsman has picked
+up on the experience of community-based applications in the
+current round. And if we -- if we look back at the -- the vision, if
+you
+
+like,
+
+the
+
+expected
+
+aims
+
+of
+
+the
+
+GNSO
+
+and
+
+its
+
+recommendations, it -- it saw that gT -- that community-based
+applications would be an integral part of the community round.
+But we've seen that vision not realized.
+
+The number of
+
+successful applications from communities has been very low,
+and there was a high percentage of rejections of community
+applications which were in contention. So the experience has
+been a very discouraging one and points to possible areas of
+deficiency and maybe even failure. And I think this is the time to
+re -- to determine really the kind of questions that need to be
+
+Page 43 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+asked if we are to learn from the experience and reassess the
+whole approach to facilitating the opportunity for communitybased applications worldwide. I mean, this should have been an
+important element of outreach to developing countries and
+small island states. Where communities of business people, of
+farmers and so on, may well have found an unprecedented
+opportunity through a top-level domain to advance their
+economic interest. So I just cite that as one example. It also
+intersects with issues -- intersects with issues of rights and
+communities wishing to express themselves. But as I say, the
+experience has proved to be a very disappointing one when
+we've seen even the successful applicants have a really tough
+time pursuing their applications when they've been caught up in
+various processes of review and challenge that has really
+stretched their resources. So that's another sort of angle to this.
+Anyway, I've touched on some. The ombudsman has done a
+report and identified issues of concern. Let's now look at the
+road ahead.
+So I invite questions here. First of all, do you agree with the
+basic premise that there's been a significant failure, and what
+shall we do to try and identify how we can ensure that
+communities have a real opportunity in the future, opportunities
+whether it's a round or constant mechanism or whatever is
+decided as the preferred mechanism to give them another
+
+Page 44 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+chance. So I put that on the table and invite any comments and
+questions.
+
+AVRI DORIA:
+
+Thank you.
+
+Okay, take a couple questions now.
+
+Please
+
+remember to introduce yourself and please remember to keep
+the questions short. I see two. What other questions do I see?
+So I see -- no. So I see a number 2. Please.
+
+PHILIP SHEPPARD:
+
+Avri, thank you very much. It's Philip Sheppard here. Mark, I was
+part of the original group which helped formulate some of this
+policy, and certainly at that time we came up with what we felt
+was sort of the concept of what community was supposed to be.
+We did our best to make some broad definitions and we left it to
+implementation to finally make those decisions and that led
+indeed to the concept of independent panelists who review that.
+And I think I'm not alone in feeling that a number of those
+evaluations made by the panelists were just completely in the
+opposite direction to our original concept of what was meant by
+community. And frankly, my personal belief is that some of
+them just got it wrong. They just interpreted the wording in
+front of them too literally. They did not put it in context. And I
+feel that has been the key reason things went awry here and the
+community process was -- came out in a way that none of us
+
+Page 45 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+envisaged. And I would recommend that we go back and try to
+address that wording so that future panelists can understand
+much better the concept and not create barriers that we had
+never imagined in the process when we first discussed it.
+
+AVRI DORIA:
+
+Thank you, Philip. Any other questions?
+Oh, no, you wanted to --
+
+MARK CARVELL:
+
+Thank you, Avri, and thank you, Philip, for sort of providing a bit
+of focus on the elements of process and interpretation and
+definition which have gone wrong.
+And, indeed, the ombudsman has pointed out, you know, a lack
+of transparency and appeal process to sort of re-open a decision
+based on the panel.
+So, yes, I agree that's certainly one area to look at.
+Thank you.
+
+AVRI DORIA:
+
+Page 46 of 69
+
+Okay. Thank you.
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+JEFF NEUMAN:
+
+EN
+
+Okay. This is Jeff Neuman. Just a comment. Thanks, Philip.
+You know, you said that you thought it might be the panelist
+that may have gotten it wrong.
+I would actually proffer that it might be the drafting of the
+criteria that got it wrong. I think the criteria was way too
+stringent.
+
+And I think the panelist actually interpreted the
+
+criteria right in a lot of cases but they weren't given any
+discretion to make other findings because the criteria was so
+tight. And it seemed to a lot of people that the process was -because of the wording, was biased against communities.
+
+AVRI DORIA:
+
+Thank you.
+We have number 2, and then I think there was a request for a
+microphone down here. And so if one could come down here,
+and then there will be a 3. So there's a 1 and then a 3, please.
+
+BECKY BURR:
+
+Becky Burr. Actually, I agree with Jeff. I think that the Applicant
+Guidebook language was recognized by a lot of people from day
+one to pose an incredibly high hurdle. And I think that there
+were lots of people who said there would be no community TLDs
+as a result of that.
+
+Page 47 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+I think that was a huge mistake and an incredibly important
+missed opportunity. And I really do hope we fix that.
+I recognize that, you know, there's a -- it would be easy to make
+it way too inclusive as well, as sort of, you know, the -- it was in
+reaction to a community is whoever joins. But I think we got it -we just got it wrong in the last round.
+
+AVRI DORIA:
+
+Did you want to --
+
+MARK CARVELL:
+
+No. That's a very succinct point. Thank you.
+
+AVRI DORIA:
+
+Number 1.
+
+MEGAN RICHARDS:
+
+Is that me? Does it work? Yes, it's Megan Richards for the
+record.
+I just wanted to repeat something that Mark had said, and that is
+that the ombudsman report made a whole series of objective,
+clear identifications of issues that arose during this process. And
+I think that's where the first starting point should be.
+
+Page 48 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+And, Mark, there's one thing that you mentioned, was the
+success rate. And I think you said do you think that's correct or
+do you think this is right, but I think that's an objective and clear
+assessment of what actually happened.
+Now we have to find a way to improve this and make it better.
+So it's a minor comment, but I just want to have it.
+
+AVRI DORIA:
+
+Thank you. And we had number 3.
+
+EDMON CHUNG:
+
+Yeah, Edmon Chung here. I want to make three comments on
+this. One, the ombudsman report, the ombudsman, while it's
+pretty thorough, missed a pretty important point.
+
+It's the
+
+community applications are not only supposed to be one part of
+the program, it's supposed to be prioritized. And that's the
+intent of the whole community program. And that leads into
+some of the other problems.
+So this is a big missing part that in fact the ombudsman didn't
+really look into.
+The second point I want to make is that it's not just the
+Applicant Guidebook.
+
+The Applicant Guidebook is already
+
+stringent. But the EIU interpretation of the guidebook is even
+
+Page 49 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+more stringent.
+
+EN
+
+One of the examples is that it kind of
+
+consistently requires that one particular organization is -- you
+know, does -- covers the entire global community, which is not
+what the Applicant Guidebook says but, rather, somehow the
+EIU decided to take that as a requirement rather than having
+multiple community organizations cover the entire community.
+This is very strange to me, and definitely not in the Applicant
+Guidebook. And -- but anyway, it's applied in this round.
+And the third part is -- the third comment I want to make as a
+follow on to that is some of the interpretation is even more
+absurd. Some of the interpretation is that if your community
+name -- and I'll use .KIDS. Community name is .KIDS, and then
+part of the community are children's rights organizations. So,
+okay. The argument is that the children's rights organizations
+can't be kids, so sorry, that's not part of the community. But
+children, obviously they can't apply for domains and they need
+representatives to do so, parents and children's rights
+organizations.
+So the interpretation of the Applicant Guidebook and how that is
+applied is even more, you know, more absurd. So that part also
+cannot be rectified in this particular round, but next round
+definitely needs something to be done there.
+Thank you.
+
+Page 50 of 69
+
+EN
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+MARK CARVELL:
+
+Yes, thank you very much, Edmon.
+
+That's a very helpful
+
+comment, too.
+I think if I wrap up, I just sort of take away two important aspects
+of this; that the prioritization had completely the opposite
+effect. it became a kind of barrier. This is obviously a complete
+dysfunctional setup.
+And then, secondly, how it was interpreted in the process had
+deficiencies, too. Lack of appeal and transparency, and so on.
+But did somebody else want a question? Sorry. I jumped the
+gun.
+
+AVRI DORIA:
+
+I had already considered third the last, but then I guess five gets
+in there, and then we do have the last and move on to another
+topic.
+So please introduce yourself and make it very brief.
+
+WERNER STAUB:
+
+Werner Staub from CORE again.
+Communities have -- the definition was misunderstood at some
+point. I think that happened in the guidebook. And there was
+
+Page 51 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+this concept of delineation that was introduced which is also
+unclear, and some people then interpreted this as a community
+is defined by whoever it excludes, which is nonsense. But let's
+say nobody would actually say, "I'm a community who defines
+by those who are not supposed to be inside."
+
+That could
+
+happen but that's not the definition of community.
+However, what you failed to recognize is something that has
+been documented from the beginning in ICANN, which is a
+community is actually defined by its lines of accountability.
+That's what's supposed to be a community. It can actually be
+defined even later on. You can be an accountable party serving
+a community, and there is one litmus test on whether you're
+accountable; that is, when you can be removed. That is when
+you are accountable.
+
+AVRI DORIA:
+
+Thank you.
+And now I'd like to move on to promoting applications from
+underserved regions/developing countries. Cheryl Langdon-Orr.
+Please.
+
+CHERYL LANGDON ORR:
+
+Right-oh. Let's take a little temperature in the room. My name is
+Cheryl Langdon-Orr, and I assume if you don't know me, you will
+
+Page 52 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+have access to Google in the near future and you can look me
+up, and that's what I'd advise you do.
+Would you be so kind, ladies and gentlemen, as to just raise your
+hand if any of you, regardless of how we define underserved
+regions and communities, believe it is not a good idea to actively
+promote new gTLD programs to these groups. However they're
+defined. Is there anyone who is willing? I'm hoping that one of
+you might be brave, but we will take names and addresses.
+Is anyone going to state here that you believe it is not a good
+idea to actively promote and work ways to promote these new
+gTLDs to the, however it's defined, underserved regions and
+communities? I have one.
+Two? Okay. Fine. Three.
+I want to come back to that question when we finish off to see if
+some of the arguments can change that mind. Because if we all
+agreed, then we didn't need to have much more of a
+conversation. So there are a number much people who may be
+undecided but we certainly have some brave souls who feel it is
+not a good idea. So you might now want to think about your
+questions and your statements to see if you can convince any of
+those people to not put their hand up and make a rationale at
+the end of this.
+
+Page 53 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+Now, Alice you're the lead, are you not, for GAC for this topic?
+Can I get a microphone to Alice, number 4, please? Because
+rather than hear from me, if we could just have a little a
+rationale on why I assume you think it is a good idea to promote
+to underdeveloped.
+
+ALICE MUNYUA:
+
+Thank you very much. Alice Munyua here. I'm co-chair of the
+underserved GAC working group. I haven't really gotten myself
+on speed with this Cross-Community Working Group, but one -there are several issues. And I think we've articulated them in
+various GAC documents, starting all the way from the GAC
+scorecard that had very specific recommendations regarding the
+need for support for underserved regions, both in terms of
+capacity building, in terms of financial support, in terms of just
+reviewing some of the requirements for registrars to be able to
+apply to -- apply for new gTLDs. And now from the experience
+we've seen with the last -- the last one, I think we had 1,900 and
+only 17 came from developing countries. And then out of those,
+I think in the Africa region, only three have been delegated.
+Three. One of them, which is quite infamous, is caught up in an
+issue that is quite mind boggling, and I'm not going to get into
+that discussion, but I think it's an important discussion to get
+into in terms of how we develop the framework for the next
+
+Page 54 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+round because it's extremely important that this does not
+happen again.
+Some of the challenges I think have already been experienced by
+a number of the registrars that operate in some of the
+underserved regions, and so we have those quite clear. So I
+think what I'll do is refer you all to some of the GAC documents
+that have already been developed on this issue. Thank you.
+
+CHERYL LANGDON ORR:
+
+Fantastic. Thank you.
+So you've heard some of the yea argument, and if you agree with
+that yea argument, you don't need to put your hand up and just
+say, "Me, too." But now I would like to find out from the
+audience is there some other view or some specific comments
+that someone would like to make. Make yourself known. We
+will come to the noes in a moment.
+Back in the back, please. Can I have number 3 over there,
+please. Because this isn't hearing about the work group. It's
+about hearing your views to help us do our work.
+
+DONNA AUSTIN:
+
+Page 55 of 69
+
+Thanks, Cheryl. Donna Austin from NeuStar.
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+I'm curious as to understand what we mean by promote
+applications from underserved regions, because, you know, if
+you're talking about a campaign that, you know, gets to the
+underserved regions to say this is a new gTLD program, we think
+there's some value in you applying for this TLD because it can do
+XYZ, that's one thing.
+If you're talking about an assumption that applications from
+underserved regions is going to do those things for you, I think
+that's the wrong assumption.
+
+And I think we've proved --
+
+certainly there's a lot of work that has been done in the Middle
+East to establish infrastructure or a support network that can
+assist underserved regions in improving access to the skills,
+information, whatever they need to kind of support a domain
+name -- the domain name industry in that area.
+So I think I'd like a little bit more explanation about what you
+mean by promoting applications from underserved regions
+because this is really complex. It's not -- Having a TLD isn't going
+to fix all the problems that are in that region. So I would like to
+understand what we mean by that before we get too carried
+away by the idea.
+Thanks.
+
+Page 56 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+CHERYL LANGDON ORR:
+
+EN
+
+If I may, of course. This is a piece of work that's coming up next
+and part of the conversation will be to explore exactly that. But
+just to put a little bit of thought process and get some of the
+juices going for you to all think about this, for example, we had
+the Applicant Support Program that was exercised at the end,
+very late in the process, last time. Now, I'm not suggesting we
+discuss the relative merits or successes or failures of that, but
+that's an example of what may be seen as something to be
+pursued or may not. But we need to think about consequences
+including of those sorts of programs.
+Who have we got next, Avri?
+
+AVRI DORIA:
+
+I don't know, but we're almost out of time. So if we can get one
+of the people that objected to the notion of serving -- The first
+hand I saw was number 2 there. So, please.
+
+LORI SCHULMAN:
+
+Yes, this is Lori Schulman, for the record. I'm speaking in purely
+a personal capacity, but my statement of interest is I'm with the
+IPC and I represent the International Trademark Association.
+But again, I'm speaking in a personal capacity.
+
+Page 57 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+I have a real problem with that generalized statement because
+the new gTLD program has had a lot of stumbling blocks.
+There's been a lot of failures.
+We would be marketing a program that is very expensive to get
+into, and I have a real problem marketing something without
+understanding how to monetize and make the business work.
+So until we can provide technical support or get some pool of
+expertise, I do not want to see any developing nation invest
+what it takes to get a name that may or may not be delegated;
+again, for the reasons we stated about the problems with the
+community applications.
+
+CHERYL LANGDON ORR:
+
+So not setting up for failure would be a very wise thing, I take it.
+
+AVRI DORIA:
+
+At this point, with only 13 minutes left to the session, I'd really
+like to at least get the other people that we've invited up here to
+speak their piece. Although I really like the fact that we had a
+conversation, and afterwards I'm going to say an hour and a half
+for these sessions is probably inadequate.
+
+Page 58 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+The next one I had, though, was geographic names and other
+names of public interest.
+
+Susan, if you could give us the
+
+introduction to that theme.
+
+SUSAN PAYNE:
+
+Yeah. Thank you. So my a name Susan Payne. I'm a member of
+the PDP working group. I'm coming from the GNSO, and my job
+is to just really introduce the subject and throw it open to you; in
+particular, in relation related to country and territory names and
+country codes. I'm talking here about the second level. We
+already dealt with the top level when Heather was speaking, so
+this is particularly around the names at the second level.
+And we know that the Registry Agreement represents what the
+current position is in the current policy where if it's a country or
+territory name, it requires the agreement of the relevant
+government and the approval of ICANN. There have been a few
+countries who have said actually, We're fine, we have given
+blanket approval and a number who perhaps have said, Okay,
+we're fine with some approval, maybe brand TLDs but not for
+everyone.
+So country names, there's a particular treatment of those in
+relation to the two-letter country codes.
+
+The treatment is
+
+slightly different, although there is a similarity to it. There is two
+different ways in which the names might be released for use, but
+
+Page 59 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+with the general principle in both of these cases being that the
+names of reserved from being used. So if you want to use them,
+you either need the agreement of the relevant government and
+the country code manager or you implement measures to avoid
+confusion with the relevant corresponding country code and
+ICANN agrees to those measures.
+And, again, we already know -- I mean, those of us who have
+been dealing in this area, there is a process going through at the
+moment dealing with how do we address the confusion point.
+But I want to throw it open to people for their views and really to
+go back to the basics of these are obviously non-exhaustive
+questions. But, you know, really what are we protecting here?
+And why are we protecting country names and the two-letter
+codes? I'm assuming that the answer from some of the people
+who feel they need protecting is it's to avoid confusion. But if
+you think it's for a different reason, please, you know, let us have
+your views.
+And if it is to avoid confusion, then what is this confusion? And,
+particularly, if we think about some examples, you know,
+spain.movie, sorry, just to take an example, what's confusing
+about spain.movie or it.korea or my.bbc? What is the confusion?
+What are we trying to protect? And think about is the confusion - or is the protection needed across the board, or does it depend
+
+Page 60 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+on the type of TLD, the actual string? Is it the particular string
+that's the issue, or is it a particular type of TLD needs certain
+treatment and a different type of TLD such as a brand needs
+different treatment? And is it relevant what use is being made?
+So we heard yesterday from the Netherlands GAC representative
+who said de.nl is in use in his country, and it is the brand site for
+Douwe Egberts, which is a coffee company. It's not Germany.
+And he thinks in his case there was no confusion with that.
+So in that kind of situation, where is the concern? And this is me
+stopping now and throwing it open to everyone else.
+
+AVRI DORIA:
+
+Thank you. But what I'm going to do is actually ask one more
+person to give their introduction, which is on safeguards and
+public interest commitments. And then we'll basically open up
+the rest of the time to discussion on the two. And we'll have to
+serve brands and stuff up next day. We only have six minutes
+left.
+
+ALAN GREENBERG:
+
+Thank you, Avri. I thought you were going to let me start talking
+after the session opened and after the bar was open. So thank
+you for giving me the four minutes.
+
+Page 61 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+AVRI DORIA: You've got two minutes.
+
+ALAN GREENBERG:
+
+Thank you for giving me the two minutes.
+The story is relatively simple. In the GAC's Beijing communique,
+they identified about 45 strings that they believed needed
+specific safeguards because they were associated with highly
+regulated industries or activities in most countries.
+They requested eight specific safeguards on those TLDs. The
+board implemented six of them, did not implement two of them,
+at least did not fully implement two of them specifically related
+to verification and validation of credentials.
+The ALAC strongly supported that type of activity, although we
+were not 100% supportive of the very specifics. But we have
+been working together with the GAC for quite a long time now
+and also parts of the business constituency.
+The real issue is that we believe that some of those TLDs, some
+of those strings, if they have no protections whatsoever, there is
+potential for consumer harm. Some of those TLDs -- and .BANK
+is one of the examples -- voluntarily built -- voluntarily does
+
+Page 62 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+verify and validate credentials. And they built a business model
+around that, that included the cost of doing that.
+Other TLDs, a significant number of the 40-odd strings, also did
+some level of validation or verification. Some do not. The real
+problem at this point is going forward in answering question: Do
+we need some level of verification validation of those types of
+TLDs in a future round or however we release them? And it's a
+difficult problem.
+We may in the near future have some statistics for the TLDs that
+did not do any verification. Are we finding examples of harm?
+That's something we might be able to measure, although the
+uptake of some of these TLDs is slow enough that it may be
+difficult.
+The real challenge is on the TLDs, on the registries that did
+implement some sort of verification or validation or control. You
+can't measure the potential harm that would have happened if
+they hadn't. And, yet, we may go into issuance of future TLDs
+without a requirement to do any verification validation. And,
+therefore, again, we're in a situation where we then have to wait
+patiently for a few years and see if there's a lot of harm.
+So we are hoping that through either the AoC review or the gTLD
+PDP that somehow we evaluate the ones that we know about
+now, the ones that were identified by the GAC, decide which
+
+Page 63 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+ones were just overreach and we shouldn't have included them
+in the list, and also look at ones to see whether there is, indeed,
+a reason that we might want to protect certain strings. And then
+we need a process for deciding how to protect them and a
+predictable process so people can apply for these TLDs and not
+find out after the fact that they have a huge cost associated with
+running these TLDs which they didn't know about when they
+built their business model. Thank you.
+
+AVRI DORIA:
+
+Thanks. We've got five minutes left. I'd like to open it up to
+another question or two, if we can get them in the moments.
+So I have one in the front here.
+
+Number 2.
+
+And, please,
+
+introduce yourself and keep the question short. And then one
+back then.
+
+SPAIN:
+
+Thank you. My name is Gema Campillos. I come from Spain. I'm
+GAC representative for that country.
+It's not a question. It's a reply to the question raised by the lady.
+I don't know her name. Susan.
+You asked about the reasons why there is a protection in the
+Applicant Guidebook for two-letter codes and also for country
+
+Page 64 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+EN
+
+names. You're right, it's one of the reasons that it's confusion,
+but I cannot, of course -- I cannot give an interpretation of the
+intentions of the community when they wrote the Applicant
+Guidebook, but I can tell you about other possible reasons. One
+of them being that they are identifiers for countries for the
+people that live in those countries, and a good number of
+governments think that they should have the right to decide
+what use those identifiers should be given. This is one reason.
+Another one could relate to their use in relationship with certain
+TLDs. There are some sensitive TLDs related to religion, related
+to sexual behavior. In some countries they have laws that forbid
+certain behaviors. And they would not like to see the country
+code or the name of the country under those TLDs. And there
+are other countries feel that if they see the country code or the
+name of the country under the name of another geo name,
+especially if it's a city or a region, they can be -- use the kind of
+thing that it's a province of that country and not a country of its
+own. So these are more or less the reasons that countries have
+expressed in their comments for their reasons. Thank you.
+
+AVRI DORIA:
+
+Page 65 of 69
+
+Thank you. Got number 5. Yeah.
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+NICOLA TRELOAR:
+
+EN
+
+Thank you. Nicola Treloar from the New Zealand government.
+Just also answering the question on what the issues may be with
+the use of country codes. For us it's both the string and its use.
+We don't think we have an exclusive right to the use of these two
+letters in a combination.
+
+We don't think we're the only
+
+stakeholder that may have an interest in using our country
+name. But our concern is when there is confusion with the
+country code or in the case of a small number of countries like
+New Zealand who use the two-letter code as a short name for
+their country are confusion with the government website. So we
+see confusion, and the only place that we've objected really,
+Army, Navy, and Air Force domain names. This is a moderated
+domain within .NZ so there's a possibility of confusion with the
+.NZ third level -- I'm sorry, top level and there's also a possibility
+of confusion with the government because we actually use the
+term "NZ Army" to refer to our Army.
+However, we do know that there are some uses for this country
+code with these domains that may not be risking for confusion.
+They may be uses for history of the New Zealand Army. There
+may be uses for the Army itself. They may want to have access
+to it. So our concern is that when we talk about mitigation
+measures we do look at things that will adequately address the
+specific risk for the specific string and how it's being used.
+
+Page 66 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+EN
+
+Thank you. At this point -- okay. We'll get one -- there was -- I
+mean, basically we've got two minutes left and I have one more
+slide to put up, so if -- Kavouss, if you can give us a quick -- and
+can you put up slide 24, please? I don't have time for them.
+Okay.
+
+IRAN:
+
+Yes. I want to emphasize -- Kavouss Arestah from Iran. I want to
+emphasize what Gema says. There are gTLDs which is -- or TLDs,
+sorry, that are very sensitive in one sense or another. She gave
+two examples. There might be other examples. Some countries
+their national law legislation does not allow that the country
+name be associated with those sensitive in one way or the other.
+So you cannot ignore the national law and the national
+legislations. This is one point.
+The other point is resale.
+
+You have given, Susan, a good
+
+example. Hema gave a sensitive example of that. That is very
+important.
+
+And then you refer to the agreement.
+
+What's
+
+agreement constitute? If somebody does not reply within 60
+days, does it mean it's agreed? No, it does not agree because
+has no manpower to do the reply. So we should really seriously
+think of this sensitivity religiously or in other way around. This is
+very, very important. Thank you.
+
+Page 67 of 69
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+AVRI DORIA:
+
+EN
+
+Thank you. And with apologies to everyone that didn't get to
+speak, we've hit the hour.
+
+We have two more meetings
+
+tomorrow. They're displayed up there. And one thing we've
+shown is we've got a lot of complex issues to talk about and we
+need a lot more time to talk about them. So please participate.
+What, you had a very quick thing, you really needed to say?
+Please, go ahead.
+
+UNKNOWN SPEAKER:
+
+Merci, madam. Thank you very much, madam. I'm sorry for
+going back to the same topic. I will be very brief in my comment,
+30 seconds. When it comes to geo names and country codes, I
+would like to say the following: I would like to go back to
+.AFRICA which is something that is worrying us.
+There was a problem with .AFRICA. We sent lists from all African
+countries and we presented it in an official manner. And after
+that registries told us that there was a very high fee to pay. So
+there is this difficulty in terms of pricing.
+And secondly, we were told that for the arbitration of .AFRICA
+the jurisdiction to apply was the California jurisdiction. And in
+this sense this was a second difficulty.
+
+AVRI DORIA:
+
+Page 68 of 69
+
+Thank you.
+
+HELSINKI – Cross-Community Session: New gTLD Subsequent Procedures
+
+[END OF TRANSCRIPTION]
+
+Page 69 of 69
+
+EN
+
+

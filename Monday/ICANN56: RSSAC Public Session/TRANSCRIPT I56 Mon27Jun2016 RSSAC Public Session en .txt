@@ -1,0 +1,770 @@
+HELSINKI – RSSAC Public Session
+
+EN
+
+HELSINKI – RSSAC Public Session
+Monday, June 27, 2016 – 10:45 to 11:30 EEST
+ICANN56 | Helsinki, Finland
+
+UNIDENTIFIED MALE:
+
+It is 10:45. This is the RSSAC Public Session in Helsinki Hall.
+
+BRAD VERD:
+
+We’re just waiting for our official star time. All right. Let’s get
+going.
+I’m Brad Verd, co-Chair of the RSSAC Committee. To my left here
+is Tripti. We’re going to give you bunch of updates today but I’m
+going to give it to Tripti first who will start off and then I’ll jump
+in later.
+
+TRIPTI SINHA:
+
+Good morning. I’m Tripti Sinha, co-Chair of RSSAC and I’ll start
+with a very quick and brief overview of RSSAC and our activities.
+I’ll start with the overview, turn it over to Duane who will give
+you an update on some current work that we’re doing with
+regard to metrics, and then over to Brad who will give you an
+update on workshops that the RSSAC conducts. And then I’ll
+conclude with some other current work that’s happening and
+then any questions that you may have.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+Next slide please. Next slide.
+So, the RSSAC is essentially an Advisory Committee that was
+assembled some years ago to advice the RSSAC Board. We have
+a very well-defined scope and it is essentially to advice the
+ICANN community and the Board on matters regarding the
+operation, administration, security, and the integrity of the
+Internet’s Root Service System. So it’s a very tightly and well
+defined scope. Moving on.
+It’s comprised of members of all the 12 operators who operate
+the different root servers and we have primary representatives
+as well as alternates and liaisons. I like to pause here and those
+of you who are members of RSSAC in the audience, if you could
+please stand and identify yourselves. Okay. So these are
+members of RSSAC. Thank you very much.
+The RSSAC also looks at an extension of itself. This body that we
+rely on to do lots of work and these are the volunteer
+organizations, they’re subject matter experts on DNS-related
+items and they are appointed by the RSSAC.
+This membership group, the Caucus, consists of currently 74
+technical experts and 47%, roughly half of them are not from the
+root server operator organizations and they submit a public
+statement of interest and they do get credit for the work they do
+in the documents that are published.
+
+Page 2 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+The purpose is to bring together this community of experts who
+have broad expertise and broad spectrum of skillsets and there’s
+transparency on who does what and we try to bring various
+degrees of opinions and skills to the table. We define work.
+There deadlines associated with the work, we scope it and
+there’s a deliverable.
+We welcome memberships so please send an e-mail to rssacmembership@icann.org and submit a statement of interest and
+your background and the Membership Committee will look into
+it, will consider your membership to the Caucus.
+Our next meeting will be at the ITF meeting in Berlin on the 17th
+of July and this was decided at the Yokohama meeting when the
+ITF met there, that we would like to meet at every alternate ITF
+meeting. The next one is in Berlin.
+We’ve done two recent works that we’d like to talk about. Duane
+is going go into details on RSSAC’s 002 and this is measurement
+document that talks about metrics that the operators look at.
+We also run what’s called workshops and this is highly
+concentrated time when we look at topics that delve into and do
+a deeper dive, typically of an evolutionary nature. We have two
+such workshops and we just published our report on the second
+workshop. It was released on the 22nd of June, just a few days
+ago.
+
+Page 3 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+I’m going to turn it over to Duane Wessels who’ll give you an
+update on RSSAC 002 version.
+
+DUANE WESSELS:
+
+Thanks, Tripti. So, yeah. This is the third revision of RSSAC 002
+which describes measurements that each of our operators
+should make and publish. This helps meet one of the
+requirements of the service expectations. It provides important
+data for the ongoing expansion of the root zone.
+A lot of these updates in version 3 were based on experience that
+people had gained in implementing the measurements on their
+own services and there’s also some clarifications in the
+document regarding its scope.
+This is the list of measurements defined by RSSAC 002. This list
+has basically not changed since version 1, so it’s these six
+metrics. And if you go to the next slide, I’ll describe what some of
+the changes are.
+One of those metrics was to calculate latency and distribution of
+the root zone and previously that is something that each root
+server was asked to do and it was agreed that didn’t perhaps –
+oh I’m sorry, I’m confusing things here. The latency calculation is
+still something that every letter is doing but the method of that
+calculation has been changed to a strict 95th percentile.
+
+Page 4 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+Previously it was something a little bit more confusing so that’s
+the change there.
+The zone size is also something that previously every operator
+was doing and going forward now, this is something that will be
+reported only by the Root Zone Maintainer. It was decided that it
+make sense for only the Root Zone Maintainer to do that.
+A lot of the changes had to do with clarifying that when
+measurements are taken on responses that it should only be
+responses from the server. It turns out that root servers from
+time to time receive DNS responses sent to them which really
+should not be happening but for whatever reason that does
+happen. So that clarification was made for a couple of the
+metrics. We clarified some of the reasons for including responses
+in the traffic volume metric and also explained why it may be the
+case that response volumes maybe a little bit different than
+query volumes in certain situations.
+Since we changed the meaning of some these metrics, we now
+felt that necessary to add a version number to the YAML
+documents that are output from our RSSAC 002 so that the
+consumer of the data can tell which version of the spec it was
+based on.
+
+Page 5 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+And lastly, we added sort of a naming scheme that would allow
+operators to include their own custom metrics should they so
+choose.
+Here is a table of the implementation status so far. We have data
+from 10 of the 13 letters so far and three of them still coming
+soon. So if you’re interested in this data, you can go to the
+rootservers.org webpage and down at the bottom you see an
+area where each Root Server Operator is listed. And if you click
+on their letter and then look for the box that’s highlighted there
+in red, there would be a button that says “RSSAC” and clicking
+on that will take you their metric’s page.
+
+BRAD VERD:
+
+Duane.
+
+DUANE WESSELS:
+
+Yeah.
+
+BRAD VERD:
+
+Really quick. Just to clarify, it’s root-servers.org. It’s not to send
+you to a different place. The webpage is root-servers.org.
+
+Page 6 of 24
+
+HELSINKI – RSSAC Public Session
+
+DUANE WESSELS:
+
+EN
+
+Sorry. Yeah. Okay. Well I need to go to another meeting. Can we
+take questions on this now if anyone has questions so that I can
+skip out?
+
+BRAD VERD:
+
+Are there any questions around the update to 002 version 3 and
+metrics? No? Thank you, Duane.
+
+DUANE WESSELS:
+
+Thanks.
+
+BRAD VERD:
+
+All right. Workshop. So as Tripti stated, we occasionally like to
+lock everybody in a room together, all the RSSAC, the formal
+committee and we don’t let them out until we get a number of
+agenda items done. We just completed back in May our second
+workshop and I’m going to run through what transpired and
+what some of the action items or actions that we are taking from
+that workshop.
+I will add that this is a workshop report. This is not formal advice
+that was given to the Board. This is just a report of the
+discussions that took place in the workshop between the RSSAC
+Committee members, so just to make that very clear.
+
+Page 7 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+Workshop 2 we had back in May and we got everybody together
+and locked them in a room for a couple of days. We had a very
+full agenda. Most of it was based on output from our Workshop 1
+that happened last year. Again, both Workshop 1 and Workshop
+2 reports are on the RSSAC webpage so feel free to go there to
+get the details from 1 and 2.
+Obviously, we formed a planning committee, worked up the
+agenda. One of the things we did learn from this workshop is
+that two days isn’t enough so I think we’re expanding the future
+workshops to three.
+Next slide please.
+Here are the topics that we broke. We broke them up into three
+buckets: architecture, evolution, and reinventing RSSAC. I’ll
+cover each one of these in a bit of detail here.
+Next slide please.
+Architecture – we had a number of different questions that fell in
+this category. First and foremost is the DNS Root Servers and
+how reliable it’s been over the years and the question has been
+raised, does the failure of any single operator pose any threat to
+the system as a whole?
+We, the formal committee, worked up a – we identified a work
+party. Work is currently underway on this document. Again, the
+
+Page 8 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+workshop report is not the formal advice to the Board. Any of the
+output would be.
+The formal committee again created this work party to start this
+document. It’s well underway and it is going to be – if we were
+working on it – now, in the near future and it should be going to
+the Caucus shortly for review.
+Next slide.
+Continuing in the architecture bucket – another question that
+has been raised that we want to talk through as a group is the
+benefits of adding or removing authoritative name servers from
+the root zone. The consensus in the room was that there was no
+technical need for more root zone authoritative name servers.
+And we did rephrase this as a different question that is being
+written up as a statement of work and being sent to the Caucus
+and that was more around latency from the client to the Root
+Zone Servers and what is acceptable latency?
+Next slide please.
+Again, you can see architecture filled a lot of our time in this
+workshop. This discussion was around the commitment of all
+the Root Server Operators. There is a statement that is nearing
+completion. We plan to have it published on Thursday in which
+all the operators commit to serving the IANA Root, and again
+
+Page 9 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+that should be coming out here very shortly and we can make
+this very formal.
+All right, next bucket, the evolution. This one was around the
+technical metrics that define the expectations around a Root
+Server Operator. We formed, again, another work party out of
+the formal committee. Work is well underway on this document
+to find the technical expectations. I should say more detailed
+technical expectations, something that will fill in, really
+strengthen what is already in RSSAC 001 and we’re raising the
+bar or defining what that bar should be out of this work party. So
+that is currently underway and we will be going to the Caucus
+shortly.
+Next slide.
+The last topic around reinventing RSSAC. Historically, there’s
+been a bit of confusion between RSSAC and root server
+operations. RSSAC – again, you saw in the beginning of this
+meeting – our scope is very narrow, it’s very well defined and
+there’s always a number of questions around root server
+operations which is really not in the role or the purview of
+RSSAC. But we thought it was important that RSSAC take on that
+gap that was missing between the ICANN Board and the
+community and the Root Server Operators.
+
+Page 10 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+So we’ve all agreed to be the window into root server
+operations, so if there are questions or concerns about the
+service, bring them to RSSAC and we will track down the right
+group or organization to answer it. If you have questions around
+specific letters and don’t know how to reach them, please come
+to RSSAC. We will point you in the right direction and get you to
+the people you need to get answers to your questions.
+But this was something that very vague in the past that
+hopefully by making this, by memorializing this and formalizing
+this that we can alleviate some that confusion going forward. All
+right.
+
+TRIPTI SINHA:
+
+Thank, Brad. So just a slide or two on the current work that the
+RSSAC is working on.
+Next slide please.
+This actually goes back to Workshop 1, so that was the first of
+the current two workshops that we’ve had and future ones that
+are coming in. We decided to look at just the history of the Root
+Server System. The RSSAC got together, put together some very
+good content that’s come together as very nice document and it
+talks about the chronology of the system right back to how it
+organically grew to what it is today and it describes the history
+
+Page 11 of 24
+
+EN
+
+HELSINKI – RSSAC Public Session
+
+of each of the different organizations and how they formed this
+collective group that offers this service. So the document is in its
+final stages and we should be publishing it soon.
+Next slide.
+This is currently a Caucus work party that is looking at how we
+actually name the root service themselves and the entire system
+has evolved over time. So we’re looking taking a step back and
+looking at what is appropriate and what should be the path
+going forward. That work is also very close to completion and a
+report should be published soon.
+This was work that’s been driven by a Caucus work party. This is
+an example of how we use the Caucus and the previous
+document that I talked about was driven by the RSSAC itself.
+Next slide. Next slide.
+I believe that brings us to the very last slide which still is points
+us to our information page which is our main page on the ICANN
+website and the first URL points to that. The second takes you to
+where our publications live. And if you’d like to join the RSSAC
+Caucus,
+
+please
+
+send
+
+an
+
+e-mail
+
+to
+
+the
+
+rrsac-
+
+membership@icann.org and submit a statement of interest and
+your background and it’ll come into consideration.
+
+Page 12 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+I believe that is the last slide. With that I open the floor for
+questions.
+
+BRAD VERD:
+
+Any questions?
+
+UNIDENTIFIED MALE:
+
+[inaudible] from India. My question is – I am new to this meeting
+–there are 12 operator, 13 root servers, long back history. Is
+there any option to give the 13 operator to create and give the
+chance to 13 [A and G] run by the Verisign? So anyone can be
+given to any organization in anywhere in the world?
+
+BRAD VERD:
+
+As I stated, the workshop that RSSAC held started to ask a
+number of these different questions and the output from
+Workshop 1 stated that there needs to be a defined process for
+identifying potential Root Server Operators, and there isn’t one
+today, and that RSSAC should be part of the yet to be the
+determined process. Leading into that I think you have to define
+a bunch of steps getting up to it, which is some of those things
+that I covered of like defining how tall the bar is or how high the
+bar is for a potential Root Server Operator.
+
+Page 13 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+The other question that was asked about: do we need more
+delegations in the NSSET? That was another question that was
+asked and all of those are work is work and topics that I think
+need to be answered well in advance of any changes to the
+current delegation set.
+So I think we’re on the track, we’re making progress but this is
+something that we want to be very diligent about, very safe, be
+to not disrupt those security and instability and resiliency of the
+Internet or the root and I think we’re starting to ask those very
+tough questions and address them. To answer your questions
+specifically, we don’t have an answer for you right now because
+like I said, we’ve got to answer all these other questions first.
+
+UNIDENTIFIED MALE:
+
+This [Davie] from Beijing Internet Institute. Firstly, I want to
+thank for all you effort and work to make the RSSAC and to be
+more transparent and more involvement, engagement for the
+people.
+And secondly, I would also like to ask a question, maybe a
+difficult question that as you mentioned, the one slide said that
+there’s no technical need for adding more assertive servers just
+as the former questions. I saw the process is that you, the group
+of people, I mean the operator setup workshop. The people in
+the room at this side, there is no technical need but there’s not
+
+Page 14 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+broadened consensus. And if there is other more public sessions
+like this one and people can express really their comments on
+some issues like that, I think there will be more transparency
+and more [inaudible] for the community.
+
+BRAD VERD:
+
+I would add, actually I’d go one step further and say that rather
+than just providing comments which are always welcome, you
+can join the Caucus and be part of the work. That is coming up
+with these answers to these very tough questions. That would be
+my recommendation.
+
+TRIPTI SINHA:
+
+To add, from the workshop we came up with numerous
+statements of work which are going to be investigating these
+problems further. The report was just published and you should
+probably read that if you haven’t already.
+
+UNIDENTIFIED MALE:
+
+Yes. Thank you. Additional notes, I’m already joined the Caucus
+and I pay much attention to the activities. So I hope that there
+are more activities and more discussions are public and involve
+more diversities, right?
+
+Page 15 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+TRIPTI SINHA:
+
+Absolutely. Yeah.
+
+UNIDENTIFIED MALE:
+
+Thank you.
+
+BRAD VERD:
+
+Suzanne, do you want to add…? Suzanne is a member of the
+RSSAC and I think she wants to add some commentary.
+
+SUZANNE WOOLF:
+
+Yeah, if you don’t mind. The thing that I would add in support of
+my colleagues here, I’ve served as RSSAC liaison to the ICANN
+Board and I’ve been in a bunch of roles in the community for a
+long time so I’ve seen this question evolving over a very long
+period of time now. And I think the important thing to recall
+about RSSAC and the RSSAC perspective is that RSSAC’s remit is
+technical so that’s why RSSAC is taking primarily a technical
+view on these components of answering this question.
+In the larger sense, I believe that it’s a community-wide set of
+questions. RSSAC can provide a technical perspective and
+operational perspective to answering it but I believe that part of
+what we’re here is to say is that it’s a larger set of questions that
+requires a wider community discussion that I think everyone
+should be prepared to be part of.
+
+Page 16 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+BRAD VERD:
+
+Thank you, Suzanne.
+
+NING KONG:
+
+Hi! My name is Ning. I come from CNNIC. First I want to share one
+information. CNNIC maintain IFG our root mirror. Just one days
+ago, last Sunday in Beijing, we found that our mirror had been
+hacked by the DDoS and each mirror have been tagged – the
+volume is more than 10 gigabytes and the time lasted for two
+hours. So my first question in that for other mirror maintainers,
+do you have the same DDoS attack in the same time or not?
+
+BRAD VERD:
+
+Again, these are very operational questions and not RSSACspecific. This goes to the topic I talked about earlier that there’s
+a lot of confusion between root operations and RSSAC and our
+remit here.
+That’s all right. I’d call that out. I’d say that if you want to have
+an operational discussion with some of the root operators, I’m
+sure they’d be happy to have a discussion with you but probably
+we shouldn’t do it here.
+
+Page 17 of 24
+
+HELSINKI – RSSAC Public Session
+
+NING KONG:
+
+EN
+
+Okay. Yeah. I’m sorry. So my second question that, is there any
+other mailing list or platform that we can share such kind of
+operational information not within the RSSAC? Is there any
+other…?
+
+BRAD VERD:
+
+Where we agreed to be the window into root operations if there
+are questions, I will say that there was an attack. The root
+operators are working on a statement and should have that out
+on their public webpage, root-servers.org, in the next couple of
+days with the details around what took place a couple of days
+ago.
+
+NING KONG:
+
+Yeah. Okay. Thank you. And my last question. My last question is
+about that if I found some kind of new things maybe we should
+be researched, how can I raise the issue? For example, if I think
+maybe it make sense that we research maybe we can optimize
+the physical placement of the root mirror in [word], so how can I
+[raise] the issues? And is there some channel?
+
+TRIPTI SINHA:
+
+Go ahead. First, are you a member of Caucus? If you’re not, I
+highly encourage you to become a member of Caucus.
+
+Page 18 of 24
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+NING KONG:
+
+Okay, yeah.
+
+TRIPTI SINHA:
+
+And then go ahead and forward your questions to us because
+the RSSAC is contained in the Caucus and we will take that
+under advisement.
+
+BRAD VERD:
+
+I will add that, your question is already underway. The work is
+currently underway and being sent to the Caucus here very
+shortly.
+I will add that, when you have questions or you wanted to
+research on something, one of the topics at the Caucus meeting
+that is being scheduled in Berlin next month is what are the
+things that RSSAC and the Caucus should be looking at and
+that’ll be one of the topics that you bring up new ideas and we
+talk them through and identify work going forward. Again, going
+back to the Caucus, that is the conduit end.
+
+NING KONG:
+
+Page 19 of 24
+
+So the Caucus meeting provide remote attend?
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+BRAD VERD:
+
+Yes.
+
+NING KONG:
+
+Okay. Thank you.
+
+UNIDENTIFIED MALE:
+
+[inaudible] from [NICC]. This is related to the measurement tool
+in the presentation. I observed three operators have not
+published their data they are collecting. Do we have some time
+frame by when they will be publishing those data?
+
+TRIPTI SINHA:
+
+It was on the slide.
+
+BRAD VERD:
+
+It was on the slide.
+
+TRIPTI SINHA:
+
+Thank you for scrolling back. You see F and G – F is Q4 of 2016, G
+is Q3 and I is Q3.
+
+UNIDENTIFIED MALE:
+
+Page 20 of 24
+
+Okay. Thank you.
+
+HELSINKI – RSSAC Public Session
+
+EN
+
+TRIPTI SINHA:
+
+Yup.
+
+WES HARDAKER:
+
+Hi! Wes Hardaker. Just for me, purely I’m a scientific kind of
+person, more data is good so if anybody wants to do an
+evaluation of any sort of numbers in the world, regardless of
+whether it’s more root letter or whatever, nobody’s going to turn
+down that information and the Caucus is sort of the right place
+to join and to become a part of it.
+A couple of realizations though. One, members of the Caucus
+can propose work and one of the things that there has to be
+agreement among everybody that that work should be done,
+but anybody can propose work that’s in the Caucus. But more
+importantly, remember that RSSAC is an advisory [pottery]. We
+do not produce. This is the way the world’s going to work. We do
+not state new policy. All we do in RRSAC is advice the Board and
+advice the ICANN community. We don’t make rules. We don’t
+make regulations. All we do is produce technical stuff and that
+technical body of work is done inside the Caucus. So that’s
+absolutely the right place for a lot of these questions to get
+answered.
+
+Page 21 of 24
+
+HELSINKI – RSSAC Public Session
+
+UNIDENTIFIED MALE:
+
+EN
+
+Sorry. [Davie] again. I found that there are some missing parties
+that [inaudible] as RSSAC can also as a Caucus. The expert
+should demonstrate to [do] some technical fact, right? And also
+give some documents, some important information and to be
+public.
+I found there’s missing party that there’s no policy developing
+part for them put there some topics. [Really there’s not only]
+technical needs but there’s also the need non-publicly. So is
+there any trained or any are working on for the policy
+developing right to the root server operation?
+
+TRIPTI SINHA:
+
+So you’re saying we’re currently technically focused. Is there a
+possibility of us articulating policy?
+
+UNIDENTIFIED MALE:
+
+Yeah.
+
+TRIPTI SINHA:
+
+So you are correct. We are purely advisory in nature and
+advisory from a technical angle. We’ll take that as input and see
+what we can do with it. But right now we are restricted to being
+an advisory body.
+
+Page 22 of 24
+
+HELSINKI – RSSAC Public Session
+
+UNIDENTIFIED MALE:
+
+EN
+
+Yeah. I ask this question because we noticed that there are
+technical discussions on the root zone increment, right?
+
+TRIPTI SINHA:
+
+Correct.
+
+UNIDENTIFIED MALE:
+
+We need to add more TLDs for example, it’s a very hot topic in
+[inaudible]. There’s no technical need for that. Actually, for the
+[inaudible] but it’s the policy requirement. Just as a background
+for my question. Thank you.
+
+BRAD VERD:
+
+I think just going to add on a bit, I think any of the policy
+decisions that might be done in the future would rely on a good
+foundation, a good technical foundation which I think it is
+imperative upon us to make sure exists before policy is
+implemented and that is what we’re trying to accomplish right
+now.
+Any further questions?
+
+TRIPTI SINHA:
+
+Well, thank you for attending. Feel free to reach out to Brad or to
+me or any member of RSSAC. I think you know who they are.
+Thank you very much.
+
+Page 23 of 24
+
+HELSINKI – RSSAC Public Session
+
+BRAD VERD:
+
+[END OF TRANSCRIPTION]
+
+Page 24 of 24
+
+Again, thank you.
+
+EN
+
+

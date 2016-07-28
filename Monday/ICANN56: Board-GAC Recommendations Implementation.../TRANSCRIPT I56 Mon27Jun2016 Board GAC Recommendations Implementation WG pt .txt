@@ -1,0 +1,926 @@
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+Segunda-feira, 27 de junho de 2016 – 14:00 às 15:00 EEST
+ICANN56 | Helsinque, Finlândia
+
+THOMAS SCHNEIDER:
+
+Então passamos para a próxima sessão liderada pelo grupo de
+trabalho de implementação e recomendações, que é a
+ressurreição da cúpula que tivemos antes. De um zumbi que
+tivemos
+
+antes,
+
+que
+
+é
+
+uma
+
+maneira
+
+de
+
+implementar
+
+recomendações de cooperação entre o Board e a ATRT do GAC, a
+equipe que fez as revisões, estamos muito contentes de ter
+novamente Manal e Markus para que nos ajudem a implementar
+a recomendação que tivemos, para fazer com que nosso GAC
+seja mais efetivo.
+Passo a palavra então para qualquer um de vocês que queira
+começar.
+
+MARKUS KUMMER:
+
+É um prazer estar aqui com vocês, temos pouco tempo, nos
+disseram que temos que sair um pouco antes porque vai haver
+um CCWG então temos 45 minutos. É por isso que quero passar
+diretamente para o tema a tratar. Há um pouco de história, não
+vamos falar muito a respeito, mas queríamos fazer um
+encerramento de algumas das conclusões. Esse é o processo,
+
+Observação: O conteúdo deste documento é produto resultante da transcrição de um arquivo de áudio para
+um arquivo de texto. Ainda levando em conta que a transcrição é fiel ao áudio na sua maior proporção, em
+alguns casos pode estar incompleta ou inexata por falta de fidelidade do áudio, bem como pode ter sido
+corrigida gramaticalmente para melhorar a qualidade e compreensão do texto. Esta transcrição é
+proporcionada como material adicional ao arquivo de áudio, mas não deve ser considerada como registro
+official.
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+temos o programa, e esperamos ter um pouco mais de clareza,
+algo que não é tão claro sempre, então por isso passo a palavra
+à Manal, que tem uma breve apresentação.
+
+MANAL ISMAIL:
+
+Muito obrigado, Markus. Como disse, temos pouco tempo, então
+tentaremos fazer uma introdução bem breve, depois entrar no
+substancial. Próximo slide. Como foi mencionado antes, o grupo
+de trabalho de implementações de recomendação do GAC e o
+Board, criaram a ATRT 1 e o mandato foi estendido para
+implementar recomendações do segundo grupo de revisão e
+transparência e esse grupo se reuniu novamente para analisar
+essa atividade de assessoria do GAC.
+
+MARKUS KUMMER:
+
+Atualmente, temos o presidente do GAC, Suíça, Estados Unidos,
+Reino Unido, Irã, e Egito. E do Board, temos Chris Disspain, Erika,
+Ram, Mike Silber, e Lousewies Van der Laan.
+
+MANAL ISMAIL:
+
+Próximo slide. Em Dublin, o GAC apresentou a necessidade de
+rever periodicamente a assessoria do GAC e a ACIG analisou o
+tema e preparou um relatório de revisão. O relatório foi
+apresentado junto com uma carta ao Board, e o Board passou o
+tema ao grupo de BGRI para analisar as recomendações.
+
+Página 2 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+Os achados principais do relatório foram que há casos
+extremamente difíceis de determinar se a ICANN aceitou a
+assessoria do GAC ou não, e se existir evidência de que a
+assessoria foi aceita, em que medida foi implementado, e se é
+que o GAC considera que a implementação cumpre de forma
+adequada com a implementação original do GAC. Esse é o plano
+de trabalho, decidimos começar rapidamente com o plano para
+que vocês possam reconhecer o que é necessário de sua parte
+para essa duração, para a sessão do trabalho.
+Markus, quer falar um pouco sobre esse primeiro plano de
+trabalho?
+
+MARKUS KUMMER:
+
+Registramos aqui 3 temas, mas temos que chegar a um
+encerramento nessa reunião. Temos outro tema, que são
+mecanismos de login e rastreamento, vamos ter uma
+apresentação na quarta com o pessoal da ICANN, e esperamos
+chegar ao encerramento com 2 recomendações, mas para o
+momento em que a gente se reúna em Hyderabad.
+O mais complexo é como implementar o que vai acontecer
+depois de Hyderabad, então vamos começar com o que resulta
+fácil, e depois passo de novo para você.
+
+Página 3 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+MANAL ISMAIL:
+
+PT
+
+Vamos passar para o próximo slide. Essa é a primeira
+recomendação que provem do relatório do ICRG. O que vemos é
+quais as formas de comunicação do GAC que incluem a
+assessoria do GAC, e pensamos que a discussão das diferentes
+recomendações devem dizer que temos um atendimento
+completo da recomendação e também do approach que se deve
+seguir, e também identificar o elementos de implementação e
+os entregáveis, e o âmbito, marco de tempo, e também a
+responsabilidade. Finalmente, como poder ou conseguir que
+essas
+
+recomendações
+
+sejam
+
+documentadas
+
+e
+
+institucionalizadas dentro do processo geral. Devo dizer
+também que esse tema foi colocado durante a equipe de revisão
+de responsabilidade e transparência 1, e se colocou uma
+definição no site, no website do GAC. Talvez aqui na tela possa
+aparecer, e será útil para que os colegas possam lembrar. Aqui
+então a pergunta é se isso não é satisfatório ou se era
+satisfatório antes ou atualmente, ou se é satisfatório mas não
+reconhecido para as pessoas. Essa definição existe.
+Acho que esse deve ser nosso ponto de partida para a revisão,
+podemos rever a definição e ver como podemos fazer com que
+seja visível e conhecida para as pessoas em que isto já existe na
+medida em que vai passando o tempo, as pessoas vão
+mudando. Tudo parece estar mais ao alcance, e ser mais
+
+Página 4 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+acessível. Algum comentário sobre essa explicação, sobre o que
+consiste a assessoria do GAC?
+
+SUÍÇA:
+
+Obrigado, Manal. Agora, parece, na minha mente, como uma
+questão de longa data, uma coisa já trabalhada, e talvez
+poderíamos colocar o assunto como um disclaimer de
+responsabilidade nos relatórios, talvez uma observação no final
+do documento, talvez seria útil colocar um link para chegar à
+definição.
+
+MANAL ISMAIL:
+
+Muito obrigado, acho que é uma sugestão muito útil.
+Algum outro comentário ou sugestão? Também gostaria de
+pedir ao ACIG se quer fazer algum comentário sobre esta
+recomendação, por favor sintam-se à vontade.
+
+IRÃ:
+
+Eu acho que todo mundo sabe, mas temos as atividades do
+CCWG que também foram adicionadas ao assessoramento do
+GAC para levar em consideração este ponto, então devemos
+considerar quais são os elementos que deveria levar em
+consideração os elementos membros do GAC que tem a ver com
+a análise, então também eles tem que estar em concordância
+
+Página 5 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+com os estatutos, com os princípios dos estatutos, então deve
+ser levado em conta esse trabalho. Obrigado.
+
+MANAL ISMAIL:
+
+Muito obrigado, essa é outra sugestão de muita utilidade.
+Precisamos agora incorporar essa descrição, e também
+determinar o que deveria ser incorporado na sessão dentro do
+GAC, por exemplo, um fundamento de acordo com os estatutos
+da ICANN, talvez não sei que outros pontos podemos retificar.
+
+IRÃ:
+
+Outro elemento, se o assessoramento do GAC se toma por
+consenso, isso também deveria ser considerado. Se não se
+tomou por consenso, também deveríamos deixar claro se é
+aprovado pelo consenso. Quero dizer que é uma diferença com
+o assessoramento. É uma coisa muito importante, talvez não
+devamos fazer agora, mas conforme avançamos no trabalho,
+considero que é interessante levar em consideração que cada
+tipo de assessoramento leva uma resposta diferente.
+
+MANAL ISMAIL:
+
+Obrigada. Eu já tomei nota, mas se o senhor quiser compartilhar
+por e-mail, eu agradeceria.
+
+Página 6 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+SUÉCIA:
+
+PT
+
+Obrigado, Manal. Eu quero perguntar o seguinte, há alguma
+forma de fazer uma referência no assessoramento do GAC, ou
+para que se identifique de forma mais simples.
+
+MANAL ISMAIL:
+
+Muito obrigada. Bom, o senhor quer dizer o seguinte, que
+deveria também estar enumerado em algum lugar da descrição
+o que é o assessoramento do GAC, ou se refere de forma geral,
+que cada vez que falamos do assessoramento do GAC teremos
+uma referência única?
+
+SUÉCIA:
+
+Não sei dizer se seria necessário enumerar aqui ou nos métodos
+de trabalho, apenas me preocupo que não seja facilmente
+identificado.
+
+MANAL ISMAIL:
+
+Muito bem, é um ponto interessante, vamos tentar compartilhar
+na lista de e-mails para também receber as contribuições a
+respeito deste ponto.
+Como mencionou Markus, isso vai fazer parte do programa de
+rastreamento, ou seja, como nós mencionamos, a assessoria do
+GAC, como procuramos esses pontos, então pergunto se temos
+que colocar no papel ou se não é necessário.
+
+Página 7 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+Algum outro comentário?
+
+THOMAS SCHNEIDER:
+
+Eu acho que há algumas questões que devemos levar em
+consideração. Em primeiro lugar, nos princípios operacionais,
+há uma disposição que fala sobre a assessoria ao Board, e não
+há muito detalhe sobre o que é o assessoramento, se são os
+estatutos que vão ser mudados em breve, e também temos
+nossos
+
+próprios
+
+processos
+
+para
+
+revisar
+
+os
+
+princípios
+
+operacionais e temos que ter uma compreensão mais clara
+sobre a via adequada para o tratamento deste trabalho em
+especial. Não temos que trabalhar de forma paralela ou em
+direções diferentes, mas temos que chegar a um entendimento
+para saber quem faz o que, e que documento devemos levar em
+conta, como os estatutos. Não necessariamente temos que ter
+esse
+
+ponto
+
+como
+
+parte
+
+da
+
+discussão
+
+dos
+
+princípios
+
+operacionais. Este grupo vai se ocupar da definição, mas todos
+temos que considerar estas questões, e também em especial a
+pergunta-chave seria se vale a pena trabalhar neste tema
+levando em conta estatutos antigos ou se temos que esperar os
+novos estatutos, até que sejam implementados formalmente,
+esses pontos devem ser considerados entre todos e quero
+escutar suas opiniões.
+
+Página 8 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+MARKUS KUMMER:
+
+PT
+
+Eu acho que a sugestão do Irã foi muito útil, tem que estar em
+consonância com os estatutos. Então, eu acho que sim, temos
+que chegar a um consenso quanto aos princípios, e ver que este
+processo seja bem sucedido, temos que debater os exemplos, e
+uma palavra é muito importante em tudo isso. É importante
+também o assessoramento explicito, talvez no passado, na
+verdade, a assessoria do GAC não era totalmente explícita,
+dizíamos que era o assessoramento do GAC. Acho que Kavouss
+tem uma pergunta.
+
+IRÃ:
+
+Eu queria confirmar o que o senhor está dizendo, temos que ser
+muito claros se vamos dar assessoria, é uma comunicação ao
+Board, o Board tem que saber o que estamos fazendo, porque
+temos que dizer, assessoria do GAC em caixa alta, significa uma
+recomendação específica, e temos que deixar bem claro ao
+Board o que estamos fazendo, então temos que levar muito em
+conta, apenas queria confirmar seu comentário, muito obrigado
+por mencionar.
+
+MANAL ISMAIL:
+
+Algum outro comentário sobre essa recomendação em especial?
+Se não, agora podemos passar ao próximo slide, recomendação
+número 2. Essa recomendação diz decidir e descrever os
+
+Página 9 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+resultados de política pública para cada assessoria do GAC
+incluir esse ponto numa declaração de assessoramento.
+Muito bem, aqui, mais uma vez, Este é um elemento que como
+mencionou Kavouss, precisamos fundamentar a assessoria e
+isso tem como objetivo resultado da política pública de cada
+assessoramento do GAC. Eu pergunto se é necessário neste caso
+uma espécie de planta ou modelo para preencher, sem deixar de
+considerar os parâmetros específicos que devemos considerar
+para cada assessoria. Também recebemos sugestão a respeito
+de que o Board pode realizar uma troca de opiniões depois do
+comunicado, e isso quer dizer que podemos ter uma chamada
+ou teleconferência com o Board, ou o Board também poderia ter
+um mecanismo de revisão para o comunicado, semelhante ao
+que está se realizando na GNSO, ou talvez podem ser
+implementadas ambas as coisas. Este é um ponto que
+deveríamos debater.
+Markus, e depois vou passar ao Irã:.
+
+MARKUS KUMMER:
+
+Eu acho que isso concorda com o que já falamos, que devemos
+ser muito claros quanto ao assessoramento. O que a senhora
+mencionou quanto ao contato posterior, isso se menciona na
+recomendação número 3 e já agendamos um projeto com o
+Board e o GAC através de uma chamada para que se esclareça e
+
+Página 10 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+se debata o que está se querendo mencionar com isso, e se há
+assessoria a respeito, e que coisa tentamos expressar.
+É uma coisa no qual estamos trabalhando, mas claro que eu
+gostaria de escutar os membros do GAC para que digam qual o
+ponto de vista este respeito seja, a ideia seria sermos mais
+explícitos e claros possíveis.
+
+MANAL ISMAIL:
+
+Passo a palavra ao representante do Irã.
+
+IRÃ:
+
+Obrigado. O senhor Markus mencionou a palavra “Explícito”, e
+entendo que o idioma tem que ter a ver com isso, pelo menos
+por parte dos governos. Quando falamos de consenso, muitas
+vezes a redação é vaga e difícil entender o que se disse. Daqui
+em diante, devemos tentar ser o mais claro possíveis e evitar
+confusões nas redações. O elemento de debate entre o Board e
+o GAC é importante quando o Board não concorda com a
+assessoria, porque depois passamos à etapa de negociação, isso
+é importante, e ainda não sabemos como se realizam essas
+negociações, se são pessoais, de que forma, talvez possamos
+tratar este tema.
+
+Página 11 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+THOMAS SCHNEIDER:
+
+PT
+
+Muito bem. O primeiro ponto é que realizamos alguns debates
+com o Board e o primeiro passo seria que antes de saber se
+estamos de acordo ou não, é se compreendem o que queremos
+dizer ou não. Então, a primeira coisa a levar em conta, temos
+certeza de que entendem o que queremos dizer, não quero
+complicar muito as coisas, mas não é um detalhe menor, porque
+existe uma porcentagem aqui que tem a ver com a falta de
+compreensão, então continuar com a assessoria deve ser
+através da coerência. Esta é a situação mais frequente. Há
+situações na qual o Board de forma explicita diz, “Não
+implementamos uma assessoria.” Na verdade é um pouco
+estranho, não é branco ou preto, mas tem a ver com a questão
+de compreender o assessoramento que damos.
+
+MANAL ISMAIL:
+
+Muito obrigada, Thomas. O senhor tratou parcialmente meu
+ponto de vista. Eu queria dizer que a intenção aqui é garantir
+chegar ao entendimento comum sobre as respostas, sejam
+negativas ou positivas, mas quanto à clareza da redação,
+lembremos que houve um mal-entendido que surgiu há pouco
+tempo e agora temos uma estrutura do comunicado, há uma
+sessão intitulada “Assessoria do GAC ao Board.”, e o GAC, de
+forma
+
+implícita,
+
+aceitou
+
+que
+
+se
+
+colocariam
+
+todos
+
+assessoramentos para o Board, mas quando fizemos a redação,
+falamos que o GAC recomenda. Então, isso vai ser considerado
+
+Página 12 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+como recomendação, e não assessoria do GAC. Então, aí é onde
+surgiu o mal-entendido. Acho que seria útil, agora que sabemos
+que recomendar é uma palavra problemática, talvez devamos
+ter uma redação mais clara da nossa parte, e também acho que
+devemos ser claros quanto ao que vamos pedir ao Board.
+Eu lembro, um exemplo, há pouco tempo Chris Disspain
+mencionou numa das ligações ou teleconferências que quando
+o GAC diz que precisamos ou queremos que o Board considere
+alguma coisa, eles devem considerar e tomar esse ponto ou não,
+desconsiderar. Então, Talvez aceitem a assessoria do GAC, mas
+solicitamos que eles façam alguma coisa, devemos especificar e
+não apenas mencionar a palavra “considerar”. Este é um
+exemplo específico que eu queria mencionar.
+
+IRÃ:
+
+Sim, Manal. A senhora mencionou que devemos ser cuidadosos
+com o que incluímos nessas sessões. O assessoramento do GAC
+tem que ser isso, se falamos de recomendação, não é um
+assessoramento. Falamos para o Board, “Por favor, leve em
+conta este ponto.” Porque uma coisa é uma consideração, e tem
+um significado muito específico, então a consideração não deve
+ser levado em conta como assessoramento. Considerar é levar
+em conta, por isso digo que devamos ser claros com a redação a
+ser utilizada na sessão de assessoria.
+
+Página 13 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+MANAL ISMAIL:
+
+PT
+
+Muito bem, vejo que estamos de acordo, muitos afirmam com a
+cabeça.
+Passo a palavra ao representante da Tailândia.
+
+TAILÂNDIA:
+
+Quanto aos prazos que você mencionou, quando falamos dos
+comentários públicos, ou prazo para estes, isso será o prazo
+para que o GAC considere, ou o tempo que ambas as partes vão
+ter para negociar? Eu quero conhecer um pouco a respeito dessa
+associação que vai se formar entre nós e os membros da ICANN
+e ver qual o marco a implementar, porque talvez fique um pouco
+duro, 3 semanas podem ser um tempo problemático para isso,
+então talvez devamos ter uma sociedade para trabalharmos
+entre nós e os membros do GAC.
+
+MANAL ISMAIL:
+
+Muito obrigado, Tailândia, pelo comentário.
+
+PARAGUAI:
+
+Eu lembro que debatemos em Marrakech, em Dublin, sobre que
+verbos iriamos utilizar para fazer a distinção mencionada pelo
+colega do Irã, e lembro quando falávamos que se sugere uma
+coisa, é diferente de dizer que se considera uma coisa. Podemos
+
+Página 14 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+considerar uma coisa e decidir fazer uma coisa ou outra, ou sim
+ou não, isso é bem diferente. Isso por uma parte. Agora, pela
+outra, seria ideal termos um entendimento comum sobre a
+forma
+
+de
+
+implementar,
+
+as
+
+coisas
+
+a
+
+entregar,
+
+as
+
+responsabilidades de prestação de contas, o tempo da
+documentação, essa seria uma situação ideal. Agora, o que
+aconteceria numa situação de caráter negativo? Isso que me
+chama à atenção, me preocupa.
+
+MANAL ISMAIL:
+
+Muito obrigado, Paraguai, e desculpe por confundi-lo, mas estes
+são pontos de debate para esta recomendação, e não para a
+assessoria do GAC, então quando nós debatemos essa
+recomendação, temos que compreender ou chegar a um
+entendimento comum de que se trata e como vamos trabalhar
+para implementar essa recomendação, isso não tinha a ver com
+a assessoria ao GAC, me desculpem pela confusão.
+
+NAMÍBIA:
+
+Muito obrigado, Manal. Eu estava escutando os comentários
+ditos quanto a sermos mais específicos, a necessidade de
+sermos claros quanto ao assessoramento que estávamos tendo.
+Agora, quando eu leio a recomendação. Diz decidir e descrever,
+quando diz descrever, acho que temos que ter cuidado porque
+falamos de políticas ou resultados de políticas públicas. Uma
+
+Página 15 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+coisa é decidir, e outra é descrever. Isso talvez nos leve a ter que
+definir o que é a política pública e o que é o interesse público.
+Para sermos claros, quando descrevemos política pública e seus
+resultados, acho que deveríamos mencionar ou descrever o
+interesse público, conceito de interesse público, e acho que isto
+é uma coisa um pouco encerrada, não sei o que foi primeiro, se
+vamos falar primeiro de política e depois de interesse público,
+então temos que descrever o resultado.
+Eu queria apenas mencionar este ponto.
+
+MANAL ISMAIL:
+
+Eu acho que, não quero dizer descrever os resultados, mas
+descrever qual o aspecto da política pública na assessoria, e por
+esta razão, nós damos este tipo de assessoria. Acho que tem a
+ver com os fundamentos, os fundamentos que surgem para
+tratar este ou outro aspecto da política pública, não é fácil dizer,
+possamos então compreender com maior clareza.
+
+SUÍÇA:
+
+Obrigado, Manal. Acabou de dizer mais ou menos o que eu
+queria sugerir, afinal de contas a nossa intenção tem muito a ver
+com a justificativa da assessoria que damos, e espero que possa
+ajudar o Board a interpretar que as vezes há uma redação muito
+críptica da assessoria, se vem com a justificativa, e que
+
+Página 16 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+possamos entender para onde estamos nos encaminhando.
+Talvez a redação da assessoria como tal tenha uma sensação
+vaga para encontrar um consenso, mas também existe essa
+sensação para que o Board e o pessoal possa encontrar a
+melhor maneira de implementar algo no nível de princípios. É
+por isso que acho que a justificativa realmente tenha a ver com
+essa recomendação.
+
+MANAL ISMAIL:
+
+Obrigado, Suíça. Antes de passar para a seguinte, a pergunta é
+se estamos todos de acordo com relação ao que se deve fazer
+para uma assessoria do GAC, como conseguir que seja cumprido
+a cada vez que oferecemos essa assessoria. Talvez deveríamos
+ter algum tipo de comunicado de referência, algum template ou
+link sobre assessoria do GAC no rodapé, onde sejam indicados
+todos os parâmetros a ver com clareza, justificativa, política
+pública intencionada, elemento, etc., e como podemos estar
+certos de que acordamos, basicamente.
+
+SUÍÇA:
+
+Talvez isso tenha sido mencionado, mas eu recomendaria que
+essa estrutura esteja na redação da nossa recomendação, e que
+recomendemos isso à secretaria.
+
+Página 17 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+MANAL ISMAIL:
+
+PT
+
+Estou totalmente de acordo, mas eu me referia a mais longo
+prazo, nos nossos postos, ou quando muda a secretaria, tudo
+isso tem que estar em um lugar onde todos possam encontrar
+para saber aderir.
+
+THOMAS SCHNEIDER:
+
+Algo que podemos desenvolver, e vocês já disseram, eu acho,
+gerar um template para a assessoria do GAC com alguns
+elementos, um vai ser justificativa, assessoria em si mesma,
+expectativas de implementação, algum âmbito de tempo
+esperado, para que tudo isso nos ajude a preparar assessorias
+para reuniões mas também se tivermos uma carta, que
+acompanhe, que haja um template que vá junto com isso, e se
+isso funcionar, permitir a quem estiver do outro lado, que se
+acostume a esse template, e à lógica, e ao entendimento. Como
+estamos gerando um novo website, talvez aqueles que estão
+trabalhando no website pensem nestas discussões e talvez
+possamos ter o template no website, que seja uma folha onde se
+explique como a assessoria é gerada com os diferentes
+elementos.
+
+MANAL ISMAIL:
+
+Página 18 de 25
+
+Obrigada, Thomas. Estou totalmente de acordo.
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PARAGUAI:
+
+PT
+
+Obrigado, Manal. Eu ia mencionar que se vocês tem link para a
+página do GAC, seria bom para que todos tivéssemos acesso a
+esse template. Acho uma boa ideia.
+
+MANAL ISMAIL:
+
+Obrigada, Paraguai. Até o momento, vamos aguçar a descrição
+da assessoria do GAC com a descrição, com ajuda de Irã, quem
+quiser que queira ajudar, então vamos depois fazer circular essa
+descrição, vamos trabalhar com a ajuda da secretaria para gerar
+um template para o comunicado do GAC. Espero que estejam de
+acordo, e depois tenho uma proposta de termos um piloto para
+a chamada do GAC ao Board e para que todos estejamos de
+acordo em que oferecemos nossa assessoria ao comitê no
+comunicado.
+Passamos para o próximo slide, que tem a recomendação
+número 13, se dentro de cada assessoria expressada, são
+expressados os diferentes elementos implementáveis. Acho que
+isso já surgiu dentro da discussão da equipe de revisão e
+transparência 1, e é por isso que decidimos colocar em
+diferentes itens as partes da assessoria para estarmos certo de
+que nenhuma parte fique fora. Na prática, quando a assessoria
+for incluída no registro, irá para outro registro e assim como se
+torna muito mais difícil, fazer um rastreamento das diferentes
+partes e então por isso o mérito nessa recomendação acho que
+
+Página 19 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+é esse, justamente. E se quiserem fazer perguntas, por favor,
+façam sem problemas.
+
+SUÉCIA:
+
+Obrigado, seria maravilhoso se pudéssemos fazer tudo isso. Eu
+falo com experiência, tendemos a estar satisfeito quando
+incluímos assessoria e escrevemos assessoria ao Board. As vezes
+temos que trabalhar até 4, 6 da manhã fazendo tudo isso, mas
+por que quanto mais precisão tivermos na nossa assessoria,
+mais tempo vai levar escrevendo, negociando, porque gera
+novas áreas, temas a serem negociados. É por isso que acho que
+temos que ter um nível que resulte razoável, com o qual
+possamos cumprir e não colocar a barra muito no limite, como
+meta muito alta, que seja difícil de conseguir, senão não vamos
+conseguir nenhum deles, e seria desejável que tudo isso seja
+cumprido, e devemos esperar que isso razoavelmente se
+cumpra.
+
+MANAL ISMAIL:
+
+Obrigada, Anders. Acho que é um bom ponto este que você
+colocou. Há 2 opções aqui, podemos não especificar os
+elementos implementáveis ou para o template, podemos
+escrever esses elementos implementáveis, e as vezes podemos
+ver se a implementação se encaminha num caminho específico,
+
+Página 20 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+identificar as diferentes partes e colocar um placeholder, e ver
+como podemos avançar nesse sentido.
+
+THOMAS SCHNEIDER:
+
+Acho que Anders está fazendo um ponto, analisando um ponto
+muito importante. Talvez não devemos ser muito prescritivos
+com relação a como preencher esta estrutura, não é uma coisa
+muito nova. Nas assessorias que demos em comunicados ou
+cartas, muitas vezes há uma justificativa que não está em forma
+de itens ou tópicos, apesar de que nós temos isso, e são
+implementáveis. A questão é sermos mais estruturados na
+apresentação disso tudo, mas nunca vai ser um texto legal no
+qual apareçam A, B, C, D, quarter, etc., não, isso não vai nos
+levar para nenhum lado. Acho que devemos levar em
+consideração que estamos fazendo não apenas o comunicado
+que temos que enviar, mas sim pedir alguma assessoria, fazer
+isso antes da reunião. É muito comum isso em outros fóruns, em
+outras instituições em que há textos que são preliminares, então
+fazer um rascunho com os elementos, e fazer antes para não ter
+que negociar depois. Tudo quando pudermos fazer em termos
+de preparação do texto antes da reunião, mais possibilidades
+teremos de poder cumprir, essa é minha resposta para vocês.
+
+MANAL ISMAIL:
+
+Página 21 de 25
+
+Temos Reino Unido, e depois Irã.
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+REINO UNIDO:
+
+PT
+
+Obrigado, Manal. Talvez eu corra o risco de fazer engenharia
+demais, dividir muito todos os temas, e isso vai nos levar muito
+tempo para esses detalhes nas discussões, mas essa
+recomendação, acho muito importante. Nós podemos dar
+alguma assessoria como comitê em temas que podem ter certa
+complexidade. Como disse Manal na sua introdução, houve
+instancias no passado que nos perdemos de vista aquilo que
+estava acontecendo com certos elementos de assessoria, talvez
+acidentalmente, e eu adicionaria também do lado do GAC,
+identificamos elementos que poderiam ter diversas linhas de
+tempo para implementar, mas acho importante fazer
+rastreamento disso tudo e fazer acompanhamento, segmento.
+Isso seria aplicado em algumas situações e temos que ser bem
+rigorosos na aplicação talvez desta recomendação em
+particular, mas acho uma recomendação de muito valor.
+Se temos uma referência para esses elementos, nos ajudaria
+também a rastrear a assessoria complexa, temas possivelmente
+vinculados com os novos GTLDs, a organização de uma nova
+rodada, etc. É o tipo de situação que eu posso prever.
+
+MANAL ISMAIL:
+
+Obrigada, Reino Unido. Irã, e enquanto isso, podemos colocar o
+trabalho na tela.
+
+Página 22 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+IRÃ:
+
+PT
+
+Obrigado, Manal. O que a senhora disse, junto com o que disse
+Kumar é de muito alto nível, portanto é muito bom. Nós
+podemos colocar um qualificador em alguma parte disso. Isso é
+algo que podemos fazer. Mas, quero voltar ao que disse Thomas,
+que é muito importante. Começamos com assessoria numa
+sessão, depois chegamos ao problema das 2 da manhã, estamos
+com a pressão do consenso por estarmos exaustos. Isso não é
+bom e talvez tenhamos que levar a assessoria da reunião
+seguinte como uma antecipação e preparar algo, pedir às
+pessoas que pensem, trabalhar durante a reunião e depois
+podemos ter alguma estrutura ou documento preliminar, mas
+não tentar conseguir isso no segundo ou terceiro dia, chegar às
+2 da manhã, que haja divisão, pressão, etc. Obrigado.
+
+MANAL ISMAIL:
+
+Obrigado, Irã. Se pudemos ir para o último slide, porque pedem
+que terminemos mais cedo para que a sala possa ser organizada
+para a sessão dos grupos intercomunitários. Então, vamos
+começar só para confirmar, vamos ajustar a definição atual do
+que é uma assessoria para o GAC, vamos fazer ela circular pelo
+e-mail, vocês vão trabalhar com o template para os elementos
+que a assessoria do GAC deve ser completado, preenchido,
+como a ACIG e o pessoal de apoio e podemos começar a
+
+Página 23 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+PT
+
+trabalhar com esse template a partir da reunião de Hyderabad,
+e acho também que estamos de acordo em ter uma troca
+posterior ao comunicado entre o GAC e o Board para ver como
+vai se desenvolver isso, seria um piloto.
+Também quero dizer que depois de tudo isso, vamos rever e
+consolidar os mecanismos de rastreamento num portal de fácil
+acesso, onde vamos poder ter assessoria do GAC que vai ser
+facilmente encontrável, divisível, etc., e isso também vai nos
+levar ao novo site do GAC. Vamos rever as novas características
+da plataforma para garantir que tudo se caracterize, as
+características das plataformas se incluem, vamos ver se os
+detalhes faltantes podem ser preenchidos porque nem tudo foi
+completado,
+
+preenchido
+
+no
+
+registro
+
+atual,
+
+porque
+
+as
+
+responsabilidades não eram tão claras. Devemos deixar bem
+claro quem entra os dados. Acho que para Hyderabad vamos ter
+um panorama mais completo, porque nós devemos documentar
+o processo no quadro de fluxo, um flowchart, e devemos fazê-lo
+quando vai correndo o processo. Também temos que utilizar
+todos os elementos acordados, institucionalizar os elementos
+acordados, e como disse Thomas, finalmente devemos
+pesquisar os princípios operacionais do GAC à luz dos resultados
+gerais.
+Para ir encerrando rapidamente, passo a palavra para Markus.
+
+Página 24 de 25
+
+HELSINQUE – Grupo de Trabalho de BGRI (Recomendações de Implementação da Diretoria/GAC)
+
+MARKUS KUMMER:
+
+PT
+
+Não tenho muito mais a adicionar, mas do que agradecer à
+Manal pelo seu excelente trabalho, e dizer aos membros do
+Board, Mike Silber não pode estar aqui, não pôde vir para
+Helsinki, Lousewies Van der Laan também está em outra sessão,
+e Ram Mohan também está como presidente numa sessão.
+
+THOMAS SCHNEIDER:
+
+Este é um bom exemplo de como 45 minutos bem estruturados
+podem ser bem aproveitados, acho que sempre podemos
+aprender um do outro, tudo está muito bem estruturado e
+preparado.
+Sabemos que vamos poder avançar com isso, mas quero dizer
+mais alguma coisa. Vamos ter uma ligação com o Board da
+ICANN que está planejado, estamos na fase de encontrar uma
+data, e supostamente todo o GAC vai participar, vai estar aberta
+para todo o GAC, fazemos assim porque não podemos ter uma
+reunião aqui, então vamos utilizá-la para ver se funciona, se é
+útil para o Board, e temos que sair agora para liberar a sala para
+a sessão intercomunitária. Muitos de vocês que vão ficar
+certamente aqui, os que não e que tem outras obrigações,
+dizemos que amanhã de manhã, às 8:15 da manhã há um grupo
+de trabalho que esqueço o nome, então nos encontramos
+amanhã, obrigado.
+
+Página 25 de 25
+
+

@@ -1,0 +1,1686 @@
+EN
+
+HELSINKI – SOP Working Group
+
+HELSINKI – SOP Working Group
+Monday, June 27, 2016 – 09:15 to 10:30 EEST
+ICANN56 | Helsinki, Finland
+
+[GIOVANNI SEPPIA]:
+
+We’ll start in two minutes.
+Good morning, ladies and gentlemen, and thank you for
+attending the ccNSO Strategy and Operating Plan Working
+Group meeting here at the ICANN 56 policy forum in Helsinki. We
+have circulated the agenda the [past week] of this meeting, but
+before I get into that, I would like a quick tour de table to
+introduce each other and making sure that those who are not
+familiar with each other, they know the names and affiliations.
+I’d like to start from my left. Patrick?
+
+PATRICK JONES:
+
+Patrick Jones with the ICANN global engagement team.
+
+ALEKSANDAR POPOVIC:
+
+Aleksandar Popovic, .rs.
+
+MICHAEL VASSILAKIS:
+
+Michael Vassilakis with .gr.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+EN
+
+HELSINKI – SOP Working Group
+
+JOKE BRAEKEN:
+
+Joke Braeken, ccNSO secretariat.
+
+BECKY NASH:
+
+Becky Nash with the ICANN finance team.
+
+GIOVANNI SEPPIA:
+
+Giovanni Seppia, .eu, EURid.
+
+XAVIER CALVEZ:
+
+Xavier Calvez, CFO.
+
+TARYN PRESLEY:
+
+Taryn Presley, ICANN staff, finance department.
+
+DEBBIE MONAHAN:
+
+Debbie Monahan, .nz.
+
+BART BOSWINKEL:
+
+Bart Boswinkel, ccNSO secretariat.
+
+ALLAN MACGILLIVRAY:
+
+Allan MacGillivray, .ca, CIRA.
+
+MATHIEU WEILL:
+
+Mathieu Weill, .fr, AFNIC.
+
+Page 2 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+STEPHEN DEERHAKE:
+
+Stephen Deerhake, .as, American Samoa.
+
+SOULEYMANE OUMTANAGA: Souleymane Oumtanaga, .ci, [inaudible].
+
+BARRACK OTIENO:
+
+Barrack Otieno, AfTLD, Africa Top Level Domains Organization.
+
+UNIDENTIFIED MALE:
+
+[inaudible], regulator of Togo, ccTLD of Togo. Thank you.
+
+GIOVANNI SEPPIA:
+
+Thank you, and good morning again. I have to record two
+apologies from [Wafa] and [Paul], who cannot be with us today
+and they send their regret for not being able to join the meeting
+in person or remotely this morning.
+We have circulated this agenda, and I have liaised together with
+Bart, with Xavier and his team regarding the structure of this
+meeting. On the 25th of April this year, the ccNSO Strategy and
+Operating Plan Working Group has submitted its input to the
+ICANN Fiscal Year 17 Operating Plan and Budget.
+We divided ourselves into sub-working groups as usual, and
+
+Page 3 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+each sub-working group produced the input on some specific
+parts of the Operating Plan and Budget. There was a preamble
+which was highlighting some recurring themes in the feedback
+that we provided, including – this is a recurring theme – the need
+to introduce more and more precise KPIs and also the need to
+include more timeframes for the different projects and different
+activities in the strategy plan and budget.
+Also, there was a need to specify more in details certain figures
+for some of – this is shown now on the screen – the feedback
+that the Strategy and Operating Plan Working Group provided to
+ICANN and also, as I was saying, to get more details on certain
+figures.
+I went through the ICANN response, which was uploaded
+recently on the ICANN site, to all the comments that were
+received by ICANN on the Fiscal Year 17 Operating Plan and
+Budget, and there are quite good responses to the different
+points we raised, while there are also some other points that
+were postponed. There’s a commitment at ICANN’s side to
+provide more details at a later stage or to incorporate the
+clarification in the final draft of the fiscal year Operating Plan
+and Budget, which is going to be approved by the Board.
+I would like to say that I was very happy, and I have to
+acknowledge the work that has been done by the different
+
+Page 4 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+members of the working group. Thanks again for your
+commitment to provide your feedback on time. That allowed me
+to put everything together and submit it to ICANN.
+At the same time, I would like also to acknowledge a quite good
+comment made by another stakeholder group. It’s a comment
+regarding the [expenses] part of the plan. The other stakeholder
+working group made a very good comment regarding certain
+figures for which there is going to be an increase in the Fiscal
+Year 17 Operating Plan and Budget. They highlighted that they
+appreciate this increase because it shows how much ICANN is
+caring for certain new teams, certain new areas, including cyber
+security. It’s positive from this stakeholder group to see the
+increase of certain figures.
+I would like, before I leave the floor to Xavier, to invite our
+working group to also provide these kind of comments and be
+included. Whenever we see that there is an increase in figures
+and we believe that it’s valuable to have an increase of
+investments at ICANN side on certain areas, we can stress it
+instead of always saying, “Why did you increase this figure
+instead of another?” or something like that, just to also have a
+positive approach and say openly that if we believe that some
+areas are worth to be having more investments, more resources,
+that could be a good point to stress in our input.
+
+Page 5 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+With that said, I’d like to leave the floor to Xavier, who has
+prepared a presentation about the input we submitted and the
+feedback to our input, which they recently published on the
+ICANN site. Thank you. Xavier?
+
+XAVIER CALVEZ:
+
+Thank you, Giovanni. Good morning, everyone. Before we go
+over our presentation, I want to acknowledge the fact that your
+group is one that, for us and across the community, as you
+know, everyone looks forward to hearing from. The public
+comment process on the Operating Plan and Budget is one
+that’s very substantive. Your group has history, knowledge,
+expertise in looking at the management of organizations and it’s
+concentrating an expertise that’s actually unique in the
+community.
+We look forward for your comments very much when the time
+comes for the end of the public comment period. We know that
+your colleagues in the community look forward to your
+comments, as well, and will take guidance from your comments.
+I simply want to acknowledge that your work in this working
+group is very important and beyond simply the value that you
+deliver directly to ICANN. It has value to the community. Not that
+I am saying anything you don’t already know, but I simply want
+to emphasize that that’s the case. I hope the participation in this
+
+Page 6 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+working group can continue to be as strong as it has been. Next
+slide, please.
+We’ll go over the comments. We have a short summary of the
+comments, just so that you see the magnitude of the comments
+and the number of comments that have been received. Then
+we’ll go over the comments that the ccNSO provided, and we’ll
+not necessarily go into detail of every one of them, but we’ll be
+very happy to highlight any one of them that you think are of
+particular interest. If you would like that we stop on any of them
+to dive a bit into the answer, please feel free to raise your hand
+and then we’ll do that.
+We’ll talk a little bit about an aspect of the budget that has
+recently been settled, and we’ll close with that.
+I would suggest that considering the size of the group, if you’re
+okay with that, that people jump in as we go. Let’s make it very
+interactive.
+
+GIOVANNI SEPPIA:
+
+Especially, to shut you up. [inaudible]
+
+XAVIER CALVEZ:
+
+Yes, exactly. That gives me a break, as well.
+
+Page 7 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+Next slide, please. Just to give you a quick overview of what the
+public comment process has been this year in the public
+comment period, 12 different organizations provided about 150
+comments, a bit more. This is the largest amount of comments
+that we have received in the past at least five years, which we
+consider a success. That demonstrates an increase in interest
+and participation. The planning process and the budget process
+for ICANN is a pillar of the multistakeholder model, and the
+participation in this process is key.
+We think this is very good, though at the same time, we know
+the investment it requires from community members to be able
+to comment on the budget. It’s very massive, deep, and wide
+information. It’s challenging to grasp, to understand unless you
+are an expert. In this group, I think you have that expertise, but
+in many other parts of the organization, that expertise does not
+exist. It’s very complicated to enter into this process and be able
+to comment, so we need to find ways to lower the bar of access
+to being able to understand and participate in the planning
+process in the future.
+You see here the themes. I won’t go necessarily over them. I’ll
+simply highlight the largest ones in terms of number of
+comments. Financial management is a bit of a bucket relative to
+the comments – and we’ve received 24 comments on that – on
+the total revenue, the total expenses, on the governance relative
+
+Page 8 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+to the finance for the organization. The process has also been
+the subject of a large number of comments, the 23, and not
+surprisingly, the IANA stewardship transition has also been the
+subject a large number of comments.
+Not surprisingly to this group, the KPI definition and structure is
+also an area that has received a lot of interest across the
+community, not only from this group. We’re thankful for that
+because this is an area that’s relatively new in our operating
+plan. It really has kicked off last August with the beta version of
+the dashboard. Now we are in version one since February. We
+have another version two that is planned to kick in, in October,
+and each of those versions try to include improvements in the
+KPIs, in their accuracy, in their relevance, in their definition.
+Those versions result from the input that we collect through
+these various processes, as well on a less formal basis. Keep it
+coming. We need this input on the KPIs and the dashboard so
+that we can continue improving that aspect of the organization
+and the plan.
+Any questions on this overview? Okay, so let’s dive in. Next,
+please.
+We have listed on the next few slides the comments that this
+group has provided on behalf of the ccNSO. Can you go back a
+[second]? Thank you. Next. I would like to speak to one of the
+
+Page 9 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+comments, which is the one at the bottom on this slide relative
+to the consistency or lack of consistency on the operating plan
+and the structure of the operating plan. I want to remind
+everyone that our operating plan is based upon the
+management system that each manager at ICANN uses on a
+daily basis to manage projects. Those projects are aggregated in
+portfolios. The portfolios then are aggregated into goals and
+then objectives.
+The comment is one that I have myself, that our team has, as
+well. Because it is a tool that is used every day across the entire
+organization, it is subject to the expertise and structure of each
+of the managers of ICANN. The lack of consistency that is
+pointed out here is actually the reflection of the different levels
+of either expertise or different type of usage of the management
+system that you can see across all the departments of ICANN.
+For example, the policy department in which Bart is has a way of
+using the number of projects that’s relatively detailed and that
+isolates each of the policy development processes on an
+individual basis. For the finance department that I head, we
+have a very limited number of projects that capture the general
+day-to-day activities and just one or two or three projects. We
+have, across two departments, a different way of using our
+management system, and that translates from an external
+perspective looking at the operating plan, into discrepancies in
+
+Page 10 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+the structure and depth sometimes of the operating plan that
+comes out.
+While it is, in our views, logical that the way each department
+that is different uses differently the management system and
+therefore the operating plan, we also recognize that it comes
+across as inconsistency, and sometimes it is. This is something
+we internally need to work on, is to be able to educate the
+managers in the organization and try to guide these managers to
+using in as consistent fashion as possible the management
+system of the organization, while using it in a fashion that
+supports adequately their operations that can be very different.
+This is something we need to put emphasis on.
+
+UNIDENTIFIED MALE:
+
+Xavier, thank you for clarifying this. If I remember correctly
+somewhere on the floor – No, it’s okay. I’ll do that later.
+Somewhere, there is written in the feedback of the comments
+that there is a process to develop internal guidelines to educate
+the management how to populate with details and content the
+plan.
+
+XAVIER CALVEZ:
+
+That’s correct. That’s one of the tools that we’re trying to use to
+improve that consistency and that level of detail. I would also
+
+Page 11 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+say that the KPIs help us structure better the projects and
+portfolios because when we formulate a KPI that measures
+either the effort or the outcome or ideally both of the activity,
+then it’s also easier to structure adequately the activity.
+We have seen that the use of KPIs was making the structuring of
+the projects within the operating plan more adequate and more
+relevant. That’s been something that's come across notably
+from Patrick’s team, the GSE team, the Global Stakeholder
+Engagement team who has done a lot of work over the past
+months on formulating KPIs. That work translates into a
+structure of the projects and the portfolios that now makes
+more sense and is more transparently demonstrating the
+activities of the organization and the outcome of those
+activities. There’s a quality improvement that results from
+introducing the KPIs. Not that any of you are surprised with that
+because that’s why you have made those comments over the
+years, but we now see the benefits of that.
+It’s a challenging exercise to do, but this is one that we need to
+continue doing all the time. Unless there’s other questions, I’ll
+move on.
+
+UNIDENTIFIED MALE:
+
+Page 12 of 51
+
+Are the guidelines being produced?
+
+EN
+
+HELSINKI – SOP Working Group
+
+XAVIER CALVEZ:
+
+Yes. We have guidelines on how to structure projects, how to
+describe it. That also provides guidance on creating milestones
+for the projects and linking obviously those milestones with the
+five year operating plan if the project carries over several years.
+That helps. We are trying to roll out those guidelines across the
+organization. We need to find better ways to continuously
+support the managers through the organization to apply those
+guidelines [well]. We need to put in place that quality control
+and that guidance to ensure that those guidelines are
+understood, applied, and effective. That’s going to be the next
+step for us.
+
+UNIDENTIFIED MALE:
+
+And the next step from a time perspective is when?
+
+XAVIER CALVEZ:
+
+Is going to be defined through this planning cycle for FY18 that
+we’re going to start now because we are now going to work over
+the next few weeks on how we are going to ask the budget
+owners to structure their projects, to structure their operating
+plan for the planning of FY18, which will start in the next few
+weeks.
+
+Page 13 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+UNIDENTIFIED FEMALE:
+
+Would you find it useful, then, as part of that, Xavier, if we gave
+you comments? If I’d go to your dashboard, some of the
+progress reports are really clear and easy. You can tune in and
+you can get a picture of where that manager sees the project is
+at against the KPI. Then others have got a number, and they
+might have a [cutted line], but I’ve really got no idea as to what
+that actually means when they say “things are progressing.”
+I’ve got two examples I’ve just looked at in the last five minutes.
+I’m thinking, is it useful if we say, “These ones are fairly useful
+and that one’s not so much?”
+
+XAVIER CALVEZ:
+
+That definitely would be, so don’t hesitate if you come across
+those either inconsistencies or deficiencies of the KPIs to
+demonstrate the activity. Absolutely, please do. That would be
+very useful. Again, I find that the KPIs and formulating them
+correctly has helped us make the plan a lot more structured and
+more transparently demonstrating the activities that occur and
+their outcomes. I think that can be very helpful. If you come
+across that, please do provide us that feedback. That would be
+really helpful. Next?
+
+Page 14 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+UNIDENTIFIED MALE:
+
+I’m not sure whether that question will get an answer later, but I
+see you mentioned of the EFQM program within ICANN. I’d like to
+know what’s the status about it. Are you doing external
+assessments? Are you planning external assessment, and will
+you be in a position – and basically when – to share some
+insights about the feedback you’re receiving from that?
+
+XAVIER CALVEZ:
+
+Thank you for that question. I’ll provide a more substantive
+question. I need to check the timeline with Susanna Bennett, the
+COO of ICANN, who oversees the implementation of that
+program. We are rolling out the program on a department by
+department basis. That has continued over the past few months.
+From memory, the external assessment that we’re planning will
+be during FY18 if I remember correctly, which will be basically
+after three years of implementation and rollout of the plan. I
+know you're familiar with it, and I think that's a relatively
+consistent timeframe with the methodology of implementation
+that EFQM suggests, depending on of course of the size of the
+organization and the choices made on the speed of
+implementation, as well.
+We have tried to be progressive in that rollout. As you all know,
+there’s a lot going on in the organization, and it was difficult to
+stop a number of other projects in order to make more progress
+
+Page 15 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+on this one. We have tried to continue a steady pace of
+implementation so that we keep the momentum, while we
+haven’t made it a stop everything and do that type of approach.
+I will confirm the timing of that external assessment, and I will
+retrieve the roadmap that we have for the project and I will
+share that.
+
+UNIDENTIFIED MALE:
+
+I have a KPI suggestion, very concrete. It is map out a number of
+departments of ICANN, indicate the status of deployment across
+these departments as part of your KPIs. This is ongoing in seven
+out of ten or whatever. We consider it as completed, and so on.
+That would be a nice way to see how that program is making
+progress.
+
+XAVIER CALVEZ:
+
+I think it’s a very good idea, demonstrating the progress against
+that. It’s an operational excellence model, as you know. It’s also
+all-encompassing
+
+across
+
+the
+
+organization’s
+
+operational
+
+excellence progress. Thank you for that suggestion. We’ll make a
+note of it.
+Next, please. We’ll pass that one. It’s some percentages.
+Giovanni, since you've gone across all of the comments, as well,
+
+Page 16 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+if there are any that you think we should stop on as well, please
+feel free.
+
+GIOVANNI SEPPIA:
+
+There are a couple of indexes. One is the domain health index,
+and if I remember correctly, there is a wish from ICANN to get
+more engaged with this working group and the entire ccNSO
+community to get more elements to improve or refine this index.
+There is a wish that is expressed in the feedback we’ve received.
+
+XAVIER CALVEZ:
+
+Thank you. This is an ongoing work that has been taken on by
+Cyrus Namazi and his team in the DNS Industry Services to try to
+define an index that helps measure the progresses of the area of
+responsibility that he has. This has been a result of an
+assessment that it was not easy to define individual KPIs that
+help cover the entire scope. Therefore, that index was believed
+to be measuring the environment that then this group actually
+impacts.
+It’s a challenging exercise, but the value of it is actually to be
+able to bring together the participants of which the ccNSO is of
+the domain name industry to be able to define the parameters
+that can enter into that index and make it as relevant as possible
+to the ICANN environment and, therefore, be able to then
+
+Page 17 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+establish a calculation of that index and then establish a
+baseline, of course, and then measure it over time. Of course,
+when you do that, as you know, you want to be able to have a
+certain amount of stability in the definition of that index
+because evolution over time with an index that keeps changing
+is not helpful. Defining it well at the outset is something very
+important.
+What I need to check with Cyrus is the timeframe for the
+completion of the first draft of that index because I don’t
+remember. That’s something I can also follow up with him. Here,
+we’re saying the development of that index continues, but we
+don’t have a timeline for completion of a first draft unless I’m
+mistaken.
+
+GIOVANNI SEPPIA:
+
+If I can just say that I believe this working group, as well as all the
+ccNSO community – if I can speak on behalf of the ccNSO – we
+are always available to provide any help that you may need to
+refine this index. If I remember correctly, the discussion goes
+back to the time when we were presented some figures about
+the domain name growth projections around the globe. We
+found them quite inconsistent against the projections we were
+having at different regional and continental levels. Again, we
+remain available to help you. Mathieu?
+
+Page 18 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+MATHIEU WEILL:
+
+Under the registry stakeholder group list, which I happen to
+follow, there’s a lot of discussions. There have been public
+comments about draft metrics for the domain health index. Is
+that the same index we’re talking about?
+
+XAVIER CALVEZ:
+
+I believe so, yeah.
+
+MATHIEU WEILL:
+
+So probably maybe in a future meeting, we can invite Cyrus or
+the people working on this. I know they’ve been doing
+workshops with the Registry Stakeholder Group in the GNSO,
+but probably it could be worthwhile doing this within the ccNSO,
+as well.
+
+XAVIER CALVEZ:
+
+I think that would be great.
+
+GIOVANNI SEPPIA:
+
+In Marrakech, there was this idea that was launched in this
+working group to, as Xavier and his team, they are collecting
+input from the different ICANN departments. Some of the
+comments that we have submitted over the years, they’re
+referring not really to financial figures but also to the content.
+
+Page 19 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+That is a content that is not up to Xavier and his team to produce
+but is assembled by Xavier to have some extra clarification on
+different areas of the ICANN strategy.
+In Marrakech, we launched the idea to have a broader and open
+discussion that is going to take place for the first time tomorrow
+afternoon. There’s going to be a session with a couple of people
+from ICANN different departments who are going to speak more
+in details about certain areas about which we submitted
+comments over the years.
+One of them is the [hub] strategy, so the office strategy of ICANN,
+and the other one is HR, so how ICANN is dealing with HR in
+terms of evaluation, in terms of hiring processes. Those are just
+two of the areas where we had quite a lot of comments over the
+years. For the first time tomorrow, there’s going to be this
+session tomorrow afternoon at the end of the ccNSO meeting.
+It’s almost at the end of the ccNSO first day meeting. There is
+this session with some of the people behind those parts of the
+strategy.
+Again, it would be probably useful in the future to invite Cyrus to
+speak about the domain health index and see how it can
+contribute.
+
+Page 20 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+BART BOSWINKEL:
+
+There are different ways of doing it, but I think it could be a nice
+session in Hyderabad, as well. [Seek] a combined session with
+the Registry Stakeholders Group to go over the domain name
+health index, and maybe even at the ccNSO meeting itself, so the
+[meetings] day. Not just limit it to this group. It’s interesting for
+probably the broader community.
+
+XAVIER CALVEZ:
+
+Just a compliment to what Giovanni just said about the session
+tomorrow. The HR aspect of this discussion will be led by
+Susanna Bennett, the COO of ICANN, and the engagement and
+[hub] and outreach topics will be presented by Sally Costerton,
+head of Global Stakeholder Engagement. Being the people, as
+Giovanni indicated, that basically manage those functions at
+ICANN and therefore with which a substantive discussion can
+happen on understanding how each area is managed in
+interacting with each of them, of course. Hopefully, you will all
+be able to participate tomorrow afternoon to this first exercise.
+Relative to the health index and so on, it sounds to me that
+Hyderabad is good timing, as well, because if you remember in
+our planning process, it will likely precede the definition of the
+revenue assumptions for FY18. Cyrus’s team is the one who
+produces those revenue assumptions on the basis of market
+trends as well as the specific registry assumptions for ICANN’s
+
+Page 21 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+revenue. This, to me, seems both a good timing and a good
+combination of topics at the same time. We’ll follow up on that
+together, Bart, with Cyrus.
+Any specific questions or comments on the comments that are
+here on the screen? We just showed the comment relative to the
+industry index, and I see that the response that Cyrus offered is
+that there’s a better version of the index expected by the end of
+FY16, which is in five days from now. We’ll follow up with him.
+There are other industries, as well, that are being developed
+across the organization. I think, Patrick, there’s one in GSE as
+well, right? It’s a similar approach to creating an index that can
+be used as a reference. Of course, the creation of that type of
+indices is a relatively complex and broad, for the right reasons. It
+also takes a lot of effort to aggregate the data, which is a lot of
+manual effort to go and look for it, and then aggregate it in a
+structured fashion. But it’s a very healthy exercise to help us
+build these metrics.
+Patrick will be part of the group tomorrow that will present the
+GSE strategy. Patrick?
+
+PATRICK JONES:
+
+In tomorrow’s session, we’ll talk about our approach to
+engagement and how we’ve been improving our KPIs and the
+
+Page 22 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+data that we do collect on our engagement activities. We’ll also
+include with that the approach to the hub and engagement
+office strategy. We’ll provide some explanation that will
+complement the response to the public comments that was
+provided.
+
+XAVIER CALVEZ:
+
+Thank you very much. Next, please. We’re not going in order is
+what you're telling me. We’re already on slide 27? Let’s scroll
+through. How long do we have?
+
+GIOVANNI SEPPIA:
+
+It’s just a matter now of timing. I’m looking at the working group
+members. Is there any specific area where you'd like to hear
+more from Xavier? I mentioned the indexes that are referred to
+in the feedback. It was one point in the agenda and is also
+mentioned in our input is how ICANN is now managing the
+transition.
+I’m in this finance working group list, and I’ve seen there are
+some e-mail exchanges regarding the reserve fund and some
+comments regarding the reserve fund which is going to be used.
+There are also a couple of comments not of the ccNSO SOP
+submitted to the Fiscal Year Operating Plan and Budget relating
+
+Page 23 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+to the contingency fund. ICANN doesn’t have a true contingency
+fund, so it operates differently.
+If Xavier can elaborate a bit more about the reserve fund and the
+contingency fund. Again, if anybody else from the working group
+has any area of what we have already submitted or any other
+area you'd like to hear more from Xavier, I think this is the
+moment.
+
+XAVIER CALVEZ:
+
+Let me start, and then we’ll gather questions as they come.
+There’s been a number of discussions going on relative to the
+reserve fund of ICANN and in connection with the IANA
+stewardship transition project’s expenses. To try to share the
+same information with everyone in this group, the IANA
+stewardship transition project has been going on and we’ve
+been tracking it from a cost standpoint since July 2014, the
+beginning of the fiscal year 15 of ICANN, so FY15, FY16. That’s
+now closing. That’s two years of intense activities that have
+been more intense over the past year and a half.
+We have, as an organization – when I say organization, I mean
+the entire community – we have spent approximately $28
+million on this project over those two years, FY15 and FY16. The
+funding of those expenses was determined to be needed to
+come from the reserve fund, simply because we didn’t have the
+
+Page 24 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+money in our annual operating revenue to be able to fund those
+expenses from it. It has come from our reserve fund. The reserve
+fund at the beginning of this period was $88 million. It’s now
+going to be at $60 million once we take out the expenses.
+There’s now the expenses for FY17 coming up, which we are
+estimating to be short of $9 million. So $60 million at the end of
+FY16 in a few days, less $9 million for FY17. That will bring the
+reserve fund at about $51 million or so, ignoring investment
+gains on the fund.
+$51 million, to put this in relation to where do we want this
+reserve fund to be, which is currently sent at a 12 months of
+operating expenses for the organization as the adequate target
+amount for that fund. If we look at the FY17 budget, 12 months
+of operating expenses is a $132 million. So $51 million, future
+level, compared to $132 million of target. There’s obviously a
+problem. This is a concerning problem, not just to me as CFO,
+but to the entire community, of course, including the Board.
+There’s a lot of work that is going on to, first of all, manage the
+expenses of the project as tightly as possible as well as finding
+solutions to replenish the reserve fund, basically.
+The Board has, separately, carried out a project of reanalyzing
+the rationale for the reserve fund and also the target level and
+the governance of the reserve fund of which, of course, including
+how we replenish this fund?
+
+Page 25 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+A number of mechanisms have been mentioned. Of course, for
+example, having an excess generated every year to put money
+away, just like a normal savings account. But considering the
+gap of $51 to $132 million, using just those numbers, which is
+about $82 million, it’s not by putting away $2 million or $3
+million every year that we’re get anywhere, or not anywhere
+fast.
+That’s the problem that is in front of us that the Board and
+notably the finance committee, of course, is looking very much
+into. The Board has even more than half of its members involved
+in the working group that works on the reserve fund target
+definition, and we’re expecting this to come out in the next few
+weeks. It’s coming to an end, and it’s timely with the challenge
+that we have of having this reserve fund being depleted.
+We will have very interesting conversations in the next few
+weeks and months on how do we replenish this reserve fund. I
+want to emphasize that as part of the FY17 budget, the envelope
+of nearly $9 million that I mentioned has been included in the
+budget and is conditional to the funding has been indicated to
+be from the reserve fund as well, but as a temporary measure.
+The Board has determined that the funding of that $9 million
+would come out of the reserve fund, but until we have
+determined a way to replenish the reserve fund and defined a
+possibly alternative source of funding for these expenses.
+
+Page 26 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+We will initiate over the next few weeks a process to get input
+from the community as to how do we want these expenses to be
+funded because we can’t continue to deplete our reserves. We
+need to find ways to do that. How long are those expenses going
+to last is obviously one big question. How do we fund those
+expenses knowing that the reserve fund of ICANN is not there to
+fund that type of projects but is there as a safety reserve to face
+unknown, unexpected, unavoidable expenses that could occur?
+That reserve is actually a fundamental element of the stability of
+the organization to carry out its mission. Being in the situation
+that we’re in is a very downgraded situation from a stability
+standpoint and a very heightened risk situation. This is of very
+short term concern.
+
+GIOVANNI SEPPIA:
+
+Stephen?
+
+STEPHEN DEERHAKE:
+
+From your perspective as CFO, how much time do you think we
+have as an organization to sort out this reserve question and
+how to get it stabilized and built back up? It looks to me like
+we’re out on very thin ice in late spring. All it would take is one
+adverse legal judgment to wipe out the reserve that we’ve got,
+for example.
+
+Page 27 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+XAVIER CALVEZ:
+
+Thank you, Stephen, for that question. It’s concerning, for sure.
+There’s no question. I think that at $50 or so million, we can face
+a number of risks, but of course, the issue is always the same. We
+don’t know what we don't know. To your point, a significant,
+impactful litigation could make a big dent in that $51 million.
+Every event that would occur then leaves us very exposed to the
+next one. Cyber security is something that we pay a lot of
+attention to, but that takes a lot of money to also fight or to
+enhance. We know how challenging cyber security is these days,
+and it’s a race against the bad guys. It never stops. That’s a
+concern, and that would be something that could trigger
+relatively easily the need to use the reserve fund.
+I think it’s urgent, not necessarily because we are exposed on a
+very short term basis, but it’s urgent because we don’t have an
+alternative funding for anything. This is the last resort funding
+for ICANN. If we don’t have that, we’re completely exposed to
+the next event that creates a problem. I think it’s urgent
+because, first of all, we keep depleting, and we are depleting
+without having a mechanism to replenish. You could argue that
+when you don’t have a mechanism to replenish, you don’t
+deplete.
+
+Page 28 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+We don’t have a choice. We need to go through the transition.
+It’s a fundamentally important project, and it costs money. We
+don’t have a choice, but that makes even more so important and
+urgent to define the processes to replenish the reserve. To me,
+the urgency is more strategic and structural than the result of
+immediate risks in the short term. I don't know if that helps you
+answering your question. We have Roelof.
+
+GIOVANNI SEPPIA:
+
+Roelof just came in the right moment. It’s like the shark attack.
+Can I just say, just to Xavier? I don't know if this exercise was
+already conducted. We’re talking about $8.8 million.
+
+XAVIER CALVEZ:
+
+For [FY17].
+
+GIOVANNI SEPPIA:
+
+Would it have been more prudent for ICANN Board to consider if
+and how to optimize current operational costs to see if there is
+room to find this $8.8 million, instead of going immediately to
+the reserve fund and say, “They are available. There’s a reserve
+fund of about $50 million still there. We’ll take them from the
+reserve fund,” instead of saying, “Let’s look into the current
+operational activities and see if we can save something?” I’m not
+saying all of them, but as a message to the community, an effort
+
+Page 29 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+to say, “Let’s try to optimize things so that [half of] that, we take
+it from an optimization from current cost and the rest we take it
+from the fund,” instead of saying, “We take everything from the
+fund.”
+
+XAVIER CALVEZ:
+
+Thank you. It is, and it has. With the BFC and the Board, with we
+have looked at what are our possible options. In FY16, we have a
+number of initiatives whose funding was to be from the reserve
+fund. In addition to the USG, the IANA stewardship transition,
+there are six initiatives. In FY16, we won’t have a lot of time to
+talk about that, but we will generate an excess versus the
+budget. Obviously, this excess will help mitigate the expenses of
+the transition.
+The budget of FY17 has not been structured to absorb any
+fraction of the IANA stewardship transition expenses, but it has
+been structured, as I’m sure you have seen, to absorb all the
+other initiatives costs. As opposed to FY16 where we have six
+projects funded by the reserve fund, in FY17, we’ll have only one.
+It’s a significant one, but we’ve already gone through that step
+of absorbing into the operations initiatives costs. It’s not like it’s
+not happening. It’s happening for the other projects versus and
+not this one.
+
+Page 30 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+This is one of the elements for which the BFC and the Board have
+asked that basically the funding by the reserve fund is a
+temporary measure. As a community in the next few weeks, we
+will need to determine whether maybe we want to say, “No. No
+reserve fund. We’re going to cut costs.” Cutting costs will mean
+cutting activities, so what do we stop to do together so that we
+integrate the funding of these expenses into the operational
+budget? That’s an alternative that should be considered.
+I think this is a completely reasonable analysis and approach.
+I’m not saying this will necessarily be the outcome, but as
+stewards of the organization, this is what we should be doing.
+
+GIOVANNI SEPPIA:
+
+Thank you. Roelof?
+
+ROELOF MEIJER:
+
+Thank you, Giovanni. Xavier, just to make sure that I understand
+the actual exposure, you're talking about the reserve fund, but
+there are other funds that ICANN has that have been earmarked
+for other purposes. There is a surplus from the new gTLD
+exercise, I think, which is somewhere. I’m not trying to diminish
+the sense of urgency or suggesting that those funds can easily be
+used for that, but if there is a huge disaster, the fund is
+replenished. If I’m well informed, then there are two other
+
+Page 31 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+sources where temporarily, funds can be taken from. One is the
+new gTLD surplus, and the other one is gTLD auction revenues,
+right? That is cash that is available for ICANN if that is necessary,
+isn’t it?
+
+XAVIER CALVEZ:
+
+Thank you. We are happy that you bring up this topic, which is
+the beginning of a really interesting conversation to be had.
+
+ROELOF MEIJER:
+
+And that was without a briefing.
+
+XAVIER CALVEZ:
+
+But we’re among friends.
+
+UNIDENTIFIED MALE:
+
+[Can I] close the door?
+
+XAVIER CALVEZ:
+
+Yeah, I think it’s time to close the door. First, I just want to
+requalify one thing that you said. The new gTLD program, as you
+know, is self-funded through the application fees. There are
+expenses that have been incurred to the extent of approximately
+$250 million. The program is not finished. It continues. It’s of
+course, in terms of volume, dying down with the remaining
+
+Page 32 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+applications. There’s about 40 or 50 remaining applications, but
+there’s also risks associated with that program.
+
+ROELOF MEIJER:
+
+Sorry to interrupt, Xavier. My suggestion was not to go into that
+discussion if that will be a rightful move or not. I want to steer far
+away from that. I’m sure it was meant as a yes or no question.
+Maybe I should rephrase it.
+Am I correct to understand that on the bank accounts that
+ICANN manages, there are funds which are earmarked for other
+purposes and should continue to be earmarked for other
+purposes, but that ICANN has access to if some kind of disaster
+occurs? The complete reserve fund is replenished. The current
+banking account is back on zero, and now you have to do
+something, either go to the bank and borrow or use other funds
+that you have earmarked for other things.
+
+[XAVIER CALVEZ]:
+
+[You can’t just] ask the question without me [adding it in].
+
+ROELOF MEIJER:
+
+There’s always a possibility of answering yes or no.
+
+XAVIER CALVEZ:
+
+I will provide my answer, and I’m not an engineer.
+
+Page 33 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+ROELOF MEIJER:
+
+I’ll accept the third option: I don’t know.
+
+XAVIER CALVEZ:
+
+We don’t yet know if there will be a surplus for the new gTLD
+program, but to the question, do we have cash on the bank
+accounts today, we can show you exactly how much there is. It’s
+very easy to do. There is remaining funds for the new gTLD
+program today of approximately $150 million not yet spent,
+though with expected expenses in the future. There’s $101
+million of auctions proceeds on the bank accounts of the
+organization. Those two funds are funds, to your point, that is
+earmarked, but that are cash owned by the organization. If there
+would be an extraordinary set of circumstances that in the very
+short term make us have need for more than $80 million of cash,
+which is the combination of the reserve fund and the operating
+fund, then we would more likely than not dip into those funds on
+a very temporary basis.
+Yes, there is cash available on the bank accounts of the
+organization.
+
+ROELOF MEIJER:
+
+Page 34 of 51
+
+And quickly counted, it’s about $300 million altogether.
+
+EN
+
+HELSINKI – SOP Working Group
+
+XAVIER CALVEZ:
+
+A bit more. $340 million.
+
+ROELOF MEIJER:
+
+So just to make sure that we know how exposed ICANN is.
+
+XAVIER CALVEZ:
+
+Thank you.
+
+GIOVANNI SEPPIA:
+
+Thank you. I have Allan and then Mathieu and then Barrack.
+
+ALLAN MACGILLIVRAY:
+
+Thank you, Giovanni. I’d like to ask Xavier a related question.
+You indicated the Board has commenced a process for looking
+at options to replenish the reserve fund. I thought that’s what
+you indicated already. It’s a premise to my question.
+
+XAVIER CALVEZ:
+
+Let me precise it, then. The Board has initiated, outside of the
+transition nearly two years ago, a process to review the target
+level of the reserve fund. What should it be? It’s therefore
+worked on establishing a rationale and an objective for that
+reserve fund, so a target level and a governance mechanism,
+which includes replenishment. What do you do when you're
+
+Page 35 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+short? What do you do when you've arrived at it? And so on. A
+policy, basically, for that purpose.
+Obviously, when you get to that point and you define a target
+level that's above the current balance, then you need to look at
+replenishment, as well. Though the replenishment is an ongoing
+current discussion, it’s not yet formulated solutions. We believe
+this is something that needs to be done with the community, as
+well.
+
+ALLAN MACGILLIVRAY:
+
+I’d like just to put in context there will have to be a process for
+looking at options by the Board to replenish the reserve fund.
+There’s also a process ongoing with respect to the disbursement
+of the auction proceeds. I’m sure making this linkage will not be
+a surprise to you. How do those two processes line up in terms of
+decision making? That’s my question. I certainly wouldn’t want
+to see one process end prematurely, even though that’s a
+pejorative term. I think there has to be a recognition in terms of
+the timing those two processes. We wouldn’t want to see, for
+example, some decisions on the auction proceeds taken in
+advance of potentially some very difficult decisions on the
+replenishment of the reserve. Maybe there might be some value
+in aligning the decision making so all options are examined at
+the same time. Thank you.
+
+Page 36 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+XAVIER CALVEZ:
+
+Thank you. My very insightful prediction is that we will be done
+with the reserve fund governance before we will be done with
+knowing how the auction fund proceeds are going to be spent.
+They are not lining up. That’s a challenge. I’ll come to your
+question, Debbie. It’s a challenge in the exercise of looking at
+replenishment options that if some would consider that the
+auction proceeds are a source of possible replenishment of the
+reserve fund, those having those ideas would need to find ways
+to provide those ideas as an element in contribution to the
+working group that works on auction proceeds disbursements. I
+hope that helps answering that question.
+
+ALLAN MACGILLIVRAY:
+
+Just a small point. It’s not so much the source of funds, but they
+have to appreciate the consequences of that. In other words, if
+ICANN were to say, “We have to cut all travel funding for the AC
+community in order to replenish. That’s the only option,” I think
+that decision would have to be taken into account if someone’s
+looking at the disbursement of the auction proceeds.
+I can see initially people saying, “No, don’t touch them. They’re
+meant for something else,” so I’m encouraging the Board to put
+those options forward so that we can have a broader discussion
+
+Page 37 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+because obviously we’re facing some very difficult choices.
+Thank you.
+
+XAVIER CALVEZ:
+
+I’ll come back to that, but there’s I think Mathieu and Debbie.
+
+MATHIEU WEILL:
+
+Following up because then I have a comment and a suggestion,
+but it’s just a suggestion. I don’t see how this discussion on the
+reserve fund targets and ways of refurbishing whatever can be
+held outside of the strategic plan discussions. This is where it
+belongs. It needs to be in this decision making process, and it is
+central to the strategy of ICANN that it stays a financially stable
+organization. That’s where it belongs.
+There’s also an option, which I hope is being considered and I’m
+bringing it to the table. You don’t have to react about it, but if
+you are aiming at one year expenses as a target, one way of
+replenishing is cutting costs. I hope that the one-time projects,
+the ones that are not going to be recurring within ICANN but are
+related to extraordinary circumstances – I think you know which
+projects I’m referring to –
+
+UNIDENTIFIED MALE:
+
+Page 38 of 51
+
+Thank you, Mathieu. Thank you. Thank you.
+
+EN
+
+HELSINKI – SOP Working Group
+
+MATHIEU WEILL:
+
+– are not integrated into the target because the associated
+expenses are designed to go away in the future, taking into
+account the extra expenses recurring.
+Finally, this is more of a message to the CCs around the table. I
+want to stress that there is currently in front of the council a
+proposal about the draft budget for Work Stream 2 on the
+accountability track, which is very significant. It’s roughly $8
+million. I think it would be good if the ccNSO would have a
+discussion around it at some point because it is not just pure
+rubber stamping. It needs to be discussed about the value for
+money around this.
+That’s it.
+
+GIOVANNI SEPPIA:
+
+Thank you, Mathieu. There is also Barrack and then Debbie.
+Barrack, please.
+
+BARRACK OTIENO:
+
+Mine is just a suggestion. I was thinking, given the extraordinary
+circumstances that have been brought by the transition, I don’t
+see why the new gTLD auction proceeds cannot be used for the
+reserve fund. When I look at the draft paper that was proposed,
+
+Page 39 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+it talks of such funds as reserves. In the absence of us putting
+them in the reserve fund that we’re talking about, it will mean
+that we have two reserves, which puts us in another quagmire.
+Just a proposal.
+
+DEBBIE MONAHAN:
+
+My question comes down to, you said before, Xavier, that you're
+looking at reviewing the reserves policy. That, to me, is a key
+step because if you turn around and actually say, “We only need
+six months’ operating plus the key expenses or contracts that we
+have to pay out,” before you set your criteria to a [wind down] in
+the worst situation or what you truly need, the degree of
+replenishment could be quite different. If you, for example,
+move to six months and you only need to find $10 million, which
+is quite different to actually having to find them more.
+The timetable for that review of the reserves, and how is the
+community potentially going to be involved in that discussion?
+
+XAVIER CALVEZ:
+
+Thank you. If you don’t mind, I’ll start back over from the
+commenters. Allan was pointing out the timing of the processes
+relative to auction proceeds disbursements and the reserve
+fund. Definitely, we will need to consider, and I think it’s natural
+to consider and to have input into the auction proceeds process
+
+Page 40 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+to introduce the possibility that this is one of the purposes that
+could be used for those auction funds proceeds.
+That’s also Barrack’s point. I’m hoping that this input can come
+across from you guys in the future, at the time appropriate when
+those discussions will happen. One of my objectives is to make
+sure that they do happen.
+I completely agree with Mathieu that the evaluation of the
+reserve fund and its target and its level should be done in the
+perspective of the strategic plan. This is the way to look at what
+the needs are for this reserve fund and how important it is. I was
+simply talking about the stability of the organization. This is the
+most significant financial element of the stability of the
+organization.
+To get to your point, Debbie, I’m expecting that the process that
+the Board has initiated to look at the rationale, the target level,
+and the governance of the reserve fund will be concluded in the
+sense of producing a draft in the next few weeks and then can be
+brought to the community for discussion and input then.
+We have discussed with the Board by the end of the July to have
+defined the process to share the information with the
+community and engage the community. We need to finalize
+those documents. There’s a lot of things happening between
+now and the end of July, but we need to finalize all the
+
+Page 41 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+documents that support the outcome of this working group from
+the Board. In the weeks that follow, then we would engage the
+community on that, and in parallel, the topic of how do we fund
+these expenses of $8.8 million that are in front of us for FY17.
+I’ll share information out of the discussions with the Board. The
+Board was on the fence of not wanting to budget for those
+expenses, at least not fully, because of this funding issue. Where
+do we fund it from? There’s been a compromise found in the
+sense of, “Let’s put these costs for the budget into the budget for
+the full year, but the funding of it will need to be determined
+basically by Hyderabad.”
+Over the next three or four months, we’re going to need to work
+together on how do we fund those expenses, which obviously is
+connected with the level of the reserve fund. This is an
+important conversation to be had over the next few weeks.
+
+GIOVANNI SEPPIA:
+
+Thank you, Xavier. Are we more or less happy to be anticipated
+that we’ll be heavily consulted in the coming months about how
+to help [inaudible] a sort of fund strategy?
+
+XAVIER CALVEZ:
+
+Yes, but there’s also for you an opportunity to participate in the
+auction proceeds working group.
+
+Page 42 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+GIOVANNI SEPPIA:
+
+[I thought] [inaudible] in the auctions.
+
+XAVIER CALVEZ:
+
+Sorry?
+
+GIOVANNI SEPPIA:
+
+I thought you were going to stop in the auctions, to participate
+in the auction process.
+
+XAVIER CALVEZ:
+
+You can participate in the auctions if you want, as well.
+
+UNIDENTIFIED MALE:
+
+[inaudible] [proceeds].
+
+XAVIER CALVEZ:
+
+Sorry? Yeah. Because that working group will be working on
+defining the mechanisms to allocate those funds. What we
+would like to see emerging is that replenishment of the reserve
+fund may be a purpose that's spelled out for the auction
+proceeds as part of that working group, but it will only happen if
+the community suggests it.
+
+Page 43 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+BART BOSWINKEL:
+
+Just as a remark from a ccNSO council perspective, at the time
+when they were asked to participate, they declined to
+participate. The main reason was – there were some very
+fundamental reasons – they did not participate in the auction
+proceeds themselves. Therefore, it’s not the role of the ccNSO to
+define the spending of it, as well. That’s the ccNSO council
+perspective. It doesn’t mean therefore there has been no call for
+volunteers, etc., going out. That doesn’t mean individual ccTLDs.
+They have their own views, etc.
+
+GIOVANNI SEPPIA:
+
+Thank you, Bart, for this clarification. We need to wrap up this
+working group session, so I’d just like to give the floor to Xavier
+for a couple of words regarding the next steps, so the plan for
+Fiscal Year 17 Operating Plan and Budget is to be approved by
+the Board when?
+
+XAVIER CALVEZ:
+
+It has been approved.
+
+GIOVANNI SEPPIA:
+
+It has?
+
+Page 44 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+XAVIER CALVEZ:
+
+It has been approved. I need to remember the days because it’s
+already far away. Two days ago.
+
+GIOVANNI SEPPIA:
+
+Has the consolidated plan been published?
+
+XAVIER CALVEZ:
+
+When you say consolidated plan, what do you mean?
+
+GIOVANNI SEPPIA:
+
+Consolidated plan, is that on many of the comments of the
+different stakeholder groups, the response from ICANN was that
+the Fiscal Year 17 would have been integrated with extra details
+of feedback or clearer figures before being approved.
+
+XAVIER CALVEZ:
+
+The responses to the public comments that indicated that
+changes or clarifications would be made? These changes or
+clarifications have been made into the final plan. We have
+briefed the Board, not necessarily on an individual detail
+comment basis, but we’ve explained to the Board that there
+were a number of comments that required clarification, that we
+had proceeded with making those clarifications in the final plan.
+The plan was that submitted for Board approval two days ago is
+the one that integrated those comments.
+
+Page 45 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+The final document with those changes will be published very
+shortly, and it has a section at the beginning that lists all the
+changes that have been made in relation to those public
+comments and the responses that we have published on June
+6th.
+We need to publish it imminently, and there’s also the five-year
+operating plan update that will be published, as well.
+
+GIOVANNI SEPPIA:
+
+At procedural level, would it have been better as there were
+several integrations and information that had to be inputted in
+the final plan to publish the consolidated before being
+approved?
+
+XAVIER CALVEZ:
+
+The way we are trying to do something along those lines is to
+publish the responses to the public comment as early as
+possible and as much in advance as possible of the approval of
+the budget. That’s why we published the responses that we
+went over a little bit today 20 days ago on the 6th of June, so that
+there is a bit of time for the community to look at those
+responses and see how adequate or not they are.
+The part that is just simply logistically overchallenging at this
+stage is that integrating, making the changes to both plans –
+
+Page 46 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+we’re talking about 140 pages approximately of plan – do not let
+us enough time between the end of the public comment period,
+the response period, and the publication of those comments to
+turn around a final draft version of the plan, put it out for
+community input in sufficient time that if we get community
+input, then we integrate that input, we change the plan again,
+and then we submit it to the Board. This just doesn’t fit.
+
+GIOVANNI SEPPIA:
+
+Xavier, it’s not to have a second round of comments, just to say
+this is the final product that goes to the Board for approval. That
+is what I’m saying.
+
+XAVIER CALVEZ:
+
+So your point would be that once we’ve made the changes, prior
+to the Board …
+
+GIOVANNI SEPPIA:
+
+Yeah, this is what I mean.
+
+XAVIER CALVEZ:
+
+Publishing it?
+
+Page 47 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+GIOVANNI SEPPIA:
+
+Yeah because currently the Board has approved a document
+that the community has not seen in its final version. It’s not
+again to open a second round of comments. It’s just to, as a
+matter of transparency and engaging with the community, to
+present to the community the plan and then saying, “This is
+going to be approved in two days, three days, or one hour,
+whatever.”
+
+UNIDENTIFIED MALE:
+
+Is that not part of the process at the moment? When you have
+the version that you're going to submit to the Board for
+approval, that you send that out to the community just to inform
+them? “This is the plan. This is going to the Board. If all is well,
+this is what it’s going to be?”
+
+XAVIER CALVEZ:
+
+No, we have not done that yet.
+
+UNIDENTIFIED MALE:
+
+Okay. Maybe that's something for the meeting with the Board.
+We can see if they would agree with that because, like Giovanni
+says, it’s a polite way of dealing with the community after
+they’ve taken the trouble to comment on the drafts.
+
+Page 48 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+XAVIER CALVEZ:
+
+I find the idea very sensible. Again, the way we’ve tried to
+address that is to publish the responses. The responses indicate
+what changes we’re going to make. When you aggregate the
+changes with the draft, you have an idea of the final, but I
+completely recognize what you're saying. Showing what the
+final is would be a nice conclusion of that interaction process.
+I will discuss that with the BFC. Just so that you understand,
+there’s a bit also the challenge, not that it’s insurmountable,
+that until the Board has approved it, could change. It’s not
+usually the plan that it changes because it’s become a final one,
+but that will challenge in the process. I will discuss with the BFC,
+offering that idea and see what their reaction is. I don’t have any
+specific issue, other than that timing process issue at the end of
+the period, that we make that happen. We produced that final
+draft for the Board in advance of their meeting. We produced it
+on the 14th, I think. We sent it to the Board so that the Board has
+enough time. They have hundreds of pages of documents to
+review before the Board meeting happens. We provide them
+documents, ideally at a minimum ten days in advance of the
+Board meeting. We did obviously produce that final budget by
+that time, and I think it was on the 13th or 14th that we submitted
+to the Board operations team.
+
+Page 49 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+It is available a few days before, and it could be shared,
+technically speaking, with the community, saying, “Heads up.
+This is what's going to be approved by the Board, or not.”
+
+UNIDENTIFIED MALE:
+
+I understand the time constraints because I think it goes into
+operation on the 1st of July, right?
+
+GIOVANNI SEPPIA:
+
+To wrap up this working group session, first of all, I think we
+have well covered. One point of the agenda was the next steps.
+To summarize the next steps now that the plan is approved, I
+think we are all looking forward to see the final plan published,
+first of all, and secondly to receive the feedback and follow up
+that ICANN committed to provide to the community in the
+responses to the various comments that were put forward by the
+different stakeholder groups.
+In terms of this working group, again, I would like to highlight
+that tomorrow, at the end of the ccNSO session first day of
+meeting of the ccNSO, there is this session starting at 5:00. It’s in
+Veranda 2, so the room close to this one. It’s a session chaired by
+Xavier. I will be the moderator, and we have two guest speakers,
+Susanna Bennett and Sally Costerton. They will speak about two
+areas about which this working group comments several times
+
+Page 50 of 51
+
+EN
+
+HELSINKI – SOP Working Group
+
+over the past years, and are mainly the [hub] and office strategy
+and HR from the ICANN perspective with different details
+regarding the hiring process, everything that we commented
+through these years.
+In terms of this working group, I was quite happy with the way
+the working group functioned against the comments we
+submitted to ICANN Fiscal Year 17 Operating Plan and Budget. I
+think that the vision in sub-working groups continues to work
+well. I don't know if anybody likes to say something about the
+sub-working groups, but I think the production or the different
+comments work well. Thanks again to all of you who contributed
+and to those who cannot be with us today.
+That said, is there any other business you'd like to discuss or any
+final questions to Xavier and his team that I would like again to
+think for the availability and also their dedication and
+commitment to exchange with us as many information as
+possible about the processes and figures and much more. Any
+last questions? Comments? No? Okay. I officially declare this
+session closed. Thank you, everybody. Thank you.
+
+[END OF TRANSCRIPTION]
+
+Page 51 of 51
+
+

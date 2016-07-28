@@ -1,0 +1,127 @@
+DNSSEC – How Can I Help?
+Dan York, Internet Society/Russ Mundy, Parsons
+ICANN 56 | June 2016
+
+Steps TLD Operators Can Take
+1. Sign your TLD!
+•
+•
+
+Planning is crucial to success
+Tools and services available to help automate process
+
+2. Accept DS records
+•
+
+Make it as easy and automatable to accept single or multiple records
+
+3. Work with your registrars
+•
+
+Help make it easy for hosting providers and registrants to do DNSSEC
+
+4. Help With Statistics
+•
+
+Can you help by providing statistics?
+
+Implement DNSSEC and make your TLD more secure!
+
+| 2
+
+Steps Zone Operators Can Take
+1. Sign your Zone!
+•
+•
+
+Planning is crucial to success
+Tools and services available to help automate process
+
+2. Verify that your Registrar(s) Support DNSSEC
+•
+
+Make sure they know you want DNSSEC & your interface requirements
+
+3. Help With Statistics
+•
+
+Can you help by providing statistics?
+
+Implement DNSSEC and make your Zone more secure!
+
+| 3
+
+Steps Network Service Providers / ISPs
+Can Take
+1. Deploy DNSSEC-validating DNS resolvers
+2. Sign your own Zones
+
+| 4
+
+Steps Everyone Can Take
+1. Use DNSSEC Yourself
+•
+
+Whether you’re an end-user, service provider, IT professional or
+do something else with DNS, you can use DNSSEC today.
+
+2. Share your Lessons Learned
+•
+
+Provide what you learn to the mail lists and other information
+sharing media.
+
+3. Participate in workshops and other meetings
+SPECIAL THANKS TO ALL OF TODAY’S PRESENTERS
+AND PARTICIPANTS!!
+
+| 5
+
+Thank You Luncheon & Implementation
+Gathering Sponsors
+•
+•
+•
+•
+
+Afilias
+CIRA
+Dyn
+SIDN
+
+| 6
+
+Support
+The DNSSEC Workshop and associated
+activities at ICANN are an organized activity of
+the:
+• ICANN Security and Stability
+Advisory Committee (SSAC)
+with additional assistance from the:
+• Internet Society
+Deploy360 Programme
+| 7
+
+Thank You
+www.internetsociety.org/deploy360/
+www.dnssec-tools.org
+www.dnssec-deployment.org
+
+| 8
+
+Stay Connected!
+• Continue the DNSSEC conversations on the
+“dnssec-coord” mailing list
+– elists.isoc.org/mailman/listinfo/dnssec-coord
+
+• Join monthly “DNSSEC Coordination” calls
+– First Thursday of each month
+
+• See you in Hyderabad for ICANN 57!
+| 9
+
+Thank you and Questions
+Dan York, Internet Society/Russ Mundy, Parsons
+ICANN 56 | June 2016
+
+

@@ -1,0 +1,1706 @@
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+Tuesday, June 28, 2016 – 13:30 to 15:00 EEST
+ICANN56 | Helsinki, Finland
+
+CHAIR SCHNEIDER:
+
+Hello everybody. Thank you for being here in time. We will
+immediately start. We have another nice and interesting and
+hopefully interactive session ahead of us.
+
+It's a 90-minute
+
+session. It's the longest, I think, that we have at all, because the
+issues are not that unimportant that we are going to talk about,
+and I'm very happy to have a number of extremely competent
+people around me, so that I can actually lay back and listen to
+how this goes.
+In particular, I would like to thank Tom and Jorge, who
+organized this, and to our colleagues from the GNSO, the chairs
+of the working group on subsequent procedures.
+So I start by handing over the floor to Jorge from Switzerland.
+Thank you.
+
+JORGE CANCIO:
+
+Okay. Hello. Good afternoon.
+Thank you for giving me the floor and giving me this outstanding
+task of leading this session. Thank you very much. It's very
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+much appreciated. Especially after having lunch in such a short
+time frame.
+So we hope that nevertheless, colleagues will engage in good
+dialogue.
+We have the benefit and also the pleasure of having here with us
+two of the co-chairs of the PDP on subsequent procedures on
+new gTLDs.
+Did I say that more or less correctly?
+We -- it's Jeff Neuman and Avri Doria. And the third co-chair
+apologizes because he had other commitments. So we will have
+the benefit of talking to them to engage in a dialogue with them.
+And I think that first, as an overview of how we intend to
+structure the session, in your package, in your information
+package, you have a general brief about this topic, so we will
+first go through that brief. Tom Dale, who wrote that brief, will
+take that over. That's the first part of this.
+Then we will engage in a direct dialogue with Jeff and Avri, and
+we will focus especially on a certain set of so-called overarching
+issues related to the expansion -- to future expansions of the
+gTLD space, and you may be aware, but it also may be still in
+your email folders that Tom sent you a draft -- a possible draft
+
+Page 2 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+response to these overarching questions sent to us by the PDP
+working group.
+This was circulated on June 22nd, but we still have time until I
+think July 24th to send an answer to the working group.
+Nevertheless, this physical face-to-face meeting is a very good
+opportunity to go through the elements of this draft response
+and to try to come up with some common ground in order to
+speed up the process and also to make our input as quickly as
+possible and also being mindful that many of us will hopefully
+be on vacation during July for some weeks or for some time, so
+it's good to get this starting.
+And finally, we would also like to remind colleagues that this
+afternoon in this very same room we will have a crosscommunity session on this very topic, so it's a very good
+opportunity for us now to prepare for that cross-community
+session.
+There are already colleagues who will make inputs or will be
+available for the cross-community session this afternoon
+starting at 17:00, if I'm not mistaken.
+Among other topics which will be covered, will be dealt with,
+there are community-based applications, where we have Mark
+Carvell from the United Kingdom making -- intending to make a
+
+Page 3 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+contribution. We also will be talking about safeguards and
+public interest commitments, and there we have our topic leads
+from the E.U. commission and I guess also from the United
+States.
+We have the topic of underserved regions related to applications
+on new gTLDs, and there we will have also Alice Munyua.
+And finally, we also have the questions, of course, related to geo
+names as TLDs where we will benefit with a presence -- from the
+presence of Olga Cavalli.
+So there will be more or less the structure. Of course as a final
+point to this, we will have to talk about how we organize our
+interaction with the PDP working group. For the time being,
+there's little participation from GAC people there, and at least I
+am personally of the view that if we want to have a good policy -policy development process, we need active participation from
+GAC members in this very important PDP.
+And with this, if you are ready, Tom, I would very kindly ask you
+to go through the brief.
+
+TOM DALE:
+
+Page 4 of 54
+
+Thank you, Jorge, and good afternoon.
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+And to pick up on that final point that Jorge made, a number of
+GAC members, including Jorge, and indeed including myself and
+Tracey, have been participating in the subsequent procedures
+PDP working group for some time now, but as Jorge indicated,
+more GAC participation is always welcome. That is not a formal
+nomination process. It's entirely up to you to register and
+participate as and when you see fit, but I would strongly
+encourage you to do so as well, and to assist in reporting back to
+the GAC.
+You may be aware that you -- well, I know you get a lot of emails
+from me, so -- and that doesn't always make me popular, but
+among the many emails that you get from me are reports, when
+I can get them together, on meetings of this particular PDP
+working group. I hope they've been helpful, and I'd stress that
+we have here not just the GAC -- some of the GAC participants in
+that working group but also two of the co-chairs, and it's a very
+good opportunity for you to get more information if you wish.
+Now, to go through the briefing that we prepared a couple of
+weeks ago now -- and as always, some things have moved on -but running through the brief, which is on the screen and which
+was in the main briefing pack that Tracey sent to the GAC a
+couple of weeks ago, there were four things that we tried to
+cover there.
+
+Page 5 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+The first was the broad ICANN policy context, not just for this
+working group and PDP but for new gTLD policy development
+generally.
+The second is a range of current work that's occurring, some of
+which you've heard about already this week.
+The third was another attempt at categorizing the public-policy
+aspects of this work, and finally some suggested next steps. So
+very quickly going through those.
+The first points concerning the ICANN policy context were that
+the -- the term "future rounds" is used, but in fact it's important
+to bear in mind that there is no -- there is no assumption or
+guarantee, if you think that's the right term, that there will be
+future rounds.
+
+There may or may not be future gTLD
+
+applications, but whether they're conducted in the sort of
+formal time frame of a round as per the most recent one is
+something else that is up for discussion, analysis, consideration
+and advice within this working group.
+We noted that, in the briefing, some economic analysis on the
+very basic question of whether there should be new gTLDs at all
+was done some years ago, back in 2010, and it's not clear
+whether the more fundamental questions there are, in fact,
+being addressed at the moment in any of the many processes,
+but we might come back to that.
+
+Page 6 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+We're making the point, and it's quite important in dealing with
+particularly PDP working groups and others, that this is not an
+exercise that's somehow centrally controlled by ICANN, the
+ICANN Board or staff or anyone else. There are structures and
+processes for policy development process, particularly in the
+GNSO, but it is by definition a bottom-up, multistakeholder
+process, and it can be very unpredictable in the way of
+democratic processes generally, as I guess was seen in some
+countries recently. But that's how it goes.
+The work for existing -- The time frame issue, finally, which a lot
+of people ask about -- that is, when. If there is going to be
+another round or another process, when will that happen. Well,
+that's not in any one person's sort of hands either. There were
+some comments that we provided there that ICANN made
+recently at a function in Geneva, but 2018, 2019 seems to be the
+absolute earliest that many commentators think is even feasible
+let alone desirable for the release of gTLDs. But as I say, no one
+person is in control of that at the moment. There are a lot of
+processes going on.
+So to scroll down a little bit further, you've heard already this
+week about a number of review processes that are occurring
+that are very relevant to future gTLD policy development.
+
+Page 7 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+We had a discussion and a briefing yesterday on the
+competition, consumer trust and consumer choice review. The
+GNSO working group, a PDP Working Group on Subsequent
+Procedures, the one whose co-chairs are with us this afternoon,
+is obviously a major source of discussion, advice, and analysis in
+this area, but so is the work going on for policy development on
+rights protection mechanisms in gTLDs and possibly some
+others as well.
+Finally, just scrolling down to the table that we have there, this is
+a document that you had put before you as the GAC in
+Marrakech, prepared by us. It was an attempt by us to try to
+provide a general set of categories for considering public-policy
+aspects of new gTLD procedural and policy issues, all of which
+are under consideration by various working groups, particularly
+the one that's with us today. And going down to the very final
+section headed "Possible Next Steps for the GAC," we had
+suggested, to start discussion, a couple of things. Firstly, to
+review the level of GAC member participation in these working
+groups; particularly, the subsequent procedures one, and Jorge
+has spoken about that. Secondly, to note that reports are
+coming in from other groups, such as the one we received
+yesterday from the chair of the CCT review team. Thirdly, to
+consider a response to questions that have arrived now from -from the subsequent procedures working group. And finally, to
+
+Page 8 of 54
+
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+consider using that public-policy table that we drafted as some
+sort of collaborative GAC work space, and perhaps have a little
+bit of guidance on -- from that on organizing and clarifying some
+of the GAC inputs before they go out from the GAC.
+Those were the suggestions made in the brief. As Jorge has said,
+a draft response to the request for initial input from the working
+group is -- is also something we would like to touch on, but at
+the moment, those are the broad areas that we tried to cover in
+the lead up to this session.
+Thank you.
+
+JORGE CANCIO:
+
+Okay. Thank you very much for this very quick overview.
+Are there any questions, any comments on the brief at this
+general level?
+Anybody? No?
+But you are there; right?
+Okay. Then I think that we should go to the co-chairs of the PDP
+Working Group. And perhaps to break the ice, we could ask you
+to very briefly set the stage on where we are, without a
+presentation, just orally, very shortly.
+
+Page 9 of 54
+
+And then after that,
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+perhaps we could start talking about the overarching questions.
+Is that okay with you?
+
+JEFF NEUMAN:
+
+Good afternoon. I'm Jeff Neuman. I'm one of the co-chairs of
+the working group. Avri Doria is also here, is also one of the cochairs, and then there's a third co-chair, Steve Coates, who is
+actually on the Nominating Committee so he's in separate
+meetings. He is in Helsinki although I haven't actually seen him
+or anybody from the Nominating Committee. I assume they're
+here.
+Thank you for having us in today, and, you know, we'll start with
+a little brief description of the work we're doing. And I'm happy
+to take questions.
+As I said to some of the people at the table here, I may say some
+things that are controversial just because I want to get some
+discussion going. That doesn't necessarily mean I believe what
+I'm saying, but, really, just to get everyone talking. And, you
+know, it's very important, especially at this Meeting B, to have -to be interactive and to get out our thoughts and comments.
+So one of the questions I'm asked all the time is, you know, why
+are you doing this? Are you rushing in to have new gTLDs? You
+
+Page 10 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+know, what's the rush? Why don't we wait until all the reviews
+are done before you start your work?
+And I just want to bring us back initially to the policy in 2007,
+which was bottom-up policy from the GNSO that was eventually
+approved by the Board which said that there shall be -- there
+shall be a mechanism for the introduction of new gTLDs in a
+orderly, predictable manner.
+The policy was never that there be one round and never future
+gTLDs.
+So based on that initial policy, which is unless and until
+overturned, that's what guides the GNSO in our work. So -- But
+as you'll see and as Avri will explain, there is a question that's
+out to the community now about whether this should be the
+policy -- this should continue to be the policy going forward.
+So with that, I'm going to turn it over to Avri to talk about some
+of the other questions that's out for public comment now.
+
+AVRI DORIA:
+
+Thank you. Avri Doria speaking. One of the differences between
+Jeff and I is I also say things that are controversial, but generally,
+I believe them. So it's one of the problems that I often have.
+
+Page 11 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+One of the things that the policy in 2007 also said is that there
+would be a review. And, indeed, we are doing that review as
+part of the policy development process.
+There are many other reviews going on at the same time. We're
+trying to coordinate with all of those and work sort of in parallel
+with them. But, indeed, part of what we're doing in the policy
+development process is also a review.
+And as is customary in policy development processes, we start
+out by sending out to the community organizations, the SOs, the
+ACs, the stakeholder groups, the constituencies, a set of
+questions that are basically the initial point from which we start
+having the discussions.
+Now, normally we do just one for the whole policy development
+process, but in this case, it's a complicated enough one that
+we've done a first one, and there will be at least one more.
+In this first, one, we're basically approaching a set of six plus one
+overarching subjects that we're looking for views on.
+
+For
+
+example, the first question -- And this is in the form of a
+questionnaire, and hopefully we will be able to get answers.
+They won't need to be very well developed answers. They don't
+have to be long answers. They can be short answers. One-word
+answers will probably be fine in some cases.
+
+Page 12 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+Additional gTLDs in the future. Should there, in fact, be new
+gTLDs? Should there be subsequent procedures? And if not,
+what are the justifications for and ramifications of discontinuing
+the program?
+Now, we've told people that there will be other rounds. Now,
+we're pretty much not using the word "round" in our discussion
+because one of the questions we're going to ask is should they
+be done in rounds. And until we've gotten to the point of
+deciding that rounds is the way to go -- and, yes, there's an
+assumption that we will use some sort of windowing procedure
+for blocks of applications, but, really, until we've gotten the
+feedback from the community on things like, yes, there should
+be gTLDs in the future, and, yes, we should do them in rounds,
+we're trying to avoid using that word.
+Another question -- So that was two questions.
+Another question is gTLD differentiation. In the last round, we
+went with standard applications and then community. We did
+not, in that case, go into differentiation of many different types
+of gTLD. Partly, and this was an argument I used then also, is
+that we were able to imagine many types at that point. The last
+round has shown us what the types are.
+
+Page 13 of 54
+
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+So the types has basically -- is perhaps something that has
+emerged, knowledge that has emerged from that previous
+round.
+So when we're looking at the rounds, we see brands. We see
+geographic names, we see communities.
+And then we asked the question:
+
+Is there just one size of
+
+application that fits all? Is there one size round? Do they all
+have to happen in the same round? How do we differentiate? Is
+there a reason for differentiations?
+
+And what sort of
+
+differentiations do we think need to be made?
+Predictability. One of the -- The first commandment of the
+previous round was predictable. But then we started seeing that
+the world changed. We got GAC comments. We saw other
+events and things had to change. And so there's obviously a
+need for flexibility and predictability. So how do we deal with
+that balance. We're obviously not in a world where we can come
+up with a program that is 100% predictable no matter what view
+comes up. We know that there will be policy comments from
+others. We hope to avoid many of them by having a lot of
+participation in the meantime so there's not a lot of unknowns
+coming later, but there's only so many unknowns you can avoid.
+So we're really trying to find a balance. And we're asking again,
+how do we work that? How do we deal with making something
+
+Page 14 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+that's predictable for people that are applying, whether it's
+communities or businesses, that want to be able to know how
+much they're going to spend, how long it's going to take, what
+kind of work they need to do to apply and deal with the fact that,
+you know, there may be something unpredictable that happens,
+that needs to happen to make the program fit all the
+requirements that ICANN can throw at you.
+Community engagement is how do we make sure that when we
+come out of this we've got the community, first of all, dealing
+with it and having been part of it. But also, once the program
+starts and we start to the effects -- see the effects, how do we
+deal with community engagement without it being a shock to
+the system, without it being something that -- that throws the
+application procedures into turmoil and confuses everyone. So
+how do we do that?
+We're asking questions about limiting. Do we limit the number
+of applications? Let's say we are doing a round. Do we limit the
+number? Is 100, 200, 1,000, 2,000. Do we limit the number of
+applications that a single applicant can -- can apply for? And if
+we decide on limitations, what sort of limitations? How do we
+determine them? And how do we enforce them? How do we
+make them make sense?
+
+Page 15 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+So those are the kinds of questions. And then the last question
+we're asking is, while we're going through this process of
+developing the policy, how do we make sure that all of the
+community organizations we're dealing with, all of the SOs, ACs,
+stakeholder groups, constituencies, specifically in this case you
+folks, the GAC, how do we make sure that you are being included
+in the conversation and we've gotten the -- all the input from
+you that we can get so that we have fewer surprises as we go
+along later. So that's sort of a quick recap of the document, the
+questionnaire that we've sent that we're calling community
+comment one and that is due by the 25th of July. I was told that
+the 24th was a Sunday, so we're actually calling it the 25th. I
+checked. I immediately checked with staff to see. But thank
+you.
+
+JORGE CANCIO:
+
+Great. Thank you so much. I think these are really exciting and
+very important questions which go to the heart of any future
+expansion of the new gTLD name space. So I think that the -- I
+think the questions have been very well put down by Avri. We
+could have already any comment, any first reaction. Kavouss,
+please.
+
+Page 16 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+IRAN:
+
+EN
+
+Thank you, Avri. Thank you, colleagues. I think I have a lot of
+experience with respect to the question. First, the recipient of
+question. Who received the question. Maybe not received by
+the person that you wish to answer or it should be answered.
+Maybe in the other hands of other people. This is one point.
+But the second point is, questions should be very limited in
+number and should have logic to be question. For instance, can
+you guess how many gTLD we have to use? What is the basis to
+say that use 3,000 total? Use 5,000. In first round was about
+1,930. So what is the basis that we say that use this one? And
+then, limit the number for applicants. What is the logic? Two.
+Why not five? And why not ten? Then, applicant is vague. In the
+country amid thousand of applicants then each issue 5, you
+have 5,000. And another country maybe one applicant only. So
+there should be a logic behind the questions.
+
+And more
+
+importantly should be sufficient time to answer the questions.
+Once the questions are limited, are clear, and have logic behind
+them, should have sufficient time. And above that we should
+have a proper way how to analyze the answers. Sometimes they
+may not be easy to answer the questions. Question may be very
+-- answer may be very vague so that people, they guess. This is -might be the answer. No, it may not be. May be different. So
+should be sufficient briefing or explanation of each questions.
+
+Page 17 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+So I don't know whether the 25th of July, Sunday, Monday, or
+any day is a day that really we should rely. We are dealing with
+one of the most important things which many people, they have
+missed in the first round. If you want to be done properly we
+should do it properly. So let us be practical. I have been faced
+with hundred of these questions elsewhere.
+
+I don't know
+
+sometimes what are the problems and difficulties. So let us be
+really clear with ourselves. Thank you.
+
+JORGE CANCIO:
+
+Okay. Thank you, Kavouss. Any other comment? Do you want
+to react to that?
+
+JEFF NEUMAN:
+
+Yeah. This is Jeff Neuman again. I think one thing I wanted to
+point out is that we're asking for initial thoughts on these
+questions. These are not final answers. We expect to come back
+to a lot of these questions as we do our work. The goal is to get,
+as Avri said, kind of a baseline. To make sure that people in the
+working group and in the community actually believe there
+should be additional new gTLDs. Obviously if the community
+comes back and says unanimously, no, we don't think there
+should be any new gTLDs, well then, I guess we could stop work
+at that point. We don't need to go on to all of the other subjects.
+
+Page 18 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+Once we establish this baseline, the group is then going to work
+in five or six different tracks on very specific elements of the
+process for applying for a new gTLD or objecting to applications
+that are filed. There's a whole list of subjects, probably close to
+100 or so individual subjects, that we will tackle once we have
+some initial thoughts on these overarching questions. But then
+we also believe that we'll be coming back to these questions
+over and over again. For example, if we decide that yes, it is a
+good idea to deal with different types of applications differently.
+For example, we may want to come up with a category of brands
+or a category of geographic. Another category may be sensitive
+strings. There's all sorts of different categories that we could
+come up with. We may come back to that later on and say okay,
+well, this should be the process for applying for a brand but this
+other process may be appropriate for applying for a geographic
+top-level domain and yet this third process may be better for
+applying for a sensitive string because there's different
+considerations. So we envision, like I said, coming back to these
+overall questions throughout the time period that this working
+group is in operation.
+
+JORGE CANCIO:
+
+Page 19 of 54
+
+Thank you so much for this reaction. We had Norway.
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+NORWAY:
+
+EN
+
+Yes. Thank you. Also just a general comment on the -- on this
+issue. And I was -- I appreciate your thoughts about how to
+approach this issue with possibly new rounds or opening for
+new applications and so on.
+
+Looking at that, I think it's
+
+important -- as you also mentioned -- that it's important to look
+at lessons learned from our first round, evaluate what was a
+success and what -- what areas did we have problems and
+disputes, et cetera.
+
+So I think it's important not to try to
+
+reinvent a new Applicant Guidebook but to use the baselines
+that are already there and not opening up all the problematic
+issues that could -- could open up and create even more
+problems that we had in the first round. So I think that's an
+important issue to be mindful about. And I think also it's a good
+idea, as you are talking about some categories, of course, I
+remember we talked about categories before we made -- during
+making the Applicant Guidebook and, of course, as you said, you
+had some problems with maybe some community applications.
+Maybe that's something that can be addressed further to have
+better and clearer criteria, et cetera, for those kind of
+applications. And also I think also what have been made in the
+lessons learned about the diversity, et cetera, and the spread of
+geographic areas that are underrepresented, et cetera, and so
+on. So there are other mechanisms maybe that could be looked
+at. But -- so just looking forward to continue working and
+inputting to this process. So also thanks to Jorge being part of
+Page 20 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+this working group and looking forward to the further work.
+Thank you.
+
+JORGE CANCIO:
+
+Thank you very much, Ornulf. And so I may take that as a
+commitment to participate in the working group?
+[ Laughter ]
+Well, we will talk about that later. In any case, I think that the -the first comment made by Ornulf also fits well with -- if I'm not
+mistaken -- with the scope of the working group which is to
+review the 2007-2008 policy recommendations and in view of
+what has happened to see whether there are adjustments
+needed. But we already had a queue. Who was next? First
+Germany, then Cook Islands, I think, and then New Zealand and
+then Thailand. And Spain. Do you have them? And the U.K.
+Okay. Let's start with Germany.
+
+GERMANY:
+
+Thank you very much. Hi, this is Sabine from Germany. I just
+wanted to quickly come back -- Jeff, I'm here -- on actually what
+you said, Jeff, and also things that Avri touched upon re, you
+know, predictability, flexibility, but also the different types of
+possible rounds or applications that you could have because
+you brought up, you know, a process, for example, for sensitive
+
+Page 21 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+strings. So my immediate reaction was, okay, but then who says
+what is a -- what is a sensitive string, what isn't, and especially
+how do you keep working on those categories if it's not -- if it
+doesn't turn out to be a rounds-based system. So is there any
+thinking on that already?
+
+JORGE CANCIO:
+
+Okay. Let's take some more reactions first and then go with the
+answers. So we had -- now we had Cook Islands, please.
+
+NEW ZEALAND:
+
+Sorry. It's New Zealand, not Cook Islands.
+
+JORGE CANCIO:
+
+Apologies.
+
+NEW ZEALAND:
+
+It's all right. We're close to each other. So my question is, just
+generally on the process. We -- the challenge for commenting,
+from what I can see, is that we're in some ways interrogating the
+objective of having gTLDs at the same time as having a look at
+the specifics of how many applications, should we do
+community applications. I was just wondering if you could talk a
+bit about the sequencing of the round.
+
+Are we looking to
+
+confirm the objectives of the gTLDs before locking in the
+
+Page 22 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+specifics? Are we working toward an existing idea of what gTLD
+projects should bring about as outcomes, or is it that we submit
+and from that we're trying to create a set of common objectives
+that the community wants from gTLDs? Thank you.
+
+JORGE CANCIO:
+
+Okay. Perhaps we could try to answer the comments we had so
+far and go then with the next in the list, would be the U.K.
+
+AVRI DORIA:
+
+So thank you for the two questions. When looking at them -- so
+you're right. And I'm going to take them sort of as a mixed
+question. But we are asking questions, for example, as Jeff had
+said. If we got to an answer that everyone had said, no, there
+should be none, then the rest of the questions might matter very
+little. But we didn't want to start with just one question and do
+a sequential like that. And I guess there's certain presumption
+that there's going to be a certain amount of interest within the
+community for more. So we definitely will be combining the
+answers. We will be looking at the various parts and such.
+When looking at things like flexible and whether there's a round
+or not, I think there's very much a feedback between those two.
+When we're looking at -- in fact, that's partly come up in
+conversations already when we're saying, Well, what would
+
+Page 23 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+happen if we did a first come, first served? How would that
+work? How would we deal with people contending for the same
+name? How would we deal with issues of: Is this a brand? Or
+would we just do this is a time for brands? This is a time for that.
+So those are the questions we're actually asking while
+interpreting the other questions.
+And, basically, it is a combinatorial process of looking at the
+various pieces of answers and putting them together to try and
+get a fuller picture.
+And as Jeff said, once we think we have a first snapshot of that
+picture, we will be putting that out again and getting more
+comments.
+One of the last comments I wanted to add on that is there was a
+previous comment about lessons learned. And, indeed, what
+wasn't mentioned here is that we're getting the lessons learned
+from the use of territory and names. We're getting the consumer
+-- competition, consumer trust, and consumer choice comments
+and feeding those in and getting all the other comments.
+We're getting comments that we had from the outreach to -- we
+had pending comments from the GAC in terms of outreach to
+development areas and how to help support areas that needed
+assistance in paying for these things that in the last round came
+
+Page 24 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+sort of at the end and tried to track them in. Whereas, this time
+a lesson learned is include those things from the beginning.
+So, basically, it really is trying to gather as much of this
+information as we can and combine it and then move on with
+draft answers, we think we heard this from the community, and
+come back and then move on to the next level down in the
+issues.
+And, also, lastly, one of the reasons for hoping that we have lots
+of people from every community participating is because we will
+have clarifying questions of you. And when we get a comment,
+we're going to want to be able to go back and sort of say, We
+understand this but we don't quite understand that and really
+create a dialogue over time in terms of really understanding the
+answers we get.
+
+JORGE CANCIO:
+
+I think we are starting this dialogue here right now, so it's very
+good. I think we had the U.K. first and then Thailand and then
+Spain, please.
+
+UNITED KINGDOM:
+
+Yes, thank you, Jorge. And thank you very much, Jeff and Avri,
+for setting out the framework, for a very open and inclusive
+process for examining this issue in its entirety and very much
+
+Page 25 of 54
+
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+picking up on the lessons learned that you've just been
+recounting in various elements.
+The GAC concluded back in Marrakech that we should look at
+the experience of community-based gTLD applications. We said
+that we would undertake some analysis. And, indeed, we have
+now, courtesy of the Council of Europe, two experts who have
+started work, Eve Salomon and (saying name), who some of you
+actually know -- they have been talking to you, Avri -- to start
+looking at the whole background on community-based
+applications, looking at the kind of factors that determined why
+there were actually so few applications submitted in the current
+round and to look at the experience of those applications that
+were submitted. So that work will continue, and we will want
+that to feed into the working group as an input from the GAC. So
+that's a very important element, I think.
+The opportunity, the vision, if you like, of the round was that
+there
+
+should
+
+be
+
+opportunities
+
+for
+
+community-based
+
+applications, and there should be some prioritization process
+and so on. So we will look at all of that and help you with that
+aspect.
+My other point that I wanted to take the mic was to understand
+better really where the economic and cost-benefit analysis is
+featuring in the preparatory work.
+
+Page 26 of 54
+
+You know, what is the
+
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+opportunity? Perhaps in the experience of brand applications,
+many of them felt, well, they had to do it to defend themselves.
+There wasn't really a sort of business case that one might have
+thought there could have been. Maybe other brands did have
+some kind of business case.
+The whole sort of economic and the benefits analysis I think
+would be very useful to understand.
+
+And if you're
+
+commissioning work on that, it would be very useful to know
+about it and to be able to track that.
+I think those are the main two points I wanted to make at this
+point. Thank you.
+
+JORGE CANCIO:
+
+Okay. Thank you. That was very helpful. Let's take, first,
+Thailand and then respond to both. Thank you.
+
+THAILAND:
+
+Okay.
+
+Wanawit from GAC Thailand.
+
+From the new gTLD
+
+subsequent round or even this current round, the IDN is also one
+of the important aspects of new gTLD. And when you talk about
+the IDN for the U-label, the country that do not use the ASCII,
+what we normally call, it's still something new. So I think I do
+see the big gap between the technical communities that are
+
+Page 27 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+dealing with all the terms we call LGR, label generation, drew
+the cross groupings among the characters.
+At the policy level, there is a huge gap there. I don't know
+whether any GAC members here were aware of the roles, that
+you need to dealing with this as well, because your characters,
+your country, nobody else could make a decision.
+That are the issues on the question and really choose if it could
+touch on the issue of IDN from the experience on the current
+round, that would be very helpful and could be made the GAC
+roles that we led to more than the technical part's communities
+that dealing with and how the GAC do see the potential regs
+because this is a cross-cutting issue. It could lead to the trust,
+consumer trust. It also could lead to security aspects and also
+create the confusion for the users in the Internet.
+And I think if we can have some area of work that led to the IDN
+specifically, that would be great. Thank you.
+
+JORGE CANCIO:
+
+Thank you so much. Would you like to react to these very
+substantial comments?
+
+Page 28 of 54
+
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+JEFF NEUMAN:
+
+Yeah, thanks. There was a lot in there so those were great
+comments. I'll start with the IDNs first, and then I'll touch on the
+other questions. We do have one of our -- we're calling the work
+tracks after we get through some of the overarching questions.
+One of our work tracks is devoted exclusively to IDNs and also to
+universal acceptance, which is partially an issue with IDNs but
+it's also an issue with ASCII top-level domains.
+So we definitely think that that's important for us to learn about,
+lessons learned, but also to understand the technology and the
+policy implications behind that.
+
+And any help that GAC
+
+members can provide would be greatly appreciated. That is one
+of the tougher areas and one I personally have the least amount
+of experience in. So I certainly am looking forward to that work
+being done and learning more about that because it is incredibly
+important. And it's probably one of the -- between universal
+acceptance and some of the technology not being caught up to
+be able to be use the IDNs effectively is probably one of the
+biggest -- or the biggest reasons why those -- I believe those
+haven't taken off as much as I believe there is potential for them
+to be used.
+On the community-based questions, I am absolutely looking
+forward to that cost-benefit -- or to the analysis being done on
+the communities. I think that's some great work. And I'm glad
+
+Page 29 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+to hear that that's going on and absolutely look forward to
+seeing the results or even talking to the people doing the study.
+Avri just mentioned that they had reached out to her. So I would
+absolutely love talking to them and having the working group
+talk to them to share their experiences.
+I think community -- I agree. I think there were a lot less
+community-based applications than what I thought there would
+be. And part of that could be that it was so difficult to qualify as
+a community.
+And so certainly some lessons learned on that and how we can
+have a balance to make sure that communities can actually find
+a space, find their space, and not be hindered by some of the
+criteria that were established, I think, would be something that
+would be great to develop going forward. So I'm absolutely
+looking forward to that.
+And with respect to cost-benefit analysis, you know, that's one
+of the tasks -- there was a question yesterday to the CCT review
+team, or to Jonathan Zuck, as to whether we're coordinating our
+efforts. And I think I would concur with Jonathan's answer
+yesterday, that we are definitely coordinating, making sure that
+we're not overlapping in the work that we're doing. So costbenefit analysis is one of the areas that Jonathan and the CCT
+review team is working on. We fully expect to take the findings
+
+Page 30 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+from the CCT review team and incorporate them into our work.
+So that is something that we're looking forward to getting from
+the CCT review team in the weeks and months ahead.
+
+JORGE CANCIO:
+
+Okay. Avri, anything to add?
+
+AVRI DORIA:
+
+No. Well, actually, only one thing on the IDNs. And one of the
+things that became obvious, that it is part of mixed with the
+outreach part and making sure that the people that actually
+would use IDNs and live with them are the ones that know about
+this, know about this in time to be able to apply.
+So another thing we need to look at is how the outreach was
+done to communities, to IDN-using communities, and not just
+having IDNs be translations of perhaps existing names but to,
+basically, start getting some innovative use among people using
+different scripts and languages.
+
+JORGE CANCIO:
+
+Thank you so much.
+I think that there are some fields of synergy emerging there,
+IDNs, the work that has been done also by GAC members on the
+underserved regions where we have a working group whose co-
+
+Page 31 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+chair will be participating in the cross-community session this
+afternoon; the work about community-based applications. So I
+would invite colleagues to take this as an ongoing process, as a
+beginning of an engagement in this work.
+I had Spain and then Egypt, please.
+
+SPAIN:
+
+Thank you very much, Jorge.
+I don't know if I'm going to add to the synergies or quite the
+contrary.
+The first set of questions, the overarching questions you are
+asking, deal with whether we need or there should be additional
+new gTLDs in the future. I think that that could depend on the
+demand for new gTLDs there are out there.
+I would really like that serious a demand analysis is carried out.
+And not demand by registries or registrars but demand by the
+end users, be it individuals or entities, companies, institutions,
+because I have the feeling that there is not a crave for new gTLDs
+out there. The market is quite flooded now.
+One indication of this is that many new gTLDs or second-level
+domains in the new gTLDs are used to redirect to old domain
+names that are under legacy new gTLDs, so many, many second-
+
+Page 32 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+level domains in the new gTLDs were made as defensive
+registrations. We should wonder whether we are not creating
+new gTLDs just to increase the cost of end users in registering
+them to protect their trademarks or their brands or creating
+conflicts with peoples, local communities, countries that
+sometimes may feel that they have been robbed of their -- in
+their identifiers by someone who has nothing to do with the
+country.
+So I think that's -- new gTLDs cannot be created for the benefit
+of registries and registrars but for the benefit of the whole
+community, and that is something that must be taken into
+account before any -- any new round or an ongoing mechanism
+is put up. Thank you.
+
+JORGE CANCIO:
+
+Thank you very much, Gema. I think this goes to the center of
+the first overarching question, and as there is, I think, a remote
+question which also addresses this topic, I would kindly ask Olof
+to read it out.
+
+REMOTE INTERVENTION:
+
+Thank you, Chair, and it comes from Aaron Pace, who is not -- I
+think I should underline that -- representing a GAC member or
+observer, but we let it through.
+
+Page 33 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+Anyway, a deceptively simple question going, I quote: Why is
+there a holdup in opening a new round? End quote.
+
+JORGE CANCIO:
+
+So I don't know if -- are your questions, Manal, related to this
+overarching question or -- yes?
+So let's go for you, and then let us hear the answers from Jeff
+and Avri. Thank you.
+
+EGYPT:
+
+Thanks. And thanks to Jeff and Avri, too. I'm afraid I have more
+questions than answers at this point in time, but allow me first
+to say that I'm glad to know you already have a track for IDNs
+and I definitely agree that different categories should be treated
+differently, but more generally, that any future rounds should be
+based on lessons learned, like Norway said, from the previous
+round.
+So having said that, and seeing that the questions are futureoriented and future-looking, I'm wondering whether you
+considered having a similar set of questions for the current
+round. I mean, to get the sense how the current round is doing
+and then draw conclusions from such questions.
+
+Page 34 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+And also related towards what's been just mentioned, how are
+we going to decide that this is enough, we don't need more?
+I mean, I got stuck at the very first question, whether we need
+more gTLDs or not, so what's the criteria to say that we don't
+need any more? Is it the end user demand, "We're too confused
+so this is enough"? Is it the business, "We're not doing well so
+this is enough"? I mean, again, it -- it's not very clear how are we
+going to set the bar and say, "This is enough," apart from
+subjective reactions like a certain number or "This is enough" or
+"Why are we holding the current" -- so I leave it here. Thank you.
+
+JORGE CANCIO:
+
+If you want to take those questions.
+
+JEFF NEUMAN:
+
+Sure.
+I think we're getting into some good controversial areas, so I get
+to make some statements and hopefully that will spark some
+more conversation.
+But I think we got two interesting sides -- two interesting
+questions back to back, one from Spain and then one from the
+remote participant that were kind of two sides -- as Avri said to
+me, they're two sides of the same coin, right?
+
+Page 35 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+One is saying -- from Spain you're saying, "Why" -- "I don't really
+feel like we need any more," and then we're getting comments
+saying, "Why isn't it just permanently open?"
+And so we're getting both of the comments and what we're
+trying to do is trying to come up with a baseline. We don't know
+the criteria yet. We're trying to develop some criteria.
+For example, I could say that, you know, if you look at some Web
+sites that have some statistics on new TLDs, there are 20 -- as of
+today, there are 23,148,318 new second-level domains set up
+and registered in the new gTLDs. That's a pretty substantial
+amount of registrations.
+I don't know the breakdown at this point of how many are
+defensive versus redirect versus registrations that point to
+content. You know, that -- I don't have that information yet and
+that's information we'll try to obtain, but some would argue that
+that does show demand.
+It's also very difficult to show, in advance, demand.
+To be a little controversial, I was in a discussion -- I was listening
+to the discussion that you all were having on the three
+characters, and I heard some countries, some governments,
+saying that they would like to use the three characters for their
+own government.
+
+Page 36 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+We could ask the same question: Is there a demand by end users
+to use -- to register those three characters or is that something
+that the government and the country would actually like to put
+out there to see if there is demand, right?
+So I think there's -- it's very difficult to know, but if we put it out
+there -- some would argue that if you put the TLD out there and
+people register it, then there is demand.
+Sometimes you can't measure that in advance.
+But for brands, again, that's -- brands don't rely on end user
+registrations, they rely on their own use, so I think it's a little
+early to make any judgments as to whether brands registered
+are purely for defensive purposes or registered to use them, so I
+think that's something we'll see in the next few years.
+But these are all great questions. These are questions that we're
+getting as well. Hopefully we'll get some data behind that, and
+hopefully we can figure out, going forward, how to deal with all
+these questions on criteria, how do we measure whether we
+need more new gTLDs.
+And then there was another question about -- now I'm forgetting
+it. Maybe Avri wrote it down, but -- yeah, I'll turn it over to you,
+but if I think of it --
+
+Page 37 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+AVRI DORIA:
+
+EN
+
+I don't know if you -- I don't know if I'll hit the question but it will
+give you time to think of it.
+I was thinking of two things.
+One, I was thinking in terms of an answer of looking at what's
+going on in the current, I believe that that's pretty much what
+we're counting on most of the other reviews to do, but if we have
+a question that isn't answered by one of those, I think we'll
+certainly approach. And that's part of the sort of cyclical nature
+we're taking to this, is: Come with some first questions, get
+some answers, and then go digging.
+One of the questions that I come up with, listening to your
+question, is, I know anecdotally that for some people that do
+buy the new names, the first thing they do is indeed map them
+to an old name, because you want to use it immediately. And
+then there's a development of new servers, new services. And
+what I'd actually like to find out -- so it's something that I'll go
+looking for after this -- is to what degree does that first map to
+an old name remain that way as opposed to, in some time later,
+becoming a native -- a native site on that name.
+So that would be the kind of metric that I would look for to sort
+of say -- yeah, it makes a lot of sense when you buy something, a
+new name, that you map it to an old one, simply because you
+want it to be immediately useful, but what do you do with it in
+
+Page 38 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+the long run and what is the rate of change on that? How long
+does that take to do it? Or do they remain permanently mapped
+to their old .COM? Which I doubt but I'd really like to see the
+end.
+So I liked your question in terms of bringing up something that
+would be good for perhaps CCT or one of the other groups to
+actually go digging for.
+
+JEFF NEUMAN:
+
+So now I remembered and Avri did touch on it about lessons
+learned.
+When we get into the specific tracks that we look at, there are a
+lot of things that we will be looking at that the CCT review team
+is not going to be looking at due to the nature of -- they're
+looking at consumer choice, trust, competition.
+So for example -- and I just randomly turned to one of our work
+tracks, which is Track 3, which is looking at string contention,
+objections, and disputes.
+Well, obviously the first thing that that track will look at is how
+were the string similarity evaluations done in this past round?
+Was it efficient? Was it effective? Was it fair?
+They'll look at lessons learned and ways to improve it.
+
+Page 39 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+For example, I'm sure they will look at the question that there
+was GAC advice and there was input from, I remember, the
+business constituency and a number of others on plurals versus
+singular, right? We'll look at how that worked out, what was
+good about that process, what was not so good about that
+process, and how do we handle that going forward.
+So as we get into the very specifics, we will absolutely be looking
+at what happened in the last round and then seeing what
+improvements could be made, if any, going forward.
+
+JORGE CANCIO:
+
+Good. Are there any follow-up questions? Nicholas and then
+Thomas.
+
+UNKNOWN SPEAKER:
+
+Thank you, Jorge.
+I kind of have the same question Germany asked a while ago
+regarding sensitive strings, right?
+I would like to know who and using what criteria -- I mean, who
+establishes what is sensitive or controversial, and based on
+what?
+
+JORGE CANCIO:
+Page 40 of 54
+
+That's an easy question, right?
+
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+Let's take Thomas first, and so you have time to think about it.
+
+THOMAS de HAAN:
+
+Yes.
+
+Thank you, Jorge.
+
+And just coming back to the
+
+fundamental question, would -- should there be a new round or
+should there not be a new round, I think that's, of course, a
+question which should be asked and answered before you go on.
+I would give a slightly different perspective, as Spain gave,
+saying, "Okay, is there a need?"
+I think especially as governments, there is, let's say, the market
+and there's also the, let's say, to let flourish the market we
+shouldn't interfere with the market. Let the market decide
+whether they want or not TLDs. It's not up to us, let's say.
+And I think a second big consideration to take on board is the
+fact that opening up a first round gives some expectations.
+I mean, once you close the rounds and -- basically you're
+interfering with the competition because you will be reinforcing
+all the first thousand or more, which have, for example, very
+attractive names. For example, I would say .BANK would be -- is
+an attractive one as (indiscernible) case.
+
+Page 41 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+If you don't allow any other string, that would be de facto
+monopolizing, let's say, one specific very clear-cut business
+case.
+So I would say -- and that's -- maybe certain registries would not
+like this who have applied for it, but why should there not be a
+.BANKING or .NICEBANKS?
+So it's -- I think we should take this very much in consideration
+for the fundamental question. Thank you.
+
+JORGE CANCIO:
+
+Okay. These are all very good points. Let's take also Iran,
+please, before answering.
+
+IRAN:
+
+Thank you, Jorge. I think the question asked by our colleagues
+about what is -- is the gTLD or new gTLD sensitive or not is a
+difficult question. In view of one, something is insensitive; in
+view of others, it's not insensitive at all.
+
+Culture diversity
+
+dominating. So I don't think that these type of questions, is it
+sensitive or is it not, it gives any guidance.
+And my question is asking the first question, do we need a new
+gTLD? Is it really the question that we have to raise, or there has
+been already some actions in that? We have heard in two
+
+Page 42 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+consecutive meetings with ICANN Board and someone from
+ICANN I don't main explain us even the time frame, so on and so
+forth. So we come back saying what is going on is totally outside
+or not to be taken into consideration.
+I don't know what the need. Should there be any new gTLD or
+not, is it a question that we have to raise, really?
+Thank you.
+
+JORGE CANCIO:
+
+Well, I think we have a set of questions on the table which have
+been drafted, I guess, with the best of their ability by the
+members of this very diverse working group. And, anyhow, over
+to you.
+
+AVRI DORIA:
+
+Thank you. I'll take a first attempt at some of those. And one of
+the things I do want to say is that, fortunately, the group is much
+bigger than the two of us in terms of the ability to answer things.
+I think in terms of sensitive strings, when I look at that, and this
+is really a personal first take on it, first of all, there are many
+different types of things that make a string sensitive.
+
+For
+
+example, we had issues of regulated industries and whether that
+was an area of sensitivity.
+
+Page 43 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+And so looking at a first-level analysis on what constitutes
+sensitivity becomes part of the approach to that.
+I think, you know, always having the multistakeholder process in
+terms of solving these hard problems and taking the views of the
+various stakeholders and stakeholder groups and discussions
+and that. I think remembering, going back to always we have
+the base; that at a certain point, you don't a priori define those
+things. You have the ability to object and have some form of
+adjudication for those strings that someone sees and didn't
+think of beforehand as perhaps sensitive but sees and feels a
+sensitivity for and presents a case to a review body.
+So I think that any answer we come up with would be based on
+not only what we've done before in terms of, you're right, at a
+certain point we can't come up in the first instance and say,
+"This is the list of sensitive strings," and we rely on what we have
+which is the objection process, but that we can do some work on
+that. We can look at certain types of string that there are
+sensitivities about and perhaps do an analysis. Perhaps remove
+certain kinds of sensitive strings from -- and make them a
+different type.
+You know, they may be a type of string.
+So that's -- that is, I think, a big part of those answers, never
+forgetting that we've got an existing application guidebook and
+
+Page 44 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+we have a multistakeholder process to discuss these things and
+discover the answers.
+So that was my first attempt at that issue.
+
+JEFF NEUMAN:
+
+Yeah. And on the issue of blocking or, you know, can we -should we let the market just work and keep adding new TLDs, I
+think that there are a number of people that have made that
+exact argument.
+You used the example of .BANK and should there be a .BANKING.
+Some might -- There's a group -- a new group that's formed
+called -- it's again another abbreviation -- VTLDs, the verified
+top-level domains, and those are top-level domains like .BANK
+and .PHARMACY that actually look at the credentials before
+allowing anyone to come in, and you have to be a licensed
+pharmacy for .PHARMACY or you have to be a licensed bank in
+order to get a .BANK. The question would then become do we
+allow a .BANK where they actually verify everything in advance
+but then also allow a .BANKING with doesn't verify everything in
+advance. And then what does that do the end user who learned
+to trust .BANK and do their banking with .BANK but now you
+have a .BANKING that doesn't necessarily have the same criteria.
+
+Page 45 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+Are we asking for some fraud or some potential abuse on
+consumers?
+So there's a lot of things to think about in terms of opening
+things up to anyone who wants to compete and anyone who
+wants to introduce new top-level domains.
+
+But there are
+
+certainly definite views in here of whether we should limit the
+number of TLDs or have -- you know, just completely let the
+market do what it's going to do.
+
+JORGE CANCIO:
+
+Okay. I think we had a request from the public and Olga, and
+Thailand. So, gentleman.
+
+JODEE RICH:
+
+Hi, my name is Jodee Rich. I'm the CEO of .CEO.
+Hi, Jeff. Jeffrey!
+Jeff, you used 28 million as a number to perhaps encourage us
+that the new gTLD process had been successful.
+Can I ask you to consider if it turned out that over 90% of those
+28 million were either given away for free or sold for under a
+dollar, would that influence in any way your proposition that
+you think the program has been successful?
+
+Page 46 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+JORGE CANCIO:
+
+EN
+
+Thank you for that question.
+I'm mindful that we should finish in nine minutes, so I will do a
+last call for questions.
+And please be remind that this is only a warmup for the crosscommunity session we will be having here starting at 5:00 p.m.
+with other constituencies in this same room.
+So is there anybody else?
+Iran, and then -- So let's take Olga, Argentina; Thailand; and then
+Kavouss.
+
+ARGENTINA:
+
+Thank you, Jorge, and thank you Avri and Jeff for being with us.
+I have a question about something which is written in the first
+Applicant Guidebook but for some reason it was not, perhaps,
+properly enforced in the process of the first round. It is that if
+there is a geographic name, it is -- it could be advised that the
+applicant get in touch with the relevant community or region or
+subregion or whatever the river, mountain or region is located
+to.
+As we have been reviewing this issue in our GAC working group
+on protection of geographic names in new gTLDs, we have seen
+
+Page 47 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+that an early contact in between the applicant and the possible
+impacted community could be advisable.
+Are you foreseeing some way of making this part of the process
+of applying for a TLD that could be relevant for a community or
+for a region?
+
+JORGE CANCIO:
+
+We had Thailand.
+
+THAILAND:
+
+Yeah, thank you very much. I'm just following that Jeff mention
+about to set out the criteria for each application types and tiers.
+I just think about it's such a good idea because different type of
+applications might be different -- the (indiscernible) needs to be
+achieved; right? But I would like just to make sure that we
+carefully reviewing process, because if you look at in the
+branding, marketing, they have the power to set everything to
+meet the criteria, versus at the community-based organizations
+or even nonprofit organization, it might be hard for them to
+meet the criteria. To make sure that whenever you set up the
+criteria, to make it easy for all organization. Treat them equally
+treatment to reviewing processes. That's to make sure that
+everything is good for all who want to get the registration.
+
+Page 48 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+Thank you.
+
+JORGE CANCIO:
+
+Thank you. Very important point.
+And, please, Kavouss, last question in this session.
+
+IRAN:
+
+Last question or last comment, perhaps. It's not question.
+I said that in other occasions we should not engage in a purely
+academical research in the ICANN. This is not the university of
+ICANN.
+If you open and widen the questions as much as you want, then
+there would be no output or will be confusing output; that you
+will be selecting some of the one that you wish, it would not
+yield the output that is expected.
+So we should be practical, and we should be mindful of the time
+and effort and availability of those and not put the people
+before fait accompli.
+Thank you.
+
+JORGE CANCIO:
+
+Page 49 of 54
+
+Thank you so much.
+
+EN
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+And the last intervention is for Jeff and Avri, very briefly. I guess
+you also have another meeting now, and I also stand on the
+strict instructions from my chairman to finish the session.
+
+JEFF NEUMAN:
+
+Okay. So there are a number of questions. Let's see if I can
+respond quickly.
+Jodee, thank you for your question on the statistics. I just want
+to say you missed the beginning of the meeting where I said
+don't necessarily believe everything I say. I'm going to make
+statements that are controversial. I may or may not believe
+them.
+But what I said during that is that some people would point to
+the fact that there are 23 million registrations to say that it's a
+success; not necessarily that I would. But that's something that
+we'll, as a group, look into.
+Olga raised a question on geographic names and something in
+the guidebook. Obviously there's work that's ongoing. Your
+group is working on it.
+
+Then there's the Cross-Community
+
+Working Group. We're looking to the outcomes of that group
+and look for some advice from you all, and then take that advice
+and incorporate it into our work.
+
+Page 50 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+Categories. There's been a number of questions on categories
+and setting criteria.
+
+I just threw out there some potential
+
+categories, one being sensitive strings, just to get some reaction.
+I don't know if that will or won't be a category. That's something
+the group will discuss. But, obviously, if they come up with
+categories, they're going to have to define what does and does
+not meet those categories, tightly bounded so that it can be
+enforced.
+And, Kavouss, I am completely in agreement with your comment
+that we need to be practical. A lot of the discussions that went
+on for eight years and for the last round were theoretical,
+philosophical, academic.
+We now have a lot of data to see what actually happened so we
+can focus on the practical questions and not have to worry
+about what might happen. So thank you for that.
+
+AVRI DORIA:
+
+My last comment is in two hours, we'll be having the crosscommunity conversation where we can go on with this
+conversation and to reiterate the invitation to get involved in the
+group. Come and join. And we're counting on the fact that
+Kavouss is there and will keep us honest all the way through.
+
+Page 51 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+JORGE CANCIO:
+
+Okay. Over to you, Chair.
+
+CHAIR SCHNEIDER:
+
+Thank you. And I think this has been an excellent session which
+is quite different from how we discussed this issue a few years
+back.
+I would just, off the spot, think -- there are several elements that
+have led to this. One, of course, is probably the more realistic
+expectations now compared to those who wanted to make
+millions and millions of money on the one side but also the
+governments who were afraid that the world may go down if
+there are no safeguards. I think we're all a little bit more relaxed
+now that the world hasn't changed that much despite or
+because of the new gTLDs.
+But, also, I think the opening up of the GAC from having closed
+sessions only a few years ago to being inviting, getting people
+like you in, discussing things in the hope has, I think, made a
+difference. We know each other better now. We discuss on a
+different level of understanding of the issues. So I would like to
+thank all of you who made this opening and this interaction
+possible. I think this is the way to go.
+And yeah, we're looking forward to having as many GAC
+members as there are spaces here with the other people from
+
+Page 52 of 54
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+EN
+
+the community in the continuation of this discussion today. But
+also, and this is in order to be sustainable, we need to have more
+people than just one or two who signed up so far to participate
+in the PDP. I think we all understand now how important this
+discussion is. We understand the will of the GNSO to actually
+take our views, inputs in. If we are not there, it's our own fault.
+So we really have to be present and continue this excellent
+discussion.
+And just one last element. You have received the draft -- a first
+draft of answers to the questions that they have sent to us.
+Please have a look at them. The deadline is 22nd of July. But
+let's try to use the time while we're here to work on these
+answers and give some -- at this stage, we will not go into all of
+the details, like the questions don't either, but try to give
+meaningful input, also, via this written channel. That would be, I
+think, also useful for all of us.
+So it's 3:00 on the spot. We have 15 minutes to coffee. It's over
+there. We have two chains to queue for coffee. So thank you
+very much. It was a perfect session.
+[ Applause ]
+
+CHAIR SCHNEIDER:
+
+Page 53 of 54
+
+And thanks to Jorge and Tom as well for preparing this.
+
+HELSINKI – Future New gTLDs Rounds: Policy Development
+
+[ Coffee break ]
+
+Page 54 of 54
+
+EN
+
+

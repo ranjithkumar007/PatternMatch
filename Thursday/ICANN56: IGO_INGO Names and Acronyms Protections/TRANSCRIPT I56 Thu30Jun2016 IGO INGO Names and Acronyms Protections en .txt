@@ -1,0 +1,448 @@
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+EN
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+Thursday, June 30, 2016 – 09:30 to 10:00 EEST
+ICANN56 | Helsinki, Finland
+
+CHAIR SCHNEIDER:
+
+Good morning, everybody. So please take your seats, those that
+are not yet there sitting, and we'll start.
+So welcome to this last day of this new meeting format, publicpolicy forum -- policy forum, which I think in the feedback that
+I'm getting is very positive, so we'll talk about this later today.
+We have -- On our schedule, there is -- used to be a slot for
+presentation of the website, but you have seen the mail by
+Tracey that she sent out that not all the details are ready, so she
+will just give you a brief update on where this is and what is
+going to happen until now and Hyderabad.
+The leadership team had a quick presentation of -- with ICANN
+staff and those working on the website yesterday at lunch, and
+this looks really good, so we're looking forward to what's going
+to come.
+So, Tracey, let me give you a few minutes to present the actual
+state of where we are with the website.
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+TRACEY HIND:
+
+Okay.
+
+Good morning.
+
+EN
+We're going to spend most of this
+
+morning's session on the IGO acronyms, but we'll just give a
+quick verbal update on the status of the GAC website.
+We have a pretty robust team from the GAC who are leading this
+work. Tracy Hackshaw is the lead for the work, the GAC lead for
+the work. We also have GAC members involved from Singapore,
+the Cook Islands, Cambodia, Japan, the United States and the
+United Kingdom. I hope I haven't forgotten anybody. And other
+people who have participated with bits and pieces along the
+way.
+We are building a website. It's not ready yet to demonstrate to
+you. We were hoping to have a front end to demonstrate to you
+here, but it's not really ready yet. We've been mostly working on
+the back-end, and by the back-end I mean the behind-thescenes, building the logic, building how all the pages relate
+together and work together, and that's not very pretty to show
+you, so I've decided that we won't show you that because it's
+not very exciting for you to look at. But be assured there is a lot
+of work going on.
+It is coming together. The logic is all working. The sorts of
+features that you will be getting in the new website include
+member pages that will include the photographs. Reminder -That's an opportune reminder the photographer will be here
+
+Page 2 of 14
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+EN
+
+12:30 to 1:30 in the piazza today for anyone who hasn't had their
+photograph taken yet. But that member page will ultimately
+take you through to working groups that you are a participant
+of, the longer term vision, once other ACs and SOs are on the
+same platform, is it will take you through to working groups for
+cross-community purposes that you're members of. There will
+be news pages that will show things like announcements for
+new public comment periods for PDPs and for other ICANN
+processes that have public comment periods documents. So
+those are some of the new features and so forth that are being
+built.
+The timeline is that we should have a working prototype -- We'll
+definitely have a working prototype, because we're not that far
+off now, to show you by Hyderabad. And thereafter, it is likely
+that the new website, a version 1 website for the GAC, will roll
+out early in the calendar new year.
+It won't have all the interactive features to the other
+communities yet simply because we will be the first community
+on it. So it will be very hard for us to link to GNSO PDP on the
+website when the GNSO won't be on the platform yet.
+So we'll be slightly ahead of the rest of the community. But they
+will come on board over time, probably over another 18 months
+or so.
+
+Page 3 of 14
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+EN
+
+The other feature it will have that is different to what's there
+currently now is when the communique is developed, the
+communique will be able to be automatically developed online,
+live in the meetings, and then after it's published the pieces of
+advice will go back via the back-end to a new tool called the
+board -- ICANN board advisory registry tool, which the
+leadership and the members of the BGRI saw yesterday. So that
+will all happen invisibly behind the scenes. That's the other
+feature that's being developed at the moment. I'm not sure
+whether that will be ready for version one, simply because we're
+not sure if the board tool end of it will be ready for version one,
+but it -- it will all come together over the next 18 months to 2
+years and there is a lot of work being done.
+That's about all I wanted to say on it. Remember to have your
+photograph taken 12:30 to 1:30 today if you want to be among
+the first set of photographs up on the version one prototype. Are
+there any questions before I hand over to the chair for the IGO
+names and acronym session?
+
+CHAIR SCHNEIDER:
+
+There seem to be no questions, so thank you very much, Tracey.
+We're really looking forward to having the website and also this
+big inclusive registry of advice where the GAC advice should be
+part of -- or will be part of.
+
+Page 4 of 14
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+EN
+
+With this I would actually like -- and switch to the IGO acronyms
+and protection issue. For your information we had another
+meeting of the so-called small group that was convened and
+held yesterday afternoon at 4:00 and this time there were also
+people from the GNSO included which proved to be very fruitful
+because in the end they need to also be involved in this. And
+while it had been difficult in the months before to make progress
+because, I'd say the written exchanges took quite a long time
+because everybody was distracted, we actually managed to
+come much closer in some of the still outstanding items and we
+hope that we will be able to come up with a practical proposal
+out of this group by Hyderabad, by the next meeting. And that's
+basically the key element of progress so far.
+Another thing is that what we've discussed earlier in other -- in
+another meeting this week is that the GNSO has sent a letter to
+the board -- we discussed this in the session with the GNSO -that they are waiting for the board to take a decision on Red
+Cross and Red Crescent protection as well as on the IGOs and we
+had an exchange with the -- with the GNSO on this. I see that
+John from the OECD would like to say something on this one.
+Thank you. Go ahead, please.
+
+Page 5 of 14
+
+EN
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+JONATHAN PASSARO:
+
+Thank you, Thomas. I just wanted to take the opportunity to
+give everyone a brief recap of kind of what's happened so far
+and where we stand because there are a lot of new faces in the
+GAC and also within ICANN. I know there are some people from
+outside of the GAC within this room so I thought this would be a
+good opportunity to remind everyone where we stand.
+Because it was over four years ago that all of this started when
+the OECD and about 40 other intergovernmental organizations
+joined together in an attempt to secure protections for our
+identifiers in the Domain Name System.
+
+IGOs face serious
+
+financial, security, and reputational risks in an expanding DNS,
+ranging from individuals who pose as GNOs -- as IGOs to spread
+dangerous
+
+disinformation
+
+about
+
+global
+
+pandemics,
+
+to
+
+individuals who pass off as IGOs in order to try to get fraudulent
+donations. And just as an example, last week I received two
+emails from individuals who were posing as the International
+Monetary Fund who were actually trying to get my banking
+information.
+The types of risks that we face, as well as our unique
+characteristics, put us in a particularly tough position. We do
+not have access to the trademark clearinghouse, nor are we able
+to use the UDRP because in doing so we would have to waive our
+immunities. These immunities, for a number of reasons, are
+
+Page 6 of 14
+
+EN
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+essential to carrying out our functions without undue pressure
+from any government in whose territory we operate.
+The GAC found that IGO's unique status warranted us unique
+protections and, therefore, advised the board that our names
+and acronyms should be granted protections because IGOs are
+unique rights holders, given public service missions, and the fact
+that we are creations of government under international law
+and funded by the public. Money spent on buying domain
+names that fraudsters might potentially abuse and our names is
+money diverted from fulfilling our missions whose scope is
+established by our member governments.
+Based on this advice, ICANN -- based on this GAC advice, ICANN
+granted us temporary protections by putting our identifiers on a
+reserve list so that websites could not be registered using our
+names or our acronyms at the top and second levels.
+Years later, in a 2014 decision, the board made protections for
+our full names permanent. However, this is of little real impact
+for most organizations.
+
+For example, the Organization for
+
+Economic Cooperation and Development, whose name adds up
+to a nearly 50 character string, is almost exclusively referred to
+as the OECD. In recognition of this fact, the IGOs had hoped that
+the board would grant the same protections to our acronyms by
+putting them on a reserved list as well. After all, we're talking
+
+Page 7 of 14
+
+EN
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+about less than 200 IGOs, a statistical blip in the DNS. A reserve
+list also seemed to us the easiest and most cost effective
+solution for everyone involved to implement. Nonetheless we
+were willing to discuss alternatives.
+A small group, composed of the GAC chair -- thanks, Thomas -and representatives of the United Nations, the Universal Postal
+Union, the World Intellectual Property Organization, the World
+Bank, the World Health Organization, the OECD, and the United
+States was formed later that year to try to bridge the gap
+between the GAC's advice and the GNSO's advice on this topic.
+As Thomas said, this small group met several times and
+exchanged several proposals in writing.
+
+We also met at a
+
+meeting that I personally organized at the OECD's headquarters
+in Paris last summer. Unfortunately we made little progress on
+the issue and were at a standstill nearly two years.
+In parallel, as hopefully many of you are aware, the GNSO
+started a PDP on curative rights protection measures for IGOs
+which threatened, and still threatens, a conflict with all of the
+work of the small group.
+
+In short, that PDP attempts to
+
+determine whether or not the UDRP is accessible to IGOs,
+although the IGOs have already taken pains to explain why it is
+not. Once again, it's an issue of our immunities. Nevertheless,
+we remain guardedly optimistic that the PDP will not stand in
+
+Page 8 of 14
+
+EN
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+the way of the implementation of a compromise, if we are able
+to find common ground between the GAC and GNSO positions.
+I, like Thomas, was very happy when yesterday we met and had
+one of the more productive meetings that I have attended on
+this issue, and thanks in no small part to Thomas' help. This was
+no doubt due also to the presence of several individuals from
+the GNSO. We were extremely grateful to have an opportunity to
+exchange with GNSO members face-to-face, openly and frankly.
+And look forward to having the opportunity to do so again very
+soon.
+I will take the proposals tabled at the meeting back to the
+coalition of IGOs so that we can further the discussion between
+now and Hyderabad. We are guardedly optimistic that with
+encouragement from the GAC and the board we may be able to
+finally find a way out of this impasse with the GNSO. We've been
+at a virtual dead like for years and this presents a great
+opportunity for ICANN to show that the multistakeholder model
+can work. The GAC has issued consistent advice and the IGO's
+are hopeful we can help the board implement this advice while
+also taking in the concerns of the GNSO.
+
+This is why we
+
+proposed the language for the GAC communique with the help
+of New Zealand.
+
+Thanks again to the New Zealand
+
+representative which we hope will give a clear steer to a
+reasonable way for conducting discussions in the future and
+
+Page 9 of 14
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+EN
+
+hopefully quickly bringing a close to this issue. Thank you so
+much.
+
+CHAIR SCHNEIDER:
+
+Thank you, Jonathan. Actually, given the fact that since this
+story has started there has been a lot of new people, not just in
+the GAC but also in the GNSO as we realized yesterday, it was
+actually very helpful, I think, for many of us to get a very short
+and precise recap of this -- of this story. So yeah, thank you. We
+have some time for questions or comments. The OECD has also
+proposed text for the communique. So I guess you've seen that
+and you will receive a paper copy of the communique very soon.
+So questions, comments on the IGO. And for your information,
+as it is in the letter of the GNSO, and we discussed it very briefly
+also with the -- with the GNSO, it is not exactly the same but let's
+say the fundamental situation with the Red Cross is the same.
+We are not yet at the stage where we have a permanent system
+for protection. We are still under a temporary regime that
+should sooner or later be turned into something permanent. So
+that just -- but these are two similar but separate processes.
+Questions, comments on this? Switzerland.
+
+SWITZERLAND:
+
+Thank you, Chair. Well, first of all, I want to thank Jonathan for
+the information he has given to us. I think it's a very good sign
+
+Page 10 of 14
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+EN
+
+that cooperation is progressing. Also, after the conversation we
+had with the GNSO during this week, so I see this as a very
+positive sign. And I also think that there are steps being taken
+with the other issue on the Red Cross protections. So I think we
+should, later on, reflect this in our output of this meeting. Thank
+you.
+
+CHAIR SCHNEIDER:
+
+Thank you, Switzerland. Other questions or comments on this.
+So I take the silence as a careful positive support or hope that
+this will be continuing to go in the right direction. I see the U.K.
+is nodding and some others as well. So in case that you don't
+have any further questions, as I said, please have a look at the -like all the other pieces of text but at the text in the
+communique. And so as we have a few minutes left, I would
+actually use this for two things. One is to inform you that those
+of you who were there at the last or second last meeting, we had
+a discussion with the ALAC where we decided to actually also
+increase our communication with the ALAC and the ALAC would
+establish a liaison to the GAC in order to help us exchanging
+information more regularly, also intersessionally to be informed
+and inform each other mutually about what is going on in our
+silos. And since then the ALAC has been working on this and
+they have actually designated the first liaison, and he has been
+here actually already this morning. For those who have been in
+
+Page 11 of 14
+
+EN
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+the GAC for a long time, they may still remember the time when
+he was the Finnish GAC representative. It is Yrjo Lansipuro. So
+please, Yrjo, stand up and wave, yes, perfect, so that everybody
+knows that you are now taking on this role as GAC liaison to the
+ALAC or the other way around, ALAC liaison to the GAC or both
+around -- both ways around.
+
+So he will be helping us
+
+communicating more directly and regularly, which is something
+that we've welcomed and we still welcome. So we're looking
+very much forward. And as he has been on the GAC himself, this
+is, of course, also useful because he knows how we work and
+that is, of course, always helpful. So welcome, Yrjo. Looking
+forward to have this tool in the form of you.
+[ Laughter ]
+And then there's another small thing, all small, I don't know
+whether it's small but there's another thing. As you may have
+seen, I think it has been circulated to you, that there has been
+some discussion in the past months about the cost of the CCWG
+accountability work that have been considerable, particular
+legal advice is normally not for free because they don't have
+salaries of government officials. And there is now an attempt to
+look into this more closely to plan ahead with the budget and
+cost for Work Stream 2.
+
+And so they ask all chartering
+
+organizations to validate the budget for Work Stream 2 for the
+next year, and so we need to validate this too. I'm not sure to
+
+Page 12 of 14
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+EN
+
+what extent the GAC -- we all have the resources to look into this
+resource question, so the proposal is that we will look at this. In
+particular take -- try to take a close look in the leadership team
+and then in the next -- in the coming days or weeks, we'll come
+to you with a proposal. But we think we should do it with the
+budget, but, of course, everybody's invited to look into this as
+well because in the end we have to validate this as a chartering
+organization and not just the leadership team. I just wanted to
+flag this to you because it's -- it's an issue also of accountability
+and transparency. And -- but we don't have the time to discuss
+this here, and we can -- whoever has comments or questions,
+just put them on the GAC mailing list and we'll take them up or
+try to work with these questions in case you have any.
+With this, I think we have a few minutes time to see whether -our colleagues from the SSAC are already in the room. Okay. So
+please come up. For once we are not late. We're actually a few
+minutes ahead, which is I don't know how we make -- we make
+this happen. But we haven't met with the SSAC for quite a long
+time as we have been concentrating on rather political and
+symbolical issues than on security and stability issues. So we're
+very happy to have you here.
+
+UNKNOWN SPEAKER:
+
+Page 13 of 14
+
+Thank you.
+
+HELSINKI – IGO/INGO Names and Acronyms Protections
+
+[END OF TRANSCRIPTION]
+
+Page 14 of 14
+
+EN
+
+

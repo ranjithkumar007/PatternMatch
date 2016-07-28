@@ -1,0 +1,1365 @@
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 1
+
+Transcription ICANN Helsinki
+GNSO Next-Generation Registration Directory Services to replace WHOIS Policy
+Development Process Working Group
+Tuesday, 28 June 2016
+Note: Although the transcription is largely accurate, in some cases it is incomplete or
+inaccurate due to inaudible passages or transcription errors. It is posted as an aid to
+understanding the proceedings at the meeting, but should not be treated as an
+authoritative record. The audio is also available at
+The recordings and transcriptions of the calls are posted on the GNSO Master Calendar
+page http://gnso.icann.org/en/group-activities/calendar
+
+Chuck Gomes:
+
+And while you're continuing to read, let me make kind of a historical comment
+here. For those that haven't been involved in the GNSO or ICANN
+policymaking for very long, many of us can go back when they were less than
+desirable, okay? And that's not a criticism. We just learned over the years
+that the very thorough response to comments that we're working on right here
+is something that's been going on for the last couple years that personally I
+think is really, really important so that people know that their input is being
+received. So this isn't just an exercise that we have to go through because it's
+now what's been done before, but really it does demonstrate that we're being
+responsive to the input we receive.
+Any questions or comments on this one? Is it okay? Yes, (James)?
+
+(James):
+
+Okay I'm going to be a little bit contentious. So I don't think I agree with the
+first statement that the list of requirements is a problem definition.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 2
+
+Chuck Gomes:
+
+Are you talking about the work group leadership team believes that the
+identification of requirements of an RDS in phase 1, is that the one you're
+talking about? It constitutes the problem - okay? Do you have a suggested
+change?
+
+(James):
+
+I think we can put in some phrasing saying that, you know, we're in the phase
+of defining the problem, but I don't think a list of requirements defines the
+problem. Just from - I'm almost being too technical possibly but just you
+define your problem, then you identify your requirements to solve your
+problem.
+
+Chuck Gomes:
+
+Okay thanks. Say that again, please. How would you reword this?
+
+(James):
+
+The leadership of the team believes that the working group is currently
+defining the problem and gathering a list of requirements that may solve the
+problem or is currently in the process of working through that or something a
+little bit more general. I just don't believe that our list of requirements is a
+problem definition.
+
+Chuck Gomes:
+
+Thanks, (James). This is Chuck. Does anybody disagree with that change to
+this statement? You're supporting it? Okay thanks. I asked if you disagreed
+and so I want to make sure. Okay. Everybody's okay with that? And did we
+capture that? Okay thanks. They're always really good at capturing these
+things. I couldn't do it nearly as fast as you do. Anything else on this one?
+Thanks, (James).
+And we will send this out this to the working group list for people that aren't
+here to respond as well, so that's an action item from this meeting, okay? All
+right let's go on. We should be getting - oh Alan, I'm sorry.
+
+Alan Greenberg: I presume your answer finishes there. It doesn't roll on to the next screen.
+Chuck Gomes:
+
+Let's check. Actually I have a hard copy here. Yes that's correct.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 3
+
+Alan Greenberg: At the end, they raised the issue of if we are not going to be satisfied in using
+the RDAP protocol we need to justify why a use protocol standard is required,
+a new solution is required. I think they're subtly pointing out we're not a
+protocol organization, the ITF is, and we may not be in a position to define
+the protocol and that will require cooperation or involvement of the other
+group. And we sort of pass over that.
+Chuck Gomes:
+
+Alan, do you think we ought to say that here, and if so how?
+
+Alan Greenberg: I think we just need to acknowledge that if RDAP is not good enough then
+there will have to be something else, and I don't think we can somewhat
+arrogantly presume that it's - that protocol is the outcome of our PDP.
+Chuck Gomes:
+
+Thank you. Stephanie?
+
+Stephanie Perrin: Stephanie Perrin for the record. And I think Alan's touching on kind of a
+vague, nebulous question that I wanted to ask but I didn't want to slow us
+down. But I mean really the question is to that fundamental issue is Whois
+broken, do we need to replace the RDS, which we dealt with at the EWG and
+concluded that it was. Who's the authoritative voice on this? Who can say, I
+mean (Fab) and I always argue about what data elements ought to be there
+and, you know, who should get them, but that's not the fundamental question.
+Does the current system work? Is it going to fall apart and break? Does it
+meet - you know, it seems to me we're patching something, right? So who do
+we listen to on this? Do we listen to the registrars who have to deal with it, do
+we listen to SSAC who's here to advise us on this? Do you see?
+Chuck Gomes:
+
+It's an easy answer for me, you listen to the registries.
+
+Stephanie Perrin: Right, we have a great (unintelligible).
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 4
+
+Chuck Gomes:
+
+No, no, I'll give a serious answer, okay? Yes, this is all really important and
+many of you, probably most of you, saw (Andrew Sullivan)'s comment in the
+last week, and it's a very good comment. And (Andrew) -- I wish he was here
+to speak for himself but - and I hope I don't misrepresent it -- but I think he
+was kind of saying let's start with RDAP. We have it. It would take years to
+develop another protocol, okay? And that's not something we do, okay?
+So there's some sense to what he's saying. Now I think it would probably
+require a charter change. I'm personally hoping that it would - we wouldn't
+have to change the charter, but if we do, we do and that is possible. So we're
+going to, you know, now in terms of - so what do we do on this one? We do at some point I think it is this working group's responsibility to make some
+recommendations with regard to using the RDAP protocol and to identify any
+things that may be - need to be added, and there are some I think that would
+need to be added if we decide to go that direction.
+So I do think it is this working group's responsibility not to create the changes
+in the protocol that may be needed or - but as part of policy, okay? I mean it's
+essentially policy that the old Whois protocol is used. Registries and
+registrars have to follow that. Out of this group I think there will be
+recommendations with regard to what protocol should be used. Now you're
+welcome to disagree with me. Alex, go ahead.
+
+Alex Deacon:
+
+Yes hi. Alex Deacon for the record. I guess I don't disagree with that, Chuck,
+but I think we should focus on the policy and the requirements. And if it turns
+out that RDAP needs to be changed, updated, amended, then I think that can
+happen. The way it's designed it's extensible and it's not a big deal, and that
+will happen elsewhere, not here because we're not a protocol development or
+an organization. So I'm not so worried about that.
+I think if we focus on our job, which is to set the policy for this new system,
+then the way your colleagues at VeriSign and others who've been involved in
+the IATF RDAP work it'll work out in the end and we'll be able to support
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 5
+
+whatever we come up with. We shouldn't worry about how that'll be taken
+care of.
+Chuck Gomes:
+
+Thanks, Alex. Well said. And so, Alan, back to your point on the last
+paragraph there, I think you suggested that we maybe add a sentence. Is that
+correct?
+
+Alan Greenberg: Yes, I was just saying that we acknowledge and not ignore the fact that
+should we decide that RDAP is either insufficient and needs to be extended
+or cannot be used at all that we understand that we will have to rationalize,
+you know, explain our reason and justify that we are asking some other group
+to put a huge amount of effort into doing something, which is essentially the
+same.
+Chuck Gomes:
+
+And just - did you capture that okay, Marika? Okay. So anybody object to that
+being added? Now I think maybe I would suggest adding a - one more thing
+and that is that the working group's not suggesting that RDAP won't work,
+okay? Because I think there may be some sensitivities in the technical
+community if, after all the work they went through, we're implying that we
+have concerns about it. It's one thing for it to need some tweaks.
+So let's - I just am concerned about, and in having talked to some people
+from that community, the technical community, then, you know, they did a they put a lot of work into that. And so let's also just let them know that we're
+not suggesting that we think that'll happen is what I'm saying. Stephanie?
+
+Stephanie Perrin: Stephanie Perrin for the record. Just a question. I agree with (James)'s earlier
+intervention that we haven't really defined the business requirements for this
+or the purpose. You've heard me umpteen times on this. I don't understand
+how the IATF went ahead and developed RDAP who gave them the business
+requirements. And I'm not being critical. I think it's great. We're going to need
+it in all this. But if we didn't have a policy for Whois then how did RDAP get
+developed, based on what business requirements?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 6
+
+Michele Neylon:
+
+It's Michele for the record. Stephanie, there's a world - the world is made up
+of numbers and names. RDAP is being used by the numbers community. So
+a lot of what people have been talking about around RDAP in the last few
+minutes assumes that RDAP is linked somehow to Whois for names. The
+reality is no it isn't. RDAP is being deployed by (Ripe), it's being deployed by
+(Aram), and they've spent a lot of time, energy and effort and they've
+switched over most of their systems to using that. Names came later.
+
+Chuck Gomes:
+
+And I want to add to that before I go to (James) and that is that there have
+been requirements for a possible Whois. There's been multiple Whois efforts
+in the past that have identified possible requirements like IDNs and so forth.
+So actually it wasn't in vacuum that the RDAP was developed. So. (James)?
+
+(James):
+
+Thanks, Chuck. So I wasn't actually going to wade into this because this is
+something that I agree with (Andrew) on. I do actually think we need a charter
+change, because I agree with (Andrew). I think our first question that we're
+trying to solve in our phase 1 is do we need a new RDS and there's two
+aspects to that, looking purely from a policy perspective. There is the policy
+side of it and then there is the technical policy side.
+And I think just again from a realistic trying to run the working group on how
+we're going to stagger things, I think if we solve or if we attempt to answer the
+question of do we need a new technical RDS and maybe that might be
+RDAP, I think if we answer that question first and then we answer the very
+simple question of okay well what are the requirements and elements in order
+to run those domain names. You know, these are the technical requirements
+now, we're not talking about anything other than that. And then we solve that
+first and then we could move on to the value adds, the extra data, everything
+else.
+That's something that we can have longer discussions about. But I do agree
+with (Andrew) that I think there is a case to be made for saying let's make our
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 7
+
+big decision first about whether we're sticking with Whois or not. I think that's
+a big decision and I think it's something we could make quicker than we could
+make a decision on 7, 8, 900 data elements and however long that may take.
+Chuck Gomes:
+
+Thanks, (James). (Lisa)?
+
+(Lisa Pfeifer):
+
+I just thought it was worth noting that actually as part of our 11 questions that
+we deal with in phase 1 we do have a question on system model, which is
+where the technical requirements should be defined that would lead us to
+determining the constraints on the system model, as (Andrew) suggested.
+
+Chuck Gomes:
+
+Thanks, (Lisa). Chuck speaking again. So can I translate from that that
+maybe we wouldn't need a charter change? Maybe it's there. We just - just
+can we adjust our workflow?
+
+(Lisa Pfeifer):
+
+So to clarify again -- (Lisa Pfeifer) again -- what our charter says is that we
+should define the requirements on the system model, not pick a system
+model in phase 1. Picking a system model or, you know, recommending one
+would come in phase 2 and three as we work through those requirements
+and determine, you know, looking at different models which might actually
+satisfy those requirements.
+
+Chuck Gomes:
+
+(Lisa), I'm going to ask -- this is Chuck -- I'm going to ask you to, if you can,
+and I confess I have not read your response to me in questions with regard to
+(Andrew)'s post, you sent a couple paragraphs, is that appropriate maybe to
+share with the whole group here?
+
+(Lisa Pfeifer):
+
+Sure, Chuck. So we've had a little bit of back and forth about (Andrew)'s
+message and how that fits with the charter. And one of the observations that I
+had shared with Chuck is actually not sharing what happened within the EWG
+when we wrestled with this very same question. So in the early days of the
+EWG we used use cases to look at users and purposes and data elements.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 8
+
+And once we finished that process there were some EWG members that
+really felt like they needed a system model to look at everything that had
+come out of that and test their thinking, is this possible, is it feasible, what
+kind of model would be used to actually deliver on these principles. And the
+initial EWG report actually did put forth a possible system model, which was
+the aggregated RDS, but it did that without really explaining the model or
+going into detail about, you know, what was the rationale behind it. So it was
+just kind of tossed out there.
+Over the following year though, the EWG looked at half a dozen different
+models, not just that aggregated model which was that initial thinking but
+several other distributed and centralized models of various kinds, in the end
+picking two of them, a federated model and synchronized model that was
+actually tasked to a third party to really look at the technical feasibility and
+cost impacts associated with those models.
+It was only after all that process that the group could actually choose a model
+to recommend in its final report. So it wasn't something that the group could
+really recommend from the get go; it could certainly start thinking about
+requirements in the context of a model but we weren't actually able to reach a
+conclusion as a group about which model would best support the
+requirements until the very end, until all of that work was done.
+So it's a bit of a chicken and egg. You can't necessarily pick a model right
+from the get go. You can certainly have that mindset but you really need to do
+the due diligence of looking at the policy requirements and as well as the
+system requirements before you can actually make a final recommendation
+on which model to deal with.
+Chuck Gomes:
+
+Before I go to Michele and then (James), but -- this is Chuck again -- so help
+us translate that into this question about whether or not maybe we should be
+looking more RDAP earlier in the process? How would you apply that?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 9
+
+(Lisa Pfeifer):
+
+I think that there are two things that get somewhat confused here. One is
+which protocol is used in different places within the model, and then the other
+is where does the data live and how is it distributed. And that's what I'm
+talking about when I refer to the system model is, you know, is it a fully
+distributed model, is it thick, is it thin. That's a much bigger question then
+which protocol be used.
+Which protocol be used I think we can probably guess ahead that it will be
+some form of RDAP, RDAP with possible mapping of data elements. That's a
+much smaller question though than how do you distribute the data, where
+does it live, what parties hold it. And it's that much bigger question that I think
+has to really be - give full consideration and reach consensus on that bigger
+question further down the line.
+
+Chuck Gomes:
+
+Thanks. To me that's very helpful. I hope it is to the rest of you. This is
+Chuck. And what I'm kind of hearing is, is that we might be able to do - make
+a decision earlier with regard to RDAP and put that to bed other than any
+refinements might be needed. And the bigger question of federated versus
+centralized, that's really going to depend on a lot of the other work we're
+doing. That's very helpful to me. Let me go to Michele.
+
+Michele Neylon:
+
+Thanks, Chuck. Michele for the record. Just noting that quite a few people
+have come into the room. I assume either, A, you are all in a much more
+exciting meeting or, B, you all had a bit of a (unintelligible). If you did,
+congratulations. For those of you who are members of the working group, if
+you want to introduce yourselves to everybody else since I know quite a few
+of you don't know each other to see, please do so.
+There are - there's a microphone down the middle there. There's also a
+couple of spaces at the table, and I assure you that not everybody at the
+table bites, so feel free to take a slot. And if anybody has any questions or
+wishes to interrupt or intervene, either grab a mic at the table after kind of
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 10
+
+waving at either myself or Chuck, or do the same with the microphone in the
+center. Thanks.
+Chuck Gomes:
+
+Thanks, Michele. Much appreciated. (James), you're up.
+
+(James):
+
+Thanks, Chuck. So I'm just going to take like 30 seconds to make the
+elaboration of what I was saying, and this is more my thing now rather than
+necessarily what (Andrew) was proposing. I think I agree with what (Lisa) was
+saying that, you know, there is elements of this and obviously need a lot more
+discussions down the line rather than us making a snap decision now.
+But, so I'm going to go back and again relate it to the way I do this in day job
+land and, you know, at the start you define your business problem. You then
+define the technical solution to your business problem and then you build
+your business application on top of that. And that is really what I think, from
+my point of view anyway, makes sense for how I would like to see us
+approaching things is that we come up with the problem, which I think we can
+do pretty quickly. You know, that's usually maybe two or three paragraphs of
+what we need fix. That's both from a technical and a business perspective.
+So the business perspective in this is obviously the policy perspective.
+And then you say okay well what technology do we need to fix this. I'm not
+talking about, you know, how exactly do we configure that system or, you
+know, what exact extensions do we need, et cetera, et cetera. That's a later
+discussion. But you say what set of technology platforms do we need in order
+to solve these new problems that, you know, didn't exist back when Whois
+was put in first and then you start building your business on top of that, or in
+our case, our policy on top of that.
+And I think that's the more logical progression in my mind than maybe what
+we have been going on at the moment. Because I just see us giving up these
+list of what I would see as user requirements, which is generally a long list
+that you try and cut down later on. But you usually do that after you've
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 11
+
+defined your business problem and after you've made your choice over your
+technology platform that you're going to use to solve that business problem.
+I think in my mind it just makes more logical sense to work in a way like that
+rather than the way we're doing it at the moment -- not that I disagree with the
+way we're doing it at the moment. I just think we could probably be more
+efficient doing it that way rather than this way.
+Chuck Gomes:
+
+Thanks, (James). This is Chuck. So how would you change what we're - the
+approach we're taking right now?
+
+(James):
+
+So I'd like us to come to an agreement on the defined problem statement,
+and there's lots of work in the preliminary issues report and stuff that we can
+do on that. Okay, what do we need from a new RDS, and from that statement
+you then make your decision okay do we need one or not, do we need a new
+one or not. And I think that should be our first decision point, do we need
+(unintelligible).
+
+Chuck Gomes:
+
+Forgive my slowness, but it seems to me that defining the requirements
+accomplishes that but I don't think you agree with me on that.
+
+(James):
+
+I think we're talking about requirements in different ways. I think what we're
+doing at the moment, the exercises we're doing is defining user requirements
+rather than I suppose more conceptual requirements. What do we need a
+new RDS to do, rather than on our list we have 800, 900, some crazy amount
+of requirements. That's not something that - I don't feel that that is something
+that you can use to make a go/no go decision, which is what we need to
+make in phase 1.
+
+Chuck Gomes:
+
+Thank you. Stephanie, so ahead.
+
+Stephanie Perrin: I think this gentleman was first.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 12
+
+Maxim Alzoba:
+
+Thanks. Maxim Alzoba for the record. Actually it's not just business issue, it's
+legal and technical issue at the same time. So when we have set of
+requirements from legal point of view, from technical point of view, from like
+operational point of view, we can try to create like - to get puzzle solved out of
+these bits, but it's not a simple commercial issue. So we shouldn't go the
+usual way of resolving business issues. Thanks.
+
+Chuck Gomes:
+
+Thanks, Maxim. Stephanie?
+
+Stephanie Perrin: I actually was going to say something very, very similar because -- Stephanie
+Perrin for the record -- but I agree with (James). I think it's - we are talking
+about the requirements fundamentally of those who use data. And to those of
+us, given this extremely well disciplinary group, I have fond memories when I
+was on the EWG of asking another stupid question about the technical end
+just as I asked one about RDAP and (Scott Fallenback), saying, "Well I
+explained that a couple of weeks ago."
+Don't expect me to retain that, you know? To those of us who are not down
+into the weeds in how this thing actually functions, it's difficult. So I appreciate
+that the SSAC is kind of keeping a watching brief and they have folks here,
+even if they're not necessarily representing SSAC, who can remind us every
+now and then when you haven't really told us what you want to build or, as
+(Andrew Sullivan) has done, you know, a pretty profound statement on how
+we're going in circles.
+I think it would be useful if we could also get that on the GAC side to give us,
+because if they want to be the policy spokespeople, then they need to keep
+an active watching brief on this. But we kind of need a gloss as we go along. I
+want to know how to cost this. In order to know how to cost it I need to know
+what our fundamental ask is. What problems, what three key things are we
+trying to fix.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 13
+
+And it isn't just end user desire for data, it's integrating the legal requirements
+that we never have integrated and, you know, providing for tiered access,
+which is a legal requirement. And, you know, on and on and on. It's complex.
+And if we don't do that, I just think we're going to lose it. We can't do it later.
+Chuck Gomes:
+
+Okay I'm going to stick my neck out a little bit here. This is Chuck. So do we
+have some volunteers that would like to work on a problem statement? I've
+got (James). Okay. I - and Stephanie. And I can't see who it is in the back
+that raised their hand. Would you identify yourself?
+
+(Shane Kerr):
+
+Hi I'm (Shane Kerr). I'd be glad to help with the requirement statement.
+
+Chuck Gomes:
+
+And somebody else, if you'd come to the mic. Thanks. Sorry.
+
+(Mark):
+
+(Mark) from Microsoft.
+
+Chuck Gomes:
+
+Thanks. And Alex.
+
+(Nick Shore):
+
+My name's (Nick). I'm from the GAC in the U.K. I'd be happy to work on that.
+
+Chuck Gomes:
+
+Okay. I think, and let me look over here at our - probably because there's
+several people, it seems like it might be useful if we created a list for them. Is
+that feasible? Or do you have a better suggestion?
+
+Michele Neylon:
+
+(James)?
+
+(Lisa Pfeifer):
+
+Could we have a description of what it is they're trying to accomplish, a
+problem statement for the problem statement group?
+
+Chuck Gomes:
+
+Yes that's the problem statement group.
+
+(James):
+
+A group to draft the problem statement. Because I also suggest that, you
+know, just in the interest of fairness that we get somebody from the IPC. We
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 14
+
+got a registry, we got a registrar. I'd like to see it as a balanced group so that
+it doesn't feel like it's NCSG people drafting this.
+Chuck Gomes:
+
+(Marina), you're joining? Okay. Marika?
+
+Marika Konings:
+
+I mean, I think from a staff perspective the preliminary issue report is the
+problem statement. That's why the issue is scoped and also translated in the
+charter. I'm not really sure for now going backwards or creating work where
+we already have a lot of work that needs to get done, but.
+
+Chuck Gomes:
+
+Yes. (James)?
+
+(James):
+
+And I agree, Marika. (Unintelligible) I think the preliminary issue report is
+excellent but we need to condense into something that is really tight. It's
+something that is five paragraphs that state here is what we're trying to solve
+in our first session, and it needs to be a lot more tight.
+Like the preliminary issue report is so detailed and so in depth, we need to go
+to a more conceptual level and define a conceptual problem that we're trying
+to fix rather than - the problem that I'm seeing is that we're getting nitty-gritty
+into the details because we're all extremely detail-orientated people and we
+all have specialty that we want to go into that, you know, specific line item
+drafting that we know well. But I feel that we have a gap in the conceptual
+problem statement that we haven't actually defined yet, and I think that's one
+of the things that was reflected in the SSAC statement as well.
+
+Chuck Gomes:
+
+Stephanie and then (Daniel) after Stephanie.
+
+Stephanie Perrin: Stephanie Perrin for the record. I - to me the condensed problem statement
+should focus on what ICANN's remit is in terms of registration data.
+Chuck Gomes:
+
+Let's be careful there though, because we're going to have a lot of debate
+about what ICANN's remit is with regard to registering data. That's going to
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 15
+
+be a controversial issue where we're going to have a lot of disagreement. So
+let's not get hung up there because that's going to come out of I think a lot of
+deliberation in the future.
+Stephanie Perrin: But we can't duck it.
+Chuck Gomes:
+
+That's…
+
+Stephanie Perrin: Defer yes, but it's a fundamental question.
+Chuck Gomes:
+
+If this problem statement becomes an area of deliberation, it will take a really
+long time and I'd rather not see that happen. (Daniel).
+
+(Daniel):
+
+It's (Daniel) for the record. I think we are going back behind to where we
+started from because already there was a problem that was identified. We
+went ahead to get - to go through the possible requirements. And if at this
+point we're going back again to the problem requirements, I think it's going to
+interfere so much with our work plan. There's a couple of issues with
+technical requirements that have to come in that have to be assist, approved
+and so forth. So I think we need to review the work processes and create
+requirements. Thank you.
+
+Chuck Gomes:
+
+Thank you, (Daniel). And let me assure you that I'm not -- and I told you I was
+sticking my neck out and I may even have some on the leadership that are
+upset with me -- but I'm not suggesting we stop on our work plan, we're going
+to keep going while this is going on. So understand that, okay? A lot of
+people, smart people, worked together to develop the framework, to develop
+the - and we worked together to develop a work plan and so forth. And so I
+don't want to minimize the efforts that have been done but several people
+have suggested something. We're going to take a look at that, see if that's
+helpful moving forward. Okay? But we're going to keep progressing, okay?
+
+(Daniel):
+
+So that's going to be a part of the process going on?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 16
+
+Chuck Gomes:
+
+Yes. And to the extent when this group can deliver that, we'll bring it back and
+it may help us. In fact I'm optimistic that I may help us zero in and accomplish
+what we want, okay? If we can have a tighter problem statement, I don't think
+anybody would argue with that. Okay? But try not to let it turn into a
+deliberation thing like that, okay? Let's avoid that because the whole group
+needs to do that.
+Keep in mind that our charter tells us that for phase 1 we need to work
+together as a full group, not break into subgroups. Now we did some for the
+finding documents and so forth, we did that. I think that was okay relative to
+the intent and - but ultimately we need to solve the issues in phase 1 all
+together as one working group.
+
+Woman:
+
+To that end, I think we ought to follow up on Marika's suggestion and go back
+to the preliminary assessment and the charter when you think about
+condensing the problem statement just to make sure that we stay within
+scope. And as Chuck said, don't get into the deliberations at that point. Thank
+you.
+
+(James):
+
+It's (James). (Unintelligible) I was going to actually just respond to my
+colleague Stephanie is that, you know, that's exactly what we don't want to do
+and something like this is going into specifics. You know, it needs to be just a
+conceptual problem statement, and as you said, definitely taking into account
+the boundaries set out by the preliminary issues report.
+
+Chuck Gomes:
+
+Let me - is there anyone on the leadership team that would be willing to kind
+of be facilitator for this group or maybe just one of the people who
+volunteered would be kind of a - you will? Susan.
+
+Susan Kawaguchi:
+Chuck Gomes:
+
+I don't want facilitate but I will…
+
+You'll be our liaison or whatever. Okay. Thanks, Susan. Okay. Marika?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 17
+
+Marika Konings:
+
+Yes this is Marika. If I can just repeat the names that I caught because I think
+didn't get everyone's names. So I have Stephanie, (James), Alex, (Nick
+Shore), (Shane Kerr), (Aiden), Susan. I think there was another gentleman on
+the microphone that came up, and apologies I didn't…
+
+Chuck Gomes:
+
+Would you please - if she missed your name, would you please let her know
+because…
+
+Marika Konings:
+
+I think it's the gentleman that's typing away in the front row. I didn't catch your
+name. Okay so who did I miss then? There was someone else that came up
+that I missed.
+
+Woman:
+
+From Microsoft.
+
+Michele Neylon:
+
+The gentleman from Microsoft.
+(Unintelligible)
+
+Woman:
+
+We need a last name. I'm sorry we didn't hear it.
+
+Man:
+
+I think (unintelligible) that group (unintelligible). Yes I'm also joining the group
+for the problem statement.
+
+Chuck Gomes:
+
+Did you get - okay hold on. Marika did you get (Daniel) also? Okay good. All
+right, again I thank you for that and let's try and wrap up on the public
+comment total. Greg, go ahead.
+
+Greg Shatan:
+
+I just wanted to follow up on the comments that (James) and (Vicky) made. I
+think that this problem statement should, you know, be a refinement of what
+is in the issue report and the charter, not a chance to kind of renegotiate and
+re-litigate concepts or to frontload or leapfrog discussions that we're going to
+have. So in essence it should be a quiet and boring group ultimately
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 18
+
+producing a useful tool rather than some sort of rump caucus that, you know,
+produces a lot of heat and no light. But in any case, I look forward to its
+admissions. Thank you.
+Chuck Gomes:
+
+Thanks, Greg. And to reinforce what he just said, keep in mind the issues
+report was approved by the GNSO Council, so it can't change that without
+going back to the council. So this isn't inventing something new, it's hopefully
+concisely expressing what we already have as a problem statement. Okay?
+All right, any other questions on this response to the SSAC that's in front of
+us on the screen?
+Let's go to the next item. And again those are straightforward so let's keep
+going. That's it. That's the end. So what I'm going to assume unless I hear
+something different is those in this meeting today are okay with this response.
+Now we've got to clean up some things, select whether we - what we put in
+the colored highlighted sections there and so forth, but I think we have what
+we need to finalize this.
+So an action item then is to send this revised public comment tool out to the
+full working group with, I don't know, if we give a - should we give a couple
+weeks because of travel and everything else on this? Okay. All right. And if
+that's a problem, people can let us know. All right? Okay. So I think we're
+done with the first bullet under number three there, task 7f. And the next task
+is a fairly brief one, task - outreach number two.
+We received requirements yesterday in our cross-constituency meeting.
+(Lisa), would you give us an update on that in terms of, you know, what we're
+doing with those requirements that were received yesterday in the crosscommunity session?
+
+(Lisa Pfeifer):
+
+So I sent around an e-mail to the working group, the list of requirements that
+were captured scribed. We'll confirm that of course again with the transcript
+when we have it and incorporate them into the possible requirements list in
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 19
+
+the appropriate categories. I should note that actually several people have
+also submitted additional possible requirements from documents that they
+covered, so we have a small queue of additional possible requirements to
+add to the list. We will do that as - in concert with the triage effort. The triage
+effort is going on on the existing draft, draft three. So then we will then add
+additional requirements once we have that format.
+Chuck Gomes:
+
+Thank you. So now I want to throw it open, and we said - I said that we'd do
+this yesterday in the cross-community session, does anybody else have any
+requirements that you want to submit? Even if your group didn't submit any,
+you're welcome to today. So - and again if somebody thinks of one later,
+we're not going to reject, okay, but (Lisa) and Susan in their triage work, their
+first cut of the triage work that will come back to us, you know, all of these will
+be incorporated into that. So does anybody have any to add today, anybody
+in the room, a possible requirement that - to add to our list at this time?
+Okay. Thank you very much. And if some of you your groups are going to
+submit them late like the GAC, that's still okay. We're not going to reject them
+if they're late but we're going to keep moving forward. All right, now the next
+task is going to take quite a while. Is there any reason why we couldn't take
+our break early? Is it not ready, do we know?
+(Unintelligible)
+
+Chuck Gomes:
+
+Okay so we won't - we won't break just yet. We want to make sure the
+coffee's ready and so forth. Just let me know and then we will - so we'll
+introduce - let's bring up the approach document on how we're going to reach
+consensus. We're going to go through that in quite a lot of detail. This is very
+important. While that's being brought up, let me share that the charter gives
+some specific information in terms of reaching consensus that is consistent
+with GNSO working groups, okay?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 20
+
+And - but it doesn't go down to a enough detail for how we're really going to
+make it happen when we go through these requirements, okay? So I don't
+think we need to go over the background statement. We've gone through that
+in the past. Certainly if somebody has any comments, they will be accepted
+readily today. So please do that.
+But let's - I'm going to do a quick review of the proposed approach, okay?
+And it's charter section four, the rules of engagement that talks about how we
+reach consensus. And we're going to follow those when we ultimately reach
+consensus but we're not going to follow those guidelines in our progressive
+deliberation, okay? And that's what this is talking about.
+So this proposed approach says, and keep in mind we're talking about this
+huge list of requirements that we're going to be deliberating on, so after initial
+deliberation on the first five questions -- keep in mind there are 11 questions
+in our charter and those 11 questions apply to all three phases, they certainly
+apply to phase 1. So here's the plan, we will deliberate on the first five
+questions and then answer the fundamental question of is a new next gen
+RDS needed or can the existing Whois be modified to satisfy the
+requirements of the first five questions. Okay?
+Now, so that changes - we're going to - we would modify our work plan to
+accommodate that and then we would have our first initial report after we
+finish deliberating on the first five questions. Okay? And then at the end of
+phase 1, we would have another initial report, okay? So that's after we cover
+the other six questions. Now there hasn't been any controversy about this
+part of the approach, but we can have some now if you'd like to raise any
+issues. Okay.
+Going on then. So we will get - after the initial reports we will get feedback,
+public comments, okay, after every initial report. And if we decide after
+covering the first three questions, purpose and users, privacy, and data
+elements, if we want to go out to the SOs, AC, seasoned SGs and get
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 21
+
+comment on our - the results of our work from the first three questions, we
+can do that. We're not going to call it an initial report but we can seek input at
+that stage. Okay? And then we'll go on and deliberate the other two questions
+of gated access and accuracy. Okay?
+Now look at item C. We're going to - not - as we're going through our
+deliberation on all the requirements, we're not going to do the formal method
+of determining consensus that's in the charter. To do that would be very time
+consuming, and I think there's pretty much agreement that we shouldn’t do
+that until we get the public comments back and reach final consensus.
+So what we're going to look for at that stage is a rough consensus on
+possible requirements and we will communicate that in each of the initial
+reports and we'll describe it in some general ways like you can see there in
+C2 what level agreement we had, was it most, was it, you know, enough
+information so people have a feel for where the working group's at and then
+get the feedback from the community.
+So you can see there in the top of that next page, you know, we'll say things
+like supported by all, supported by most, supported by many, but also
+objected to by many or things like that, give enough information so that the
+community that we're seeking public input on can see where the working
+group's at and provide us their opinions on that. And of course then we'll
+analyze the public comments and take those into consideration. And can you
+scroll down a little bit please?
+Now we're also taking -- and this we're already kind of doing; this is what
+(Lisa) and Susan are working on here -- but we're going to take the steps you
+see there to take this huge list of requirements and refine them and organize
+them and group them, et cetera so that -- and then some of this came from
+(Greg Aaron)'s input on this, that's where got the word triage and so forth.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 22
+
+And you can see there in item 2a2 (Lisa) and Susan are working on that task
+of starting to triage their requirements, and we're going to be looking at
+identifying similarities of requirements and dependencies and so forth. And
+some of that will be brought back to the whole working group. And then we
+will hopefully make it much easier to start tackling that, all of the requirements
+and deliberate on them.
+Let me stop there. Any concerns, questions, suggestions with regard to step
+two? I think we've had pretty good support for that up till now, so I don't think
+we're introducing anything new. And thanks again to (Lisa) and Susan. Let
+me tell you, it's a huge task they're taking on to do that. Then they'll bring it
+back to us and then we'll have to spend some time on that.
+Okay on steps one and two. Now the new step that was added, or the new there's elements in number three that is new, so if you can scroll down so
+most of - most or all of three shows on the screen. So when do we start
+deliberation? You'll recall that a few months ago we talked about this and
+there were some very differing opinions in terms of that. So - and this part,
+because it's so important, I'm going to read it in total and you can follow
+along.
+So - and I'm going to start in - where it says Chuck there. "Chuck had asked
+that comments and objections be communicated by Friday the 24th." We
+dropped that, okay, because some people needed some more time, okay?
+So there were objections to some of those things so that's why we're talking
+about this now. We were going to try and finalize this before the - before this
+meeting today so that we maybe could go more quickly into deliberation.
+We nixed that, and this has been changed so the example that was criticized
+about - that I gave on following international law, we dropped that example.
+And then let's go down then to the next page, starting with A. And here's what
+I want you to focus on and see if we have agreement to move forward in this
+direction. And the purpose of this approach that I'm suggesting is to help us
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 23
+
+start deliberation at - in a way that doesn't - isn't dependent on the triage work
+at this stage, okay, because it's going to take quite a while to do all that.
+So, A, notice the work plan already is designed to start with the first three
+areas - the three areas -- I shouldn’t say first three areas because they're in
+different order in the charter -- users' purposes, privacy, and data element
+questions. And that's step 12a of the work plan. Now we're going to do those
+iteratively. We'll move back and forth between them. We're not saying that we
+have to do one first and identifying which one, but we're going to go back and
+forth there.
+And to accomplish that, and this is where my suggestion for one way to start
+deliberation soon, maybe today, is we'll ask the working group members to
+propose any possible requirements for the working group to consider related
+to one of those areas that -- and I'm going back up to B-I there -- that would
+apply to the RDS in all circumstances, okay? Are there any such -- and I'm
+going to come back, you'll see when I get to the end I'm going to ask you to
+respond to this question -- and that question is, are there any such
+requirements in there, do you think? And we'll talk about that.
+And then we'll - in this list of possible requirements that may apply in all
+circumstances regardless of who the users are, regardless of the jurisdiction,
+regardless of whatever, if we identify some of those, then we'll start
+deliberating on those. Okay? And get the lively discussion. We're going to
+have a lot of those.
+So you can see I left the one example in there in kind of the middle of the
+screen that I think might -- and I modified it based on some of the input
+received from the working group -- and so it says, "The RDS must collect,
+validate, store, and display the domain name and registrar name for all
+second-level gTLD domain names."
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 24
+
+Now whether or not we agree on that one later, don't worry about that right
+now. It was just intended to be an example of something that might apply in
+all circumstances. We'd show that information whether - whoever the user
+was, whoever, et cetera, okay? Tried to design it so that it was hopefully
+noncontroversial, okay, and would apply in all cases.
+Now if that example was correct then we would deliberate on that and decide
+do we agree that that's across the board type of requirement for an RDS
+system. Scroll down, please. And here's a counter example where
+jurisdiction, one that might not apply in all circumstances, so the data
+retention limitation principle from Article 61e of the directive and so on. You
+can read it there.
+Now that might only apply in certain jurisdictions like the EU or something or
+maybe it would apply everywhere, I don't know. We'll debate it later, okay?
+But I think there will probably a majority of requirements that would not apply
+in all circumstances. Now the triage and so forth is going to happen after we
+finish that exercised, assuming the working group supports that approach -I'll get to you in just a second, let me finish the train of thought -- we would
+then begin our deliberation on the triage document on all the rest of the
+requirements.
+So let me pause there and then I'll go to see after I go to Michele.
+Michele Neylon:
+
+Thanks, Chuck. It's Michele for the record. And go back up a little bit there
+please if you wouldn’t mind, so you can scroll down. Right. Now just this bit
+here, the retention limitation, why would we consider lowering the standard in
+some cases? That makes no sense to me. If you're working on the basis that,
+you know, you're kind of coming up with a good policy that is comprehensive,
+then surely applying the same good standards across the board would be
+what you should be aiming for.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 25
+
+So, you know, that - it's just one of the issues I have with this is, look, let's call
+a spade a spade. The Internet is a global resource. If you end up with a - with
+policies where there are - where you don't have - it's like saying, I don't know,
+dot-com domain names would work better in one country than in another,
+which, you know, from a VeriSign perspective probably wouldn't make a lot of
+sense.
+And if there are requirements in certain jurisdictions that registrars or
+registries retain, collect to do whatever to a higher level, then let the
+government in that jurisdiction mandate that. But from our perspective, surely
+we should be looking at coming up with something which is more globally
+acceptable and to a higher standard. Thanks.
+Chuck Gomes:
+
+So I have a two-word response: Maybe we wouldn't.
+
+Michele Neylon:
+
+That's a four-word response.
+
+Chuck Gomes:
+
+Oh I'm sorry. It depends whether you would count would not as two words or
+wouldn't as one. It's maybe three.
+
+Michel Neylon:
+
+Well one of us spent eight years teaching English so I'll go with four words.
+
+Chuck Gomes:
+
+Okay. All right sorry about that. The - we're going to need to have a good
+sense of humor throughout this, guys, and that includes me. So that's what
+we're going to deliberate on. Don't assume that this counter example is one
+that won't apply as always. We're going to have to decide that.
+
+Michele Neylon:
+
+Oh no, I don't disagree. Your comment while you were reading that was suggested that we wouldn't, which is why I had to spring to its defense.
+
+Chuck Gomes:
+
+Yes I meant to say that as conditional. But regardless, we will, again, that'll
+come out in the deliberation, okay? Stephanie?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 26
+
+Stephanie Perrin: Stephanie Perrin for the record. I have an idea. This is a non sequitur that is
+prompted by this particular example. Maybe we could send regular questions
+to the GAC to help them do what SSAC is doing. I mean SSAC is following
+closely. The GAC is following, but there's a fundamental issue with GAC
+response on this. I'm not sure that the public safety working group has
+representation from the constitutional law sections in the various
+governments.
+And quite frankly, there are data retention issues that may not be in a data
+retention directive as it is in a regional block by the European Union, and then
+that is translated into national law. But there could be something in the
+constitution about data retention or the data protection law could be a human
+rights based law that has it integrated. You need to know each nation's
+particular (unintelligible) and maybe of us who don't know other languages
+may not know this.
+So we need help on this. Why not ask the GAC to do this research for us?
+And I don't wish to sound negative but I know from experience that you can't
+always get a good constitutional opinion from the law enforcement agency
+because these are impediments to their doing their business and we all
+sympathize, you know, but.
+Chuck Gomes:
+
+Thanks, Stephanie. And I think it's perfectly within our means to do that. And
+as we begin to deliberate some of these areas with regard to law and so
+forth, I think that is a very good idea. Maxim?
+
+Maxim Alzoba:
+
+Maxim Alzoba for the record. Actually yes, GAC members are usually
+physical ministries, generalizing. And one of the reasons to collect opinions of
+different constituencies that members of those constituencies they
+understand how law is going to be applied to them. And we shouldn't expect
+something from physical ministry guys which is already law of that particular
+jurisdiction. And for example registries or registrars or noncommercial
+entities, they know which parts will affect them badly. That's why they come
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 27
+
+to us with their suggestions. So we shouldn't turn this into okay we are not
+going to listen to it until GAC says something. That's my suggestion.
+Chuck Gomes:
+
+Thanks. And in fact, yes we're not going to hold things up but we could still
+reach out to the GAC, and even if they're not the right experts and they
+probably won't be, they probably have access to sources that might be able
+to help us. Go ahead, Stephanie.
+
+Stephanie Perrin: Stephanie Perrin for the record. I've been trying to figure out how this
+organization has gone along and I've talked to my colleagues who were
+original GAC co-chairs, and I do think that part of the problem is ICANN is a
+multi-stakeholder private sector corporation. There are no treaties coming out
+of this. You do the consultation whether you're constitutional law if you are
+likely to be signing a treaty. You don't have to if you're coming to an ICANN
+meeting.
+Therefore, the resources being what they are, you can't - this is not a criticism
+of the fact that there's nobody coming on these delegations with the possible
+exception of the European Commission, who have this expertise. But we
+need it because this is how this stuff is being created. And I know (James) is
+saying we don't need this in our position statement but -- and I know you
+don't want to start something contentious -- but it's pretty important that
+ICANN respect the rule of law. And that rule of law when it comes to some of
+this stuff, is in the constitutions and so we have to look at it sometime.
+Chuck Gomes:
+
+Susan?
+
+Susan Kawaguchi:
+
+So I guess the way I would view that though, and this gets back to the
+
+EWG discussions, is if we design a system that respects the laws of each
+land, that - and we design that system to treat data per those standards, that
+is sort of - that's implementation. It's like if you are in Country X and an
+individual or, you know, a commercial entity, blah, blah, blah, you create
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 28
+
+rules, and then yes somebody's going to have to fill in the blanks for all of
+those laws for Country X.
+But I would think that's more of a implementation than - and the policy would
+be - that we're developing in this phase would be more of, you know, the
+system will allow for respecting the laws of each individual country. So yes,
+that information is needed, I just don't think it's needed to now to get through
+the policy phase, the phase 1.
+Chuck Gomes:
+
+Note that phase 1's not the policy phase, it's the requirements phase.
+
+Michele Neylon:
+
+Rod?
+
+Rod Rasmussen: Rod Rasmussen. Just to a put a point on that, I was thinking along the same
+lines as Susan. We're designing requirements for a system right now. We
+don't have to know all the entries that go into the system. All right? We do
+need to know the boundaries, right, so the extremes. So is this something
+that would be different in this particular example in different jurisdictions, what
+are the types of kind of edge cases, where do we have to have - where do we
+have to be flexible up until this point.
+Beyond that, you know, there's 300-plus countries in the world. We don't
+need to go and do a survey today, we just need to how to adopt what we're
+trying to do so it can take that into consideration going forward. So all of
+these - on all of these different requirements, you know, is this something
+that's just fixed for everybody's experience. Like you were talking about like
+the domain itself, right? That's pretty much a given. I think we can probably
+agree on that one today.
+But the other side of it is like there's always different elements that may be
+different in different jurisdictions that are in different use cases, et cetera, so
+we just need to be able to design the system so that we can take that into
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 29
+
+account for all the different types of access, storage, collects, et cetera that
+we need to do. Thanks.
+Chuck Gomes:
+
+Thanks. Alan?
+
+Alan Greenberg: Thank you. My comment actually is in the very same line. We're not at this
+point going to try to delineate the rules of 300 countries, but we do need to be
+cognizant of the - sort of the envelope of the types of things that are covered.
+There are certainly countries where they say the information about our
+citizens cannot be stored outside of the country. That's common in a lot of
+areas, not common in others. It may be relevant to what we're designing and
+we should be aware of those kind of things.
+So there's a summary that we need of the kinds of things that might be
+covered in constitutional law or other laws per country without necessarily
+doing a survey. There's a lot of people around this table who can provide
+those checklists that we have to be thinking of, we can't ignore blindly or
+we're going to be a continual waiver mode forever and ever and redesign
+mode to handle the specifics of the country. So we need to be thinking about
+them real early on. And I'm not going to quibble over whether that's design or
+implementation or architecture or whatever.
+Chuck Gomes:
+
+Thanks, Alan. Stephanie and then we'll go to Volker.
+
+Stephanie Perrin: Thanks very much. Stephanie again. Just to clarify, I was on the Whois
+conflicts with law implementation working group. Yes Michele, you're the one
+that told me I should join that group, so.
+Michele Neylon:
+
+This is Michele. Yes I did and thank you, but oh my God. No reflection of you,
+sorry. Just for context.
+
+(James):
+
+(James) for the record. Then Stephanie got me to join also.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 30
+
+Stephanie Perrin: Yes. I don't want to see another instance of that as we sort of limp along with
+subject to applicable law and then come with a workaround at the end of this
+process to sort of cobble in constitutional law. Because the thing about
+constitutional law, it's kind of a (unintelligible) as we say in Canada, you
+know? You got to have it. So the kind of summary that Alan's talking about,
+we might be able to get a basis. That's why I suggested putting the grand
+(Greenleaf) books on the -- I didn't volunteer to summarize them you'll notice
+-- but I said let's put them on there just so we get that marker in. But we
+should be able to come up with some kind of a summary.
+One of the problems is this perpetual well that’s only in the EU, and it's not
+only in the EU. In fact it's stiffer in some places outside the EU, quite a few.
+So that's work and I don't have time to do it. And I don't think we've got
+volunteers. This is why I think maybe the GAC should be tasked to actually
+do their duty and provide the information for their countries, because they can
+do that. They've got constitutional law sections who are probably blissfully
+unaware of ICANN, you know. Thanks.
+Chuck Gomes:
+
+Thanks, Stephanie. Volker?
+
+Volker Greimann: Yes this is Volker Greimann speaking. Coming back to Alan's comment, I
+think a lot of this would-be implementation questions we should be cognizant
+of these problems and refer to them but we should not try to find a solution
+because that would be something that would probably be best left to the
+implementation stage.
+Chuck Gomes:
+
+Volker, I want to follow up with that though. Don't you think though that we
+need to be cognizant, I don't want to use the term applicable laws, when
+we're defining - even defining requirements. So if we know that there are
+some legal requirements, now they may be jurisdictional or not, okay, it
+seems to me we need to know those when we're developing our
+requirements.
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 31
+
+Volker Greimann: Correct. That's why I said we should be cognizant of those but we should not
+find a solution for each and every one of them, but then point them out and
+say this might be a problem, implementation deal with that.
+Chuck Gomes:
+
+Now I understand. That's helpful thank you. Okay. I want to take - draw down,
+and we're going to…
+
+Alan Greenberg: That's was a new hand I had.
+Chuck Gomes:
+
+Oh it is, okay?
+
+Alan Greenberg: Just a very short one. Cognizant implies you do acknowledge it's there and
+don't do something which you know will make - yield an impossible situation
+afterwards. There's an expression in English, "Ignorance is bliss." Bliss is
+very nice but the results will have to be dealt with eventually.
+Chuck Gomes:
+
+Thank you. Okay I want to just wrap up on C down here, so if you can scroll
+down please on the screen. Okay. So I'm going to ask a question and then
+we're going to talk about this question after the break, but I want you to think
+about it, okay? And I mentioned it earlier. Do any of you believe that there are
+certain requirements in this long list, and it may not be very many, I don't
+know, that would apply in all circumstances and that probably the working
+group would probably agree with those?
+Now we'll have to debate that to find out, but do you think there are some of
+those? And if we think there are some of those, what we will do on the end of
+our meeting today is start proposing those and depending on if we have time
+or not, we may even try deliberating one or two just to get a sense of what the
+group thinks. So be prepared to talk about those when we come back from
+the break. What are we, 20 minutes for a break? Now I believe, correct me if
+I'm wrong, but I believe that the wash closets are down on Floor one, if you
+don't know that, okay?
+
+ICANN
+Moderator: Nathalie Peregrine
+06-28-16/12:48 am CT
+Confirmation # 8995692
+Page 32
+
+Michele Neylon:
+
+Chuck, the wash is where?
+
+Chuck Gomes:
+
+The WCs.
+
+Michele Neylon:
+
+Oh the toilets, okay.
+
+Chuck Gomes:
+
+I'm using the terminology that's on the walls down there, so, okay? All right so
+the toilets, that's correct.
+
+Michele Neylon:
+
+The toilets with the funky LED displays.
+
+Chuck Gomes:
+
+So I don't know about that.
+
+Michele Neylon:
+
+You haven't seen those?
+
+Chuck Gomes:
+
+All right.
+
+Alan Greenberg: Those may only be for one gender.
+Chuck Gomes:
+
+All right, so let's take a 20-minute break and come back about, what, 10 - yes
+come back about quarter till, 10:45. Okay?
+
+END
+
+

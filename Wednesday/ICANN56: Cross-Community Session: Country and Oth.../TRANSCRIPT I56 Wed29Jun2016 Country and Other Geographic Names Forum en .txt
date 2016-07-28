@@ -1,0 +1,2152 @@
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+Wednesday, June 29, 2016 – 15:15 to 16:45 EEST
+ICANN56 | Helsinki, Finland
+
+CHERYL LANGDON ORR:
+
+Ladies and gentlemen, if you would take your seats with your
+beverages, if you don't mind.
+I probably don't need to use the microphone, but it helps the
+people in the back corner who are welcome to step outside and
+continue their private conversations. Indeed, you may get up
+and leave at any time, but please pay attention to the topic we
+are dealing with here in this afternoon's cross-community
+forum.
+Today's thrill-packed and exciting adventure, and I will continue
+at this level until I don't have to be the schoolmarm speaking
+over the chattering people, is on country and other geographic
+names.
+And I'm now sending in the big guns. This may not be pretty,
+ladies and gentlemen. Bart is on his way to clear the hallways.
+I have sent the hall monitor out.
+Right-oh. In a slightly calmer, now, state, as only the last of the
+stragglers are taking to their seats and getting themselves in the
+Zen moment of this afternoon, I hope you're all relaxed, I hope
+
+Note: The following is the output resulting from transcribing an audio file into a word/text document.
+Although the transcription is largely accurate, in some cases may be incomplete or inaccurate due to
+inaudible passages and grammatical corrections. It is posted as an aid to the original audio file, but should
+not be treated as an authoritative record.
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+you're all caffeinated, and I hope you all don't mind the fact that
+we've called you to order relatively close to time.
+We do realize that there's been a little administrivia hiccup
+where there's still a number of the publication, the forwardfacing screens and things, saying that this meeting is in the
+Helsinki Hall. We've made sure that there's a sign down in the
+Helsinki Hall to have anybody who has got lost down wherever
+that is to come back up here. But at this point, we don't want to
+run too much later because we have got a lot of time this
+afternoon for you to interact with each other and to interact
+with us.
+And this afternoon is all about hearing your voice, especially if
+you are not a voice that we regularly hear on these matters.
+We are not interested -- Am I engaging you closely enough, Iran - to hear what we have heard before and again and again.
+Exactly. We are very, very, very keen to hear from not the usual
+suspects.
+So let's get this ball rolling and let's get the first slide. I know
+there's a clicker or some magic happens, but let's have our next
+slide, shall we?
+And we have a drum roll, hoping somebody is making the magic
+happen.
+
+Page 2 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+Do I look like a patient person?
+If I had a clicker, I would operate the clicker. All right.
+While they're getting the next bit clicked over in our Adobe
+Connect presentation, I want to tell you a little bit -- there we go
+-- slight different to how we're going to be running this
+afternoon.
+As you've seen in the last two afternoons, you have our
+wonderful staff -- an example there, Bernadette, number 2 -with a sign that says a number, with a microphone. You each
+have a sector. There are today four sectors, and if you have been
+in these rooms before you know how that works. You get their
+attention. They make sure you get the microphone. We make
+sure you get heard.
+But look to my left and to my right. Are there some handsome
+gentlemen there? I believe so. I have a number 5 and a number
+6, and later on I will be auctioning them if they are game. No, I
+won't. I promise not to. Well, we thought we might, but we've
+decided not to.
+And what Peter and Jonathan are going to do is act as your
+moderators.
+
+And they're going to be roving moderators.
+
+They're going to make sure that new voices are heard and
+they're going to make sure that we also have a good time this
+
+Page 3 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+afternoon, because this is serious stuff, but that doesn't mean
+we can't have a smile and a bit of a giggle on the way through.
+Quick background to the forum. This is just to frame what is
+going on right now and what is already ensconced in our system.
+There is a wide range of country and other geographic name
+related policies, processes and discussions within ICANN. Many
+of you will know that. Some of you may not. But here is a list.
+New gTLD Applicant Guidebook, specifically section 2.2.4.
+RFC 1591, dear to so many of our hearts, especially if you have
+done the Framework of Interpretation work, which use -- it
+specifies the use of ISO 3166-1 for the country codes.
+Specification 5 of the Registry Agreement. IDN ccTLD policy and
+fast track, the 2007 GAC principles regarding new gTLDs, and the
+2007 GNSO final report on the introduction of new gTLDs.
+Let's not stop there. What's happening now, looking at this
+topic? The GAC working group on the geographic names, the
+Cross-Community Working Group on Use of Country and
+Territory Names as TLDs, and the GNSO PDP on Subsequent
+Procedures in New gTLDs. And I'm exhausted just saying it.
+This is kind of complicated and there's a lot going on, and all the
+work that is going on is worthy and good. But what we're going
+
+Page 4 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+to do now, if I can have the next slide, is have a discussion and
+see if we can, at the end of today, answer this question.
+Let's have a sharing of information. Let's have a sharing of
+opinion. Let's hear each other's voice, but see if we can come up
+with an outcome that gives us some guidance in the following.
+In the light of all these parallel activities, is it feasible to develop
+a harmonized framework on the use of country and other
+geographic names in the DNS?
+And to that end, the poll, if you are logged into the Adobe
+Connect room, and I would like to think that many of you will do
+this, log into the Adobe Connect room and there is a poll with a
+short version of that question, and in a moment we'll be able to
+say yes, no, or maybe. On my screen it says the poll is closed,
+which is disappointing because I was planning on keeping the
+poll open for the whole of the session. But what we're hoping is
+if you are a maybe right now, you may be a no or a yes because
+you'll have crystallized your decision at the end.
+That is enough from me. I'm just going to help the trains run in
+the right direction. And I'm now going to hand over to which of
+you wonderful gentlemen to start off with. That will be number
+6, Jonathan.
+
+Page 5 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+JONATHAN ROBINSON:
+
+EN
+
+Thank you very much, Cheryl. Is my microphone active? Great.
+So good to be with you all, and thanks for a very dynamic
+introduction, Cheryl. I know many of you, and I hope many of
+you know me. I participate in this -- in ICANN through the
+Registry
+
+Stakeholder
+
+Group,
+
+through
+
+my
+
+professional
+
+relationship with Afilias, but here I've been asked to be involved
+as a moderator and as a facilitator to try and help get the
+conversation going around the various subjects.
+Effectively on the sort of GNSO side, you will hear from Peter
+here in a moment. So we have a GNSO and a ccNSO person. It's
+clear you have an overarching question which you have been
+asked and you will be well familiar -- or some of you will be
+particularly familiar with the different areas of activity and how
+broadly they cross. We'd really like to get a sense from you and
+get active participation. And as Cheryl said, the poll in a sense is
+a fun way but it's also a way of testing the temperature of the
+room and feeling.
+So in the light of current circumstances, this poll is not a
+question of whether you would like to walk away and exit from
+the whole question. It's actually a poll about how you might feel
+about things, how things are actually going.
+So, Peter, over to you and then we'll pick it up.
+
+Page 6 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+PETER VERGOTE:
+
+EN
+
+Okay. Thank you very much, Jonathan.
+Good afternoon, everybody. My name is Peter Vergote. I'm
+working for .BE registry, DNS Belgium. So as Jonathan has
+stated, I'm more clinging towards the ccNSO side. However, our
+registry is a bit of a strange beast because we're also running
+two new gTLDs. So we have a bit of experience in both camps.
+Like Jonathan said, neither he, neither me, we are not the
+experts when it comes down to deal with issues like country and
+geographic names. That's to your advantage.
+We are in the absolutely neutral zone and our goal of today is to
+get as much interaction with each of you as possibly can be.
+Because there is no yes or no or there is no right or wrong
+answer at the end of the session. But the people from the CrossCommunity Working Group would like to know a sense, a
+temperature of the room or even some new view so that I can
+use this as building blocks to proceed with their work.
+So in order to kick off this session, I would go back to you,
+Jonathan, and have you fire the first question at the audience.
+
+Page 7 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+JONATHAN ROBINSON:
+
+EN
+
+I don't know if I'm going to quite fire it at you. I think we can
+start off from where we are, actually. And it would be very good
+to get some sense.
+Many of you will be working in some of the areas. Many of you
+will be impacted by some of the points. It would be very useful
+to hear and understand your views on the feasibility.
+Do you think it is feasible? Should -- Is this something we should
+be trying to do?
+
+And if so, have you got any concrete
+
+suggestions about harmonizing this so that, across those
+different areas where we -- where geographic terms impact the
+different parts of the work of the community, is it possible, is it
+reasonable, and what are the ideas to make that feasible?
+And I think number 3 is already keen to talk.
+
+CLARK LACKERT:
+
+Yes, hello.
+
+I'm Clark Lackert.
+
+I'm working within the
+
+Geographical Indications Committee of the INTA, and I'm a chair
+of one of the subcommittees.
+I think it would be very helpful if we got the latest comments
+from the GAC on the draft that was circulated in 2014 in London.
+And, in fact, I rose at that meeting to make a comment about
+international law.
+
+Page 8 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+What we need is after numerous written comments were made
+in 2014, and if we want to move this harmonize sayings forward,
+I think it would be helpful for us to see where is the GAC at the
+moment, make the drafts available to the community, and then
+we can provide our input. And I think that will be helpful in
+moving ahead in harmonization.
+Thank you.
+
+JONATHAN ROBINSON:
+
+Okay; thanks. That's reasonable to hear, but what we don't
+want to do is get entrenched in existing positions of advocacy.
+If it's helpful to the conversation to hear quickly, if someone is
+willing and able to do so, great. If not, I'd bring you back to this
+question about other mechanisms to make things feasible.
+That's one way of taking a step in that direction. Let's hear if
+someone is willing to elucidate as briefly as possible the current
+status within the GAC.
+
+CHERYL LANGDON ORR:
+
+Two.
+
+INDONESIA:
+
+Thank you. My name is Ashwin from Indonesia.
+
+Page 9 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+Just share comments about use of names of a country and
+geographical names.
+I think this was -- this is -- this varies from time to time and from
+place to place. When .ASIA was introduced a few years ago, I
+don't think there was a problem. But a few years ago when
+.AFRICA was trying to be introduced, and you have a problem. I
+was having a joke with my colleagues. If .ASIA is re-introduced
+today, what will happen? Should there be a conflict or not?
+When a software called Java is used, everybody in Java say, "Oh,
+our island is becoming more, more, more popular!" But if you
+are not (indiscernible) the Java, perhaps not everybody is
+happy.
+So these are the kinds of things that the question of names of
+country and those geographic names from time to time and
+place to place.
+Moreover, it will be also affected by the -- what you call it? The
+other names. For example, if we are using indonesia.id, .ID for
+.id.google or .id.twitter, whatever, perhaps people will be happy
+with that. But if we are using .id.d, perhaps Indonesian people
+are not happy with that.
+So it may change from time to time. I'm not saying that I'm fully
+correct. I mean, I have to check with, you know, with all the
+
+Page 10 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+people, but at least this is my personal view that this is a
+function of so many aspect. And that's the reason why we in the
+GAC, we always want that this kind of names related to the
+country will be consulted with the GAC from that particular
+country.
+Thank you.
+
+JONATHAN ROBINSON:
+
+Yeah. So these are very good current examples. And for .ASIA
+yesterday might be .EUROPE tomorrow. And then, of course,
+how does that impact on .EU. These are good questions, and the
+GAC might well want to be able to have the opportunity to have
+a position, but the question is how do we produce some form or
+is it feasible and is it reasonable to produce some sort of
+reliable, predictable framework? Because the challenge is we've
+got multiple and potentially conflicting frameworks, multiple
+and potentially conflicting pieces of activity and an environment
+in which it's not -- I mean, I think what many of us -- Certainly if I
+talk from a business point of view, one would want a reliable,
+predictable framework within which to work, and I'm not sure
+we have that right now, and I expect many of us would
+appreciate that.
+So let's hear.
+
+Page 11 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+CHERYL LANGDON ORR:
+
+Go ahead 2.
+
+EDMON CHUNG:
+
+Hello, this Edmon Chung. Sorry, I'm kind of a usual suspect, but
+I wanted to respond immediately because .ASIA was brought up
+and I think it's quite relevant to the discussion.
+When .ASIA was introduced, actually we did go through a
+process to engage the GAC at that time. It wasn't as rigorous or,
+you know, in this particular round, but that was one of the
+reasons -- I guess one of the experiences that created in this
+round how we deal with some of these names. But I think going
+forward, there probably needs to be further framework on this.
+And here the question -- I'm not quite sure you're talking about - I guess you're talking about TLD, but it seems to also be talking
+about second-level domains as well or not? I just want to clarify
+on that. And the -- the topic of country names and the topic of
+geographic names may be quite different. You know, country
+names are much more confined defined set whereas geographic
+names, even city names or even mountain names or river names
+became -- become geographic names, and that seems to require
+a very different set of rules to think about. So just those couple
+of points.
+
+Page 12 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+CHERYL LANGDON-ORR:
+
+EN
+
+Thanks, Edmon. And I put you on a mental clock, so if you had
+gone any more than about another 60 seconds I would have said
+too much for a usual suspect but that was perfect.
+Just to answer your question on the TLDs, I think you've made
+some observations which may have helped others think about
+what they want to say next, we're specifically talking top level.
+Okay?
+
+UNKNOWN SPEAKER:
+
+Number 1, please.
+
+CHERYL LANGDON-ORR:
+
+Number 1.
+
+ELISE LINDEBERG:
+
+Thank you. Is it on? Okay. Thank you. My name is Elise
+Lindeberg. I'm from the Norwegian government in the GAC. On
+the feasibility to develop harmonized framework was the key
+question, as was said, on geographical names in the DNS, we -we have seen all different documents and processes in regard to
+the geographical names that you have listed. And for the GAC I
+think the current -- current situation on the -- on the top level is
+that we are having diverging views as it is now and that we are
+
+Page 13 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+still working on the -- a process to develop final GAC advice on
+that. So we haven't concluded. But speaking on behalf of
+Norway, not on the GAC, we see that we have an Applicant
+Guidebook from the first round. It's been a product of a giveand-take of a long, long, long discussion between the whole
+community and the different sources that was put on the list.
+And so the -- we think that the current status of the Applicant
+Guidebook is a central question for where we go from now. Are
+we going to change it? Is it so that we change all of it? Do we -- if
+we can't agree is the current status in the Applicant Guidebook
+the one that we have to relate to? So I think this is a key
+question for the further discussion. Thank you.
+
+CHERYL LANGDON-ORR:
+
+Thank you. Do we have another -- yep, 5.
+
+PETER VERGOTE:
+
+Okay. Thank you. I think -- I think this is a very important point
+and it triggers something that I would like to throw into the
+audience is the question what we already have in terms of the
+Applicant Guidebook. Is that -- because this has been the result
+of enormous, tremendous, debate, is this something that we
+should use as a starting point and then build up from there or
+see that there is no common understanding or common finding
+in going any further or is the approach more, according to you,
+
+Page 14 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+that we should say no, let's start with a white cloth on the table
+and look at everything from that perspective? So I would very
+much appreciate to have any feedback on that question.
+Thanks.
+
+CHERYL LANGDON-ORR:
+
+In the back sector, can I have some microphone to what I guess
+is sector 3? Thank you. It's on its way. Okay. Ready to go. 4.
+
+DONNA AUSTIN:
+
+Thanks, Peter. Donna Austin. As somebody who was involved in
+that discussion of what ended up in the guidebook, I think it's
+useful to understand how we got to that point and I think that
+history shouldn't be lost. And I think it goes to what the GAC rep
+from Norway was saying. So I wouldn't like to see the history
+lost because there was a lot of discussion to get to that point,
+and I'd hate to see us kind of backtrack now from, you know,
+where we got to. So I understand the interest in this. It's a very
+sensitive topic, but we did spend probably three or four years on
+it to get to that point in the guidebook in the first place. Thanks.
+
+CHERYL LANGDON-ORR:
+
+Page 15 of 64
+
+Thank you, Donna. Number 5.
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+PETER VERGOTE:
+
+EN
+
+Okay, thank you very much, Donna. Your point makes perfect
+sense to me. Are there any people in the room that have a
+different view or is there a commonality that this is actually
+making very much sense and that what is in the current
+Applicant Guidebook is a very excellent starting point and
+should not be redone or questions. Any reactions, please?
+
+CHERYL LANGDON-ORR:
+
+All right. Let me help you here. Put up your hand if you think we
+stick with the Applicant Guidebook as she is writ right now?
+
+JONATHAN ROBINSON:
+
+Well, just if I could say, Cheryl, it's not necessarily Applicant
+Guidebook. It's Applicant Guidebook on this topic. Effectively
+making it a baseline from which we work because Ashwin
+pointed out that things move on over time and we need a
+baseline to work from or do we throw the book out and start
+again.
+
+CHERYL LANGDON-ORR:
+
+Forgive my shorthand, Jonathan. That's why you're here to look
+after the G space. Well done. Let's try that again. Jonathan, you
+restate the question so we'll have it.
+
+Page 16 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+JONATHAN ROBINSON:
+
+EN
+
+Can we take the Applicant Guidebook as a baseline from which
+we work, especially given the context in which it was presented,
+that that was developed through a multistakeholder process
+and with a great deal of work, is that a reasonable basis from
+which to work?
+
+CHERYL LANGDON-ORR:
+
+Don't have to speak to it. Just put your hand up if you think it is
+the case. This is a yes -- yes or no. We're just getting an idea.
+Okay. Gives us an idea. Thank you. Should we ask about the no
+vote, Jonathan?
+
+JONATHAN ROBINSON:
+
+Sure.
+
+CHERYL LANGDON-ORR:
+
+If you don't think it's a good idea, one person over here who
+doesn't think it's a good idea.
+
+JONATHAN ROBINSON:
+
+Why not?
+
+CHERYL LANGDON-ORR:
+
+Yes. Here we go. The microphone is yours. Number 1.
+
+Page 17 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+WANAWIT AHKUPUTRA:
+
+EN
+
+From the Applicant Guidebook you -- the reference of
+geographical names is referred to 3166 which there are certain
+problem on translation or Romanizations for the non-ASCII. And
+if you refer to the United Nation group of expert on geographical
+names, it might be difference translations happen there. And I
+used to follow up this issue, in fact, ICANN used to visit UNGEGN
+and ask about this, and from what I remember in ccTLD fast
+tracks that UNGEGN was referenced to -- as the reference to the
+geo terms.
+
+And I just wondered in the current Applicant
+
+Guidebook is not the reference to the UNGEGN so that's why I
+say no.
+
+JONATHAN ROBINSON:
+
+Okay. So that's an interesting point. So it may be satisfactory as
+a baseline in Roman script, but -- in ASCII, but once you go into
+non-ASCII it starts to weaken as a baseline. But that still gives us
+a potential baseline.
+
+CHERYL LANGDON-ORR:
+
+Number 4.
+
+JAAP AKKERHUIS:
+
+Want to make a clarification as a member of the 3166
+(indiscernible).
+names.
+
+Page 18 of 64
+
+The whole 3166 is not about geographical
+
+It just happens that there are some names with
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+(indiscernible) areas but this is -- and if I remember the
+guidebook properly, it's only used as one of the sources of
+geographical names. So please don't put any magical powers
+into the use of 3166. Let's not confuse the matter there.
+
+CHERYL LANGDON-ORR:
+
+We promise not to make any magic with 3166. I promise, Jaap.
+
+PETER VERGOTE:
+
+Thank you for that point of order.
+suggestion from the room.
+
+I just got a very good
+
+If you're speaking on the
+
+microphone, please always state your name and your affiliation.
+Thank you.
+So while I'm at it, I have been hearing from governments and
+from the gTLD namespace, I would say, that I'm looking for my
+own home ground. I want to hear from the CC -- from the
+ccTLDs. Is this more neutral to us as a ccTLD or do we have any
+strong opinions on the matter? CCs, speak up, please.
+
+UNKNOWN SPEAKER:
+
+Would you like to clarify.
+
+GRIGORI SAGHYAN:
+
+Thank you, Grigori Saghyan, .AM ccTLD. So I think the problem is
+a very -- very complex. It's impossible to resolve. And I vote that
+
+Page 19 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+it is impossible to have harmonized framework. I was member -I was a member of this study group for ccNSO for geographical
+names and a member of working group on geographical names.
+There was a survey which was provided -- organized by a study
+group.
+
+There was a lot of questions which were sent to
+
+governments through UNESCO. Study group have collected lot
+of information, and at that time I understand that it's impossible
+to have harmonized network.
+So I think the right way is to find a way to work around.
+My suggestion is -- I have sent my suggestion to the working
+group -- to have a -- in order to don't have any confuse -confusion of user, we can use the same -- same strategy as we
+use when we use HTPS.
+
+Everybody see that it is secure
+
+connection because it's green. In case of countries, I think it will
+be possible to add in the browsers for country names a flag or -- I
+don't know, flag of the country or to have a bold or to underline
+that it's a country code. Everybody will understand that it's a
+country code. And if it is GNSO -- gTLD, we will have situation as
+we have today. Thank you.
+
+JONATHAN ROBINSON:
+
+Okay. But there you're talking about -- sorry, Peter. There
+you're talking about to the right of the dot identifying somehow
+in the browser whether it's a gTLD or ccTLD. And you started off
+
+Page 20 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+by saying you thought it wasn't feasible. I just looked at the poll,
+and the poll is indicating that around 80% of you think it is
+feasible to have -- or may be feasible to have some kind of
+harmonized framework. So I think it would be very good as well
+to hear, in addition to the simple hands-up indication, to give
+some reasons why so it starts to put a bit of substance onto that
+over and above the point about the Applicant Guidebook.
+
+PETER VERGOTE:
+
+Okay. You stole a bit of my question, Jonathan, because I was
+going to ask well, this looks like a very interesting point of view
+to have it in the browser. How is that technical feasible, if it's
+technical feasible at all. I don't know whether we have any
+technical experts in the room that can shed some light on this.
+
+CHERYL LANGDON-ORR:
+
+(off microphone). Microphone 4.
+
+JAAP AKKERHUIS:
+
+Well, I will point out that domain names are not only used in
+browsers. They are used in numerous places. Sometimes you
+don't see them. And then also browsers are used to -- by people
+who cannot see but hear. And, you know, it's kind of -- to be
+honest, it's a non-starter.
+
+Page 21 of 64
+
+I mean, you -- there is no such thing
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+in protocol which tells you what the color is of the domain, it's
+just a string. So it's technical impossible.
+
+PETER VERGOTE:
+
+Okay, thank you, Jaap.
+
+That was a pretty straightforward
+
+answer to the question. As Jonathan mentioned, the results of
+the poll -- this is, however, a remarkable result that we have,
+such a clear preference for the ones that think that we can
+actually come to a harmonized framework.
+What I would like to do is to see what's the temperature in the
+room and is it different, what we have on the poll.
+So could any one of you who thinks that it's possible or that it
+may be possible to come to a harmonized framework, could you
+please raise your hand, please. Was my question not clear?
+[ Laughter ]
+
+CHERYL LANGDON-ORR:
+
+Maybe not.
+
+PETER VERGOTE:
+
+So the poll says currently that about 80% -- I have understood
+that right, haven't I, Jonathan?
+
+Page 22 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+JONATHAN ROBINSON:
+
+EN
+
+(off microphone).
+To be accurate, 53% of you say yes. 17% of you say maybe. So
+in combination, that looks more like 70% are thinking it may be
+or is possible to have a harmonized framework on the poll.
+
+PETER VERGOTE:
+
+Okay. Thank you. So on average we have 70/30. So who of you
+thinks that it is possible or it may be possible to come to a
+harmonized framework? Please raise your hand.
+
+CHERYL LANGDON-ORR:
+
+No penalty to raising it or not, but it does help frame -- give us an
+idea. Your voting at the moment, are you? Okay.
+
+PETER VERGOTE:
+
+Okay. There was a question or an observation there.
+
+SUSAN PAYNE:
+
+Yeah, Susan Payne for the record. I suspect there may be some
+confusion from people about what they are being asked.
+There's a question written: With all these parallel activities, is it
+feasible to have a harmonized framework? My answer to that
+would be no.
+
+Page 23 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+But when the question is being asked in the room it is: Do
+people think it is possible to come to a harmonized framework?
+Well, maybe yes but I would still say no, not if there are activities
+happening in three or four different places.
+Do we not think it's a problem that we may have three or four
+different groups coming to different conclusions? How can we
+reach a harmonized framework by acting like that?
+
+JONATHAN ROBINSON:
+
+Thank you, Susan. That's very helpful because, as you point out,
+knowing what you are trying to ask is very different to reading
+what the question says.
+And really the concern is there's a bunch of parallel activities.
+There's a lot going on in different places, and there are also
+established rules and procedures.
+Is it feasible -- not with all these parallel. Is it feasible to either
+terminate these parallel processes and start again or to do
+something else, some other form of activity that makes it -- that
+will give us a practical, feasible outcome to a harmonized
+framework?
+And we've had -- one suggestion is yes, and base that on the
+applicant guidebook as a starting point.
+
+Page 24 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+So reactions, points, and thoughts about whether it is possible
+to have a harmonized framework and, if so, how we go about
+that. And raise your hand if you want to speak, and the roving
+mics will come to you.
+
+CHERYL LANGDON-ORR:
+
+We have Number 2.
+
+ORNULF STORM:
+
+Yes, hello. This is Ornulf Storm from Norway in the GAC. Just a
+quick comment on this question. I think the question is possibly
+phrased too complicated because as our previous comment that
+my colleague made, that we already have a framework for the
+use of country and geographic names in the DNS, which is
+actually the applicant guidebook.
+So I think the question would be to -- how to develop that
+framework. Or I think some might want to have -- that if it's not
+available for use, it is not a framework for them to be used. But
+a framework that also have some protection mechanisms is also
+a framework. So something that's -- maybe you have to phrase
+the question differently. Thank you.
+
+Page 25 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+JONATHAN ROBINSON:
+
+EN
+
+And that's a good point. And so should we be carrying on
+activities on broadly the same point, the geographic names
+point, in multiple different areas?
+
+CHERYL LANGDON-ORR:
+
+3.
+
+KAVOUSS ARASTEH:
+
+Excuse me. The question is not appropriately raised, not your
+question.
+
+We should start:
+
+Should we take coordinated
+
+activities with a view to arrive as some degree of harmonized
+work? The most important, this parallel is not efficient, is not
+productive. We mention today in somewhat earlier. We should
+have the coordinated activities. Put all our efforts together in
+the coordinated, harmonized activities with a view to arrive at
+some degree of harmonization with the action. That is the
+question that we have to raise. Thank you.
+
+JONATHAN ROBINSON:
+
+And do you have an opinion as to the answer? Do you have an
+opinion on the answer?
+
+KAVOUSS ARASTEH:
+
+In my view, it is, yes, we should do that and we would arrive at
+some degree of harmony.
+
+Page 26 of 64
+
+We cannot arrive at absolute
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+harmonization. Impossible. Cultural diversity, religion diversity,
+policy diversity would not allow us to have a fully harmonized
+thing. But we should and we could arrive at some degree of
+harmonization, yes.
+
+But we should activation -- actively
+
+coordinate activities together. Thank you.
+
+JONATHAN ROBINSON:
+
+Seems to be support for coordinated activity, which by
+definition potentially means scrapping the other existing
+activity. So that's important. And it seems that there may be
+still some limits but the advocacy is to at least give it a try.
+
+CHERYL LANGDON-ORR:
+
+1.
+
+NICK WOOD:
+
+Yes, thank you. Nick Wood. I agree with Iran. Isn't the process
+the policy development process? Isn't that how we should be
+doing this?
+
+PETER VERGOTE:
+
+I think with the last couple of answers that we have that this
+debate is really going into a kind of acceleration. So it actually
+brings us more to the question, and I don't know whether we
+would have a straw poll on that or not. But it's a tempting idea.
+
+Page 27 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+The question is evolving in: Should we as soon as possible really
+stop with as much parallel activity that there is ongoing there
+and look for one single new working group or study group or
+whatever we want to call it to tackle with this and to address it
+and to be ready for a future gTLD round.
+
+JONATHAN ROBINSON:
+
+To the extent that they're future gTLD rounds, I mean, this is
+GNSO policy. The applicant guidebook was GNSO policy. There
+was advocacy earlier for that as a baseline. So really in a sense,
+what's -- what I think is being proposed is GNSO policy with the
+applicant guidebook as a starting point to work from.
+
+CHERYL LANGDON-ORR:
+
+Annebeth, please.
+
+ANNEBETH LANGE:
+
+Thank you, Annebeth Lange from .NO. I just wanted to say a few
+things about what's happened before because I've been here for
+17 years now working with a lot of this stuff, first from the
+governmental side and been working with geographical names
+for years and years.
+
+Page 28 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+The last process we had, that ended in the applicant guidebook.
+It was a long, long process, five years -- about five years from the
+beginning. And until we had a compromise in that 2.2.4.
+And it was give and take. Some government and some others
+wanted more protection, and some others on the other side
+wanted no protection. But this is a compromise that we ended
+up with after a long, hard work. And that was a PDP from the
+GNSO with input from the other stakeholders.
+So in many ways, I see that should we throw that -- all that
+overboard and start again? It had worked quite well. And as
+long as we don't agree on any other solution, we have
+something that we have already agreed on, even if we didn't get
+everything we wanted, all of us.
+So let's not ruin what we have already achieved. If we can kind
+of make it even better, good. But in many ways, after all these
+years, I see so many different views here, it's difficult. And we
+shouldn't start to quarrel again. Let's keep on the good work
+and start with this we already have and perhaps find it even
+better, if it's possible. Thank you.
+
+PETER VERGOTE:
+
+Okay. Thank you very much, Annebeth. That was a clear point,
+a clear vision from your side.
+
+Page 29 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+Is there -- according to you, is there any way how we can
+combine a number of things? Have some of the work that has
+been going on, have it saved as a kind of reference and, in the
+meantime, try to stop with the parallel tracks as soon as
+possible? Would that -- according to you, could that be a way
+forward?
+
+JONATHAN ROBINSON:
+
+Why is there parallel activity going on? If, indeed, we have a
+multistakeholder developed, satisfactory broadly solution in the
+applicant guidebook, why is there additional work going on on
+the subject?
+
+CHERYL LANGDON-ORR:
+
+I have got Number 2 and then Number 5 and we will give you the
+microphone back so you can answer that question. Four, I
+meant to say 4.
+
+ROBERTO GAETANO:
+
+Yes. Roberto Gaetano. I think that -- I agree with the latest
+comment from Norway, from.NO. Let's do with what we have.
+I think that we cannot think of getting a perfect solution here.
+And there's the risk of losing more and more time on something
+that is without a solution. And I tell you my opinion on why this
+
+Page 30 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+is a problem without -- without a solution that can be good for
+everybody.
+We seem to be unable to make the distinction between a string
+and content. We are fighting on the -- a string that is just a word
+or whatever. And I think that this becomes important only when
+content is associated to that string.
+That means when we have, for instance, a Web site that is
+addressed with that particular string. But we have no clue on
+what the -- whoever is applying for a domain name that has
+some geographic connotation is going to use with that string. It
+may be perfectly legitimate or acceptable, and it can be
+absolutely unacceptable. But we are unable to make this sort of
+distinction the moment that the string is assigned.
+On the other hand, we cannot imagine a sort of a police that
+does preventive action on this. Maybe -- maybe the UDRP is the
+only solution to this and to see what is going to happen with that
+Web site or the other use of the name and to see if it's legitimate
+or not.
+But to have this prior decision, I think it's very difficult to make.
+So we are going to every -- every different party that is making
+this discussion is going to make assumption on how the string is
+going to be used. And, therefore, we are talking sometimes
+
+Page 31 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+about completely different things.
+
+EN
+
+And it is not -- not
+
+reasonable.
+On the other hand, we need to have a common rule. So my
+personal opinion is let's get as fast as possible to a common rule
+that everybody will have to follow so that there's no
+misinterpretation. And whether the rule at the end is going to be
+more or less fair, it becomes, by and large, irrelevant because
+then people will adopt to that rule. But important thing is not to
+leave the applicants in the uncertainty. Thank you.
+
+CHERYL LANGDON-ORR:
+
+Thank you. We will go back to Number 4 and then back to you
+Number 2, Annebeth.
+
+JEFF NEUMAN:
+
+This is Jeff Neuman. I just wanted to -- I'm one of the co-chairs
+of the subsequent procedures working group. I don't want to
+offer my opinion on this subject, but I just -- I came up when I
+heard one of the latest speakers say that what's in the applicant
+guidebook was subject to the last PDP, and that's actually not
+correct.
+The -- What's in the guidebook now on geographic names came
+out of a compromise that was from -- between the GAC and the
+ICANN board that came out of discussions in 2010, I believe, in
+
+Page 32 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+Brussels, when there were consultations that were held. The -actually, what came out of the GNSO was at the top level there
+should be no protection of geographic names from the policy
+development process, and that was not -- there were no
+reserved strings.
+So I just didn't want to leave the -- the perception that this came
+out -- the current rule came out of a PDP. I'm not saying whether
+I agree or disagree, but I just want it clear that what's in the
+guidebook actually came out of a compromise between the
+ICANN board and the GAC, out of those discussions in 2010,
+which I believe were in Brussels I think was the -- the
+intersessional meeting. Thanks.
+
+CHERYL LANGDON-ORR:
+
+That you, Jeff.
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+JONATHAN ROBINSON:
+
+Did it in some way -- I mean, I think it would be very useful to
+hear if that in some way was insufficient or it let us down in the
+current round because clearly this is about how we go forward
+and were there shortcomings with that and is there -- you know,
+
+Page 33 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+what are the weaknesses and why is there other work going on if
+this is sufficient?
+
+CHERYL LANGDON-ORR:
+
+And while you're thinking about -- Cheryl Langdon-Orr, for the
+record -- the response to Jonathan's question, we must let
+Annebeth respond to a specific question from Peter, so...
+
+ANNEBETH LANGE:
+
+Annebeth Lange again.
+Well, both to Peter and actually also to Jeff, I agree, Peter, that
+it's ended up in an applicant guidebook after a lot of discussion
+but it started with a PDP, and at that time we were not as good
+as we are now to cooperate in the beginning.
+So when we got the first edition, a lot of people, a lot of
+stakeholders found things there that they couldn't agree on, so
+it was much more discussion than -- that it had to be.
+So then it -- in my view, it still ended up as a compromise from
+non-protection at all to some protection but less than the GAC
+wanted in the first place, so it was in between.
+And then you asked why is it three different groups working with
+this now, if it's sufficient with the PDP, and I think it all started
+with what Jeff just said, that it was -- the compromise was only
+
+Page 34 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+for the first round, so GAC achieved this protection for the first
+round and it was then an understanding that it should be
+worked on this further on, so that was why the study group
+started first, and when they gave the final report, it was
+established a cross-community working group to try to find, and
+that was only for first-level country and territory names from ISO
+3166, what's in 2.2.4 today.
+And then the GAC started to discuss other geographical names
+because they were not satisfied with the protection that had
+been given, because it was not protected at all in the guidebook
+that we have today.
+So in my personal view, I think that that is a step too far the
+other way because it's very difficult to protect everything in
+geographical -- geographical names.
+Where should we draw the line?
+But on the other hand, we have some kind of compromise that
+protects some of the top of the hierarchy that can be a way
+between, in a way.
+But then we have to give some better solution for other
+geographical names through a dispute resolution, consultation
+period, other models, to find a way to make it sufficiently safe
+
+Page 35 of 64
+
+EN
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+for the government that it's not go- -- we don't have the problem
+that we had other geographical names last round. Thank you.
+
+CHERYL LANGDON-ORR:
+
+If I can take 4 before I go back to 5, and then you might want to
+draw out your question again.
+
+ALEXANDER SCHUBERT:
+
+Hello. My name is Alexander Schubert. I am a cofounder of a
+geo TLD. It was .BERLIN. We started with that in 2005. And
+there was a similar discussion back then and it was hard to
+convince everyone that we could even apply for .BERLIN.
+So I wanted to support Jeff and I want to read just one sentence
+from the applicant guidebook.
+It says, "Applications for strings that are country or territory
+names will not be approved as they are not available under the
+new gTLD program in this applicant round."
+
+And it says
+
+specifically "in this applicant round."
+So it kind of leads to the question: Doesn't that imply that a
+change was anticipated back then?
+So when we say we shouldn't lose the history of the applicant
+guidebook, that is the history. It says "in this round."
+
+Page 36 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+And the other short thing that I wanted to say, whatever will be
+decided, I would assume in the end if someone goes for a city
+name, country name, or the like, there will be government
+approval -- or there should be government approval, in fact -and that is quite some protection.
+
+CHERYL LANGDON-ORR:
+
+Peter?
+
+PETER VERGOTE:
+
+Okay.
+
+Thank you.
+
+I just want -- having heard the latest
+
+interventions, I just would like to reverse our thinking patterns a
+bit.
+As I see it, we have been approaching it from the angle what has
+been going on in the past, what is currently going on, and what
+would we need to go further.
+Now, the latest speakers have clearly indicated that there could
+be one major obstacle that we are facing. We want to avoid
+legal uncertainty for applicants in future gTLD rounds.
+Now, is it feasible, according to you, to use that as a leverage to
+do some back-planning?
+That might give us a realistic view how wide the timespan is to
+either continue with what we're doing now, either to say, "Okay,
+
+Page 37 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+within this time frame we are not going to get it," or to say,
+"Well, it's time to drastically change. Let's start with something
+that could be the current wording in the applicant guidebook
+concerning the use of country and geographic names and let's
+take it from there."
+I would like to hear from you: Would that be an interesting way
+to look at things, to do it from -- from a back-planning side?
+
+CHERYL LANGDON-ORR:
+
+Thank you, Peter.
+
+And while we're talking -- while you're
+
+working out what you're going to say to that, Number 2.
+
+KAVOUSS ARASTEH:
+
+Thank you. Let us take a realistic, pragmatic, and efficient
+approach. It is a great mistake if we throw away whatever we
+have done during the years and years and years. I don't think
+that any strategy in the world say that start a revolutionary
+actions and put away everything and start from zero and come
+back to the same point.
+So what we have to do, disband all these parallel working
+groups, number one.
+
+Establish a new working group with
+
+involvement of everybody, a multistakeholder approach like
+CCWG and so on and so forth. Three, take the guidebook as a
+starting
+
+Page 38 of 64
+
+point,
+
+identify
+
+areas
+
+of
+
+problems,
+
+difficulties,
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+shortcomings, et patati et patata. Take all the activities has
+been done by different groups up to now as background
+information and supporting material and use them, if necessary
+and appropriate, and then try to have a draft and work on that.
+I am sure that we arrive at some degree of harmonization but
+not absolute harmonization. Thank you.
+
+JONATHAN ROBINSON:
+
+Thank you very much. So that's a really interesting point. I
+mean, the first -- the first sort of assertion is that we disband
+current activity. The second is that we come together under
+some form of new umbrella to do this.
+Now, I would pose, a counterquestion to that is: In a sense, as
+others have talked about, this is gTLD policy. gTLD policy comes
+through the GNSO, with participation from whoever else might
+like to participate in.
+So the question is: Why should this not be done as gTLD policy,
+and to the extent that there is already gTLD policy going on, is
+this being dealt with under the new gTLD subsequent
+procedures work or some other form of gTLD policy?
+So let's hear -- because Kavouss makes an interesting
+suggestion. First of all, throw out the existing parallel work
+because they clearly are going in parallel and potentially in
+
+Page 39 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+conflict. Second, come together under some framework. He
+posited that we go with a cross-community working group.
+That's reasonable in one sense, because it's constructive and it's
+holistic and it goes forward. But we are dealing with new gTLD
+policy here, so that causes us an issue. Thoughts or responses to
+that, please.
+
+CHERYL LANGDON-ORR:
+
+And we have two people for Microphone 2 and then we'll be
+going to Number 4.
+
+ANDERS HEKTOR:
+
+Okay.
+
+My name is Anders Hektor.
+
+I'm the Swedish
+
+representative for Sweden.
+I'm tempted to ask, "What do you have in mind," but I won't do
+that.
+But it's -- you're asking us to throw away the silos that we're
+working with to embark on something that we're not familiar
+with and that we don't know what it would be.
+Speaking only for the GAC, we need to have some certainty
+within our community before starting to engage with other
+communities. We need to know what we can agree on in the
+
+Page 40 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+GAC, so we sort of need this activity, this parallel activity that we
+have.
+Is it possible to put that question on hold if -- whether or not we
+can drop the parallel activities and talk about what alternative
+there would be? Because you're asking us to leave what we
+have and think about what could be, so perhaps we can turn it
+around. Thank you.
+
+JONATHAN ROBINSON:
+
+That's interesting and useful. So my understanding is that the
+alternatives would be either GNSO policy development or crosscommunity working group work.
+
+Those seem to be two
+
+reasonable alternatives on the table which may or may not be
+sufficient.
+
+CHERYL LANGDON-ORR:
+
+Number 2 and then Number 4.
+
+THOMAS De HAAN:
+
+Yes.
+
+UNKNOWN SPEAKER:
+
+(Off microphone.)
+
+Page 41 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+THOMAS De HAAN:
+
+EN
+
+Oh, sorry. Thomas De Haan, for the record, from the Dutch GAC
+rep. Just a couple of comments.
+I just wanted to say something about what Peter said about
+back-planning. I think this is quite dangerous because it puts
+everybody in a kind of time limit and I think this is important
+enough to deal with before you even launch a second round, but
+that's my remark on Peter.
+The other point is about how this work could be, let's say,
+carried out in a PDP.
+
+I think that the CCWG experience
+
+demonstrates that we can work out things which affect many,
+many stakeholders in ICANN within a cross-community working
+setting, so I think that would be -And I think the third thing is that I would just come back to
+Roberto Gaetano's remark that we should also very much, let's
+say, incorporate the notion that a UDRP on these kind of things
+could also be worked out in parallel. Thank you.
+
+CHERYL LANGDON-ORR:
+
+Page 42 of 64
+
+Number 4.
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+JEFF NEUMAN:
+
+EN
+
+Thanks. This is Jeff Neuman again, and this is not -- I'm just
+offering this as my own opinion, but I do think that this would fit
+in within the GNSO PDP on subsequent procedures.
+I also think that -- just to let everyone know, the procedures that
+we've adopted as far as how the group operates is very much
+modeled after the CCWG, so that should give some comfort that
+it is allowing groups to provide input and we very much follow
+the good work that the CCWG has done.
+And I also think that, you know, one of the dangers of the
+proposal that was mentioned, not by the last speaker but by the
+speaker before that, was that if you form your own group within
+the GAC and you form your position, and only then go into the -either a cross-community group or the PDP, the problem with
+that is you become too entrenched in your own position and you
+spend all of your time advocating for your own position rather
+than coming into a group and allowing yourself to have your
+position changed due to the conversations and discussions and
+it becomes harder to compromise or come up with a consensusbased solution.
+So I do think it's -- that the work should go on now and the work
+-- and I would not be in favor, necessarily, of having each group
+determine what its position is beforehand and then going in,
+
+Page 43 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+because then it just becomes a -- to use a -- it becomes almost a
+boxing match, and that's not what we want.
+
+JONATHAN ROBINSON:
+
+What I'm hearing is a sort of sense of feasibility, but three
+possible mechanisms are being talked about here.
+One is integration within a GNSO PDP; one is a proposal that
+there could be a CCWG to deal with this; and one is to let the GAC
+do its work before either of those other two and sort of complete
+it.
+That's what I think I'm hearing. If you would like to speak to
+either of those, by all means, do. If you think I've got it wrong,
+let me know.
+
+But there are some hands up and some
+
+microphones.
+
+CHERYL LANGDON-ORR:
+
+We have quite a list happening. I have two in Number -- wait. I
+have a Number 2, a Number 2, a Number 4, and a Number 3.
+
+YOUNG-EUM LEE:
+
+Yes. Thank you. Shall I stand up?
+This is Young-Eum Lee from .KR. I would actually like to express
+my support for what Annebeth has said before with regard to
+trying -- I mean, starting with what we have.
+
+Page 44 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+My previous experience with -- and I mean, I'm sure most of you
+have experienced this -- with the first round as well as the recent
+work on the cross-community working group on the names of
+countries and territories, first a study group and then the
+working group, tells -- I mean shows that there is a very sharp
+distinction between the opinions of the CCs and the GAC and the
+opinions of the Gs.
+And in a way, I do agree that having the GNSO start their PDP is -does make sense because I guess the GNSO is more -- more -we'll have more energy in doing that and will move it up much -move it forward much faster.
+But then, because of the sharp differences, I don't think that just
+going with the GNSO PDP is -- is the -- is something that the CCs
+and the GAC could agree on, and so I mean I -- I mean, my
+opinion is that there should be a -- some kind of crosscommunity working group of all the -- I mean, all the SOs and
+ACs and -- or the related parties in a multistakeholder style.
+And although Jeff has said that the GNSO working group is a
+very multistakeholder start, but it will -- I don't think it will be
+able to incorporate the very sharp differences in opinion of the
+CCs and the GAC.
+
+Page 45 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+CHERYL LANGDON-ORR:
+
+EN
+
+We have another Number 2 now. Then we go to 4. Then we
+come back to 3.
+
+KAVOUSS ARASTEH:
+
+Thank you. I think we have an experience, a good experience
+and a bitter experience. CCWG, we know how it's run. 80% of
+the GNSO. 80%. We don't want to be dominated by a particular
+group. Let us work together under the name CCWG with a
+balance, to the extent possible, participation and remove any
+sensitivity of any group.
+You could put all your energies in that group. Nothing prevent
+you.
+So let us take something which is more practicable and does not
+create any difficulty at all.
+Thank you.
+
+CHERYL LANGDON-ORR:
+
+And we are going to number 4 and it's going to be two speakers,
+the second one very short, isn't it, Jeff, and then I'm coming over
+here for number 3.
+
+JEFF NEUMAN:
+
+Yeah, just to -- this is Jeff Neuman. Just to quickly respond.
+Again, I'm not saying whether I prefer CCWG or a PDP, but again,
+
+Page 46 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+a PDP is meant to be -- involve the entire community. I can't
+help the perception that -- that is in this room, but it is not
+dominated by the G's. It is a fully inclusive group. There's a lot
+of individuals in there as well. I just want to say that I do believe
+a PDP can operate in the same way a CWG would be, a cross
+working group.
+So I want to make that very clear that we should not just throw it
+out. The ALAC has been participating in the GNSO PDP since the
+beginning, and I don't think you'd find too many ALAC
+participants complain and say that they don't feel like their
+input has been heard.
+So -- And Cheryl might be able to comment on that. So I do think
+the GNSO PDP.
+And also, the last point I want to make is that to say that,
+especially to the extent we talk about the second level, right,
+because there's a difference between the top level and the
+second level, and I know I'm grouping them right now together
+at this point. To say that the second level is a CC issue where the
+CC should be involved may or may not be accepted by everyone
+in the community.
+So I just want to point that out, that a lot of gTLDs -- again, just
+putting on my neutral hat -- a lot of the gTLDs view this,
+
+Page 47 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+especially at the second level, as a gTLD issue as opposed to a
+ccTLD issue.
+
+CHERYL LANGDON-ORR:
+
+Thank you, Jeff.
+Let's stick to 4 briefly, then I've got to come back to number 3.
+
+CONSTANTINE ROUSSOS:
+
+Yeah, hi. This Constantine Roussos from .MUSIC.
+I wanted to agree with Iran, and a lot of others who have said it's
+very difficult to develop a harmonized framework just because
+every country is different and you have to look at some issues,
+geopolitical issues. And also, when it comes to country and
+geographic names, it's true that the -- those constituents within
+those groups, GAC, government, should be involved.
+I'll give an extreme example. Let's say there was a policy to
+allow someone to apply for a country gTLD. Let's say .CYPRESS,
+for example. Someone from Turkey applies for .CYPRESS, then
+you've got these political issues.
+Another example is let's say someone applies. You don't know
+who they are. There's a case with .BLOG. Word Press applied for
+it and no one knew it was Word Press.
+
+Page 48 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+So we've got to look at a lot of these issues in how the first round
+went. And I do believe if you're talking about country codes and
+geographic names, these countries should vet who is applying
+for it and have some involvement. And the process should be
+simple and not complex.
+Thank you.
+
+JONATHAN ROBINSON:
+
+I didn't hear Iran saying -- talking against a harmonized
+framework. I heard, I think, on the contrary; some suggestions
+that we disband the parallel activities. And the issue is under
+what mechanism we might develop it and that's what I was
+hearing. Is it PDP, is it let GAC do its own work, or is it under a
+CCWG type mechanism?
+So just to clarify. If there is a misunderstanding, come back,
+Kavouss, or anyone else. But that's what I'd heard. It wasn't so
+much that it couldn't be a harmonized framework.
+Let's let the conversation carry on, then.
+
+CHERYL LANGDON-ORR:
+
+Page 49 of 64
+
+So we're going 3, 1, and then 4.
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+NICK:
+
+EN
+
+Hello there. My name is Nick. I am from the U.K. government.
+I'm a relative GAC baby. I've only been here for just about a year,
+so I'm still learning my way through this organization, and I'm
+finding out the history of these geographical name issues.
+This discussion of sort of maybe -- sort of developing a single
+process to address this seems interesting to me personally.
+I'm just wondering. So I've seen some of the -- the tail end of the
+work that's gone on in the CCWG around the accountability for
+the transition, and I've seen the very tail end of the
+privacy/proxy issue where recommendations went to the board
+and there was GAC advice that didn't ultimately make it into the
+recommendations.
+Could I just ask -- Jonathan, you might be able to answer this -what's the difference between the end of the PDP process and
+the end of a CCWG process where the decision is taken around,
+you know, sort of what the final position is going to be that goes
+to the Board?
+So as far as I understand, in sort of the PDP process, you have an
+initial report, goes out to public comment, refined, and then
+there's some decision taken. I don't know what that is.
+Would you be able to explain what that is and how that
+compares to a CCWG process?
+
+Page 50 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+JONATHAN ROBINSON:
+
+EN
+
+I'll try. I suspect there are others more expert than me on this in
+the room.
+It struck me earlier, we talk about, in terms of the bias of a GNSO
+PDP process, in a sense, we in some ways incorrect in calling it a
+GNSO PDP process because really what it is is a PDP process
+applied to gTLDs. And the PDP process is meant to be inclusive.
+And by calling it a GNSO PDP process, we give the impression
+that it's for the GNSO, whereas really it's been developing policy
+as it pertains to gTLDs.
+The GNSO PDP process, as we call it, that PDP process generates
+a policy which is given to the Board under a framework
+governed by the bylaws and under which the Board has to
+respond in certain predetermined ways. And providing due
+process is followed, it essentially has to accept it or have good
+reason to reject it. There's very specific criteria.
+The whole CCWG framework is a relatively new and developing
+framework that doesn't result in, frankly, any particular
+outcome. The Board could throw it in the rubbish bin in some
+sense.
+
+It's clearly, in terms of its accountability to the
+
+community, if the Board is satisfied that due process has been
+followed, it would not be sensible for it to just throw it in the bin,
+but the PDP process as it pertains to gTLD policy is very clearly
+
+Page 51 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+governed within the ICANN bylaws and process, which is much
+less so with CCWG. But nevertheless, we -- with the work we've
+done on CCWGs recently, especially as we've begun to really
+polish up the processes and the understanding and start to
+develop a common view of other work, they're becoming much
+more significant.
+But that was why I made my point earlier where there was a
+concern of applying CCWG processes to GNSO policy, because
+they are quite, quite different.
+So I hope that's helpful, Nick, and I hope that it's accurate. If
+anyone --
+
+CHERYL LANGDON-ORR:
+
+A small right of reply. Very short, please.
+
+NICK:
+
+No, thank you. Sorry. Just a follow-up. So at the end of kind of
+the CCWG process for the transition, we had the sort of situation
+where the chartering organizations had to say yea or nay to that
+thing, and then it was passed to the Board.
+What is -- aways the final step in the GNSO PDP? I think that was
+my question.
+
+Page 52 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+Is it -- Is it like a meeting where there's a vote? Because I can
+imagine a concern for governments might be that kind of that
+stage, you know, if there's a government position, is it just taken
+as one vote and then, you know, equal to everyone else? And
+the governments might think, we're not --
+
+JONATHAN ROBINSON:
+
+Two different points there, Nick. First of all, on the CCWG
+Accountability, as I understand, the Board made a unique
+commitment, a one-off commitment to be essentially bound by
+that, is my understanding. But that doesn't pertain to all future
+CCWGs.
+With respect to the PDP process, the Board may accept or reject
+that, and it is also subject to GAC advice, for which there are
+unique.
+So the GAC can ultimately come in, and in a sense structurally.
+That's a problem we've been grappling with for a while. And in
+one way, that's what we're trying to deal with now, because GAC
+advice coming in late in the day or essentially having a
+disruptive effect on that final outcome, which the system is
+designed to do and the GAC has never foregone that ability, but
+nevertheless, it is desirable from the sort of effectiveness of the
+process overall that GAC is involved earlier and more thoroughly
+in the process.
+
+Page 53 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+CHERYL LANGDON-ORR:
+
+Now, just a punctuation point.
+
+EN
+
+We're going to run the
+
+conversation for only another ten minutes because we want five
+minutes for wrap-up and we will be finishing on time.
+So I'm going to ask all of you to make your interventions as short
+as practical. And we're now going to number 1.
+
+GEMA CAMPILLOS:
+
+Hello. This is Gema Campillos, GAC representative from Spain.
+I'm going to be brief, but I would like to speak in Spanish, if
+that's possible.
+With respect to the question, I prefer to deal with it in a crossconstituency working group because I think this is kind of
+symbolic. Even though policy may make reference to generic
+names, the purpose of it relies on something that we,
+government representatives, feel that is very close to us and is
+country codes and country names.
+So as you have said, you are citizens of your own country so you
+should consider it that way, too. Quite sensitive for you, too.
+So we feel more comfortable. And I think that I myself feel more
+comfortable if all of us can work in the same environment on an
+
+Page 54 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+equal foot, and not within a process that is led by one
+organization.
+So first of all, it would be a symbolic measure.
+Secondly, on a legal basis, if the cross-constituency working
+groups continue being held as they have been, at the very end
+there should be a consensus within that cross-constituency
+working group, and all of the organizations should rely on the
+decisions made by that cross-constituency working group.
+While the policies of the GNSO, if I am not mistaken, those that
+are entitled to vote are the members of GNSO.
+So I think that it would be more balanced and it would be more
+in agreement with the principle of adopting consensus-based
+policies in ICANN.
+And thirdly, there's a practical reason.
+
+If the process is
+
+developed at the GNSO, there will be a GAC advice at the very
+end. And so perhaps there may be a decision that is not the one
+that the GNSO would have liked.
+
+Why?
+
+Because we
+
+governments do not have the resources to have a PDP that is
+(indiscernible) of GNSO, with mailing list of 150 emails a day, of
+teleconferences once a week. So I think it's better if we go to a
+cross-constituency working group.
+Thank you very much.
+
+Page 55 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+CHERYL LANGDON-ORR:
+
+EN
+
+Number 4. I will then come back to number 3, and -- sorry. I've
+got number 2. 2 with number 4, and 3 is the end before the
+moderators do their bit.
+
+ANDERS HEKTOR:
+
+Thank you. Anders Hektor again, Sweden, member of the GAC,
+although not speaking for the GAC, obviously. Just speaking for
+Sweden at this time as well as before.
+I don't want to give the impression that I think the GAC should
+do its work first and then tell everybody else what it came up to.
+That's not the point. On the contrary, I think the CCWG, as Iran
+said, had both a sweet and sour aftertaste.
+It's a good model. It's a neutral ground, so to speak. But it's also
+a concern that governments sometimes had difficulties in
+making their voices heard.
+
+That's at least the way many
+
+countries feel. So it could be an interesting model to start with.
+But the terms of reference would, of course, be a very delicate
+issue to decide on first. Thank you.
+
+CHERYL LANGDON-ORR:
+
+Thank you. I have -- I saw at least two speakers from number 4.
+Go ahead.
+
+Page 56 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+GREG SHATAN:
+
+EN
+
+Hi, Greg Shatan with McCarter & English and the Intellectual
+Property Constituency. I think that it's, you know, obviously
+very valuable to talk about what might be. But we need to
+consider what is and what is the actual constitutional
+framework of ICANN under the bylaws that we operate with,
+which is that the policies for gTLDs are managed by the GNSO.
+So the term "GNSO PDP" is -- as being identified with the
+members of the GNSO is really a misnomer, as is the term "crosscommunity working group." The GNSO PDP working groups are,
+in fact, cross-community. They're intended to involve all who
+wish to participate. There is no favor given to those who are
+members of the GNSO versus any other participant. They work
+by consensus of those who participate, no matter where you
+came from. As long as you're a human from the planet earth.
+That seems to be the only gating factor. Apologies if anybody
+does not fit.
+
+So that is where GNSO policy is made and
+
+developed.
+Cross-community working groups are not policy development
+groups.
+
+The CCWG and the CWG are anomalies that were
+
+established under certain circumstances due to a very specific
+request that was made of ICANN. And that should not be setting
+a precedent that somehow GNSO policy -- or rather I should say
+gTLD policy is made anywhere else but a GNSO PDP. So that is
+
+Page 57 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+not to say that the constitutional framework that we have is
+perfect. As we've seen following it to the letter, we end up with
+the GAC involved too late and coming in kind of like a second
+architect into a house who decides that they don't like where the
+walls are and they don't like where the windows are, and that's
+never a very good setup. So we need to rethink that. And I think
+that early involvement of the GAC members in the GNSO
+managed PDPs to developed gTLD policy is the way things
+should work because that is the way things are set out to work.
+Thank you.
+
+CHERYL LANGDON-ORR:
+
+Sticking with 4.
+
+MARILYN CADE:
+
+Thank you. My name is Marilyn Cade. While I am from the
+business community and my official home at ICANN is at the
+business constituency, I'm not speaking as a business
+constituency but as somebody who was here before ICANN
+existed and who actually paid the lawyer who wrote the bylaws
+for the GNSO, then called the DNSO. I want to be sure Greg is
+able to listen to what I have to say. I am hearing a really
+interesting point being made by several members of the GAC. I
+also helped design the PDP process when I was a councilor on
+the GNSO. I work, as many of you from government know,
+
+Page 58 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+beside you or a colleague of yours in many of the U.N.
+organizations where different processes exist for developing
+policy.
+Here at ICANN what I have seen in the last year and a half is a
+great evolution to a more open interaction between all of the
+different formerly vertical parts of ICANN into a more horizontal
+collaborative model in the cross-community working groups.
+It's not perfect just as the PDP process within the GNSO and to
+be quite frank, let's be clear, it is the GNSO's PDP process. Even
+if it includes other people.
+
+I am hearing a concern being
+
+expressed that there may be a view that another process might
+be a little more equalized in the beginning. I think the most
+important thing is to reach an agreement on working on this
+issue and working on it together. And I think rather than saying
+that the cross-community working group was a one-off
+approach at the invitation of someone to solve a problem, we, as
+the cross-communities, ought to look hard at the crosscommunity working group process and see if it can help us work
+together in this area.
+
+CHERYL LANGDON-ORR:
+
+Thank you, Marilyn. I have number 3, and I had closed the queue
+with number 3. This is the last speaker from the floor. We are
+
+Page 59 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+now wrapping up after that with our two moderators. Over to
+you, number 3.
+
+ALAN GREENBERG:
+
+Thank you very much. I'm Alan Greenberg from ALAC. I'm one of
+the people that Jeff referred to as we participated in GNSO PDPs
+forever. I have put in more hours than I could possibly calculate
+into that process. I have also put in more hours than I could
+possibly calculate into CCWGs. It's a good thing I can't calculate
+them because I'm not sure I could justify it.
+There is a -- there are some similarities in both. Both of them are
+work intensive and you have to put major commitments into it.
+That's really difficult for people who aren't part of the industry
+and funded by it. And that's true in both. There is also a
+difference. Ultimately in the PDP if you can have enough people
+to get enough voices in the PDP, you may well get heard and
+listened to. But the decision is ultimately made by the GNSO, in
+which place the ALAC has a minimal voice and no vote. A CCWG,
+if we are a chartering organization, it comes back to us and we
+have to bless the output. That's a really, really big difference.
+So yes, the two processes have a lot in common. They're not
+necessarily bad processes, but we do have to recognize what the
+differences are and how they affect the outcomes. Thank you.
+
+Page 60 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+CHERYL LANGDON-ORR:
+
+EN
+
+Thank you, Alan. And, Peter, if you can do a 90 second on where
+you're feeling all of this is now, and then we'll go to Jonathan.
+
+PETER VERGOTE:
+
+Okay. Thank you, Cheryl. Well, I think that we have covered a lot
+of ground today. I see -- I won't call it consensus, but I see a lot
+of support for a solution or a traject that says well, let's have
+either a PDP, either a CCWG to deal with this and to get us
+forward because also I get the impression that everybody says,
+well, we should not stop. We should not throw away what we
+have, and we should not cease with our attempts to come to
+something that is workable. So I think this is a very positive
+input that we got from all the participants today.
+Now, I would like to end with a bit of a bombshell. And people
+don't have to answer it, but it's just something to take with you.
+One of the things that according to me made a success out of the
+CCWG regarding IANA and regarding the accountability, ICANN's
+accountability, was time pressure.
+
+We knew there was a
+
+deadline. It pushed us to our very limits. If we don't have a
+deadline, regardless whether we will have a PDP or a CCWG and
+even in the case of a CCWG the urgency of a deadline is even
+more crucial, I would say, so I think if we continue thinking in
+that direction, we also certainly should figure out a way how we
+
+Page 61 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+can come to a certain result within a certain time frame. Thank
+you.
+
+JONATHAN ROBINSON:
+
+Thank you. So that's a very interesting point, that -- that the use
+of a deadline to -- artificial or factual to create an outcome. I
+picked up a number of different things. Firstly, I mean, I heard
+the talk about the enhanced collaboration that's been going on.
+I'm not sure -- I think it's been great in the CCWGs. I think it's a
+very valuable mechanism, and I'm passionate about it and I
+think we've applied some great techniques and done well. But
+I've also seen enhanced collaboration, whether it's associated
+with that or other activities within the PDP work. So I think the
+spirit of enhanced collaboration crosses both mechanisms. I
+don't think it's necessarily within one mechanism or another. So
+we have the opportunity to work effectively and collaboratively
+in both.
+It does worry me a little that from a kind of GNSO perspective, if
+you like, we are -- we seem to have confused, to some extent,
+the -- the nature of the outcomes of those two groups because
+they are different. One is very tightly bound, and as I said, into
+the ICANN bylaws and processes and one is less so. I'm a
+passionate advocate of the use of CCWGs. I think it's quite clear
+that Gema particularly and Alan to some extent highlighted why
+
+Page 62 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+CCWGs may be more inclusive or have a political dimension the
+way they -- where they're more acceptable. So one way or
+another we need to be cognizant of that. It certainly feels like
+that's the case. But, you know, the purpose of this session was
+not to be -- much as an engineer like me likes to produce
+solutions -- it wasn't necessarily about producing an outcome.
+I will say when you look at the poll, it's kind of interesting
+because when we came into the meeting there were around 25
+to 30% of you who thought a harmonized outcome wasn't
+possible and the rest of you were split actually quite a strong
+bias towards yes, about 50 and another 25 on maybe and 25 on
+no. Where we've settled is that a few more of you have moved
+into the maybe camp from both sides. So in the end we've got
+around 80% yes or maybe and 20% no. So in a sense that's
+encouraging. For the balance of you are thinking -- significant
+balance of you are thinking something's possible. So -- and I
+think -- I like Peter's bombshell.
+
+I don't think it's that
+
+controversial. I think having a deadline helps, but it's clear
+we've got the possibility of a way forward. But I'm not going to
+try and capture that. Back to you, Cheryl.
+
+CHERYL LANGDON-ORR:
+
+Thank you very much. And what I'd like to do now is just ask you
+to take a moment to thank most sincerely our moderators
+
+Page 63 of 64
+
+HELSINKI – Cross-Community Session: Country and Other Geographic Names Forum
+
+EN
+
+because I think they've done a fabulous job, and you can put
+your hands together for that purpose.
+[ Applause ]
+While you're clapping, continue to clap for the fantastic staff
+that have managed all of that microphone running around the
+place.
+[ Applause ]
+And I'm afraid they deserve a standing ovation, at least from me,
+because it's hard to keep up with my Australian, the interpreting
+team are just brilliant, and we would be nothing without you.
+[ Applause ]
+Tech guys, brilliant.
+
+BART BOSWINKLE:
+
+May I -- finally, finally, finally may I have a very warm thank you
+for Cheryl, our chair. She's done very well.
+
+CHERYL LANGDON-ORR:
+
+[END OF TRANSCRIPTION]
+
+Page 64 of 64
+
+This session is now closed.
+
+

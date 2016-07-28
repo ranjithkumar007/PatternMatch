@@ -1,0 +1,1778 @@
+ES
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+Lunes, 27 de junio de 2016 – 13:30 a 15:00 EEST
+ICANN56 | Helsinki, Finlandia
+
+ALAN GREENBERG:
+
+…y son bienvenidos. Sería bueno si les pudiéramos hacer lugar
+en la mesa.
+Si hay becarios en la sala, me dijeron que había cuatro o cinco,
+sería bueno que se sienten con nosotros en esta mesa. Acá hay
+lugar.
+Muy bien, gracias. Creo que ya estamos desarrollando este
+patrón de comenzar siempre diez minutos tarde, vamos a tratar
+de
+
+no
+
+continuar
+
+así.
+
+Esta
+
+es
+
+una
+
+sesión
+
+diferente,
+
+originariamente fue creada como una cesión de difusión externa
+y esperábamos que hubiera aproximadamente 25 becarios de la
+ICANN acá y la idea era explicarles qué es lo que hacemos.
+Después nos dijeron que solamente habrá cuatro o cinco
+becarios a los que les interesa específicamente lo que hacemos
+y que ya saben lo que hacemos, por lo menos en cierta medida.
+Por lo tanto, en primer lugar querría que presentáramos a los
+becarios que están en la mesa. Lamentablemente creo que no
+hay tiempo para hacer las presentaciones de todos pero en esta
+mesa tenemos a la ALAC, 15 miembros, la mayoría de los cuales
+están en esta mesa. Y de cada región, en general tenemos al
+
+Nota: El contenido de este documento es producto resultante de la transcripción de un archivo de audio a un
+archivo de texto. Si bien la transcripción es fiel al audio en su mayor proporción, en algunos casos puede
+hallarse incompleta o inexacta por falta de fidelidad del audio, como también puede haber sido corregida
+gramaticalmente para mejorar la calidad y comprensión del texto. Esta transcripción es proporcionada como
+material adicional al archive, pero no debe ser considerada como registro autoritativo.
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+presidente y al secretario, son las dos personas responsables de
+la región. Yo soy Alan Greenberg, presidente de ALAC. Querría
+que en la mesa o quizás fuera de la mesa, los becarios que están
+acá se presentáramos y después fuéramos a hacer una revisión
+del año fiscal 2017. Que es el año fiscal que comienza a fines de
+este mes, que dura un año. El pedido que hicieron At-Large y
+ALAC y las RALO. Los pedidos que hicimos. Vamos a ver cuáles
+son los resultados.
+Quizás les parezca aburrido pero, de hecho, esto influye en gran
+parte a aquello a lo que le dedicamos la mayor parte de nuestro
+tiempo. Porque los presupuestos son el mecanismo mediante el
+cual hacemos muchas de las cosas interesantes que hacemos.
+Vamos a hacer una revisión de las solicitudes, incluso de las
+denegadas. Vamos a ver los resultados y van a ver que los
+resultados son positivos más que las solicitudes rechazadas.
+Vamos a responder preguntas de cualquiera que esté en la
+mesa, becarios, miembros de ALAC o líderes regionales.
+Vamos a comenzar en esa punta. No sé dónde está el primer
+becario. Reconozco todas las caras que están de este lado.
+Bueno, yo estaba mirando de este lado y no veo ninguna cara
+nueva. ¿Acá?
+
+Página 2 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+AIDA MAHMUTOVIC:
+
+ES
+
+Buenos días, buenas tardes a todos. Yo soy Aída, soy de Bosnia y
+Herzegovina, de la sociedad de internet. También trabajo en IGF
+Nacional y en el comité ejecutivo de SEDIG, que es el Diálogo del
+sudeste europeo sobre internet, básicamente es el IGF regional.
+Y soy ex becaria de la ICANN.
+
+NARINE KHACHATRYAN:
+
+Buenos días a todos, yo soy Narine, representante de la
+estructura At-Large de Armenia. En nuestro país yo soy
+coordinadora de Internet más segura de armenia, que es un
+organismo que genera concientización sobre internet. Participé
+en el trabajo de At-Large, APRALO, EURALO. Participo en varios
+grupos de trabajo y participé activamente también en el diálogo
+europeo sobre gobernanza de internet, EuroDIG.
+
+ALAN GREENBERG:
+
+Antes de continuar quiero recordarles y contarles que tenemos
+interpretación simultánea en inglés, francés y español. De modo
+que si hablan todos esos idiomas no van a necesitar auriculares.
+De lo contrario, quizás les convenga ir a buscar un auricular.
+Pueden hablar en cualquiera de estos idiomas. Les doy la
+palabra nuevamente. También hay micrófono volante para
+aquellos que no están en la mesa.
+¿Algún otro becario?
+
+Página 3 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+SIRANUSH VARDANYAN:
+
+Yo soy siempre becaria.
+
+ALAN GREENBERG:
+
+Pero usted ya no cuenta como becaria.
+
+ISAAC MAPOSA:
+
+Mi nombre es Isaac, soy ex becario, miembro del capítulo de
+ISOC de Zimbabue, también trabajé en At-Large.
+
+CHRISTIAN MULOLA:
+
+Yo soy Chris Mulola de Ruanda, soy becario y estoy aquí por
+segunda vez. También soy líder de una ALS en Ruanda. También
+soy coordinador nacional del IGF y coordinador del este de
+África para el IGF. Muchas gracias.
+
+CHRISTOPHER MOMANYI:
+
+Buenas tardes, soy Christoph de Kenia. Pertenezco a la GNSO y
+estoy organizando el grupo de próxima generación en mi país.
+Soy ex becario.
+
+ISAQUE MANTEIGA JOAQUIM: Hola a todos, soy Isaque de Mozambique, de la sociedad civil,
+de la Academia usuarios de internet. Estoy aquí para comenzar a
+participar en la comunidad de At-Large.
+
+Página 4 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+OLEG DEMIDOV:
+
+ES
+
+Hola a todos, yo soy Oleg Demidov. Soy becario por segunda
+vez, soy de Moscú, Rusia. Miembro del capítulo ruso de ISOC y
+también soy miembro de la red de asesores de la comisión
+global sobre gobernanza de internet. Represento al sector
+académico. Hemos estado operando con representantes
+regionales de la ICANN para el grupo de participación global en
+mi región, que es centro de Asia y Europa Central. Y también
+trabajé en un estudio de investigación sobre la seguridad,
+estabilidad y flexibilidad de la ICANN. Y es un placer estar acá.
+
+ANDREW ARKDON MOLIVURAE: Buenas tardes a todos, yo soy Andrew. Soy becario por
+segunda vez. Y también represento a una organización que se
+llama Vanuatu IT Users Society, es una nueva ALS y para mí es
+un placer estar aquí. Es una ALS que acaba de ser habilitada.
+
+STANLEY OSAO:
+
+Hola, yo soy Stanley. Soy de Papua Nueva Guinea, en las islas del
+Pacífico. Trabajo en grupos de la sociedad civil, trabajo en el
+grupo de usuarios de internet en mi país. Y somos una ALS
+afiliada de APRALO.
+
+Página 5 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+MUJER SIN IDENTIFICAR:
+
+¿Algún otro becario?
+
+RAO NAVEED BIN RAIS:
+
+Buenas tardes, yo soy Naveed. Soy de Pakistán. Soy becario de
+la ICANN. Esta es la sexta reunión a la que asisto. También soy el
+presidente del capítulo ISOC en mi país y formo parte de una
+ALS. Gracias.
+
+ISRAEL ROSAS:
+
+Hola a todos, yo soy Israel Rosas, de México. Estoy en el sector
+gubernamental, trabajo en el grupo de iniciativas sobre
+Gobernanza de Internet que lidera la estructura nacional de IGF.
+También trabajo en el capítulo ISOC de México y en un par de
+sesiones académicas más. Soy un becario que está aquí por
+segunda vez.
+
+BIKRAM SHRESTHA:
+
+Hola a todos, yo soy Bikram, de Nepal, del capítulo de la ISOC de
+Nepal. Esta vez no estoy como becario pero me represento a mí
+mismo. Toronto fue mi primera reunión como becario. Formo
+parte de APRALO, NPOC. Mi área de interés es la seguridad
+también. Gracias.
+
+Página 6 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+ORADOR DESCONOCIDO:
+
+Uno más.
+
+ANDREAS ZODE:
+
+Hola, yo soy Andreas Zode. Soy diseñador de UI/UX. Represento
+a mi empresa, trabajo para el gobierno de Estados Unidos, para
+la FDA y soy un usuario de Internet.
+
+BEATRÍZ RODRÍGUEZ:
+
+Buenos días. Perdón, buenas tardes. Es por el cambio de
+horario. Yo soy Beatriz Rodríguez y voy a hablar en español
+porque hablo español. Mi nombre es Beatriz Rodríguez, vengo
+de Uruguay. Soy [inaudible] Represento al capítulo de Uruguay
+de la Sociedad de internet. Gracias.
+
+ANA KAKALASHVILI:
+
+Hola, yo soy Ana, de Georgia, de la región del este de Europa.
+Pertenezco al sector académico, soy abogada, me especializo en
+ciberseguridad y también trabajo en el capítulo ISOC en Georgia.
+Hace poco tiempo inicié el IGF en mi país ¿Hace falta también
+decir que soy usuaria?
+
+GISELLA GRUBER:
+
+Vi que tenemos caras nuevas acá. Quiero recordarles que
+tenemos interpretación en francés y en español. A los fines de la
+transcripción digan siempre su nombre al hablar. Cada vez que
+
+Página 7 de 52
+
+ES
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+hablen por favor digan su nombre para que los intérpretes
+también los identifiquen en los distintos canales con los
+distintos idiomas. Y para que también los participantes remotos
+que se conectan por Adobe los puedan identificar.
+Acá tenemos algunas personas que van a estar trabajando con
+los micrófonos. Después de haber hablado por favor apaguen el
+micrófono correspondiente.
+
+ALAN GREENBERG:
+
+Gracias,
+
+Gisella.
+
+Como
+
+dije
+
+antes,
+
+nos
+
+advirtieron
+
+originariamente que habría cuatro o cinco becarios. Parece que
+hay más. Espero que los que estén en las otras reuniones no se
+sientan muy solitarios pero muchas gracias por venir.
+Gran parte de esta reunión, como ya dije, la vamos a dedicar a
+una revisión muy rápida, porque es muy grande, del pedido que
+hicimos para el año fiscal 2017 a través de At-Large y de ALAC.
+Rob Hoggarth va a hacer la presentación así es que le doy la
+palabra.
+
+ROBERT HOGGARTH:
+
+Gracias, Alan. Gracias a todos por permitirme asistir y tomar
+parte de su tiempo. Creo que tengo 35 minutos, pero creo que
+hay 20 solicitudes diferentes que presentó la comunidad AtLarge, lo cual me da un minuto y medio para cubrir los 35
+
+Página 8 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+minutos que tengo asignados. No vamos a hablar entonces de
+cada uno de los pedidos en particular, simplemente voy a decir
+que algunos vinieron de ALAC propiamente dicho, algunos
+vinieron de algunas organizaciones regionales de At-Large y si
+algún grupo en particular quiere que después sigamos hablando
+sobre este tema podemos hacerlo. A veces hablamos de hacer
+un seguimiento con las “no aprobaciones”, no usamos el
+término “rechazo”.
+
+El término es “no aprobación” y
+
+probablemente en este caso el debate sea más importante en el
+caso de las aprobaciones, ya que hay lecciones aprendidas y
+oportunidades para hacer mejor las cosas desde el punto de
+vista del personal de la ICANN. Y también desde punto de vista
+de las propuestas que se van a presentar en el futuro. Quizás
+para que haya más diálogo con el personal de la ICANN. Quería
+simplemente subrayar este tema.
+El segundo punto que quería compartir con ustedes tiene que
+ver con dos puntos en particular relacionados con el proceso de
+solicitud de presupuesto. Como muchos de ustedes sabrán, este
+es un proceso que inició el personal de la ICANN hace cinco años
+y medio o seis. El objetivo era que fuera una especie de anexo o
+suplemento del plan operativo, del presupuesto y de todo el
+trabajo realizado con el mismo de la ICANN. Hay nuevos, nuevas
+ideas formas de mejorar o ampliar los recursos existentes para
+la comunidad. Y poder hacer eso de forma tal que no estuviera
+
+Página 9 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+totalmente vinculado con el proceso general y total del
+presupuesto de toda la ICANN. Muchas de estas solicitudes no
+representan un gran porcentaje del presupuesto de la ICANN
+pero sí representan ideas muy buenas, experimentales que vale
+la pena considerar y tener en cuenta para el futuro. Esa es una
+de las razonas por las cuales se comenzó con este proceso.
+En cuanto a la evolución del trabajo a lo largo del tiempo, nos
+hemos centrado… el personal y qué es lo que en última
+instancia aprueba la junta, en brindar las capacidades. Este no
+es un proceso de presupuesto, la idea no es definirlo como que
+vas recibir 12 dólares o 15 euros o algún otro monto específico
+para un proyecto en particular. Cuando se aprueba el
+presupuesto se reconoce que esto se va a ejecutar pero la idea
+es ver cómo se lo va a ejecutar, cómo se lo va a gestionar. Y el
+personal recibe ciertos lineamientos con respecto a cómo
+hacerlo. Pero es importante tener en cuenta que desde muchos
+puntos de vista, punto de vista del personal, hay un compromiso
+con el hecho de poder proporcionar esa capacidad. En algunos
+casos, lo verán hoy, se trata de colaboración futura o de
+oportunidades de tener debates adicionales con el personal
+para, quizás, seguir desarrollando una idea, explorar si puede
+funcionar desde el punto de vista práctico. Porque una de las
+otras consideraciones que tomamos en cuenta cuando se hace
+una revisión y luego una acción de la junta es, no solo las
+
+Página 10 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+implicancias financieras, sino también las implicancias en
+términos de todos los recursos. Es un reconocimiento de que
+hay muy pocos proyectos que implican simplemente abrir la
+billetera y pagar una factura. Hay tiempo del personal, hay
+tiempo de la organización y el reconocimiento de que es algo
+que va a seguir creciendo. Este es otro aspecto.
+Finalmente, quería simplemente reconocer que la oportunidad
+de presentar pedidos adicionales para el presupuesto tampoco
+es algo ilimitado. Todos los años, cuando sale el presupuesto
+preliminar hay un sobre y decimos, esperamos poder brindar un
+apoyo adicional, hacer unos experimentos, buscar formas de
+continuar avanzando. Y desde esa perspectiva, tenemos que
+decir que lamentablemente no se pueden aprobar o aceptar
+todas las solicitudes. Simplemente porque no hay recursos
+suficientes para hacerlo.
+Esos son mis comentarios generales y puntos de vista con
+respecto al contexto dentro del cual se desarrolla este trabajo.
+Ahora vamos a ver cada uno de estos en particular. Voy a ser
+sumamente breve y les voy a pedir que si tienen preguntas
+detalladas quizás tengamos que asignar un momento para ver
+eso con el grupo en particular que hizo la solicitud. Con todo
+gusto voy a responder cualquier pregunta que puedan tener
+pero quiero cumplir con el tiempo que ustedes me han asignado
+en la agenda.
+
+Página 11 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+Creo que Ariel preparó una lista muy buena, es la que está en la
+pantalla. Voy a usar eso como guía. Y quizás puedan ir pasando y
+bajando la pantalla a medida que avanzamos.
+¿Se pueden ver los números? ¿De la solicitud? ¿No llegamos a
+ver el número? Yo tengo mi lista propia, no importa.
+En primer lugar la Sesión de Trabajo Estratégico para ALAC y
+para los líderes de las RALO en ICANN 57. Esta fue una sesión de
+desarrollo.
+Gracias. Ariel, es la primera vez que lo estoy viendo así que estoy
+tratando de entender un poco cómo está diseñado. Gracias por
+la paciencia. No, está bien. Con dejar ese texto ahí está bien.
+Por el momento vamos a decir que esta es la primera solicitud.
+Verán que tenemos una solicitud para la sesión de trabajo
+estratégico para ALAC, los líderes de las RALO fue aprobado.
+Pero el pedido original fue para dos reuniones y la probación fue
+para una reunión, que es reunión C, ICANN 57. Por lo tanto esta
+solicitud fue aprobada.
+Heidi, Ariel, Alan, si les parece yo voy a ir viendo cada una de
+ellas y voy a decir “aprobado”, “no aprobado”, voy a hacer una
+pausa por un segundo para ver si alguien levanta la mano para
+hacer una pregunta y luego continúo con la siguiente ¿Les
+parece bien? Gracias.
+
+Página 12 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+Ariel, pasemos al siguiente entonces.
+
+ALAN GREENBERG:
+
+No me di cuenta de que esa era la pausa. Mi única pregunta sería
+que si fue útil para uno, ¿por qué no para dos o fue simplemente
+una decisión presupuestaria?
+
+ROBERT HOGGARTH:
+
+Yo dudaba porque yo no tomé todas estas decisiones así que
+estoy tratando de hacer una pausa y recordar. Por lo que
+recuerdo en este caso, la idea era que en la reunión C había
+tiempo para desarrollar esta actividad. Mientras que la próxima
+reunión 58, que es una reunión A, no habría tiempo para
+hacerlo. Pero si quieren puedo investigar un poco más y
+aclararles y contarles cuál es la razón específica.
+
+SEBASTIEN BACHOLLET:
+
+Yo iba a decir que estoy seguro de que está bien porque así es
+como se configuraron las reuniones A, B y C. La C es la que tiene
+un día más, el viernes, que permitirá a todos los SO y CA tener un
+nuevo cuerpo, una nueva reunión después de la finalización de
+la asamblea general. Es de esperar que estas solicitudes de
+fondos adicionales no se necesiten en la organización a futuro
+porque ya van a estar incorporadas a la estructura. Gracias.
+
+Página 13 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ALAN GREENBERG:
+
+ES
+
+Heidi, esta era la reunión del comienzo, ¿verdad? Sí, de hecho,
+esta no es la reunión presencial al final, si no instalaciones
+adicionales. En realidad no tiene mucho sentido, pero de todas
+formas vamos a seguir adelante.
+
+ROBERT HOGGARTH:
+
+Gracias. Ariel, por favor la siguiente en la lista.
+La segunda es la sesión de desarrollo de ALAC en ICANN 57, una
+segunda actividad piloto. Esta solicitud también fue aprobada.
+Como Alan mencionó, la solicitud anterior era para el comienzo
+de la sesión, esta actividad es al final de la reunión. Que es para
+la reunión C, que es la reunión de Hyderabad, en el ejercicio 17.
+
+ALAN GREENBERG:
+
+La reunión C es cuando podemos tener muchos miembros de
+ALAC que no tienen una historia. Es una reunión de integración
+para que todos se integren y trabajen como equipo. Porque en
+muchos casos puede haber un número importante de personas
+nuevas en el grupo. Gracias.
+
+ROBERTO HOGGARTH:
+
+Página 14 de 52
+
+Gracias. La siguiente, Ariel.
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+Este punto se refiere al subtitulado en tiempo real de las
+reuniones Adobe Connect, en inglés, español y francés. Que es
+una continuación del piloto previo para el F16 para probar el
+subtitulado en tiempo real por varias razones. Para personas
+que tienen problemas de accesibilidad, para ciertos idiomas y,
+en definitiva, la idea es ser más eficaz y eficiente. Desde la
+perspectiva de ICANN, dar transcripciones a través de distintos
+proveedores del servicio. La expectativa, la esperanza, es que
+estos comentarios que yo hago se complementen con otros
+comentarios.
+La idea es poder manejar más efectivamente los servicios. Es un
+piloto que ya comenzó en el ejercicio 16. Parece estar
+funcionando bien. Entonces se otorgaron los recursos para el
+próximo ejercicio fiscal. Vamos a dar unos seis, siete meses
+adicionales, con un total en el esfuerzo anterior de 15 llamadas.
+La expectativa es que al cerrar este piloto la comunidad pueda
+decir que esto funciona, que está bien o no. Que es muy
+complicado, que un servicio tan en tiempo real quizás no sea
+eficaz. Basándonos en el feedback inicial puedo decir que esto
+está funcionando bien. Así que fue aprobada la extensión.
+
+ALAN GREENBERG:
+
+Página 15 de 52
+
+¿Tijani?
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+TIJANI BEN JEMAA:
+
+ES
+
+Entonces, ¿el subtitulado va a ser para estos tres idiomas?
+Porque el piloto fue solo para inglés.
+
+ROBERT HOGGARTH:
+
+El piloto continúa. Entonces el piloto sigue en inglés para ver si
+funciona. En definitiva, si la decisión o la evaluación final es que
+está funcionando, vamos a proveerlo también en otros idiomas.
+
+JUDITH HELLERSTEIN:
+
+Mi pregunta es, si no vamos a ampliarnos también a español y
+francés, ¿por qué no lo hicimos desde el comienzo? Tenemos
+que esperar un año completo porque la decisión de ampliar no
+se va a tomar este año. Así que vamos a tener que esperar al
+próximo ejercicio fiscal. Me pregunto por qué no eligieron más
+meses, un periodo más largo.
+
+ROBERT HOGGARTH:
+
+Creo que aquí la explicación habla de tres meses. Y estos tres
+meses, este periodo, nos lleva al siguiente ejercicio que es
+cuando comienza el próximo ejercicio fiscal. Estoy leyendo tres
+meses adicionales.
+
+JUDITH HELLERSTEIN:
+
+Sí, seis llamadas en conferencia. Inicialmente eran tres meses
+para nueve llamadas, tres llamadas cada tres meses. Y acá dice
+
+Página 16 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+seis llamadas en conferencia que es el equivalente de dos
+meses. Ahora tenemos tres meses.
+
+ROBERT HOGGARTH:
+
+Yo no sé si en este ejercicio fiscal ya utilizaron el total de nueve.
+
+ALAN GREENBERG:
+
+Como Rob decía, él no es necesariamente la persona que tomó
+todas las decisiones. Aquí simplemente estamos haciendo una
+reseña, no obtuvimos todo lo que queríamos. Ahora
+simplemente estamos haciendo una revisión, no estamos
+haciendo un debate de si nos trataron con justicia o no.
+
+ROBERT HOGGARTH:
+
+Gracias a ambos. Pasamos al siguiente, Ariel.
+Este pedido fue en gran medida un pedido de procesamiento de
+recursos. Ustedes solicitaron la discrecionalidad para asignar los
+fondos de viáticos para los líderes voluntarios y activos. Se les
+reconoció esta discrecionalidad para proceder en consecuencia.
+
+ALAN GREENBERG:
+
+Debo aclarar que se iba a usar en esta reunión. Y voy a
+aprovechar esta oportunidad para remarcar que hubo tres
+pedidos en este pedido de presupuesto que, en verdad, no eran
+propiamente de fondos, aun cuando hubo montos vinculados.
+
+Página 17 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+ALAC aquí estaba pidiendo, solicitando, suplicando, llorando por
+estos fondos y fue ignorado. Hubo quienes ni siquiera pedían
+dinero. La solicitud de un procesamiento de una solicitud de
+fondos pareció de alguna manera atraer la atención de la junta.
+En ese sentido, si tenemos que recurrir al presupuesto del
+ejercicio fiscal para llamar la atención de alguien porque nadie
+nos escuchaba, quizás sea una nueva metodología a seguir.
+Gracias.
+De paso les digo que el texto del resultado no es precisamente lo
+que yo recuerdo que pedíamos. Por lo menos la última vez que
+lo leí.
+
+ROBERT HOGGARTH:
+
+Gracias. La siguiente.
+Este es un pedido de las RALO para financiar actividades de
+participación local. Específicamente para lo que es el proceso.
+Consideramos que esta solicitud no era posible. Lo que se pedía
+era que los fondos se otorgaran sin condiciones, esa fue la
+interpretación. Y se reconoció que ampliar el apoyo a nivel local
+sí era algo concretamente bueno y de hecho valía la pena
+probarlo y encontrar la forma de concretarlo a nivel piloto.
+Básicamente, la decisión fue otorgar recursos adicionales a los
+equipos regionales de ICANN y brindar oportunidad de
+
+Página 18 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+colaboración e interacción a este nivel. Creo que es un tema
+común que hemos visto en varias solicitudes a lo largo de los
+años, en donde no es posible para ICANN o el asesoramiento de
+ICANN, recibido a través de los equipos legal y financiero,
+entregar fondos en montos en dólares porque se necesita un
+proceso de revisión. Quizás esto cambie en el futuro pero así es
+el proceso con el cual operamos en este momento.
+Entonces, los recursos se dan para obtener disponibilidad de los
+equipos regionales. Y el impacto, en términos prácticos de esta
+decisión, es que grupos individuales, en especial a nivel de las
+RALO interesadas en aprovechar actividades más locales, deben
+recurrir a sus equipos regionales para solicitar colaboración
+para continuar las buenas asociaciones desarrolladas, que
+esperamos que sigan desarrollándose y madurando. Y que esa
+sea la base para el trabajo futuro. Abrir nuevas líneas de
+comunicación, entender que puede haber fondos nominales
+disponibles para proyectos en particular. Eso es algo que vamos
+a ir trabajando con el tiempo. En el pasado, lo que ha sucedido
+con algunas actividades y solicitudes de otras comunidades que
+aparentemente funcionaron bien, es trabajar con la idea
+subyacente de crear más diálogo. Esta fue entonces la intención
+detrás de esta decisión.
+Esta es mi pausa. Podemos pasar a la siguiente.
+
+Página 19 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+El siguiente punto creo que es una de aquellas cosas a las que
+Alan se refirió con la categoría… Alan no habló específicamente
+de un monto en dólares, sino la preocupación de la comunidad
+de tener falta de movimiento en un área en particular. Esto tiene
+que ver con los bugs en la herramienta de traducción por
+máquina que tiene ICANN. Se inició un diálogo con el personal
+operativo, no puedo comentar demasiado porque no sé cuál ha
+sido el progreso realizado aquí. Entiendo que sí hay un diálogo
+ya establecido para mejorar algo que puede llegar a ser una
+herramienta muy útil que, aparentemente, hasta este momento
+no ha demostrado ser demasiado eficaz.
+
+ALAN GREENBERG:
+
+Para dar contexto a aquellos que no han participado en esta
+discusión, en la región de Latinoamérica y Caribe, donde los dos
+idiomas predominantes son inglés y español, tenemos dos listas
+de correo. Entonces, todos los mensajes en cada una de las
+listas son traducidos automáticamente a la otra lista y son
+publicados. Y el mecanismo o el sistema que se usó produjo
+mensajes incompresibles con renglones completamente llenos
+de corchetes y signos de puntuación que no tenían ningún
+sentido. Eso en la línea de asunto. Aquellos de nosotros que
+decidimos leer los mensajes según la línea de asunto, era muy
+difícil. Esto ha venido bajando pero lo venimos usando desde el
+2008. Y bueno, nos frustró bastante. Esperábamos no tener que
+
+Página 20 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+llegar al cumpleaños número diez de este problema, así que
+decidimos tomar la iniciativa.
+
+DEV ANAND TEELUCKSINGH: Es muy frustrante. Soy de la región y lo encuentro muy
+frustrante. Lo que ha pasado desde el área de IT de ICANN, no
+hay noticias, no hay novedades en lo que hace servicios de IT. La
+persona a cargo contactó a un desarrollador a ver si se lo puedo
+contratar para resolver estos bugs. Todavía no se ha encontrado
+este desarrollador. Ahora bien, es un avance el hecho de que
+este problema haya sido reconocido formalmente y que se
+contacte a un desarrollador para trabajar en el tema.
+
+ALAN GREENBERG:
+
+Quizás es una persona que pueda trabajar en otros grupos de
+trabajo, en varios otros idiomas. Así que podría servir a la
+comunidad en su totalidad. Así que no perdamos la esperanza.
+
+ROBERT HOGGARTH:
+
+La siguiente, por favor. Vanda.
+
+VANDA SCARTEZINI:
+
+El problema de esta traducción en la región LAC es que se
+generan muchos malentendidos entre las personas. Y genera
+muchos problemas para la comunidad. Por ejemplo, en especial
+
+Página 21 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+para Brasil. No es ni inglés, ni español el idioma de Brasil, pero
+podemos leer ambos. Aun cuando para algunos es difícil el
+inglés. Entonces vamos al español, pero el español es imposible
+de entender cuando es traducido al inglés. Carece de sentido,
+entonces la mayoría de las veces tengo que hacer la traducción
+yo misma y enviarla a mis amigos. Porque es la única manera de
+conseguir que participen. De lo contrario, nunca van a entender
+qué es lo que está pasando. Es algo que, entonces, hay que
+arreglarlo. Gracias.
+
+ROBERT HOGGARTH:
+
+Gracias, ¿pasamos a la siguiente? Tengo varias solicitudes de
+palabra del personal. Les agradezco la paciencia.
+Esto tiene que ver con la sesión de desarrollo para líderes de
+RALO en ICANN 57 que es la segunda actividad piloto. También
+fue aprobada con esta anotación de que desde la perspectiva de
+los recursos, tendremos que utilizar las capacidades de
+facilitación de personal. Y esto va también a tener lugar en la
+Reunión C.
+Varios de ustedes habrán observado que gran parte de esta
+solicitud está concentrada, muchas de las solicitudes están
+concentradas en la Reunión C. Esta reunión será un hito o un
+benchmark para aprender gran parte del proceso de estas
+actividades.
+
+Página 22 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ALAN GREENBERG:
+
+ES
+
+Recordarán que hubo una sesión similar para LAC, que era
+incorporar al grupo quizás con muchos miembros nuevos. Y
+bueno. Esta es una sesión comparable pero paralela, en este
+caso para los líderes de las RALO.
+
+ROBERT HOGGARTH:
+
+Creo que han hecho muy buen trabajo a la hora de explicar las
+diferencias, el propósito de cada uno, compartir los días, las
+horas. Ha sido muy útil.
+Ariel, la siguiente, por favor.
+La asamblea general y el programa de creación de capacidades
+de AFRALO. Este es uno de tres. Y quería hablar sobre estos tres
+colectivamente. En lo que hace a los tiempos para estos años,
+recibimos tres pedidos de asambleas generales, de AFRALO,
+LACRALO y NARRALO. Como ha ocurrido en años anteriores, una
+de las preocupaciones que teníamos desde la perspectiva del
+personal, era no solo la capacidad de dotarles de personal, sino
+también los desafíos que representa esto desde la perspectiva
+del presupuesto.
+Leyendo la solicitud global, el personal y la junta hicieron algo
+similar a lo que ustedes hicieron en el ejercicio 16. “Si bien
+fueron tres las solicitudes, nosotros podemos darles solo dos.
+
+Página 23 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+Entonces, Ustedes eligen”. Hubo discusiones en lo que hace a la
+aprobación de la junta y, a la fecha, la idea es trabajar con las
+capacidades como para ustedes tengan la opción de hacer las
+tres.
+Y esto es algo que no sé si Heidi les puede contar en más detalle.
+No sé si ya se ha empezado la planificación. Habrá más
+flexibilidad para trabajar con conversaciones que les darán
+todas las opciones de hacer las tres asambleas este año. Así que
+leees dejo el tema a ustedes para que lo sigan discutiendo cuál
+será el proceso y los detalles.
+Heidi ha hecho un trabajo excelente a la hora de explicar. Para
+que conste en el registro hay varios pulgares hacia arriba.
+
+ALAN GREENBERG:
+
+Tuvimos un retroceso que es… que teníamos una reunión en
+Johannesburgo, en junio, ¿correcto? En la cual nos gustaría
+celebrar una asamblea general. Si esa asamblea general no
+recibiera los fondos, entonces sí vamos a solicitar si era posible
+financiarlo para el ejercicio 18, si pudiéramos usarlo un mes
+antes. No nos iban a facturar, no les íbamos a facturar. Pero por
+lo que veo no vamos a solicitar eso.
+
+ROBERT HOGGARTH:
+
+Página 24 de 52
+
+Nuevamente esta sería otra conversación incómoda.
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+ALAN GREENBERG:
+
+Siempre nos gusta llevar las cosas al límite.
+
+ROBERT HOGGARTH:
+
+Para que conste en actas, Alan se sonríe y yo no respondo.
+
+ALAN GREENBERG:
+
+Es un hombre sabio.
+
+ROBERT HOGGARTH:
+
+En general, una observación general que quiero compartir con
+ustedes. Las organizaciones regionales aprecian mucho el
+trabajo del personal y la junta reconoce la creatividad que
+ustedes han tenido para trabajar con los recursos disponibles,
+las maneras novedosas y el espíritu que han puesto. Y quería
+compartir esta perspectiva de la junta con ustedes.
+Ariel, ¿pasamos al siguiente punto?
+El siguiente se llama Taller de AFRALO en el IGF 2016. Una vez
+más, voy a agrupar esta solicitud con otras. Esta recibió un no/sí
+y quisiera compartir con ustedes cuál fue el abordaje general,
+con respecto a esta solicitud y muchas otras porque veo que me
+quedan 7 minutos en la agenda y no llegamos a ver todos los
+casos. Pero me parece que esta es una revisión importante en
+
+Página 25 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+término de las consideraciones y la retroalimentación que
+recibimos con muchas de estas solicitudes.
+El primer aspecto es que el IGF es un evento muy importante
+para toda la comunidad de Internet. Desde el punto de vista de
+la ICANN, hay muchos elementos diferentes que implican la
+participación del IGF. El IGF representa, quizás, una excepción a
+algo que no se señaló en particular, pero que en general se
+reconoce como una tradición dentro de la asignación de
+recursos de la ICANN. Es una cierta reticencia a financiar la
+participación en reuniones de terceros. La idea es que los
+recursos que están en la ICANN son para participar en reuniones
+de la ICANN y no en otro tipo de reuniones en la comunidad de
+Internet más amplia.
+El IGF representa una especie de excepción en este caso. Y por
+eso, creo que nuestros colegas responsables de esta área, la
+parte de operaciones, analizaron esta solicitud con buena
+voluntad, con espíritu positivo para ver cuáles son los impactos,
+para hacer una evaluación de qué funcionó y qué podría
+funcionar mejor en el futuro.
+Hubo varias reuniones de terceros que fueron otorgados los
+fondos dentro de este programa. Varias de estas solicitudes no
+fueron aprobadas, aun cuando hubo ciertas promociones, no
+hubo fondos o recursos disponibles. Y también el comentario de
+
+Página 26 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+que se solicitaba coordinación con el GSE, que se los conoce
+como los equipos regionales en realidad, que son las personas
+que están en el terreno, las personas que, desde la perspectiva
+del personal, ya están colaborando hasta cierto punto, que
+quieren aumentar esta colaboración. Entonces existe esta
+necesidad de promover todas las solicitudes. Así que la idea es
+contactar a los equipos regionales para ver cómo se pueden
+concretar estas ideas. Quizás no con los fondos de los pedidos
+especiales propiamente dichos, sino a través de otras
+contribuciones en especie, a través de trabajos, asociaciones.
+Bueno, quería darles esta perspectiva general sobre las
+reuniones con terceros en el IGF.
+Hay un subcomponente cuando hablamos de los fondos para
+IGF y esto es algo que también ha evolucionado con el tiempo,
+con respecto a los pedidos para el IGF, que siempre se han
+puesto un par de condiciones para la aprobación de la ICANN,
+para, sobre todos estos talleres en la IGF. Primera es que el
+personal pueda contribuir valor y estas aprobaciones, por así
+decir, están condicionadas a la aprobación del MAG de esas
+sesiones. En general el apoyo que da ICANN es a través de apoyo
+para viajes y desde la perspectiva del presupuesto, a veces la
+gente esto no lo entiende, pero esencialmente lo que sucede
+cada año es que el equipo de finanzas de ICANN junto con el
+equipo de viáticos, básicamente lo que hace es analizar cuánto
+
+Página 27 de 52
+
+ES
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+van a costar los viajes desde la perspectiva del presupuesto. Por
+ejemplo, ¿cuánto cuesta un viaje de 3 días en costo local?
+¿Cuánto costaría una reunión de ICANN? Porque desde la
+perspectiva del área de viajes no se puede uno sentar y
+multiplicar números. Es un número fijo.
+Y para este año, hubo un número identificado para viajes para el
+IGF. Entonces, ustedes van a ver algunos números asociados a
+estas solicitudes. Lo que tienen que saber es que, desde la
+perspectiva de la capacidad, el hecho de que haya habido la
+aprobación de un taller del IGF, el número de personas que
+viajan está identificado, los recursos están provistos para cubrir
+estos viajes.
+No me agarro con AFRALO, lo tomo como ejemplo. En el caso
+entonces de esta solicitud, se reconoció que el taller era una
+buena idea y que se otorgaron entonces las capacidades para
+ello. Ariel, si podemos avanzar, veremos cuántas personas
+recibirán el apoyo. Tijani y Aziz ya saben y esto fue aprobado en
+este caso.
+Ahora, esta solicitud incluyó un componente adicional que no
+fue aprobado, que es el componente de difusión externa. Esto
+refleja otro tema común en término de consideración de esta
+solicitud. Y si vieron lo que pasó en los últimos dos años en
+cuanto
+
+Página 28 de 52
+
+a
+
+la
+
+evaluación,
+
+verán
+
+que
+
+en
+
+general
+
+las
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+recomendaciones que a última instancia llegan a la junta, ven
+ciertas capacidades dependiendo de si IGF estaba en la región
+del RALO que lo solicitaba, mientras que la reticencia o la
+incapacidad de este año nuevamente en extender este apoyo,
+para brindar apoyo fuera de la región en que se brinda el IGF es
+lo que está ocurriendo.
+Más allá de esta solicitud, hay cierta flexibilidad porque se
+reconoce que alguna de estas cosas vienen a analizarse mirando
+hacia adelante, al futuro. Y hay un componente adicional este
+año que todos deberíamos tener en cuenta. La expectativa de
+que todos los que participan en el IGF en esta actividad en
+particular, tendrán que presentar un informe 30 días después de
+haber regresado de ese viaje, compartiendo información sobre
+el viaje.
+Una de las cosas que esperamos ver en el futuro en particular,
+en este tipo de solicitudes porque hay cierta reticencia debido a
+la falta de evidencias. Algunos perciben que “bueno, AFRALO va
+a México. No va a haber gente ahí con la cual hacer difusión
+externa, entonces ¿para qué van a hacer un evento de difusión
+externa allá?”. Bueno, esperamos ver a través de alguno de
+estos informes que alguno de ustedes nos diga “Bueno, en
+realidad el IGF es un evento internacional y sí viene gente de
+África. Y el año pasado vinieron 20” o “Hubo 30 de la región
+Asia/Pacífico”. Y con el tiempo, esperamos ir desarrollando esas
+
+Página 29 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+evidencias por así llamarlas. Y quizás esto abra las posibilidades
+para que la gente esté más abierta a financiar desde el punto de
+vista de asignación de recursos. Y creo que de esta forma
+cubrimos cinco o seis de estas solicitudes también. Así que si
+vamos bajando, probablemente podamos saltear unas cuantas.
+
+ALAN GREENBERG:
+
+Sé que nos estamos quedando sin tiempo y después tenemos
+una sesión de CCWG sobre responsabilidad a la que tenemos
+que ir, pero quiero hacer un comentario breve.
+Hace pocos años, las únicas personas a las que ICANN ha dado
+fondos para estas reuniones eran personal de la ICANN y
+miembros de la junta. El personal de la ICANN y miembros de la
+junta no representan a toda la ICANN y, por lo tanto, nos gusta
+ver que están asignando fondos. Por supuesto que no nos
+asignan lo suficiente, pero es bueno ver que se está
+reconociendo que la ICANN no está formada solamente por el
+personal y los miembros de la junta y por supuesto los registros
+que pueden darse el lujo de ir con sus propios fondos.
+
+ROBERT HOGGARTH:
+
+Gracias. Como dije antes, yo simplemente soy representante y
+voy a transmitir este mensaje. Gracias.
+
+Página 30 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+Ahora, Alan, quería preguntar lo siguiente, me quedan pocos
+minutos. Entonces, si me permiten, quería hablar sobre otro
+tema general, y quizás después podemos tener algunos debates
+individuales, a menos que alguien tenga una pregunta en
+particular con respecto a alguna propuesta en particular. ¿Qué
+prefieren?
+
+ALAN GREENBERG:
+
+Como dije antes, tenemos que ir a esta reunión de CCWG, así
+que, yo les diría que les quedan cinco o 10 minutos, que los use
+como quiera. Quizás durante los días siguientes tengamos algo
+de tiempo adicional más, pero en este momento no.
+
+ROBERT HOGGARTH:
+
+Siempre me gusta participar con ustedes así que, si llegan a
+tener más tiempo, con todo gusto querría participar.
+A modo de cierre, quería explicarles otra característica de este
+programa de solicitudes adicionales de presupuesto. Además de
+las solicitudes individuales, lo que ocurre es que muchas son
+similares o caen bajo el mismo paraguas, no viven solamente de
+la comunidad At-Large, sino también dentro de otras
+comunidades dentro de la ICANN.
+El personal, al hacer recomendaciones y evaluar la solicitud,
+trata de ver si hay una forma desde el punto de vista de la
+
+Página 31 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+gestión, de los recursos, de brindar recursos que quizás no sean
+tan personalizados, pero que estén asignados más bien a un
+programa. Una vez más, lo más importante es poder compartir
+las capacidades del programa CROPP.
+Por razones presupuestarias y de planificación, sigue habiendo
+dos “P” en CROPP. La primera “P” es de “Piloto” porque refleja
+la naturaleza flexible de ese recurso. Esto es algo que al parecer
+todos ustedes operacionalizaron de una forma muy eficaz
+dentro de la comunidad de At-Large, especialmente ALAC y las
+RALO. Pero hay otras comunidades que todavía no lograron eso.
+Entonces continuamos con el programa Piloto, continuamos
+con el desarrollo de capacidades durante un año más. Les
+agradezco por la paciencia para poder después trabajar de
+forma eficaz.
+La otra gran área está dentro de área de apoyo para
+publicaciones y contenidos. Hay una solicitud de presupuesto
+adicional, no solamente para grupos de múltiples partes
+interesadas, también es para las organizaciones de apoyo, los
+comités asesores. Este año habrá fondos disponibles para las
+publicaciones, para ayudar al desarrollo de contenidos, etc. Esto
+es algo que la gente va a seguir pidiendo.
+Y para finalizar, quisiera subrayar un tema en particular que ya
+mencionamos brevemente antes. Desde el punto de vista del
+
+Página 32 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+personal, Göran se incorporó al grupo. Recibimos nuevas
+solicitudes en cuanto a continuar con algunos de los programas
+en los que estuvimos involucrados. Hay un énfasis renovado en
+la colaboración entre el personal de la ICANN y todos ustedes
+como líderes de la comunidad y como miembros de la
+comunidad. Y esperamos poder continuar con esto.
+Lo que espero, Alan, es que, de aquí en adelante, creo que ya lo
+estamos haciendo, ya estamos empezando a pensar en la
+planificación del año fiscal, ejercicio fiscal 18, es que haya
+nuevas oportunidades de diálogo dentro de la reunión de
+Hyderabad, para poder hablar acerca de los planes y las
+expectativas que muchos de ustedes tienen. Tal como dijo Alan,
+hicimos algunos avances, continuamos haciendo avances todos
+los años, pero si hay formas de acelerar esto, de que las cosas
+pasen un poco más rápidamente para que ustedes no tengan
+que esperar un año y después un año más para que las cosas se
+hagan de forma incremental, sin dudar me gustaría explorar esa
+posibilidad con ustedes. Y colaborar en el proceso del
+presupuesto, colaborar con los equipos regionales y profundizar
+estos vínculos. Creo que estas son formas que nos permitirán
+avanzar más rápidamente y hacer más cambios.
+Una vez más, muchísimas gracias por el tiempo que me
+asignaron. Siempre valoro la oportunidad de esta aquí con
+ustedes y no de estar solamente sentado allí.
+
+Página 33 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ALAN GREENBERG:
+
+ES
+
+Muchas gracias. Tenemos una reunión del subcomité de
+finanzas y presupuesto que va a analizar alguno de estos temas
+en mayor detalle. Estas reuniones por supuesto son abiertas.
+Una vez que se las anuncie, cualquiera puede participar. Por
+tanto, habrá reuniones posteriores, teleconferencias sobre estos
+temas. Es un tema importante.
+El otro tema que debo mencionar y del que quizás algunos de
+ustedes estén al tanto, quizás otros no, es el siguiente. Rob
+antes les habló de las Asambleas Generales. Como ustedes
+quizás sepan, se hicieron varias Asambleas Generales cuando se
+formaron las RALO, en 2006 a 2008. En 2009 tuvimos la cumbre
+en la ciudad de México con representantes de todas las ALS. En
+los próximos años tuvimos asambleas generales en cada una de
+las regiones, una por una, cuando vamos a cada región. En 2014
+tuvimos una cumbre en Londres y tuvimos una asamblea
+general desde entonces. Y vamos a recibir fondos para otras
+asambleas generales
+Cada vez que hicimos esto, tuvimos que explicar por qué era
+importante organizar una asamblea general o una cumbre.
+Desde que tenemos este programa, la asamblea general que
+empezó antes de este programa, se fue organizando. Y la
+cumbre era lo suficiente costosa como para ofrecer un
+
+Página 34 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+presupuesto adicional. Por lo tanto, claramente no puede
+hacerse a través de este proceso. Entonces cada vez que le
+asignamos fondos, lo hicimos yendo a la junta directiva y
+diciéndoles “sorpresa, necesitamos un millón de dólares más”,
+lo que fuera y lo aprobaron.
+Ahora estamos presentando una propuesta para planificar y, en
+última instancia, incluir en el presupuesto un patrón periódico
+de asambleas generales, desarrolladas de forma periódica y una
+cumbre cada 5 años. La junta lo aprobó. Y ahora forma parte del
+plan operativo formal de la ICANN. Si bien tenemos que seguir
+solicitudes de presupuesto de forma periódica para estas cosas,
+ya no tenemos que justificar la existencia de estas reuniones.
+Esto realmente es una muestra de apoyo a ALAC y At-Large que
+es muy importante. Y simplemente quería dejar constancia de
+esto.
+Veo que Tijani quiere hacer un comentario muy breve. A ver,
+Tijani, muy breve.
+
+TIJANI BEN JEMAA:
+
+Hablando acerca de CROPP, del programa CROPP. Rob, usted
+sabrá que ya hablamos sobre esto varias veces. El programa
+CROPP otorga fondos para que las personas dediquen un día de
+trabajo y dos noches, porque es un día para viajar, un día de
+viaje, un día para trabajar y un día para viajar, es decir que es un
+
+Página 35 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+solo día de trabajo. Personalmente yo siempre pago de mi
+bolsillo, de mi propio bolsillo, los días restantes. Me parece que
+esto es algo que hay que resolver. No digo que tenemos que
+aumentar la cantidad de días pero tiene que ser algo dinámico
+de acuerdo con lo que uno va a hacer en esa reunión. Y esto es
+algo que hay que evaluar para que nosotros sepamos si
+realmente es algo bueno para hacer o no.
+
+ROBERT HOGGARTH:
+
+Gracias, Tijani. Antes hablé acerca de la evolución del programa.
+Recordarán que del primer año al segundo, la innovación por así
+llamarla, fue pagar todos los gastos de la conferencia. Después
+del segundo y el tercer año incluimos también los gastos por
+visas, los gastos de inscripción, los gastos de visas.
+Y me complace anunciar que el próximo año tendremos la
+flexibilidad para ampliar esos tres días, dos noches a un período
+más prolongado. Cuatro días, tres noches. Es decir que ahora
+tenemos más flexibilidad en el año fiscal 2017 y esto fue
+resultado directo de la retroalimentación que provino de
+ustedes y de otros con respecto a los desafíos. Es difícil hacer
+eso pero creo que es un reconocimiento de que vamos
+aprendiendo juntos con respecto a qué funciona, qué es más
+eficaz.
+
+Página 36 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ALAN GREENBERG:
+
+ES
+
+El programa fue diseñado originalmente para hacer trabajo de
+difusión externa, para salir y contar lo que hacemos. Pero en
+realidad es que muchos casos de este tipo de difusión externa se
+hace en las conferencias y es una tontería enviar a alguien a una
+distancia bastante lejana, a una conferencia que le va a ser útil a
+ellos. ¿Y a nosotros? Y que esté solamente un día allí. Por lo
+tanto, muchas gracias por la flexibilidad. Gracias por estar acá.
+¿León está acá? Estaba acá. Va a volver en un momento, ok.
+Entonces voy a presentar el tema antes de que llegue nuestro
+experto. El tema general es el grupo de trabajo intercomunitario
+sobre la responsabilidad, la CCWG. Si ustedes estuvieron
+siguiendo este tema a lo largo del último año aproximadamente,
+sabrán que esto grupo se creó como un grupo adicional para el
+trabajo sobre la transición de la IANA. El concepto de la
+transición de la IANA donde la NTIA va a transferir la custodia de
+las funciones de la IANA a la ICANN, los RIRs y el IETF. La NTIA ya
+no lo iba a supervisar. Por lo tanto había ciertas dudas con
+respecto a la responsabilidad que tendría la ICANN. Esta es una
+larga historia en la que no voy a entrar en detalle. Por tanto, la
+ICANN tenía que trabajar sobre el tema de la responsabilidad.
+Este grupo armó una propuesta.
+El resultado fue que tenemos una serie de estatutos nuevos que
+fueron aprobados con la condición de que se realice la
+transición. Porque todavía no sabemos si el gobierno de EE.UU.
+
+Página 37 de 52
+
+ES
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+va a realizar la transición este año o no. Pero si lo hace
+tendremos nuevos estatutos que entre otras cosas hace que la
+junta sea responsable frente a comunidad en muchas formas.
+El CCWG sobre responsabilidad hizo el trabajo necesario para la
+transición. Pero había otras partes, otros aspectos de su trabajo
+que
+
+también
+
+se
+
+consideran
+
+importantes
+
+aunque
+
+no
+
+necesariamente para la transición. Esto es lo que genéricamente
+se llamó el área de trabajo 2, la original era el área de trabajo 1.
+Hay una serie de temas diferentes que se van a incluir en el área
+de trabajo 2. Y tenemos una diapositiva en algún lado que va a
+aparecer en pantalla muy pronto, o no. Los temas del área de
+trabajo 2, ¿podemos verlos en pantalla? Sé que hay una
+diapositiva muy linda que incluye el área de trabajo 2. Ya lo van
+a ver en un minuto. El trabajo está por comenzar y estamos
+consolidando los grupos de trabajo que van a analizar o
+dedicarse a cada uno de estos temas.
+El grupo está por comenzar. Hubo una reunión del CCWG el
+domingo que hizo una revisión de estos temas y vamos a
+reunirnos con grupos más pequeños con personas interesadas
+en cada uno de estos temas. Todavía estamos pidiendo
+miembros y participantes que formen parte de estos grupos más
+chicos. Perdón, miembros y observadores para estos grupos.
+Los miembros son aquellos que se comprometen a hacer un
+trabajo en particular. Los observadores simplemente van a estar
+
+Página 38 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+suscritos a la lista de mailing. Por supuesto van a poder
+escuchar lo que ocurre en las teleconferencias pero no van a
+trabajar. Los que quieran pueden anotarse en cualquier de estas
+dos categorías. Vamos a ver los temas en un momento. Si
+encuentran algún tema que les interesa, les recomiendo
+enfáticamente que se anoten. También deben asegurarse de
+estar suscriptos a la lista general del CCWG. Estos temas van a
+ser debatidos en los grupos más chicos. Las recomendaciones
+luego van a ser derivadas al CCWG, donde se van a tomar las
+decisiones y recomendaciones finales para la junta.
+Los temas incluyen cosas como Derechos Humanos y cuáles son
+sus implicancias dentro de la ICANN, responsabilidad del
+personal. Ahora tenemos procesos mediante los cuales la justa
+es responsable frente a la comunidad. ¿Qué ocurre con el
+personal? ¿Qué significa esto? La transparencia, ¿en qué medida
+se puede obtener información con respecto a lo que sucede
+dentro de la ICANN? Y obtener muchos datos no significa
+obtener información. ¿Cuán exacta es la información? ¿Cuál fácil
+es encontrar lo que uno busca? Y esto va desde algo muy
+mundano hasta john.smith@icann.org, ¿en qué departamento
+trabaja? Va desde eso hasta temas mucho más profundos.
+¿Alguien más recuerda algún otro tema que se me haya
+escapado?
+
+Página 39 de 52
+
+ES
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+Ahí está León. Vino León. Muy bien. Adelante.
+
+LEON SANCHEZ:
+
+Muchas gracias, Alan. Los temas que van a formar parte de la
+guía
+
+de
+
+trabajo
+
+son:
+
+diversidad,
+
+Derechos
+
+Humanos,
+
+jurisdicción, responsabilidad de SO y AC, el rol del ombudsman,
+transparencia, responsabilidad del personal, guías para las
+normas de conducta que están asociadas con el ejercicio de la
+capacidad para remover a miembros de la junta y revisión del
+CEP. Esos son los temas para el área de trabajo 2.
+Y tal como decía Alan, los grupos todavía están abiertos para
+aquellos que quieran participar como participantes o como
+observadores. No hay un plazo para anotarse. Pero cuanto antes
+se anoten, mejor. Porque van a poder empezar a trabajar desde
+el principio. Y les resultará más fácil realizar contribuciones a
+este trabajo. Ayer tuvimos una reunión de todo el día. No sé si ya
+dijiste esto.
+
+ALAN GREENBERG:
+
+Solo dije que tenemos un día.
+
+LEON SANCHEZ:
+
+Tuvimos una reunión todo el día y básicamente fue hacer un
+torbellino de ideas con respecto a alguno de estos nueve temas.
+
+Página 40 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+Como podrán ver, por supuesto, los temas que más atención
+recibieron fueron diversidad, Derechos Humanos, jurisdicción y
+transparencia. Estos son, creo yo, temas muy vinculados con lo
+que hace la comunidad de At-Large dentro de la ICANN.
+Entonces cuantos más voluntarios tengamos, cuantos más
+voluntarios nos ayuden en este proceso, mejor.
+Le doy la palabra a Alan.
+
+ALAN GREENBERG:
+
+Gracias. ALAC en ciertas formas es muy bueno en cuanto a
+generar declaraciones y comentarios cuando los temas se
+plantean para presentación de comentarios públicos. Pero no
+somos tan buenos en cuanto a participar activamente y
+enmarcar los resultados de estos debates. Trabajamos muy
+activamente en la transición de la IANA a CWG y de la CCWG
+sobre responsabilidad. Y el resultado puedo decir, creo que con
+cierta seguridad, que los resultados de estos dos procesos son
+muy diferentes de lo que hubiesen sido si At-Large no hubiese
+estado presente en estas reuniones. Creo que eso es algo bueno.
+Creo que esto es algo que tenemos que continuar haciendo en el
+futuro.
+Las otras actividades, ya sea del área de trabajo 2 u otras
+actividades en curso, quizás no tengan el mismo atractivo que
+estos otros dos temas. Pero sí es muy importante que nosotros
+
+Página 41 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+aportemos una perspectiva diferente de muchas de las otras
+partes de la ICANN. Sin duda aportamos una perspectiva
+diferente que la de la comunidad de negocios. Y es notable
+señalar que brindamos una perspectiva muy diferente de las
+partes no comerciales de la ICANN relacionadas con la GNSO. Y
+cuando digo "diferente" con frecuencia me refiero a que somos
+totalmente lo opuesto.
+Realmente logramos un impacto muy importante. Y querría que
+esto continúe. Y ustedes deberían querer que esto continúe
+también. Entonces lean la lista de temas. ¿En la diapositiva
+anterior tenemos la lista que podamos leer bien? Porque me
+parece que esta es un poco confusa. Acá tenemos los temas
+pero desglosados en demasiados detalles, de forma tal que ni
+siquiera se pueden leer. Pero está muy lindo. Es muy lindo. Es un
+mapa mental pero de una manera distinta de lo que se le
+presenta usualmente.
+
+LEON SANCHEZ:
+
+¿Por qué no lo leemos despacio para que la gente pueda
+absorber?
+
+ALAN GREENBERG:
+
+Si les interesa les podemos dar el link para Google Docs para
+que se suscriban solos. No va a ser un compromiso, si no que
+
+Página 42 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+reflexionen, lo piensen y si se ofrecen como miembros, les
+pedimos que por favor participen. Que no solo escuchen, si no
+también contribuyan. Porque van a tener influencia sobre el
+resultado.
+
+CHERYL LANGDON-ORR:
+
+Brevemente, es posible tener un rol activo y un rol pasivo. Es
+una buena oportunidad esta para que ustedes hagan algo que
+les apasione, algo que les interese y que a lo mejor algo que
+nunca se les ocurrió. En estos grupos hemos trabajo. Yo he
+trabajado personalmente en tres de estos nueve temas.
+
+LEON SANCHEZ:
+
+La lista de temas son los siguientes: diversidad, Derechos
+Humanos. Y cuando digo Derechos Humanos, es desde la
+perspectiva del CCWG. Tiene que ver con la forma en que la
+ICANN respetará los Derechos Humanos desde su misión y sus
+operaciones cotidianas. Eso no significa que ICANN será la
+policía de Derechos Humanos, por supuesto. Si quieren venir al
+grupo alzando el estandarte de los Derechos Humanos .para
+hacer que se cumplan y demás, este no es el lugar. Luego
+jurisdicción, la responsabilidad de las SO y AC, el ombudsman y
+su rol, transparencia, la responsabilidad del personal, las guías
+para las normas de conducta presumidas de buena fe y el
+ejercicio del poder de remoción de los miembros individuales de
+
+Página 43 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+la junta. Que será uno de los ejes principales sobre cómo nos
+relacionaremos a futuro con la junta. Sabrán que ahora somos
+una comunidad empoderada o con facultades concedidas. Y
+esta comunidad tendrá que considerar estas normas de buena
+fe a la hora de efectivizar la remoción de un miembro de la
+junta. Luego evaluar el CEP, lo que sea que signifique. ¿Qué es
+CEP? No me acuerdo.
+
+CHERYL LANGDON-ORR:
+
+Es la sigla que se refiere al sistema de clientes para IANA.
+
+ALAN GREENBERG:
+
+Un comentario. Gracias. El concepto de jurisdicción son muchas
+cosas puestas en una. Dónde se incorpora la ICANN, dónde
+estará su cede, con qué legislación será regida, con qué
+legislación se regirán sus contratos. Son muchas cosas puestas
+en una. Es un tema muy controversial para muchos. Así que va a
+ser interesante, no sé si será productivo. Pero estoy más que
+dispuesto a observar qué pasa.
+Ya veo varias manos alzadas. Vanda, tu mano está alzada.
+
+VANDA SCARTEZINI:
+
+Página 44 de 52
+
+[habla fuera del micrófono]
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ALAN GREENBERG:
+
+ES
+
+Luego tenemos a Seun. Y nuevamente estamos a seis minutos
+del cierre. Entonces por favor el reloj de dos minutos que sea de
+menos si es posible.
+
+SEUN OJEDEJI:
+
+Gracias. Yo alcé mi tarjeta. No sé si León lo va a explicar. Primero
+quería saber qué es CEP. La explicación no me sirvió demasiado.
+El comentario principal que quería hacer tiene que ver con el
+futuro de At-Large. Para que quede claro, ¿vamos a discutir esto
+después? El tema de cómo vamos a involucrar realmente a la
+gente en esta área de trabajo 2 en los términos de At-Large.
+
+ALAN GREENBERG:
+
+La respuesta que nosotros vamos a enviar correos electrónicos
+adicionales. Como ya lo veníamos haciendo. Alentando a la
+región. En su región los líderes de las RALO y los miembros de la
+ALAC puedan hacer otras cosas adicionales que deseen. Si hay
+alguna demanda podemos hacer webinars. Podemos armar
+tutoriales. Son ustedes los que van a decidir qué consideran más
+útil en su región.
+
+SEUN OJEDEJI:
+
+¿Y las listas? ¿No deberíamos crear una nueva lista? El mismo
+mecanismo de interacción continúa. ¿Es así? La lista de IANA. Me
+
+Página 45 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+pregunto si esto va a cambiar. Porque en ese caso ya tenemos
+varios medios de comunicación. Vamos a continuar con las listas
+de IANA.
+
+ALAN GREENBERG:
+
+¿Cómo vamos a arribar a conclusiones acerca de cómo
+mantener alerta a la gente? No lo sé. Todavía no lo hemos
+resuelto. Es una discusión que se va a dar. Que no va a pasar en
+esta sesión, sin duda. Pero gracias, vamos a poner esto en la
+agenda. Si nos quedan algunos minutos, se lo voy a llevar a la
+próxima reunión de ALAC. Pero, en general, se aplicarán los
+métodos estandarizados, ya sea el grupo de tema de la IANA u
+otro no sé. No está claro. Ya tenemos unos cinco o seis grupos.
+Quizás los agrupemos. Algunos temas son muy vigentes. Y la
+otra pregunta es sobre el CEP.
+
+SEUN OJEDEJI:
+
+CEP.
+
+ALAN GREENBERG:
+
+Teníamos una respuesta pero no lo entendí mucho, así que lo
+sacamos y lo tratamos extraoficialmente.
+Perdón. No estaba mirando Adobe Connect.
+
+Página 46 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+BASTIAN HOEFLING:
+
+ES
+
+Habla Bastian Hoefling de ISOC de los Países Bajo. Yo soy una de
+las personas que recibió mentoría y me ofrezco como voluntario
+para uno de los temas. Una pregunta, si la respuesta es negativa
+quizás sea una sugerencia. Es tener una lista disponible para
+saber quiénes participan de At-Large en los distintos temas. Yo
+soy un recién llegado aquí. Y en la expresión de interés en el foro
+había muchos nombres. Pero no pude identificar a qué unidades
+constitutivas pertenecían. Sería bueno que At-Large, las
+personas de At-Large que tienen los mismos temas de interés, se
+agrupen. Y otra cosa que creo que ya lo dijo usted, Alan, tal vez
+no es un tema a discutir aquí. Pero también me gustaría saber, si
+yo empiezo a trabajar en varios temas, ¿cómo me entero si la
+contribución que yo hago llega a algún buen puerto dentro de la
+comunidad de At-Large?
+
+ALAN GREENBERG:
+
+Esta última pregunta es lo que no se debió haber preguntado,
+¿qué le pertenece a quién? Creo que podríamos poner una
+tercera columna en el documento de Google Docs, o sea para
+poder encontrar los nombres.
+
+LEON SANCHEZ:
+
+Lo podemos hacer. Algo a tener en cuenta es que estamos
+tratando de preservar el ancho de banda e intentar prevenir la
+fatiga de los voluntarios. Si ustedes se van a anotar en varios
+
+Página 47 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+temas, por supuesto lo pueden hacer. Pero les pedimos que
+tengan en cuenta que aquel grupo al que se anoten la
+expectativa es que tengan una contribución activa. Si ustedes se
+registran como miembros, por supuesto, si se registran como
+observadores la historia es distinta, tengan en cuenta que el
+grupo en el cual se registren la expectativa es que hagan una
+contribución.
+
+BASTIAN HOEFLING:
+
+Para aclarar, como miembro estoy suscrito solamente a uno.
+Pero también estoy analizando la perspectiva de inscribirme en
+la lista general de CCWG. Es un poco abrumador en términos de
+la carga de trabajo. Así que no lo sé.
+
+ALAN GREENBERG:
+
+Podemos filtrar todo.
+Perdón. Estaba distraído. Sigue Tim.
+
+TIM:
+
+¿Alguien en esta sala tiene una estimación precisa de cuánto
+tiempo lleva semanalmente la participación en este tipo de
+comités? ¿Alguien se quiere aventurar a adivinar un número o
+relatar su experiencia?
+
+Página 48 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ALAN GREENBERG:
+
+ES
+
+Creo que la experiencia pasada no resulta pertinente. El nivel de
+trabajo fue diferente de lo que va a ser ahora. León, ¿con qué
+frecuencia se van a reunir estos grupos? ¿Ya se habló de eso?
+
+LEON SANCHEZ:
+
+Perdón. No entendí bien la pregunta.
+
+ALAN GREENBERG:
+
+¿Cuántas horas a la semana se espera para este tipo de trabajo?
+
+LEÓN SÁNCHEZ:
+
+Bueno. No se puede predecir en este momento. Dependerá por
+supuesto de cuánto uno se involucre y la complejidad del tema a
+debatir. Yo diría que si usted se inscribe, por ejemplo, para el
+grupo de Derechos Humanos, yo imagino que este va a ser un
+tema candente. Así que, no sé, quizás de diez a ocho horas
+semanales. Quizás más, la verdad no sé, no estoy seguro.
+
+ALAN GREENBERG:
+
+¿De teleconferencias? Espero que no.
+
+LEON SANCHEZ:
+
+No teleconferencias pero por supuesto que hay que seguir la
+lista y hacer una contribución activa. Hay que informarse sobre
+el tema. Así que ocho a diez semanas es una cifra razonable.
+
+Página 49 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ALAN GREENBERG:
+
+ES
+
+Yo me imagino que gran parte de esto, en general la mayoría va
+a ser una media hora de teleconferencia semanal o quizás dos
+en la mayoría de los temas. Y un poco de estudio, depende si
+uno es un redactor o un relator... Si es solo un participante en la
+llamada se puede preparar rápidamente para la llamada y pasar
+a la otra. No le puedo dar una garantía absoluta. Lo único que le
+puedo decir es que uno siempre puede dejar si resulta muy
+abrumadora la carga. Gracias.
+
+BASTIAN HOEFLING:
+
+Gracias.
+
+TIJANI BEN JEMAA:
+
+En lo que es la jurisdicción, ¿dónde está basada o incorporada la
+ICANN? Esto no se va a discutir. Ya se trató en el área de trabajo
+1. En el área de trabajo 1 ya dijimos que la comunidad con
+facultades concedidas se incorporará bajo la legislación de
+California. Aquí el tema a discutir es la jurisdicción que se
+utilizará para los contratos, para la gestión, etc. Pero no
+respecto de en qué lugar debe estar incorporada la ICANN.
+Gracias.
+
+Página 50 de 52
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+ES
+
+ALAN GREENBERG:
+
+Esa es una buena teoría. Vamos a ver cómo resulta. ¿Sebastien?
+
+SEBASTIEN BACHOLLET:
+
+Quería hacer un comentario adicional a lo que dijo Tim. El
+Google Docs al comienzo dice que hay dos maneras de ofrecerse
+como voluntario. Para el participante activo se espera que
+destine de al menos tres a cinco horas por semana al trabajo del
+subgrupo.
+
+ALAN GREENBERG:
+
+¿Alguien más? Parece que ya estamos. La próxima sesión
+tenemos la sesión de trabajo intercomunitario sobre servicios de
+registración que es a las 3:00, o sea ya, en la sala Hall A. Si el
+personal nos puede indicar dónde queda y Gisella tiene otros
+comentarios que hacer. No, solo nos va a decir dónde está el
+Hall A.
+
+GISELLA GRUBER:
+
+Para aquellos que están en la próxima sesión, en el Hall A, tienen
+que ir hasta el final del corredor. Bordeando el costado del
+edificio habrá dos escaleras hacia arriba o un ascensor al final
+del pasillo. Gracias.
+
+ALAN GREENBERG:
+
+Página 51 de 52
+
+Pensé que había levantado la sesión pero no lo hice.
+
+ES
+
+HELSINKI – Sesión vespertina de At-Large de difusión y alcance
+
+GISELLA GRUBER:
+
+Gracias.
+
+Les
+
+recuerdo
+
+que
+
+las
+
+sesiones
+
+de
+
+trabajo
+
+intercomunitario se hacen en la sala Hall A. La próxima sesión de
+At-Large tenemos la asamblea general de EURALO mañana a las
+8:00 de la mañana.
+
+[FIN DE LA TRANSCRIPCIÓN]
+
+Página 52 de 52
+
+
