@@ -10,7 +10,9 @@ Getting Familiar with Filename ::
 
 2.Directories like Monday,Sunday ...  - These contain the PDFs that belong on that day.Within this Directory there is a file called diretory_data.txt that gives 										    the count of how many times the word repeated in that particular directory. 
 
-3.Script Files - 
+3.localdata.txt - It is in the deep most Directory that corresponds to a link in original website. this file contains the details(Name and count ) locally							  regarding to that Particular link
+
+4.Script Files - 
 	these are the core of this project. Each of these script file is designed in order to perform a specific task .All files are written in Python.
 	i) downloader.py - run this script file to download automatically all the PDFS from the actual website and it organises the data very well.
 	ii)pdftotextconvertor.py - as the name says,this file is used to convert all the PDFS downloaded in part i) to .txt format
