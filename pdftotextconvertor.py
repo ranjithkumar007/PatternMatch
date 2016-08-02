@@ -6,23 +6,23 @@ init_path = os.getcwd()
 braces = "()&"
 
 for root,dirs,files in os.walk(init_path):
-	for name in files :
-		if (name[len(name)-3:] == ".py" or name[len(name)-4:]==".txt") :
-			continue
-		temp = name
-		name = name.translate(None,braces)
+    for name in files :
+        if (name[len(name)-3:] == ".py" or name[len(name)-4:]==".txt") :
+            continue
+        temp = name
+        name = name.translate(None,braces)
 
-		os.chdir(root)
-		os.rename(temp,name)
+        os.chdir(root)
+        os.rename(temp,name)
 
-		# newname is used as whitespaces are only considered if we use  a backslash infront of it
-		newname = []
-		for i in name:
-			if (i.isspace()):
-				newname.append('\\')
-			newname.append(i)
+        # newname is used as whitespaces are only considered if we use  a backslash infront of it
+        newname = []
+        for i in name:
+            if (i.isspace()):
+                newname.append('\\')
+            newname.append(i)
 
-		newname = ''.join(newname)
+        newname = ''.join(newname)
 
-		os.system(("pdftotext %s")%(newname))
-		os.chdir(init_path)
+        os.system(("pdftotext %s")%(newname))
+        os.chdir(init_path)
