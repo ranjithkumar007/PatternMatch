@@ -1,21 +1,22 @@
 import os
-from os.path import join,isfile
+from os.path import join, isfile
 import string
 
 init_path = os.getcwd()
 braces = "()&"
 
-for root,dirs,files in os.walk(init_path):
-    for name in files :
-        if (name[len(name)-3:] == ".py" or name[len(name)-4:]==".txt") :
+for root, dirs, files in os.walk(init_path):
+    for name in files:
+        if (name[len(name) - 3:] == ".py" or name[len(name) - 4:] == ".txt"):
             continue
         temp = name
-        name = name.translate(None,braces)
+        name = name.translate(None, braces)
 
         os.chdir(root)
-        os.rename(temp,name)
+        os.rename(temp, name)
 
-        # newname is used as whitespaces are only considered if we use  a backslash infront of it
+        # newname is used as whitespaces are only considered if we use  a
+        # backslash infront of it
         newname = []
         for i in name:
             if (i.isspace()):
@@ -24,5 +25,5 @@ for root,dirs,files in os.walk(init_path):
 
         newname = ''.join(newname)
 
-        os.system(("pdftotext %s")%(newname))
+        os.system(("pdftotext %s") % (newname))
         os.chdir(init_path)
