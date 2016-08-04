@@ -1,142 +1,627 @@
-                List of all files that have the pattern and total number of matches
+******List of all files that have the pattern and total number of matches
 
 1.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Rev of All Rights Prot Mech in all gTLDs en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: Cross-Community Session: Review of All R...
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Review of All R...
   Count of Matching words found  ---- 2
 
 2.Name of the File               ---- Transcript ISPCP 27 June Helsinki[1] 
-  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: Internet Service Providers and Connectiv...
+  Path of this File              ---- Monday/ICANN56: Internet Service Providers and Connectiv...
   Count of Matching words found  ---- 4
 
 3.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Outreach and Engagement Session PM en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: At-Large Outreach and Engagement Session_2
-  Count of Matching words found  ---- 6
+  Path of this File              ---- Monday/ICANN56: At-Large Outreach and Engagement Session_2
+  Count of Matching words found  ---- 7
 
 4.Name of the File               ---- Transcript GNSO Board 27 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: GNSO Meetings (Part 2)
+  Path of this File              ---- Monday/ICANN56: GNSO Meetings (Part 2)
   Count of Matching words found  ---- 2
 
 5.Name of the File               ---- Transcript GNSO Update 2 27 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Monday/ICANN56: GNSO Meetings (Part 3)
+  Path of this File              ---- Monday/ICANN56: GNSO Meetings (Part 3)
   Count of Matching words found  ---- 4
 
-6.Name of the File               ---- ICANN56 HEL Sun26Jun2016 CCWG Accountability WS2 Session en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Sunday/ICANN56: CCWG Accountability WS2 Session
-  Count of Matching words found  ---- 129
+6.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs en 
+  Path of this File              ---- Monday/ICANN56: Country Codes and Names as Second Level...
+  Count of Matching words found  ---- 1
 
-7.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 GAC Op Princ Rev WG Presentation to GAC Plenary en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GAC Operating Principles Review Working...
+7.Name of the File               ---- ICANN56 HEL Sun26Jun2016 CCWG Accountability WS2 Session en 
+  Path of this File              ---- Sunday/ICANN56: CCWG Accountability WS2 Session
+  Count of Matching words found  ---- 131
+
+8.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 GAC Op Princ Rev WG Presentation to GAC Plenary en 
+  Path of this File              ---- Wednesday/ICANN56: GAC Operating Principles Review Working...
   Count of Matching words found  ---- 3
 
-8.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 GAC Human Rights and International Law WG Meeting en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GAC Human Rights and International WG Me...
+9.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 GAC Human Rights and International Law WG Meeting en 
+  Path of this File              ---- Wednesday/ICANN56: GAC Human Rights and International WG Me...
   Count of Matching words found  ---- 3
 
-9.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ccNSO Members Meeting Day 2 Part 2 en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: ccNSO Members Meeting Day 2 (Part 2)
+10.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ccNSO Members Meeting Day 2 Part 2 en 
+  Path of this File              ---- Wednesday/ICANN56: ccNSO Members Meeting Day 2 (Part 2)
   Count of Matching words found  ---- 2
 
-10.Name of the File               ---- Transcript NCUC 29 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GNSO Non Commercial Users Constituency N...
+11.Name of the File               ---- Transcript NCUC 29 June Helsinki 
+  Path of this File              ---- Wednesday/ICANN56: GNSO Non Commercial Users Constituency N...
   Count of Matching words found  ---- 10
 
-11.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ccNSO Members Meeting Day 2 Part 1 en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: ccNSO Members Meeting Day 2 (Part 1)
+12.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ccNSO Members Meeting Day 2 Part 1 en 
+  Path of this File              ---- Wednesday/ICANN56: ccNSO Members Meeting Day 2 (Part 1)
   Count of Matching words found  ---- 3
 
-12.Name of the File               ---- Transcript RySG 29 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: gTLD Registries Stakeholder Group Sessio...
+13.Name of the File               ---- Transcript RySG 29 June Helsinki 
+  Path of this File              ---- Wednesday/ICANN56: gTLD Registries Stakeholder Group Sessio...
   Count of Matching words found  ---- 2
 
-13.Name of the File               ---- Transcript CSG Open Meeting 29 June 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: GNSO - COMMERCIAL STAKEHOLDERS GROUP (CS...
+14.Name of the File               ---- Transcript CSG Open Meeting 29 June 
+  Path of this File              ---- Wednesday/ICANN56: GNSO - COMMERCIAL STAKEHOLDERS GROUP (CS...
   Count of Matching words found  ---- 24
 
-14.Name of the File               ---- Transcript Thick WHOIS Part 1 29 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Wednesday/ICANN56: Thick Whois Policy Implementation - Meet...
+15.Name of the File               ---- Transcript Thick WHOIS Part 1 29 June Helsinki 
+  Path of this File              ---- Wednesday/ICANN56: Thick Whois Policy Implementation - Meet...
   Count of Matching words found  ---- 1
 
-15.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 GAC Public Safety Working Group Meeting en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GAC Public Safety Working Group Meeting
+16.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 GAC Public Safety Working Group Meeting en 
+  Path of this File              ---- Tuesday/ICANN56: GAC Public Safety Working Group Meeting
   Count of Matching words found  ---- 10
 
-16.Name of the File               ---- Transcript GNSO RDS3 28 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Next-Generation Registration Direct..._4
+17.Name of the File               ---- Transcript GNSO RDS3 28 June Helsinki 
+  Path of this File              ---- Tuesday/ICANN56: GNSO Next-Generation Registration Direct..._4
   Count of Matching words found  ---- 1
 
-17.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 GAC meeting with ccNSO en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GAC meeting with ccNSO
+18.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 GAC meeting with ccNSO en 
+  Path of this File              ---- Tuesday/ICANN56: GAC meeting with ccNSO
   Count of Matching words found  ---- 3
 
-18.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 IANA Stew Trans and CCWG Acc WS 1 en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: IANA Stewardship Transition and CCWG Acc...
-  Count of Matching words found  ---- 1
-
-19.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 PDP New gTLD Subsequent Procedures en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: Cross-Community Session: New gTLD Subseq...
+19.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 IANA Stew Trans and CCWG Acc WS 1 en 
+  Path of this File              ---- Tuesday/ICANN56: IANA Stewardship Transition and CCWG Acc...
   Count of Matching words found  ---- 2
 
-20.Name of the File               ---- Transcript GNSO RDS2 28 June Helsinki [1] 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Next-Generation Registration Direct...
+20.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 PDP New gTLD Subsequent Procedures en 
+  Path of this File              ---- Tuesday/ICANN56: Cross-Community Session: New gTLD Subseq...
+  Count of Matching words found  ---- 2
+
+21.Name of the File               ---- Transcript GNSO RDS2 28 June Helsinki [1] 
+  Path of this File              ---- Tuesday/ICANN56: GNSO Next-Generation Registration Direct...
   Count of Matching words found  ---- 9
 
-21.Name of the File               ---- Transcript RDS 1 28 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Next-Generation Registration Direct...
+22.Name of the File               ---- Transcript RDS 1 28 June Helsinki 
+  Path of this File              ---- Tuesday/ICANN56: GNSO Next-Generation Registration Direct...
   Count of Matching words found  ---- 1
 
-22.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 ccNSO Members Meeting Day 1 Part 4 en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 4)
+23.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 ccNSO Members Meeting Day 1 Part 4 en 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 4)
   Count of Matching words found  ---- 1
 
-23.Name of the File               ---- Transcript NCSG PC 28 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO - NCSG Policy Committee Meeting
+24.Name of the File               ---- Transcript NCSG PC 28 June Helsinki 
+  Path of this File              ---- Tuesday/ICANN56: GNSO - NCSG Policy Committee Meeting
   Count of Matching words found  ---- 1
 
-24.Name of the File               ---- Transcript IGO 28 June Helsinki  
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO IGO-INGO Access to Curative Rights...
+25.Name of the File               ---- Transcript IGO 28 June Helsinki  
+  Path of this File              ---- Tuesday/ICANN56: GNSO IGO-INGO Access to Curative Rights...
   Count of Matching words found  ---- 30
 
-25.Name of the File               ---- WG session slides   Helsinki 2016 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO IGO-INGO Access to Curative Rights...
-  Count of Matching words found  ---- 11
+26.Name of the File               ---- WG session slides   Helsinki 2016 
+  Path of this File              ---- Tuesday/ICANN56: GNSO IGO-INGO Access to Curative Rights...
+  Count of Matching words found  ---- 21
 
-26.Name of the File               ---- Transcript IPC RY 28 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: GNSO Cross-Constituency meeting between...
+27.Name of the File               ---- Transcript IPC RY 28 June Helsinki 
+  Path of this File              ---- Tuesday/ICANN56: GNSO Cross-Constituency meeting between...
   Count of Matching words found  ---- 1
 
-27.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 At Large EURALO General Assembly Part 1 en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: At-Large EURALO General Assembly (Part 1...
+28.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 At Large EURALO General Assembly Part 1 en 
+  Path of this File              ---- Tuesday/ICANN56: At-Large EURALO General Assembly (Part 1...
   Count of Matching words found  ---- 3
 
-28.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Privacy and Proxy Services Accreditation en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Tuesday/ICANN56: Privacy and Proxy Services Accreditation...
-  Count of Matching words found  ---- 14
+29.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Privacy and Proxy Services Accreditation en 
+  Path of this File              ---- Tuesday/ICANN56: Privacy and Proxy Services Accreditation...
+  Count of Matching words found  ---- 16
 
-29.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 GAC Communique Drafting Session en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GAC Communique Drafting Session
+30.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 GAC Communique Drafting Session en 
+  Path of this File              ---- Thursday/ICANN56: GAC Communique Drafting Session
   Count of Matching words found  ---- 3
 
-30.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 At Large Leadership WS en 
-  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: At-Large Leadership Work Session
+31.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 At Large Leadership WS en 
+  Path of this File              ---- Thursday/ICANN56: At-Large Leadership Work Session
   Count of Matching words found  ---- 1
 
-31.Name of the File               ---- Transcript GNSO RPM 30 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GNSO Review of All Rights Protection Mec...
+32.Name of the File               ---- Transcript GNSO RPM 30 June Helsinki 
+  Path of this File              ---- Thursday/ICANN56: GNSO Review of All Rights Protection Mec...
   Count of Matching words found  ---- 6
 
-32.Name of the File               ---- 20160630 live scribe transcript   council 
-  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GNSO Council Public Meeting
+33.Name of the File               ---- 20160630 live scribe transcript   council 
+  Path of this File              ---- Thursday/ICANN56: GNSO Council Public Meeting
   Count of Matching words found  ---- 6
 
-33.Name of the File               ---- transcript Thick Whois IRT part 2 30 June 2016 
-  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: Thick Whois Policy Implementation - Meet...
+34.Name of the File               ---- transcript Thick Whois IRT part 2 30 June 2016 
+  Path of this File              ---- Thursday/ICANN56: Thick Whois Policy Implementation - Meet...
   Count of Matching words found  ---- 1
 
-34.Name of the File               ---- Transcript GNSO Council Wrap Up 30 June Helsinki 
-  Path of this File              ---- /home/ranjithkumar/hargup/Thursday/ICANN56: GNSO Wrap-Up Session
+35.Name of the File               ---- Transcript GNSO Council Wrap Up 30 June Helsinki 
+  Path of this File              ---- Thursday/ICANN56: GNSO Wrap-Up Session
   Count of Matching words found  ---- 12
 
 
 
-Total number of times the Word jurisdiction appeared in the entire Folder is 312
+******Total number of times the Word jurisdiction appeared in the entire Folder is 329
+
+
+
+
+******Total number of files where jurisdiction didn't appear are 158
+
+******List of Files where the word jurisdiction is not found
+
+1.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Protection of Geo Names WG Pres to GAC ru 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Prese...
+
+2.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Protection of Geo Names WG Pres to GAC es 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Prese...
+
+3.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Protection of Geo Names WG Pres to GAC pt 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Prese...
+
+4.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Protection of Geo Names WG Pres to GAC fr 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Prese...
+
+5.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Protection of Geo Names WG Pres to GAC en 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Prese...
+
+6.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Protection of Geo Names WG Pres to GAC ar 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Prese...
+
+7.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Protection of Geo Names WG Pres to GAC zh 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Prese...
+
+8.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 SOP Working Group en 
+  Path of this File              ---- Monday/ICANN56: At-Large Outreach and Engagement Session
+
+9.Name of the File               ---- RPM Cross Community Session slides   27 June 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Review of All R...
+
+10.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Rev of All Rights Prot Mech in all gTLDs ar 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Review of All R...
+
+11.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 SOP Working Group en 
+  Path of this File              ---- Monday/ICANN56: SOP Working Group
+
+12.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 ccNSO Council Prep Meeting en 
+  Path of this File              ---- Monday/ICANN56: ccNSO Council Prep Meeting
+
+13.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Opening Plenary en 
+  Path of this File              ---- Monday/ICANN56: GAC Opening Plenary
+
+14.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Opening Plenary pt 
+  Path of this File              ---- Monday/ICANN56: GAC Opening Plenary
+
+15.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Opening Plenary ru 
+  Path of this File              ---- Monday/ICANN56: GAC Opening Plenary
+
+16.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Opening Plenary fr 
+  Path of this File              ---- Monday/ICANN56: GAC Opening Plenary
+
+17.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Opening Plenary ar 
+  Path of this File              ---- Monday/ICANN56: GAC Opening Plenary
+
+18.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Opening Plenary es 
+  Path of this File              ---- Monday/ICANN56: GAC Opening Plenary
+
+19.Name of the File               ---- 6 Luminous Ritchie 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 2)
+
+20.Name of the File               ---- 7 CoCCA SDF Miller 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 2)
+
+21.Name of the File               ---- 5 DDoS Arends 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 2)
+
+22.Name of the File               ---- 4 dotNZ Registrar Daley 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 2)
+
+23.Name of the File               ---- 8 Jaku  Settle 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 2)
+
+24.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Capacity Building Session ar 
+  Path of this File              ---- Monday/ICANN56: GAC Capacity Building Session
+
+25.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Capacity Building Session en 
+  Path of this File              ---- Monday/ICANN56: GAC Capacity Building Session
+
+26.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Capacity Building Session pt 
+  Path of this File              ---- Monday/ICANN56: GAC Capacity Building Session
+
+27.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Capacity Building Session zh 
+  Path of this File              ---- Monday/ICANN56: GAC Capacity Building Session
+
+28.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Capacity Building Session ru 
+  Path of this File              ---- Monday/ICANN56: GAC Capacity Building Session
+
+29.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Capacity Building Session es 
+  Path of this File              ---- Monday/ICANN56: GAC Capacity Building Session
+
+30.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 GAC Capacity Building Session fr 
+  Path of this File              ---- Monday/ICANN56: GAC Capacity Building Session
+
+31.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Outreach and Engagement Session PM fr 
+  Path of this File              ---- Monday/ICANN56: At-Large Outreach and Engagement Session_2
+
+32.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Outreach and Engagement Session PM es 
+  Path of this File              ---- Monday/ICANN56: At-Large Outreach and Engagement Session_2
+
+33.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting ru 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Worki...
+
+34.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting es 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Worki...
+
+35.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting en 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Worki...
+
+36.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting ar 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Worki...
+
+37.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting fr 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Worki...
+
+38.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Protection of Geographic Names WG Meeting pt 
+  Path of this File              ---- Monday/ICANN56: GAC Protection of Geographic Names Worki...
+
+39.Name of the File               ---- Transcript UASG 27 June Helsinki   DH[1] 
+  Path of this File              ---- Monday/ICANN56: Universal Acceptance Steering Group - Co...
+
+40.Name of the File               ---- 27 June 2016 RSSAC ICANN 56 Public Slides 
+  Path of this File              ---- Monday/ICANN56: RSSAC Public Session
+
+41.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 RSSAC Public Session en 
+  Path of this File              ---- Monday/ICANN56: RSSAC Public Session
+
+42.Name of the File               ---- 3 AXFR Wallstrom 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 1)
+
+43.Name of the File               ---- agenda.2016 06 22 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 1)
+
+44.Name of the File               ---- 1 Host Presentation   Juselius 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 1)
+
+45.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Tech Day Part 1 en 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 1)
+
+46.Name of the File               ---- 2 Zonemaster Dufberg 
+  Path of this File              ---- Monday/ICANN56: Tech Day (Part 1)
+
+47.Name of the File               ---- DNSSECWorkshop ICANN56 How Can I Help 2 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+48.Name of the File               ---- Wander ICANN56 DNSSEC Adoption v2 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+49.Name of the File               ---- Lying Makes Negative Answers Cheaper Dani Grant 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+50.Name of the File               ---- Geoff Huston A quick review of DNSSEC Validation in today’s Internet 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+51.Name of the File               ---- Matt Larson ICANN56 KSK roll briefing 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+52.Name of the File               ---- ficora icann56 dnssec 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+53.Name of the File               ---- DNSSECWorkshop ICANN56 DanYork Program Intro Maps 4 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+54.Name of the File               ---- Dan York DNSSEC Encryption Algorithm Agility ICANN56 1 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+55.Name of the File               ---- Geoff Huston DNSSEC Deployment Challenges 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+56.Name of the File               ---- verisign zsk change 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 2)
+
+57.Name of the File               ---- DNSSECWorkshop ICANN56 How Can I Help 2 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+58.Name of the File               ---- Wander ICANN56 DNSSEC Adoption v2 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+59.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 DNSSEC WorkShop en 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+60.Name of the File               ---- Lying Makes Negative Answers Cheaper Dani Grant 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+61.Name of the File               ---- Geoff Huston A quick review of DNSSEC Validation in today’s Internet 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+62.Name of the File               ---- Matt Larson ICANN56 KSK roll briefing 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+63.Name of the File               ---- ficora icann56 dnssec 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+64.Name of the File               ---- DNSSECWorkshop ICANN56 DanYork Program Intro Maps 4 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+65.Name of the File               ---- Dan York DNSSEC Encryption Algorithm Agility ICANN56 1 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+66.Name of the File               ---- Geoff Huston DNSSEC Deployment Challenges 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+67.Name of the File               ---- verisign zsk change 
+  Path of this File              ---- Monday/ICANN56: DNSSEC Workshop (Part 1)
+
+68.Name of the File               ---- ASO:NRO Public Session 
+  Path of this File              ---- Monday/ICANN56: ASO_NRO Public Session
+
+69.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 ASO NRO Public Session en 
+  Path of this File              ---- Monday/ICANN56: ASO_NRO Public Session
+
+70.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Board GAC Recommendations Implementation WG fr 
+  Path of this File              ---- Monday/ICANN56: Board-GAC Recommendations Implementation...
+
+71.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Board GAC Recommendations Implementation WG en 
+  Path of this File              ---- Monday/ICANN56: Board-GAC Recommendations Implementation...
+
+72.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Board GAC Recommendations Implementation WG pt 
+  Path of this File              ---- Monday/ICANN56: Board-GAC Recommendations Implementation...
+
+73.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Board GAC Recommendations Implementation WG ru 
+  Path of this File              ---- Monday/ICANN56: Board-GAC Recommendations Implementation...
+
+74.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Board GAC Recommendations Implementation WG ar 
+  Path of this File              ---- Monday/ICANN56: Board-GAC Recommendations Implementation...
+
+75.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Board GAC Recommendations Implementation WG es 
+  Path of this File              ---- Monday/ICANN56: Board-GAC Recommendations Implementation...
+
+76.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Leadership Work Session Part 1 en
+  Path of this File              ---- Monday/ICANN56: At-Large Leadership Work Session (Part 1...
+
+77.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Leadership Work Session Part 1 fr
+  Path of this File              ---- Monday/ICANN56: At-Large Leadership Work Session (Part 1...
+
+78.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Leadership Work Session Part 1 es
+  Path of this File              ---- Monday/ICANN56: At-Large Leadership Work Session (Part 1...
+
+79.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Welcome  Multistake Ethos Award Pres en 
+  Path of this File              ---- Monday/ICANN56: Welcome & Multistakeholder Ethos Award P...
+
+80.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 PDP on Next Gen gTLD Reg Direct Serv WHOIS pt 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Next Generation...
+
+81.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 PDP on Next Gen gTLD Reg Direct Serv WHOIS ar 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Next Generation...
+
+82.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 PDP on Next Gen gTLD Reg Direct Serv WHOIS fr 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Next Generation...
+
+83.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 PDP on Next Gen gTLD Reg Direct Serv WHOIS zh 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Next Generation...
+
+84.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 PDP on Next Gen gTLD Reg Direct Serv WHOIS en 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Next Generation...
+
+85.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 PDP on Next Gen gTLD Reg Direct Serv WHOIS ru 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Next Generation...
+
+86.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 PDP on Next Gen gTLD Reg Direct Serv WHOIS es 
+  Path of this File              ---- Monday/ICANN56: Cross-Community Session: Next Generation...
+
+87.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Comp, Cons Trust and Cons Choice Rev Team fr 
+  Path of this File              ---- Monday/ICANN56: Competition, Consumer Trust and Consumer...
+
+88.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Comp, Cons Trust and Cons Choice Rev Team ar 
+  Path of this File              ---- Monday/ICANN56: Competition, Consumer Trust and Consumer...
+
+89.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Comp, Cons Trust and Cons Choice Rev Team en 
+  Path of this File              ---- Monday/ICANN56: Competition, Consumer Trust and Consumer...
+
+90.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Comp, Cons Trust and Cons Choice Rev Team pt 
+  Path of this File              ---- Monday/ICANN56: Competition, Consumer Trust and Consumer...
+
+91.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Comp, Cons Trust and Cons Choice Rev Team es 
+  Path of this File              ---- Monday/ICANN56: Competition, Consumer Trust and Consumer...
+
+92.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Leadership Work Session Part 2 es 
+  Path of this File              ---- Monday/ICANN56: At-Large Leadership Work Session (Part 2...
+
+93.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Leadership Work Session Part 2 fr 
+  Path of this File              ---- Monday/ICANN56: At-Large Leadership Work Session (Part 2...
+
+94.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 At Large Leadership Work Session Part 2 en 
+  Path of this File              ---- Monday/ICANN56: At-Large Leadership Work Session (Part 2...
+
+95.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs zh 
+  Path of this File              ---- Monday/ICANN56: Country Codes and Names as Second Level...
+
+96.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs es 
+  Path of this File              ---- Monday/ICANN56: Country Codes and Names as Second Level...
+
+97.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs ar 
+  Path of this File              ---- Monday/ICANN56: Country Codes and Names as Second Level...
+
+98.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs pt 
+  Path of this File              ---- Monday/ICANN56: Country Codes and Names as Second Level...
+
+99.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs ru 
+  Path of this File              ---- Monday/ICANN56: Country Codes and Names as Second Level...
+
+100.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 Country Codes and Names as SLDs fr 
+  Path of this File              ---- Monday/ICANN56: Country Codes and Names as Second Level...
+
+101.Name of the File               ---- TRANSCRIPT I56 Mon27Jun2016 ccNSO Guidelines Review Committee en 
+  Path of this File              ---- Monday/ICANN56: ccNSO Guidelines Review Committee
+
+102.Name of the File               ---- Transcript BC 27 June Helsinki  
+  Path of this File              ---- Monday/ICANN56: GNSO Business Constituency CBUC
+
+103.Name of the File               ---- ICANN56 Guide 
+  Path of this File              ---- Wednesday/ICANN56: Registration Hours
+
+104.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 Review Point for Communique Drafting en 
+  Path of this File              ---- Wednesday/ICANN56: Review Point for Communique Drafting
+
+105.Name of the File               ---- New gTLD F2F Slides 30June2016 
+  Path of this File              ---- Wednesday/ICANN56: GNSO – New gTLD Subsequent Procedures PD...
+
+106.Name of the File               ---- Transcript New gTLD 1 29 June Helsinki 
+  Path of this File              ---- Wednesday/ICANN56: GNSO – New gTLD Subsequent Procedures PD...
+
+107.Name of the File               ---- Transcript NPOC 29 June Helsinki  
+  Path of this File              ---- Wednesday/ICANN56: Non For-Profit Operational Concerns Cons...
+
+108.Name of the File               ---- Transcript New gTLD Part2 29 June Helsinki 
+  Path of this File              ---- Wednesday/ICANN56: GNSO – New gTLD Subsequent Procedures PD..._6
+
+109.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ccNSO Members Meeting Day 2 Part 3 en 
+  Path of this File              ---- Wednesday/ICANN56: ccNSO Members Meeting Day 2 (Part 3)
+
+110.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 GAC Meeting with the GNSO en 
+  Path of this File              ---- Wednesday/ICANN56: GAC meeting with the GNSO
+
+111.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 Funding for the Independent GAC Secretariat en 
+  Path of this File              ---- Wednesday/ICANN56: Funding for the Independent GAC Secretar...
+
+112.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 At Large Leadership WS Part 1 en 
+  Path of this File              ---- Wednesday/ICANN56: At-Large Leadership Work Session (Part 1...
+
+113.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 Country and Other Geographic Names Forum en 
+  Path of this File              ---- Wednesday/ICANN56: Cross-Community Session: Country and Oth...
+
+114.Name of the File               ---- icann56 thick whois irt 1o2 
+  Path of this File              ---- Wednesday/ICANN56: Thick Whois Policy Implementation - Meet...
+
+115.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 ALAC Out and Engag Subcomm en 
+  Path of this File              ---- Wednesday/ICANN56: ALAC Outreach and Engagement Subcommitte...
+
+116.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 CWG Stew, CCWG Acc and GAC Next Steps Session 2 en 
+  Path of this File              ---- Wednesday/ICANN56: CWG Stewarship, CCWG Accountability and...
+
+117.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 At Large Leadership WS Part 2 en 
+  Path of this File              ---- Wednesday/ICANN56: At-Large Leadership Work Session (Part 2...
+
+118.Name of the File               ---- CCWG Framework   Community Session Slides   29 June 
+  Path of this File              ---- Wednesday/ICANN56: Cross-Community Session: Draft Framework...
+
+119.Name of the File               ---- TRANSCRIPT I56 Wed29Jun2016 Draft Framework of Principles for Future CCWGs en 
+  Path of this File              ---- Wednesday/ICANN56: Cross-Community Session: Draft Framework...
+
+120.Name of the File               ---- CCWG Life Cycle   the Stages in Summary 
+  Path of this File              ---- Wednesday/ICANN56: Cross-Community Session: Draft Framework...
+
+121.Name of the File               ---- Draft   Final Framework   June 2016 
+  Path of this File              ---- Wednesday/ICANN56: Cross-Community Session: Draft Framework...
+
+122.Name of the File               ---- ICANN56 Guide 
+  Path of this File              ---- Tuesday/ICANN56: Registration Hours
+
+123.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Cross Community Operational Planning Session en 
+  Path of this File              ---- Tuesday/ICANN56: Cross Community Operational Planning Ses...
+
+124.Name of the File               ---- CCops GSE slides for SOP Final 
+  Path of this File              ---- Tuesday/ICANN56: Cross Community Operational Planning Ses...
+
+125.Name of the File               ---- ICANN 56   Ops Update   HR Strategy Overview 
+  Path of this File              ---- Tuesday/ICANN56: Cross Community Operational Planning Ses...
+
+126.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 At Large Regional Leadership Meeting en 
+  Path of this File              ---- Tuesday/ICANN56: At-Large Regional Leadership Meeting
+
+127.Name of the File               ---- Transcript IPC RR 28 June Helsinki   RrSG edits 
+  Path of this File              ---- Tuesday/ICANN56: Cross-Constituency meeting between the I...
+
+128.Name of the File               ---- 3 TLD OPS Update   Hesselman 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+129.Name of the File               ---- 4 PDP Retirement and reveiw mech 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+130.Name of the File               ---- 9 News from .ua 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+131.Name of the File               ---- 1 Meeting highlights   Reynoso 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+132.Name of the File               ---- 2 cNSO SOP  Seppia 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+133.Name of the File               ---- 5 IANA Update 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+134.Name of the File               ---- 8 ID COUNTRY UPDATE   Manullang 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+135.Name of the File               ---- 6 Wind of change   Juselius 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+136.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 ccNSO Members Meeting Day 1 Part 1 en 
+  Path of this File              ---- Tuesday/ICANN56: ccNSO Members Meeting Day 1 (Part 1)
+
+137.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Future New gTLD Rounds   Policy Development en 
+  Path of this File              ---- Tuesday/ICANN56: Future New gTLDs Rounds: Policy Developm...
+
+138.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Charter for the CCWG on Auction Proceeds en 
+  Path of this File              ---- Tuesday/ICANN56: Cross-Community Session: Charter for the...
+
+139.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Three Character Codes as TLDs en 
+  Path of this File              ---- Tuesday/ICANN56: Three Character Codes as Top Level Domai...
+
+140.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 ALAC and IPC Meeting en 
+  Path of this File              ---- Tuesday/ICANN56: ALAC and IPC Meeting
+
+141.Name of the File               ---- Transcript RYAA 28 June Helsinki 
+  Path of this File              ---- Tuesday/ICANN56: Discussion of the Proposed Amendments to...
+
+142.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Disc of Prop Amend to Base New gTLD RA en 
+  Path of this File              ---- Tuesday/ICANN56: Discussion of the Proposed Amendments to...
+
+143.Name of the File               ---- Cross Comm New gTLD Slides 28June2016 
+  Path of this File              ---- Tuesday/ICANN56: Cross-Community Session: New gTLD Subseq...
+
+144.Name of the File               ---- Transcript IGO INGO IRT 28 June Helsinki 
+  Path of this File              ---- Tuesday/ICANN56: Policy Implementation IRT - IGO_INGO Ide...
+
+145.Name of the File               ---- IIIP IRT 20160628 v4 
+  Path of this File              ---- Tuesday/ICANN56: Policy Implementation IRT - IGO_INGO Ide...
+
+146.Name of the File               ---- TRANSCRIPT I56 Tue28Jun2016 Review Point for Communique Input en 
+  Path of this File              ---- Tuesday/ICANN56: Review point for Communique Input
+
+147.Name of the File               ---- ICANN56 Guide 
+  Path of this File              ---- Thursday/ICANN56: Registration Hours
+
+148.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 ccNSO Council Meeting en 
+  Path of this File              ---- Thursday/ICANN56: ccNSO Council Meeting
+
+149.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 ICANN56 Wrap Up and Planning Ahead for ICANN57 en 
+  Path of this File              ---- Thursday/ICANN56: ICANN56 Policy Forum Wrap-Up & Looking A...
+
+150.Name of the File               ---- ICANN56 Feedback and Planning Session 30Jun16 
+  Path of this File              ---- Thursday/ICANN56: ICANN56 Policy Forum Wrap-Up & Looking A...
+
+151.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 GAC Meeting with SSAC en 
+  Path of this File              ---- Thursday/ICANN56: GAC meeting with the SSAC
+
+152.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 At Large Leadership Wrap Up Session Part 2 en 
+  Path of this File              ---- Thursday/ICANN56: At-Large Leadership Wrap Up Session Part..._2
+
+153.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 Review Points for Communique Input en 
+  Path of this File              ---- Thursday/ICANN56: Review points for Communique input
+
+154.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 IGO INGO Names and Acronyms Protections en 
+  Path of this File              ---- Thursday/ICANN56: IGO_INGO Names and Acronyms Protections
+
+155.Name of the File               ---- RPM WG session slides   Helsinki 2016 
+  Path of this File              ---- Thursday/ICANN56: GNSO Review of All Rights Protection Mec...
+
+156.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 Cross Comm Session Work Sched and Manag en 
+  Path of this File              ---- Thursday/ICANN56: Cross-Community Session: Workload Schedu...
+
+157.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 GAC Participation in the NomCom WG en 
+  Path of this File              ---- Thursday/ICANN56: GAC participation in NomCom Working Grou...
+
+158.Name of the File               ---- TRANSCRIPT I56 Thu30Jun2016 At Large Technology Taskforce en 
+  Path of this File              ---- Thursday/ICANN56: At-Large Technology Taskforce
 

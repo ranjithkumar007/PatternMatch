@@ -1,3 +1,3 @@
-Name of the Directory - /home/ranjithkumar/hargup/Monday
+Name of the Directory - Monday
 
-Total number of times jurisdiction appeared in the above Directry is  18
+Total number of times jurisdiction appeared in the above Directry is  20
